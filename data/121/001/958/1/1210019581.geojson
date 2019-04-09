@@ -1,0 +1,71 @@
+{
+  "id": 1210019581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.45419,6.38591,100.45419,6.38591",
+    "geom:latitude":6.38591,
+    "geom:longitude":100.45419,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Kangar",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736295,
+    "gn:latitude":6.38591,
+    "gn:longitude":100.45419,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kangar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kangar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736295
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"809d97484dece736bda7a21208027e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1210019581,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1210019581,
+    "wof:lastmodified":1537673735,
+    "wof:name":"Kampung Kangar",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.45419,
+    6.38591,
+    100.45419,
+    6.38591
+],
+  "geometry": {"coordinates":[100.45419,6.38591],"type":"Point"}
+}

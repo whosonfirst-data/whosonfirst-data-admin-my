@@ -1,0 +1,67 @@
+{
+  "id": 1259364127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.51667,1.46667,111.51667,1.46667",
+    "geom:latitude":1.46667,
+    "geom:longitude":111.51667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Buleng Ulu",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1778193,
+    "gn:latitude":1.46667,
+    "gn:longitude":111.51667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Buleng Ulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1778193
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"44232354c0c63dfa4c480b66a649e8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696391,
+            "locality_id":1259364127,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1259364127,
+    "wof:lastmodified":1537028929,
+    "wof:name":"Buleng Ulu",
+    "wof:parent_id":1108696391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.51667,
+    1.46667,
+    111.51667,
+    1.46667
+],
+  "geometry": {"coordinates":[111.51667,1.46667],"type":"Point"}
+}

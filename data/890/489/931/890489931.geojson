@@ -1,0 +1,82 @@
+{
+  "id": 890489931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.408542,4.412199,102.408542,4.412199",
+    "geom:latitude":4.412199,
+    "geom:longitude":102.408542,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kuala Tahan"
+    ],
+    "name:eng_x_preferred":[
+        "Kuala Tahan"
+    ],
+    "name:may_x_preferred":[
+        "Kuala Tahan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bb2\u0bbe \u0ba4\u0b95\u0bbe\u0ba9\u0bcd"
+    ],
+    "qs:name":"Kuala Tahan",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos":437,
+    "qs:photos_1k":89,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":437,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":158,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1151826,
+        "qs:id":1112060,
+        "wd:id":"Q6441061",
+        "wk:page":"Kuala Tahan"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054781,
+    "wof:geomhash":"f106fbadca98cd485825995d5af2fa3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":890489931,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":890489931,
+    "wof:lastmodified":1527792860,
+    "wof:name":"Kuala Tahan",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.408542,
+    4.412199,
+    102.408542,
+    4.412199
+],
+  "geometry": {"coordinates":[102.408542,4.412199],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209412531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3702,4.1255,102.3702,4.1255",
+    "geom:latitude":4.1255,
+    "geom:longitude":102.3702,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Ara",
+    "gn:country_code":"MY",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564640,
+    "gn:latitude":4.1255,
+    "gn:longitude":102.3702,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Ara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564640
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cd52e47ca06e4d1ef8674b8adf14ccdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209412531
+        }
+    ],
+    "wof:id":1209412531,
+    "wof:lastmodified":1537674310,
+    "wof:name":"Kampung Ara",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3702,
+    4.1255,
+    102.3702,
+    4.1255
+],
+  "geometry": {"coordinates":[102.3702,4.1255],"type":"Point"}
+}

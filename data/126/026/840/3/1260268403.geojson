@@ -1,0 +1,70 @@
+{
+  "id": 1260268403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.25115,6.5373,100.25115,6.5373",
+    "geom:latitude":6.5373,
+    "geom:longitude":100.25115,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Pulau Puchong",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804264,
+    "gn:latitude":6.5373,
+    "gn:longitude":100.25115,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Pulau Puchong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pulau Puchong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804264
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"732a4e8c8740975c6ba1fc66f857e81c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1260268403,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1260268403,
+    "wof:lastmodified":1537674230,
+    "wof:name":"Kampung Pulau Puchong",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.25115,
+    6.5373,
+    100.25115,
+    6.5373
+],
+  "geometry": {"coordinates":[100.25115,6.5373],"type":"Point"}
+}

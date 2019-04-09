@@ -1,0 +1,95 @@
+{
+  "id": 102023619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00108,
+    "geom:area_square_m":13270431.419019,
+    "geom:bbox":"100.162353516,6.27161806431,100.217285156,6.32621808201",
+    "geom:latitude":6.301345,
+    "geom:longitude":100.189819,
+    "gn:latitude":6.34026,
+    "gn:longitude":100.19075,
+    "iso:country":"MY",
+    "lbl:latitude":6.299885,
+    "lbl:longitude":100.19989,
+    "mps:latitude":6.299885,
+    "mps:longitude":100.19989,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Simpang Empat"
+    ],
+    "name:msa_x_preferred":[
+        "Simpang Empat"
+    ],
+    "name:unk_x_variant":[
+        "Simpang Ampat"
+    ],
+    "qs:a0":"Malaysia",
+    "qs:a1":"*Perlis",
+    "qs:a1r":"*",
+    "qs:a2":"Perlis",
+    "qs:id":0,
+    "qs:la":"Sanglang",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Simpang Empat",
+    "qs:loc_alt":"Simpang Empat",
+    "qs:loc_lc":"1736297",
+    "qs:pop":0,
+    "qs:source":"Squattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[
+        102023603
+    ],
+    "wof:concordances":{
+        "gn:id":1736297,
+        "gp:id":1155126,
+        "qs:id":308416,
+        "qs_pg:id":308416,
+        "wd:id":"Q7520577",
+        "wk:page":"Simpang Empat, Perlis"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"34f5d0a7b2782b860e6c25021b3f1222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":102023619,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":102023619,
+    "wof:lastmodified":1527636453,
+    "wof:name":"Simpang Empat",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.162353516,
+    6.27161806431,
+    100.217285156,
+    6.32621808201
+],
+  "geometry": {"coordinates":[[[[100.162353516,6.29345876039],[100.162353516,6.30437876433],[100.173339844,6.30437876433],[100.173339844,6.29345876039],[100.162353516,6.29345876039]]],[[[100.184326172,6.27161806431],[100.184326172,6.28253852693],[100.184326172,6.29345876039],[100.184326172,6.30437876433],[100.19531249999999,6.30437876433],[100.19531249999999,6.31529853833],[100.206298828,6.31529853833],[100.217285156,6.31529853833],[100.217285156,6.30437876433],[100.206298828,6.30437876433],[100.206298828,6.29345876039],[100.19531249999999,6.29345876039],[100.19531249999999,6.28253852693],[100.19531249999999,6.27161806431],[100.184326172,6.27161806431]]],[[[100.173339844,6.30437876433],[100.173339844,6.31529853833],[100.173339844,6.32621808201],[100.184326172,6.32621808201],[100.184326172,6.31529853833],[100.184326172,6.30437876433],[100.173339844,6.30437876433]]]],"type":"MultiPolygon"}
+}

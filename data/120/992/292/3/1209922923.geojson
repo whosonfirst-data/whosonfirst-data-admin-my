@@ -1,0 +1,70 @@
+{
+  "id": 1209922923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.60434,5.14849,100.60434,5.14849",
+    "geom:latitude":5.14849,
+    "geom:longitude":100.60434,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Paya Salak",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854878,
+    "gn:latitude":5.14849,
+    "gn:longitude":100.60434,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Paya Salak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Paya Salak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854878
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8dd88e021d1fa3c4deb081320632eed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490371,
+            "locality_id":1209922923,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1209922923,
+    "wof:lastmodified":1537674261,
+    "wof:name":"Kampung Paya Salak",
+    "wof:parent_id":890490371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.60434,
+    5.14849,
+    100.60434,
+    5.14849
+],
+  "geometry": {"coordinates":[100.60433999999999,5.14849],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344045397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.65,1.53333,111.65,1.53333",
+    "geom:latitude":1.53333,
+    "geom:longitude":111.65,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Temedak",
+    "gn:country_code":"MY",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1740470,
+    "gn:latitude":1.53333,
+    "gn:longitude":111.65,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Temedak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1740470
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"44484e33bd727cc17260011eec1344f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696391,
+            "locality_id":1344045397,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1344045397,
+    "wof:lastmodified":1536897240,
+    "wof:name":"Temedak",
+    "wof:parent_id":1108696391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.65,
+    1.53333,
+    111.65,
+    1.53333
+],
+  "geometry": {"coordinates":[111.65000000000001,1.53333],"type":"Point"}
+}

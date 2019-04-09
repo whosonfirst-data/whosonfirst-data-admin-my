@@ -1,0 +1,73 @@
+{
+  "id": 1343455405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9812,3.7721,100.9812,3.7721",
+    "geom:latitude":3.7721,
+    "geom:longitude":100.9812,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Kota",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768139,
+    "gn:latitude":3.7721,
+    "gn:longitude":100.9812,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kota"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768139
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8f93b5c3be569ca9e6bbf8e3489d6ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1343455405,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1343455405,
+    "wof:lastmodified":1537674065,
+    "wof:name":"Kampung Kota",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9812,
+    3.7721,
+    100.9812,
+    3.7721
+],
+  "geometry": {"coordinates":[100.9812,3.7721],"type":"Point"}
+}

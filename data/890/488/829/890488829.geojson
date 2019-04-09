@@ -1,0 +1,87 @@
+{
+  "id": 890488829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2092,4.6111,103.2092,4.6111",
+    "geom:latitude":4.6111,
+    "geom:longitude":103.2092,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bandar Al-Muktafi Billah Shah"
+    ],
+    "name:eng_x_preferred":[
+        "Bandar Al-Muktafi Billah Shah"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Al-Muktafi Billah Shah"
+    ],
+    "name:may_x_preferred":[
+        "Bandar Al-Muktafi Billah Shah"
+    ],
+    "name:msa_x_preferred":[
+        "Bandar Al-Muktafi Billah Shah"
+    ],
+    "qs:name":"Bandar Al-Muktafi Billah Shah",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Terengganu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":129,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622196,
+        "gp:id":56119814,
+        "qs:id":368521,
+        "wd:id":"Q4205505",
+        "wk:page":"Bandar Al-Muktafi Billah Shah"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054734,
+    "wof:geomhash":"9dde01892cf83dda406287a2d6694569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":890488829,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":890488829,
+    "wof:lastmodified":1527787075,
+    "wof:name":"Bandar Al-Muktafi Billah Shah",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2092,
+    4.6111,
+    103.2092,
+    4.6111
+],
+  "geometry": {"coordinates":[103.2092,4.6111],"type":"Point"}
+}

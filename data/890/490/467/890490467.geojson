@@ -1,0 +1,69 @@
+{
+  "id": 890490467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.757326,4.855734,100.757326,4.855734",
+    "geom:latitude":4.855734,
+    "geom:longitude":100.757326,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Tupai",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":632,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":148,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014527,
+        "qs:id":1316960,
+        "wk:page":"T\u016bpai"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054811,
+    "wof:geomhash":"173baff5c9bbc193120c6b2fe4825f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490803,
+            "localadmin_id":890490467,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890490467,
+    "wof:lastmodified":1527734159,
+    "wof:name":"Tupai",
+    "wof:parent_id":890490803,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.757326,
+    4.855734,
+    100.757326,
+    4.855734
+],
+  "geometry": {"coordinates":[100.75732600000001,4.855734],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327324385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.21003,6.3405,100.21003,6.3405",
+    "geom:latitude":6.3405,
+    "geom:longitude":100.21003,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Tok Guar",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819188,
+    "gn:latitude":6.3405,
+    "gn:longitude":100.21003,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Tok Guar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tok Guar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819188
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a04638c262df876a634525a3a886c7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1327324385,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1327324385,
+    "wof:lastmodified":1537674247,
+    "wof:name":"Kampung Tok Guar",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.21003,
+    6.3405,
+    100.21003,
+    6.3405
+],
+  "geometry": {"coordinates":[100.21003,6.3405],"type":"Point"}
+}

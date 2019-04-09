@@ -1,0 +1,68 @@
+{
+  "id": 1225823527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.83333,4.08333,113.83333,4.08333",
+    "geom:latitude":4.08333,
+    "geom:longitude":113.83333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Manjelin",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767092,
+    "gn:latitude":4.08333,
+    "gn:longitude":113.83333,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kampong Manjelin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767092,
+        "wk:page":"Kampung_Manjelin"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c4d883d9832591600df72554ff4b81b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488483,
+            "locality_id":1225823527,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1225823527,
+    "wof:lastmodified":1537569873,
+    "wof:name":"Kampong Manjelin",
+    "wof:parent_id":890488483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.83333,
+    4.08333,
+    113.83333,
+    4.08333
+],
+  "geometry": {"coordinates":[113.83333,4.08333],"type":"Point"}
+}

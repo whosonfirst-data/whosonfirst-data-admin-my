@@ -1,0 +1,70 @@
+{
+  "id": 1360271675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3894,4.5171,103.3894,4.5171",
+    "geom:latitude":4.5171,
+    "geom:longitude":103.3894,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bukit Pahang Division",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7622183,
+    "gn:latitude":4.5171,
+    "gn:longitude":103.3894,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bukit Pahang Division",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bukit Pahang Division"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622183
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"22944451a8439a4ea911656e1230f9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "locality_id":1360271675,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1360271675,
+    "wof:lastmodified":1537674338,
+    "wof:name":"Bukit Pahang Division",
+    "wof:parent_id":890490801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3894,
+    4.5171,
+    103.3894,
+    4.5171
+],
+  "geometry": {"coordinates":[103.38939999999999,4.5171],"type":"Point"}
+}

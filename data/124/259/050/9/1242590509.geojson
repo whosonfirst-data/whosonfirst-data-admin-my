@@ -1,0 +1,70 @@
+{
+  "id": 1242590509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.57829,5.93283,100.57829,5.93283",
+    "geom:latitude":5.93283,
+    "geom:longitude":100.57829,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Bukit Tegor",
+    "gn:country_code":"MY",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6856295,
+    "gn:latitude":5.93283,
+    "gn:longitude":100.57829,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Bukit Tegor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Tegor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6856295
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0131daaa6ea57cbd6594a97966495a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489109,
+            "locality_id":1242590509,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1242590509,
+    "wof:lastmodified":1537674265,
+    "wof:name":"Kampung Bukit Tegor",
+    "wof:parent_id":890489109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.57829,
+    5.93283,
+    100.57829,
+    5.93283
+],
+  "geometry": {"coordinates":[100.57829,5.93283],"type":"Point"}
+}

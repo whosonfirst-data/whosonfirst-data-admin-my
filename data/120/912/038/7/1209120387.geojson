@@ -1,0 +1,64 @@
+{
+  "id": 1209120387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3259,1.8368,103.3259,1.8368",
+    "geom:latitude":1.8368,
+    "geom:longitude":103.3259,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Batu Setengah",
+    "gn:country_code":"MY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7620458,
+    "gn:latitude":1.8368,
+    "gn:longitude":103.3259,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Batu Setengah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Setengah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7620458
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cc238422672317fa892c524e991930bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209120387
+        }
+    ],
+    "wof:id":1209120387,
+    "wof:lastmodified":1537674336,
+    "wof:name":"Kampung Batu Setengah",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3259,
+    1.8368,
+    103.3259,
+    1.8368
+],
+  "geometry": {"coordinates":[103.3259,1.8368],"type":"Point"}
+}

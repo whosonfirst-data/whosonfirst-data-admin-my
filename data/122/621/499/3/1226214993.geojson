@@ -1,0 +1,74 @@
+{
+  "id": 1226214993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5481,5.8685,116.5481,5.8685",
+    "geom:latitude":5.8685,
+    "geom:longitude":116.5481,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tungou",
+    "gn:country_code":"MY",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762425,
+    "gn:latitude":5.8685,
+    "gn:longitude":116.5481,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tungou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tungou"
+    ],
+    "name:und_x_variant":[
+        "Tungau",
+        "Kampong Tungau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762425
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"940260dd66ce46129a2b8d8f5a52df3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696525,
+            "locality_id":1226214993,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226214993,
+    "wof:lastmodified":1537673815,
+    "wof:name":"Kampung Tungou",
+    "wof:parent_id":1108696525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5481,
+    5.8685,
+    116.5481,
+    5.8685
+],
+  "geometry": {"coordinates":[116.54810000000001,5.8685],"type":"Point"}
+}

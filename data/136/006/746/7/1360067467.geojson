@@ -1,0 +1,73 @@
+{
+  "id": 1360067467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.7,5.36667,115.7,5.36667",
+    "geom:latitude":5.36667,
+    "geom:longitude":115.7,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Kandu",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768610,
+    "gn:latitude":5.36667,
+    "gn:longitude":115.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Kandu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kandu",
+        "Kasaga",
+        "Kampong Kandu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768610
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9c8603b3071ddaf7ce0883550f76b8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696385,
+            "locality_id":1360067467,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1360067467,
+    "wof:lastmodified":1537674086,
+    "wof:name":"Kampong Kandu",
+    "wof:parent_id":1108696385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.7,
+    5.36667,
+    115.7,
+    5.36667
+],
+  "geometry": {"coordinates":[115.7,5.36667],"type":"Point"}
+}

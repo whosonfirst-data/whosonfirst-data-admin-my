@@ -1,0 +1,70 @@
+{
+  "id": 1327406423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.662,6.7533,116.662,6.7533",
+    "geom:latitude":6.7533,
+    "geom:longitude":116.662,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Rita",
+    "gn:country_code":"MY",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7784980,
+    "gn:latitude":6.7533,
+    "gn:longitude":116.662,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Rita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7784980
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"44d238951fecb3064d0d6e293e52a62b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1327406423,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327406423,
+    "wof:lastmodified":1537674380,
+    "wof:name":"Kampung Rita",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.662,
+    6.7533,
+    116.662,
+    6.7533
+],
+  "geometry": {"coordinates":[116.66200000000001,6.7533],"type":"Point"}
+}

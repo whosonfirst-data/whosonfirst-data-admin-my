@@ -1,0 +1,70 @@
+{
+  "id": 1310694155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2231,2.8896,103.2231,2.8896",
+    "geom:latitude":2.8896,
+    "geom:longitude":103.2231,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rancangan Pengumpulan Semula Kedaik",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7850290,
+    "gn:latitude":2.8896,
+    "gn:longitude":103.2231,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Rancangan Pengumpulan Semula Kedaik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Rancangan Pengumpulan Semula Kedaik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7850290
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8add6cefdd5ccccb5586e65ece90785d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1310694155,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1310694155,
+    "wof:lastmodified":1537674431,
+    "wof:name":"Rancangan Pengumpulan Semula Kedaik",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2231,
+    2.8896,
+    103.2231,
+    2.8896
+],
+  "geometry": {"coordinates":[103.2231,2.8896],"type":"Point"}
+}

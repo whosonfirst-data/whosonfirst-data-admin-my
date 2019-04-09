@@ -1,0 +1,70 @@
+{
+  "id": 1193257695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1963,5.2244,103.1963,5.2244",
+    "geom:latitude":5.2244,
+    "geom:longitude":103.1963,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Taman Istiqomah",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7608740,
+    "gn:latitude":5.2244,
+    "gn:longitude":103.1963,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Istiqomah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Istiqomah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7608740
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8a8a995fc508925b9d2b10ed8381b161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490535,
+            "locality_id":1193257695,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1193257695,
+    "wof:lastmodified":1537674327,
+    "wof:name":"Taman Istiqomah",
+    "wof:parent_id":890490535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1963,
+    5.2244,
+    103.1963,
+    5.2244
+],
+  "geometry": {"coordinates":[103.19629999999999,5.2244],"type":"Point"}
+}

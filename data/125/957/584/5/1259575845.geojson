@@ -1,0 +1,70 @@
+{
+  "id": 1259575845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9871,2.958,102.9871,2.958",
+    "geom:latitude":2.958,
+    "geom:longitude":102.9871,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Keratung Lapan",
+    "gn:country_code":"MY",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697740,
+    "gn:latitude":2.958,
+    "gn:longitude":102.9871,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Keratung Lapan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Keratung Lapan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697740
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"eac3cf66dbaee29af669edc3ae911061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1259575845,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1259575845,
+    "wof:lastmodified":1537674368,
+    "wof:name":"Keratung Lapan",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9871,
+    2.958,
+    102.9871,
+    2.958
+],
+  "geometry": {"coordinates":[102.9871,2.958],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259775083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9192,4.0263,100.9192,4.0263",
+    "geom:latitude":4.0263,
+    "geom:longitude":100.9192,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Permatang Guntong",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765568,
+    "gn:latitude":4.0263,
+    "gn:longitude":100.9192,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Permatang Guntong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Permatang Guntong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Permatang Guntong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765568
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bfcae5b4bbb479b83297b952e36c432b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1259775083,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1259775083,
+    "wof:lastmodified":1537673959,
+    "wof:name":"Kampung Permatang Guntong",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9192,
+    4.0263,
+    100.9192,
+    4.0263
+],
+  "geometry": {"coordinates":[100.9192,4.0263],"type":"Point"}
+}

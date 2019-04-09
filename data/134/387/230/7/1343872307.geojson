@@ -1,0 +1,70 @@
+{
+  "id": 1343872307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6133,2.0084,102.6133,2.0084",
+    "geom:latitude":2.0084,
+    "geom:longitude":102.6133,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Bakar Tengah",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536941,
+    "gn:latitude":2.0084,
+    "gn:longitude":102.6133,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Parit Bakar Tengah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Bakar Tengah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536941
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e5c103214bcee85a8e9b638e9d691cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1343872307,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1343872307,
+    "wof:lastmodified":1537674466,
+    "wof:name":"Kampung Parit Bakar Tengah",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6133,
+    2.0084,
+    102.6133,
+    2.0084
+],
+  "geometry": {"coordinates":[102.6133,2.0084],"type":"Point"}
+}

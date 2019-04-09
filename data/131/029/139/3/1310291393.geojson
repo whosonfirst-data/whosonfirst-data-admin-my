@@ -1,0 +1,73 @@
+{
+  "id": 1310291393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9598,5.169,102.9598,5.169",
+    "geom:latitude":5.169,
+    "geom:longitude":102.9598,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Macang Gerehem",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767201,
+    "gn:latitude":5.169,
+    "gn:longitude":102.9598,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Macang Gerehem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Macang Gerehem"
+    ],
+    "name:und_x_variant":[
+        "Kampong Machang Gerehem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767201
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c6d262f5443257d56991fb9de94d150f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1310291393,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1310291393,
+    "wof:lastmodified":1537674026,
+    "wof:name":"Kampung Macang Gerehem",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9598,
+    5.169,
+    102.9598,
+    5.169
+],
+  "geometry": {"coordinates":[102.9598,5.169],"type":"Point"}
+}

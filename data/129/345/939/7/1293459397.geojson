@@ -1,0 +1,73 @@
+{
+  "id": 1293459397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.2091,6.1162,116.2091,6.1162",
+    "geom:latitude":6.1162,
+    "geom:longitude":116.2091,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Giling",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769308,
+    "gn:latitude":6.1162,
+    "gn:longitude":116.2091,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Giling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Giling"
+    ],
+    "name:und_x_variant":[
+        "Kampong Giling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769308
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c408ff71f2d856a1610e7d6981f71274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1293459397,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293459397,
+    "wof:lastmodified":1537674113,
+    "wof:name":"Kampung Giling",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.2091,
+    6.1162,
+    116.2091,
+    6.1162
+],
+  "geometry": {"coordinates":[116.20910000000001,6.1162],"type":"Point"}
+}

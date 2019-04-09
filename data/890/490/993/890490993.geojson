@@ -1,0 +1,70 @@
+{
+  "id": 890490993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.341667,5.54141,101.341667,5.54141",
+    "geom:latitude":5.54141,
+    "geom:longitude":101.341667,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Gerik",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos":138,
+    "qs:photos_1k":28,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":190,
+    "qs:photos_sr":3,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":446,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014100,
+        "qs:id":1190902,
+        "wd:id":"Q5550859",
+        "wk:page":"Gerik"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054835,
+    "wof:geomhash":"99e0d65ae4b9cf7c5b99de43f95ab8c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489739,
+            "localadmin_id":890490993,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890490993,
+    "wof:lastmodified":1527734157,
+    "wof:name":"Gerik",
+    "wof:parent_id":890489739,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.341667,
+    5.54141,
+    101.341667,
+    5.54141
+],
+  "geometry": {"coordinates":[101.341667,5.54141],"type":"Point"}
+}

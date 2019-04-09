@@ -1,0 +1,73 @@
+{
+  "id": 1309694565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5371,5.8938,116.5371,5.8938",
+    "geom:latitude":5.8938,
+    "geom:longitude":116.5371,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Taruvad",
+    "gn:country_code":"MY",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763283,
+    "gn:latitude":5.8938,
+    "gn:longitude":116.5371,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Taruvad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Taruvad"
+    ],
+    "name:und_x_variant":[
+        "Kampong Taruvad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763283
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4cd45114cd3089f9ed77e6586ea57fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":1309694565,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309694565,
+    "wof:lastmodified":1537673853,
+    "wof:name":"Kampung Taruvad",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5371,
+    5.8938,
+    116.5371,
+    5.8938
+],
+  "geometry": {"coordinates":[116.5371,5.8938],"type":"Point"}
+}

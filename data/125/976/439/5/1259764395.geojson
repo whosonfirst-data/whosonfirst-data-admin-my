@@ -1,0 +1,67 @@
+{
+  "id": 1259764395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.43333,2.1,111.43333,2.1",
+    "geom:latitude":2.1,
+    "geom:longitude":111.43333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Bujang",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748065,
+    "gn:latitude":2.1,
+    "gn:longitude":111.43333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Bujang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748065
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9064197f6d8f7ee5fe139ade5217843f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488261,
+            "locality_id":1259764395,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1259764395,
+    "wof:lastmodified":1536950891,
+    "wof:name":"Rumah Bujang",
+    "wof:parent_id":890488261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.43333,
+    2.1,
+    111.43333,
+    2.1
+],
+  "geometry": {"coordinates":[111.43333,2.1],"type":"Point"}
+}

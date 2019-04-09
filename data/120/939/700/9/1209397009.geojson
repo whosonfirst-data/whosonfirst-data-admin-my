@@ -1,0 +1,64 @@
+{
+  "id": 1209397009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.2124,6.3139,117.2124,6.3139",
+    "geom:latitude":6.3139,
+    "geom:longitude":117.2124,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Simbar",
+    "gn:country_code":"MY",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787137,
+    "gn:latitude":6.3139,
+    "gn:longitude":117.2124,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Simbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Simbar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787137
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"845f0234b6b34d7755b043dd9d37f190",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209397009
+        }
+    ],
+    "wof:id":1209397009,
+    "wof:lastmodified":1537674382,
+    "wof:name":"Kampung Simbar",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.2124,
+    6.3139,
+    117.2124,
+    6.3139
+],
+  "geometry": {"coordinates":[117.2124,6.3139],"type":"Point"}
+}

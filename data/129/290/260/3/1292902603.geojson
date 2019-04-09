@@ -1,0 +1,70 @@
+{
+  "id": 1292902603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2422,3.1141,102.2422,3.1141",
+    "geom:latitude":3.1141,
+    "geom:longitude":102.2422,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Baharu Sabon",
+    "gn:country_code":"MY",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7691747,
+    "gn:latitude":3.1141,
+    "gn:longitude":102.2422,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Baharu Sabon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Sabon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7691747
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"22f587e5849ed5ac88389f1eaa5379aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1292902603,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1292902603,
+    "wof:lastmodified":1537674362,
+    "wof:name":"Kampung Baharu Sabon",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2422,
+    3.1141,
+    102.2422,
+    3.1141
+],
+  "geometry": {"coordinates":[102.2422,3.1141],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 85784451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14241361.351561,
+    "geom:bbox":"100.27454,5.469669,100.27454,5.469669",
+    "geom:latitude":5.469669,
+    "geom:longitude":100.27454,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":5.469669,
+    "lbl:longitude":100.27454,
+    "mps:latitude":5.471962,
+    "mps:longitude":100.266305,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:und_x_preferred":[
+        "Taman Chee Seng"
+    ],
+    "name:unk_x_variant":[
+        "Taman Chee Seng"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1741550,
+    "qs:gn_nam_loc":"tanjung tokong",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":524,
+    "qs:local_sum":780,
+    "qs:localhoods":2,
+    "qs:name":"Taman Chee Seng",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:name_adm2":"Timur Laut",
+    "qs:name_lau":"Bandar Tanjung Bunga",
+    "qs:name_local":"Tanjung Tokong",
+    "qs:photo_max":44,
+    "qs:photo_sum":256,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346304,
+    "qs:woe_adm2":56013581,
+    "qs:woe_lau":56014300,
+    "qs:woe_local":1154312,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        1108696537,
+        85675127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56036456,
+        "qs:id":1120021
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"63dabb445e48b181d09757fb03bedc00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696537,
+            "locality_id":-1,
+            "neighbourhood_id":85784451,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":85784451,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860609,
+    "wof:name":"Taman Chee Seng",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.27454,
+    5.469669,
+    100.27454,
+    5.469669
+],
+  "geometry": {"coordinates":[100.27454,5.469669],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276524245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.031,5.0758,103.031,5.0758",
+    "geom:latitude":5.0758,
+    "geom:longitude":103.031,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Bukit Tok Bat",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770083,
+    "gn:latitude":5.0758,
+    "gn:longitude":103.031,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bukit Tok Bat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Tok Bat"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bukit Tok Bat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770083
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"86ced41ec8865ef40185865ace9f8c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1276524245,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1276524245,
+    "wof:lastmodified":1537674147,
+    "wof:name":"Kampung Bukit Tok Bat",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.031,
+    5.0758,
+    103.031,
+    5.0758
+],
+  "geometry": {"coordinates":[103.03100000000001,5.0758],"type":"Point"}
+}

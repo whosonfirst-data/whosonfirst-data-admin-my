@@ -1,0 +1,70 @@
+{
+  "id": 1293100473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.11942,6.20087,102.11942,6.20087",
+    "geom:latitude":6.20087,
+    "geom:longitude":102.11942,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Pak Kerau",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068190,
+    "gn:latitude":6.20087,
+    "gn:longitude":102.11942,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Pak Kerau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pak Kerau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068190
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e031938706e789f2148b5d1f022cfe49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489803,
+            "locality_id":1293100473,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1293100473,
+    "wof:lastmodified":1537674279,
+    "wof:name":"Kampung Pak Kerau",
+    "wof:parent_id":890489803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.11942,
+    6.20087,
+    102.11942,
+    6.20087
+],
+  "geometry": {"coordinates":[102.11942000000001,6.20087],"type":"Point"}
+}

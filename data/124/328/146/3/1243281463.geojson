@@ -1,0 +1,70 @@
+{
+  "id": 1243281463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9381,1.8417,102.9381,1.8417",
+    "geom:latitude":1.8417,
+    "geom:longitude":102.9381,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Tanjong",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857508,
+    "gn:latitude":1.8417,
+    "gn:longitude":102.9381,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Tanjong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Tanjong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857508
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0f0eaaaf98100865e02d503a32c4944d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1243281463,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1243281463,
+    "wof:lastmodified":1537674443,
+    "wof:name":"Taman Tanjong",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9381,
+    1.8417,
+    102.9381,
+    1.8417
+],
+  "geometry": {"coordinates":[102.93810000000001,1.8417],"type":"Point"}
+}

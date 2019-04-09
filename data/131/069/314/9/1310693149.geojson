@@ -1,0 +1,70 @@
+{
+  "id": 1310693149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1672,3.9998,101.1672,3.9998",
+    "geom:latitude":3.9998,
+    "geom:longitude":101.1672,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taman Orkid",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793842,
+    "gn:latitude":3.9998,
+    "gn:longitude":101.1672,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Orkid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Orkid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793842
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"42711186b447618c7cee3f7678137ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1310693149,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1310693149,
+    "wof:lastmodified":1537674389,
+    "wof:name":"Taman Orkid",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1672,
+    3.9998,
+    101.1672,
+    3.9998
+],
+  "geometry": {"coordinates":[101.16719999999999,3.9998],"type":"Point"}
+}

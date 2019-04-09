@@ -1,0 +1,75 @@
+{
+  "id": 1309724899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.75567,6.34168,99.75567,6.34168",
+    "geom:latitude":6.34168,
+    "geom:longitude":99.75567,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Simpang Kenyum",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804718,
+    "gn:latitude":6.34168,
+    "gn:longitude":99.75567,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Simpang Kenyum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696443,
+        85675137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804718
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e549857764c65fc78eae2faa559b34cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":1309724899,
+            "region_id":85675133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":1309724899,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1309724899,
+    "wof:lastmodified":1537045747,
+    "wof:name":"Simpang Kenyum",
+    "wof:parent_id":1108696443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.75567,
+    6.34168,
+    99.75567,
+    6.34168
+],
+  "geometry": {"coordinates":[99.75566999999999,6.34168],"type":"Point"}
+}

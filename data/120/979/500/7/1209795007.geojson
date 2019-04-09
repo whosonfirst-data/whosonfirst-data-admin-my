@@ -1,0 +1,70 @@
+{
+  "id": 1209795007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.147,4.9923,103.147,4.9923",
+    "geom:latitude":4.9923,
+    "geom:longitude":103.147,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Daun Hangus",
+    "gn:country_code":"MY",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7470962,
+    "gn:latitude":4.9923,
+    "gn:longitude":103.147,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Daun Hangus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Daun Hangus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7470962
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"819e1e46d5ca89ccd02d96430d9e19ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1209795007,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1209795007,
+    "wof:lastmodified":1537674302,
+    "wof:name":"Kampung Daun Hangus",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.147,
+    4.9923,
+    103.147,
+    4.9923
+],
+  "geometry": {"coordinates":[103.14700000000001,4.9923],"type":"Point"}
+}

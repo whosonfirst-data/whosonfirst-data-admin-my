@@ -1,0 +1,113 @@
+{
+  "id": 85783839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11625957.249009,
+    "geom:bbox":"101.653796,3.094846,101.653796,3.094846",
+    "geom:latitude":3.094846,
+    "geom:longitude":101.653796,
+    "gn:latitude":2.82583,
+    "gn:longitude":102.32849,
+    "iso:country":"MY",
+    "lbl:latitude":3.094846,
+    "lbl:longitude":101.653796,
+    "mps:latitude":3.088913,
+    "mps:longitude":101.652219,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:msa_x_preferred":[
+        "Bukit Gombang"
+    ],
+    "name:und_x_preferred":[
+        "Bukit Gasing"
+    ],
+    "name:unk_x_variant":[
+        "Bukit Gasing"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1735158,
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Bukit Gombang",
+    "qs:local_max":2115,
+    "qs:local_sum":11887,
+    "qs:localhoods":21,
+    "qs:name":"Bukit Gasing",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:name_adm2":"Petaling",
+    "qs:name_lau":"Sungai Buloh",
+    "qs:name_local":"Petaling Jaya",
+    "qs:photo_max":156,
+    "qs:photo_sum":783,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":39,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346306,
+    "qs:woe_adm2":56013632,
+    "qs:woe_lau":56013919,
+    "qs:woe_local":1155026,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023395,
+        890490605,
+        85675163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797041,
+        "gp:id":56015089,
+        "qs:id":361639,
+        "qs_pg:id":361639
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"70fe61c663e35af9917fb82836969ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490605,
+            "locality_id":102023395,
+            "neighbourhood_id":85783839,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":85783839,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860554,
+    "wof:name":"Bukit Gasing",
+    "wof:parent_id":102023395,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.653796,
+    3.094846,
+    101.653796,
+    3.094846
+],
+  "geometry": {"coordinates":[101.653796,3.094846],"type":"Point"}
+}

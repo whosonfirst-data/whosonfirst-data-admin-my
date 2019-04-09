@@ -1,0 +1,67 @@
+{
+  "id": 1209337213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9253,2.6456,101.9253,2.6456",
+    "geom:latitude":2.6456,
+    "geom:longitude":101.9253,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Bemban Hilir",
+    "gn:country_code":"MY",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770662,
+    "gn:latitude":2.6456,
+    "gn:longitude":101.9253,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bemban Hilir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bemban Hilir"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bemban Hilir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770662
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"de7e8bf68f30a03f6b5c6f1a0eea1a92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209337213
+        }
+    ],
+    "wof:id":1209337213,
+    "wof:lastmodified":1537674170,
+    "wof:name":"Kampung Bemban Hilir",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9253,
+    2.6456,
+    101.9253,
+    2.6456
+],
+  "geometry": {"coordinates":[101.92529999999999,2.6456],"type":"Point"}
+}

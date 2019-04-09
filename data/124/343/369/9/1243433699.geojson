@@ -1,0 +1,71 @@
+{
+  "id": 1243433699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.77447,5.59588,102.77447,5.59588",
+    "geom:latitude":5.59588,
+    "geom:longitude":102.77447,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Beris Tok Ku",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6874084,
+    "gn:latitude":5.59588,
+    "gn:longitude":102.77447,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Beris Tok Ku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Beris Tok Ku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        1108696513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6874084
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"490c4fec919ab2b947c43ca28448efdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696513,
+            "locality_id":1243433699,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1243433699,
+    "wof:lastmodified":1537674270,
+    "wof:name":"Beris Tok Ku",
+    "wof:parent_id":1108696513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.77447,
+    5.59588,
+    102.77447,
+    5.59588
+],
+  "geometry": {"coordinates":[102.77446999999999,5.59588],"type":"Point"}
+}

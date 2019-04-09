@@ -1,0 +1,105 @@
+{
+  "id": 85771663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5283286.322335,
+    "geom:bbox":"100.731033,4.85173,100.731033,4.85173",
+    "geom:latitude":4.85173,
+    "geom:longitude":100.731033,
+    "iso:country":"MY",
+    "lbl:latitude":4.85173,
+    "lbl:longitude":100.731033,
+    "mps:latitude":4.840557,
+    "mps:longitude":100.731257,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kampong Jambu"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Jambu"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1734586,
+    "qs:gn_nam_loc":"taiping",
+    "qs:gn_namadm1":"07",
+    "qs:id":0,
+    "qs:local_max":280,
+    "qs:local_sum":725,
+    "qs:localhoods":4,
+    "qs:name":"Kampong Jambu",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:name_adm2":"Larut & Matang",
+    "qs:name_lau":"Tupai",
+    "qs:name_local":"Taiping",
+    "qs:photo_max":160,
+    "qs:photo_sum":214,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346302,
+    "qs:woe_adm2":56013618,
+    "qs:woe_lau":56014527,
+    "qs:woe_local":1155173,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023003,
+        890490803,
+        85675123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1144082
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"71781ab53ed0cd3d0ad6276244c2b809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490803,
+            "locality_id":102023003,
+            "neighbourhood_id":85771663,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":85771663,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859439,
+    "wof:name":"Kampong Jambu",
+    "wof:parent_id":102023003,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.731033,
+    4.85173,
+    100.731033,
+    4.85173
+],
+  "geometry": {"coordinates":[100.731033,4.85173],"type":"Point"}
+}

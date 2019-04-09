@@ -1,0 +1,70 @@
+{
+  "id": 1225956995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.63314,6.236,100.63314,6.236",
+    "geom:latitude":6.236,
+    "geom:longitude":100.63314,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Berkas",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6853467,
+    "gn:latitude":6.236,
+    "gn:longitude":100.63314,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Berkas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Berkas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6853467
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1d1cc0b6a68b017ea6750cc588ffbde4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696471,
+            "locality_id":1225956995,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1225956995,
+    "wof:lastmodified":1537674259,
+    "wof:name":"Kampung Berkas",
+    "wof:parent_id":1108696471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.63314,
+    6.236,
+    100.63314,
+    6.236
+],
+  "geometry": {"coordinates":[100.63314,6.236],"type":"Point"}
+}

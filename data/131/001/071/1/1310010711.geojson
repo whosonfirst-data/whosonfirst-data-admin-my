@@ -1,0 +1,74 @@
+{
+  "id": 1310010711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2986,2.6349,102.2986,2.6349",
+    "geom:latitude":2.6349,
+    "geom:longitude":102.2986,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Gedoh",
+    "gn:country_code":"MY",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769407,
+    "gn:latitude":2.6349,
+    "gn:longitude":102.2986,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kampung Gedoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gedoh"
+    ],
+    "name:und_x_variant":[
+        "Kampung Geduhom",
+        "Kampong Gedon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769407
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e2fa1a2628a1bfd011b8fd08f83ffa2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1310010711,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1310010711,
+    "wof:lastmodified":1537674117,
+    "wof:name":"Kampung Gedoh",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2986,
+    2.6349,
+    102.2986,
+    2.6349
+],
+  "geometry": {"coordinates":[102.29859999999999,2.6349],"type":"Point"}
+}

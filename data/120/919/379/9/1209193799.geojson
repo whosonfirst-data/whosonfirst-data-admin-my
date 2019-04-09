@@ -1,0 +1,61 @@
+{
+  "id": 1209193799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.25,4.68333,103.25,4.68333",
+    "geom:latitude":4.68333,
+    "geom:longitude":103.25,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampong Binjai",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770493,
+    "gn:latitude":4.68333,
+    "gn:longitude":103.25,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Binjai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770493
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e2b1d02ab1eeee1cc7394e3cb550e719",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209193799
+        }
+    ],
+    "wof:id":1209193799,
+    "wof:lastmodified":1536294843,
+    "wof:name":"Kampong Binjai",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.25,
+    4.6833300000000015,
+    103.25,
+    4.6833300000000015
+],
+  "geometry": {"coordinates":[103.25,4.68333],"type":"Point"}
+}

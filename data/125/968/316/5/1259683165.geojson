@@ -1,0 +1,70 @@
+{
+  "id": 1259683165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0102,2.7292,102.0102,2.7292",
+    "geom:latitude":2.7292,
+    "geom:longitude":102.0102,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rumah Rakyat Panchor",
+    "gn:country_code":"MY",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796582,
+    "gn:latitude":2.7292,
+    "gn:longitude":102.0102,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Rumah Rakyat Panchor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Rumah Rakyat Panchor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796582
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"00975dd2ba13ecffeed9de3fec43f6bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1259683165,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1259683165,
+    "wof:lastmodified":1537674406,
+    "wof:name":"Rumah Rakyat Panchor",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0102,
+    2.7292,
+    102.0102,
+    2.7292
+],
+  "geometry": {"coordinates":[102.0102,2.7292],"type":"Point"}
+}

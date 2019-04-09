@@ -1,0 +1,67 @@
+{
+  "id": 1293787271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.48333,6.08333,100.48333,6.08333",
+    "geom:latitude":6.08333,
+    "geom:longitude":100.48333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Banggol Senu",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771102,
+    "gn:latitude":6.08333,
+    "gn:longitude":100.48333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Banggol Senu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771102
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d31de848ea3235dc06f051e5eee6a0f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1293787271,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1293787271,
+    "wof:lastmodified":1536850817,
+    "wof:name":"Kampong Banggol Senu",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.48333,
+    6.08333,
+    100.48333,
+    6.08333
+],
+  "geometry": {"coordinates":[100.48333,6.08333],"type":"Point"}
+}

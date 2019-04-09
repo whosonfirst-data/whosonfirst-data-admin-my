@@ -1,0 +1,70 @@
+{
+  "id": 1209936471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.19397,6.43377,100.19397,6.43377",
+    "geom:latitude":6.43377,
+    "geom:longitude":100.19397,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Taman Bukit Kaya",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819219,
+    "gn:latitude":6.43377,
+    "gn:longitude":100.19397,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taman Bukit Kaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Bukit Kaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819219
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e62610e63ce4c3a723292ad2a38ffdcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1209936471,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1209936471,
+    "wof:lastmodified":1537674248,
+    "wof:name":"Taman Bukit Kaya",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.19397,
+    6.43377,
+    100.19397,
+    6.43377
+],
+  "geometry": {"coordinates":[100.19396999999999,6.43377],"type":"Point"}
+}

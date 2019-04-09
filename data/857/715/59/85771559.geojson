@@ -1,0 +1,105 @@
+{
+  "id": 85771559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2947745.787826,
+    "geom:bbox":"102.801819,2.517805,102.801819,2.517805",
+    "geom:latitude":2.517805,
+    "geom:longitude":102.801819,
+    "iso:country":"MY",
+    "lbl:latitude":2.517805,
+    "lbl:longitude":102.801819,
+    "mps:latitude":2.517805,
+    "mps:longitude":102.799689,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kampong Batu Hampar"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Batu Hampar"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1732846,
+    "qs:gn_nam_loc":"segamat",
+    "qs:gn_namadm1":"01",
+    "qs:id":0,
+    "qs:local_max":34,
+    "qs:local_sum":35,
+    "qs:localhoods":2,
+    "qs:name":"Kampong Batu Hampar",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:name_adm2":"Segamat",
+    "qs:name_lau":"Gemereh",
+    "qs:name_local":"Segamat",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346296,
+    "qs:woe_adm2":56013592,
+    "qs:woe_lau":56013761,
+    "qs:woe_local":1155082,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102022801,
+        890488717,
+        85675141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1142126
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f1ab6fd6701c7bfe93a7fb908f99de5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":102022801,
+            "neighbourhood_id":85771559,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":85771559,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859433,
+    "wof:name":"Kampong Batu Hampar",
+    "wof:parent_id":102022801,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.801819,
+    2.517805,
+    102.801819,
+    2.517805
+],
+  "geometry": {"coordinates":[102.80181899999999,2.517805],"type":"Point"}
+}

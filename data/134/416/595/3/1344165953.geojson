@@ -1,0 +1,64 @@
+{
+  "id": 1344165953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36662,5.84387,100.36662,5.84387",
+    "geom:latitude":5.84387,
+    "geom:longitude":100.36662,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Permatang Tok Alim",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804478,
+    "gn:latitude":5.84387,
+    "gn:longitude":100.36662,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Permatang Tok Alim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Permatang Tok Alim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804478
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"24d448ffeecc80db580e77381c5204d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344165953,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344165953,
+    "wof:lastmodified":1537674231,
+    "wof:name":"Kampung Permatang Tok Alim",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36662,
+    5.84387,
+    100.36662,
+    5.84387
+],
+  "geometry": {"coordinates":[100.36662,5.84387],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327315911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.1369,5.6071,118.1369,5.6071",
+    "geom:latitude":5.6071,
+    "geom:longitude":118.1369,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Suanlamba",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7064224,
+    "gn:latitude":5.6071,
+    "gn:longitude":118.1369,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Suanlamba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Suanlamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        890490007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7064224
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a16c17e8da7ccf7746bd8676cf560835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490007,
+            "locality_id":1327315911,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327315911,
+    "wof:lastmodified":1537674274,
+    "wof:name":"Suanlamba",
+    "wof:parent_id":890490007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.1369,
+    5.6071,
+    118.1369,
+    5.6071
+],
+  "geometry": {"coordinates":[118.1369,5.6071],"type":"Point"}
+}

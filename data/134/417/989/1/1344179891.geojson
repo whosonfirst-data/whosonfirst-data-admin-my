@@ -1,0 +1,73 @@
+{
+  "id": 1344179891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8443,2.6429,101.8443,2.6429",
+    "geom:latitude":2.6429,
+    "geom:longitude":101.8443,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Jimah",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768722,
+    "gn:latitude":2.6429,
+    "gn:longitude":101.8443,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Jimah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jimah"
+    ],
+    "name:und_x_variant":[
+        "Kampong Jimah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768722
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"41c23b3a7f50555eaa5c64375d0749ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490331,
+            "locality_id":1344179891,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1344179891,
+    "wof:lastmodified":1537674092,
+    "wof:name":"Kampung Jimah",
+    "wof:parent_id":890490331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8443,
+    2.6429,
+    101.8443,
+    2.6429
+],
+  "geometry": {"coordinates":[101.8443,2.6429],"type":"Point"}
+}

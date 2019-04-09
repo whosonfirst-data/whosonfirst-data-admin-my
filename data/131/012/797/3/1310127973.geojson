@@ -1,0 +1,70 @@
+{
+  "id": 1310127973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3577,4.161,102.3577,4.161",
+    "geom:latitude":4.161,
+    "geom:longitude":102.3577,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Baharu Tada",
+    "gn:country_code":"MY",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564970,
+    "gn:latitude":4.161,
+    "gn:longitude":102.3577,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Baharu Tada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Tada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564970
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"762e8473d33299828f6b33c1be2fb6f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1310127973,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1310127973,
+    "wof:lastmodified":1537674311,
+    "wof:name":"Kampung Baharu Tada",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3577,
+    4.161,
+    102.3577,
+    4.161
+],
+  "geometry": {"coordinates":[102.35769999999999,4.161],"type":"Point"}
+}

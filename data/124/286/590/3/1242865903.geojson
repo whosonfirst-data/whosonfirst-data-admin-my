@@ -1,0 +1,70 @@
+{
+  "id": 1242865903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9494,4.045,100.9494,4.045",
+    "geom:latitude":4.045,
+    "geom:longitude":100.9494,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Sungai Kerang",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7565867,
+    "gn:latitude":4.045,
+    "gn:longitude":100.9494,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sungai Kerang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Kerang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7565867
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cd67bbae4186641b5181668d9b8daa86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1242865903,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1242865903,
+    "wof:lastmodified":1537674312,
+    "wof:name":"Kampung Sungai Kerang",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9494,
+    4.045,
+    100.9494,
+    4.045
+],
+  "geometry": {"coordinates":[100.9494,4.045],"type":"Point"}
+}

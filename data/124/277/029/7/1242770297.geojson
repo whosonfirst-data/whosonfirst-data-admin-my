@@ -1,0 +1,70 @@
+{
+  "id": 1242770297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3063,3.4894,102.3063,3.4894",
+    "geom:latitude":3.4894,
+    "geom:longitude":102.3063,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Batu Tiga",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7683683,
+    "gn:latitude":3.4894,
+    "gn:longitude":102.3063,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Batu Tiga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Tiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7683683
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bb6eebece8d137aab786f4b0518f4e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1242770297,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1242770297,
+    "wof:lastmodified":1537674358,
+    "wof:name":"Kampung Batu Tiga",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3063,
+    3.4894,
+    102.3063,
+    3.4894
+],
+  "geometry": {"coordinates":[102.30629999999999,3.4894],"type":"Point"}
+}

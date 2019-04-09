@@ -1,0 +1,73 @@
+{
+  "id": 1360309575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.34,2.2479,102.34,2.2479",
+    "geom:latitude":2.2479,
+    "geom:longitude":102.34,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Parit Lampong",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766118,
+    "gn:latitude":2.2479,
+    "gn:longitude":102.34,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Parit Lampong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Lampong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Parit Pelampong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766118
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f89708ad50f0c1d72129380c7170b4fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489809,
+            "locality_id":1360309575,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1360309575,
+    "wof:lastmodified":1537673983,
+    "wof:name":"Kampung Parit Lampong",
+    "wof:parent_id":890489809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.34,
+    2.2479,
+    102.34,
+    2.2479
+],
+  "geometry": {"coordinates":[102.34,2.2479],"type":"Point"}
+}

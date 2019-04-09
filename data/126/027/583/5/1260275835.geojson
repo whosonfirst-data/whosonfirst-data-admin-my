@@ -1,0 +1,70 @@
+{
+  "id": 1260275835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9117,3.9796,101.9117,3.9796",
+    "geom:latitude":3.9796,
+    "geom:longitude":101.9117,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Mutan",
+    "gn:country_code":"MY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638914,
+    "gn:latitude":3.9796,
+    "gn:longitude":101.9117,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Mutan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mutan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638914
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cbe9f5c80abd119b4c855aa11aba8208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1260275835,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1260275835,
+    "wof:lastmodified":1537674345,
+    "wof:name":"Kampung Mutan",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9117,
+    3.9796,
+    101.9117,
+    3.9796
+],
+  "geometry": {"coordinates":[101.9117,3.9796],"type":"Point"}
+}

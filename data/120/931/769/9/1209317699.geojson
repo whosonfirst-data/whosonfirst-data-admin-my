@@ -1,0 +1,64 @@
+{
+  "id": 1209317699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.5669,5.53377,100.5669,5.53377",
+    "geom:latitude":5.53377,
+    "geom:longitude":100.5669,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Sidam Kiri",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847471,
+    "gn:latitude":5.53377,
+    "gn:longitude":100.5669,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Sidam Kiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sidam Kiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847471
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"650bc1e8615cd062ad4ef0b86fa5bea6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209317699
+        }
+    ],
+    "wof:id":1209317699,
+    "wof:lastmodified":1537674255,
+    "wof:name":"Kampung Sidam Kiri",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.5669,
+    5.53377,
+    100.5669,
+    5.53377
+],
+  "geometry": {"coordinates":[100.5669,5.53377],"type":"Point"}
+}

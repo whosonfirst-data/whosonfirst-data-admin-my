@@ -1,0 +1,75 @@
+{
+  "id": 1259949579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.5554,5.5002,115.5554,5.5002",
+    "geom:latitude":5.5002,
+    "geom:longitude":115.5554,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Tamu Kayul",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733375,
+    "gn:latitude":5.5002,
+    "gn:longitude":115.5554,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tamu Kayul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tamu Kayul"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tamu Kayul",
+        "Tamu Kayui",
+        "Tamu Kayul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        890490799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733375
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f52aee04634ef47ae2c900cb3b0c41d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490799,
+            "locality_id":1259949579,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259949579,
+    "wof:lastmodified":1537673676,
+    "wof:name":"Kampung Tamu Kayul",
+    "wof:parent_id":890490799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.5554,
+    5.5002,
+    115.5554,
+    5.5002
+],
+  "geometry": {"coordinates":[115.55540000000001,5.5002],"type":"Point"}
+}

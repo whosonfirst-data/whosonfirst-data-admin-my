@@ -1,0 +1,78 @@
+{
+  "id": 890489567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.366029,5.680154,100.366029,5.680154",
+    "geom:latitude":5.680154,
+    "geom:longitude":100.366029,
+    "gn:country":"MY",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Merbok"
+    ],
+    "qs:name":"Merbok",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kedah",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":39,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":132,
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805176,
+        "gp:id":56014394,
+        "qs:id":908514,
+        "wd:id":"Q6817981",
+        "wk:page":"Merbok"
+    },
+    "wof:concordances_alt":{
+        "qs:id":1153692
+    },
+    "wof:country":"MY",
+    "wof:created":1469054761,
+    "wof:geomhash":"a49e64a7f895359c095169d231eb3191",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "localadmin_id":890489567
+        }
+    ],
+    "wof:id":890489567,
+    "wof:lastmodified":1534379383,
+    "wof:name":"Merbok",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890488167
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.366029,
+    5.680154,
+    100.366029,
+    5.680154
+],
+  "geometry": {"coordinates":[100.366029,5.680154],"type":"Point"}
+}

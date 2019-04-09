@@ -1,0 +1,74 @@
+{
+  "id": 1309694523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.8893,5.382,116.8893,5.382",
+    "geom:latitude":5.382,
+    "geom:longitude":116.8893,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tibuga",
+    "gn:country_code":"MY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762698,
+    "gn:latitude":5.382,
+    "gn:longitude":116.8893,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tibuga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tibuga"
+    ],
+    "name:und_x_variant":[
+        "Tibuga",
+        "Kampong Tibuga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762698
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"eb2e3392a5a9b67a28fe82319d8355be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696539,
+            "locality_id":1309694523,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309694523,
+    "wof:lastmodified":1537673826,
+    "wof:name":"Kampung Tibuga",
+    "wof:parent_id":1108696539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.8893,
+    5.382,
+    116.8893,
+    5.382
+],
+  "geometry": {"coordinates":[116.88930000000001,5.382],"type":"Point"}
+}

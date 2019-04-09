@@ -1,0 +1,64 @@
+{
+  "id": 1209423697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38185,6.02782,100.38185,6.02782",
+    "geom:latitude":6.02782,
+    "geom:longitude":100.38185,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Taman Lengkuas",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807190,
+    "gn:latitude":6.02782,
+    "gn:longitude":100.38185,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taman Lengkuas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Lengkuas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807190
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2d2d5ae490dbd35c1158f728c2ec61d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209423697
+        }
+    ],
+    "wof:id":1209423697,
+    "wof:lastmodified":1537674239,
+    "wof:name":"Taman Lengkuas",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38185,
+    6.02782,
+    100.38185,
+    6.02782
+],
+  "geometry": {"coordinates":[100.38185,6.02782],"type":"Point"}
+}

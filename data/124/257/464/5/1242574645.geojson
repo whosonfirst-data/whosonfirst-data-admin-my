@@ -1,0 +1,74 @@
+{
+  "id": 1242574645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.15864,6.33568,100.15864,6.33568",
+    "geom:latitude":6.33568,
+    "geom:longitude":100.15864,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Kampung Sungai Baharu",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1742872,
+    "gn:latitude":6.33568,
+    "gn:longitude":100.15864,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Baharu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Baharu"
+    ],
+    "name:und_x_variant":[
+        "Sungai Baharu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1742872
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e2637f4ea0b292b351aa1d81c318e9a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1242574645,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1242574645,
+    "wof:lastmodified":1537673762,
+    "wof:name":"Kampung Sungai Baharu",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.15864,
+    6.33568,
+    100.15864,
+    6.33568
+],
+  "geometry": {"coordinates":[100.15864000000001,6.33568],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260087743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.90917,5.82113,101.90917,5.82113",
+    "geom:latitude":5.82113,
+    "geom:longitude":101.90917,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Jakar",
+    "gn:country_code":"MY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068047,
+    "gn:latitude":5.82113,
+    "gn:longitude":101.90917,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Jakar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jakar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068047
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"795dca8a393b6c2481b580f6d81e2a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490497,
+            "locality_id":1260087743,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1260087743,
+    "wof:lastmodified":1537674277,
+    "wof:name":"Kampung Jakar",
+    "wof:parent_id":890490497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.90917,
+    5.82113,
+    101.90917,
+    5.82113
+],
+  "geometry": {"coordinates":[101.90917,5.82113],"type":"Point"}
+}

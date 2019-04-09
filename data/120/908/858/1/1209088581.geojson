@@ -1,0 +1,64 @@
+{
+  "id": 1209088581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.114,5.6642,118.114,5.6642",
+    "geom:latitude":5.6642,
+    "geom:longitude":118.114,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Delisah",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7064213,
+    "gn:latitude":5.6642,
+    "gn:longitude":118.114,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Delisah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Delisah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7064213
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a959ca1e3cb801ddb490ff86d130e2cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209088581
+        }
+    ],
+    "wof:id":1209088581,
+    "wof:lastmodified":1537674274,
+    "wof:name":"Kampung Delisah",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.114,
+    5.6642,
+    118.114,
+    5.6642
+],
+  "geometry": {"coordinates":[118.114,5.6642],"type":"Point"}
+}

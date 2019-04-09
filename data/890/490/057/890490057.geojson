@@ -1,0 +1,67 @@
+{
+  "id": 890490057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.720874,3.033897,101.720874,3.033897",
+    "geom:latitude":3.033897,
+    "geom:longitude":101.720874,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Serdang Baharu",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":20,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890490605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1155108,
+        "qs:id":70094
+    },
+    "wof:country":"MY",
+    "wof:created":1469054786,
+    "wof:geomhash":"563677bfdd005d4b41d69259b15163c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490605,
+            "locality_id":890490057,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890490057,
+    "wof:lastmodified":1500013482,
+    "wof:name":"Serdang Baharu",
+    "wof:parent_id":890490605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.720874,
+    3.033897,
+    101.720874,
+    3.033897
+],
+  "geometry": {"coordinates":[101.72087399999999,3.033897],"type":"Point"}
+}

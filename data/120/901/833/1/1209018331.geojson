@@ -1,0 +1,64 @@
+{
+  "id": 1209018331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4672,1.576,103.4672,1.576",
+    "geom:latitude":1.576,
+    "geom:longitude":103.4672,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Bukit Seri Menanti",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857954,
+    "gn:latitude":1.576,
+    "gn:longitude":103.4672,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bukit Seri Menanti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Seri Menanti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857954
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"755e6df6c5d4e3f8579c792d1a732b52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209018331
+        }
+    ],
+    "wof:id":1209018331,
+    "wof:lastmodified":1537674447,
+    "wof:name":"Kampung Bukit Seri Menanti",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4672,
+    1.576,
+    103.4672,
+    1.576
+],
+  "geometry": {"coordinates":[103.46720000000001,1.576],"type":"Point"}
+}

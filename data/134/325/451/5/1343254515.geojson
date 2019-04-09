@@ -1,0 +1,70 @@
+{
+  "id": 1343254515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6439,3.7751,102.6439,3.7751",
+    "geom:latitude":3.7751,
+    "geom:longitude":102.6439,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Limau",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662024,
+    "gn:latitude":3.7751,
+    "gn:longitude":102.6439,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Limau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Limau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662024
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ebdde67d46fbf53481b42e7d8f828c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1343254515,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1343254515,
+    "wof:lastmodified":1537674354,
+    "wof:name":"Limau",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6439,
+    3.7751,
+    102.6439,
+    3.7751
+],
+  "geometry": {"coordinates":[102.6439,3.7751],"type":"Point"}
+}

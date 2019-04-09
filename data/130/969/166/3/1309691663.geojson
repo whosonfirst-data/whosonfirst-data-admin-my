@@ -1,0 +1,73 @@
+{
+  "id": 1309691663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0687,5.1878,103.0687,5.1878",
+    "geom:latitude":5.1878,
+    "geom:longitude":103.0687,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Kubang",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767882,
+    "gn:latitude":5.1878,
+    "gn:longitude":103.0687,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kubang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kubang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kubang Burong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767882
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ad75523a5e2e88488561d936a16ad956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490535,
+            "locality_id":1309691663,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1309691663,
+    "wof:lastmodified":1537674055,
+    "wof:name":"Kampung Kubang",
+    "wof:parent_id":890490535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0687,
+    5.1878,
+    103.0687,
+    5.1878
+],
+  "geometry": {"coordinates":[103.06870000000001,5.1878],"type":"Point"}
+}

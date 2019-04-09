@@ -1,0 +1,67 @@
+{
+  "id": 1344235163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.25224,1.18798,110.25224,1.18798",
+    "geom:latitude":1.18798,
+    "geom:longitude":110.25224,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Abang",
+    "gn:country_code":"MY",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771745,
+    "gn:latitude":1.18798,
+    "gn:longitude":110.25224,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kampong Abang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771745
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"255de7af01bb67453705249bd432e161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1344235163,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1344235163,
+    "wof:lastmodified":1536621495,
+    "wof:name":"Kampong Abang",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.25224,
+    1.18798,
+    110.25224,
+    1.18798
+],
+  "geometry": {"coordinates":[110.25224,1.18798],"type":"Point"}
+}

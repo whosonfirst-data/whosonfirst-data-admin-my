@@ -1,0 +1,67 @@
+{
+  "id": 1327347773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.65834,2.10645,102.65834,2.10645",
+    "geom:latitude":2.10645,
+    "geom:longitude":102.65834,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bukit Besar",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1779292,
+    "gn:latitude":2.10645,
+    "gn:longitude":102.65834,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Bukit Besar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1779292
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1feae2fe7de9f62d3a3565f323083328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1327347773,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1327347773,
+    "wof:lastmodified":1536802910,
+    "wof:name":"Bukit Besar",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.65834,
+    2.10645,
+    102.65834,
+    2.10645
+],
+  "geometry": {"coordinates":[102.65834,2.10645],"type":"Point"}
+}

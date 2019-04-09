@@ -1,0 +1,75 @@
+{
+  "id": 1293871843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.29344,1.24248,110.29344,1.24248",
+    "geom:latitude":1.24248,
+    "geom:longitude":110.29344,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampung Bayur",
+    "gn:country_code":"MY",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770611,
+    "gn:latitude":1.24248,
+    "gn:longitude":110.29344,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampung Bayur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Braang Bayur",
+        "Kampong Brang Payong",
+        "Kampong Brang Payang",
+        "Kampong Braang Payang",
+        "Kampong Beraang Bayur",
+        "Kampung Bayur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770611
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"eb5a8dc84eae6f1cb2bf499b6e79ebf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1293871843,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1293871843,
+    "wof:lastmodified":1537674168,
+    "wof:name":"Kampung Bayur",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.29344,
+    1.24248,
+    110.29344,
+    1.24248
+],
+  "geometry": {"coordinates":[110.29344,1.24248],"type":"Point"}
+}

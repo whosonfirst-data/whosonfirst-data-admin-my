@@ -1,0 +1,70 @@
+{
+  "id": 1309691627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1028,5.2088,103.1028,5.2088",
+    "geom:latitude":5.2088,
+    "geom:longitude":103.1028,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Taman Bukit Payung",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7461176,
+    "gn:latitude":5.2088,
+    "gn:longitude":103.1028,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Bukit Payung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Bukit Payung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7461176
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6a4cd45bb8b51fadb127b5a687f921fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490535,
+            "locality_id":1309691627,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1309691627,
+    "wof:lastmodified":1537674294,
+    "wof:name":"Taman Bukit Payung",
+    "wof:parent_id":890490535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1028,
+    5.2088,
+    103.1028,
+    5.2088
+],
+  "geometry": {"coordinates":[103.1028,5.2088],"type":"Point"}
+}

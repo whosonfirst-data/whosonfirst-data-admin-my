@@ -1,0 +1,107 @@
+{
+  "id": 85784275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000152,
+    "geom:area_square_m":1880245.504057,
+    "geom:bbox":"101.678474858,3.09457593271,101.697003213,3.10829274668",
+    "geom:latitude":3.101735,
+    "geom:longitude":101.687917,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.104334,
+    "lbl:longitude":101.68909,
+    "mps:latitude":3.101774,
+    "mps:longitude":101.687741,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:und_x_preferred":[
+        "Taman Danau Desa"
+    ],
+    "name:unk_x_variant":[
+        "Taman Danau Desa"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Taman Danau Desa",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Kuala Lumpur",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":319,
+    "qs:photo_sum":920,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56013690,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":148,
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56035013,
+        "qs:id":7568,
+        "qs_pg:id":7568,
+        "wd:id":"Q7680621"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"40c0c5f2a52853ee439134799fcf386d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85784275,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85784275,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269404,
+    "wof:name":"Taman Danau Desa",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.67847485812422,
+    3.09457593270543,
+    101.6970032132295,
+    3.10829274668289
+],
+  "geometry": {"coordinates":[[[101.68670654300024,3.10829274668289],[101.68807983400001,3.10783430858278],[101.68945312500023,3.10829274668271],[101.69013876197107,3.10760610029034],[101.6921997070001,3.10760610033982],[101.6921997070001,3.10486355344365],[101.6921997070001,3.10212099969937],[101.69494628900009,3.10212099977336],[101.69597475078399,3.10109102801046],[101.69540472176294,3.09937843810288],[101.69631757212011,3.09663587184008],[101.69700321322949,3.09457593270543],[101.69494628900009,3.09526257582681],[101.6921997070001,3.09617944073143],[101.68945552736244,3.09526337778434],[101.68945312500011,3.09526458072013],[101.68807583006293,3.09526458072013],[101.68670654300018,3.09663587080482],[101.6839599610002,3.09663587080482],[101.6839599610002,3.09937843876928],[101.68121337900004,3.09937843876928],[101.68121337900004,3.10212099977336],[101.67847485812422,3.10486354929017],[101.68121337900004,3.10760610043884],[101.6839599610002,3.10760610014184],[101.68602090691911,3.1076061008102],[101.68670654300024,3.10829274668289]]],"type":"Polygon"}
+}

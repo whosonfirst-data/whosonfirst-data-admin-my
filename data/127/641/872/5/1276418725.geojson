@@ -1,0 +1,66 @@
+{
+  "id": 1276418725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.25,1.71667,110.25,1.71667",
+    "geom:latitude":1.71667,
+    "geom:longitude":110.25,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Telok Simpor",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762970,
+    "gn:latitude":1.71667,
+    "gn:longitude":110.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Telok Simpor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Simpol",
+        "Kampong Telok Simpor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762970
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d1a37875be298e4013c4819304a01bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276418725,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276418725,
+    "wof:lastmodified":1537673838,
+    "wof:name":"Kampong Telok Simpor",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.25,
+    1.71667,
+    110.25,
+    1.71667
+],
+  "geometry": {"coordinates":[110.25,1.71667],"type":"Point"}
+}

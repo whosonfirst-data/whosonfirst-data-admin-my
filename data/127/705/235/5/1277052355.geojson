@@ -1,0 +1,73 @@
+{
+  "id": 1277052355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.856,5.4066,102.856,5.4066",
+    "geom:latitude":5.4066,
+    "geom:longitude":102.856,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Sungai Bari",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764137,
+    "gn:latitude":5.4066,
+    "gn:longitude":102.856,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Bari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Bari"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Bari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        1108696513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764137
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b32d56a8eaccf06e6930e73fda987215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696513,
+            "locality_id":1277052355,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1277052355,
+    "wof:lastmodified":1537673894,
+    "wof:name":"Kampung Sungai Bari",
+    "wof:parent_id":1108696513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.856,
+    5.4066,
+    102.856,
+    5.4066
+],
+  "geometry": {"coordinates":[102.85599999999999,5.4066],"type":"Point"}
+}

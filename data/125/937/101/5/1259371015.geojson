@@ -1,0 +1,67 @@
+{
+  "id": 1259371015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.2,2.03333,114.2,2.03333",
+    "geom:latitude":2.03333,
+    "geom:longitude":114.2,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nanga Jemoreng",
+    "gn:country_code":"MY",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1737836,
+    "gn:latitude":2.03333,
+    "gn:longitude":114.2,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Nanga Jemoreng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1737836
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9a790183623b651f18a4ba8022649f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696387,
+            "locality_id":1259371015,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1259371015,
+    "wof:lastmodified":1537019381,
+    "wof:name":"Nanga Jemoreng",
+    "wof:parent_id":1108696387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.2,
+    2.03333,
+    114.2,
+    2.03333
+],
+  "geometry": {"coordinates":[114.2,2.03333],"type":"Point"}
+}

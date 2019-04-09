@@ -1,0 +1,62 @@
+{
+  "id": 1209487823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.7703,4.4252,117.7703,4.4252",
+    "geom:latitude":4.4252,
+    "geom:longitude":117.7703,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Merotai Besar",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7768767,
+    "gn:latitude":4.4252,
+    "gn:longitude":117.7703,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Merotai Besar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7768767
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4043661ccf87c7b89cf566616c26c731",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209487823
+        }
+    ],
+    "wof:id":1209487823,
+    "wof:lastmodified":1536285580,
+    "wof:name":"Kampung Merotai Besar",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.7703,
+    4.4252,
+    117.7703,
+    4.4252
+],
+  "geometry": {"coordinates":[117.77030000000001,4.4252],"type":"Point"}
+}

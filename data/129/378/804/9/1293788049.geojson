@@ -1,0 +1,70 @@
+{
+  "id": 1293788049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.743,2.1266,102.743,2.1266",
+    "geom:latitude":2.1266,
+    "geom:longitude":102.743,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ladang Pengkalan Bukit",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856354,
+    "gn:latitude":2.1266,
+    "gn:longitude":102.743,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ladang Pengkalan Bukit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ladang Pengkalan Bukit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856354
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2c40525259458bb174bcfd02f27a0bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1293788049,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293788049,
+    "wof:lastmodified":1537674438,
+    "wof:name":"Ladang Pengkalan Bukit",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.743,
+    2.1266,
+    102.743,
+    2.1266
+],
+  "geometry": {"coordinates":[102.74299999999999,2.1266],"type":"Point"}
+}

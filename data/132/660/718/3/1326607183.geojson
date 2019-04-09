@@ -1,0 +1,70 @@
+{
+  "id": 1326607183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.46367,2.94048,101.46367,2.94048",
+    "geom:latitude":2.94048,
+    "geom:longitude":101.46367,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampong Sijangkang",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764366,
+    "gn:latitude":2.94048,
+    "gn:longitude":101.46367,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Kampong Sijangkang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sijangkang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764366
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8c8f683e8473f72081a0d1349e3998e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696427,
+            "locality_id":1326607183,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1326607183,
+    "wof:lastmodified":1537673905,
+    "wof:name":"Kampong Sijangkang",
+    "wof:parent_id":1108696427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.46367,
+    2.94048,
+    101.46367,
+    2.94048
+],
+  "geometry": {"coordinates":[101.46366999999999,2.94048],"type":"Point"}
+}

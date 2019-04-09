@@ -1,0 +1,70 @@
+{
+  "id": 890488601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.498208,5.674024,100.498208,5.674024",
+    "geom:latitude":5.674024,
+    "geom:longitude":100.498208,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Sungai Petani",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kedah",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":444,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":3034,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014434,
+        "qs:id":1313720,
+        "wd:id":"Q939738",
+        "wk:page":"Sungai Petani"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054725,
+    "wof:geomhash":"7a216cfd73e956cd7b0bc57a79585d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "localadmin_id":890488601,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":890488601,
+    "wof:lastmodified":1527787081,
+    "wof:name":"Sungai Petani",
+    "wof:parent_id":890490355,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.498208,
+    5.674024,
+    100.498208,
+    5.674024
+],
+  "geometry": {"coordinates":[100.49820800000001,5.674024],"type":"Point"}
+}

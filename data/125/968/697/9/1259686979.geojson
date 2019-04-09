@@ -1,0 +1,71 @@
+{
+  "id": 1259686979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.40229,5.93318,100.40229,5.93318",
+    "geom:latitude":5.93318,
+    "geom:longitude":100.40229,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Alor Gelenggang",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771689,
+    "gn:latitude":5.93318,
+    "gn:longitude":100.40229,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Alor Gelenggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Alor Gelenggang",
+        "Kampung Alor Gelenggang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771689
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ffa20b56feb20efef85a60ce40270647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489701,
+            "locality_id":1259686979,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1259686979,
+    "wof:lastmodified":1537674213,
+    "wof:name":"Kampung Alor Gelenggang",
+    "wof:parent_id":890489701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.40229,
+    5.93318,
+    100.40229,
+    5.93318
+],
+  "geometry": {"coordinates":[100.40228999999999,5.93318],"type":"Point"}
+}

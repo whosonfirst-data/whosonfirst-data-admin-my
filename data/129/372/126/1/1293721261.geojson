@@ -1,0 +1,70 @@
+{
+  "id": 1293721261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.038,2.9137,102.038,2.9137",
+    "geom:latitude":2.9137,
+    "geom:longitude":102.038,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Sungai Raya Kechil",
+    "gn:country_code":"MY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796569,
+    "gn:latitude":2.9137,
+    "gn:longitude":102.038,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sungai Raya Kechil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Raya Kechil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796569
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f928218a1c0fdcd4f5bc738a1bac0907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1293721261,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1293721261,
+    "wof:lastmodified":1537674406,
+    "wof:name":"Kampung Sungai Raya Kechil",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.038,
+    2.9137,
+    102.038,
+    2.9137
+],
+  "geometry": {"coordinates":[102.038,2.9137],"type":"Point"}
+}

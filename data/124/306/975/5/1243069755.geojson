@@ -1,0 +1,70 @@
+{
+  "id": 1243069755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.047,4.9401,102.047,4.9401",
+    "geom:latitude":4.9401,
+    "geom:longitude":102.047,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kemajuan Tanah Renok Baharu",
+    "gn:country_code":"MY",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7469868,
+    "gn:latitude":4.9401,
+    "gn:longitude":102.047,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Renok Baharu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Renok Baharu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7469868
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bb5bf45d1f2587ec5713c0c63d9d8752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1243069755,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1243069755,
+    "wof:lastmodified":1537674300,
+    "wof:name":"Kemajuan Tanah Renok Baharu",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.047,
+    4.9401,
+    102.047,
+    4.9401
+],
+  "geometry": {"coordinates":[102.047,4.9401],"type":"Point"}
+}

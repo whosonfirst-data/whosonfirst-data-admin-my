@@ -1,0 +1,74 @@
+{
+  "id": 1242564047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9677,4.9646,102.9677,4.9646",
+    "geom:latitude":4.9646,
+    "geom:longitude":102.9677,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Sekayu",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764721,
+    "gn:latitude":4.9646,
+    "gn:longitude":102.9677,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sekayu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sekayu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sahayu",
+        "Kampong Sekayu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764721
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d5c575bf7055e88cdf31821fccd4ba50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1242564047,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1242564047,
+    "wof:lastmodified":1537673922,
+    "wof:name":"Kampung Sekayu",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9677,
+    4.9646,
+    102.9677,
+    4.9646
+],
+  "geometry": {"coordinates":[102.96769999999999,4.9646],"type":"Point"}
+}

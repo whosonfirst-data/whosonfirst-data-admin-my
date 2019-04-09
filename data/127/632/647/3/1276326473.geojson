@@ -1,0 +1,70 @@
+{
+  "id": 1276326473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8223,3.6281,102.8223,3.6281",
+    "geom:latitude":3.6281,
+    "geom:longitude":102.8223,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Hulu Luit",
+    "gn:country_code":"MY",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535437,
+    "gn:latitude":3.6281,
+    "gn:longitude":102.8223,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Hulu Luit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Hulu Luit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535437
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f9135ebe79deddd206b59fa595b571bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1276326473,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276326473,
+    "wof:lastmodified":1537674460,
+    "wof:name":"Kampung Hulu Luit",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8223,
+    3.6281,
+    102.8223,
+    3.6281
+],
+  "geometry": {"coordinates":[102.8223,3.6281],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259470149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8076,2.9864,101.8076,2.9864",
+    "geom:latitude":2.9864,
+    "geom:longitude":101.8076,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taman Damai Indah",
+    "gn:country_code":"MY",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7688621,
+    "gn:latitude":2.9864,
+    "gn:longitude":101.8076,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Damai Indah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Damai Indah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7688621
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"247f20a2113bd832928809b05a17bc29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":1259470149,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1259470149,
+    "wof:lastmodified":1537674361,
+    "wof:name":"Taman Damai Indah",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8076,
+    2.9864,
+    101.8076,
+    2.9864
+],
+  "geometry": {"coordinates":[101.80759999999999,2.9864],"type":"Point"}
+}

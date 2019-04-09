@@ -1,0 +1,75 @@
+{
+  "id": 1276765539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.32427,6.37834,100.32427,6.37834",
+    "geom:latitude":6.37834,
+    "geom:longitude":100.32427,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Kandis",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768613,
+    "gn:latitude":6.37834,
+    "gn:longitude":100.32427,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kandis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kandis"
+    ],
+    "name:und_x_variant":[
+        "Kampong Randis",
+        "Kampong Kandis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768613
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9a35e3a55ab2d734eb6502fd5e5abc7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1276765539,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1276765539,
+    "wof:lastmodified":1537674086,
+    "wof:name":"Kampung Kandis",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.32427,
+    6.37834,
+    100.32427,
+    6.37834
+],
+  "geometry": {"coordinates":[100.32427,6.37834],"type":"Point"}
+}

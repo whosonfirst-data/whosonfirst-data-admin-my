@@ -1,0 +1,77 @@
+{
+  "id": 1125282119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.33333,1.5,111.33333,1.5",
+    "geom:latitude":1.5,
+    "geom:longitude":111.33333,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":1.5,
+    "lbl:longitude":111.33333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Saribas"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1736724,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Betong",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1027473,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736724,
+        "qs_pg:id":1027473
+    },
+    "wof:country":"MY",
+    "wof:created":1497042542,
+    "wof:geomhash":"b8d3c77b5bf7b1f244f4540f794eb62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696391,
+            "localadmin_id":1125282119,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1125282119,
+    "wof:lastmodified":1509387319,
+    "wof:name":"Betong",
+    "wof:parent_id":1108696391,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.33333,
+    1.5,
+    111.33333,
+    1.5
+],
+  "geometry": {"coordinates":[111.33333,1.5],"type":"Point"}
+}

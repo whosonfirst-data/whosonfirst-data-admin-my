@@ -1,0 +1,67 @@
+{
+  "id": 1242968595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.26667,3.8,103.26667,3.8",
+    "geom:latitude":3.8,
+    "geom:longitude":103.26667,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampong Permatang Badak",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765590,
+    "gn:latitude":3.8,
+    "gn:longitude":103.26667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Permatang Badak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765590
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"89f9c7ad346a324da3f145cab7e1e85b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":1242968595,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1242968595,
+    "wof:lastmodified":1536996750,
+    "wof:name":"Kampong Permatang Badak",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.26667,
+    3.8,
+    103.26667,
+    3.8
+],
+  "geometry": {"coordinates":[103.26667,3.8],"type":"Point"}
+}

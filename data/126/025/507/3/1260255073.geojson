@@ -1,0 +1,70 @@
+{
+  "id": 1260255073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.6574,5.4301,115.6574,5.4301",
+    "geom:latitude":5.4301,
+    "geom:longitude":115.6574,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Mihang",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580658,
+    "gn:latitude":5.4301,
+    "gn:longitude":115.6574,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Mihang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mihang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580658
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a1eda2c57bc20f164ffebf2057275e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696385,
+            "locality_id":1260255073,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1260255073,
+    "wof:lastmodified":1537674318,
+    "wof:name":"Kampung Mihang",
+    "wof:parent_id":1108696385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.6574,
+    5.4301,
+    115.6574,
+    5.4301
+],
+  "geometry": {"coordinates":[115.6574,5.4301],"type":"Point"}
+}

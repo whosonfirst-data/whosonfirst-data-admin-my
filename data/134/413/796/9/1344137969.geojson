@@ -1,0 +1,71 @@
+{
+  "id": 1344137969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.42483,0.96721,110.42483,0.96721",
+    "geom:latitude":0.96721,
+    "geom:longitude":110.42483,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Kujang Tembawang",
+    "gn:country_code":"MY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767762,
+    "gn:latitude":0.96721,
+    "gn:longitude":110.42483,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampong Kujang Tembawang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kujang",
+        "Kampong Kujang Tembawang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767762
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ddd581b9239008ac163ca30f25f6c126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696511,
+            "locality_id":1344137969,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1344137969,
+    "wof:lastmodified":1537674051,
+    "wof:name":"Kampong Kujang Tembawang",
+    "wof:parent_id":1108696511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.42483,
+    0.96721,
+    110.42483,
+    0.96721
+],
+  "geometry": {"coordinates":[110.42483,0.96721],"type":"Point"}
+}

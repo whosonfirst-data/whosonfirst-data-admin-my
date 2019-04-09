@@ -1,0 +1,70 @@
+{
+  "id": 1226351035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.54041,5.3719,100.54041,5.3719",
+    "geom:latitude":5.3719,
+    "geom:longitude":100.54041,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Taman Kemuning",
+    "gn:country_code":"MY",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819265,
+    "gn:latitude":5.3719,
+    "gn:longitude":100.54041,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taman Kemuning",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Kemuning"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819265
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fc19a995c752ff0aaae054923f8899fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490359,
+            "locality_id":1226351035,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1226351035,
+    "wof:lastmodified":1537674249,
+    "wof:name":"Taman Kemuning",
+    "wof:parent_id":890490359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.54041,
+    5.3719,
+    100.54041,
+    5.3719
+],
+  "geometry": {"coordinates":[100.54040999999999,5.3719],"type":"Point"}
+}

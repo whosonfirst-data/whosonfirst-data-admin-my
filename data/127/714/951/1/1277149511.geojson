@@ -1,0 +1,74 @@
+{
+  "id": 1277149511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5541,5.9325,116.5541,5.9325",
+    "geom:latitude":5.9325,
+    "geom:longitude":116.5541,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Rengguh",
+    "gn:country_code":"MY",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764950,
+    "gn:latitude":5.9325,
+    "gn:longitude":116.5541,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Rengguh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rengguh"
+    ],
+    "name:und_x_variant":[
+        "Runguh",
+        "Kampong Runguh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764950
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2d5ef9df0bdba5ad765279e07cec0fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":1277149511,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1277149511,
+    "wof:lastmodified":1537673933,
+    "wof:name":"Kampung Rengguh",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5541,
+    5.9325,
+    116.5541,
+    5.9325
+],
+  "geometry": {"coordinates":[116.55410000000001,5.9325],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225839499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7528,3.9823,100.7528,3.9823",
+    "geom:latitude":3.9823,
+    "geom:longitude":100.7528,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Mat Din",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7565909,
+    "gn:latitude":3.9823,
+    "gn:longitude":100.7528,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Mat Din",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mat Din"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7565909
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"330a0f081d3c008ea67101479b4423dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1225839499,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1225839499,
+    "wof:lastmodified":1537674312,
+    "wof:name":"Kampung Mat Din",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7528,
+    3.9823,
+    100.7528,
+    3.9823
+],
+  "geometry": {"coordinates":[100.75279999999999,3.9823],"type":"Point"}
+}

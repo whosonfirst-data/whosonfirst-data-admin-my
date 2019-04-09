@@ -1,0 +1,73 @@
+{
+  "id": 1226729183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2406,5.14,103.2406,5.14",
+    "geom:latitude":5.14,
+    "geom:longitude":103.2406,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Padang Hujung Da",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1773674,
+    "gn:latitude":5.14,
+    "gn:longitude":103.2406,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Padang Hujung Da",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Padang Hujung Da"
+    ],
+    "name:und_x_variant":[
+        "Padang Hujong Da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1773674
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0b567d90650e27b00ac4d7a74b50ccb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490535,
+            "locality_id":1226729183,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1226729183,
+    "wof:lastmodified":1537674216,
+    "wof:name":"Padang Hujung Da",
+    "wof:parent_id":890490535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2406,
+    5.14,
+    103.2406,
+    5.14
+],
+  "geometry": {"coordinates":[103.2406,5.14],"type":"Point"}
+}

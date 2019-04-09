@@ -1,0 +1,74 @@
+{
+  "id": 1243549927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.26967,6.39035,100.26967,6.39035",
+    "geom:latitude":6.39035,
+    "geom:longitude":100.26967,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Kampung Kubang Bodoh",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767904,
+    "gn:latitude":6.39035,
+    "gn:longitude":100.26967,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kubang Bodoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kubang Bodoh"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kubang Badak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767904
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bd178e41e0bb7c03f3f1d140cc3a111c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1243549927,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1243549927,
+    "wof:lastmodified":1537674055,
+    "wof:name":"Kampung Kubang Bodoh",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.26967,
+    6.39035,
+    100.26967,
+    6.39035
+],
+  "geometry": {"coordinates":[100.26967,6.39035],"type":"Point"}
+}

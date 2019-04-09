@@ -1,0 +1,71 @@
+{
+  "id": 1293699869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.391,5.70787,100.391,5.70787",
+    "geom:latitude":5.70787,
+    "geom:longitude":100.391,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Pangkalan Kakap",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765722,
+    "gn:latitude":5.70787,
+    "gn:longitude":100.391,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pangkalan Kakap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Pengkalan Kakap",
+        "Kampung Pangkalan Kakap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765722
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c5aadeac2cedad9b4140f265d990b302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "locality_id":1293699869,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1293699869,
+    "wof:lastmodified":1537673966,
+    "wof:name":"Kampung Pangkalan Kakap",
+    "wof:parent_id":890490355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.391,
+    5.70787,
+    100.391,
+    5.70787
+],
+  "geometry": {"coordinates":[100.39100000000001,5.70787],"type":"Point"}
+}

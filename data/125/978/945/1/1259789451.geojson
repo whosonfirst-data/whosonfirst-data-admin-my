@@ -1,0 +1,70 @@
+{
+  "id": 1259789451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1872,2.3266,102.1872,2.3266",
+    "geom:latitude":2.3266,
+    "geom:longitude":102.1872,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pondok Sepam",
+    "gn:country_code":"MY",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307785,
+    "gn:latitude":2.3266,
+    "gn:longitude":102.1872,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Pondok Sepam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pondok Sepam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307785
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"610d31ed1aca48363fa457d79283ab38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1259789451,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1259789451,
+    "wof:lastmodified":1537674452,
+    "wof:name":"Pondok Sepam",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1872,
+    2.3266,
+    102.1872,
+    2.3266
+],
+  "geometry": {"coordinates":[102.1872,2.3266],"type":"Point"}
+}

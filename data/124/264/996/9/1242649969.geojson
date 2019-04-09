@@ -1,0 +1,67 @@
+{
+  "id": 1242649969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4,6.05,116.4,6.05",
+    "geom:latitude":6.05,
+    "geom:longitude":116.4,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Rongohon",
+    "gn:country_code":"MY",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764972,
+    "gn:latitude":6.05,
+    "gn:longitude":116.4,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Rongohon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764972
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f15d215a54990ff46ebc3a8b5b7aa3f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1242649969,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1242649969,
+    "wof:lastmodified":1536959657,
+    "wof:name":"Kampong Rongohon",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4,
+    6.05,
+    116.4,
+    6.05
+],
+  "geometry": {"coordinates":[116.40000000000001,6.05],"type":"Point"}
+}

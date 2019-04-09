@@ -1,0 +1,67 @@
+{
+  "id": 1343927411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.51667,6.46667,116.51667,6.46667",
+    "geom:latitude":6.46667,
+    "geom:longitude":116.51667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Ranau",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765105,
+    "gn:latitude":6.46667,
+    "gn:longitude":116.51667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Ranau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765105
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3398c9c9363f13d1a086edc5c18854e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1343927411,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343927411,
+    "wof:lastmodified":1537064913,
+    "wof:name":"Kampong Ranau",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.51667,
+    6.46667,
+    116.51667,
+    6.46667
+],
+  "geometry": {"coordinates":[116.51667,6.46667],"type":"Point"}
+}

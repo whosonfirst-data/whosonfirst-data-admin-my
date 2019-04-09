@@ -1,0 +1,73 @@
+{
+  "id": 1344141295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.50378,5.22082,100.50378,5.22082",
+    "geom:latitude":5.22082,
+    "geom:longitude":100.50378,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Permatang Ara",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765592,
+    "gn:latitude":5.22082,
+    "gn:longitude":100.50378,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Permatang Ara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Permatang Ara"
+    ],
+    "name:und_x_variant":[
+        "Kampong Permatang Ara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765592
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"575e2fb93cb9c0f89391e763537d4d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1344141295,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1344141295,
+    "wof:lastmodified":1537673960,
+    "wof:name":"Kampung Permatang Ara",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.50378,
+    5.22082,
+    100.50378,
+    5.22082
+],
+  "geometry": {"coordinates":[100.50378000000001,5.22082],"type":"Point"}
+}

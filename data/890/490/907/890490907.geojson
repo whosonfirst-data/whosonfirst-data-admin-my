@@ -1,0 +1,94 @@
+{
+  "id": 890490907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6388,2.1,102.6388,2.1",
+    "geom:latitude":2.1,
+    "geom:longitude":102.6388,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6b66\u5409\u5df4\u897f"
+    ],
+    "name:dut_x_preferred":[
+        "Bukit Pasir"
+    ],
+    "name:eng_x_preferred":[
+        "Bukit Pasir"
+    ],
+    "name:fre_x_preferred":[
+        "Bukit Pasir"
+    ],
+    "name:may_x_preferred":[
+        "Bukit Pasir"
+    ],
+    "name:msa_x_preferred":[
+        "Bukit Pasir"
+    ],
+    "qs:name":"Bukit Pasir",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:latitude":"2.1",
+    "wd:longitude":"102.633333333",
+    "wd:wordcount":427,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732864,
+        "gp:id":1140974,
+        "qs:id":1185778,
+        "wd:id":"Q4986941",
+        "wk:page":"Bukit Pasir"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054832,
+    "wof:geomhash":"4c1e91becece20392b3fd63a2f3bd7ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":890490907,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890490907,
+    "wof:lastmodified":1527732951,
+    "wof:name":"Bukit Pasir",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6388,
+    2.1,
+    102.6388,
+    2.1
+],
+  "geometry": {"coordinates":[102.6388,2.1],"type":"Point"}
+}

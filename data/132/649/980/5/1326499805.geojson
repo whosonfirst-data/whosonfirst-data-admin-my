@@ -1,0 +1,67 @@
+{
+  "id": 1326499805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.63333,5.13333,115.63333,5.13333",
+    "geom:latitude":5.13333,
+    "geom:longitude":115.63333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Sungai Baulak",
+    "gn:country_code":"MY",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764121,
+    "gn:latitude":5.13333,
+    "gn:longitude":115.63333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Sungai Baulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764121
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fdd6b5f7459699fd1672a3f022386d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696519,
+            "locality_id":1326499805,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1326499805,
+    "wof:lastmodified":1537029599,
+    "wof:name":"Kampong Sungai Baulak",
+    "wof:parent_id":1108696519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.63333,
+    5.13333,
+    115.63333,
+    5.13333
+],
+  "geometry": {"coordinates":[115.63333,5.13333],"type":"Point"}
+}

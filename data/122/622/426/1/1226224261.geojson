@@ -1,0 +1,67 @@
+{
+  "id": 1226224261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.37367,5.2596,116.37367,5.2596",
+    "geom:latitude":5.2596,
+    "geom:longitude":116.37367,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Klinik Desa Kabatang Baru",
+    "gn:country_code":"MY",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":9613560,
+    "gn:latitude":5.2596,
+    "gn:longitude":116.37367,
+    "gn:modification_date":"2014-10-03",
+    "gn:name":"Klinik Desa Kabatang Baru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9613560
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7d9ac0d6358e2555a41e7fa1c6e18883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1226224261,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226224261,
+    "wof:lastmodified":1536964454,
+    "wof:name":"Klinik Desa Kabatang Baru",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.37367,
+    5.2596,
+    116.37367,
+    5.2596
+],
+  "geometry": {"coordinates":[116.37367,5.2596],"type":"Point"}
+}

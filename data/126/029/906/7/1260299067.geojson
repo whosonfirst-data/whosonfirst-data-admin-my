@@ -1,0 +1,70 @@
+{
+  "id": 1260299067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3554,1.6184,103.3554,1.6184",
+    "geom:latitude":1.6184,
+    "geom:longitude":103.3554,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Puasa",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536973,
+    "gn:latitude":1.6184,
+    "gn:longitude":103.3554,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Parit Puasa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Puasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536973
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6b5410c186eac0cee297410821451ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "locality_id":1260299067,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1260299067,
+    "wof:lastmodified":1537674466,
+    "wof:name":"Kampung Parit Puasa",
+    "wof:parent_id":890491001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3554,
+    1.6184,
+    103.3554,
+    1.6184
+],
+  "geometry": {"coordinates":[103.3554,1.6184],"type":"Point"}
+}

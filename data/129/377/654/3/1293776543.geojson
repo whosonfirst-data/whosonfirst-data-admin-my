@@ -1,0 +1,73 @@
+{
+  "id": 1293776543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5807,3.421,102.5807,3.421",
+    "geom:latitude":3.421,
+    "geom:longitude":102.5807,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Karai",
+    "gn:country_code":"MY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768588,
+    "gn:latitude":3.421,
+    "gn:longitude":102.5807,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Karai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Karai"
+    ],
+    "name:und_x_variant":[
+        "Kampong Karai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768588
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"17cfb7995addaea8436d46ae83062116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1293776543,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293776543,
+    "wof:lastmodified":1537674085,
+    "wof:name":"Kampung Karai",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5807,
+    3.421,
+    102.5807,
+    3.421
+],
+  "geometry": {"coordinates":[102.58069999999999,3.421],"type":"Point"}
+}

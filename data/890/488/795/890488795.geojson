@@ -1,0 +1,92 @@
+{
+  "id": 890488795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.6965,1.5489,103.6965,1.5489",
+    "geom:latitude":1.5489,
+    "geom:longitude":103.6965,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7518\u62d4\u58eb"
+    ],
+    "name:dut_x_preferred":[
+        "Kempas"
+    ],
+    "name:eng_x_preferred":[
+        "Kempas"
+    ],
+    "name:epo_x_preferred":[
+        "Kempas"
+    ],
+    "name:may_x_preferred":[
+        "Kempas"
+    ],
+    "name:msa_x_preferred":[
+        "Kempas"
+    ],
+    "qs:name":"Kempas",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":187,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732746,
+        "gp:id":1154734,
+        "qs:id":353959,
+        "wd:id":"Q6387036",
+        "wk:page":"Kempas"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054733,
+    "wof:geomhash":"5a5543bb5cdd3c585c7208970cf07eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":890488795,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890488795,
+    "wof:lastmodified":1527787079,
+    "wof:name":"Kempas",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.6965,
+    1.5489,
+    103.6965,
+    1.5489
+],
+  "geometry": {"coordinates":[103.6965,1.5489],"type":"Point"}
+}

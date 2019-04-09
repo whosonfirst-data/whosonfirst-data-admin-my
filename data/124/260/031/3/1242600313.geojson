@@ -1,0 +1,70 @@
+{
+  "id": 1242600313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3087,2.8336,102.3087,2.8336",
+    "geom:latitude":2.8336,
+    "geom:longitude":102.3087,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Perah",
+    "gn:country_code":"MY",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796781,
+    "gn:latitude":2.8336,
+    "gn:longitude":102.3087,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Perah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Perah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796781
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fd8d81845848f095c6ab24f9b76f379b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1242600313,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1242600313,
+    "wof:lastmodified":1537674411,
+    "wof:name":"Kampung Perah",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3087,
+    2.8336,
+    102.3087,
+    2.8336
+],
+  "geometry": {"coordinates":[102.3087,2.8336],"type":"Point"}
+}

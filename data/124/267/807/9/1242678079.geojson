@@ -1,0 +1,70 @@
+{
+  "id": 1242678079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2917,2.2014,102.2917,2.2014",
+    "geom:latitude":2.2014,
+    "geom:longitude":102.2917,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Duyong",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797970,
+    "gn:latitude":2.2014,
+    "gn:longitude":102.2917,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Duyong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Duyong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797970
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b7280893753fec8ddf81606fded6b905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":1242678079,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1242678079,
+    "wof:lastmodified":1537674426,
+    "wof:name":"Kampung Duyong",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2917,
+    2.2014,
+    102.2917,
+    2.2014
+],
+  "geometry": {"coordinates":[102.29170000000001,2.2014],"type":"Point"}
+}

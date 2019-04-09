@@ -1,0 +1,70 @@
+{
+  "id": 1276143583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9596,4.1175,100.9596,4.1175",
+    "geom:latitude":4.1175,
+    "geom:longitude":100.9596,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Bukit Chawi",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7633286,
+    "gn:latitude":4.1175,
+    "gn:longitude":100.9596,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bukit Chawi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Chawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7633286
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ff00543bcb288d34f91a0b62c7aaa2f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489811,
+            "locality_id":1276143583,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1276143583,
+    "wof:lastmodified":1537674341,
+    "wof:name":"Kampung Bukit Chawi",
+    "wof:parent_id":890489811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9596,
+    4.1175,
+    100.9596,
+    4.1175
+],
+  "geometry": {"coordinates":[100.95959999999999,4.1175],"type":"Point"}
+}

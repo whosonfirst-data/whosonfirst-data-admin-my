@@ -1,0 +1,70 @@
+{
+  "id": 1292973413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.0871,6.2636,117.0871,6.2636",
+    "geom:latitude":6.2636,
+    "geom:longitude":117.0871,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Sinukol",
+    "gn:country_code":"MY",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787131,
+    "gn:latitude":6.2636,
+    "gn:longitude":117.0871,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sinukol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sinukol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787131
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6d4a39219c27c9adab210c652058f6d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1292973413,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1292973413,
+    "wof:lastmodified":1537674382,
+    "wof:name":"Kampung Sinukol",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.0871,
+    6.2636,
+    117.0871,
+    6.2636
+],
+  "geometry": {"coordinates":[117.08710000000001,6.2636],"type":"Point"}
+}

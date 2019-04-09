@@ -1,0 +1,76 @@
+{
+  "id": 890489985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0837,5.3073,103.0837,5.3073",
+    "geom:latitude":5.3073,
+    "geom:longitude":103.0837,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Manir"
+    ],
+    "qs:name":"Manir",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Terengganu",
+    "qs:photos":44,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":44,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355657,
+        "gp:id":56015575,
+        "qs:id":1115403
+    },
+    "wof:country":"MY",
+    "wof:created":1469054783,
+    "wof:geomhash":"dbb4cd89d76b3ed8ed9fcbae0949a28d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":890489985,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":890489985,
+    "wof:lastmodified":1505343786,
+    "wof:name":"Manir",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0837,
+    5.3073,
+    103.0837,
+    5.3073
+],
+  "geometry": {"coordinates":[103.08369999999999,5.3073],"type":"Point"}
+}

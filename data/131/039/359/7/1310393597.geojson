@@ -1,0 +1,67 @@
+{
+  "id": 1310393597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.9,2.21667,111.9,2.21667",
+    "geom:latitude":2.21667,
+    "geom:longitude":111.9,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Bikas",
+    "gn:country_code":"MY",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748081,
+    "gn:latitude":2.21667,
+    "gn:longitude":111.9,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Bikas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748081
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"57b57c2c1a3f1a0aa1602a862248709f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488423,
+            "locality_id":1310393597,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1310393597,
+    "wof:lastmodified":1537075317,
+    "wof:name":"Rumah Bikas",
+    "wof:parent_id":890488423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.9,
+    2.21667,
+    111.9,
+    2.21667
+],
+  "geometry": {"coordinates":[111.90000000000001,2.21667],"type":"Point"}
+}

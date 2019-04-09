@@ -1,0 +1,70 @@
+{
+  "id": 1293901423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7719,2.2287,102.7719,2.2287",
+    "geom:latitude":2.2287,
+    "geom:longitude":102.7719,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sungai Malabari",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798383,
+    "gn:latitude":2.2287,
+    "gn:longitude":102.7719,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sungai Malabari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Sungai Malabari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798383
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ac3b0ddc2a581b7f5897b9e014367883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1293901423,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293901423,
+    "wof:lastmodified":1537674431,
+    "wof:name":"Sungai Malabari",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7719,
+    2.2287,
+    102.7719,
+    2.2287
+],
+  "geometry": {"coordinates":[102.7719,2.2287],"type":"Point"}
+}

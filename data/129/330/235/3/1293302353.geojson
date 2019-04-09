@@ -1,0 +1,70 @@
+{
+  "id": 1293302353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.59,1.6654,103.59,1.6654",
+    "geom:latitude":1.6654,
+    "geom:longitude":103.59,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Seri Kulai",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535091,
+    "gn:latitude":1.6654,
+    "gn:longitude":103.59,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Taman Seri Kulai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Seri Kulai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535091
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4a8372074da627301a1aaddb3613ec61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696433,
+            "locality_id":1293302353,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293302353,
+    "wof:lastmodified":1537674460,
+    "wof:name":"Taman Seri Kulai",
+    "wof:parent_id":1108696433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.59,
+    1.6654,
+    103.59,
+    1.6654
+],
+  "geometry": {"coordinates":[103.59,1.6654],"type":"Point"}
+}

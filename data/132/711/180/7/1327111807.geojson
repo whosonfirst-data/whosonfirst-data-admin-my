@@ -1,0 +1,74 @@
+{
+  "id": 1327111807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1688,3.402,101.1688,3.402",
+    "geom:latitude":3.402,
+    "geom:longitude":101.1688,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung China Tanjung Karang",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769756,
+    "gn:latitude":3.402,
+    "gn:longitude":101.1688,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung China Tanjung Karang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung China Tanjung Karang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tanjong Karang",
+        "Kampong China Tanjong Karang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890488801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769756
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cb1fb259f581bb830fde088e81f96525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488801,
+            "locality_id":1327111807,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1327111807,
+    "wof:lastmodified":1537674133,
+    "wof:name":"Kampung China Tanjung Karang",
+    "wof:parent_id":890488801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1688,
+    3.402,
+    101.1688,
+    3.402
+],
+  "geometry": {"coordinates":[101.1688,3.402],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 890490475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.73404,6.35423,99.73404,6.35423",
+    "geom:latitude":6.35423,
+    "geom:longitude":99.73404,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kampung Padang Masirat"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u0443\u043d\u0433-\u041f\u0430\u0434\u0430\u043d\u0433-\u041c\u0430\u0441\u0438\u0440\u0430\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Padang Mat Sirat"
+    ],
+    "qs:name":"Padang Masirat",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kedah",
+    "qs:photos":38,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":38,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696443,
+        85675137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222387,
+        "gp:id":1154964,
+        "qs:id":1312259
+    },
+    "wof:country":"MY",
+    "wof:created":1469054812,
+    "wof:geomhash":"bfa6a0a29f3d3c34554bd6455d538cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":890490475,
+            "region_id":85675133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":890490475,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":890490475,
+    "wof:lastmodified":1505343788,
+    "wof:name":"Padang Masirat",
+    "wof:parent_id":1108696443,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.73404,
+    6.35423,
+    99.73404,
+    6.35423
+],
+  "geometry": {"coordinates":[99.73403999999999,6.35423],"type":"Point"}
+}

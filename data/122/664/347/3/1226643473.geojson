@@ -1,0 +1,70 @@
+{
+  "id": 1226643473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2991,3.7304,102.2991,3.7304",
+    "geom:latitude":3.7304,
+    "geom:longitude":102.2991,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Baru Paya Luas",
+    "gn:country_code":"MY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7656111,
+    "gn:latitude":3.7304,
+    "gn:longitude":102.2991,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Baru Paya Luas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baru Paya Luas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656111
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5a77b99ec485724d5724faf51b4aeda3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1226643473,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226643473,
+    "wof:lastmodified":1537674353,
+    "wof:name":"Kampung Baru Paya Luas",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2991,
+    3.7304,
+    102.2991,
+    3.7304
+],
+  "geometry": {"coordinates":[102.2991,3.7304],"type":"Point"}
+}

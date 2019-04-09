@@ -1,0 +1,70 @@
+{
+  "id": 1260296627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.73225,5.69405,101.73225,5.69405",
+    "geom:latitude":5.69405,
+    "geom:longitude":101.73225,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chegar Abu",
+    "gn:country_code":"MY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067978,
+    "gn:latitude":5.69405,
+    "gn:longitude":101.73225,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chegar Abu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Chegar Abu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067978
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9e77e9fc9ecdc481dbf783169f39d48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490101,
+            "locality_id":1260296627,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1260296627,
+    "wof:lastmodified":1537674275,
+    "wof:name":"Chegar Abu",
+    "wof:parent_id":890490101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.73225,
+    5.69405,
+    101.73225,
+    5.69405
+],
+  "geometry": {"coordinates":[101.73224999999999,5.69405],"type":"Point"}
+}

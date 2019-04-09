@@ -1,0 +1,73 @@
+{
+  "id": 1243266967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36548,5.96863,100.36548,5.96863",
+    "geom:latitude":5.96863,
+    "geom:longitude":100.36548,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Alor Nibong",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771663,
+    "gn:latitude":5.96863,
+    "gn:longitude":100.36548,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Alor Nibong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Alor Nibong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Alor Nibong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771663
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"10f11352c9cfbae0b9ef027a8e9750dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489701,
+            "locality_id":1243266967,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1243266967,
+    "wof:lastmodified":1537674212,
+    "wof:name":"Kampung Alor Nibong",
+    "wof:parent_id":890489701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36548,
+    5.96863,
+    100.36548,
+    5.96863
+],
+  "geometry": {"coordinates":[100.36548000000001,5.96863],"type":"Point"}
+}

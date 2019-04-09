@@ -1,0 +1,139 @@
+{
+  "id": 85771669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6134605.810833,
+    "geom:bbox":"100.374252,5.38907,100.374252,5.38907",
+    "geom:latitude":5.38907,
+    "geom:longitude":100.374252,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":5.4,
+    "gn:longitude":100.36667,
+    "iso:country":"MY",
+    "lbl:latitude":5.38907,
+    "lbl:longitude":100.374252,
+    "mps:latitude":5.385484,
+    "mps:longitude":100.361903,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kampong Jawa"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Jawa"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1735076,
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Kampong Jawa",
+    "qs:local_max":267,
+    "qs:local_sum":384,
+    "qs:localhoods":4,
+    "qs:name":"Kampong Jawa",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:name_adm2":"Seberang Perai Utara",
+    "qs:name_lau":"Mukim 15",
+    "qs:name_local":"Butterworth",
+    "qs:photo_max":18,
+    "qs:photo_sum":40,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346304,
+    "qs:woe_adm2":56013561,
+    "qs:woe_lau":56013869,
+    "qs:woe_local":1154632,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1768890,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kampong Jawa",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Pulau Pinang",
+    "qs_pg:photos":108,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":108,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1114897,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1144120,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675127,
+        102191569,
+        85632739,
+        102023321,
+        890490327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768890,
+        "gp:id":1144122,
+        "qs:id":1114897,
+        "qs_pg:id":1111449
+    },
+    "wof:concordances_alt":{
+        "gp:id":1144120,
+        "qs_pg:id":1114897
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0214c9bb0bc1d4d733d6b75ede2679c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490327,
+            "locality_id":102023321,
+            "neighbourhood_id":85771669,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":85771669,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379384,
+    "wof:name":"Kampong Jawa",
+    "wof:parent_id":102023321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126104211
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.374252,
+    5.38907,
+    100.374252,
+    5.38907
+],
+  "geometry": {"coordinates":[100.374252,5.38907],"type":"Point"}
+}

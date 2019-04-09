@@ -1,0 +1,74 @@
+{
+  "id": 890488489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.875732,1.945236,103.875732,1.945236",
+    "geom:latitude":1.945236,
+    "geom:longitude":103.875732,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ulu Sungai Sedili Besar",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":386,
+    "qs:photos_1k":78,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":387,
+    "qs:photos_sr":6,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":183,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014162,
+        "qs:id":1306821,
+        "qs_pg:id":1204947,
+        "wd:id":"Q25212577",
+        "wk:page":"Subdistricts (Mukim) of Malaysia"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054721,
+    "wof:geomhash":"8fbe8e5ebe62012807f80180989f6fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "localadmin_id":890488489,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890488489,
+    "wof:lastmodified":1527787080,
+    "wof:name":"Ulu Sungai Sedili Besar",
+    "wof:parent_id":890491003,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.875732,
+    1.945236,
+    103.875732,
+    1.945236
+],
+  "geometry": {"coordinates":[103.875732,1.945236],"type":"Point"}
+}

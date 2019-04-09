@@ -1,0 +1,75 @@
+{
+  "id": 1242686755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.77019,6.34223,99.77019,6.34223",
+    "geom:latitude":6.34223,
+    "geom:longitude":99.77019,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Bukit Temin",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804770,
+    "gn:latitude":6.34223,
+    "gn:longitude":99.77019,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kampung Bukit Temin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696443,
+        85675137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804770
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b9278abdafe9e097a759f136a4ada2a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":1242686755,
+            "region_id":85675133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":1242686755,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1242686755,
+    "wof:lastmodified":1536906724,
+    "wof:name":"Kampung Bukit Temin",
+    "wof:parent_id":1108696443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.77019,
+    6.34223,
+    99.77019,
+    6.34223
+],
+  "geometry": {"coordinates":[99.77019,6.34223],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890489839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.145103,4.911386,118.145103,4.911386",
+    "geom:latitude":4.911386,
+    "geom:longitude":118.145103,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Lahad Datu",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sabah",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":146,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:population":"wk",
+    "wd:latitude":"5.03",
+    "wd:longitude":"118.34",
+    "wd:population":199830,
+    "wd:wordcount":843,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014022,
+        "qs:id":1111827,
+        "wd:id":"Q1018501",
+        "wk:page":"Lahad Datu"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054777,
+    "wof:geomhash":"5634b6b30bbaeff7e674c49670a434b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696441,
+            "localadmin_id":890489839,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":890489839,
+    "wof:lastmodified":1527792866,
+    "wof:name":"Lahad Datu",
+    "wof:parent_id":1108696441,
+    "wof:placetype":"localadmin",
+    "wof:population":199830,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.145103,
+    4.911386,
+    118.145103,
+    4.911386
+],
+  "geometry": {"coordinates":[118.14510300000001,4.911386],"type":"Point"}
+}

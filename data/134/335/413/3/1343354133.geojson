@@ -1,0 +1,67 @@
+{
+  "id": 1343354133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.93333,4.06667,101.93333,4.06667",
+    "geom:latitude":4.06667,
+    "geom:longitude":101.93333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampong Ulu Atok",
+    "gn:country_code":"MY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762389,
+    "gn:latitude":4.06667,
+    "gn:longitude":101.93333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Ulu Atok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762389
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"97bfbc61082625a6e0ee2d6f485be2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1343354133,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1343354133,
+    "wof:lastmodified":1536899721,
+    "wof:name":"Kampong Ulu Atok",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.93333,
+    4.06667,
+    101.93333,
+    4.06667
+],
+  "geometry": {"coordinates":[101.93333,4.06667],"type":"Point"}
+}

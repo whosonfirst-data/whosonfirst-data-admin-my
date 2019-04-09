@@ -1,0 +1,70 @@
+{
+  "id": 1293195043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1461,3.7435,101.1461,3.7435",
+    "geom:latitude":3.7435,
+    "geom:longitude":101.1461,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ladang Ulu Bernam",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7651111,
+    "gn:latitude":3.7435,
+    "gn:longitude":101.1461,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ladang Ulu Bernam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ladang Ulu Bernam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7651111
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"63b95d4a9f1e59583030b531b9c8f62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1293195043,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1293195043,
+    "wof:lastmodified":1537674351,
+    "wof:name":"Ladang Ulu Bernam",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1461,
+    3.7435,
+    101.1461,
+    3.7435
+],
+  "geometry": {"coordinates":[101.1461,3.7435],"type":"Point"}
+}

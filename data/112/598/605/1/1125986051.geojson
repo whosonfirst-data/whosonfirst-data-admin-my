@@ -1,0 +1,110 @@
+{
+  "id": 1125986051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5629,2.6579,101.5629,2.6579",
+    "geom:latitude":2.6579,
+    "geom:longitude":101.5629,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":22340,
+    "gn:population":22340,
+    "iso:country":"MY",
+    "lbl:latitude":2.6579,
+    "lbl:longitude":101.5629,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u4e39\u7ed2\u58eb\u62d4"
+    ],
+    "name:dut_x_preferred":[
+        "Tanjung Sepat"
+    ],
+    "name:eng_x_preferred":[
+        "Tanjung Sepat"
+    ],
+    "name:ind_x_preferred":[
+        "Tanjung Sepat"
+    ],
+    "name:may_x_preferred":[
+        "Tanjung Sepat"
+    ],
+    "name:msa_x_preferred":[
+        "Tanjung Sepat"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Tanjong Sepat"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1741562,
+    "qs_pg:gn_pop":22340,
+    "qs_pg:name":"Tanjong Sepat",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Selangor",
+    "qs_pg:photos":318,
+    "qs_pg:photos_1k":64,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":318,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":238315,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1155188,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Selangor",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1741562,
+        "gp:id":1155188,
+        "qs_pg:id":238315,
+        "wd:id":"Q7683441"
+    },
+    "wof:country":"MY",
+    "wof:created":1497298813,
+    "wof:geomhash":"63405faa603152d53bdc7624213a584a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1125986051,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125986051,
+    "wof:lastmodified":1514490846,
+    "wof:name":"Tanjong Sepat",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":22340,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5629,
+    2.6579,
+    101.5629,
+    2.6579
+],
+  "geometry": {"coordinates":[101.5629,2.6579],"type":"Point"}
+}

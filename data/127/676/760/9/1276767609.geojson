@@ -1,0 +1,73 @@
+{
+  "id": 1276767609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0979,2.5778,102.0979,2.5778",
+    "geom:latitude":2.5778,
+    "geom:longitude":102.0979,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Senama Hilir",
+    "gn:country_code":"MY",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764586,
+    "gn:latitude":2.5778,
+    "gn:longitude":102.0979,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Senama Hilir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Senama Hilir"
+    ],
+    "name:und_x_variant":[
+        "Kampong Senama Hilir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764586
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e3a9bb6c9bf0702b59080eea8f28fde2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1276767609,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1276767609,
+    "wof:lastmodified":1537673916,
+    "wof:name":"Kampung Senama Hilir",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0979,
+    2.5778,
+    102.0979,
+    2.5778
+],
+  "geometry": {"coordinates":[102.0979,2.5778],"type":"Point"}
+}

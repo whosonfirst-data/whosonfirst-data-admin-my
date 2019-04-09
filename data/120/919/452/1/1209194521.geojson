@@ -1,0 +1,61 @@
+{
+  "id": 1209194521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.31667,3.15,101.31667,3.15",
+    "geom:latitude":3.15,
+    "geom:longitude":101.31667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Sungai Serdang",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763799,
+    "gn:latitude":3.15,
+    "gn:longitude":101.31667,
+    "gn:modification_date":"2004-03-04",
+    "gn:name":"Kampung Sungai Serdang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763799
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3f9b724c2057ece7ce768119677135ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209194521
+        }
+    ],
+    "wof:id":1209194521,
+    "wof:lastmodified":1536294818,
+    "wof:name":"Kampung Sungai Serdang",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.31667,
+    3.15,
+    101.31667,
+    3.15
+],
+  "geometry": {"coordinates":[101.31667,3.15],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209185605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.58609,5.79357,102.58609,5.79357",
+    "geom:latitude":5.79357,
+    "geom:longitude":102.58609,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Limbungan",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6893777,
+    "gn:latitude":5.79357,
+    "gn:longitude":102.58609,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Limbungan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Limbungan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6893777
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b33190ccfa886bdf68de7326f1eb319f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209185605
+        }
+    ],
+    "wof:id":1209185605,
+    "wof:lastmodified":1537674271,
+    "wof:name":"Kampung Limbungan",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.58609,
+    5.79357,
+    102.58609,
+    5.79357
+],
+  "geometry": {"coordinates":[102.58609,5.79357],"type":"Point"}
+}

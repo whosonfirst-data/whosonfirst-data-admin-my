@@ -1,0 +1,72 @@
+{
+  "id": 1242765811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.26667,1.51667,110.26667,1.51667",
+    "geom:latitude":1.51667,
+    "geom:longitude":110.26667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Sekubang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764710,
+    "gn:latitude":1.51667,
+    "gn:longitude":110.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Sekubang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Skubang",
+        "Kampong Sekubang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764710
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f115877a8a56a728327f3fd79b5cb1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1242765811,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1242765811,
+    "wof:lastmodified":1537673922,
+    "wof:name":"Kampong Sekubang",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.26667,
+    1.51667,
+    110.26667,
+    1.51667
+],
+  "geometry": {"coordinates":[110.26667,1.51667],"type":"Point"}
+}

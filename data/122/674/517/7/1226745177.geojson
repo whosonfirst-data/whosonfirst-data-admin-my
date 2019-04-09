@@ -1,0 +1,70 @@
+{
+  "id": 1226745177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4114,3.5239,102.4114,3.5239",
+    "geom:latitude":3.5239,
+    "geom:longitude":102.4114,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Darat Sanggang",
+    "gn:country_code":"MY",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536630,
+    "gn:latitude":3.5239,
+    "gn:longitude":102.4114,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Darat Sanggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Darat Sanggang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536630
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"09e67b947e51da4ff3a37042323f358e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1226745177,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226745177,
+    "wof:lastmodified":1537674463,
+    "wof:name":"Kampung Darat Sanggang",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4114,
+    3.5239,
+    102.4114,
+    3.5239
+],
+  "geometry": {"coordinates":[102.4114,3.5239],"type":"Point"}
+}

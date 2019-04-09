@@ -1,0 +1,74 @@
+{
+  "id": 1293274433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.5868,5.2829,115.5868,5.2829",
+    "geom:latitude":5.2829,
+    "geom:longitude":115.5868,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Suasa",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764198,
+    "gn:latitude":5.2829,
+    "gn:longitude":115.5868,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Suasa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Suasa"
+    ],
+    "name:und_x_variant":[
+        "Tuasa",
+        "Kampong Suasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764198
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7c53755e4e45ae407e0ba28d0ba5f853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696385,
+            "locality_id":1293274433,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293274433,
+    "wof:lastmodified":1537673897,
+    "wof:name":"Kampung Suasa",
+    "wof:parent_id":1108696385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.5868,
+    5.2829,
+    115.5868,
+    5.2829
+],
+  "geometry": {"coordinates":[115.5868,5.2829],"type":"Point"}
+}

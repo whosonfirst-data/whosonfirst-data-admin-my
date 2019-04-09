@@ -1,0 +1,70 @@
+{
+  "id": 1259600675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5554,2.1215,102.5554,2.1215",
+    "geom:latitude":2.1215,
+    "geom:longitude":102.5554,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Rawang",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7855769,
+    "gn:latitude":2.1215,
+    "gn:longitude":102.5554,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Rawang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rawang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855769
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e7b224a39baefaf6a55b96ec6bcdd93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1259600675,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1259600675,
+    "wof:lastmodified":1537674434,
+    "wof:name":"Kampung Rawang",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5554,
+    2.1215,
+    102.5554,
+    2.1215
+],
+  "geometry": {"coordinates":[102.55540000000001,2.1215],"type":"Point"}
+}

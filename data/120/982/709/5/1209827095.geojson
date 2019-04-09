@@ -1,0 +1,67 @@
+{
+  "id": 1209827095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2,5.75,102.2,5.75",
+    "geom:latitude":5.75,
+    "geom:longitude":102.2,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Panyit",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766179,
+    "gn:latitude":5.75,
+    "gn:longitude":102.2,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Panyit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766179
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"65b3bb130142a61c525445b10ffed174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696457,
+            "locality_id":1209827095,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1209827095,
+    "wof:lastmodified":1536372545,
+    "wof:name":"Kampong Panyit",
+    "wof:parent_id":1108696457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2,
+    5.75,
+    102.2,
+    5.75
+],
+  "geometry": {"coordinates":[102.2,5.75],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310226351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1869,4.695,101.1869,4.695",
+    "geom:latitude":4.695,
+    "geom:longitude":101.1869,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Orang Asli Tunggang",
+    "gn:country_code":"MY",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473387,
+    "gn:latitude":4.695,
+    "gn:longitude":101.1869,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Orang Asli Tunggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Orang Asli Tunggang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473387
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"99a9a834d92cb9b813f73eb763e76603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1310226351,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1310226351,
+    "wof:lastmodified":1537674306,
+    "wof:name":"Kampung Orang Asli Tunggang",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1869,
+    4.695,
+    101.1869,
+    4.695
+],
+  "geometry": {"coordinates":[101.18689999999999,4.695],"type":"Point"}
+}

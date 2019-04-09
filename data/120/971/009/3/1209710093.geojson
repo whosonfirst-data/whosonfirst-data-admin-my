@@ -1,0 +1,72 @@
+{
+  "id": 1209710093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.43333,5.43333,100.43333,5.43333",
+    "geom:latitude":5.43333,
+    "geom:longitude":100.43333,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampong Padang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766577,
+    "gn:latitude":5.43333,
+    "gn:longitude":100.43333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Padang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sungei Sintok",
+        "Kampong Padang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766577
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"840a183069ce3bcc1cf411160d36a65f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1209710093,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1209710093,
+    "wof:lastmodified":1537673999,
+    "wof:name":"Kampong Padang",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.43333,
+    5.43333,
+    100.43333,
+    5.43333
+],
+  "geometry": {"coordinates":[100.43333,5.43333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226445729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.39958,6.20368,100.39958,6.20368",
+    "geom:latitude":6.20368,
+    "geom:longitude":100.39958,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Titi Besi",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807146,
+    "gn:latitude":6.20368,
+    "gn:longitude":100.39958,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Titi Besi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Titi Besi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807146
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8714dc6a3577fda79329a8f7b11cebc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1226445729,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1226445729,
+    "wof:lastmodified":1537674237,
+    "wof:name":"Kampung Titi Besi",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.39958,
+    6.20368,
+    100.39958,
+    6.20368
+],
+  "geometry": {"coordinates":[100.39958,6.20368],"type":"Point"}
+}

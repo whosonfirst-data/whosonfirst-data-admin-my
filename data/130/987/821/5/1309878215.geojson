@@ -1,0 +1,67 @@
+{
+  "id": 1309878215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.58249,4.45218,118.58249,4.45218",
+    "geom:latitude":4.45218,
+    "geom:longitude":118.58249,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Bubul Baharu",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7045424,
+    "gn:latitude":4.45218,
+    "gn:longitude":118.58249,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Bubul Baharu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7045424
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9a2a119e76cffe7d822848f4fee9215d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696507,
+            "locality_id":1309878215,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309878215,
+    "wof:lastmodified":1536825918,
+    "wof:name":"Kampung Bubul Baharu",
+    "wof:parent_id":1108696507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.58249,
+    4.45218,
+    118.58249,
+    4.45218
+],
+  "geometry": {"coordinates":[118.58249000000001,4.45218],"type":"Point"}
+}

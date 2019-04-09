@@ -1,0 +1,70 @@
+{
+  "id": 1309710071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3856,3.5047,103.3856,3.5047",
+    "geom:latitude":3.5047,
+    "geom:longitude":103.3856,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pulau Tengku Muda",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8306559,
+    "gn:latitude":3.5047,
+    "gn:longitude":103.3856,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Pulau Tengku Muda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pulau Tengku Muda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306559
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"347b67d965908ac7928db57cdd27eaf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1309710071,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1309710071,
+    "wof:lastmodified":1537674451,
+    "wof:name":"Pulau Tengku Muda",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3856,
+    3.5047,
+    103.3856,
+    3.5047
+],
+  "geometry": {"coordinates":[103.3856,3.5047],"type":"Point"}
+}

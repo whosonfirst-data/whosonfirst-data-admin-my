@@ -1,0 +1,70 @@
+{
+  "id": 1276627397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1143,5.9478,116.1143,5.9478",
+    "geom:latitude":5.9478,
+    "geom:longitude":116.1143,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kolamail Bekal",
+    "gn:country_code":"MY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7769344,
+    "gn:latitude":5.9478,
+    "gn:longitude":116.1143,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kolamail Bekal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kolamail Bekal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7769344
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9f4b57ebb9b34593afe894df53be470b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1276627397,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276627397,
+    "wof:lastmodified":1537674376,
+    "wof:name":"Kolamail Bekal",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1143,
+    5.9478,
+    116.1143,
+    5.9478
+],
+  "geometry": {"coordinates":[116.1143,5.9478],"type":"Point"}
+}

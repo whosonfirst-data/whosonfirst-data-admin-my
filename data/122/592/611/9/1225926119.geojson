@@ -1,0 +1,70 @@
+{
+  "id": 1225926119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1649,5.4431,116.1649,5.4431",
+    "geom:latitude":5.4431,
+    "geom:longitude":116.1649,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Bandukan Lama",
+    "gn:country_code":"MY",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7588779,
+    "gn:latitude":5.4431,
+    "gn:longitude":116.1649,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bandukan Lama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bandukan Lama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7588779
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5e0a9e8014e40f0564ac3023fe225401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1225926119,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1225926119,
+    "wof:lastmodified":1537674321,
+    "wof:name":"Kampung Bandukan Lama",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1649,
+    5.4431,
+    116.1649,
+    5.4431
+],
+  "geometry": {"coordinates":[116.1649,5.4431],"type":"Point"}
+}

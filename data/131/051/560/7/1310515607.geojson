@@ -1,0 +1,70 @@
+{
+  "id": 1310515607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7696,2.7127,102.7696,2.7127",
+    "geom:latitude":2.7127,
+    "geom:longitude":102.7696,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Desa Kemedak",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797142,
+    "gn:latitude":2.7127,
+    "gn:longitude":102.7696,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Desa Kemedak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Desa Kemedak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797142
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2bd4ba379f10e567a52a6d5341512687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1310515607,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1310515607,
+    "wof:lastmodified":1537674415,
+    "wof:name":"Desa Kemedak",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7696,
+    2.7127,
+    102.7696,
+    2.7127
+],
+  "geometry": {"coordinates":[102.7696,2.7127],"type":"Point"}
+}

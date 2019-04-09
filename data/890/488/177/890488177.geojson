@@ -1,0 +1,71 @@
+{
+  "id": 890488177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.878,1.4726,103.878,1.4726",
+    "geom:latitude":1.4726,
+    "geom:longitude":103.878,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":145639,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pasir Gudang Baru"
+    ],
+    "name:unk_x_variant":[
+        "Kampung Pasir Gudang"
+    ],
+    "qs:name":"Kampung Pasir Gudang Baru",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732721,
+        "qs:id":558786
+    },
+    "wof:country":"MY",
+    "wof:created":1469054709,
+    "wof:geomhash":"9333deec49740095ab6031701a7aa9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":890488177,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890488177,
+    "wof:lastmodified":1505343782,
+    "wof:name":"Kampung Pasir Gudang Baru",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:population":145639,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.878,
+    1.4726,
+    103.878,
+    1.4726
+],
+  "geometry": {"coordinates":[103.878,1.4726],"type":"Point"}
+}

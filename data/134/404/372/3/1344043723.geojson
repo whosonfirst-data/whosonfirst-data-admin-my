@@ -1,0 +1,70 @@
+{
+  "id": 1344043723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4035,4.7821,103.4035,4.7821",
+    "geom:latitude":4.7821,
+    "geom:longitude":103.4035,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Serai",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7554900,
+    "gn:latitude":4.7821,
+    "gn:longitude":103.4035,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Serai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Serai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7554900
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f029b7665a361ff85b9afd1f2fed1b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":1344043723,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1344043723,
+    "wof:lastmodified":1537674309,
+    "wof:name":"Kampung Serai",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4035,
+    4.7821,
+    103.4035,
+    4.7821
+],
+  "geometry": {"coordinates":[103.40349999999999,4.7821],"type":"Point"}
+}

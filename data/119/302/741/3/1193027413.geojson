@@ -1,0 +1,67 @@
+{
+  "id": 1193027413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0,5.96667,102.0,5.96667",
+    "geom:latitude":5.96667,
+    "geom:longitude":102.0,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Gual Bunut",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769166,
+    "gn:latitude":5.96667,
+    "gn:longitude":102.0,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Gual Bunut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769166
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f3110b0054ce5253ca0dc9914627b581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1193027413,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1193027413,
+    "wof:lastmodified":1536366736,
+    "wof:name":"Kampong Gual Bunut",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0,
+    5.96667,
+    102.0,
+    5.96667
+],
+  "geometry": {"coordinates":[102.0,5.96667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310383515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.44806,1.62083,110.44806,1.62083",
+    "geom:latitude":1.62083,
+    "geom:longitude":110.44806,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampung Senari",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764583,
+    "gn:latitude":1.62083,
+    "gn:longitude":110.44806,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Kampung Senari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764583
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"98e4beed74f3f1679147447e9b71fe7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1310383515,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1310383515,
+    "wof:lastmodified":1537089784,
+    "wof:name":"Kampung Senari",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.44806,
+    1.62083,
+    110.44806,
+    1.62083
+],
+  "geometry": {"coordinates":[110.44806,1.62083],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 1125844927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.49849,5.48032,100.49849,5.48032",
+    "geom:latitude":5.48032,
+    "geom:longitude":100.49849,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":135786,
+    "gn:population":135786,
+    "iso:country":"MY",
+    "lbl:latitude":5.48032,
+    "lbl:longitude":100.49849,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u6253\u6614\u725b\u6c5d\u83aa"
+    ],
+    "name:dut_x_preferred":[
+        "Tasek Gelugor"
+    ],
+    "name:eng_x_preferred":[
+        "Tasek Gelugor"
+    ],
+    "name:may_x_preferred":[
+        "Tasek Gelugor"
+    ],
+    "name:unk_x_variant":[
+        "Tasek Glugor"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1735093,
+    "qs_pg:gn_pop":135786,
+    "qs_pg:name":"Tasek Gelugur",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Pulau Pinang",
+    "qs_pg:photos":68,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":68,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":21561,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1154337,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Pulau Pinang",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890490327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735093,
+        "gp:id":1154337,
+        "qs_pg:id":21561,
+        "wd:id":"Q7687128"
+    },
+    "wof:country":"MY",
+    "wof:created":1497293110,
+    "wof:geomhash":"7300f14642e9dffec6d0ee6c41b524bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490327,
+            "locality_id":1125844927,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1125844927,
+    "wof:lastmodified":1514490849,
+    "wof:name":"Tasek Gelugur",
+    "wof:parent_id":890490327,
+    "wof:placetype":"locality",
+    "wof:population":135786,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49849,
+    5.48032,
+    100.49849,
+    5.48032
+],
+  "geometry": {"coordinates":[100.49849,5.48032],"type":"Point"}
+}

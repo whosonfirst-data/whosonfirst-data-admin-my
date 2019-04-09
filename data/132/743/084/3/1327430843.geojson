@@ -1,0 +1,70 @@
+{
+  "id": 1327430843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0181,2.4857,102.0181,2.4857",
+    "geom:latitude":2.4857,
+    "geom:longitude":102.0181,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rumah Rakyat Pengkalan Durian",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536718,
+    "gn:latitude":2.4857,
+    "gn:longitude":102.0181,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Rumah Rakyat Pengkalan Durian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Rumah Rakyat Pengkalan Durian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536718
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ee9c7463031e9602500bab39040ab5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490331,
+            "locality_id":1327430843,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1327430843,
+    "wof:lastmodified":1537674464,
+    "wof:name":"Rumah Rakyat Pengkalan Durian",
+    "wof:parent_id":890490331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0181,
+    2.4857,
+    102.0181,
+    2.4857
+],
+  "geometry": {"coordinates":[102.0181,2.4857],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226041867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.092,2.6378,102.092,2.6378",
+    "geom:latitude":2.6378,
+    "geom:longitude":102.092,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Solok Tontong",
+    "gn:country_code":"MY",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764220,
+    "gn:latitude":2.6378,
+    "gn:longitude":102.092,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Solok Tontong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Solok Tontong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Solok Tuntong",
+        "Kampong Solok Tontong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764220
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"20a4d6f7664b486c4eda59369144f99d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1226041867,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1226041867,
+    "wof:lastmodified":1537673898,
+    "wof:name":"Kampung Solok Tontong",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.092,
+    2.6378,
+    102.092,
+    2.6378
+],
+  "geometry": {"coordinates":[102.092,2.6378],"type":"Point"}
+}

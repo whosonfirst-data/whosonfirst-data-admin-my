@@ -1,0 +1,70 @@
+{
+  "id": 1293271455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0336,5.3807,103.0336,5.3807",
+    "geom:latitude":5.3807,
+    "geom:longitude":103.0336,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Wakaf Mesira",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7460990,
+    "gn:latitude":5.3807,
+    "gn:longitude":103.0336,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Wakaf Mesira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Wakaf Mesira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7460990
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9f25a323291cd69d474684d06f4be997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1293271455,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1293271455,
+    "wof:lastmodified":1537674291,
+    "wof:name":"Kampung Wakaf Mesira",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0336,
+    5.3807,
+    103.0336,
+    5.3807
+],
+  "geometry": {"coordinates":[103.03360000000001,5.3807],"type":"Point"}
+}

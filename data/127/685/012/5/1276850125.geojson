@@ -1,0 +1,70 @@
+{
+  "id": 1276850125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.72686,5.89696,102.72686,5.89696",
+    "geom:latitude":5.89696,
+    "geom:longitude":102.72686,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Pasir Hantu",
+    "gn:country_code":"MY",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766052,
+    "gn:latitude":5.89696,
+    "gn:longitude":102.72686,
+    "gn:modification_date":"2016-10-25",
+    "gn:name":"Kampung Pasir Hantu",
+    "gn:population":150,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pasir Hantu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0445\u0435\u043d\u0442\u0438\u0430\u043d\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766052
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"27162a225f25b2152b97974727eb4586",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276850125,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276850125,
+    "wof:lastmodified":1537673980,
+    "wof:name":"Kampung Pasir Hantu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.72686,
+    5.89696,
+    102.72686,
+    5.89696
+],
+  "geometry": {"coordinates":[102.72686,5.89696],"type":"Point"}
+}

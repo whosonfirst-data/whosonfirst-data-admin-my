@@ -1,0 +1,64 @@
+{
+  "id": 1343365199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3201,2.1573,102.3201,2.1573",
+    "geom:latitude":2.1573,
+    "geom:longitude":102.3201,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Henry Gurney",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7855705,
+    "gn:latitude":2.1573,
+    "gn:longitude":102.3201,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Henry Gurney",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Henry Gurney"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855705
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d048fa4bf8826ebe05ea83c90d62572d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343365199,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343365199,
+    "wof:lastmodified":1537674434,
+    "wof:name":"Henry Gurney",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3201,
+    2.1573,
+    102.3201,
+    2.1573
+],
+  "geometry": {"coordinates":[102.3201,2.1573],"type":"Point"}
+}

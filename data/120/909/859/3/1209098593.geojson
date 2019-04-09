@@ -1,0 +1,64 @@
+{
+  "id": 1209098593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4093,3.1697,103.4093,3.1697",
+    "geom:latitude":3.1697,
+    "geom:longitude":103.4093,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Permatang Papan",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697241,
+    "gn:latitude":3.1697,
+    "gn:longitude":103.4093,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Permatang Papan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Permatang Papan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697241
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1855eb8b41a5fd801f2ab0f05cc53d35",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209098593
+        }
+    ],
+    "wof:id":1209098593,
+    "wof:lastmodified":1537674366,
+    "wof:name":"Permatang Papan",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4093,
+    3.1697,
+    103.4093,
+    3.1697
+],
+  "geometry": {"coordinates":[103.4093,3.1697],"type":"Point"}
+}

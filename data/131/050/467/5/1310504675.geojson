@@ -1,0 +1,70 @@
+{
+  "id": 1310504675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.74261,5.59208,100.74261,5.59208",
+    "geom:latitude":5.59208,
+    "geom:longitude":100.74261,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Kuala Binjoi Luar",
+    "gn:country_code":"MY",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847460,
+    "gn:latitude":5.59208,
+    "gn:longitude":100.74261,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Kuala Binjoi Luar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Binjoi Luar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847460
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1e4dc2d6619f76ca0e7dc1d3699b40bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696379,
+            "locality_id":1310504675,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310504675,
+    "wof:lastmodified":1537674255,
+    "wof:name":"Kampung Kuala Binjoi Luar",
+    "wof:parent_id":1108696379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.74261,
+    5.59208,
+    100.74261,
+    5.59208
+],
+  "geometry": {"coordinates":[100.74261,5.59208],"type":"Point"}
+}

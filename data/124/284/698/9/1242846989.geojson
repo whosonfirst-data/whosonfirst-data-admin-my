@@ -1,0 +1,73 @@
+{
+  "id": 1242846989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.6872,6.349,116.6872,6.349",
+    "geom:latitude":6.349,
+    "geom:longitude":116.6872,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tahok",
+    "gn:country_code":"MY",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763654,
+    "gn:latitude":6.349,
+    "gn:longitude":116.6872,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tahok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tahok"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tahok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763654
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"776f431bbbeb95317d50e0fae7d38dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696425,
+            "locality_id":1242846989,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1242846989,
+    "wof:lastmodified":1537673871,
+    "wof:name":"Kampung Tahok",
+    "wof:parent_id":1108696425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.6872,
+    6.349,
+    116.6872,
+    6.349
+],
+  "geometry": {"coordinates":[116.6872,6.349],"type":"Point"}
+}

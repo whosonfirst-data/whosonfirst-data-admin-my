@@ -1,0 +1,71 @@
+{
+  "id": 1326750231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.12843,6.40357,100.12843,6.40357",
+    "geom:latitude":6.40357,
+    "geom:longitude":100.12843,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Pulau Ketam",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1749679,
+    "gn:latitude":6.40357,
+    "gn:longitude":100.12843,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pulau Ketam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pulau Ketam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1749679
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"99cbdee4fe766ab7f8dedc599bed3cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1326750231,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1326750231,
+    "wof:lastmodified":1537673781,
+    "wof:name":"Pulau Ketam",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.12843,
+    6.40357,
+    100.12843,
+    6.40357
+],
+  "geometry": {"coordinates":[100.12842999999999,6.40357],"type":"Point"}
+}

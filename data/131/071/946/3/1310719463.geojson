@@ -1,0 +1,70 @@
+{
+  "id": 1310719463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6825,2.7138,102.6825,2.7138",
+    "geom:latitude":2.7138,
+    "geom:longitude":102.6825,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kemajuan Tanah Palong Timur Tiga",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536711,
+    "gn:latitude":2.7138,
+    "gn:longitude":102.6825,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kemajuan Tanah Palong Timur Tiga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Palong Timur Tiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536711
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3330584e2e5565194bfe552e3b1749f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1310719463,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1310719463,
+    "wof:lastmodified":1537674464,
+    "wof:name":"Kemajuan Tanah Palong Timur Tiga",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6825,
+    2.7138,
+    102.6825,
+    2.7138
+],
+  "geometry": {"coordinates":[102.6825,2.7138],"type":"Point"}
+}

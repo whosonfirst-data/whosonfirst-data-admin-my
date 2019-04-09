@@ -1,0 +1,70 @@
+{
+  "id": 1226643413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8482,3.4846,102.8482,3.4846",
+    "geom:latitude":3.4846,
+    "geom:longitude":102.8482,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Huah",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7849345,
+    "gn:latitude":3.4846,
+    "gn:longitude":102.8482,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Huah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Huah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849345
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3e1aafc6386ad1e66936b2eb6de54a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1226643413,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226643413,
+    "wof:lastmodified":1537674431,
+    "wof:name":"Kampung Huah",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8482,
+    3.4846,
+    102.8482,
+    3.4846
+],
+  "geometry": {"coordinates":[102.84820000000001,3.4846],"type":"Point"}
+}

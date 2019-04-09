@@ -1,0 +1,66 @@
+{
+  "id": 1209617047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.21667,5.95,102.21667,5.95",
+    "geom:latitude":5.95,
+    "geom:longitude":102.21667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Tok Kong",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762543,
+    "gn:latitude":5.95,
+    "gn:longitude":102.21667,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kampong Tok Kong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampung Tok'kong",
+        "Kampong Tok Kong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762543,
+        "wk:page":"Kampung_Tok%27kong"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"35bfef1588dd8314809179aaf20341f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209617047
+        }
+    ],
+    "wof:id":1209617047,
+    "wof:lastmodified":1537673819,
+    "wof:name":"Kampong Tok Kong",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.21667,
+    5.95,
+    102.21667,
+    5.95
+],
+  "geometry": {"coordinates":[102.21666999999999,5.95],"type":"Point"}
+}

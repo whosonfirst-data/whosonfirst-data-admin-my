@@ -1,0 +1,76 @@
+{
+  "id": 1276950503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.8085,5.8511,116.8085,5.8511",
+    "geom:latitude":5.8511,
+    "geom:longitude":116.8085,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Segindai",
+    "gn:country_code":"MY",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733498,
+    "gn:latitude":5.8511,
+    "gn:longitude":116.8085,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Segindai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Segindai"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sigindai",
+        "Segindai",
+        "Sigindai",
+        "Sigindi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733498
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1f95f0280ab5754a540315d25a667e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":1276950503,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276950503,
+    "wof:lastmodified":1537673682,
+    "wof:name":"Kampung Segindai",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.8085,
+    5.8511,
+    116.8085,
+    5.8511
+],
+  "geometry": {"coordinates":[116.8085,5.8511],"type":"Point"}
+}

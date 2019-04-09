@@ -1,0 +1,73 @@
+{
+  "id": 1326933583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38681,6.11513,100.38681,6.11513",
+    "geom:latitude":6.11513,
+    "geom:longitude":100.38681,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Alor Melong",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771667,
+    "gn:latitude":6.11513,
+    "gn:longitude":100.38681,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kampung Alor Melong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Alor Melong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Alor Melong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771667
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"73a2f8b0cd0d949e569d3debe65b96b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1326933583,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1326933583,
+    "wof:lastmodified":1537674212,
+    "wof:name":"Kampung Alor Melong",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38681,
+    6.11513,
+    100.38681,
+    6.11513
+],
+  "geometry": {"coordinates":[100.38681,6.11513],"type":"Point"}
+}

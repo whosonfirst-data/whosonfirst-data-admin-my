@@ -1,0 +1,78 @@
+{
+  "id": 890488451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.76667,3.06667,101.76667,3.06667",
+    "geom:latitude":3.06667,
+    "geom:longitude":101.76667,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Batu Sembilan Village"
+    ],
+    "qs:name":"Kampong Baharu Cheras Batu Sembilan",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675163,
+        102191569,
+        85632739,
+        102023899,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771297,
+        "gp:id":1141731,
+        "qs:id":1293799
+    },
+    "wof:country":"MY",
+    "wof:created":1469054719,
+    "wof:geomhash":"6b2f7718bb3b890a83a99347934aff17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":102023899,
+            "neighbourhood_id":890488451,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890488451,
+    "wof:lastmodified":1505343782,
+    "wof:name":"Kampong Baharu Cheras Batu Sembilan",
+    "wof:parent_id":102023899,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.76667,
+    3.06667,
+    101.76667,
+    3.06667
+],
+  "geometry": {"coordinates":[101.76667,3.06667],"type":"Point"}
+}

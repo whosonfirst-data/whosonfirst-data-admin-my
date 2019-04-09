@@ -1,0 +1,85 @@
+{
+  "id": 890489305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.85,1.8,103.85,1.8",
+    "geom:latitude":1.8,
+    "geom:longitude":103.85,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lombong"
+    ],
+    "name:eng_x_preferred":[
+        "Lombong"
+    ],
+    "name:may_x_preferred":[
+        "Lombong"
+    ],
+    "qs:name":"Lombong",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":51,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732733,
+        "gp:id":1154836,
+        "qs:id":992725,
+        "wd:id":"Q6669439",
+        "wk:page":"Lombong"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054752,
+    "wof:geomhash":"0fa4df9be506b056707441cc18474470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":890489305,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890489305,
+    "wof:lastmodified":1527792864,
+    "wof:name":"Lombong",
+    "wof:parent_id":890491003,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.85,
+    1.8,
+    103.85,
+    1.8
+],
+  "geometry": {"coordinates":[103.84999999999999,1.8],"type":"Point"}
+}

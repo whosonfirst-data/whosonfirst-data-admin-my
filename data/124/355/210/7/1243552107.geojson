@@ -1,0 +1,73 @@
+{
+  "id": 1243552107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2916,3.783,103.2916,3.783",
+    "geom:latitude":3.783,
+    "geom:longitude":103.2916,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Baharu Batu Empat",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771303,
+    "gn:latitude":3.783,
+    "gn:longitude":103.2916,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Baharu Batu Empat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Batu Empat"
+    ],
+    "name:und_x_variant":[
+        "Kampong Baharu Batu Empat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771303
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"67d7d0623ac06de8dd577ab75f46ab17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":1243552107,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1243552107,
+    "wof:lastmodified":1537674195,
+    "wof:name":"Kampung Baharu Batu Empat",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2916,
+    3.783,
+    103.2916,
+    3.783
+],
+  "geometry": {"coordinates":[103.2916,3.783],"type":"Point"}
+}

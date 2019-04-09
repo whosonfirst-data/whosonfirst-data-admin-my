@@ -1,0 +1,67 @@
+{
+  "id": 1209301455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7579,2.9679,101.7579,2.9679",
+    "geom:latitude":2.9679,
+    "geom:longitude":101.7579,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Sungai Ramal Dalam",
+    "gn:country_code":"MY",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763845,
+    "gn:latitude":2.9679,
+    "gn:longitude":101.7579,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Ramal Dalam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Ramal Dalam"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Ramal Dalam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763845
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"259cb97a86bc1d8cb32b0312435e6bca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209301455
+        }
+    ],
+    "wof:id":1209301455,
+    "wof:lastmodified":1537673880,
+    "wof:name":"Kampung Sungai Ramal Dalam",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7579,
+    2.9679,
+    101.7579,
+    2.9679
+],
+  "geometry": {"coordinates":[101.75790000000001,2.9679],"type":"Point"}
+}

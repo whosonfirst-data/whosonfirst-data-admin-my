@@ -1,0 +1,73 @@
+{
+  "id": 1226524517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4001,5.3107,116.4001,5.3107",
+    "geom:latitude":5.3107,
+    "geom:longitude":116.4001,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Pau",
+    "gn:country_code":"MY",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1751808,
+    "gn:latitude":5.3107,
+    "gn:longitude":116.4001,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pau"
+    ],
+    "name:und_x_variant":[
+        "Pau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1751808
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5d624a4110197e7827d7e5bd853cef4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1226524517,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226524517,
+    "wof:lastmodified":1537673787,
+    "wof:name":"Kampung Pau",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4001,
+    5.3107,
+    116.4001,
+    5.3107
+],
+  "geometry": {"coordinates":[116.40009999999999,5.3107],"type":"Point"}
+}

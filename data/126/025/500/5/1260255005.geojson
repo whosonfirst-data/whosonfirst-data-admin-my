@@ -1,0 +1,73 @@
+{
+  "id": 1260255005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.9348,5.3409,116.9348,5.3409",
+    "geom:latitude":5.3409,
+    "geom:longitude":116.9348,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Sondotan",
+    "gn:country_code":"MY",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764876,
+    "gn:latitude":5.3409,
+    "gn:longitude":116.9348,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sondotan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sondotan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sandutang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764876
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"18ce0a31663938ff3bd30029d463b45a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696539,
+            "locality_id":1260255005,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1260255005,
+    "wof:lastmodified":1537673930,
+    "wof:name":"Kampung Sondotan",
+    "wof:parent_id":1108696539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.9348,
+    5.3409,
+    116.9348,
+    5.3409
+],
+  "geometry": {"coordinates":[116.9348,5.3409],"type":"Point"}
+}

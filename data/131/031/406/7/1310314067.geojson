@@ -1,0 +1,70 @@
+{
+  "id": 1310314067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35262,6.00436,100.35262,6.00436",
+    "geom:latitude":6.00436,
+    "geom:longitude":100.35262,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Jamai",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807200,
+    "gn:latitude":6.00436,
+    "gn:longitude":100.35262,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Jamai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jamai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807200
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8b9981b1b0c2fc5f094c70a68911e3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1310314067,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310314067,
+    "wof:lastmodified":1537674239,
+    "wof:name":"Kampung Jamai",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35262,
+    6.00436,
+    100.35262,
+    6.00436
+],
+  "geometry": {"coordinates":[100.35262,6.00436],"type":"Point"}
+}

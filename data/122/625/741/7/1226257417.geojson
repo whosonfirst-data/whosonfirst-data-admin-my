@@ -1,0 +1,67 @@
+{
+  "id": 1226257417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.6,1.88333,113.6,1.88333",
+    "geom:latitude":1.88333,
+    "geom:longitude":113.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rumah Nyelang",
+    "gn:country_code":"MY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1737073,
+    "gn:latitude":1.88333,
+    "gn:longitude":113.6,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Nyelang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1737073
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d24b114eef7cfafee46d075c1b1bc1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488879,
+            "locality_id":1226257417,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1226257417,
+    "wof:lastmodified":1536917260,
+    "wof:name":"Rumah Nyelang",
+    "wof:parent_id":890488879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.6,
+    1.88333,
+    113.6,
+    1.88333
+],
+  "geometry": {"coordinates":[113.59999999999999,1.88333],"type":"Point"}
+}

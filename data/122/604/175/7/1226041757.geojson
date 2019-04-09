@@ -1,0 +1,70 @@
+{
+  "id": 1226041757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2642,2.6926,102.2642,2.6926",
+    "geom:latitude":2.6926,
+    "geom:longitude":102.2642,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Ulu Senaling",
+    "gn:country_code":"MY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536723,
+    "gn:latitude":2.6926,
+    "gn:longitude":102.2642,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Ulu Senaling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ulu Senaling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536723
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e14fa93999a34a22e112ad1a397985b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1226041757,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1226041757,
+    "wof:lastmodified":1537674465,
+    "wof:name":"Kampung Ulu Senaling",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2642,
+    2.6926,
+    102.2642,
+    2.6926
+],
+  "geometry": {"coordinates":[102.2642,2.6926],"type":"Point"}
+}

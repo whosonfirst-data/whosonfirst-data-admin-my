@@ -1,0 +1,680 @@
+{
+  "id": 85675181,
+  "type": "Feature",
+  "properties": {
+    "abrv:eng_x_preferred":[
+        "KUL"
+    ],
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.019829,
+    "geom:area_square_m":244818982.08574,
+    "geom:bbox":"101.611750138,3.03863354442,101.757765677,3.24359520606",
+    "geom:latitude":3.143645,
+    "geom:longitude":101.689573,
+    "gn:population":1453975,
+    "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kuala Lumpur Federal Territory"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "federal territory"
+    ],
+    "lbl:latitude":3.158041,
+    "lbl:longitude":101.688152,
+    "mps:latitude":3.145351,
+    "mps:longitude":101.693447,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ace_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:afr_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:alb_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:amh_x_preferred":[
+        "\u12a9\u12cb\u120b \u1209\u121d\u1351\u122d"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0627\u0644\u0627\u0644\u0645\u0628\u0648\u0631"
+    ],
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u0582\u0561\u056c\u0561 \u053c\u0578\u0582\u0574\u057a\u0578\u0582\u0580"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0627\u0644\u0627 \u0644\u0627\u0645\u0628\u0648\u0631"
+    ],
+    "name:asm_x_preferred":[
+        "\u0995\u09c1\u09af\u09bc\u09be\u09b2\u09be \u09b2\u09be\u09ae\u09aa\u09c1\u09f0"
+    ],
+    "name:ast_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:ava_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:aze_x_preferred":[
+        "Kuala-Lumpur"
+    ],
+    "name:bak_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:baq_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041a\u0443\u0430\u043b\u0430-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0443\u0430\u043b\u0430 \u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c1\u09af\u09bc\u09be\u09b2\u09be\u09b2\u09be\u09ae\u09aa\u09c1\u09b0"
+    ],
+    "name:bjn_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f41\u0f63\u0f0b\u0f63\u0f74\u0f44\u0f0b\u0f55\u0f74\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:bre_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430 \u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:bur_x_preferred":[
+        "\u1000\u103d\u102c\u101c\u102c\u101c\u1019\u103a\u1015\u1030\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:bxr_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:cdo_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:ces_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:chi_x_preferred":[
+        "\u5409\u9686\u5761"
+    ],
+    "name:chv_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u0648\u0627\u0644\u0627\u0644\u0648\u0645\u067e\u0648\u0631"
+    ],
+    "name:cym_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:cze_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:dan_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:deu_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:diq_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:dsb_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:dut_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03ac\u03bb\u03b1 \u039b\u03bf\u03c5\u03bc\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:epo_x_preferred":[
+        "Kuala-Lumpuro"
+    ],
+    "name:est_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:eus_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0627\u0644\u0627 \u0644\u0627\u0645\u067e\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:fra_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:fre_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:fry_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10e3\u10d0\u10da\u10d0-\u10da\u10e3\u10db\u10de\u10e3\u10e0\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:gla_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:gle_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:glg_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03c5\u03ac\u03bb\u03b1 \u039b\u03bf\u03c5\u03bc\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0ac1\u0a86\u0ab2\u0abe \u0ab2\u0a82\u0aaa\u0ac1\u0ab0"
+    ],
+    "name:hak_x_preferred":[
+        "Kit-l\u00f9ng-po"
+    ],
+    "name:hat_x_preferred":[
+        "Kouala Loumpou"
+    ],
+    "name:hbs_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d0\u05dc\u05d4 \u05dc\u05d5\u05de\u05e4\u05d5\u05e8"
+    ],
+    "name:hif_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0941\u0906\u0932\u093e\u0932\u092e\u094d\u092a\u0941\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:hsb_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:hun_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0561\u056c\u0561 \u053c\u0578\u0582\u0574\u057a\u0578\u0582\u0580"
+    ],
+    "name:ice_x_preferred":[
+        "K\u00faala L\u00famp\u00far"
+    ],
+    "name:ido_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:ile_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:ilo_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:ind_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:isl_x_preferred":[
+        "K\u00faala L\u00famp\u00far"
+    ],
+    "name:ita_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:jav_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30a2\u30e9\u30eb\u30f3\u30d7\u30fc\u30eb"
+    ],
+    "name:kaa_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:kab_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccc\u0cb2\u0cbe\u0cb2\u0c82\u0caa\u0cc1\u0cb0\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10d0\u10da\u10d0-\u10da\u10e3\u10db\u10de\u10e3\u10e0\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430 \u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:kbd_x_preferred":[
+        "\u041a\u0443\u0443\u0430\u043b\u044d-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:khm_x_preferred":[
+        "\u1782\u17bc\u17a1\u17b6\u17a1\u17b6\u17c6\u1796\u17bd"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\uc54c\ub77c\ub8f8\ud478\ub974"
+    ],
+    "name:kur_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e81\u0ebb\u0ea7\u0ea5\u0eb2\u0ea5\u0ecd\u0eb2\u0ec0\u0e9b\u0eb5"
+    ],
+    "name:lat_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:lav_x_preferred":[
+        "Kualalumpura"
+    ],
+    "name:lij_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:lit_x_preferred":[
+        "Kvala Lump\u016bras"
+    ],
+    "name:lmo_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:lrc_x_preferred":[
+        "\u06a9\u0648\u0659\u0627\u0644\u0627\u0644\u0627\u0645\u067e\u0648\u0659\u0631"
+    ],
+    "name:ltz_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430 \u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d4b\u0d32\u0d3e\u0d32\u0d2e\u0d4d\u0d2a\u0d42\u0d7c"
+    ],
+    "name:mao_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094d\u0935\u093e\u0932\u093e\u0932\u0902\u092a\u0942\u0930"
+    ],
+    "name:may_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:min_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430 \u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:mon_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430 \u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:mri_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:msa_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u103d\u102c\u101c\u102c\u101c\u1019\u103a\u1015\u1030\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06a9\u0648\u0622\u0644\u0627\u0644\u0627\u0645\u067e\u0648\u0631"
+    ],
+    "name:nan_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u094d\u0935\u093e\u0932\u093e\u0932\u092e\u094d\u092a\u0941\u0930"
+    ],
+    "name:nld_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:nno_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:nob_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:nor_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:nov_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:oci_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b15\u0b41\u0b06\u0b32\u0b3e\u0b32\u0b41\u0b2e\u0b4d\u0b2a\u0b41\u0b30"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u00e6-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:pam_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a41\u0a06\u0a32\u0a3e \u0a32\u0a41\u0a70\u0a2a\u0a41\u0a30"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0648\u0627\u0644\u0627\u0644\u0627\u0645\u067e\u0648\u0631"
+    ],
+    "name:pms_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0648\u0627\u0644\u0627 \u0644\u0645\u067e\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:por_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:pus_x_preferred":[
+        "\u06a9\u0648\u0627\u0644\u0627\u0644\u0627\u0645\u067e\u0648\u0631"
+    ],
+    "name:ron_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:rum_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:sah_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430 \u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:scn_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:sco_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dca\u0dc0\u0dcf\u0dbd\u0dcf\u0dbd\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:slo_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:slv_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:sna_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:spa_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:sqi_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430 \u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:sun_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:swa_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:swe_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bb2\u0bbe\u0bb2\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "Kuala-Lumpur"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c35\u0c3e\u0c32\u0c3e\u0c32\u0c02\u0c2a\u0c42\u0c30\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:tgl_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e31\u0e27\u0e25\u0e32\u0e25\u0e31\u0e21\u0e40\u0e1b\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f41\u0f63\u0f0b\u0f63\u0f74\u0f44\u0f0b\u0f55\u0f74\u0f0d"
+    ],
+    "name:tpi_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:tuk_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:tur_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:uig_x_preferred":[
+        "\u0643\u06c7\u0626\u0627\u0644\u0627\u0644\u06c7\u0645\u067e\u06c7\u0631"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:und_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:unk_x_variant":[
+        "Federal Territory"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0627\u0644\u0627\u0644\u0645\u067e\u0648\u0631"
+    ],
+    "name:uzb_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:vep_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:vie_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:vol_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:war_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:wel_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10e3\u10d0\u10da\u10d0-\u10da\u10e3\u10db\u10de\u10e3\u10e0\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:yue_x_preferred":[
+        "\u5409\u9686\u5761"
+    ],
+    "name:zea_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:zha_x_preferred":[
+        "Gizlungzpoh"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u9686\u5761"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u5409\u9686\u5761"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MYS",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"MYS-4831",
+    "ne:adm1_code":"MYS-4831",
+    "ne:admin":"Malaysia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"20",
+    "ne:code_hasc":"MY.KL",
+    "ne:code_local":"",
+    "ne:datarank":"6",
+    "ne:diss_me":"4831",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MY14",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Malaysia",
+    "ne:gn_a1_code":"MY.14",
+    "ne:gn_id":"1733046",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Kuala Lumpur",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MY14",
+    "ne:gns_id":"-2405154",
+    "ne:gns_lang":"msa",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Kuala Lumpur, Wilayah Persekutuan",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MYS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MY-14",
+    "ne:iso_a2":"MY",
+    "ne:labelrank":"6",
+    "ne:latitude":"3.13836000000",
+    "ne:longitude":"101.69800000000",
+    "ne:mapcolor13":6,
+    "ne:mapcolor9":3,
+    "ne:name":"Kuala Lumpur",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"KL",
+    "ne:provnum_ne":"4",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"MYS",
+    "ne:sub_code":"",
+    "ne:type":"Federal Territory",
+    "ne:type_en":"Federal Territory",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Kuala_Lumpur",
+    "ne:woe_id":56014685,
+    "ne:woe_label":"Kuala Lumpur, MY, Malaysia",
+    "ne:woe_name":"Kuala Lumpur",
+    "qs:a0":"Malaysia",
+    "qs:a0_lc":"MY",
+    "qs:a1":"Kuala Lumpur",
+    "qs:a1_lc":"MYS-4831",
+    "qs:adm0":"Malaysia",
+    "qs:adm0_a3":"MYS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Federal Territory",
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-07-06",
+    "statoids:area_km":"244",
+    "statoids:area_mi":"94",
+    "statoids:as_of_date":"2010-07-06",
+    "statoids:capital":"Kuala Lumpur",
+    "statoids:country":"MY",
+    "statoids:gec":"MY14",
+    "statoids:hasc":"MY.KL",
+    "statoids:iso":"14",
+    "statoids:name":"Kuala Lumpur",
+    "statoids:population":"1588750",
+    "statoids:timezone":"+8",
+    "statoids:type":"federal territory",
+    "wd:wordcount":11178,
+    "wof:belongsto":[
+        102191569,
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MY14",
+        "gn:id":1733046,
+        "gp:id":56014685,
+        "hasc:id":"MY.KL",
+        "iso:id":"MY-14",
+        "qs:id":192904,
+        "wd:id":"Q1865",
+        "wk:page":"Kuala Lumpur"
+    },
+    "wof:coterminous":[
+        102023407
+    ],
+    "wof:country":"MY",
+    "wof:geomhash":"9964a0e48a12ad5c7e04da9c181bb7e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85675181,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "msa"
+    ],
+    "wof:lang_x_spoken":[
+        "msa"
+    ],
+    "wof:lastmodified":1553550476,
+    "wof:name":"Kuala Lumpur",
+    "wof:parent_id":85632739,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"federal territory",
+    "wof:population":1588750,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:shortcode":"KUL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890490945
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6117501375829,
+    3.03863354442339,
+    101.75776567721921,
+    3.24359520605737
+],
+  "geometry": {"coordinates":[[[101.62101142701879,3.20370060262141],[101.6279678470334,3.20347810994289],[101.63159036292596,3.20694354795199],[101.63340576182223,3.21119573305025],[101.63359195806783,3.21288090059574],[101.63419781794619,3.21754236406705],[101.6376581974435,3.22065691743613],[101.63721966602186,3.22771262410487],[101.64056078084727,3.2325775342308],[101.64718259321988,3.23462974183665],[101.64735424043234,3.23463107578016],[101.64896376381179,3.2354670427871],[101.65186374518335,3.23817768451657],[101.65543279463616,3.23879415362112],[101.65972942816811,3.24300887233216],[101.66142145603447,3.24359520605737],[101.66651302122634,3.24357688220436],[101.66680206723066,3.24334738681566],[101.67151362847127,3.23834540264763],[101.67153905836823,3.23821611965428],[101.67140646590408,3.23696350301374],[101.67162494211964,3.23078126355692],[101.67228095695515,3.23031023640499],[101.67848177172566,3.22542034220706],[101.68318056985049,3.22649659326268],[101.68580377310181,3.22932026333653],[101.68609414632421,3.22945688187848],[101.69459596342995,3.22862759518973],[101.6966118864555,3.22741568929237],[101.69877011492481,3.22585357596556],[101.69983547201501,3.22451993800548],[101.69960461945338,3.22035473695566],[101.70016658254059,3.21971050153897],[101.70614807298743,3.21453389398438],[101.70834672405162,3.21378792520426],[101.71110212196415,3.21430866612934],[101.711895200667,3.21466636930013],[101.71364716956911,3.21523775895239],[101.71694592035564,3.21984694025749],[101.71783882978167,3.2205073814111],[101.71823370969602,3.22128398002901],[101.72294491474825,3.22677257561135],[101.7241265947786,3.22753680709502],[101.72466324155222,3.22770650707236],[101.72714553074817,3.22919361510588],[101.72783987464983,3.23032580342521],[101.73381334814266,3.2336430294882],[101.73689200171205,3.23316904303801],[101.73779692641055,3.23282929541247],[101.73905795891636,3.23210399245515],[101.74059732261112,3.23022824841656],[101.74247787425504,3.22703444155697],[101.73753045542752,3.21932974779814],[101.7412386662788,3.21195905449525],[101.74239018359461,3.2110393632839],[101.74284225999517,3.21014202850464],[101.74550192022467,3.20718735994963],[101.74559326709863,3.20712334759618],[101.74815671247633,3.20606770179615],[101.74922685796879,3.20498360805773],[101.75177975023672,3.19883059626406],[101.7535867699598,3.19735900561609],[101.75447467370205,3.19542840032237],[101.7556780281698,3.19423649150024],[101.7576373440379,3.18956204475223],[101.75776567721921,3.18551239414929],[101.75506443322463,3.18093212319953],[101.7550270047832,3.17860756934006],[101.75310020242677,3.17702215358449],[101.73797196996887,3.17330966314445],[101.73766190720274,3.17044186548508],[101.74445104389505,3.16310600501512],[101.74771361790957,3.16031539953267],[101.74683703770837,3.15238779194584],[101.73950060707973,3.14838400105505],[101.73894811344451,3.14567874439281],[101.738912565924,3.14365649049314],[101.73814907968861,3.14095555344635],[101.73521092756661,3.13764327957941],[101.73590774542561,3.12999850015532],[101.73787121900544,3.12860869201182],[101.74002805549867,3.12428514189196],[101.7394336493124,3.12148605654161],[101.73728612274289,3.1167997610908],[101.73926657815089,3.11354417009822],[101.74259289910253,3.11068227176372],[101.74812613397188,3.11072682753895],[101.75109803877473,3.10836649256301],[101.75243834041842,3.10172608585572],[101.75244751538382,3.10148532358683],[101.75231941646943,3.10099307233169],[101.75303122010904,3.09748973953035],[101.75293323358137,3.09662364197876],[101.75075821015263,3.09173039667181],[101.7486213801138,3.09069585243585],[101.74547769212883,3.08566931518703],[101.74523509667829,3.0839502862294],[101.74832750890914,3.07565916207835],[101.748317664719,3.07544256341626],[101.74845735430698,3.07527747211846],[101.75036783629399,3.07096484760002],[101.75024236191963,3.066191181114],[101.74989134042715,3.0646014479709],[101.75108127254124,3.05996786477715],[101.75106560045126,3.05992571718357],[101.74860460932426,3.05579958493044],[101.74635981075294,3.05401184367099],[101.74280707271406,3.05327020987927],[101.73977671047173,3.05506874878354],[101.73538257359223,3.05509169643101],[101.7316417327206,3.05425871428947],[101.73086721015447,3.05249586738879],[101.72928064569808,3.0409715238283],[101.72820195859207,3.03939501581866],[101.72737296191893,3.03881659962431],[101.7267563741336,3.03885574422605],[101.7160159570126,3.0491508296299],[101.71294395437968,3.05020506133814],[101.70848212596371,3.04986432644771],[101.70710692598134,3.0487481496868],[101.70073062671558,3.0490162774131],[101.69586090797391,3.04690789102899],[101.68949171388682,3.04651246239026],[101.68806675616135,3.04527436438089],[101.68551284569632,3.04228099082064],[101.68398732537376,3.03919714609772],[101.6814212787031,3.03868786541151],[101.67724813164385,3.03863354442339],[101.67577302959614,3.03905301594396],[101.67012484025776,3.04292928241],[101.66878769823028,3.04339629906938],[101.6642274892106,3.04256733028132],[101.66039306629585,3.04319414379311],[101.65703673752793,3.04459836054263],[101.65606112973006,3.04637381062975],[101.6545439453118,3.05021232453067],[101.65477693235336,3.05387717601886],[101.65420302647168,3.0568381829235],[101.65112476487292,3.06035026380483],[101.65037785123108,3.06469555566314],[101.6484159796143,3.06839930552721],[101.64824337790134,3.0691005292943],[101.64933516458386,3.07598865255094],[101.65923205289076,3.07868708283835],[101.66159648268471,3.08300618134146],[101.66133505979515,3.08565769276647],[101.66113094341196,3.08672332143755],[101.65930110401528,3.08912244747674],[101.65878894801125,3.0908703866655],[101.6598139198675,3.09858559755338],[101.66068375898153,3.09960079531079],[101.66163012581661,3.10726781444],[101.65666026648393,3.1121385605681],[101.65616417909312,3.11233488292673],[101.65448885861852,3.11326475557812],[101.65367168293002,3.11481042972383],[101.64576772678431,3.12028597386062],[101.64609696020827,3.12576290157802],[101.64517076095309,3.13061605923556],[101.64156839896545,3.13170254479156],[101.63372317191036,3.13226258420543],[101.63225544482687,3.13352098038229],[101.63207184452114,3.13371943945794],[101.63135106145809,3.13586620267842],[101.62710754770053,3.14053784140458],[101.62300830343939,3.14169607608068],[101.62278150278688,3.14199655392486],[101.6167636756346,3.14797665012529],[101.61682607096206,3.14884631708865],[101.61217186153139,3.16194173254968],[101.6117501375829,3.16227690486834],[101.61243154499235,3.1687098476155],[101.61422834072829,3.17082596086433],[101.61435163535513,3.17103177842001],[101.61870575492239,3.17506565601419],[101.62173409304286,3.18296768992232],[101.62177410743863,3.18425195990819],[101.62036173872802,3.18554757205878],[101.61837184893557,3.18988696549313],[101.61830939917213,3.19099951543865],[101.62101142701879,3.20370060262141]]],"type":"Polygon"}
+}

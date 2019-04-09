@@ -1,0 +1,70 @@
+{
+  "id": 1343575381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3188,2.0445,103.3188,2.0445",
+    "geom:latitude":2.0445,
+    "geom:longitude":103.3188,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Suria",
+    "gn:country_code":"MY",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7614286,
+    "gn:latitude":2.0445,
+    "gn:longitude":103.3188,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Suria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Suria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7614286
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"60d7188bdc78046f1f07fcc123b9a33d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1343575381,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1343575381,
+    "wof:lastmodified":1537674331,
+    "wof:name":"Taman Suria",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3188,
+    2.0445,
+    103.3188,
+    2.0445
+],
+  "geometry": {"coordinates":[103.3188,2.0445],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276876853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.917,2.38,102.917,2.38",
+    "geom:latitude":2.38,
+    "geom:longitude":102.917,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kemajuan Tanah Bukit Kepung Paya Kepar dan Kampung Tui",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536880,
+    "gn:latitude":2.38,
+    "gn:longitude":102.917,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kemajuan Tanah Bukit Kepung Paya Kepar dan Kampung Tui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Bukit Kepung Paya Kepar dan Kampung Tui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536880
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3b9b90cc3ad310b502a8c7e53ee51494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1276876853,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276876853,
+    "wof:lastmodified":1537674466,
+    "wof:name":"Kemajuan Tanah Bukit Kepung Paya Kepar dan Kampung Tui",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.917,
+    2.38,
+    102.917,
+    2.38
+],
+  "geometry": {"coordinates":[102.917,2.38],"type":"Point"}
+}

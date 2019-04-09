@@ -1,0 +1,74 @@
+{
+  "id": 1276237925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9712,2.0009,102.9712,2.0009",
+    "geom:latitude":2.0009,
+    "geom:longitude":102.9712,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Seri Pasir",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1752022,
+    "gn:latitude":2.0009,
+    "gn:longitude":102.9712,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Seri Pasir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Seri Pasir"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pasir",
+        "Pasir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1752022
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"84f9dcd032ce8dc8cbd4847bbb9d0391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1276237925,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276237925,
+    "wof:lastmodified":1537673787,
+    "wof:name":"Seri Pasir",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9712,
+    2.0009,
+    102.9712,
+    2.0009
+],
+  "geometry": {"coordinates":[102.9712,2.0009],"type":"Point"}
+}

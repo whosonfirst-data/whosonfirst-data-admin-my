@@ -1,0 +1,67 @@
+{
+  "id": 1310417367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.85,5.66667,101.85,5.66667",
+    "geom:latitude":5.66667,
+    "geom:longitude":101.85,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Berdang",
+    "gn:country_code":"MY",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770581,
+    "gn:latitude":5.66667,
+    "gn:longitude":101.85,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Berdang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770581
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c403ead5609fd34f28a16912bad7ffdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490101,
+            "locality_id":1310417367,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1310417367,
+    "wof:lastmodified":1537042368,
+    "wof:name":"Kampong Berdang",
+    "wof:parent_id":890490101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.85,
+    5.66667,
+    101.85,
+    5.66667
+],
+  "geometry": {"coordinates":[101.84999999999999,5.66667],"type":"Point"}
+}

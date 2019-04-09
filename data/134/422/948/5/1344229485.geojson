@@ -1,0 +1,61 @@
+{
+  "id": 1344229485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.21092,5.14158,119.21092,5.14158",
+    "geom:latitude":5.14158,
+    "geom:longitude":119.21092,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tanjong Labian",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733997,
+    "gn:latitude":5.14158,
+    "gn:longitude":119.21092,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tanjong Labian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733997
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"614fd263f34a20b5c95c2be87d9208c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344229485,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344229485,
+    "wof:lastmodified":1536630139,
+    "wof:name":"Tanjong Labian",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.21092,
+    5.14158,
+    119.21092,
+    5.14158
+],
+  "geometry": {"coordinates":[119.21092,5.14158],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259902821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0769,2.4859,102.0769,2.4859",
+    "geom:latitude":2.4859,
+    "geom:longitude":102.0769,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Baharu Semin",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797387,
+    "gn:latitude":2.4859,
+    "gn:longitude":102.0769,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Baharu Semin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Semin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797387
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e2fddc4729c5f2bad6acd5b396753647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1259902821,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1259902821,
+    "wof:lastmodified":1537674418,
+    "wof:name":"Kampung Baharu Semin",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0769,
+    2.4859,
+    102.0769,
+    2.4859
+],
+  "geometry": {"coordinates":[102.07689999999999,2.4859],"type":"Point"}
+}

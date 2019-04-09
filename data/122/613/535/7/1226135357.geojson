@@ -1,0 +1,70 @@
+{
+  "id": 1226135357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.31,3.6338,102.31,3.6338",
+    "geom:latitude":3.6338,
+    "geom:longitude":102.31,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kemajuan Tanah Jenderak Selatan",
+    "gn:country_code":"MY",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7656102,
+    "gn:latitude":3.6338,
+    "gn:longitude":102.31,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Jenderak Selatan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Jenderak Selatan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656102
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ada401a528db882a33eabae6afd1f889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1226135357,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226135357,
+    "wof:lastmodified":1537674353,
+    "wof:name":"Kemajuan Tanah Jenderak Selatan",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.31,
+    3.6338,
+    102.31,
+    3.6338
+],
+  "geometry": {"coordinates":[102.31,3.6338],"type":"Point"}
+}

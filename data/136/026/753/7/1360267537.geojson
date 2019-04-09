@@ -1,0 +1,67 @@
+{
+  "id": 1360267537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.46667,5.46667,115.46667,5.46667",
+    "geom:latitude":5.46667,
+    "geom:longitude":115.46667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Batu Linting",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733372,
+    "gn:latitude":5.46667,
+    "gn:longitude":115.46667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Batu Linting",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        890490799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733372
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"65e7b4b0a62de7e2305457f8e9e3df7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490799,
+            "locality_id":1360267537,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1360267537,
+    "wof:lastmodified":1536682420,
+    "wof:name":"Batu Linting",
+    "wof:parent_id":890490799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.46667,
+    5.46667,
+    115.46667,
+    5.46667
+],
+  "geometry": {"coordinates":[115.46666999999999,5.46667],"type":"Point"}
+}

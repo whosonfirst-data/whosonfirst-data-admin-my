@@ -1,0 +1,74 @@
+{
+  "id": 1310026879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.18333,4.41667,101.18333,4.41667",
+    "geom:latitude":4.41667,
+    "geom:longitude":101.18333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Cholek",
+    "gn:country_code":"MY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1776840,
+    "gn:latitude":4.41667,
+    "gn:longitude":101.18333,
+    "gn:modification_date":"2018-04-11",
+    "gn:name":"Cholek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Cholit",
+        "Cholit",
+        "Cholet",
+        "Cholek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1776840,
+        "wk:page":"Chulek"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b72c9cec5a418fb5133e52f21bfb83de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1310026879,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1310026879,
+    "wof:lastmodified":1537674219,
+    "wof:name":"Cholek",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.18333,
+    4.41667,
+    101.18333,
+    4.41667
+],
+  "geometry": {"coordinates":[101.18333,4.41667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327052069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9032,3.9791,101.9032,3.9791",
+    "geom:latitude":3.9791,
+    "geom:longitude":101.9032,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Jeruas",
+    "gn:country_code":"MY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768732,
+    "gn:latitude":3.9791,
+    "gn:longitude":101.9032,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Jeruas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jeruas"
+    ],
+    "name:und_x_variant":[
+        "Kampong Jeruas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768732
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"057bc4f806727ff32fd084379969d4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1327052069,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1327052069,
+    "wof:lastmodified":1537674092,
+    "wof:name":"Kampung Jeruas",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9032,
+    3.9791,
+    101.9032,
+    3.9791
+],
+  "geometry": {"coordinates":[101.9032,3.9791],"type":"Point"}
+}

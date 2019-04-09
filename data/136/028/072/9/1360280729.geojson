@@ -1,0 +1,70 @@
+{
+  "id": 1360280729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8564,3.7857,101.8564,3.7857",
+    "geom:latitude":3.7857,
+    "geom:longitude":101.8564,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Taman Lee Man",
+    "gn:country_code":"MY",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795464,
+    "gn:latitude":3.7857,
+    "gn:longitude":101.8564,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Lee Man",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Lee Man"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795464
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"463a333d218e35d2841c1a86aee9bcae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1360280729,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1360280729,
+    "wof:lastmodified":1537674392,
+    "wof:name":"Taman Lee Man",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8564,
+    3.7857,
+    101.8564,
+    3.7857
+],
+  "geometry": {"coordinates":[101.85639999999999,3.7857],"type":"Point"}
+}

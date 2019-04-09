@@ -1,0 +1,70 @@
+{
+  "id": 1344049745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0879,3.654,103.0879,3.654",
+    "geom:latitude":3.654,
+    "geom:longitude":103.0879,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kemajuan Tanah Lepar Hilir Satu",
+    "gn:country_code":"MY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795557,
+    "gn:latitude":3.654,
+    "gn:longitude":103.0879,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Lepar Hilir Satu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Lepar Hilir Satu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795557
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"eef16b940b1a36c2a7320a6bec55eb68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":1344049745,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1344049745,
+    "wof:lastmodified":1537674393,
+    "wof:name":"Kemajuan Tanah Lepar Hilir Satu",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0879,
+    3.654,
+    103.0879,
+    3.654
+],
+  "geometry": {"coordinates":[103.0879,3.654],"type":"Point"}
+}

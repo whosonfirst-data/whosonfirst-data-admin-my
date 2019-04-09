@@ -1,0 +1,70 @@
+{
+  "id": 1260087863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4524,5.86052,102.4524,5.86052",
+    "geom:latitude":5.86052,
+    "geom:longitude":102.4524,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Gong Tok Yah",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068022,
+    "gn:latitude":5.86052,
+    "gn:longitude":102.4524,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Gong Tok Yah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gong Tok Yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068022
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"652b3cd374d819d3341fe1ef0fb475f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488991,
+            "locality_id":1260087863,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1260087863,
+    "wof:lastmodified":1537674276,
+    "wof:name":"Kampung Gong Tok Yah",
+    "wof:parent_id":890488991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4524,
+    5.86052,
+    102.4524,
+    5.86052
+],
+  "geometry": {"coordinates":[102.4524,5.86052],"type":"Point"}
+}

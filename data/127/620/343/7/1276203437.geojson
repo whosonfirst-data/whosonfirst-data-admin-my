@@ -1,0 +1,67 @@
+{
+  "id": 1276203437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.61667,3.6,101.61667,3.6",
+    "geom:latitude":3.6,
+    "geom:longitude":101.61667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dusun Si-Payong",
+    "gn:country_code":"MY",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1775869,
+    "gn:latitude":3.6,
+    "gn:longitude":101.61667,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Dusun Si-Payong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1775869
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"01d1c96087296024e307b282e927df6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1276203437,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1276203437,
+    "wof:lastmodified":1536953250,
+    "wof:name":"Dusun Si-Payong",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.61667,
+    3.6,
+    101.61667,
+    3.6
+],
+  "geometry": {"coordinates":[101.61667,3.6],"type":"Point"}
+}

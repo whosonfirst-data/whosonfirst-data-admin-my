@@ -1,0 +1,107 @@
+{
+  "id": 85784361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4429509.660261,
+    "geom:bbox":"101.778625,3.132654,101.778625,3.132654",
+    "geom:latitude":3.132654,
+    "geom:longitude":101.778625,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.132654,
+    "lbl:longitude":101.778625,
+    "mps:latitude":3.13879,
+    "mps:longitude":101.775334,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:und_x_preferred":[
+        "Taman Dagang"
+    ],
+    "name:unk_x_variant":[
+        "Taman Dagang"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"12",
+    "qs:gn_name":"Taman Dagang Jaya",
+    "qs:local_max":1600,
+    "qs:local_sum":2828,
+    "qs:localhoods":16,
+    "qs:name":"Taman Dagang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:name_adm2":"Hulu Langat",
+    "qs:name_lau":"Ampang",
+    "qs:name_local":"Pekan Ampang",
+    "qs:photo_max":9,
+    "qs:photo_sum":15,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346306,
+    "qs:woe_adm2":56013645,
+    "qs:woe_lau":56013982,
+    "qs:woe_local":1140655,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023417,
+        1108696543,
+        85675163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56035729,
+        "qs:id":968178,
+        "qs_pg:id":968178
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8855635d2dbd6d9f15e1fa13cbee4816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":102023417,
+            "neighbourhood_id":85784361,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":85784361,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860598,
+    "wof:name":"Taman Dagang",
+    "wof:parent_id":102023417,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.778625,
+    3.132654,
+    101.778625,
+    3.132654
+],
+  "geometry": {"coordinates":[101.77862500000001,3.132654],"type":"Point"}
+}

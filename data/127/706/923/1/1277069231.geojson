@@ -1,0 +1,70 @@
+{
+  "id": 1277069231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.17647,3.53266,102.17647,3.53266",
+    "geom:latitude":3.53266,
+    "geom:longitude":102.17647,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Batu Tagar",
+    "gn:country_code":"MY",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770827,
+    "gn:latitude":3.53266,
+    "gn:longitude":102.17647,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Batu Tagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Batu Tagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770827
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cc11acccf2af44db9bdb06f9a478820a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1277069231,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1277069231,
+    "wof:lastmodified":1537674177,
+    "wof:name":"Kampung Batu Tagar",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.17647,
+    3.53266,
+    102.17647,
+    3.53266
+],
+  "geometry": {"coordinates":[102.17646999999999,3.53266],"type":"Point"}
+}

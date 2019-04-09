@@ -1,0 +1,70 @@
+{
+  "id": 1242896649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.441,2.9788,102.441,2.9788",
+    "geom:latitude":2.9788,
+    "geom:longitude":102.441,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Sempo Hulu",
+    "gn:country_code":"MY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796992,
+    "gn:latitude":2.9788,
+    "gn:longitude":102.441,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sempo Hulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sempo Hulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796992
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8d7f51673415a984c7aaa36150169ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1242896649,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1242896649,
+    "wof:lastmodified":1537674413,
+    "wof:name":"Kampung Sempo Hulu",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.441,
+    2.9788,
+    102.441,
+    2.9788
+],
+  "geometry": {"coordinates":[102.441,2.9788],"type":"Point"}
+}

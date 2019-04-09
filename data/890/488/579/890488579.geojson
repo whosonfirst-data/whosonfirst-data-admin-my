@@ -1,0 +1,70 @@
+{
+  "id": 890488579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.072478,5.909819,116.072478,5.909819",
+    "geom:latitude":5.909819,
+    "geom:longitude":116.072478,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Penampang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sabah",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1307,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":1410,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014049,
+        "qs:id":1313685,
+        "wd:id":"Q778171",
+        "wk:page":"Penampang"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054724,
+    "wof:geomhash":"58d90d95ad08dfb50465575d609ab957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "localadmin_id":890488579,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":890488579,
+    "wof:lastmodified":1527787082,
+    "wof:name":"Penampang",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.072478,
+    5.909819,
+    116.072478,
+    5.909819
+],
+  "geometry": {"coordinates":[116.072478,5.909819],"type":"Point"}
+}

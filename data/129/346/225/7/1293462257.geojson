@@ -1,0 +1,70 @@
+{
+  "id": 1293462257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.2615,6.8256,117.2615,6.8256",
+    "geom:latitude":6.8256,
+    "geom:longitude":117.2615,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Musa",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786862,
+    "gn:latitude":6.8256,
+    "gn:longitude":117.2615,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Musa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Musa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786862
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"67273a4a2aebb51b001ba30897f50df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1293462257,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293462257,
+    "wof:lastmodified":1537674381,
+    "wof:name":"Kampung Musa",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.2615,
+    6.8256,
+    117.2615,
+    6.8256
+],
+  "geometry": {"coordinates":[117.2615,6.8256],"type":"Point"}
+}

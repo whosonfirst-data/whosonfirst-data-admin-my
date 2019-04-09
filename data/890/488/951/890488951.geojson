@@ -1,0 +1,79 @@
+{
+  "id": 890488951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.2417,1.3736,104.2417,1.3736",
+    "geom:latitude":1.3736,
+    "geom:longitude":104.2417,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Teluk Ramunia"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Telok Remunia"
+    ],
+    "qs:name":"Kampung Teluk Ramunia",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":114,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":114,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732786,
+        "gp:id":1151591,
+        "qs:id":1333073
+    },
+    "wof:country":"MY",
+    "wof:created":1469054738,
+    "wof:geomhash":"ed324c4ce195f75298149d450759c92d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":890488951,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890488951,
+    "wof:lastmodified":1505343784,
+    "wof:name":"Kampung Teluk Ramunia",
+    "wof:parent_id":890491003,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.2417,
+    1.3736,
+    104.2417,
+    1.3736
+],
+  "geometry": {"coordinates":[104.24169999999999,1.3736],"type":"Point"}
+}

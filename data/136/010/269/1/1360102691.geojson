@@ -1,0 +1,75 @@
+{
+  "id": 1360102691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8305,2.3453,102.8305,2.3453",
+    "geom:latitude":2.3453,
+    "geom:longitude":102.8305,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bukit Kepong",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732838,
+    "gn:latitude":2.3453,
+    "gn:longitude":102.8305,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bukit Kepong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bukit Kepong"
+    ],
+    "name:und_x_variant":[
+        "Kampung Bukit Kepong",
+        "Kampung Bukit Kepung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732838,
+        "wk:page":"Bukit_Kepong"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6ebec92ddb068c9d528a7c1e39585713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1360102691,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1360102691,
+    "wof:lastmodified":1537673670,
+    "wof:name":"Bukit Kepong",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8305,
+    2.3453,
+    102.8305,
+    2.3453
+],
+  "geometry": {"coordinates":[102.8305,2.3453],"type":"Point"}
+}

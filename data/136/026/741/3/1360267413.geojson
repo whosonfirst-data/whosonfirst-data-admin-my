@@ -1,0 +1,73 @@
+{
+  "id": 1360267413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.2126,6.1366,116.2126,6.1366",
+    "geom:latitude":6.1366,
+    "geom:longitude":116.2126,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Malalin",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767160,
+    "gn:latitude":6.1366,
+    "gn:longitude":116.2126,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Malalin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Malalin"
+    ],
+    "name:und_x_variant":[
+        "Kampong Malalin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767160
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"398323feeb1c3e9fbd0130aa9c671904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1360267413,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1360267413,
+    "wof:lastmodified":1537674025,
+    "wof:name":"Kampung Malalin",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.2126,
+    6.1366,
+    116.2126,
+    6.1366
+],
+  "geometry": {"coordinates":[116.21259999999999,6.1366],"type":"Point"}
+}

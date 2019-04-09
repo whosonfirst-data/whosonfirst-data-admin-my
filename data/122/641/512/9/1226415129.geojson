@@ -1,0 +1,73 @@
+{
+  "id": 1226415129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.3302,5.9293,116.3302,5.9293",
+    "geom:latitude":5.9293,
+    "geom:longitude":116.3302,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tivong Ulu",
+    "gn:country_code":"MY",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762614,
+    "gn:latitude":5.9293,
+    "gn:longitude":116.3302,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tivong Ulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tivong Ulu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tivong Ulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762614
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9522caef6460d3ea2eb60804904d502d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1226415129,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226415129,
+    "wof:lastmodified":1537673822,
+    "wof:name":"Kampung Tivong Ulu",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.3302,
+    5.9293,
+    116.3302,
+    5.9293
+],
+  "geometry": {"coordinates":[116.3302,5.9293],"type":"Point"}
+}

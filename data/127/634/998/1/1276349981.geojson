@@ -1,0 +1,64 @@
+{
+  "id": 1276349981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.97449,2.45495,103.97449,2.45495",
+    "geom:latitude":2.45495,
+    "geom:longitude":103.97449,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Calet Pulau Besar",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797651,
+    "gn:latitude":2.45495,
+    "gn:longitude":103.97449,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Calet Pulau Besar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Calet Pulau Besar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797651
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6d8af42a4704363ac31e9335ced0aa84",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276349981,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276349981,
+    "wof:lastmodified":1537674422,
+    "wof:name":"Calet Pulau Besar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.97449,
+    2.45495,
+    103.97449,
+    2.45495
+],
+  "geometry": {"coordinates":[103.97449,2.45495],"type":"Point"}
+}

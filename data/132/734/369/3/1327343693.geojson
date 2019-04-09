@@ -1,0 +1,67 @@
+{
+  "id": 1327343693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.43333,3.16667,101.43333,3.16667",
+    "geom:latitude":3.16667,
+    "geom:longitude":101.43333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Kampong Meru",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766820,
+    "gn:latitude":3.16667,
+    "gn:longitude":101.43333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Meru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766820
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d7610202b77cfd4e44ad954485222459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696415,
+            "locality_id":1327343693,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1327343693,
+    "wof:lastmodified":1536808461,
+    "wof:name":"Kampong Meru",
+    "wof:parent_id":1108696415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.43333,
+    3.16667,
+    101.43333,
+    3.16667
+],
+  "geometry": {"coordinates":[101.43333,3.16667],"type":"Point"}
+}

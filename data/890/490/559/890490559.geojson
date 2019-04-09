@@ -1,0 +1,70 @@
+{
+  "id": 890490559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8054615,2.822858,101.8054615,2.822858",
+    "geom:latitude":2.822858,
+    "geom:longitude":101.805462,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Negeri Sembilan",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Negeri Sembilan",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":2393,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56036270,
+        "qs:id":183888,
+        "wd:id":"Q213893",
+        "wk:page":"Negeri Sembilan"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054815,
+    "wof:geomhash":"aac91eef04a899cd20588b05cf765e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":890490559,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":890490559,
+    "wof:lastmodified":1527732952,
+    "wof:name":"Negeri Sembilan",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8054615,
+    2.822858,
+    101.8054615,
+    2.822858
+],
+  "geometry": {"coordinates":[101.80546150000001,2.822858],"type":"Point"}
+}

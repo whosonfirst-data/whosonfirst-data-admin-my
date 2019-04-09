@@ -1,0 +1,70 @@
+{
+  "id": 1276195279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.8116,6.4309,116.8116,6.4309",
+    "geom:latitude":6.4309,
+    "geom:longitude":116.8116,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Natu",
+    "gn:country_code":"MY",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7468105,
+    "gn:latitude":6.4309,
+    "gn:longitude":116.8116,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Natu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Natu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468105
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"26600857d84fe24fb096062f0b9e8ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696425,
+            "locality_id":1276195279,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276195279,
+    "wof:lastmodified":1537674297,
+    "wof:name":"Kampung Natu",
+    "wof:parent_id":1108696425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.8116,
+    6.4309,
+    116.8116,
+    6.4309
+],
+  "geometry": {"coordinates":[116.8116,6.4309],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1292983075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.66278,4.42459,118.66278,4.42459",
+    "geom:latitude":4.42459,
+    "geom:longitude":118.66278,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Hampalan Laut",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7045414,
+    "gn:latitude":4.42459,
+    "gn:longitude":118.66278,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Hampalan Laut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7045414
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dbbca37b445af7943482488c5aed2856",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1292983075,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292983075,
+    "wof:lastmodified":1537016476,
+    "wof:name":"Kampung Hampalan Laut",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.66278,
+    4.42459,
+    118.66278,
+    4.42459
+],
+  "geometry": {"coordinates":[118.66278,4.42459],"type":"Point"}
+}

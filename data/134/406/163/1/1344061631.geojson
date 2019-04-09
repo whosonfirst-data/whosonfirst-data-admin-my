@@ -1,0 +1,74 @@
+{
+  "id": 1344061631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0896,2.6335,102.0896,2.6335",
+    "geom:latitude":2.6335,
+    "geom:longitude":102.0896,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Tanjung Berangan",
+    "gn:country_code":"MY",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763448,
+    "gn:latitude":2.6335,
+    "gn:longitude":102.0896,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tanjung Berangan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Berangan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tanjong Brangan",
+        "Kampong Tanjong Berangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763448
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1f29c03426e7716ae3f90727f9371c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1344061631,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1344061631,
+    "wof:lastmodified":1537673861,
+    "wof:name":"Kampung Tanjung Berangan",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0896,
+    2.6335,
+    102.0896,
+    2.6335
+],
+  "geometry": {"coordinates":[102.0896,2.6335],"type":"Point"}
+}

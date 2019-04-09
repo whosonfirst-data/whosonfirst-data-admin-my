@@ -1,0 +1,73 @@
+{
+  "id": 1259966927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7306,2.7915,101.7306,2.7915",
+    "geom:latitude":2.7915,
+    "geom:longitude":101.7306,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Baharu Lanjut",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767585,
+    "gn:latitude":2.7915,
+    "gn:longitude":101.7306,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Baharu Lanjut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Lanjut"
+    ],
+    "name:und_x_variant":[
+        "Kampong Lanjut Baharu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767585
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c72fb41a21cc11ca88a497c0246a207a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489971,
+            "locality_id":1259966927,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1259966927,
+    "wof:lastmodified":1537674043,
+    "wof:name":"Kampung Baharu Lanjut",
+    "wof:parent_id":890489971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7306,
+    2.7915,
+    101.7306,
+    2.7915
+],
+  "geometry": {"coordinates":[101.7306,2.7915],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326739173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.61778,5.20292,100.61778,5.20292",
+    "geom:latitude":5.20292,
+    "geom:longitude":100.61778,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Banggol Berangan",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854620,
+    "gn:latitude":5.20292,
+    "gn:longitude":100.61778,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Banggol Berangan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Banggol Berangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854620
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9e0cb819922aad37c391facf9ab32a37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490371,
+            "locality_id":1326739173,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1326739173,
+    "wof:lastmodified":1537674260,
+    "wof:name":"Kampung Banggol Berangan",
+    "wof:parent_id":890490371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.61778,
+    5.20292,
+    100.61778,
+    5.20292
+],
+  "geometry": {"coordinates":[100.61778,5.20292],"type":"Point"}
+}

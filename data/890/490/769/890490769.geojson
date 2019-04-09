@@ -1,0 +1,72 @@
+{
+  "id": 890490769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.492317,3.790262,113.492317,3.790262",
+    "geom:latitude":3.790262,
+    "geom:longitude":113.492317,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Niah Suai",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sarawak",
+    "qs:photos":182,
+    "qs:photos_1k":37,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":183,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1966747,
+        "gp:id":56014395,
+        "qs:id":214917,
+        "qs_pg:id":1031912
+    },
+    "wof:country":"MY",
+    "wof:created":1469054824,
+    "wof:geomhash":"8bdaab46327da3ef4f1111acccbe9d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488483,
+            "localadmin_id":890490769,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":890490769,
+    "wof:lastmodified":1509390574,
+    "wof:name":"Niah Suai",
+    "wof:parent_id":890488483,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.492317,
+    3.790262,
+    113.492317,
+    3.790262
+],
+  "geometry": {"coordinates":[113.492317,3.790262],"type":"Point"}
+}

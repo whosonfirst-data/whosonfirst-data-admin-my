@@ -1,0 +1,75 @@
+{
+  "id": 1293805959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5164,3.3248,102.5164,3.3248",
+    "geom:latitude":3.3248,
+    "geom:longitude":102.5164,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Kuala Teriang",
+    "gn:country_code":"MY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767939,
+    "gn:latitude":3.3248,
+    "gn:longitude":102.5164,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kuala Teriang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Teriang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Triang",
+        "Kampong Kuala Triang",
+        "Kampong Kuala Teriang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767939
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1e000389638fc9dd1ac9987a2ef55286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1293805959,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293805959,
+    "wof:lastmodified":1537674056,
+    "wof:name":"Kampung Kuala Teriang",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5164,
+    3.3248,
+    102.5164,
+    3.3248
+],
+  "geometry": {"coordinates":[102.5164,3.3248],"type":"Point"}
+}

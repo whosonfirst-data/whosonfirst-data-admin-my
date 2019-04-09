@@ -1,0 +1,73 @@
+{
+  "id": 1226151915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35061,6.24261,100.35061,6.24261",
+    "geom:latitude":6.24261,
+    "geom:longitude":100.35061,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Telaga Batu",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763162,
+    "gn:latitude":6.24261,
+    "gn:longitude":100.35061,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Telaga Batu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Telaga Batu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Telaga Batu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763162
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b52b42c736e91018cf8a1b86a3b49815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1226151915,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1226151915,
+    "wof:lastmodified":1537673847,
+    "wof:name":"Kampung Telaga Batu",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35061,
+    6.24261,
+    100.35061,
+    6.24261
+],
+  "geometry": {"coordinates":[100.35061,6.24261],"type":"Point"}
+}

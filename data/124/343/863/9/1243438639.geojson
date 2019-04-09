@@ -1,0 +1,74 @@
+{
+  "id": 1243438639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.42363,5.37509,100.42363,5.37509",
+    "geom:latitude":5.37509,
+    "geom:longitude":100.42363,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Tok Ebot",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762611,
+    "gn:latitude":5.37509,
+    "gn:longitude":100.42363,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tok Ebot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tok Ebot"
+    ],
+    "name:und_x_variant":[
+        "Kampong To\u2019 Ebor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762611
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1a25c3764c08af3c4148a542eecf0f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1243438639,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1243438639,
+    "wof:lastmodified":1537673822,
+    "wof:name":"Kampung Tok Ebot",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.42363,
+    5.37509,
+    100.42363,
+    5.37509
+],
+  "geometry": {"coordinates":[100.42363,5.37509],"type":"Point"}
+}

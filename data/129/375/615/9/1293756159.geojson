@@ -1,0 +1,70 @@
+{
+  "id": 1293756159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5006,5.332,116.5006,5.332",
+    "geom:latitude":5.332,
+    "geom:longitude":116.5006,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Alab",
+    "gn:country_code":"MY",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536210,
+    "gn:latitude":5.332,
+    "gn:longitude":116.5006,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Alab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Alab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536210
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0dfe426f43b95ad8d20c256978585c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1293756159,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293756159,
+    "wof:lastmodified":1537674462,
+    "wof:name":"Kampung Alab",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5006,
+    5.332,
+    116.5006,
+    5.332
+],
+  "geometry": {"coordinates":[116.50060000000001,5.332],"type":"Point"}
+}

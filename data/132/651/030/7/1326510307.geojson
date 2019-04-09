@@ -1,0 +1,70 @@
+{
+  "id": 1326510307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5315,2.8339,101.5315,2.8339",
+    "geom:latitude":2.8339,
+    "geom:longitude":101.5315,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taman Periang",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697694,
+    "gn:latitude":2.8339,
+    "gn:longitude":101.5315,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Periang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Periang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697694
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4dabea266c9e89dbbd47a6a140558542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696427,
+            "locality_id":1326510307,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1326510307,
+    "wof:lastmodified":1537674367,
+    "wof:name":"Taman Periang",
+    "wof:parent_id":1108696427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5315,
+    2.8339,
+    101.5315,
+    2.8339
+],
+  "geometry": {"coordinates":[101.53149999999999,2.8339],"type":"Point"}
+}

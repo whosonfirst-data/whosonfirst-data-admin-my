@@ -1,0 +1,75 @@
+{
+  "id": 1276732073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.0597,6.9573,117.0597,6.9573",
+    "geom:latitude":6.9573,
+    "geom:longitude":117.0597,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Turung Putih",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736517,
+    "gn:latitude":6.9573,
+    "gn:longitude":117.0597,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Turung Putih",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Turung Putih"
+    ],
+    "name:und_x_variant":[
+        "Tarang Puteh",
+        "Terang Puteh",
+        "Turong Puteh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736517
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9ff046a1d17e43ac6592f822bb33ce1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1276732073,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276732073,
+    "wof:lastmodified":1537673741,
+    "wof:name":"Kampung Turung Putih",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.0597,
+    6.9573,
+    117.0597,
+    6.9573
+],
+  "geometry": {"coordinates":[117.05970000000001,6.9573],"type":"Point"}
+}

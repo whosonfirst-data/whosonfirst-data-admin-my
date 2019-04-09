@@ -1,0 +1,70 @@
+{
+  "id": 1276419905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.068,5.0665,103.068,5.0665",
+    "geom:latitude":5.0665,
+    "geom:longitude":103.068,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Merbau Tunas",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7470227,
+    "gn:latitude":5.0665,
+    "gn:longitude":103.068,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Merbau Tunas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Merbau Tunas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7470227
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"98406b123e1b38ad1a8bade223866d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1276419905,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1276419905,
+    "wof:lastmodified":1537674300,
+    "wof:name":"Kampung Merbau Tunas",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.068,
+    5.0665,
+    103.068,
+    5.0665
+],
+  "geometry": {"coordinates":[103.068,5.0665],"type":"Point"}
+}

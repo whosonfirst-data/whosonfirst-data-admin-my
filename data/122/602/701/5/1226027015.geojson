@@ -1,0 +1,74 @@
+{
+  "id": 1226027015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.0737,5.9307,116.0737,5.9307",
+    "geom:latitude":5.9307,
+    "geom:longitude":116.0737,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Kapayan",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733436,
+    "gn:latitude":5.9307,
+    "gn:longitude":116.0737,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kapayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kapayan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kapayan",
+        "Kapayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733436
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aa7a8643ac7c9e554341021f5dd21728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1226027015,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226027015,
+    "wof:lastmodified":1537673679,
+    "wof:name":"Kampung Kapayan",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.0737,
+    5.9307,
+    116.0737,
+    5.9307
+],
+  "geometry": {"coordinates":[116.0737,5.9307],"type":"Point"}
+}

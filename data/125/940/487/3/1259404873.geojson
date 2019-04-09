@@ -1,0 +1,70 @@
+{
+  "id": 1259404873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5997,3.9168,102.5997,3.9168",
+    "geom:latitude":3.9168,
+    "geom:longitude":102.5997,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kemajuan Tanah Kota Gelanggi Empat",
+    "gn:country_code":"MY",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7566095,
+    "gn:latitude":3.9168,
+    "gn:longitude":102.5997,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Kota Gelanggi Empat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Kota Gelanggi Empat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7566095
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7c127561e23325d87a220e504e4c09ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1259404873,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1259404873,
+    "wof:lastmodified":1537674314,
+    "wof:name":"Kemajuan Tanah Kota Gelanggi Empat",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5997,
+    3.9168,
+    102.5997,
+    3.9168
+],
+  "geometry": {"coordinates":[102.5997,3.9168],"type":"Point"}
+}

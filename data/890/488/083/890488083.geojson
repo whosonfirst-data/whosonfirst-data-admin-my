@@ -1,0 +1,81 @@
+{
+  "id": 890488083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.28281,5.31938,100.28281,5.31938",
+    "geom:latitude":5.31938,
+    "geom:longitude":100.28281,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gedung"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Gedong"
+    ],
+    "qs:name":"Kampung Gedung",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:photos":32,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":32,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675127,
+        102191569,
+        85632739,
+        102023363,
+        890489155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769405,
+        "gp:id":56037160,
+        "qs:id":266218
+    },
+    "wof:country":"MY",
+    "wof:created":1469054705,
+    "wof:geomhash":"a7ae16c2de4f97bbb6a0c9e67ba83307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "locality_id":102023363,
+            "neighbourhood_id":890488083,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":890488083,
+    "wof:lastmodified":1505343781,
+    "wof:name":"Kampung Gedung",
+    "wof:parent_id":102023363,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.28281,
+    5.31938,
+    100.28281,
+    5.31938
+],
+  "geometry": {"coordinates":[100.28281,5.31938],"type":"Point"}
+}

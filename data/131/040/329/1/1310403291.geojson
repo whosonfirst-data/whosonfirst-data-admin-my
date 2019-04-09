@@ -1,0 +1,70 @@
+{
+  "id": 1310403291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4419,3.4224,102.4419,3.4224",
+    "geom:latitude":3.4224,
+    "geom:longitude":102.4419,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Lubuk Rakit",
+    "gn:country_code":"MY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795962,
+    "gn:latitude":3.4224,
+    "gn:longitude":102.4419,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Lubuk Rakit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lubuk Rakit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795962
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"064c61e5e8f7546296b693e75c19d360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1310403291,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1310403291,
+    "wof:lastmodified":1537674398,
+    "wof:name":"Kampung Lubuk Rakit",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4419,
+    3.4224,
+    102.4419,
+    3.4224
+],
+  "geometry": {"coordinates":[102.4419,3.4224],"type":"Point"}
+}

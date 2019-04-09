@@ -1,0 +1,70 @@
+{
+  "id": 1309778473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.0536,6.316,117.0536,6.316",
+    "geom:latitude":6.316,
+    "geom:longitude":117.0536,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Ruminasak",
+    "gn:country_code":"MY",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787116,
+    "gn:latitude":6.316,
+    "gn:longitude":117.0536,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Ruminasak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ruminasak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787116
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bf6e963b8654495b30b554280e345537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1309778473,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309778473,
+    "wof:lastmodified":1537674382,
+    "wof:name":"Kampung Ruminasak",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.0536,
+    6.316,
+    117.0536,
+    6.316
+],
+  "geometry": {"coordinates":[117.0536,6.316],"type":"Point"}
+}

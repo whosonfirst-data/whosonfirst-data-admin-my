@@ -1,0 +1,70 @@
+{
+  "id": 1293224671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2674,2.2148,102.2674,2.2148",
+    "geom:latitude":2.2148,
+    "geom:longitude":102.2674,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Bukit Palah",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797962,
+    "gn:latitude":2.2148,
+    "gn:longitude":102.2674,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bukit Palah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Palah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797962
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9a594aaa2162a64cc132ffe9f20341ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":1293224671,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1293224671,
+    "wof:lastmodified":1537674426,
+    "wof:name":"Kampung Bukit Palah",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2674,
+    2.2148,
+    102.2674,
+    2.2148
+],
+  "geometry": {"coordinates":[102.26739999999999,2.2148],"type":"Point"}
+}

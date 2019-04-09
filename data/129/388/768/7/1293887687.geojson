@@ -1,0 +1,73 @@
+{
+  "id": 1293887687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4633,1.6285,103.4633,1.6285",
+    "geom:latitude":1.6285,
+    "geom:longitude":103.4633,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Melayu Kuala Kabong",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7614145,
+    "gn:latitude":1.6285,
+    "gn:longitude":103.4633,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Melayu Kuala Kabong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Melayu Kuala Kabong"
+    ],
+    "name:und_x_variant":[
+        "Kampung Kuala Kabong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7614145
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7b27b5fba7b753d22d3338db839bb56b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696433,
+            "locality_id":1293887687,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293887687,
+    "wof:lastmodified":1537674329,
+    "wof:name":"Kampung Melayu Kuala Kabong",
+    "wof:parent_id":1108696433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4633,
+    1.6285,
+    103.4633,
+    1.6285
+],
+  "geometry": {"coordinates":[103.4633,1.6285],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242578063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2434,2.4426,102.2434,2.4426",
+    "geom:latitude":2.4426,
+    "geom:longitude":102.2434,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Kubang Gajah",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767871,
+    "gn:latitude":2.4426,
+    "gn:longitude":102.2434,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kubang Gajah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kubang Gajah"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kubang Gajah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767871
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"afc7c7041af99fcb44329da62eaae142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1242578063,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1242578063,
+    "wof:lastmodified":1537674054,
+    "wof:name":"Kampung Kubang Gajah",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2434,
+    2.4426,
+    102.2434,
+    2.4426
+],
+  "geometry": {"coordinates":[102.24339999999999,2.4426],"type":"Point"}
+}

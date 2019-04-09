@@ -1,0 +1,67 @@
+{
+  "id": 890488339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.525199,1.503066,103.525199,1.503066",
+    "geom:latitude":1.503066,
+    "geom:longitude":103.525199,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Jeram Batu",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":31,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014507,
+        "qs:id":1205008
+    },
+    "wof:country":"MY",
+    "wof:created":1469054715,
+    "wof:geomhash":"43b783324b32d5159f203fc3945b3f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "localadmin_id":890488339,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890488339,
+    "wof:lastmodified":1500013337,
+    "wof:name":"Jeram Batu",
+    "wof:parent_id":890491001,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.525199,
+    1.503066,
+    103.525199,
+    1.503066
+],
+  "geometry": {"coordinates":[103.525199,1.503066],"type":"Point"}
+}

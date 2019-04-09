@@ -1,0 +1,67 @@
+{
+  "id": 1226161247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.31667,1.78333,113.31667,1.78333",
+    "geom:latitude":1.78333,
+    "geom:longitude":113.31667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rumah Awan",
+    "gn:country_code":"MY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1737382,
+    "gn:latitude":1.78333,
+    "gn:longitude":113.31667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Awan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1737382
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3100530562447519a9ef7f94ddcd3fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488879,
+            "locality_id":1226161247,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1226161247,
+    "wof:lastmodified":1537053092,
+    "wof:name":"Rumah Awan",
+    "wof:parent_id":890488879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.31667,
+    1.78333,
+    113.31667,
+    1.78333
+],
+  "geometry": {"coordinates":[113.31667,1.78333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344126605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4377,6.3443,116.4377,6.3443",
+    "geom:latitude":6.3443,
+    "geom:longitude":116.4377,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampong Dundau",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417196,
+    "gn:latitude":6.3443,
+    "gn:longitude":116.4377,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampong Dundau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampong Dundau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417196
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dc5e37debc5efc7907f20c7762445afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1344126605,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1344126605,
+    "wof:lastmodified":1537674283,
+    "wof:name":"Kampong Dundau",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4377,
+    6.3443,
+    116.4377,
+    6.3443
+],
+  "geometry": {"coordinates":[116.43770000000001,6.3443],"type":"Point"}
+}

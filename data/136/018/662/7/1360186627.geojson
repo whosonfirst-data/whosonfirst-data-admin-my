@@ -1,0 +1,67 @@
+{
+  "id": 1360186627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.08333,6.05,102.08333,6.05",
+    "geom:latitude":6.05,
+    "geom:longitude":102.08333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Banggol Setol",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771098,
+    "gn:latitude":6.05,
+    "gn:longitude":102.08333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Banggol Setol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771098
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b4c82a6dbb8304989151aa38a960579e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1360186627,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1360186627,
+    "wof:lastmodified":1536799231,
+    "wof:name":"Kampong Banggol Setol",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.08333,
+    6.05,
+    102.08333,
+    6.05
+],
+  "geometry": {"coordinates":[102.08333,6.05],"type":"Point"}
+}

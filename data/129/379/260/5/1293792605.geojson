@@ -1,0 +1,75 @@
+{
+  "id": 1293792605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.82226,6.26444,99.82226,6.26444",
+    "geom:latitude":6.26444,
+    "geom:longitude":99.82226,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Bagan Tok Safar",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804919,
+    "gn:latitude":6.26444,
+    "gn:longitude":99.82226,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kampung Bagan Tok Safar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696487,
+        85675133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804919
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"87aa926e4be2c5d8e4bbc12f83e60b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696487,
+            "locality_id":1293792605,
+            "region_id":85675137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696487,
+            "locality_id":1293792605,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1293792605,
+    "wof:lastmodified":1536843156,
+    "wof:name":"Kampung Bagan Tok Safar",
+    "wof:parent_id":1108696487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.82226,
+    6.26444,
+    99.82226,
+    6.26444
+],
+  "geometry": {"coordinates":[99.82226,6.26444],"type":"Point"}
+}

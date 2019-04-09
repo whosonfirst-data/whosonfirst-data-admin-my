@@ -1,0 +1,70 @@
+{
+  "id": 1210039087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3589,2.8059,102.3589,2.8059",
+    "geom:latitude":2.8059,
+    "geom:longitude":102.3589,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Chachar",
+    "gn:country_code":"MY",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797062,
+    "gn:latitude":2.8059,
+    "gn:longitude":102.3589,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Chachar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Chachar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797062
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2289c430eded4bc009dcf342b87d0814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1210039087,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1210039087,
+    "wof:lastmodified":1537674414,
+    "wof:name":"Kampung Chachar",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3589,
+    2.8059,
+    102.3589,
+    2.8059
+],
+  "geometry": {"coordinates":[102.35890000000001,2.8059],"type":"Point"}
+}

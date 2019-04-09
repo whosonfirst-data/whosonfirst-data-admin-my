@@ -1,0 +1,70 @@
+{
+  "id": 1326834327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5726,2.0714,102.5726,2.0714",
+    "geom:latitude":2.0714,
+    "geom:longitude":102.5726,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Bakariah",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7855786,
+    "gn:latitude":2.0714,
+    "gn:longitude":102.5726,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Bakariah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Bakariah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855786
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3a78df6e8a755569846207fa3c4f3419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1326834327,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1326834327,
+    "wof:lastmodified":1537674435,
+    "wof:name":"Taman Bakariah",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5726,
+    2.0714,
+    102.5726,
+    2.0714
+],
+  "geometry": {"coordinates":[102.57259999999999,2.0714],"type":"Point"}
+}

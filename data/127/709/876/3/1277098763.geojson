@@ -1,0 +1,67 @@
+{
+  "id": 1277098763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.42879,4.51354,101.42879,4.51354",
+    "geom:latitude":4.51354,
+    "geom:longitude":101.42879,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Tringkap",
+    "gn:country_code":"MY",
+    "gn:dem":1500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9612211,
+    "gn:latitude":4.51354,
+    "gn:longitude":101.42879,
+    "gn:modification_date":"2014-09-27",
+    "gn:name":"Kampung Tringkap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9612211
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"54437a7039719e0647158dcca0c36cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696393,
+            "locality_id":1277098763,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1277098763,
+    "wof:lastmodified":1536744282,
+    "wof:name":"Kampung Tringkap",
+    "wof:parent_id":1108696393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.42879,
+    4.51354,
+    101.42879,
+    4.51354
+],
+  "geometry": {"coordinates":[101.42879000000001,4.51354],"type":"Point"}
+}

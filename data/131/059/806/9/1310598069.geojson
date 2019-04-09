@@ -1,0 +1,68 @@
+{
+  "id": 1310598069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.6066,4.1889,100.6066,4.1889",
+    "geom:latitude":4.1889,
+    "geom:longitude":100.6066,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Batek",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763094,
+    "gn:latitude":4.1889,
+    "gn:longitude":100.6066,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Batek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batek"
+    ],
+    "name:und_x_variant":[
+        "Kampong Telok Bata",
+        "Kampong Telok Batu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763094
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f68203ea359c1dde27c9fc89cd01d011",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310598069,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310598069,
+    "wof:lastmodified":1537673844,
+    "wof:name":"Kampung Batek",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.6066,
+    4.1889,
+    100.6066,
+    4.1889
+],
+  "geometry": {"coordinates":[100.6066,4.1889],"type":"Point"}
+}

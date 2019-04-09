@@ -1,0 +1,72 @@
+{
+  "id": 1209911061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.75,5.25,100.75,5.25",
+    "geom:latitude":5.25,
+    "geom:longitude":100.75,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Banggol Jas",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771151,
+    "gn:latitude":5.25,
+    "gn:longitude":100.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Banggol Jas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Bunggul Jas",
+        "Kampong Banggol Jas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771151
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"85cf17c77f0e206cd71129080fcb5d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489813,
+            "locality_id":1209911061,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1209911061,
+    "wof:lastmodified":1537674189,
+    "wof:name":"Kampong Banggol Jas",
+    "wof:parent_id":890489813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.75,
+    5.25,
+    100.75,
+    5.25
+],
+  "geometry": {"coordinates":[100.75,5.25],"type":"Point"}
+}

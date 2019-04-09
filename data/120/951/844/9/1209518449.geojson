@@ -1,0 +1,64 @@
+{
+  "id": 1209518449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.76667,5.85,100.76667,5.85",
+    "geom:latitude":5.85,
+    "geom:longitude":100.76667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Banggul Jenereh",
+    "gn:country_code":"MY",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805019,
+    "gn:latitude":5.85,
+    "gn:longitude":100.76667,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Banggul Jenereh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Banggul Jenereh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805019
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"89b38ded9d76347b9ba4c748b4e82474",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209518449
+        }
+    ],
+    "wof:id":1209518449,
+    "wof:lastmodified":1537674232,
+    "wof:name":"Kampung Banggul Jenereh",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.76667,
+    5.85,
+    100.76667,
+    5.85
+],
+  "geometry": {"coordinates":[100.76667,5.85],"type":"Point"}
+}

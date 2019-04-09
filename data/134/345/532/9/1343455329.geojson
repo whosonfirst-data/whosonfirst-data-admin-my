@@ -1,0 +1,67 @@
+{
+  "id": 1343455329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.25,4.03333,101.25,4.03333",
+    "geom:latitude":4.03333,
+    "geom:longitude":101.25,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kuala Bikam",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1759587,
+    "gn:latitude":4.03333,
+    "gn:longitude":101.25,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kuala Bikam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1759587
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7545a466e514da253f64efe9af318aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489741,
+            "locality_id":1343455329,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1343455329,
+    "wof:lastmodified":1536753631,
+    "wof:name":"Kuala Bikam",
+    "wof:parent_id":890489741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.25,
+    4.03333,
+    101.25,
+    4.03333
+],
+  "geometry": {"coordinates":[101.25,4.03333],"type":"Point"}
+}

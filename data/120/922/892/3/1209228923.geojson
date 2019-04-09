@@ -1,0 +1,67 @@
+{
+  "id": 1209228923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8187,2.4667,103.8187,2.4667",
+    "geom:latitude":2.4667,
+    "geom:longitude":103.8187,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Sawah Datok",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764832,
+    "gn:latitude":2.4667,
+    "gn:longitude":103.8187,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sawah Datok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sawah Datok"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sawah Datok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764832
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7805b595f78e1a709ed8272667edd183",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209228923
+        }
+    ],
+    "wof:id":1209228923,
+    "wof:lastmodified":1537673928,
+    "wof:name":"Kampung Sawah Datok",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8187,
+    2.4667,
+    103.8187,
+    2.4667
+],
+  "geometry": {"coordinates":[103.81870000000001,2.4667],"type":"Point"}
+}

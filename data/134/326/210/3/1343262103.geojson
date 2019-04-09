@@ -1,0 +1,70 @@
+{
+  "id": 1343262103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1312,2.3281,102.1312,2.3281",
+    "geom:latitude":2.3281,
+    "geom:longitude":102.1312,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Taman Masjid Tanah",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536741,
+    "gn:latitude":2.3281,
+    "gn:longitude":102.1312,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Taman Masjid Tanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Masjid Tanah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536741
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b410ca6a5bc407dc5fdee022a1e8a333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1343262103,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1343262103,
+    "wof:lastmodified":1537674465,
+    "wof:name":"Taman Masjid Tanah",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1312,
+    2.3281,
+    102.1312,
+    2.3281
+],
+  "geometry": {"coordinates":[102.13120000000001,2.3281],"type":"Point"}
+}

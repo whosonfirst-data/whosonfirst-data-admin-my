@@ -1,0 +1,67 @@
+{
+  "id": 890490225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.050628,3.097321,102.050628,3.097321",
+    "geom:latitude":3.097321,
+    "geom:longitude":102.050628,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kongkoi",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Negeri Sembilan",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1154756,
+        "qs:id":1112268
+    },
+    "wof:country":"MY",
+    "wof:created":1469054795,
+    "wof:geomhash":"65371dd2471e8a1bdc226c4841d78ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":890490225,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":890490225,
+    "wof:lastmodified":1500013418,
+    "wof:name":"Kongkoi",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.050628,
+    3.097321,
+    102.050628,
+    3.097321
+],
+  "geometry": {"coordinates":[102.050628,3.097321],"type":"Point"}
+}

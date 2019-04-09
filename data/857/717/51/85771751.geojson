@@ -1,0 +1,118 @@
+{
+  "id": 85771751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8375527.181528,
+    "geom:bbox":"103.278076,3.819175,103.278076,3.819175",
+    "geom:latitude":3.819175,
+    "geom:longitude":103.278076,
+    "gn:latitude":3.8127,
+    "gn:longitude":103.2836,
+    "iso:country":"MY",
+    "lbl:latitude":3.819175,
+    "lbl:longitude":103.278076,
+    "mps:latitude":3.823149,
+    "mps:longitude":103.283602,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kampong Tiram"
+    ],
+    "name:eng_x_variant":[
+        "Tiram"
+    ],
+    "name:msa_x_preferred":[
+        "Kampung Tiram"
+    ],
+    "name:unk_x_variant":[
+        "Tiram",
+        "Kampong Tiram"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1735227,
+    "qs:gn_nam_loc":"Kuantan, Kuala Kuantan, Kuantan, Pahang, MY",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Kampung Tiram",
+    "qs:local_max":328,
+    "qs:local_sum":845,
+    "qs:localhoods":9,
+    "qs:name":"Kampong Tiram",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:name_adm2":"Kuantan",
+    "qs:name_lau":"Kuala Kuantan",
+    "qs:name_local":"Kuantan",
+    "qs:photo_max":29,
+    "qs:photo_sum":40,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346301,
+    "qs:woe_adm2":56013625,
+    "qs:woe_lau":56014360,
+    "qs:woe_local":1154799,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023459,
+        890490895,
+        85675159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762647,
+        "gp:id":1150396,
+        "qs:id":1187769,
+        "qs_pg:id":1187769
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3f8b1c58ecb4db60a58f5512b075ea55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":102023459,
+            "neighbourhood_id":85771751,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":85771751,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859452,
+    "wof:name":"Kampong Tiram",
+    "wof:parent_id":102023459,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.278076,
+    3.819175,
+    103.278076,
+    3.819175
+],
+  "geometry": {"coordinates":[103.278076,3.819175],"type":"Point"}
+}

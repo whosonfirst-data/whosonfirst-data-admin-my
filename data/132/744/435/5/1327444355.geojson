@@ -1,0 +1,71 @@
+{
+  "id": 1327444355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.57545,5.96316,100.57545,5.96316",
+    "geom:latitude":5.96316,
+    "geom:longitude":100.57545,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Padang Peliang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855476,
+    "gn:latitude":5.96316,
+    "gn:longitude":100.57545,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Padang Peliang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Padang Peliang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855476
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"faa4f42e0642010249a6d244eb77201c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489109,
+            "locality_id":1327444355,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1327444355,
+    "wof:lastmodified":1537674263,
+    "wof:name":"Kampung Padang Peliang",
+    "wof:parent_id":890489109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.57545,
+    5.96316,
+    100.57545,
+    5.96316
+],
+  "geometry": {"coordinates":[100.57545,5.96316],"type":"Point"}
+}

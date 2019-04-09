@@ -1,0 +1,64 @@
+{
+  "id": 1209419795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0667,2.9837,102.0667,2.9837",
+    "geom:latitude":2.9837,
+    "geom:longitude":102.0667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Taman Titi",
+    "gn:country_code":"MY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535583,
+    "gn:latitude":2.9837,
+    "gn:longitude":102.0667,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Taman Titi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Titi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535583
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8c83ab9ffc9548e00d24b862a3a2f6b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209419795
+        }
+    ],
+    "wof:id":1209419795,
+    "wof:lastmodified":1537674461,
+    "wof:name":"Taman Titi",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0667,
+    2.9837,
+    102.0667,
+    2.9837
+],
+  "geometry": {"coordinates":[102.0667,2.9837],"type":"Point"}
+}

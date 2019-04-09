@@ -1,0 +1,73 @@
+{
+  "id": 1259956253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3333,4.9713,103.3333,4.9713",
+    "geom:latitude":4.9713,
+    "geom:longitude":103.3333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Penarik",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765775,
+    "gn:latitude":4.9713,
+    "gn:longitude":103.3333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Penarik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Penarik"
+    ],
+    "name:und_x_variant":[
+        "Kampong Penarek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765775
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3529255f08fb004f49d3ebe553c56296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490535,
+            "locality_id":1259956253,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1259956253,
+    "wof:lastmodified":1537673968,
+    "wof:name":"Kampung Penarik",
+    "wof:parent_id":890490535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3333,
+    4.9713,
+    103.3333,
+    4.9713
+],
+  "geometry": {"coordinates":[103.33329999999999,4.9713],"type":"Point"}
+}

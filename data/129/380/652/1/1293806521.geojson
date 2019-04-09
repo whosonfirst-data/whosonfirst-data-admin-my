@@ -1,0 +1,70 @@
+{
+  "id": 1293806521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2206,2.919,102.2206,2.919",
+    "geom:latitude":2.919,
+    "geom:longitude":102.2206,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Geylang Hulu",
+    "gn:country_code":"MY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796720,
+    "gn:latitude":2.919,
+    "gn:longitude":102.2206,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Geylang Hulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Geylang Hulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796720
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9d3ac0bbc2c9753d2fe60c0a86c96dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1293806521,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1293806521,
+    "wof:lastmodified":1537674410,
+    "wof:name":"Kampung Geylang Hulu",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2206,
+    2.919,
+    102.2206,
+    2.919
+],
+  "geometry": {"coordinates":[102.2206,2.919],"type":"Point"}
+}

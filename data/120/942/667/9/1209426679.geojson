@@ -1,0 +1,64 @@
+{
+  "id": 1209426679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.26393,5.62027,102.26393,5.62027",
+    "geom:latitude":5.62027,
+    "geom:longitude":102.26393,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Kebun Pisang",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068273,
+    "gn:latitude":5.62027,
+    "gn:longitude":102.26393,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Kebun Pisang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kebun Pisang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068273
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"50c18ad653665ff3916459667494e13d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209426679
+        }
+    ],
+    "wof:id":1209426679,
+    "wof:lastmodified":1537674280,
+    "wof:name":"Kampung Kebun Pisang",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.26393,
+    5.62027,
+    102.26393,
+    5.62027
+],
+  "geometry": {"coordinates":[102.26393,5.62027],"type":"Point"}
+}

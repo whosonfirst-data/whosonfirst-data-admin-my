@@ -1,0 +1,78 @@
+{
+  "id": 890488541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1103,4.5611,101.1103,4.5611",
+    "geom:latitude":4.5611,
+    "geom:longitude":101.1103,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Taufik"
+    ],
+    "qs:name":"Taman Taufik",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675123,
+        102191569,
+        85632739,
+        102023021,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7612497,
+        "gp:id":56037655,
+        "qs:id":1311514
+    },
+    "wof:country":"MY",
+    "wof:created":1469054723,
+    "wof:geomhash":"d1f19ddea61de3954a3710f5fae7b1fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":102023021,
+            "neighbourhood_id":890488541,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890488541,
+    "wof:lastmodified":1505343782,
+    "wof:name":"Taman Taufik",
+    "wof:parent_id":102023021,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1103,
+    4.5611,
+    101.1103,
+    4.5611
+],
+  "geometry": {"coordinates":[101.1103,4.5611],"type":"Point"}
+}

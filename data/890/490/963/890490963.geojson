@@ -1,0 +1,67 @@
+{
+  "id": 890490963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.441088,6.4370315,100.441088,6.4370315",
+    "geom:latitude":6.437031,
+    "geom:longitude":100.441088,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Canglun",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kedah",
+    "qs:photos":130,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":130,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1141016,
+        "qs:id":242649
+    },
+    "wof:country":"MY",
+    "wof:created":1469054834,
+    "wof:geomhash":"6d80c007b2b24b8eeba8eb809d395ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":890490963,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":890490963,
+    "wof:lastmodified":1500013308,
+    "wof:name":"Canglun",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.441088,
+    6.4370315,
+    100.441088,
+    6.4370315
+],
+  "geometry": {"coordinates":[100.44108799999999,6.4370315],"type":"Point"}
+}

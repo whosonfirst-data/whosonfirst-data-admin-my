@@ -1,0 +1,64 @@
+{
+  "id": 1209618523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.47802,6.16932,100.47802,6.16932",
+    "geom:latitude":6.16932,
+    "geom:longitude":100.47802,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Kuala Lanjut",
+    "gn:country_code":"MY",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6820192,
+    "gn:latitude":6.16932,
+    "gn:longitude":100.47802,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Kuala Lanjut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Lanjut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6820192
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5c668cc553923cc89a0814ab35fdf6f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209618523
+        }
+    ],
+    "wof:id":1209618523,
+    "wof:lastmodified":1537674251,
+    "wof:name":"Kampung Kuala Lanjut",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.47802,
+    6.16932,
+    100.47802,
+    6.16932
+],
+  "geometry": {"coordinates":[100.47802,6.16932],"type":"Point"}
+}

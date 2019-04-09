@@ -1,0 +1,70 @@
+{
+  "id": 1344061911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4286,2.8166,102.4286,2.8166",
+    "geom:latitude":2.8166,
+    "geom:longitude":102.4286,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ladang Bahau Penari Village",
+    "gn:country_code":"MY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536710,
+    "gn:latitude":2.8166,
+    "gn:longitude":102.4286,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ladang Bahau Penari Village",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ladang Bahau Penari Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536710
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cc9698368e4b260c0fe63dce13da05c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1344061911,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1344061911,
+    "wof:lastmodified":1537674464,
+    "wof:name":"Ladang Bahau Penari Village",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4286,
+    2.8166,
+    102.4286,
+    2.8166
+],
+  "geometry": {"coordinates":[102.4286,2.8166],"type":"Point"}
+}

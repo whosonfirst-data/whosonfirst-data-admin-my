@@ -1,0 +1,73 @@
+{
+  "id": 1276246437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8342,2.251,102.8342,2.251",
+    "geom:latitude":2.251,
+    "geom:longitude":102.8342,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Baharu Batu Dua Puluh Lapan",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798421,
+    "gn:latitude":2.251,
+    "gn:longitude":102.8342,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Baharu Batu Dua Puluh Lapan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Batu Dua Puluh Lapan"
+    ],
+    "name:und_x_variant":[
+        "Kampung Baharu Batu 28"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798421
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1fa30b3d1d5862bfef37bf5716537880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1276246437,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276246437,
+    "wof:lastmodified":1537674431,
+    "wof:name":"Kampung Baharu Batu Dua Puluh Lapan",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8342,
+    2.251,
+    102.8342,
+    2.251
+],
+  "geometry": {"coordinates":[102.8342,2.251],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209510939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.44071,5.54755,100.44071,5.54755",
+    "geom:latitude":5.54755,
+    "geom:longitude":100.44071,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Permatang Tinggi",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765511,
+    "gn:latitude":5.54755,
+    "gn:longitude":100.44071,
+    "gn:modification_date":"2018-04-11",
+    "gn:name":"Kampung Permatang Tinggi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Permatang Tinggi"
+    ],
+    "name:und_x_variant":[
+        "Permatang Tinggi",
+        "Kampong Permatang Tinggi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765511,
+        "wk:page":"Permatang_Tinggi"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"85d767e340c6c80dc93a65883c3196bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209510939
+        }
+    ],
+    "wof:id":1209510939,
+    "wof:lastmodified":1537673956,
+    "wof:name":"Kampung Permatang Tinggi",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.44071,
+    5.54755,
+    100.44071,
+    5.54755
+],
+  "geometry": {"coordinates":[100.44071,5.54755],"type":"Point"}
+}

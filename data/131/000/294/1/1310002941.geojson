@@ -1,0 +1,67 @@
+{
+  "id": 1310002941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.93333,4.68333,100.93333,4.68333",
+    "geom:latitude":4.68333,
+    "geom:longitude":100.93333,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Kuala Kenas",
+    "gn:country_code":"MY",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768042,
+    "gn:latitude":4.68333,
+    "gn:longitude":100.93333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Kuala Kenas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768042
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6f0f045fa640bd59d74a757cc85f427e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":1310002941,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1310002941,
+    "wof:lastmodified":1536646595,
+    "wof:name":"Kampong Kuala Kenas",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.93333,
+    4.68333,
+    100.93333,
+    4.68333
+],
+  "geometry": {"coordinates":[100.93333,4.68333],"type":"Point"}
+}

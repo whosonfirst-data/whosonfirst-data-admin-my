@@ -1,0 +1,73 @@
+{
+  "id": 1360198551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3924,1.4829,103.3924,1.4829",
+    "geom:latitude":1.4829,
+    "geom:longitude":103.3924,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Atap",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771555,
+    "gn:latitude":1.4829,
+    "gn:longitude":103.3924,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Atap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Atap"
+    ],
+    "name:und_x_variant":[
+        "Kampong Atap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771555
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8dfbc7eb2d231829d718e2d398a6d5f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "locality_id":1360198551,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1360198551,
+    "wof:lastmodified":1537674208,
+    "wof:name":"Kampung Atap",
+    "wof:parent_id":890491001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3924,
+    1.4829,
+    103.3924,
+    1.4829
+],
+  "geometry": {"coordinates":[103.39239999999999,1.4829],"type":"Point"}
+}

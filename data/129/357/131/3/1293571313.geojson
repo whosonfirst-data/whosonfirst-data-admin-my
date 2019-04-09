@@ -1,0 +1,76 @@
+{
+  "id": 1293571313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.199,6.1669,117.199,6.1669",
+    "geom:latitude":6.1669,
+    "geom:longitude":117.199,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Linkabau",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736607,
+    "gn:latitude":6.1669,
+    "gn:longitude":117.199,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Linkabau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Linkabau"
+    ],
+    "name:und_x_variant":[
+        "Kampong Lingkabau",
+        "Lingkabau",
+        "Linkabo",
+        "Linkabau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736607
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fe07c09438c70090f70978d67bf0189f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1293571313,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293571313,
+    "wof:lastmodified":1537673743,
+    "wof:name":"Kampung Linkabau",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.199,
+    6.1669,
+    117.199,
+    6.1669
+],
+  "geometry": {"coordinates":[117.199,6.1669],"type":"Point"}
+}

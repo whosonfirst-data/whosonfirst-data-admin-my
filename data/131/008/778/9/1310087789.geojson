@@ -1,0 +1,73 @@
+{
+  "id": 1310087789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.0213,6.6392,117.0213,6.6392",
+    "geom:latitude":6.6392,
+    "geom:longitude":117.0213,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Dandon",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736560,
+    "gn:latitude":6.6392,
+    "gn:longitude":117.0213,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Dandon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Dandon"
+    ],
+    "name:und_x_variant":[
+        "Dandon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736560
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1e7a95246359c035d6b42265ce8880bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1310087789,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1310087789,
+    "wof:lastmodified":1537673742,
+    "wof:name":"Kampung Dandon",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.0213,
+    6.6392,
+    117.0213,
+    6.6392
+],
+  "geometry": {"coordinates":[117.0213,6.6392],"type":"Point"}
+}

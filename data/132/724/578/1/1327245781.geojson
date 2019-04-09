@@ -1,0 +1,70 @@
+{
+  "id": 1327245781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.038,1.945,103.038,1.945",
+    "geom:latitude":1.945,
+    "geom:longitude":103.038,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Hitam Khamis",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857048,
+    "gn:latitude":1.945,
+    "gn:longitude":103.038,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Hitam Khamis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Hitam Khamis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857048
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3fab55a55fa3aaa17cb6ea5954902c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1327245781,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1327245781,
+    "wof:lastmodified":1537674442,
+    "wof:name":"Kampung Parit Hitam Khamis",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.038,
+    1.945,
+    103.038,
+    1.945
+],
+  "geometry": {"coordinates":[103.038,1.945],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326708575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.14784,2.87944,112.14784,2.87944",
+    "geom:latitude":2.87944,
+    "geom:longitude":112.14784,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Penakub",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735344,
+    "gn:latitude":2.87944,
+    "gn:longitude":112.14784,
+    "gn:modification_date":"2013-11-17",
+    "gn:name":"Penakub",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735344
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"768824714781070cd25bb4250621461a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696469,
+            "locality_id":1326708575,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1326708575,
+    "wof:lastmodified":1536730248,
+    "wof:name":"Penakub",
+    "wof:parent_id":1108696469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.14784,
+    2.87944,
+    112.14784,
+    2.87944
+],
+  "geometry": {"coordinates":[112.14784,2.87944],"type":"Point"}
+}

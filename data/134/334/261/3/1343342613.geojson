@@ -1,0 +1,67 @@
+{
+  "id": 1343342613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.05,1.26667,112.05,1.26667",
+    "geom:latitude":1.26667,
+    "geom:longitude":112.05,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nanga Engkaras",
+    "gn:country_code":"MY",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1753906,
+    "gn:latitude":1.26667,
+    "gn:longitude":112.05,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Nanga Engkaras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1753906
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"847b06d686aa5f8b36578efa1df6c242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696451,
+            "locality_id":1343342613,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1343342613,
+    "wof:lastmodified":1536916925,
+    "wof:name":"Nanga Engkaras",
+    "wof:parent_id":1108696451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.05,
+    1.26667,
+    112.05,
+    1.26667
+],
+  "geometry": {"coordinates":[112.05,1.26667],"type":"Point"}
+}

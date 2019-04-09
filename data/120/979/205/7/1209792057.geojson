@@ -1,0 +1,71 @@
+{
+  "id": 1209792057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.03018,5.31176,103.03018,5.31176",
+    "geom:latitude":5.31176,
+    "geom:longitude":103.03018,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bukit Pinang",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7461206,
+    "gn:latitude":5.31176,
+    "gn:longitude":103.03018,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bukit Pinang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bukit Pinang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7461206,
+        "wk:page":"Bukit_Pinang"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dfae02dfecb89278cbcb8d247a5f32f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1209792057,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1209792057,
+    "wof:lastmodified":1537674295,
+    "wof:name":"Bukit Pinang",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.03018,
+    5.31176,
+    103.03018,
+    5.31176
+],
+  "geometry": {"coordinates":[103.03018,5.31176],"type":"Point"}
+}

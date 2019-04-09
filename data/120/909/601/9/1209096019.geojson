@@ -1,0 +1,68 @@
+{
+  "id": 1209096019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.43196,5.36797,100.43196,5.36797",
+    "geom:latitude":5.36797,
+    "geom:longitude":100.43196,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Permatang Batu",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765589,
+    "gn:latitude":5.36797,
+    "gn:longitude":100.43196,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Permatang Batu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Permatang Batu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Permatang Batu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765589
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"800aaa08a9497207db43ee8d1b0857b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209096019
+        }
+    ],
+    "wof:id":1209096019,
+    "wof:lastmodified":1537673960,
+    "wof:name":"Kampung Permatang Batu",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.43196,
+    5.36797,
+    100.43196,
+    5.36797
+],
+  "geometry": {"coordinates":[100.43196,5.36797],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242965929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6228,3.2679,102.6228,3.2679",
+    "geom:latitude":3.2679,
+    "geom:longitude":102.6228,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kemajuan Tanah Rentam",
+    "gn:country_code":"MY",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796279,
+    "gn:latitude":3.2679,
+    "gn:longitude":102.6228,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Rentam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Rentam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796279
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"83f40186f0f4b1aa2a507220739cd34c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1242965929,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1242965929,
+    "wof:lastmodified":1537674403,
+    "wof:name":"Kemajuan Tanah Rentam",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6228,
+    3.2679,
+    102.6228,
+    3.2679
+],
+  "geometry": {"coordinates":[102.6228,3.2679],"type":"Point"}
+}

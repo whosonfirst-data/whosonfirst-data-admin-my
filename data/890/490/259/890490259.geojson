@@ -1,0 +1,67 @@
+{
+  "id": 890490259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.674346,3.231527,101.674346,3.231527",
+    "geom:latitude":3.231527,
+    "geom:longitude":101.674346,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Medan Batu Caves",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":54,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":54,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56037420,
+        "qs:id":8354
+    },
+    "wof:country":"MY",
+    "wof:created":1469054797,
+    "wof:geomhash":"71e20550dd56bcac61fd3145ef5dd3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696399,
+            "locality_id":890490259,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890490259,
+    "wof:lastmodified":1500013482,
+    "wof:name":"Taman Medan Batu Caves",
+    "wof:parent_id":1108696399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.674346,
+    3.231527,
+    101.674346,
+    3.231527
+],
+  "geometry": {"coordinates":[101.674346,3.231527],"type":"Point"}
+}

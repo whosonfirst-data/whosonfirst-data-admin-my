@@ -1,0 +1,70 @@
+{
+  "id": 1242590381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.56009,5.40893,100.56009,5.40893",
+    "geom:latitude":5.40893,
+    "geom:longitude":100.56009,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Taman PKNK",
+    "gn:country_code":"MY",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858772,
+    "gn:latitude":5.40893,
+    "gn:longitude":100.56009,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taman PKNK",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman PKNK"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858772
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a65ee3f995a60f6cc33c6cb08624d927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490359,
+            "locality_id":1242590381,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1242590381,
+    "wof:lastmodified":1537674267,
+    "wof:name":"Taman PKNK",
+    "wof:parent_id":890490359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.56009,
+    5.40893,
+    100.56009,
+    5.40893
+],
+  "geometry": {"coordinates":[100.56009,5.40893],"type":"Point"}
+}

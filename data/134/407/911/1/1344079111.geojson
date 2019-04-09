@@ -1,0 +1,73 @@
+{
+  "id": 1344079111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3893,3.6055,103.3893,3.6055",
+    "geom:latitude":3.6055,
+    "geom:longitude":103.3893,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Permatang Setongkol",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765520,
+    "gn:latitude":3.6055,
+    "gn:longitude":103.3893,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Permatang Setongkol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Permatang Setongkol"
+    ],
+    "name:und_x_variant":[
+        "Kampong Permatang Setongkol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765520
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"81c0d405f8a272b89e6dc6e33c0f05b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":1344079111,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1344079111,
+    "wof:lastmodified":1537673957,
+    "wof:name":"Kampung Permatang Setongkol",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3893,
+    3.6055,
+    103.3893,
+    3.6055
+],
+  "geometry": {"coordinates":[103.38930000000001,3.6055],"type":"Point"}
+}

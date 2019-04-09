@@ -1,0 +1,70 @@
+{
+  "id": 1210039289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4855,2.5173,102.4855,2.5173",
+    "geom:latitude":2.5173,
+    "geom:longitude":102.4855,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Taman Sri Ayer Kuning",
+    "gn:country_code":"MY",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698178,
+    "gn:latitude":2.5173,
+    "gn:longitude":102.4855,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Sri Ayer Kuning",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Sri Ayer Kuning"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        1108696529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698178
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a6d527d91834b15518ffb7ced3066317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696529,
+            "locality_id":1210039289,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1210039289,
+    "wof:lastmodified":1537674370,
+    "wof:name":"Taman Sri Ayer Kuning",
+    "wof:parent_id":1108696529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4855,
+    2.5173,
+    102.4855,
+    2.5173
+],
+  "geometry": {"coordinates":[102.4855,2.5173],"type":"Point"}
+}

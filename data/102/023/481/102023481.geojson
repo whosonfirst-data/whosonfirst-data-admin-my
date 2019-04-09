@@ -1,0 +1,121 @@
+{
+  "id": 102023481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000254,
+    "geom:area_square_m":3132385.941808,
+    "geom:bbox":"101.400296004,4.44143525327,101.418307452,4.4595126857",
+    "geom:latitude":4.450474,
+    "geom:longitude":101.409302,
+    "gn:latitude":4.46361,
+    "gn:longitude":101.3763,
+    "gn:population":7000,
+    "iso:country":"MY",
+    "lbl:latitude":4.450474,
+    "lbl:longitude":101.409302,
+    "mps:latitude":4.450474,
+    "mps:longitude":101.409302,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4e39\u90a3\u62c9\u6253"
+    ],
+    "name:dut_x_preferred":[
+        "Tanah Rata"
+    ],
+    "name:eng_x_preferred":[
+        "Tanah Rata"
+    ],
+    "name:fre_x_preferred":[
+        "Tanah Rata"
+    ],
+    "name:ind_x_preferred":[
+        "Tanah Rata"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30ca\u30fc\u30fb\u30e9\u30fc\u30bf"
+    ],
+    "name:may_x_preferred":[
+        "Tanah Rata"
+    ],
+    "name:msa_x_preferred":[
+        "Tanah Rata"
+    ],
+    "name:nld_x_preferred":[
+        "Tanah Rata"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043d\u0430 \u0420\u0430\u0442\u0430"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bbe\u0ba9\u0bbe \u0bb0\u0bbe\u0ba4\u0bcd\u0ba4\u0bbe"
+    ],
+    "qs:a0":"Malaysia",
+    "qs:a1":"*Pahang",
+    "qs:a1r":"*",
+    "qs:a2":"Cameron Highlands",
+    "qs:id":0,
+    "qs:la":"Tanah Rata",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tanah Rata",
+    "qs:loc_alt":"Tanah Rata",
+    "qs:loc_lc":"1735262",
+    "qs:pop":0,
+    "qs:source":"Squattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":181,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735262,
+        "gp:id":1155181,
+        "qs:id":1090070,
+        "qs_pg:id":1090070,
+        "wd:id":"Q2678458",
+        "wk:page":"Tanah Rata"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"012ae6c86959d9c14856038abf75a951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696393,
+            "locality_id":102023481,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":102023481,
+    "wof:lastmodified":1527636458,
+    "wof:name":"Tanah Rata",
+    "wof:parent_id":1108696393,
+    "wof:placetype":"locality",
+    "wof:population":7000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.40029600408037,
+    4.44143525326558,
+    101.41830745154498,
+    4.45951268570376
+],
+  "geometry": {"coordinates":[[[101.41102985615306,4.44160318182837],[101.40927238488241,4.44143525326558],[101.40751603897105,4.44161467340965],[101.40582831168707,4.44213454878698],[101.40427406016714,4.4429749026493],[101.40291301318713,4.44410344239984],[101.40179747585448,4.44547680031745],[101.40097031942598,4.4470421999367],[101.40046333351877,4.44873948408008],[101.40029600408037,4.45050342662589],[101.40047476413442,4.45226623917897],[101.40099274616084,4.45396017630269],[101.40183004568611,4.45552013917161],[101.40295448600484,4.45688617755216],[101.404322854673,4.45800579392049],[101.40588256426479,4.45883596113173],[101.40757367354858,4.45934477606929],[101.40933119137044,4.45951268570376],[101.41108757465086,4.45933323843774],[101.41277532443259,4.45881333187388],[101.41432958015376,4.45797294750832],[101.41569061239908,4.45684438258156],[101.41680611830422,4.45547100864779],[101.41763323139709,4.45390560461072],[101.41814016865779,4.45220832832037],[101.41830745154498,4.45044440470289],[101.41812865412199,4.44868161927175],[101.41761064959782,4.44698771333464],[101.41677334587119,4.44542778096896],[101.41564892028727,4.44406176776445],[101.41428058304651,4.44294216741228],[101.41272091679035,4.44211200461893],[101.41102985615306,4.44160318182837]]],"type":"Polygon"}
+}

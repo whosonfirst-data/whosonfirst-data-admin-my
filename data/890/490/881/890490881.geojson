@@ -1,0 +1,72 @@
+{
+  "id": 890490881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.670582,3.113626,101.670582,3.113626",
+    "geom:latitude":3.113626,
+    "geom:longitude":101.670582,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Bukit Putra",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:photos":65,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":65,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56015097,
+        "qs:id":987015,
+        "wd:id":"Q4986949",
+        "wk:page":"Bukit Rahman Putra"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054830,
+    "wof:geomhash":"5a5b0e18370c7e3a33e0fdbcdee4950c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":890490881,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":890490881,
+    "wof:lastmodified":1527732953,
+    "wof:name":"Bukit Putra",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.670582,
+    3.113626,
+    101.670582,
+    3.113626
+],
+  "geometry": {"coordinates":[101.670582,3.113626],"type":"Point"}
+}

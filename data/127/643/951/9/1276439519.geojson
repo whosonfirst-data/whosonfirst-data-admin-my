@@ -1,0 +1,70 @@
+{
+  "id": 1276439519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6076,3.4527,102.6076,3.4527",
+    "geom:latitude":3.4527,
+    "geom:longitude":102.6076,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Sekara",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796250,
+    "gn:latitude":3.4527,
+    "gn:longitude":102.6076,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sekara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sekara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796250
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e1cc72899f0fb3ad4fdcf57d2df62597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1276439519,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276439519,
+    "wof:lastmodified":1537674402,
+    "wof:name":"Kampung Sekara",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6076,
+    3.4527,
+    102.6076,
+    3.4527
+],
+  "geometry": {"coordinates":[102.60760000000001,3.4527],"type":"Point"}
+}

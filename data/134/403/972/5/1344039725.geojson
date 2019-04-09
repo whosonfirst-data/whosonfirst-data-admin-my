@@ -1,0 +1,64 @@
+{
+  "id": 1344039725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.24047,6.85535,117.24047,6.85535",
+    "geom:latitude":6.85535,
+    "geom:longitude":117.24047,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Kandinga",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786871,
+    "gn:latitude":6.85535,
+    "gn:longitude":117.24047,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Kampung Kandinga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kandiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786871
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"30e0057926684dd56b85a612291faa37",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344039725,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344039725,
+    "wof:lastmodified":1537674381,
+    "wof:name":"Kampung Kandinga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.24047,
+    6.85535,
+    117.24047,
+    6.85535
+],
+  "geometry": {"coordinates":[117.24047,6.85535],"type":"Point"}
+}

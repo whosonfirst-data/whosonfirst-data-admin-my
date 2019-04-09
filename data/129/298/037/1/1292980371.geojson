@@ -1,0 +1,67 @@
+{
+  "id": 1292980371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7,5.48333,102.7,5.48333",
+    "geom:latitude":5.48333,
+    "geom:longitude":102.7,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampong Alor Bongor",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771698,
+    "gn:latitude":5.48333,
+    "gn:longitude":102.7,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Alor Bongor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        1108696513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771698
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6534d37d2926f7f74249d61cb3f0b883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696513,
+            "locality_id":1292980371,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1292980371,
+    "wof:lastmodified":1537020216,
+    "wof:name":"Kampong Alor Bongor",
+    "wof:parent_id":1108696513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7,
+    5.48333,
+    102.7,
+    5.48333
+],
+  "geometry": {"coordinates":[102.7,5.48333],"type":"Point"}
+}

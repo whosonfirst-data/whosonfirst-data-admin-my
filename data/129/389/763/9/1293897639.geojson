@@ -1,0 +1,70 @@
+{
+  "id": 1293897639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3647,1.7315,103.3647,1.7315",
+    "geom:latitude":1.7315,
+    "geom:longitude":103.3647,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Sumber Jaya Empat",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7620497,
+    "gn:latitude":1.7315,
+    "gn:longitude":103.3647,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sumber Jaya Empat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sumber Jaya Empat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7620497
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"29423f07297efd9f386702da169768e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1293897639,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293897639,
+    "wof:lastmodified":1537674337,
+    "wof:name":"Kampung Sumber Jaya Empat",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3647,
+    1.7315,
+    103.3647,
+    1.7315
+],
+  "geometry": {"coordinates":[103.3647,1.7315],"type":"Point"}
+}

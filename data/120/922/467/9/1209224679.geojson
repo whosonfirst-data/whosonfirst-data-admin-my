@@ -1,0 +1,61 @@
+{
+  "id": 1209224679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.38333,3.26667,101.38333,3.26667",
+    "geom:latitude":3.26667,
+    "geom:longitude":101.38333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Kampong Bukit Ijok",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770262,
+    "gn:latitude":3.26667,
+    "gn:longitude":101.38333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Bukit Ijok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770262
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3bd4d487a06bdebb9df737d6937b0e0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209224679
+        }
+    ],
+    "wof:id":1209224679,
+    "wof:lastmodified":1536293839,
+    "wof:name":"Kampong Bukit Ijok",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.38333,
+    3.26667,
+    101.38333,
+    3.26667
+],
+  "geometry": {"coordinates":[101.38333,3.26667],"type":"Point"}
+}

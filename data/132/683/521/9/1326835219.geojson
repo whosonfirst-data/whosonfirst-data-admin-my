@@ -1,0 +1,73 @@
+{
+  "id": 1326835219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3588,2.5501,102.3588,2.5501",
+    "geom:latitude":2.5501,
+    "geom:longitude":102.3588,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Sungai Kepong",
+    "gn:country_code":"MY",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763976,
+    "gn:latitude":2.5501,
+    "gn:longitude":102.3588,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Kepong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Kepong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Kepong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        1108696529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763976
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9f153eb30b399f31bd6494ca10b1a569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696529,
+            "locality_id":1326835219,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1326835219,
+    "wof:lastmodified":1537673886,
+    "wof:name":"Kampung Sungai Kepong",
+    "wof:parent_id":1108696529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3588,
+    2.5501,
+    102.3588,
+    2.5501
+],
+  "geometry": {"coordinates":[102.3588,2.5501],"type":"Point"}
+}

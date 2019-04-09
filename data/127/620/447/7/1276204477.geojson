@@ -1,0 +1,68 @@
+{
+  "id": 1276204477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.38333,3.78333,115.38333,3.78333",
+    "geom:latitude":3.78333,
+    "geom:longitude":115.38333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Long Semirang",
+    "gn:country_code":"MY",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1737825,
+    "gn:latitude":3.78333,
+    "gn:longitude":115.38333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Long Semirang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1737825,
+        "wk:page":"Long_Semirang"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"52db4ea61c4931472a267a354bd0f51e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696465,
+            "locality_id":1276204477,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1276204477,
+    "wof:lastmodified":1537569843,
+    "wof:name":"Long Semirang",
+    "wof:parent_id":1108696465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.38333,
+    3.78333,
+    115.38333,
+    3.78333
+],
+  "geometry": {"coordinates":[115.38333,3.78333],"type":"Point"}
+}

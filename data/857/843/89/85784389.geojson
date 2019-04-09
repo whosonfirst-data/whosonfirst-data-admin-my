@@ -1,0 +1,114 @@
+{
+  "id": 85784389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":861538.55121,
+    "geom:bbox":"101.670227051,3.16828152884,101.679837983,3.18028308449",
+    "geom:latitude":3.174793,
+    "geom:longitude":101.674963,
+    "gn:latitude":2.7445,
+    "gn:longitude":102.2155,
+    "iso:country":"MY",
+    "lbl:latitude":3.17462,
+    "lbl:longitude":101.676674,
+    "mps:latitude":3.174853,
+    "mps:longitude":101.675924,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:msa_x_preferred":[
+        "Taman Tunku Muda"
+    ],
+    "name:und_x_preferred":[
+        "Taman Tunku"
+    ],
+    "name:unk_x_variant":[
+        "Taman Tunku"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1735161,
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Taman Tunku Muda",
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Taman Tunku",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Batu",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":208,
+    "qs:photo_sum":248,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56014045,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796746,
+        "gp:id":56035812,
+        "qs:id":1164339,
+        "qs_pg:id":1164339,
+        "wd:id":"Q7391244"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d3d1954d7bfefbe96d77a1be4bda6985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85784389,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85784389,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527639307,
+    "wof:name":"Taman Tunku",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6702270510001,
+    3.16828152884453,
+    101.67983798284274,
+    3.18028308448787
+],
+  "geometry": {"coordinates":[[[101.67502829297467,3.17822525530633],[101.67572021500013,3.17808665767144],[101.67690034047985,3.17832304644702],[101.678466797,3.17753861218254],[101.67846932864137,3.17753734441274],[101.67983798284274,3.17342506647688],[101.67846679700006,3.16930519749233],[101.67812609673041,3.16828152884453],[101.67811560612984,3.16828363017626],[101.67572021500013,3.17068269452984],[101.67297363300014,3.17068269445417],[101.67297363300014,3.17342506837269],[101.6702270510001,3.17342506837269],[101.6702270510001,3.17616743493507],[101.6702270510001,3.17890979549992],[101.6702270510001,3.17936614500104],[101.67297363300014,3.18028308448787],[101.67434480702281,3.17890979550002],[101.67502829297467,3.17822525530633]]],"type":"Polygon"}
+}

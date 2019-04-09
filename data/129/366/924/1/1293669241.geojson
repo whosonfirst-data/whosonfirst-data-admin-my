@@ -1,0 +1,70 @@
+{
+  "id": 1293669241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5608,3.4515,101.5608,3.4515",
+    "geom:latitude":3.4515,
+    "geom:longitude":101.5608,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kampung Timah",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795784,
+    "gn:latitude":3.4515,
+    "gn:longitude":101.5608,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Timah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Timah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795784
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"55a142f766a0a982c46c98b469606fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1293669241,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1293669241,
+    "wof:lastmodified":1537674394,
+    "wof:name":"Kampung Timah",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5608,
+    3.4515,
+    101.5608,
+    3.4515
+],
+  "geometry": {"coordinates":[101.5608,3.4515],"type":"Point"}
+}

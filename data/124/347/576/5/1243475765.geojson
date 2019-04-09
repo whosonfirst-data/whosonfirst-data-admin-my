@@ -1,0 +1,70 @@
+{
+  "id": 1243475765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0486,4.5069,101.0486,4.5069",
+    "geom:latitude":4.5069,
+    "geom:longitude":101.0486,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Rotan Dahan",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7612530,
+    "gn:latitude":4.5069,
+    "gn:longitude":101.0486,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Rotan Dahan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rotan Dahan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7612530
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"66f871292c68902c5840b3e15d529d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1243475765,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1243475765,
+    "wof:lastmodified":1537674328,
+    "wof:name":"Kampung Rotan Dahan",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0486,
+    4.5069,
+    101.0486,
+    4.5069
+],
+  "geometry": {"coordinates":[101.04859999999999,4.5069],"type":"Point"}
+}

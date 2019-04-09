@@ -1,0 +1,67 @@
+{
+  "id": 1327042761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.55854,6.47643,100.55854,6.47643",
+    "geom:latitude":6.47643,
+    "geom:longitude":100.55854,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Badak",
+    "gn:country_code":"MY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1782085,
+    "gn:latitude":6.47643,
+    "gn:longitude":100.55854,
+    "gn:modification_date":"2008-08-14",
+    "gn:name":"Badak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1782085
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d32d6cb2b938ecbc1009687bad77745b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1327042761,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1327042761,
+    "wof:lastmodified":1536745131,
+    "wof:name":"Badak",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.55854,
+    6.47643,
+    100.55854,
+    6.47643
+],
+  "geometry": {"coordinates":[100.55853999999999,6.47643],"type":"Point"}
+}

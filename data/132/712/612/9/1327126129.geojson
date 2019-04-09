@@ -1,0 +1,73 @@
+{
+  "id": 1327126129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0602,4.3587,101.0602,4.3587",
+    "geom:latitude":4.3587,
+    "geom:longitude":101.0602,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Batu Lapan",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770880,
+    "gn:latitude":4.3587,
+    "gn:longitude":101.0602,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Batu Lapan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Lapan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Batu Lapan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770880
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5fb6918c08fd01eced81cadd4cbbe6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1327126129,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1327126129,
+    "wof:lastmodified":1537674179,
+    "wof:name":"Kampung Batu Lapan",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0602,
+    4.3587,
+    101.0602,
+    4.3587
+],
+  "geometry": {"coordinates":[101.06019999999999,4.3587],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209501425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.03263,4.66361,103.03263,4.66361",
+    "geom:latitude":4.66361,
+    "geom:longitude":103.03263,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Semaring",
+    "gn:country_code":"MY",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764636,
+    "gn:latitude":4.66361,
+    "gn:longitude":103.03263,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Semaring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Semaring"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764636
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dec77164f739e593d5e7d663ed68579d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209501425
+        }
+    ],
+    "wof:id":1209501425,
+    "wof:lastmodified":1537673918,
+    "wof:name":"Kampung Semaring",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.03263,
+    4.66361,
+    103.03263,
+    4.66361
+],
+  "geometry": {"coordinates":[103.03263,4.66361],"type":"Point"}
+}

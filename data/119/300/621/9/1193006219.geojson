@@ -1,0 +1,67 @@
+{
+  "id": 1193006219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.56656,0.89152,110.56656,0.89152",
+    "geom:latitude":0.89152,
+    "geom:longitude":110.56656,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Mujat",
+    "gn:country_code":"MY",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766772,
+    "gn:latitude":0.89152,
+    "gn:longitude":110.56656,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampong Mujat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766772
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"009ca5483390587a333c2a318115723c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696511,
+            "locality_id":1193006219,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1193006219,
+    "wof:lastmodified":1536365794,
+    "wof:name":"Kampong Mujat",
+    "wof:parent_id":1108696511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.56656,
+    0.89152,
+    110.56656,
+    0.89152
+],
+  "geometry": {"coordinates":[110.56656,0.89152],"type":"Point"}
+}

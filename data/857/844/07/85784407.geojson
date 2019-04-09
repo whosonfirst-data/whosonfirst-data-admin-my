@@ -1,0 +1,116 @@
+{
+  "id": 85784407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6173500.980828,
+    "geom:bbox":"103.777874,1.470851,103.777874,1.470851",
+    "geom:latitude":1.470851,
+    "geom:longitude":103.777874,
+    "gn:latitude":0.94193,
+    "gn:longitude":103.41512,
+    "iso:country":"MY",
+    "lbl:latitude":1.470851,
+    "lbl:longitude":103.777874,
+    "mps:latitude":1.469306,
+    "mps:longitude":103.783561,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ind_x_preferred":[
+        "Tulang"
+    ],
+    "name:msa_x_preferred":[
+        "Stulang"
+    ],
+    "name:und_x_preferred":[
+        "Stulang"
+    ],
+    "name:unk_x_variant":[
+        "Stulang"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1732752,
+    "qs:gn_namadm1":"40",
+    "qs:gn_name":"Tulang",
+    "qs:local_max":681,
+    "qs:local_sum":3607,
+    "qs:localhoods":29,
+    "qs:name":"Stulang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:name_adm2":"Johor Bahru",
+    "qs:name_lau":"Plentong",
+    "qs:name_local":"Johor Baharu",
+    "qs:photo_max":31,
+    "qs:photo_sum":111,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346296,
+    "qs:woe_adm2":56013565,
+    "qs:woe_lau":56014160,
+    "qs:woe_local":1154698,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102022781,
+        1108696403,
+        85675141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1623100,
+        "gp:id":56036077,
+        "qs:id":78179,
+        "wd:id":"Q7628611"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aff2350f3b8059aa733ff18590e2192c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":102022781,
+            "neighbourhood_id":85784407,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":85784407,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860604,
+    "wof:name":"Stulang",
+    "wof:parent_id":102022781,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.777874,
+    1.470851,
+    103.777874,
+    1.470851
+],
+  "geometry": {"coordinates":[103.777874,1.470851],"type":"Point"}
+}

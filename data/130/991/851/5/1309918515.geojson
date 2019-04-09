@@ -1,0 +1,70 @@
+{
+  "id": 1309918515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.63812,5.55478,100.63812,5.55478",
+    "geom:latitude":5.55478,
+    "geom:longitude":100.63812,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Bukit Ketemeng",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847463,
+    "gn:latitude":5.55478,
+    "gn:longitude":100.63812,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Bukit Ketemeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Ketemeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847463
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"279ba16a6a5918a16cee4c90b97b389d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490359,
+            "locality_id":1309918515,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1309918515,
+    "wof:lastmodified":1537674255,
+    "wof:name":"Kampung Bukit Ketemeng",
+    "wof:parent_id":890490359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.63812,
+    5.55478,
+    100.63812,
+    5.55478
+],
+  "geometry": {"coordinates":[100.63812,5.55478],"type":"Point"}
+}

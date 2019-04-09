@@ -1,0 +1,73 @@
+{
+  "id": 1343533687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5096,6.4127,116.5096,6.4127",
+    "geom:latitude":6.4127,
+    "geom:longitude":116.5096,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Guan",
+    "gn:country_code":"MY",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769150,
+    "gn:latitude":6.4127,
+    "gn:longitude":116.5096,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Guan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Guan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Guan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769150
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6da68dcccb3a0a9256f0a9aeef45ce87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1343533687,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343533687,
+    "wof:lastmodified":1537674109,
+    "wof:name":"Kampung Guan",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5096,
+    6.4127,
+    116.5096,
+    6.4127
+],
+  "geometry": {"coordinates":[116.50960000000001,6.4127],"type":"Point"}
+}

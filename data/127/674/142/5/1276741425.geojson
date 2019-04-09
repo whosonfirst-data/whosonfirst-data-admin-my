@@ -1,0 +1,67 @@
+{
+  "id": 1276741425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.13333,1.96667,113.13333,1.96667",
+    "geom:latitude":1.96667,
+    "geom:longitude":113.13333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Manjam",
+    "gn:country_code":"MY",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747736,
+    "gn:latitude":1.96667,
+    "gn:longitude":113.13333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Manjam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747736
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b1ab2439258376ae0af442d4f260e72e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488879,
+            "locality_id":1276741425,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1276741425,
+    "wof:lastmodified":1536729477,
+    "wof:name":"Rumah Manjam",
+    "wof:parent_id":890488879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.13333,
+    1.96667,
+    113.13333,
+    1.96667
+],
+  "geometry": {"coordinates":[113.13333,1.96667],"type":"Point"}
+}

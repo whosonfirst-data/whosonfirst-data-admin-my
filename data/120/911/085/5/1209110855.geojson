@@ -1,0 +1,61 @@
+{
+  "id": 1209110855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.18333,2.76667,102.18333,2.76667",
+    "geom:latitude":2.76667,
+    "geom:longitude":102.18333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampong Purgong",
+    "gn:country_code":"MY",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765182,
+    "gn:latitude":2.76667,
+    "gn:longitude":102.18333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Purgong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765182
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2a34e88c14623eecf8e52ccf8af6477a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209110855
+        }
+    ],
+    "wof:id":1209110855,
+    "wof:lastmodified":1536297412,
+    "wof:name":"Kampong Purgong",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.18333,
+    2.76667,
+    102.18333,
+    2.76667
+],
+  "geometry": {"coordinates":[102.18333,2.76667],"type":"Point"}
+}

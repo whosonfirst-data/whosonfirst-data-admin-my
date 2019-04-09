@@ -1,0 +1,70 @@
+{
+  "id": 1326922885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3972,3.5198,102.3972,3.5198",
+    "geom:latitude":3.5198,
+    "geom:longitude":102.3972,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Simpang Sanggang",
+    "gn:country_code":"MY",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795914,
+    "gn:latitude":3.5198,
+    "gn:longitude":102.3972,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Simpang Sanggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Simpang Sanggang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795914
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b3283bcf6abb997261ee8d4b1cc3c09b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1326922885,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1326922885,
+    "wof:lastmodified":1537674397,
+    "wof:name":"Simpang Sanggang",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3972,
+    3.5198,
+    102.3972,
+    3.5198
+],
+  "geometry": {"coordinates":[102.3972,3.5198],"type":"Point"}
+}

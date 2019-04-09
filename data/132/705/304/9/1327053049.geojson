@@ -1,0 +1,73 @@
+{
+  "id": 1327053049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3234,2.5033,102.3234,2.5033",
+    "geom:latitude":2.5033,
+    "geom:longitude":102.3234,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Ulu Pondoi",
+    "gn:country_code":"MY",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762315,
+    "gn:latitude":2.5033,
+    "gn:longitude":102.3234,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ulu Pondoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ulu Pondoi"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ulu Pondoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        1108696529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762315
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"df13167f5e0442b24e3c64c5579433cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696529,
+            "locality_id":1327053049,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1327053049,
+    "wof:lastmodified":1537673809,
+    "wof:name":"Kampung Ulu Pondoi",
+    "wof:parent_id":1108696529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3234,
+    2.5033,
+    102.3234,
+    2.5033
+],
+  "geometry": {"coordinates":[102.32340000000001,2.5033],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260252039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.3722,6.3671,116.3722,6.3671",
+    "geom:latitude":6.3671,
+    "geom:longitude":116.3722,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kamupng Suang Punggor",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764199,
+    "gn:latitude":6.3671,
+    "gn:longitude":116.3722,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kamupng Suang Punggor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kamupng Suang Punggor"
+    ],
+    "name:und_x_variant":[
+        "Kampong Suang Punggor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764199
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"23112c2473a6c2fffc7b370c3e9638f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1260252039,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1260252039,
+    "wof:lastmodified":1537673897,
+    "wof:name":"Kamupng Suang Punggor",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.3722,
+    6.3671,
+    116.3722,
+    6.3671
+],
+  "geometry": {"coordinates":[116.37220000000001,6.3671],"type":"Point"}
+}

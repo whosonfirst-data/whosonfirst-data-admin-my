@@ -1,0 +1,105 @@
+{
+  "id": 85783891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000023,
+    "geom:area_square_m":278982.166271,
+    "geom:bbox":"101.700439453,3.16794031327,101.705932617,3.17342506951",
+    "geom:latitude":3.17114,
+    "geom:longitude":101.703644,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.171057,
+    "lbl:longitude":101.703808,
+    "mps:latitude":3.171938,
+    "mps:longitude":101.703971,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:und_x_preferred":[
+        "Hospital Kuala Lumpur"
+    ],
+    "name:unk_x_variant":[
+        "Hospital Kuala Lumpur"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Hospital Kuala Lumpur",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Bandar Kuala Lumpur",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":12,
+    "qs:photo_sum":32,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56014567,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56015191,
+        "qs:id":1155564,
+        "qs_pg:id":1155564
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d234628a62a2cdf5398b50733d69c54c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85783891,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85783891,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269521,
+    "wof:name":"Hospital Kuala Lumpur",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.70043945300012,
+    3.1679403132659,
+    101.70593261700003,
+    3.17342506950992
+],
+  "geometry": {"coordinates":[[[101.70318603499999,3.17342506950992],[101.70387162792304,3.17342506829677],[101.70593261700003,3.17342506837269],[101.70593261700003,3.17068269458038],[101.70593261700003,3.16794031349274],[101.70318603500016,3.1679403132659],[101.70318603500016,3.17068269445417],[101.70043945300017,3.17068269458038],[101.70043945300017,3.17273842229225],[101.70043945300012,3.17342506950992],[101.70318603499999,3.17342506950992]]],"type":"Polygon"}
+}

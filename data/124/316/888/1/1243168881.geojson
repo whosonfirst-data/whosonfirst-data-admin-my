@@ -1,0 +1,74 @@
+{
+  "id": 1243168881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7232,5.02102,100.7232,5.02102",
+    "geom:latitude":5.02102,
+    "geom:longitude":100.7232,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Lembah Nenering",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767506,
+    "gn:latitude":5.02102,
+    "gn:longitude":100.7232,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Lembah Nenering",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lembah Nenering"
+    ],
+    "name:und_x_variant":[
+        "Kampong Lembah Nenering"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767506
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"34e9d5dc04da78b8c5871cfd0bd69533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489801,
+            "locality_id":1243168881,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1243168881,
+    "wof:lastmodified":1537674040,
+    "wof:name":"Kampung Lembah Nenering",
+    "wof:parent_id":890489801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7232,
+    5.02102,
+    100.7232,
+    5.02102
+],
+  "geometry": {"coordinates":[100.72320000000001,5.02102],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276541679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9,4.33333,101.9,4.33333",
+    "geom:latitude":4.33333,
+    "geom:longitude":101.9,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampong Batu Gajah",
+    "gn:country_code":"MY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770918,
+    "gn:latitude":4.33333,
+    "gn:longitude":101.9,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Batu Gajah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770918
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e30dd2da7b8b9a1720d9709025a8693e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1276541679,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276541679,
+    "wof:lastmodified":1536996030,
+    "wof:name":"Kampong Batu Gajah",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9,
+    4.33333,
+    101.9,
+    4.33333
+],
+  "geometry": {"coordinates":[101.90000000000001,4.33333],"type":"Point"}
+}

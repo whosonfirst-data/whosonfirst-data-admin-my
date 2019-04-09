@@ -1,0 +1,67 @@
+{
+  "id": 1193250927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.5797,4.5545,118.5797,4.5545",
+    "geom:latitude":4.5545,
+    "geom:longitude":118.5797,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Silawa",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733666,
+    "gn:latitude":4.5545,
+    "gn:longitude":118.5797,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Silawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Silawa"
+    ],
+    "name:und_x_variant":[
+        "Silawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733666
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ba0f7e30de3fe90ab5ce27728655b52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1193250927,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193250927,
+    "wof:lastmodified":1537673686,
+    "wof:name":"Kampung Silawa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.5797,
+    4.5545,
+    118.5797,
+    4.5545
+],
+  "geometry": {"coordinates":[118.5797,4.5545],"type":"Point"}
+}

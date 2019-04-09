@@ -1,0 +1,73 @@
+{
+  "id": 1310208137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.39326,6.20189,100.39326,6.20189",
+    "geom:latitude":6.20189,
+    "geom:longitude":100.39326,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Titi Gajah",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762628,
+    "gn:latitude":6.20189,
+    "gn:longitude":100.39326,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Titi Gajah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Titi Gajah"
+    ],
+    "name:und_x_variant":[
+        "Kampong Titi Gajah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762628
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"05373b7a4b3003733c6053d2d5dcb66f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1310208137,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310208137,
+    "wof:lastmodified":1537673823,
+    "wof:name":"Kampung Titi Gajah",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.39326,
+    6.20189,
+    100.39326,
+    6.20189
+],
+  "geometry": {"coordinates":[100.39326,6.20189],"type":"Point"}
+}

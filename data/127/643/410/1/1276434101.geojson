@@ -1,0 +1,70 @@
+{
+  "id": 1276434101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8207,3.7103,101.8207,3.7103",
+    "geom:latitude":3.7103,
+    "geom:longitude":101.8207,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Baharu Sungai Cetang",
+    "gn:country_code":"MY",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795499,
+    "gn:latitude":3.7103,
+    "gn:longitude":101.8207,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Baharu Sungai Cetang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Sungai Cetang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795499
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cd57ab386f9ac0dec2a9153f44ff9293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1276434101,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276434101,
+    "wof:lastmodified":1537674393,
+    "wof:name":"Kampung Baharu Sungai Cetang",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8207,
+    3.7103,
+    101.8207,
+    3.7103
+],
+  "geometry": {"coordinates":[101.8207,3.7103],"type":"Point"}
+}

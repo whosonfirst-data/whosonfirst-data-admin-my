@@ -1,0 +1,71 @@
+{
+  "id": 1293870223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.57065,5.75592,102.57065,5.75592",
+    "geom:latitude":5.75592,
+    "geom:longitude":102.57065,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Batu Tumbuh",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6893796,
+    "gn:latitude":5.75592,
+    "gn:longitude":102.57065,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Batu Tumbuh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Tumbuh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6893796
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"361d0c06e205c01330b94f0487d59326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "locality_id":1293870223,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1293870223,
+    "wof:lastmodified":1537674272,
+    "wof:name":"Kampung Batu Tumbuh",
+    "wof:parent_id":890488399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.57065,
+    5.75592,
+    102.57065,
+    5.75592
+],
+  "geometry": {"coordinates":[102.57065,5.75592],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 85771697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000098,
+    "geom:area_square_m":1211653.087892,
+    "geom:bbox":"101.738891602,3.13503117108,101.752616254,3.1463443197",
+    "geom:latitude":3.141582,
+    "geom:longitude":101.74403,
+    "gn:latitude":3.13333,
+    "gn:longitude":101.73333,
+    "iso:country":"MY",
+    "lbl:latitude":3.139693,
+    "lbl:longitude":101.742462,
+    "mps:latitude":3.142869,
+    "mps:longitude":101.742527,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Kampong Pandan Quarters"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Pandan Quarters"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1735161,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Kampong Pandan Quarters",
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Kampong Pandan Quarters",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:name_adm2":"Hulu Langat",
+    "qs:name_lau":"Ampang",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":9,
+    "qs:photo_sum":12,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346306,
+    "qs:woe_adm2":56013645,
+    "qs:woe_lau":56013982,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        102023417,
+        85632739,
+        85675163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766272,
+        "gp:id":1146763,
+        "qs:id":1167914,
+        "qs_pg:id":1167914
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1e4299546e182beb2128aa40448c437b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "locality_id":102023417,
+            "neighbourhood_id":85771697,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85771697,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497308721,
+    "wof:name":"Kampong Pandan Quarters",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.73889160200002,
+    3.13503117107589,
+    101.75261625410911,
+    3.14634431970038
+],
+  "geometry": {"coordinates":[[[101.74404402957856,3.14634224737957],[101.74438476600022,3.14600099967996],[101.74987793000014,3.14600099967996],[101.75261625410911,3.14325853951797],[101.74987793000014,3.1405160997801],[101.74438476600022,3.14051609948015],[101.74438476600011,3.13640446421803],[101.74438476600011,3.13503117527004],[101.74301352809158,3.13503117107589],[101.73889160200002,3.13503117127564],[101.73889160200002,3.14051609918013],[101.73889160200008,3.14462770772283],[101.73889160200002,3.14600100388992],[101.74300528699911,3.14600100389002],[101.74403368359157,3.14634431970038],[101.74404402957856,3.14634224737957]]],"type":"Polygon"}
+}

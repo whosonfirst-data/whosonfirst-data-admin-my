@@ -1,0 +1,108 @@
+{
+  "id": 85784339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":549454.728636,
+    "geom:bbox":"101.678466797,3.06269453048,101.686706543,3.07058309076",
+    "geom:latitude":3.067207,
+    "geom:longitude":101.682315,
+    "gn:latitude":3.06881,
+    "gn:longitude":101.68971,
+    "iso:country":"MY",
+    "lbl:latitude":3.067447,
+    "lbl:longitude":101.680841,
+    "mps:latitude":3.067174,
+    "mps:longitude":101.68157,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:und_x_preferred":[
+        "Bandar Sri Petaling"
+    ],
+    "name:unk_x_variant":[
+        "Bandar Sri Petaling"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1735161,
+    "qs:gn_name":"Bandar Baru Sri Petaling",
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Bandar Sri Petaling",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Petaling",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":98,
+    "qs:photo_sum":140,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56013873,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7779082,
+        "gp:id":56035493,
+        "qs:id":489473,
+        "qs_pg:id":489473
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"de18971bb42784b91e277eb7eb38734f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85784339,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85784339,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1497317503,
+    "wof:name":"Bandar Sri Petaling",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.678466797,
+    3.06269453048455,
+    101.68670654300024,
+    3.07058309075577
+],
+  "geometry": {"coordinates":[[[101.68670654300024,3.0696662471249],[101.68670654300024,3.06920980186003],[101.68670654300018,3.06646715506369],[101.6839599610002,3.06646715494173],[101.6839599610002,3.06372450216494],[101.68293146216894,3.06269453048455],[101.67984595646033,3.06372450319007],[101.67984008800011,3.06372646214085],[101.67984008800011,3.06509189413073],[101.678466797,3.06646715516129],[101.678466797,3.06920980186003],[101.678466797,3.07058309075577],[101.68121337900004,3.0696662471249],[101.6839599610002,3.07058309075577],[101.68670654300024,3.0696662471249]]],"type":"Polygon"}
+}

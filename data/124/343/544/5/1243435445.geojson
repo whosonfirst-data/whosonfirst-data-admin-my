@@ -1,0 +1,61 @@
+{
+  "id": 1243435445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.48333,3.8,113.48333,3.8",
+    "geom:latitude":3.8,
+    "geom:longitude":113.48333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kampong Kuala Suai",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1738051,
+    "gn:latitude":3.8,
+    "gn:longitude":113.48333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Kuala Suai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1738051
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e4bf349a0f9e113d8f8b9b9e068004cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243435445,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243435445,
+    "wof:lastmodified":1536820503,
+    "wof:name":"Kampong Kuala Suai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.48333,
+    3.8,
+    113.48333,
+    3.8
+],
+  "geometry": {"coordinates":[113.48333,3.8],"type":"Point"}
+}

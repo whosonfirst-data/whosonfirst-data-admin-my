@@ -1,0 +1,71 @@
+{
+  "id": 1276624241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.8735,5.0665,118.8735,5.0665",
+    "geom:latitude":5.0665,
+    "geom:longitude":118.8735,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Litok Batoi",
+    "gn:country_code":"MY",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1757156,
+    "gn:latitude":5.0665,
+    "gn:longitude":118.8735,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Litok Batoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Litok Batoi",
+        "Kampong Litok Batoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1757156
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e4f5bb222992fe57fb907aca49905121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696441,
+            "locality_id":1276624241,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276624241,
+    "wof:lastmodified":1537673796,
+    "wof:name":"Kampong Litok Batoi",
+    "wof:parent_id":1108696441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.8735,
+    5.0665,
+    118.8735,
+    5.0665
+],
+  "geometry": {"coordinates":[118.87350000000001,5.0665],"type":"Point"}
+}

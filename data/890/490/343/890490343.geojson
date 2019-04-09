@@ -1,0 +1,67 @@
+{
+  "id": 890490343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.362438,3.012084,101.362438,3.012084",
+    "geom:latitude":3.012084,
+    "geom:longitude":101.362438,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Iks Bandar Sultan Suleiman",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":90,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":90,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56037328,
+        "qs:id":8280
+    },
+    "wof:country":"MY",
+    "wof:created":1469054801,
+    "wof:geomhash":"737605c74634e767803929145a72b3a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696415,
+            "locality_id":890490343,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890490343,
+    "wof:lastmodified":1500013493,
+    "wof:name":"Taman Iks Bandar Sultan Suleiman",
+    "wof:parent_id":1108696415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.362438,
+    3.012084,
+    101.362438,
+    3.012084
+],
+  "geometry": {"coordinates":[101.362438,3.012084],"type":"Point"}
+}

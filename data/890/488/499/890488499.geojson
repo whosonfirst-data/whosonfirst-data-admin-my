@@ -1,0 +1,67 @@
+{
+  "id": 890488499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.317562,6.151307,102.317562,6.151307",
+    "geom:latitude":6.151307,
+    "geom:longitude":102.317562,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kemumin",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kelantan",
+    "qs:photos":42,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":308,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014352,
+        "qs:id":1306921
+    },
+    "wof:country":"MY",
+    "wof:created":1469054722,
+    "wof:geomhash":"2b530652dec6276be3f044efaa0ce30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489783,
+            "localadmin_id":890488499,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":890488499,
+    "wof:lastmodified":1500013376,
+    "wof:name":"Kemumin",
+    "wof:parent_id":890489783,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.317562,
+    6.151307,
+    102.317562,
+    6.151307
+],
+  "geometry": {"coordinates":[102.317562,6.151307],"type":"Point"}
+}

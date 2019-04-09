@@ -1,0 +1,70 @@
+{
+  "id": 1243175341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.5574,5.35049,100.5574,5.35049",
+    "geom:latitude":5.35049,
+    "geom:longitude":100.5574,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Baharu Darul Aman",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819269,
+    "gn:latitude":5.35049,
+    "gn:longitude":100.5574,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Baharu Darul Aman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Darul Aman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819269
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"53d6cb6716f317a0d4e86400229997b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490359,
+            "locality_id":1243175341,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1243175341,
+    "wof:lastmodified":1537674249,
+    "wof:name":"Kampung Baharu Darul Aman",
+    "wof:parent_id":890490359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.5574,
+    5.35049,
+    100.5574,
+    5.35049
+],
+  "geometry": {"coordinates":[100.5574,5.35049],"type":"Point"}
+}

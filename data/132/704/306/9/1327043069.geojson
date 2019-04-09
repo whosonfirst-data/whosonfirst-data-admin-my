@@ -1,0 +1,70 @@
+{
+  "id": 1327043069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.71182,5.33003,100.71182,5.33003",
+    "geom:latitude":5.33003,
+    "geom:longitude":100.71182,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Sungai Pasir",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857738,
+    "gn:latitude":5.33003,
+    "gn:longitude":100.71182,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Sungai Pasir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Pasir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857738
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"36d2d06a581236f23d74446834150b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490371,
+            "locality_id":1327043069,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1327043069,
+    "wof:lastmodified":1537674266,
+    "wof:name":"Kampung Sungai Pasir",
+    "wof:parent_id":890490371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.71182,
+    5.33003,
+    100.71182,
+    5.33003
+],
+  "geometry": {"coordinates":[100.71182,5.33003],"type":"Point"}
+}

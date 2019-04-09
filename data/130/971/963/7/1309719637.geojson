@@ -1,0 +1,72 @@
+{
+  "id": 1309719637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.88333,5.51667,101.88333,5.51667",
+    "geom:latitude":5.51667,
+    "geom:longitude":101.88333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Setap",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764438,
+    "gn:latitude":5.51667,
+    "gn:longitude":101.88333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Setap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Stap",
+        "Kampong Setap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764438
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"055c34787ff96aa95e73d7d7a83e4a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490101,
+            "locality_id":1309719637,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1309719637,
+    "wof:lastmodified":1537673908,
+    "wof:name":"Kampong Setap",
+    "wof:parent_id":890490101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.88333,
+    5.51667,
+    101.88333,
+    5.51667
+],
+  "geometry": {"coordinates":[101.88333,5.51667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343879511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9911,3.805,100.9911,3.805",
+    "geom:latitude":3.805,
+    "geom:longitude":100.9911,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Teluk Kerdu",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793777,
+    "gn:latitude":3.805,
+    "gn:longitude":100.9911,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Teluk Kerdu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Teluk Kerdu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793777
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6af842c46ea313707e4c0c9f2670395d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1343879511,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1343879511,
+    "wof:lastmodified":1537674388,
+    "wof:name":"Kampung Teluk Kerdu",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9911,
+    3.805,
+    100.9911,
+    3.805
+],
+  "geometry": {"coordinates":[100.9911,3.805],"type":"Point"}
+}

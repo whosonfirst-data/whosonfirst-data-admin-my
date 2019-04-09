@@ -1,0 +1,107 @@
+{
+  "id": 85783827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:area_square_m":1318859.315245,
+    "geom:bbox":"101.655122898,3.12406122744,101.664733887,3.13846027645",
+    "geom:latitude":3.131093,
+    "geom:longitude":101.659995,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.130463,
+    "lbl:longitude":101.661328,
+    "mps:latitude":3.130909,
+    "mps:longitude":101.660087,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:und_x_preferred":[
+        "Bukit Bandaraya"
+    ],
+    "name:unk_x_variant":[
+        "Bukit Bandaraya"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Bukit Bandaraya",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Kuala Lumpur",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":51,
+    "qs:photo_sum":173,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56013690,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":84,
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56015084,
+        "qs:id":1316969,
+        "qs_pg:id":1316969,
+        "wd:id":"Q7391189"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"97945ab4db09b2749882e6fc5614985a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85783827,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85783827,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269521,
+    "wof:name":"Bukit Bandaraya",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.65512289830957,
+    3.12406122744046,
+    101.66473388700012,
+    3.13846027645296
+],
+  "geometry": {"coordinates":[[[101.65854687387531,3.13846027645296],[101.65924072300021,3.13836100623176],[101.6599316982248,3.13845986527929],[101.65993662491587,3.13845822058317],[101.6619873050002,3.13640446421803],[101.66473388700007,3.13548756347762],[101.66473388700012,3.13503117500085],[101.66473388700007,3.13228869893184],[101.66473388700007,3.12954621660519],[101.66473388700007,3.12680372730296],[101.66198730500008,3.12680372702344],[101.66198730500008,3.12406123162005],[101.66061605449994,3.12406122900836],[101.65786539443229,3.12406122744046],[101.656494141,3.12406123162005],[101.65649414100017,3.12543452055844],[101.65649414100017,3.12817292168687],[101.65512289830957,3.12954621062259],[101.65603569396694,3.13228869833259],[101.65512290309141,3.13503117107589],[101.65649414100005,3.13640446421785],[101.65854687387531,3.13846027645296]]],"type":"Polygon"}
+}

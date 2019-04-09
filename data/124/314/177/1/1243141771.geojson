@@ -1,0 +1,70 @@
+{
+  "id": 1243141771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.4435,6.292,117.4435,6.292",
+    "geom:latitude":6.292,
+    "geom:longitude":117.4435,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Linajukan",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7607469,
+    "gn:latitude":6.292,
+    "gn:longitude":117.4435,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Linajukan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Linajukan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7607469
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"962d99a1db34abed9e8354f819ffb394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1243141771,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1243141771,
+    "wof:lastmodified":1537674325,
+    "wof:name":"Kampung Linajukan",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.4435,
+    6.292,
+    117.4435,
+    6.292
+],
+  "geometry": {"coordinates":[117.4435,6.292],"type":"Point"}
+}

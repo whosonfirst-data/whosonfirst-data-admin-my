@@ -1,0 +1,72 @@
+{
+  "id": 890490657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9449,4.7913,101.9449,4.7913",
+    "geom:latitude":4.7913,
+    "geom:longitude":101.9449,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pulai"
+    ],
+    "qs:name":"Pulai",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734658,
+        "gp:id":1155036,
+        "qs:id":193583
+    },
+    "wof:country":"MY",
+    "wof:created":1469054819,
+    "wof:geomhash":"a72a8d10224519cff34c317b6a6e35e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":890490657,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":890490657,
+    "wof:lastmodified":1505343789,
+    "wof:name":"Pulai",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9449,
+    4.7913,
+    101.9449,
+    4.7913
+],
+  "geometry": {"coordinates":[101.9449,4.7913],"type":"Point"}
+}

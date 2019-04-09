@@ -1,0 +1,68 @@
+{
+  "id": 1209027913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.59702,5.05734,100.59702,5.05734",
+    "geom:latitude":5.05734,
+    "geom:longitude":100.59702,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Alor Semat",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771641,
+    "gn:latitude":5.05734,
+    "gn:longitude":100.59702,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Alor Semat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Alor Semat"
+    ],
+    "name:und_x_variant":[
+        "Kampong Alor Semat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771641
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8cb8b54e55990eb2a5a65d3d3cac065c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209027913
+        }
+    ],
+    "wof:id":1209027913,
+    "wof:lastmodified":1537674211,
+    "wof:name":"Kampung Alor Semat",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.59702,
+    5.05734,
+    100.59702,
+    5.05734
+],
+  "geometry": {"coordinates":[100.59702,5.05734],"type":"Point"}
+}

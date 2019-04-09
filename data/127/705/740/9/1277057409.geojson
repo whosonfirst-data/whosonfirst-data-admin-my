@@ -1,0 +1,80 @@
+{
+  "id": 1277057409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.40412,1.28885,110.40412,1.28885",
+    "geom:latitude":1.28885,
+    "geom:longitude":110.40412,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Mundai",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766767,
+    "gn:latitude":1.28885,
+    "gn:longitude":110.40412,
+    "gn:modification_date":"2012-11-27",
+    "gn:name":"Kampong Mundai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bth_x_historical":[
+        "Plaman Munoi"
+    ],
+    "name:bth_x_preferred":[
+        "Plaman Munoi"
+    ],
+    "name:msa_x_preferred":[
+        "Kampong Mundai"
+    ],
+    "name:msa_x_variant":[
+        "Mundai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766767
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"db6e3ce3488c5b65ff5744d420ac5985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1277057409,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1277057409,
+    "wof:lastmodified":1537556641,
+    "wof:name":"Kampong Mundai",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.40412,
+    1.28885,
+    110.40412,
+    1.28885
+],
+  "geometry": {"coordinates":[110.40412000000001,1.28885],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242675291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.42561,4.51773,101.42561,4.51773",
+    "geom:latitude":4.51773,
+    "geom:longitude":101.42561,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Taman Teringkap",
+    "gn:country_code":"MY",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8305252,
+    "gn:latitude":4.51773,
+    "gn:longitude":101.42561,
+    "gn:modification_date":"2014-09-27",
+    "gn:name":"Taman Teringkap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Teringkap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305252
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ff8638efc82f540b1c2714ada4d2299c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696393,
+            "locality_id":1242675291,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1242675291,
+    "wof:lastmodified":1537674451,
+    "wof:name":"Taman Teringkap",
+    "wof:parent_id":1108696393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.42561,
+    4.51773,
+    101.42561,
+    4.51773
+],
+  "geometry": {"coordinates":[101.42561000000001,4.51773],"type":"Point"}
+}

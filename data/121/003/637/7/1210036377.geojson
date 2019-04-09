@@ -1,0 +1,75 @@
+{
+  "id": 1210036377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.18592,6.42758,100.18592,6.42758",
+    "geom:latitude":6.42758,
+    "geom:longitude":100.18592,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Kampung Behor Temak",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771042,
+    "gn:latitude":6.42758,
+    "gn:longitude":100.18592,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Behor Temak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Behor Temak"
+    ],
+    "name:und_x_variant":[
+        "Kampong Behor Temak",
+        "Kampong Baroh Temak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771042
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"64ba823138a7621764cf8978b6f02d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1210036377,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1210036377,
+    "wof:lastmodified":1537674186,
+    "wof:name":"Kampung Behor Temak",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.18592,
+    6.42758,
+    100.18592,
+    6.42758
+],
+  "geometry": {"coordinates":[100.18592,6.42758],"type":"Point"}
+}

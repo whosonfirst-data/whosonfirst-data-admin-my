@@ -1,0 +1,70 @@
+{
+  "id": 1327330505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9595,4.8513,100.9595,4.8513",
+    "geom:latitude":4.8513,
+    "geom:longitude":100.9595,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Bendang Machang",
+    "gn:country_code":"MY",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473266,
+    "gn:latitude":4.8513,
+    "gn:longitude":100.9595,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bendang Machang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bendang Machang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473266
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"40e8a9bde311c08933986c115efbdeb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":1327330505,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1327330505,
+    "wof:lastmodified":1537674303,
+    "wof:name":"Kampung Bendang Machang",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9595,
+    4.8513,
+    100.9595,
+    4.8513
+],
+  "geometry": {"coordinates":[100.95950000000001,4.8513],"type":"Point"}
+}

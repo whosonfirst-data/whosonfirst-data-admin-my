@@ -1,0 +1,70 @@
+{
+  "id": 1259604669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1137,4.648,101.1137,4.648",
+    "geom:latitude":4.648,
+    "geom:longitude":101.1137,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taman Tasek",
+    "gn:country_code":"MY",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473365,
+    "gn:latitude":4.648,
+    "gn:longitude":101.1137,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Tasek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Tasek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473365
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"29311c6cf2d06548196ebb9a19dc7568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1259604669,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1259604669,
+    "wof:lastmodified":1537674305,
+    "wof:name":"Taman Tasek",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1137,
+    4.648,
+    101.1137,
+    4.648
+],
+  "geometry": {"coordinates":[101.11369999999999,4.648],"type":"Point"}
+}

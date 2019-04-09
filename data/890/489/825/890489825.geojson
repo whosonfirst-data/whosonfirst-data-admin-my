@@ -1,0 +1,67 @@
+{
+  "id": 890489825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5685465,2.04446,102.5685465,2.04446",
+    "geom:latitude":2.04446,
+    "geom:longitude":102.568546,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Sungai Terap",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":595,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013834,
+        "qs:id":1111816
+    },
+    "wof:country":"MY",
+    "wof:created":1469054772,
+    "wof:geomhash":"eef83207c8f2a459e8c0cd19558cf1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "localadmin_id":890489825,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890489825,
+    "wof:lastmodified":1500013336,
+    "wof:name":"Sungai Terap",
+    "wof:parent_id":890488721,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5685465,
+    2.04446,
+    102.5685465,
+    2.04446
+],
+  "geometry": {"coordinates":[102.5685465,2.04446],"type":"Point"}
+}

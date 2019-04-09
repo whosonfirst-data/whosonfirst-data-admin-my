@@ -1,0 +1,67 @@
+{
+  "id": 1343241525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.55,5.73333,102.55,5.73333",
+    "geom:latitude":5.73333,
+    "geom:longitude":102.55,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampong Tanah Merah",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763549,
+    "gn:latitude":5.73333,
+    "gn:longitude":102.55,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Tanah Merah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763549
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"611c98a320013d2b2774eac721e31b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "locality_id":1343241525,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1343241525,
+    "wof:lastmodified":1537059731,
+    "wof:name":"Kampong Tanah Merah",
+    "wof:parent_id":890488399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.55,
+    5.73333,
+    102.55,
+    5.73333
+],
+  "geometry": {"coordinates":[102.55,5.73333],"type":"Point"}
+}

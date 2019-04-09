@@ -1,0 +1,70 @@
+{
+  "id": 1276132955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8086,2.534,102.8086,2.534",
+    "geom:latitude":2.534,
+    "geom:longitude":102.8086,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pekan Jabi",
+    "gn:country_code":"MY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698831,
+    "gn:latitude":2.534,
+    "gn:longitude":102.8086,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pekan Jabi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pekan Jabi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698831
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5c5064c6ce5abdc336cacd20a00e25b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1276132955,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276132955,
+    "wof:lastmodified":1537674373,
+    "wof:name":"Pekan Jabi",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8086,
+    2.534,
+    102.8086,
+    2.534
+],
+  "geometry": {"coordinates":[102.8086,2.534],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310286085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.05437,1.27532,110.05437,1.27532",
+    "geom:latitude":1.27532,
+    "geom:longitude":110.05437,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampung Gumbang",
+    "gn:country_code":"MY",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769128,
+    "gn:latitude":1.27532,
+    "gn:longitude":110.05437,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kampung Gumbang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pontianak",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goembang",
+        "Kampong Gumbang",
+        "Kampung Gumbang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769128
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"db6af91e5248d2741b2226723dfdd0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696381,
+            "locality_id":1310286085,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1310286085,
+    "wof:lastmodified":1537674108,
+    "wof:name":"Kampung Gumbang",
+    "wof:parent_id":1108696381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.05437,
+    1.27532,
+    110.05437,
+    1.27532
+],
+  "geometry": {"coordinates":[110.05437000000001,1.27532],"type":"Point"}
+}

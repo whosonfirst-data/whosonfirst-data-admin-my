@@ -1,0 +1,63 @@
+{
+  "id": 1326900161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.24667,6.935,117.24667,6.935",
+    "geom:latitude":6.935,
+    "geom:longitude":117.24667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampong Tanjong Layang",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892346,
+    "gn:latitude":6.935,
+    "gn:longitude":117.24667,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"Kampong Tanjong Layang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892346
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"83f30ffa9d771ea4b9b8b864b45d322a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1326900161,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326900161,
+    "wof:lastmodified":1536951259,
+    "wof:name":"Kampong Tanjong Layang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.24667,
+    6.935,
+    117.24667,
+    6.935
+],
+  "geometry": {"coordinates":[117.24666999999999,6.935],"type":"Point"}
+}

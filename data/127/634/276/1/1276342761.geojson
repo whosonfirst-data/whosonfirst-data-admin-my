@@ -1,0 +1,73 @@
+{
+  "id": 1276342761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0203,5.1184,102.0203,5.1184",
+    "geom:latitude":5.1184,
+    "geom:longitude":102.0203,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Layak",
+    "gn:country_code":"MY",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767543,
+    "gn:latitude":5.1184,
+    "gn:longitude":102.0203,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Layak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Layak"
+    ],
+    "name:und_x_variant":[
+        "Kampong Layak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767543
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aedc3d3257ac8130e3e68f83f603b2f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1276342761,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1276342761,
+    "wof:lastmodified":1537674042,
+    "wof:name":"Kampung Layak",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0203,
+    5.1184,
+    102.0203,
+    5.1184
+],
+  "geometry": {"coordinates":[102.02030000000001,5.1184],"type":"Point"}
+}

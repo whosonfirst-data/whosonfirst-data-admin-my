@@ -1,0 +1,70 @@
+{
+  "id": 1276349875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.6824,1.7837,103.6824,1.7837",
+    "geom:latitude":1.7837,
+    "geom:longitude":103.6824,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kemajuan Tanah Sungai Sayong",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7620527,
+    "gn:latitude":1.7837,
+    "gn:longitude":103.6824,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Sungai Sayong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Sungai Sayong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7620527
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d7d7c3b97f1d32d90be85b93ef3f020a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":1276349875,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276349875,
+    "wof:lastmodified":1537674337,
+    "wof:name":"Kemajuan Tanah Sungai Sayong",
+    "wof:parent_id":890491003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.6824,
+    1.7837,
+    103.6824,
+    1.7837
+],
+  "geometry": {"coordinates":[103.6824,1.7837],"type":"Point"}
+}

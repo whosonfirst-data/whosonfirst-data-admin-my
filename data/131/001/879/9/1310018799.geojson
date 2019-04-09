@@ -1,0 +1,67 @@
+{
+  "id": 1310018799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.41667,6.13333,100.41667,6.13333",
+    "geom:latitude":6.13333,
+    "geom:longitude":100.41667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Limbong",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767431,
+    "gn:latitude":6.13333,
+    "gn:longitude":100.41667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Limbong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767431
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0148d5402085e1a5f56523a9848598b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1310018799,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310018799,
+    "wof:lastmodified":1536622029,
+    "wof:name":"Kampong Limbong",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.41667,
+    6.13333,
+    100.41667,
+    6.13333
+],
+  "geometry": {"coordinates":[100.41667,6.13333],"type":"Point"}
+}

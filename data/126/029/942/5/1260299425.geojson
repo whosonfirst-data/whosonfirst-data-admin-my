@@ -1,0 +1,70 @@
+{
+  "id": 1260299425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7588,1.4842,103.7588,1.4842",
+    "geom:latitude":1.4842,
+    "geom:longitude":103.7588,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Century",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7619673,
+    "gn:latitude":1.4842,
+    "gn:longitude":103.7588,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Century",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Century"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619673
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e1c9d6739ca3e2d7f1d0c0ead25db259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1260299425,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1260299425,
+    "wof:lastmodified":1537674333,
+    "wof:name":"Taman Century",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7588,
+    1.4842,
+    103.7588,
+    1.4842
+],
+  "geometry": {"coordinates":[103.75879999999999,1.4842],"type":"Point"}
+}

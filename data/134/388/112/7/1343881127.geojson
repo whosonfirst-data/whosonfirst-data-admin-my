@@ -1,0 +1,73 @@
+{
+  "id": 1343881127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1025,2.5677,102.1025,2.5677",
+    "geom:latitude":2.5677,
+    "geom:longitude":102.1025,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Perigi Jerneh",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765617,
+    "gn:latitude":2.5677,
+    "gn:longitude":102.1025,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Perigi Jerneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Perigi Jerneh"
+    ],
+    "name:und_x_variant":[
+        "Kampong Perigi Jerneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765617
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"90de767a1d2c9563f6cc6f31820f9e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1343881127,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1343881127,
+    "wof:lastmodified":1537673961,
+    "wof:name":"Kampung Perigi Jerneh",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1025,
+    2.5677,
+    102.1025,
+    2.5677
+],
+  "geometry": {"coordinates":[102.10250000000001,2.5677],"type":"Point"}
+}

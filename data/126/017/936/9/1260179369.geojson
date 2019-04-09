@@ -1,0 +1,74 @@
+{
+  "id": 1260179369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5601,3.4169,102.5601,3.4169",
+    "geom:latitude":3.4169,
+    "geom:longitude":102.5601,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Pucung",
+    "gn:country_code":"MY",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765336,
+    "gn:latitude":3.4169,
+    "gn:longitude":102.5601,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pucung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pucung"
+    ],
+    "name:und_x_variant":[
+        "Kampong Puching",
+        "Kampong Puchong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765336
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ab145b971c4055cdaa92d2490c4bdf4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1260179369,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1260179369,
+    "wof:lastmodified":1537673949,
+    "wof:name":"Kampung Pucung",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5601,
+    3.4169,
+    102.5601,
+    3.4169
+],
+  "geometry": {"coordinates":[102.56010000000001,3.4169],"type":"Point"}
+}

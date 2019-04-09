@@ -1,0 +1,73 @@
+{
+  "id": 1326999743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.6979,6.622,116.6979,6.622",
+    "geom:latitude":6.622,
+    "geom:longitude":116.6979,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Karangawan Darat",
+    "gn:country_code":"MY",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768577,
+    "gn:latitude":6.622,
+    "gn:longitude":116.6979,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Karangawan Darat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Karangawan Darat"
+    ],
+    "name:und_x_variant":[
+        "Kampong Karangawan Darat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768577
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"752f1b633a57d7af440f0735097460bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696425,
+            "locality_id":1326999743,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1326999743,
+    "wof:lastmodified":1537674085,
+    "wof:name":"Kampung Karangawan Darat",
+    "wof:parent_id":1108696425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.6979,
+    6.622,
+    116.6979,
+    6.622
+],
+  "geometry": {"coordinates":[116.6979,6.622],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276429189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.21661,1.18582,110.21661,1.18582",
+    "geom:latitude":1.18582,
+    "geom:longitude":110.21661,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Tabak",
+    "gn:country_code":"MY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763694,
+    "gn:latitude":1.18582,
+    "gn:longitude":110.21661,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kampong Tabak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763694
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f9402411b8e00426f4d050cfedadda9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1276429189,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1276429189,
+    "wof:lastmodified":1536649976,
+    "wof:name":"Kampong Tabak",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.21661,
+    1.18582,
+    110.21661,
+    1.18582
+],
+  "geometry": {"coordinates":[110.21661,1.18582],"type":"Point"}
+}

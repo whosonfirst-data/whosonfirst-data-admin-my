@@ -1,0 +1,67 @@
+{
+  "id": 1243532783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.18333,1.9,112.18333,1.9",
+    "geom:latitude":1.9,
+    "geom:longitude":112.18333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Gundi",
+    "gn:country_code":"MY",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747936,
+    "gn:latitude":1.9,
+    "gn:longitude":112.18333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Gundi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747936
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d2db42e022d1957f570e03fbc5550a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696409,
+            "locality_id":1243532783,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1243532783,
+    "wof:lastmodified":1536681119,
+    "wof:name":"Rumah Gundi",
+    "wof:parent_id":1108696409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.18333,
+    1.9,
+    112.18333,
+    1.9
+],
+  "geometry": {"coordinates":[112.18333,1.9],"type":"Point"}
+}

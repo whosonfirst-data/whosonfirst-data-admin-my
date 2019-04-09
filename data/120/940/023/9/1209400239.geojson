@@ -1,0 +1,64 @@
+{
+  "id": 1209400239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.1861,6.35009,100.1861,6.35009",
+    "geom:latitude":6.35009,
+    "geom:longitude":100.1861,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Batas Lintang",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819180,
+    "gn:latitude":6.35009,
+    "gn:longitude":100.1861,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Batas Lintang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batas Lintang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819180
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0d4dba7869f11fc965a30b0c4e30bfbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209400239
+        }
+    ],
+    "wof:id":1209400239,
+    "wof:lastmodified":1537674247,
+    "wof:name":"Kampung Batas Lintang",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.1861,
+    6.35009,
+    100.1861,
+    6.35009
+],
+  "geometry": {"coordinates":[100.1861,6.35009],"type":"Point"}
+}

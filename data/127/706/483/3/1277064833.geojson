@@ -1,0 +1,72 @@
+{
+  "id": 1277064833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.4,3.86667,114.4,3.86667",
+    "geom:latitude":3.86667,
+    "geom:longitude":114.4,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Banyi",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748122,
+    "gn:latitude":3.86667,
+    "gn:longitude":114.4,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rumah Banyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rumah Laga",
+        "Rumah Banyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748122
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"841cfbb3033246e70f37a49bdfee38a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696465,
+            "locality_id":1277064833,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1277064833,
+    "wof:lastmodified":1537673779,
+    "wof:name":"Rumah Banyi",
+    "wof:parent_id":1108696465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.4,
+    3.86667,
+    114.4,
+    3.86667
+],
+  "geometry": {"coordinates":[114.40000000000001,3.86667],"type":"Point"}
+}

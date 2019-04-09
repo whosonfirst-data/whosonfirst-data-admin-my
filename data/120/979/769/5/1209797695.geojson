@@ -1,0 +1,74 @@
+{
+  "id": 1209797695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1964,6.02,116.1964,6.02",
+    "geom:latitude":6.02,
+    "geom:longitude":116.1964,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Kokol",
+    "gn:country_code":"MY",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736690,
+    "gn:latitude":6.02,
+    "gn:longitude":116.1964,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kokol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kokol"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kokol",
+        "Kokol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736690
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0031d8fdec36d6b96f07a85be6d0291c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1209797695,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1209797695,
+    "wof:lastmodified":1537673745,
+    "wof:name":"Kampung Kokol",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1964,
+    6.02,
+    116.1964,
+    6.02
+],
+  "geometry": {"coordinates":[116.1964,6.02],"type":"Point"}
+}

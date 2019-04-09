@@ -1,0 +1,74 @@
+{
+  "id": 1243281557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.46361,1.34184,103.46361,1.34184",
+    "geom:latitude":1.34184,
+    "geom:longitude":103.46361,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Permas Kechil",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765603,
+    "gn:latitude":1.34184,
+    "gn:longitude":103.46361,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kampung Permas Kechil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Permas Kechil"
+    ],
+    "name:und_x_variant":[
+        "Permas Kechil",
+        "Kampong Permas Kechil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765603
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"26350e6d914fb8c8ca4dae8b6348b473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "locality_id":1243281557,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1243281557,
+    "wof:lastmodified":1537673961,
+    "wof:name":"Kampung Permas Kechil",
+    "wof:parent_id":890491001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.46361,
+    1.34184,
+    103.46361,
+    1.34184
+],
+  "geometry": {"coordinates":[103.46361,1.34184],"type":"Point"}
+}

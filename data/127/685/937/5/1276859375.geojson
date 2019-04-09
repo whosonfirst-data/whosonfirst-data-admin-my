@@ -1,0 +1,68 @@
+{
+  "id": 1276859375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.16667,1.93333,111.16667,1.93333",
+    "geom:latitude":1.93333,
+    "geom:longitude":111.16667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kampung Alit",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736726,
+    "gn:latitude":1.93333,
+    "gn:longitude":111.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Alit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736726,
+        "wk:page":"Kampung_Alit"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"926ada1e4348f76fbfbe8bf46b27d511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696501,
+            "locality_id":1276859375,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1276859375,
+    "wof:lastmodified":1537569842,
+    "wof:name":"Kampung Alit",
+    "wof:parent_id":1108696501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.16667,
+    1.93333,
+    111.16667,
+    1.93333
+],
+  "geometry": {"coordinates":[111.16667,1.93333],"type":"Point"}
+}

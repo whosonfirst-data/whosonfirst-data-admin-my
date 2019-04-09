@@ -1,0 +1,70 @@
+{
+  "id": 1343637795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8991,5.1533,102.8991,5.1533",
+    "geom:latitude":5.1533,
+    "geom:longitude":102.8991,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Padang Ping",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7469958,
+    "gn:latitude":5.1533,
+    "gn:longitude":102.8991,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Padang Ping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Padang Ping"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7469958
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d1311a6f5a000e7142006147b479ce6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1343637795,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1343637795,
+    "wof:lastmodified":1537674300,
+    "wof:name":"Kampung Padang Ping",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8991,
+    5.1533,
+    102.8991,
+    5.1533
+],
+  "geometry": {"coordinates":[102.8991,5.1533],"type":"Point"}
+}

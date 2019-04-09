@@ -1,0 +1,70 @@
+{
+  "id": 1225849693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9943,2.7972,101.9943,2.7972",
+    "geom:latitude":2.7972,
+    "geom:longitude":101.9943,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Telaga",
+    "gn:country_code":"MY",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796616,
+    "gn:latitude":2.7972,
+    "gn:longitude":101.9943,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Telaga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Telaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796616
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1ab3c0f74e8bb2911563350bc2e40740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1225849693,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1225849693,
+    "wof:lastmodified":1537674407,
+    "wof:name":"Kampung Telaga",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9943,
+    2.7972,
+    101.9943,
+    2.7972
+],
+  "geometry": {"coordinates":[101.9943,2.7972],"type":"Point"}
+}

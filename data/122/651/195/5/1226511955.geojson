@@ -1,0 +1,70 @@
+{
+  "id": 1226511955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.3227,5.1914,116.3227,5.1914",
+    "geom:latitude":5.1914,
+    "geom:longitude":116.3227,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Bunang",
+    "gn:country_code":"MY",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783161,
+    "gn:latitude":5.1914,
+    "gn:longitude":116.3227,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bunang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bunang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783161
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1b8cfd6d692db3021ce88beb835527c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1226511955,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226511955,
+    "wof:lastmodified":1537674379,
+    "wof:name":"Kampung Bunang",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.3227,
+    5.1914,
+    116.3227,
+    5.1914
+],
+  "geometry": {"coordinates":[116.3227,5.1914],"type":"Point"}
+}

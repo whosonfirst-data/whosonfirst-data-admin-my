@@ -1,0 +1,70 @@
+{
+  "id": 1310585721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.52564,5.22015,100.52564,5.22015",
+    "geom:latitude":5.22015,
+    "geom:longitude":100.52564,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Sungai Lintah",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1742716,
+    "gn:latitude":5.22015,
+    "gn:longitude":100.52564,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sungai Lintah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Sungai Lintah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1742716
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5a0b3c522eb7258a999b9c35d6f4075d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1310585721,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1310585721,
+    "wof:lastmodified":1537673762,
+    "wof:name":"Sungai Lintah",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52564,
+    5.22015,
+    100.52564,
+    5.22015
+],
+  "geometry": {"coordinates":[100.52564,5.22015],"type":"Point"}
+}

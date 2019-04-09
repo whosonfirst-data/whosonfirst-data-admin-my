@@ -1,0 +1,71 @@
+{
+  "id": 1276331587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4349,3.9062,102.4349,3.9062",
+    "geom:latitude":3.9062,
+    "geom:longitude":102.4349,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pulau Tawar",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356545,
+    "gn:latitude":3.9062,
+    "gn:longitude":102.4349,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Pulau Tawar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pulau Tawar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356545,
+        "wk:page":"Pulau_Tawar"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9ab845ab4eeaad4c788124e2192ed2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1276331587,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276331587,
+    "wof:lastmodified":1537674453,
+    "wof:name":"Pulau Tawar",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4349,
+    3.9062,
+    102.4349,
+    3.9062
+],
+  "geometry": {"coordinates":[102.4349,3.9062],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327234615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.51427,5.55388,100.51427,5.55388",
+    "geom:latitude":5.55388,
+    "geom:longitude":100.51427,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lembah Raja",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848414,
+    "gn:latitude":5.55388,
+    "gn:longitude":100.51427,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Lembah Raja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Lembah Raja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890490327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848414
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"efb1c9959169c60e45a36afe48c1a842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490327,
+            "locality_id":1327234615,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1327234615,
+    "wof:lastmodified":1537674257,
+    "wof:name":"Lembah Raja",
+    "wof:parent_id":890490327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51427,
+    5.55388,
+    100.51427,
+    5.55388
+],
+  "geometry": {"coordinates":[100.51427,5.55388],"type":"Point"}
+}

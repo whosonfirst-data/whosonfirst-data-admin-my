@@ -1,0 +1,70 @@
+{
+  "id": 1276851095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6481,3.4655,101.6481,3.4655",
+    "geom:latitude":3.4655,
+    "geom:longitude":101.6481,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kampung Sekolah",
+    "gn:country_code":"MY",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795789,
+    "gn:latitude":3.4655,
+    "gn:longitude":101.6481,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sekolah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sekolah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795789
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8e6ea96b60d547ea5b0382c35d5768aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1276851095,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1276851095,
+    "wof:lastmodified":1537674394,
+    "wof:name":"Kampung Sekolah",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6481,
+    3.4655,
+    101.6481,
+    3.4655
+],
+  "geometry": {"coordinates":[101.6481,3.4655],"type":"Point"}
+}

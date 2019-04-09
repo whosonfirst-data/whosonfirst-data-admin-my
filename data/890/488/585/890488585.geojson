@@ -1,0 +1,77 @@
+{
+  "id": 890488585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.071838,5.851693,118.071838,5.851693",
+    "geom:latitude":5.851693,
+    "geom:longitude":118.071838,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Sandakan",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sabah",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":11,
+    "qs:photos_9r":10,
+    "qs:photos_all":2544,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:population":"wk",
+    "wd:elevation":10.0,
+    "wd:latitude":"5.833333333",
+    "wd:longitude":"118.116666666",
+    "wd:population":396290,
+    "wd:wordcount":7290,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        890490007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014185,
+        "qs:id":1313696,
+        "wd:id":"Q137203",
+        "wk:page":"Sandakan"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054725,
+    "wof:geomhash":"83104dbe1a455ac4f9ea834977431c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490007,
+            "localadmin_id":890488585,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":890488585,
+    "wof:lastmodified":1527787081,
+    "wof:name":"Sandakan",
+    "wof:parent_id":890490007,
+    "wof:placetype":"localadmin",
+    "wof:population":396290,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.071838,
+    5.851693,
+    118.071838,
+    5.851693
+],
+  "geometry": {"coordinates":[118.071838,5.851693],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310313837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.74728,6.34365,99.74728,6.34365",
+    "geom:latitude":6.34365,
+    "geom:longitude":99.74728,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Yoi",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804714,
+    "gn:latitude":6.34365,
+    "gn:longitude":99.74728,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kampung Yoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696443,
+        85675137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804714
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"750a9174f0da80f537d73f48b36b4392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":1310313837,
+            "region_id":85675133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":1310313837,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1310313837,
+    "wof:lastmodified":1536696009,
+    "wof:name":"Kampung Yoi",
+    "wof:parent_id":1108696443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.74728,
+    6.34365,
+    99.74728,
+    6.34365
+],
+  "geometry": {"coordinates":[99.74728,6.34365],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293905483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3606,3.9962,102.3606,3.9962",
+    "geom:latitude":3.9962,
+    "geom:longitude":102.3606,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Bukit Tiang",
+    "gn:country_code":"MY",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793966,
+    "gn:latitude":3.9962,
+    "gn:longitude":102.3606,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bukit Tiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Tiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793966
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"600cbcbc94332508e1b17ef2f12d34a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1293905483,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293905483,
+    "wof:lastmodified":1537674389,
+    "wof:name":"Kampung Bukit Tiang",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3606,
+    3.9962,
+    102.3606,
+    3.9962
+],
+  "geometry": {"coordinates":[102.36060000000001,3.9962],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226247583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8913,2.862,101.8913,2.862",
+    "geom:latitude":2.862,
+    "geom:longitude":101.8913,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Sungai Bioh",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764103,
+    "gn:latitude":2.862,
+    "gn:longitude":101.8913,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Bioh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Bioh"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Bioh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764103
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a2f8e1dc96fe7c15aec5120b733f596f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1226247583,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1226247583,
+    "wof:lastmodified":1537673892,
+    "wof:name":"Kampung Sungai Bioh",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8913,
+    2.862,
+    101.8913,
+    2.862
+],
+  "geometry": {"coordinates":[101.8913,2.862],"type":"Point"}
+}

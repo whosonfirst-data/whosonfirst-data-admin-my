@@ -1,0 +1,73 @@
+{
+  "id": 1343855559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1974,3.8756,102.1974,3.8756",
+    "geom:latitude":3.8756,
+    "geom:longitude":102.1974,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Hulu Jelai",
+    "gn:country_code":"MY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7649390,
+    "gn:latitude":3.8756,
+    "gn:longitude":102.1974,
+    "gn:modification_date":"2013-10-10",
+    "gn:name":"Kampung Hulu Jelai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Hulu Jelai"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ulu Jelai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7649390
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"48f26a8cbc6945db233b4f2fc19b5ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1343855559,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1343855559,
+    "wof:lastmodified":1537674348,
+    "wof:name":"Kampung Hulu Jelai",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1974,
+    3.8756,
+    102.1974,
+    3.8756
+],
+  "geometry": {"coordinates":[102.1974,3.8756],"type":"Point"}
+}

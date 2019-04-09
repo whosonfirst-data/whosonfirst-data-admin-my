@@ -1,0 +1,73 @@
+{
+  "id": 1209815845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3282,2.2746,102.3282,2.2746",
+    "geom:latitude":2.2746,
+    "geom:longitude":102.3282,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Ladang Baharu",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767692,
+    "gn:latitude":2.2746,
+    "gn:longitude":102.3282,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ladang Baharu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ladang Baharu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ladang Baharu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767692
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aa4b1346e5d39aa15ef8499da468fb8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":1209815845,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1209815845,
+    "wof:lastmodified":1537674048,
+    "wof:name":"Kampung Ladang Baharu",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3282,
+    2.2746,
+    102.3282,
+    2.2746
+],
+  "geometry": {"coordinates":[102.3282,2.2746],"type":"Point"}
+}

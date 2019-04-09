@@ -1,0 +1,70 @@
+{
+  "id": 1260084161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.066,2.0078,103.066,2.0078",
+    "geom:latitude":2.0078,
+    "geom:longitude":103.066,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Sembrong",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856997,
+    "gn:latitude":2.0078,
+    "gn:longitude":103.066,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Sembrong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Sembrong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856997
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"44d117ada1001a389bd18c0006065688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1260084161,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1260084161,
+    "wof:lastmodified":1537674440,
+    "wof:name":"Taman Sembrong",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.066,
+    2.0078,
+    103.066,
+    2.0078
+],
+  "geometry": {"coordinates":[103.066,2.0078],"type":"Point"}
+}

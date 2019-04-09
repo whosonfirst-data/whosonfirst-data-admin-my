@@ -1,0 +1,67 @@
+{
+  "id": 1293896471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.48333,6.16667,100.48333,6.16667",
+    "geom:latitude":6.16667,
+    "geom:longitude":100.48333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Lanjut",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767586,
+    "gn:latitude":6.16667,
+    "gn:longitude":100.48333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Lanjut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767586
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9c06053b7afe96d71272da60d89a3e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1293896471,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1293896471,
+    "wof:lastmodified":1536694797,
+    "wof:name":"Kampong Lanjut",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.48333,
+    6.16667,
+    100.48333,
+    6.16667
+],
+  "geometry": {"coordinates":[100.48333,6.16667],"type":"Point"}
+}

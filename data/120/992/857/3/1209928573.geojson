@@ -1,0 +1,70 @@
+{
+  "id": 1209928573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.569,2.0787,102.569,2.0787",
+    "geom:latitude":2.0787,
+    "geom:longitude":102.569,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Sabak Aur",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7855785,
+    "gn:latitude":2.0787,
+    "gn:longitude":102.569,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sabak Aur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sabak Aur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855785
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b5cef4258c06d52034191e54b1bbf679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1209928573,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1209928573,
+    "wof:lastmodified":1537674435,
+    "wof:name":"Kampung Sabak Aur",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.569,
+    2.0787,
+    102.569,
+    2.0787
+],
+  "geometry": {"coordinates":[102.569,2.0787],"type":"Point"}
+}

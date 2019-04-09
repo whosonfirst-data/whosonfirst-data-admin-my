@@ -1,0 +1,70 @@
+{
+  "id": 1293218273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7918,2.3385,102.7918,2.3385",
+    "geom:latitude":2.3385,
+    "geom:longitude":102.7918,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kemajuan Tanah Seri Jaya",
+    "gn:country_code":"MY",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798338,
+    "gn:latitude":2.3385,
+    "gn:longitude":102.7918,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Seri Jaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Seri Jaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798338
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c5b1119896bd21a1e3de43e2e29776d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1293218273,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293218273,
+    "wof:lastmodified":1537674430,
+    "wof:name":"Kemajuan Tanah Seri Jaya",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7918,
+    2.3385,
+    102.7918,
+    2.3385
+],
+  "geometry": {"coordinates":[102.79179999999999,2.3385],"type":"Point"}
+}

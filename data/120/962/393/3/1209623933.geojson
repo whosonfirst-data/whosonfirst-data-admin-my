@@ -1,0 +1,64 @@
+{
+  "id": 1209623933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.60399,6.22201,100.60399,6.22201",
+    "geom:latitude":6.22201,
+    "geom:longitude":100.60399,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Mogo",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6853464,
+    "gn:latitude":6.22201,
+    "gn:longitude":100.60399,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Mogo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6853464
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a5d460fa3b54b11cac17cdb67272a4fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209623933
+        }
+    ],
+    "wof:id":1209623933,
+    "wof:lastmodified":1537674259,
+    "wof:name":"Kampung Mogo",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.60399,
+    6.22201,
+    100.60399,
+    6.22201
+],
+  "geometry": {"coordinates":[100.60399,6.22201],"type":"Point"}
+}

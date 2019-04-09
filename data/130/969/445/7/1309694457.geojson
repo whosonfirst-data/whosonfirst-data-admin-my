@@ -1,0 +1,70 @@
+{
+  "id": 1309694457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.1333,6.2416,117.1333,6.2416",
+    "geom:latitude":6.2416,
+    "geom:longitude":117.1333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Langog",
+    "gn:country_code":"MY",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418551,
+    "gn:latitude":6.2416,
+    "gn:longitude":117.1333,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Langog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Langog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418551
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b3be382ae3479819a89ac7c1a1149ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1309694457,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309694457,
+    "wof:lastmodified":1537674284,
+    "wof:name":"Kampung Langog",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.1333,
+    6.2416,
+    117.1333,
+    6.2416
+],
+  "geometry": {"coordinates":[117.13330000000001,6.2416],"type":"Point"}
+}

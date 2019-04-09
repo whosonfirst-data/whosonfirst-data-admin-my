@@ -1,0 +1,67 @@
+{
+  "id": 1259471273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.65,1.95,111.65,1.95",
+    "geom:latitude":1.95,
+    "geom:longitude":111.65,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Jambai",
+    "gn:country_code":"MY",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747901,
+    "gn:latitude":1.95,
+    "gn:longitude":111.65,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Jambai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747901
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"56adc926002a7c30e32e796fea1dc66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696475,
+            "locality_id":1259471273,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1259471273,
+    "wof:lastmodified":1536875438,
+    "wof:name":"Rumah Jambai",
+    "wof:parent_id":1108696475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.65,
+    1.95,
+    111.65,
+    1.95
+],
+  "geometry": {"coordinates":[111.65000000000001,1.95],"type":"Point"}
+}

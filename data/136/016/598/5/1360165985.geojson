@@ -1,0 +1,74 @@
+{
+  "id": 1360165985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.31364,1.23072,110.31364,1.23072",
+    "geom:latitude":1.23072,
+    "geom:longitude":110.31364,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Braang Payang",
+    "gn:country_code":"MY",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770609,
+    "gn:latitude":1.23072,
+    "gn:longitude":110.31364,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampong Braang Payang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Brang Tebesey",
+        "Kampong Bra\u2019ang Tebesey",
+        "Kampong Braang Payang",
+        "Kampong Beraang Payang",
+        "Kampung Payang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770609
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"90a019ded13be92323ced8751a0a6ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1360165985,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1360165985,
+    "wof:lastmodified":1537674168,
+    "wof:name":"Kampong Braang Payang",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.31364,
+    1.23072,
+    110.31364,
+    1.23072
+],
+  "geometry": {"coordinates":[110.31364000000001,1.23072],"type":"Point"}
+}

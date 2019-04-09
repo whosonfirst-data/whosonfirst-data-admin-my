@@ -1,0 +1,70 @@
+{
+  "id": 1259985743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4071,2.3791,102.4071,2.3791",
+    "geom:latitude":2.3791,
+    "geom:longitude":102.4071,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Bukit Seraya",
+    "gn:country_code":"MY",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798218,
+    "gn:latitude":2.3791,
+    "gn:longitude":102.4071,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bukit Seraya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Seraya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798218
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"52efdd14d7370ebd329379eb7aeaa8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489809,
+            "locality_id":1259985743,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1259985743,
+    "wof:lastmodified":1537674429,
+    "wof:name":"Kampung Bukit Seraya",
+    "wof:parent_id":890489809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4071,
+    2.3791,
+    102.4071,
+    2.3791
+],
+  "geometry": {"coordinates":[102.4071,2.3791],"type":"Point"}
+}

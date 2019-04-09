@@ -1,0 +1,70 @@
+{
+  "id": 1277098643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9282,4.0455,101.9282,4.0455",
+    "geom:latitude":4.0455,
+    "geom:longitude":101.9282,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Moor",
+    "gn:country_code":"MY",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638930,
+    "gn:latitude":4.0455,
+    "gn:longitude":101.9282,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Moor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Moor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638930
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"71a0f01e9763d4d8b69091666e2ddb7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1277098643,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1277098643,
+    "wof:lastmodified":1537674345,
+    "wof:name":"Kampung Moor",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9282,
+    4.0455,
+    101.9282,
+    4.0455
+],
+  "geometry": {"coordinates":[101.9282,4.0455],"type":"Point"}
+}

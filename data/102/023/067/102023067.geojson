@@ -1,0 +1,101 @@
+{
+  "id": 102023067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":23281.719569,
+    "geom:bbox":"102.315673828,2.31748306876,102.317047119,2.3188552359",
+    "geom:latitude":2.318169,
+    "geom:longitude":102.31636,
+    "gn:latitude":2.3125,
+    "gn:longitude":102.2805,
+    "iso:country":"MY",
+    "lbl:latitude":2.318169,
+    "lbl:longitude":102.316361,
+    "mps:latitude":2.318169,
+    "mps:longitude":102.316361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Durian Tunggal"
+    ],
+    "name:eng_x_preferred":[
+        "Durian Tunggal"
+    ],
+    "name:may_x_preferred":[
+        "Durian Tunggal"
+    ],
+    "name:msa_x_preferred":[
+        "Durian Tunggal"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bc1\u0bb0\u0bbf\u0baf\u0bbe\u0ba9\u0bcd \u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bb2\u0bcd"
+    ],
+    "qs:a0":"Malaysia",
+    "qs:a1":"*Melaka",
+    "qs:a1r":"*",
+    "qs:a2":"Alor Gajah",
+    "qs:id":0,
+    "qs:la":"Durian Tunggal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Durian Tunggal",
+    "qs:loc_alt":"Durian Tunggal",
+    "qs:loc_lc":"1734748",
+    "qs:pop":0,
+    "qs:source":"Squattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":137,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[
+        102023085
+    ],
+    "wof:concordances":{
+        "gn:id":1734748,
+        "gp:id":1154653,
+        "qs:id":959606,
+        "qs_pg:id":959606,
+        "wd:id":"Q4449161",
+        "wk:page":"Durian Tunggal"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d285c08dc1029feea3938c220dde8b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":102023067,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":102023067,
+    "wof:lastmodified":1527636460,
+    "wof:name":"Durian Tunggal",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.315673828,
+    2.31748306876,
+    102.317047119,
+    2.3188552359
+],
+  "geometry": {"coordinates":[[[102.315673828,2.31748306876],[102.315673828,2.3188552359],[102.31704711899999,2.3188552359],[102.31704711899999,2.31748306876],[102.315673828,2.31748306876]]],"type":"Polygon"}
+}

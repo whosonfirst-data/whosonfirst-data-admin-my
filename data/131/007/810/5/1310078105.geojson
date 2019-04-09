@@ -1,0 +1,71 @@
+{
+  "id": 1310078105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.25585,5.28132,119.25585,5.28132",
+    "geom:latitude":5.28132,
+    "geom:longitude":119.25585,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Ateamu",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771550,
+    "gn:latitude":5.28132,
+    "gn:longitude":119.25585,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Ateamu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ateamu",
+        "Kampong Ateamu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771550
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b5dcd6421504bedc9b6b0747fc3bd978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696441,
+            "locality_id":1310078105,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1310078105,
+    "wof:lastmodified":1537674207,
+    "wof:name":"Kampong Ateamu",
+    "wof:parent_id":1108696441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.25585,
+    5.28132,
+    119.25585,
+    5.28132
+],
+  "geometry": {"coordinates":[119.25585,5.28132],"type":"Point"}
+}

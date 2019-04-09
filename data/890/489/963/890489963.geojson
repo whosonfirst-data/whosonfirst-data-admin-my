@@ -1,0 +1,74 @@
+{
+  "id": 890489963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.593395,4.261592,100.593395,4.261592",
+    "geom:latitude":4.261592,
+    "geom:longitude":100.593395,
+    "gn:country":"MY",
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Damar Laut"
+    ],
+    "name:eng_x_preferred":[
+        "Damar Laut"
+    ],
+    "name:may_x_preferred":[
+        "Damar Laut"
+    ],
+    "qs:name":"Damar Laut",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos":123,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":123,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1155262,
+        "qs:id":1112379,
+        "wd:id":"Q5211985",
+        "wk:page":"Damar Laut"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054783,
+    "wof:geomhash":"4334cb93932d28382de9809fa89332ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":890489963
+        }
+    ],
+    "wof:id":890489963,
+    "wof:lastmodified":1527792861,
+    "wof:name":"Damar Laut",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.593395,
+    4.261592,
+    100.593395,
+    4.261592
+],
+  "geometry": {"coordinates":[100.593395,4.261592],"type":"Point"}
+}

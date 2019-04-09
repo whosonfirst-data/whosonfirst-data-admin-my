@@ -1,0 +1,67 @@
+{
+  "id": 1293297535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.80837,2.68234,101.80837,2.68234",
+    "geom:latitude":2.68234,
+    "geom:longitude":101.80837,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dusun Lebar",
+    "gn:country_code":"MY",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1775877,
+    "gn:latitude":2.68234,
+    "gn:longitude":101.80837,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Dusun Lebar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1775877
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cfaeedc7fc09a0192305dbb625e49806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1293297535,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1293297535,
+    "wof:lastmodified":1537058257,
+    "wof:name":"Dusun Lebar",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.80837,
+    2.68234,
+    101.80837,
+    2.68234
+],
+  "geometry": {"coordinates":[101.80837,2.68234],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343633813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.11667,5.7,116.11667,5.7",
+    "geom:latitude":5.7,
+    "geom:longitude":116.11667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Mandaripau",
+    "gn:country_code":"MY",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1756110,
+    "gn:latitude":5.7,
+    "gn:longitude":116.11667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Mandaripau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1756110
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"25c31f2ecd0b3ebc3f37153e1a4dc742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696477,
+            "locality_id":1343633813,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343633813,
+    "wof:lastmodified":1536992757,
+    "wof:name":"Mandaripau",
+    "wof:parent_id":1108696477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.11667,
+    5.7,
+    116.11667,
+    5.7
+],
+  "geometry": {"coordinates":[116.11667,5.7],"type":"Point"}
+}

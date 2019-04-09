@@ -1,0 +1,70 @@
+{
+  "id": 1276566369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8272,2.5318,102.8272,2.5318",
+    "geom:latitude":2.5318,
+    "geom:longitude":102.8272,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Baru Tengah",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535660,
+    "gn:latitude":2.5318,
+    "gn:longitude":102.8272,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Baru Tengah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baru Tengah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535660
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"96450a4c2deb010e4df9c2e6916c610f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1276566369,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276566369,
+    "wof:lastmodified":1537674462,
+    "wof:name":"Kampung Baru Tengah",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8272,
+    2.5318,
+    102.8272,
+    2.5318
+],
+  "geometry": {"coordinates":[102.8272,2.5318],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209193721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0934,5.2118,103.0934,5.2118",
+    "geom:latitude":5.2118,
+    "geom:longitude":103.0934,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Kubang Palas",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767835,
+    "gn:latitude":5.2118,
+    "gn:longitude":103.0934,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kubang Palas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kubang Palas"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kubang Palas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767835
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7b8806599a21972308322b6ba9291969",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209193721
+        }
+    ],
+    "wof:id":1209193721,
+    "wof:lastmodified":1537674054,
+    "wof:name":"Kampung Kubang Palas",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0934,
+    5.2118,
+    103.0934,
+    5.2118
+],
+  "geometry": {"coordinates":[103.0934,5.2118],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326538817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.78559,6.32608,99.78559,6.32608",
+    "geom:latitude":6.32608,
+    "geom:longitude":99.78559,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Mara Ayer",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804767,
+    "gn:latitude":6.32608,
+    "gn:longitude":99.78559,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kampung Mara Ayer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696443,
+        85675137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804767
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"01cc27e6e3d7605fe1218178dfbc43db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":1326538817,
+            "region_id":85675133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":1326538817,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1326538817,
+    "wof:lastmodified":1536974019,
+    "wof:name":"Kampung Mara Ayer",
+    "wof:parent_id":1108696443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.78559,
+    6.32608,
+    99.78559,
+    6.32608
+],
+  "geometry": {"coordinates":[99.78559,6.32608],"type":"Point"}
+}

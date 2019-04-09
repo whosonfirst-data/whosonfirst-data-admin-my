@@ -1,0 +1,73 @@
+{
+  "id": 1242591603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6794,2.2239,102.6794,2.2239",
+    "geom:latitude":2.2239,
+    "geom:longitude":102.6794,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Sawah Ring",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764827,
+    "gn:latitude":2.2239,
+    "gn:longitude":102.6794,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sawah Ring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sawah Ring"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sawah Ring"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764827
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b4023d1ff6dec1f7d8055738390b4f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1242591603,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1242591603,
+    "wof:lastmodified":1537673927,
+    "wof:name":"Kampung Sawah Ring",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6794,
+    2.2239,
+    102.6794,
+    2.2239
+],
+  "geometry": {"coordinates":[102.6794,2.2239],"type":"Point"}
+}

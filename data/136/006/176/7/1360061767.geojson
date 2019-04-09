@@ -1,0 +1,75 @@
+{
+  "id": 1360061767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3566,4.2265,103.3566,4.2265",
+    "geom:latitude":4.2265,
+    "geom:longitude":103.3566,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Gong Kapur",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769246,
+    "gn:latitude":4.2265,
+    "gn:longitude":103.3566,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kampung Gong Kapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gong Kapur"
+    ],
+    "name:und_x_variant":[
+        "Gong To Kapur",
+        "Kampong Gong To\u2019 Kapur",
+        "Kampong Gong Kapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769246
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"32fd829f0e1f318d528b43594000ee2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "locality_id":1360061767,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1360061767,
+    "wof:lastmodified":1537674111,
+    "wof:name":"Kampung Gong Kapur",
+    "wof:parent_id":890490801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3566,
+    4.2265,
+    103.3566,
+    4.2265
+],
+  "geometry": {"coordinates":[103.3566,4.2265],"type":"Point"}
+}

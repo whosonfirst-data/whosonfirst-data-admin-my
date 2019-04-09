@@ -1,0 +1,73 @@
+{
+  "id": 1243556359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.378,4.9975,102.378,4.9975",
+    "geom:latitude":4.9975,
+    "geom:longitude":102.378,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Kiar",
+    "gn:country_code":"MY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768258,
+    "gn:latitude":4.9975,
+    "gn:longitude":102.378,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kiar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kiar"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kiar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768258
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2c3b61637a04c63f72c5491239bcc250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1243556359,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1243556359,
+    "wof:lastmodified":1537674070,
+    "wof:name":"Kampung Kiar",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.378,
+    4.9975,
+    102.378,
+    4.9975
+],
+  "geometry": {"coordinates":[102.378,4.9975],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276762783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2758,2.4569,102.2758,2.4569",
+    "geom:latitude":2.4569,
+    "geom:longitude":102.2758,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Keru",
+    "gn:country_code":"MY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356584,
+    "gn:latitude":2.4569,
+    "gn:longitude":102.2758,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Keru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Keru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356584
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"462d13ed7d85579168d5649b76daae66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1276762783,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1276762783,
+    "wof:lastmodified":1537674454,
+    "wof:name":"Keru",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2758,
+    2.4569,
+    102.2758,
+    2.4569
+],
+  "geometry": {"coordinates":[102.2758,2.4569],"type":"Point"}
+}

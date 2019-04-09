@@ -1,0 +1,70 @@
+{
+  "id": 1276995283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6192,2.0595,102.6192,2.0595",
+    "geom:latitude":2.0595,
+    "geom:longitude":102.6192,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Simpang Empat",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856281,
+    "gn:latitude":2.0595,
+    "gn:longitude":102.6192,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Simpang Empat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Simpang Empat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856281
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ec76db53d510ccd1ddf94359c6f4ad2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1276995283,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276995283,
+    "wof:lastmodified":1537674437,
+    "wof:name":"Simpang Empat",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6192,
+    2.0595,
+    102.6192,
+    2.0595
+],
+  "geometry": {"coordinates":[102.61920000000001,2.0595],"type":"Point"}
+}

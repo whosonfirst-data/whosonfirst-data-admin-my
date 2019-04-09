@@ -1,0 +1,70 @@
+{
+  "id": 1260094127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.646,1.5478,103.646,1.5478",
+    "geom:latitude":1.5478,
+    "geom:longitude":103.646,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Bukit Skudai",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536980,
+    "gn:latitude":1.5478,
+    "gn:longitude":103.646,
+    "gn:modification_date":"2014-04-21",
+    "gn:name":"Taman Bukit Skudai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Bukit Sekudai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536980
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ce8001a70da1cfc778618775ef2a6cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1260094127,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1260094127,
+    "wof:lastmodified":1537674467,
+    "wof:name":"Taman Bukit Skudai",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.646,
+    1.5478,
+    103.646,
+    1.5478
+],
+  "geometry": {"coordinates":[103.646,1.5478],"type":"Point"}
+}

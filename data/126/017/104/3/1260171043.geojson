@@ -1,0 +1,73 @@
+{
+  "id": 1260171043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.23333,5.46667,100.23333,5.46667",
+    "geom:latitude":5.46667,
+    "geom:longitude":100.23333,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Telaga Batu",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1740836,
+    "gn:latitude":5.46667,
+    "gn:longitude":100.23333,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Telaga Batu",
+    "gn:population":10000,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u0430\u0433\u0430 \u0411\u0430\u0442\u0443"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1740836
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"986568f29b1acad4c6b69021975340f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "locality_id":1260171043,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1260171043,
+    "wof:lastmodified":1537556560,
+    "wof:name":"Telaga Batu",
+    "wof:parent_id":890489155,
+    "wof:placetype":"locality",
+    "wof:population":10000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.23333,
+    5.46667,
+    100.23333,
+    5.46667
+],
+  "geometry": {"coordinates":[100.23333,5.46667],"type":"Point"}
+}

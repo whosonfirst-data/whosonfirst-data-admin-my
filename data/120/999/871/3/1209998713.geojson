@@ -1,0 +1,73 @@
+{
+  "id": 1209998713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.551,6.5196,116.551,6.5196",
+    "geom:latitude":6.5196,
+    "geom:longitude":116.551,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Pina Barang",
+    "gn:country_code":"MY",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765452,
+    "gn:latitude":6.5196,
+    "gn:longitude":116.551,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pina Barang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pina Barang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pina Barang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765452
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a22f8e26a366a00cf183799e42464797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1209998713,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1209998713,
+    "wof:lastmodified":1537673954,
+    "wof:name":"Kampung Pina Barang",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.551,
+    6.5196,
+    116.551,
+    6.5196
+],
+  "geometry": {"coordinates":[116.551,6.5196],"type":"Point"}
+}

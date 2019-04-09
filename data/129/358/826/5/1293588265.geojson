@@ -1,0 +1,70 @@
+{
+  "id": 1293588265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9159,2.6713,101.9159,2.6713",
+    "geom:latitude":2.6713,
+    "geom:longitude":101.9159,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Taman Mambau",
+    "gn:country_code":"MY",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797226,
+    "gn:latitude":2.6713,
+    "gn:longitude":101.9159,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Mambau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Mambau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797226
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e2a526605f5882a8b5b173ab9896c517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1293588265,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1293588265,
+    "wof:lastmodified":1537674416,
+    "wof:name":"Taman Mambau",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9159,
+    2.6713,
+    101.9159,
+    2.6713
+],
+  "geometry": {"coordinates":[101.91589999999999,2.6713],"type":"Point"}
+}

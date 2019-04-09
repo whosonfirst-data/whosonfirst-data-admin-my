@@ -1,0 +1,67 @@
+{
+  "id": 1327104201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.75,4.68333,115.75,4.68333",
+    "geom:latitude":4.68333,
+    "geom:longitude":115.75,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Labiron",
+    "gn:country_code":"MY",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1758961,
+    "gn:latitude":4.68333,
+    "gn:longitude":115.75,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Labiron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1758961
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"94e083c1b46a122ee5704eff145d2ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696519,
+            "locality_id":1327104201,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327104201,
+    "wof:lastmodified":1536657103,
+    "wof:name":"Labiron",
+    "wof:parent_id":1108696519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.75,
+    4.68333,
+    115.75,
+    4.68333
+],
+  "geometry": {"coordinates":[115.75,4.68333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225858759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.58333,1.48333,103.58333,1.48333",
+    "geom:latitude":1.48333,
+    "geom:longitude":103.58333,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Leong Bee Village",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1757729,
+    "gn:latitude":1.48333,
+    "gn:longitude":103.58333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Leong Bee Village",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1757729
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8da2b653beebf28ce652b066a768d55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1225858759,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1225858759,
+    "wof:lastmodified":1536993978,
+    "wof:name":"Leong Bee Village",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.58333,
+    1.48333,
+    103.58333,
+    1.48333
+],
+  "geometry": {"coordinates":[103.58333,1.48333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890490043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38479,5.37893,100.38479,5.37893",
+    "geom:latitude":5.37893,
+    "geom:longitude":100.38479,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kastam"
+    ],
+    "qs:name":"Kampung Kastam",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:photos":25,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":25,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102023327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823232,
+        "gp:id":56036470,
+        "qs:id":1137110
+    },
+    "wof:country":"MY",
+    "wof:created":1469054785,
+    "wof:geomhash":"27f082792bf111c828aa91ce1fee5d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102023327,
+            "neighbourhood_id":890490043,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890490043,
+    "wof:lastmodified":1507590239,
+    "wof:name":"Kampung Kastam",
+    "wof:parent_id":102023327,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38479,
+    5.37893,
+    100.38479,
+    5.37893
+],
+  "geometry": {"coordinates":[100.38479,5.37893],"type":"Point"}
+}

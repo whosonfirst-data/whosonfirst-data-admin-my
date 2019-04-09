@@ -1,0 +1,67 @@
+{
+  "id": 1242883137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.56667,5.36667,100.56667,5.36667",
+    "geom:latitude":5.36667,
+    "geom:longitude":100.56667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Padang Tembak",
+    "gn:country_code":"MY",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766416,
+    "gn:latitude":5.36667,
+    "gn:longitude":100.56667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Padang Tembak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766416
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c46a4994370bb6edb437cd0141b1fe5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490359,
+            "locality_id":1242883137,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1242883137,
+    "wof:lastmodified":1536621447,
+    "wof:name":"Kampong Padang Tembak",
+    "wof:parent_id":890490359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.56667,
+    5.36667,
+    100.56667,
+    5.36667
+],
+  "geometry": {"coordinates":[100.56667,5.36667],"type":"Point"}
+}

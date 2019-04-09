@@ -1,0 +1,70 @@
+{
+  "id": 1327151987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.0306,1.8717,104.0306,1.8717",
+    "geom:latitude":1.8717,
+    "geom:longitude":104.0306,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kangkar Bukit Tiga",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857563,
+    "gn:latitude":1.8717,
+    "gn:longitude":104.0306,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kangkar Bukit Tiga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kangkar Bukit Tiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857563
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f3bbd348ec342e72b714d4e95438759d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":1327151987,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1327151987,
+    "wof:lastmodified":1537674444,
+    "wof:name":"Kangkar Bukit Tiga",
+    "wof:parent_id":890491003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.0306,
+    1.8717,
+    104.0306,
+    1.8717
+],
+  "geometry": {"coordinates":[104.03060000000001,1.8717],"type":"Point"}
+}

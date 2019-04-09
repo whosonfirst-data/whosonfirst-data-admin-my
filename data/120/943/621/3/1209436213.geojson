@@ -1,0 +1,64 @@
+{
+  "id": 1209436213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1947,3.732,101.1947,3.732",
+    "geom:latitude":3.732,
+    "geom:longitude":101.1947,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ladang Ulu Bernam Bahagian Tiga",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7651122,
+    "gn:latitude":3.732,
+    "gn:longitude":101.1947,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ladang Ulu Bernam Bahagian Tiga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ladang Ulu Bernam Bahagian Tiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7651122
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ba2bbe6c5f9bc944e3ad7d49f5d1cb14",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209436213
+        }
+    ],
+    "wof:id":1209436213,
+    "wof:lastmodified":1537674351,
+    "wof:name":"Ladang Ulu Bernam Bahagian Tiga",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1947,
+    3.732,
+    101.1947,
+    3.732
+],
+  "geometry": {"coordinates":[101.1947,3.732],"type":"Point"}
+}

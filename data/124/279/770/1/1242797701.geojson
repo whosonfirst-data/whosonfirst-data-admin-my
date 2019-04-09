@@ -1,0 +1,70 @@
+{
+  "id": 1242797701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.22153,6.63704,100.22153,6.63704",
+    "geom:latitude":6.63704,
+    "geom:longitude":100.22153,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Aman",
+    "gn:country_code":"MY",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798744,
+    "gn:latitude":6.63704,
+    "gn:longitude":100.22153,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Aman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Aman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798744
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4b9914bbccd87071b1c66a7801322998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1242797701,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1242797701,
+    "wof:lastmodified":1537674230,
+    "wof:name":"Kampung Aman",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.22153,
+    6.63704,
+    100.22153,
+    6.63704
+],
+  "geometry": {"coordinates":[100.22153,6.63704],"type":"Point"}
+}

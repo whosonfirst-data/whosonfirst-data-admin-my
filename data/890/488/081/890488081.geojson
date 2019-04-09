@@ -1,0 +1,76 @@
+{
+  "id": 890488081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3816,1.5059,103.3816,1.5059",
+    "geom:latitude":1.5059,
+    "geom:longitude":103.3816,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pontian Besar"
+    ],
+    "name:unk_x_variant":[
+        "Pontian"
+    ],
+    "qs:name":"Pontian Besar",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":31,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":31,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":760,
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732710,
+        "gp:id":1155032,
+        "qs:id":265862,
+        "wd:id":"Q2452012",
+        "wk:page":"Pontian District"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054705,
+    "wof:geomhash":"f69d8fca45501361df494b265ea355bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":890488081
+        }
+    ],
+    "wof:id":890488081,
+    "wof:lastmodified":1527787080,
+    "wof:name":"Pontian Besar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3816,
+    1.5059,
+    103.3816,
+    1.5059
+],
+  "geometry": {"coordinates":[103.38160000000001,1.5059],"type":"Point"}
+}

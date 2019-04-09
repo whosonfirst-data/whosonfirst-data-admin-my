@@ -1,0 +1,70 @@
+{
+  "id": 1343784747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2577,2.824,102.2577,2.824",
+    "geom:latitude":2.824,
+    "geom:longitude":102.2577,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Pasir Ambor Sekolah",
+    "gn:country_code":"MY",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796761,
+    "gn:latitude":2.824,
+    "gn:longitude":102.2577,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pasir Ambor Sekolah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pasir Ambor Sekolah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796761
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"27431b69af87ee8ba54dc9efe8ca7abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1343784747,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1343784747,
+    "wof:lastmodified":1537674411,
+    "wof:name":"Kampung Pasir Ambor Sekolah",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2577,
+    2.824,
+    102.2577,
+    2.824
+],
+  "geometry": {"coordinates":[102.2577,2.824],"type":"Point"}
+}

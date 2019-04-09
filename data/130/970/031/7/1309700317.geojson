@@ -1,0 +1,67 @@
+{
+  "id": 1309700317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.45,1.75,111.45,1.75",
+    "geom:latitude":1.75,
+    "geom:longitude":111.45,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kaki Wong",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736732,
+    "gn:latitude":1.75,
+    "gn:longitude":111.45,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kaki Wong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736732
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ee4b20ecee3fffe354a1a8c92a599e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696501,
+            "locality_id":1309700317,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1309700317,
+    "wof:lastmodified":1537080092,
+    "wof:name":"Kaki Wong",
+    "wof:parent_id":1108696501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.45,
+    1.75,
+    111.45,
+    1.75
+],
+  "geometry": {"coordinates":[111.45,1.75],"type":"Point"}
+}

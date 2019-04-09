@@ -1,0 +1,70 @@
+{
+  "id": 1193159135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6419,3.7816,102.6419,3.7816",
+    "geom:latitude":3.7816,
+    "geom:longitude":102.6419,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Sungai Jerik",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7661937,
+    "gn:latitude":3.7816,
+    "gn:longitude":102.6419,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sungai Jerik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Jerik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7661937
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"47300dbefb8f9821ee406853305133cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1193159135,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1193159135,
+    "wof:lastmodified":1537674353,
+    "wof:name":"Kampung Sungai Jerik",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6419,
+    3.7816,
+    102.6419,
+    3.7816
+],
+  "geometry": {"coordinates":[102.64190000000001,3.7816],"type":"Point"}
+}

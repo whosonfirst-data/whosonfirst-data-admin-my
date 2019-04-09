@@ -1,0 +1,73 @@
+{
+  "id": 1293855283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3289,4.9793,103.3289,4.9793",
+    "geom:latitude":4.9793,
+    "geom:longitude":103.3289,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Ru Tebal",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764944,
+    "gn:latitude":4.9793,
+    "gn:longitude":103.3289,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ru Tebal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ru Tebal"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ru Tebal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764944
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"07bfc7cf6de037d171cd5c1cccebd560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490535,
+            "locality_id":1293855283,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1293855283,
+    "wof:lastmodified":1537673933,
+    "wof:name":"Kampung Ru Tebal",
+    "wof:parent_id":890490535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3289,
+    4.9793,
+    103.3289,
+    4.9793
+],
+  "geometry": {"coordinates":[103.3289,4.9793],"type":"Point"}
+}

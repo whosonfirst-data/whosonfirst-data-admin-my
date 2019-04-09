@@ -1,0 +1,113 @@
+{
+  "id": 85771489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8184703.620691,
+    "geom:bbox":"100.28918,5.278928,100.28918,5.278928",
+    "geom:latitude":5.278928,
+    "geom:longitude":100.28918,
+    "gn:latitude":5.2851,
+    "gn:longitude":100.29004,
+    "iso:country":"MY",
+    "lbl:latitude":5.278928,
+    "lbl:longitude":100.28918,
+    "mps:latitude":5.278928,
+    "mps:longitude":100.28918,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":0.0,
+    "mz:min_zoom":0.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Batu Maung"
+    ],
+    "name:msa_x_preferred":[
+        "Batu Maung"
+    ],
+    "name:unk_x_variant":[
+        "Batu Maung"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1764027,
+    "qs:gn_nam_loc":"Kampong Sungai Gelugor, Pulau Pinang, MY",
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Batu Maung",
+    "qs:local_max":422,
+    "qs:local_sum":2726,
+    "qs:localhoods":18,
+    "qs:name":"Batu Maung",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:name_adm2":"Barat Daya",
+    "qs:name_lau":"Mukim 12",
+    "qs:name_local":"Kampong Sungai Gelugor",
+    "qs:photo_max":62,
+    "qs:photo_sum":220,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346304,
+    "qs:woe_adm2":56013634,
+    "qs:woe_lau":56014458,
+    "qs:woe_local":1149014,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023363,
+        890489155,
+        85675127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735103,
+        "gp:id":1140841,
+        "qs:id":349290,
+        "qs_pg:id":349290,
+        "wd:id":"Q4873318",
+        "wk:page":"Batu Maung"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4abfc1326f5349d354234146d471f708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "locality_id":102023363,
+            "neighbourhood_id":85771489,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":85771489,
+    "wof:lastmodified":1531859424,
+    "wof:name":"Batu Maung",
+    "wof:parent_id":102023363,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.28918,
+    5.278928,
+    100.28918,
+    5.278928
+],
+  "geometry": {"coordinates":[100.28918,5.278928],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309807579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.5048,1.3218,103.5048,1.3218",
+    "geom:latitude":1.3218,
+    "geom:longitude":103.5048,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Chokoh",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857898,
+    "gn:latitude":1.3218,
+    "gn:longitude":103.5048,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Chokoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Chokoh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857898
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ccd98433b64de035dd8c6c5619bb6a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "locality_id":1309807579,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1309807579,
+    "wof:lastmodified":1537674446,
+    "wof:name":"Kampung Chokoh",
+    "wof:parent_id":890491001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.5048,
+    1.3218,
+    103.5048,
+    1.3218
+],
+  "geometry": {"coordinates":[103.5048,1.3218],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293089127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.78333,1.93333,111.78333,1.93333",
+    "geom:latitude":1.93333,
+    "geom:longitude":111.78333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Baling",
+    "gn:country_code":"MY",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748140,
+    "gn:latitude":1.93333,
+    "gn:longitude":111.78333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Baling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748140
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a34829aa54ecab6458430d5f35d7c424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696405,
+            "locality_id":1293089127,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1293089127,
+    "wof:lastmodified":1536863012,
+    "wof:name":"Rumah Baling",
+    "wof:parent_id":1108696405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.78333,
+    1.93333,
+    111.78333,
+    1.93333
+],
+  "geometry": {"coordinates":[111.78333000000001,1.93333],"type":"Point"}
+}

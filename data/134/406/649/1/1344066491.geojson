@@ -1,0 +1,70 @@
+{
+  "id": 1344066491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3358,1.8686,103.3358,1.8686",
+    "geom:latitude":1.8686,
+    "geom:longitude":103.3358,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rumah Pekerja",
+    "gn:country_code":"MY",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7620483,
+    "gn:latitude":1.8686,
+    "gn:longitude":103.3358,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Rumah Pekerja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Rumah Pekerja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7620483
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d4aa4d1ba90deb5846016a7489b32eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1344066491,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1344066491,
+    "wof:lastmodified":1537674337,
+    "wof:name":"Rumah Pekerja",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3358,
+    1.8686,
+    103.3358,
+    1.8686
+],
+  "geometry": {"coordinates":[103.33580000000001,1.8686],"type":"Point"}
+}

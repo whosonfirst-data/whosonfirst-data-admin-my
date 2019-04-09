@@ -1,0 +1,63 @@
+{
+  "id": 1226558045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.45,4.23333,103.45,4.23333",
+    "geom:latitude":4.23333,
+    "geom:longitude":103.45,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampung Kuala Kemaman",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732940,
+    "gn:latitude":4.23333,
+    "gn:longitude":103.45,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampung Kuala Kemaman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732940
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c92e23756ef0042c522b9f83b5cd2601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1226558045,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226558045,
+    "wof:lastmodified":1536979697,
+    "wof:name":"Kampung Kuala Kemaman",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.45,
+    4.23333,
+    103.45,
+    4.23333
+],
+  "geometry": {"coordinates":[103.45,4.23333],"type":"Point"}
+}

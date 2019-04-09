@@ -1,0 +1,73 @@
+{
+  "id": 1360284515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2831,2.8563,102.2831,2.8563",
+    "geom:latitude":2.8563,
+    "geom:longitude":102.2831,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Penghulu",
+    "gn:country_code":"MY",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765754,
+    "gn:latitude":2.8563,
+    "gn:longitude":102.2831,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Penghulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Penghulu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Penghulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765754
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"75a6fb2ac8d9f0390429dc69786f0315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1360284515,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1360284515,
+    "wof:lastmodified":1537673967,
+    "wof:name":"Kampung Penghulu",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2831,
+    2.8563,
+    102.2831,
+    2.8563
+],
+  "geometry": {"coordinates":[102.2831,2.8563],"type":"Point"}
+}

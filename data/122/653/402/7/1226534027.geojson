@@ -1,0 +1,70 @@
+{
+  "id": 1226534027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5182,3.6981,101.5182,3.6981",
+    "geom:latitude":3.6981,
+    "geom:longitude":101.5182,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taman Malim",
+    "gn:country_code":"MY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7794682,
+    "gn:latitude":3.6981,
+    "gn:longitude":101.5182,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Malim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Malim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794682
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"25e21701c718da954d1a99bd42fa73c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489741,
+            "locality_id":1226534027,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1226534027,
+    "wof:lastmodified":1537674391,
+    "wof:name":"Taman Malim",
+    "wof:parent_id":890489741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5182,
+    3.6981,
+    101.5182,
+    3.6981
+],
+  "geometry": {"coordinates":[101.51819999999999,3.6981],"type":"Point"}
+}

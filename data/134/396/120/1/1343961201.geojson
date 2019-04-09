@@ -1,0 +1,71 @@
+{
+  "id": 1343961201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.53029,5.37989,100.53029,5.37989",
+    "geom:latitude":5.37989,
+    "geom:longitude":100.53029,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Taman Selasih",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819294,
+    "gn:latitude":5.37989,
+    "gn:longitude":100.53029,
+    "gn:modification_date":"2018-04-12",
+    "gn:name":"Taman Selasih",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Selasih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819294,
+        "wk:page":"Taman_Selasih"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"71f8e27eb250e20bfa3dd79fb5f4f441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490359,
+            "locality_id":1343961201,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1343961201,
+    "wof:lastmodified":1537674250,
+    "wof:name":"Taman Selasih",
+    "wof:parent_id":890490359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.53029,
+    5.37989,
+    100.53029,
+    5.37989
+],
+  "geometry": {"coordinates":[100.53028999999999,5.37989],"type":"Point"}
+}

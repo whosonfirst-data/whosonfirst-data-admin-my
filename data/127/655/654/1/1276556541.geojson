@@ -1,0 +1,74 @@
+{
+  "id": 1276556541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.79951,5.95339,100.79951,5.95339",
+    "geom:latitude":5.95339,
+    "geom:longitude":100.79951,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Paya",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765940,
+    "gn:latitude":5.95339,
+    "gn:longitude":100.79951,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Paya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Paya"
+    ],
+    "name:und_x_variant":[
+        "Kampong Paya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765940
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8e8aa49c01c3f97bc1a991123297c404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696515,
+            "locality_id":1276556541,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1276556541,
+    "wof:lastmodified":1537673976,
+    "wof:name":"Kampung Paya",
+    "wof:parent_id":1108696515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.79951,
+    5.95339,
+    100.79951,
+    5.95339
+],
+  "geometry": {"coordinates":[100.79951,5.95339],"type":"Point"}
+}

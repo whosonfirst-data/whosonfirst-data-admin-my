@@ -1,0 +1,67 @@
+{
+  "id": 1226741633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.86667,4.56667,100.86667,4.56667",
+    "geom:latitude":4.56667,
+    "geom:longitude":100.86667,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Ulu Piul",
+    "gn:country_code":"MY",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762316,
+    "gn:latitude":4.56667,
+    "gn:longitude":100.86667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Ulu Piul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762316
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b8b93ae916645cd7407d733a271c233b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":1226741633,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1226741633,
+    "wof:lastmodified":1536721824,
+    "wof:name":"Kampong Ulu Piul",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.86667,
+    4.56667,
+    100.86667,
+    4.56667
+],
+  "geometry": {"coordinates":[100.86667,4.56667],"type":"Point"}
+}

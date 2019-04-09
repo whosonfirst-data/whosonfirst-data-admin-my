@@ -1,0 +1,73 @@
+{
+  "id": 1344150245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8416,3.9205,101.8416,3.9205",
+    "geom:latitude":3.9205,
+    "geom:longitude":101.8416,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Sungai Buluh",
+    "gn:country_code":"MY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764091,
+    "gn:latitude":3.9205,
+    "gn:longitude":101.8416,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Buluh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Buluh"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Buloh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764091
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"02931157dba5b32c2c321e445f521ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1344150245,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1344150245,
+    "wof:lastmodified":1537673892,
+    "wof:name":"Kampung Sungai Buluh",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8416,
+    3.9205,
+    101.8416,
+    3.9205
+],
+  "geometry": {"coordinates":[101.8416,3.9205],"type":"Point"}
+}

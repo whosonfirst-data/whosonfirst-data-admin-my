@@ -1,0 +1,73 @@
+{
+  "id": 1276995603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4413,1.3817,103.4413,1.3817",
+    "geom:latitude":1.3817,
+    "geom:longitude":103.4413,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Pekan Penerok",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1751058,
+    "gn:latitude":1.3817,
+    "gn:longitude":103.4413,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pekan Penerok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pekan Penerok"
+    ],
+    "name:und_x_variant":[
+        "Penerok Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1751058
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fa50d5442dc1b07aa51400f2479b0d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "locality_id":1276995603,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276995603,
+    "wof:lastmodified":1537673785,
+    "wof:name":"Pekan Penerok",
+    "wof:parent_id":890491001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4413,
+    1.3817,
+    103.4413,
+    1.3817
+],
+  "geometry": {"coordinates":[103.4413,1.3817],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890489015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.31667,1.43333,110.31667,1.43333",
+    "geom:latitude":1.43333,
+    "geom:longitude":110.31667,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Batu 10",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sarawak",
+    "qs:photos":414,
+    "qs:photos_1k":84,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":414,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734477,
+        "gp:id":1154575,
+        "qs:id":116951
+    },
+    "wof:country":"MY",
+    "wof:created":1469054740,
+    "wof:geomhash":"564ba714205a286592ae3eb9cdc20081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":890489015,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":890489015,
+    "wof:lastmodified":1505343784,
+    "wof:name":"Batu 10",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.31667,
+    1.43333,
+    110.31667,
+    1.43333
+],
+  "geometry": {"coordinates":[110.31667,1.43333],"type":"Point"}
+}

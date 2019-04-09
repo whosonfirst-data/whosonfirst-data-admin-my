@@ -1,0 +1,70 @@
+{
+  "id": 1327345059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.03164,5.66302,102.03164,5.66302",
+    "geom:latitude":5.66302,
+    "geom:longitude":102.03164,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Perala",
+    "gn:country_code":"MY",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068099,
+    "gn:latitude":5.66302,
+    "gn:longitude":102.03164,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Perala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Perala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068099
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8f60c30104c861f0af000f94d574ba54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490497,
+            "locality_id":1327345059,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1327345059,
+    "wof:lastmodified":1537674278,
+    "wof:name":"Kampung Perala",
+    "wof:parent_id":890490497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.03164,
+    5.66302,
+    102.03164,
+    5.66302
+],
+  "geometry": {"coordinates":[102.03164,5.66302],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209414089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2375,2.4709,102.2375,2.4709",
+    "geom:latitude":2.4709,
+    "geom:longitude":102.2375,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Taman Clonlee",
+    "gn:country_code":"MY",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797429,
+    "gn:latitude":2.4709,
+    "gn:longitude":102.2375,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Clonlee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Clonlee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797429
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"946fed5fe7ee5590693d2f4fea410513",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209414089
+        }
+    ],
+    "wof:id":1209414089,
+    "wof:lastmodified":1537674419,
+    "wof:name":"Taman Clonlee",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2375,
+    2.4709,
+    102.2375,
+    2.4709
+],
+  "geometry": {"coordinates":[102.2375,2.4709],"type":"Point"}
+}

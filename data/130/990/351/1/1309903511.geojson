@@ -1,0 +1,70 @@
+{
+  "id": 1309903511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4622,3.2987,102.4622,3.2987",
+    "geom:latitude":3.2987,
+    "geom:longitude":102.4622,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Kerayung Hilir",
+    "gn:country_code":"MY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796072,
+    "gn:latitude":3.2987,
+    "gn:longitude":102.4622,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kerayung Hilir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kerayung Hilir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796072
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"12b457b0e93d61b26d82cef384813df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1309903511,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1309903511,
+    "wof:lastmodified":1537674400,
+    "wof:name":"Kampung Kerayung Hilir",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4622,
+    3.2987,
+    102.4622,
+    3.2987
+],
+  "geometry": {"coordinates":[102.4622,3.2987],"type":"Point"}
+}

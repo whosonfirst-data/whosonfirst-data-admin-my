@@ -1,0 +1,73 @@
+{
+  "id": 1277004919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0738,2.4604,102.0738,2.4604",
+    "geom:latitude":2.4604,
+    "geom:longitude":102.0738,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Nerambai",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766683,
+    "gn:latitude":2.4604,
+    "gn:longitude":102.0738,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Nerambai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Nerambai"
+    ],
+    "name:und_x_variant":[
+        "Kampong Nerambai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766683
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"746623d742d6766fdc4d55640475367f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1277004919,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1277004919,
+    "wof:lastmodified":1537674004,
+    "wof:name":"Kampung Nerambai",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0738,
+    2.4604,
+    102.0738,
+    2.4604
+],
+  "geometry": {"coordinates":[102.07380000000001,2.4604],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 102023377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":371792.118739,
+    "geom:bbox":"101.656494141,3.41472476462,101.661987305,3.4202081602",
+    "geom:latitude":3.417466,
+    "geom:longitude":101.659241,
+    "gn:latitude":3.4312,
+    "gn:longitude":101.6555,
+    "iso:country":"MY",
+    "lbl:latitude":3.417466,
+    "lbl:longitude":101.65924,
+    "mps:latitude":3.417466,
+    "mps:longitude":101.65924,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Hulu Yam Baharu"
+    ],
+    "name:unk_x_variant":[
+        "Ulu Yam Bharu"
+    ],
+    "qs:a0":"Malaysia",
+    "qs:a1":"*Selangor",
+    "qs:a1r":"*",
+    "qs:a2":"Hulu Selangor",
+    "qs:id":0,
+    "qs:la":"Hulu Yam",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hulu Yam Baharu",
+    "qs:loc_alt":"Hulu Yam Baharu",
+    "qs:loc_lc":"1735146",
+    "qs:pop":0,
+    "qs:source":"Squattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[
+        102023909
+    ],
+    "wof:concordances":{
+        "gn:id":1735146,
+        "gp:id":1155253,
+        "qs:id":385536
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"659ce6e6d3a22a075c05b99cc87fa249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":102023377,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":102023377,
+    "wof:lastmodified":1501222124,
+    "wof:name":"Hulu Yam Baharu",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.656494141,
+    3.41472476462,
+    101.661987305,
+    3.4202081602
+],
+  "geometry": {"coordinates":[[[101.656494141,3.41472476462],[101.656494141,3.4202081602],[101.661987305,3.4202081602],[101.661987305,3.41472476462],[101.656494141,3.41472476462]]],"type":"Polygon"}
+}

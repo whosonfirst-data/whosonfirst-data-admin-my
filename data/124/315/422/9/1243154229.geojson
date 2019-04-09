@@ -1,0 +1,70 @@
+{
+  "id": 1243154229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.8897,4.8904,115.8897,4.8904",
+    "geom:latitude":4.8904,
+    "geom:longitude":115.8897,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Abul",
+    "gn:country_code":"MY",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7767939,
+    "gn:latitude":4.8904,
+    "gn:longitude":115.8897,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Abul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Abul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7767939
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ef0effb5c3c59b68c502c7f6161a34e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696535,
+            "locality_id":1243154229,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1243154229,
+    "wof:lastmodified":1537674375,
+    "wof:name":"Kampung Abul",
+    "wof:parent_id":1108696535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.8897,
+    4.8904,
+    115.8897,
+    4.8904
+],
+  "geometry": {"coordinates":[115.8897,4.8904],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343945887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.86667,2.98333,114.86667,2.98333",
+    "geom:latitude":2.98333,
+    "geom:longitude":114.86667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Lio Lesong",
+    "gn:country_code":"MY",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1757232,
+    "gn:latitude":2.98333,
+    "gn:longitude":114.86667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lio Lesong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1757232,
+        "wk:page":"Lio_Lesong"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4e2503317cfc64a5dd39775d63c93b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696465,
+            "locality_id":1343945887,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1343945887,
+    "wof:lastmodified":1537569850,
+    "wof:name":"Lio Lesong",
+    "wof:parent_id":1108696465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.86667,
+    2.98333,
+    114.86667,
+    2.98333
+],
+  "geometry": {"coordinates":[114.86667,2.98333],"type":"Point"}
+}

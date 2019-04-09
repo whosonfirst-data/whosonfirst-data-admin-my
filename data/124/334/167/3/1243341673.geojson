@@ -1,0 +1,67 @@
+{
+  "id": 1243341673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.47739,1.66363,110.47739,1.66363",
+    "geom:latitude":1.66363,
+    "geom:longitude":110.47739,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampung Pasir Puteh",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766017,
+    "gn:latitude":1.66363,
+    "gn:longitude":110.47739,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kampung Pasir Puteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766017
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4d0ca4c6a383cb78fcd2a2db7ae2e784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1243341673,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1243341673,
+    "wof:lastmodified":1536956724,
+    "wof:name":"Kampung Pasir Puteh",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.47739,
+    1.66363,
+    110.47739,
+    1.66363
+],
+  "geometry": {"coordinates":[110.47739,1.66363],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276656193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2598,2.5815,102.2598,2.5815",
+    "geom:latitude":2.5815,
+    "geom:longitude":102.2598,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Kuala Nuri",
+    "gn:country_code":"MY",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768005,
+    "gn:latitude":2.5815,
+    "gn:longitude":102.2598,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kuala Nuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Nuri"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kuala Nuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768005
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6f89ca3c8c4b3b26896338dd6616cc93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1276656193,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1276656193,
+    "wof:lastmodified":1537674059,
+    "wof:name":"Kampung Kuala Nuri",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2598,
+    2.5815,
+    102.2598,
+    2.5815
+],
+  "geometry": {"coordinates":[102.2598,2.5815],"type":"Point"}
+}

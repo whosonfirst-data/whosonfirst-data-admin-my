@@ -1,0 +1,75 @@
+{
+  "id": 1260163121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.5224,5.5202,115.5224,5.5202",
+    "geom:latitude":5.5202,
+    "geom:longitude":115.5224,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Silico",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733369,
+    "gn:latitude":5.5202,
+    "gn:longitude":115.5224,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Silico",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Silico"
+    ],
+    "name:und_x_variant":[
+        "Kampong Silico",
+        "Silico",
+        "Siliko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        890490799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733369
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f537b440b0ec7d5a7810e163965a72b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490799,
+            "locality_id":1260163121,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1260163121,
+    "wof:lastmodified":1537673676,
+    "wof:name":"Kampung Silico",
+    "wof:parent_id":890490799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.5224,
+    5.5202,
+    115.5224,
+    5.5202
+],
+  "geometry": {"coordinates":[115.5224,5.5202],"type":"Point"}
+}

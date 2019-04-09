@@ -1,0 +1,74 @@
+{
+  "id": 1327218355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.39471,5.44283,100.39471,5.44283",
+    "geom:latitude":5.44283,
+    "geom:longitude":100.39471,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Pokok Keras",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1749941,
+    "gn:latitude":5.44283,
+    "gn:longitude":100.39471,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pokok Keras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pokok Keras"
+    ],
+    "name:und_x_variant":[
+        "Pokok Keras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890490327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1749941
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ec6b6db34e098ab26821552b5303e297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490327,
+            "locality_id":1327218355,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1327218355,
+    "wof:lastmodified":1537673781,
+    "wof:name":"Kampung Pokok Keras",
+    "wof:parent_id":890490327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.39471,
+    5.44283,
+    100.39471,
+    5.44283
+],
+  "geometry": {"coordinates":[100.39471,5.44283],"type":"Point"}
+}

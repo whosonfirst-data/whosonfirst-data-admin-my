@@ -1,0 +1,74 @@
+{
+  "id": 1309909245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.68307,5.50542,100.68307,5.50542",
+    "geom:latitude":5.50542,
+    "geom:longitude":100.68307,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Labu Besar",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767708,
+    "gn:latitude":5.50542,
+    "gn:longitude":100.68307,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Labu Besar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Labu Besar"
+    ],
+    "name:und_x_variant":[
+        "Kampong Labu Besar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767708
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1e6fd279eef5a40e5d438db1d3874b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490359,
+            "locality_id":1309909245,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1309909245,
+    "wof:lastmodified":1537674049,
+    "wof:name":"Labu Besar",
+    "wof:parent_id":890490359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.68307,
+    5.50542,
+    100.68307,
+    5.50542
+],
+  "geometry": {"coordinates":[100.68307,5.50542],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209336725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9033,4.04,101.9033,4.04",
+    "geom:latitude":4.04,
+    "geom:longitude":101.9033,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Belewak",
+    "gn:country_code":"MY",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638899,
+    "gn:latitude":4.04,
+    "gn:longitude":101.9033,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Belewak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Belewak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638899
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"982ead3c1c9aa7541d06b2fd7625256d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209336725
+        }
+    ],
+    "wof:id":1209336725,
+    "wof:lastmodified":1537674344,
+    "wof:name":"Kampung Belewak",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9033,
+    4.04,
+    101.9033,
+    4.04
+],
+  "geometry": {"coordinates":[101.9033,4.04],"type":"Point"}
+}

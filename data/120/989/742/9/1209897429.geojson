@@ -1,0 +1,71 @@
+{
+  "id": 1209897429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.5281,0.92499,110.5281,0.92499",
+    "geom:latitude":0.92499,
+    "geom:longitude":110.5281,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Terbat Bazaar",
+    "gn:country_code":"MY",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1739955,
+    "gn:latitude":0.92499,
+    "gn:longitude":110.5281,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Terbat Bazaar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Terbat",
+        "Kampung Terbat Leban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1739955
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c0db5269afb83a579fe3f1119aea0454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696511,
+            "locality_id":1209897429,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1209897429,
+    "wof:lastmodified":1537673757,
+    "wof:name":"Terbat Bazaar",
+    "wof:parent_id":1108696511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.5281,
+    0.92499,
+    110.5281,
+    0.92499
+],
+  "geometry": {"coordinates":[110.52809999999999,0.92499],"type":"Point"}
+}

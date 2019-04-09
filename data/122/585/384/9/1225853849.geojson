@@ -1,0 +1,73 @@
+{
+  "id": 1225853849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.3017,6.15468,100.3017,6.15468",
+    "geom:latitude":6.15468,
+    "geom:longitude":100.3017,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Kubang Bongor",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767888,
+    "gn:latitude":6.15468,
+    "gn:longitude":100.3017,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kubang Bongor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kubang Bongor"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kubang Bongor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767888
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6de5dc480447267a868ed0d239df2fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1225853849,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1225853849,
+    "wof:lastmodified":1537674055,
+    "wof:name":"Kampung Kubang Bongor",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.3017,
+    6.15468,
+    100.3017,
+    6.15468
+],
+  "geometry": {"coordinates":[100.3017,6.15468],"type":"Point"}
+}

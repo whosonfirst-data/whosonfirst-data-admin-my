@@ -1,0 +1,70 @@
+{
+  "id": 890488523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.0005,4.41931,114.0005,4.41931",
+    "geom:latitude":4.41931,
+    "geom:longitude":114.0005,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Miri",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sarawak",
+    "qs:photos":191,
+    "qs:photos_1k":39,
+    "qs:photos_9k":11,
+    "qs:photos_9r":10,
+    "qs:photos_all":2474,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":11847,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014633,
+        "qs:id":1306976,
+        "wd:id":"Q986803",
+        "wk:page":"Miri, Malaysia"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054722,
+    "wof:geomhash":"3143f06b657b8db01159941cbb700715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488483,
+            "localadmin_id":890488523,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":890488523,
+    "wof:lastmodified":1527787082,
+    "wof:name":"Miri",
+    "wof:parent_id":890488483,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.0005,
+    4.41931,
+    114.0005,
+    4.41931
+],
+  "geometry": {"coordinates":[114.0005,4.41931],"type":"Point"}
+}

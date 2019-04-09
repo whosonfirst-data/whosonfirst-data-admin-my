@@ -1,0 +1,67 @@
+{
+  "id": 1310118809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.45,6.2,100.45,6.2",
+    "geom:latitude":6.2,
+    "geom:longitude":100.45,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Lengkuas",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767489,
+    "gn:latitude":6.2,
+    "gn:longitude":100.45,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Lengkuas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767489
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"be231fcdec77029383a8d0c1c73f50f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1310118809,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310118809,
+    "wof:lastmodified":1536976664,
+    "wof:name":"Kampong Lengkuas",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.45,
+    6.2,
+    100.45,
+    6.2
+],
+  "geometry": {"coordinates":[100.45,6.2],"type":"Point"}
+}

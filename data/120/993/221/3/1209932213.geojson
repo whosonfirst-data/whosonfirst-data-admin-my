@@ -1,0 +1,70 @@
+{
+  "id": 1209932213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0216,1.9444,103.0216,1.9444",
+    "geom:latitude":1.9444,
+    "geom:longitude":103.0216,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Lintang",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857051,
+    "gn:latitude":1.9444,
+    "gn:longitude":103.0216,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Lintang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Lintang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857051
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2867b6a1361131aa1d8548673d7a0fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1209932213,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1209932213,
+    "wof:lastmodified":1537674442,
+    "wof:name":"Kampung Parit Lintang",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0216,
+    1.9444,
+    103.0216,
+    1.9444
+],
+  "geometry": {"coordinates":[103.02160000000001,1.9444],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276225035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3742,4.1788,102.3742,4.1788",
+    "geom:latitude":4.1788,
+    "geom:longitude":102.3742,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Macang Raja",
+    "gn:country_code":"MY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564960,
+    "gn:latitude":4.1788,
+    "gn:longitude":102.3742,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Macang Raja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Macang Raja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564960
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6329ca567a5e45a86c7342b12fcbebb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1276225035,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276225035,
+    "wof:lastmodified":1537674311,
+    "wof:name":"Kampung Macang Raja",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3742,
+    4.1788,
+    102.3742,
+    4.1788
+],
+  "geometry": {"coordinates":[102.3742,4.1788],"type":"Point"}
+}

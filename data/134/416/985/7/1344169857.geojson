@@ -1,0 +1,74 @@
+{
+  "id": 1344169857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.57905,5.43809,100.57905,5.43809",
+    "geom:latitude":5.43809,
+    "geom:longitude":100.57905,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Padang Cina",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766541,
+    "gn:latitude":5.43809,
+    "gn:longitude":100.57905,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Padang Cina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Padang Cina"
+    ],
+    "name:und_x_variant":[
+        "Kampong Padang China"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766541
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6008f2b7f8e9c1c044aef4b9945fe5b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490359,
+            "locality_id":1344169857,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1344169857,
+    "wof:lastmodified":1537673998,
+    "wof:name":"Kampung Padang Cina",
+    "wof:parent_id":890490359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.57905,
+    5.43809,
+    100.57905,
+    5.43809
+],
+  "geometry": {"coordinates":[100.57905,5.43809],"type":"Point"}
+}

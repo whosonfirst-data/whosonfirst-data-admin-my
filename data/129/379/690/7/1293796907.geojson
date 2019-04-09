@@ -1,0 +1,70 @@
+{
+  "id": 1293796907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38966,6.07915,100.38966,6.07915",
+    "geom:latitude":6.07915,
+    "geom:longitude":100.38966,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Gelegah",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807183,
+    "gn:latitude":6.07915,
+    "gn:longitude":100.38966,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Gelegah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gelegah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807183
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"45500a6d79c66fcc63f618f227013d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1293796907,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1293796907,
+    "wof:lastmodified":1537674238,
+    "wof:name":"Kampung Gelegah",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38966,
+    6.07915,
+    100.38966,
+    6.07915
+],
+  "geometry": {"coordinates":[100.38966000000001,6.07915],"type":"Point"}
+}

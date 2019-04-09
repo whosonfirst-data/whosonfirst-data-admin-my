@@ -1,0 +1,73 @@
+{
+  "id": 1260370445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8054,3.1144,101.8054,3.1144",
+    "geom:latitude":3.1144,
+    "geom:longitude":101.8054,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Sungai Michu",
+    "gn:country_code":"MY",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763911,
+    "gn:latitude":3.1144,
+    "gn:longitude":101.8054,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Michu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Michu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Michu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763911
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"69f1806113101b28b227805ef4135350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":1260370445,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1260370445,
+    "wof:lastmodified":1537673883,
+    "wof:name":"Kampung Sungai Michu",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8054,
+    3.1144,
+    101.8054,
+    3.1144
+],
+  "geometry": {"coordinates":[101.80540000000001,3.1144],"type":"Point"}
+}

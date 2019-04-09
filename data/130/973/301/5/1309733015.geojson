@@ -1,0 +1,72 @@
+{
+  "id": 1309733015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.97038,4.82577,100.97038,4.82577",
+    "geom:latitude":4.82577,
+    "geom:longitude":100.97038,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Enggor",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734582,
+    "gn:latitude":4.82577,
+    "gn:longitude":100.97038,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Enggor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enggor",
+        "Kampung Enggor",
+        "Enggur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734582
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"474e22aa30ec4af0d6fcbb49e5b8f4b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":1309733015,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1309733015,
+    "wof:lastmodified":1537673708,
+    "wof:name":"Kampung Enggor",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.97038,
+    4.82577,
+    100.97038,
+    4.82577
+],
+  "geometry": {"coordinates":[100.97038000000001,4.82577],"type":"Point"}
+}

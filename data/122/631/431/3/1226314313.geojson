@@ -1,0 +1,70 @@
+{
+  "id": 1226314313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.08368,5.09727,103.08368,5.09727",
+    "geom:latitude":5.09727,
+    "geom:longitude":103.08368,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Baruh Patin",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7470221,
+    "gn:latitude":5.09727,
+    "gn:longitude":103.08368,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Baruh Patin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Baruh Patin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7470221
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"23b9114de293fe8510e8ebd4eaf26ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1226314313,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1226314313,
+    "wof:lastmodified":1537674300,
+    "wof:name":"Baruh Patin",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.08368,
+    5.09727,
+    103.08368,
+    5.09727
+],
+  "geometry": {"coordinates":[103.08368,5.09727],"type":"Point"}
+}

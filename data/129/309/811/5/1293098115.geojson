@@ -1,0 +1,70 @@
+{
+  "id": 1293098115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9685,2.7014,101.9685,2.7014",
+    "geom:latitude":2.7014,
+    "geom:longitude":101.9685,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Taman Seremban Baru",
+    "gn:country_code":"MY",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797205,
+    "gn:latitude":2.7014,
+    "gn:longitude":101.9685,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Seremban Baru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Seremban Baru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797205
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"18d0abe924ce5bafe909673b73225354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1293098115,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1293098115,
+    "wof:lastmodified":1537674416,
+    "wof:name":"Taman Seremban Baru",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9685,
+    2.7014,
+    101.9685,
+    2.7014
+],
+  "geometry": {"coordinates":[101.96850000000001,2.7014],"type":"Point"}
+}

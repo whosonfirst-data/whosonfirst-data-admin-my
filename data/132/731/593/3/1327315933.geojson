@@ -1,0 +1,75 @@
+{
+  "id": 1327315933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5551,5.8245,116.5551,5.8245",
+    "geom:latitude":5.8245,
+    "geom:longitude":116.5551,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Tiwang",
+    "gn:country_code":"MY",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733492,
+    "gn:latitude":5.8245,
+    "gn:longitude":116.5551,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tiwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tiwang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tiwang",
+        "Tiwang",
+        "Tivang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733492
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3d966a8b35aa261158b4d1f86c711c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":1327315933,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327315933,
+    "wof:lastmodified":1537673682,
+    "wof:name":"Kampung Tiwang",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5551,
+    5.8245,
+    116.5551,
+    5.8245
+],
+  "geometry": {"coordinates":[116.5551,5.8245],"type":"Point"}
+}

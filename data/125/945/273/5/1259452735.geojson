@@ -1,0 +1,70 @@
+{
+  "id": 1259452735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.0465,6.2675,117.0465,6.2675",
+    "geom:latitude":6.2675,
+    "geom:longitude":117.0465,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Nawakol",
+    "gn:country_code":"MY",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787120,
+    "gn:latitude":6.2675,
+    "gn:longitude":117.0465,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Nawakol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Nawakol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787120
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1104f90bd21266a99b4c88bf80dd4a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1259452735,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259452735,
+    "wof:lastmodified":1537674382,
+    "wof:name":"Kampung Nawakol",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.0465,
+    6.2675,
+    117.0465,
+    6.2675
+],
+  "geometry": {"coordinates":[117.04649999999999,6.2675],"type":"Point"}
+}

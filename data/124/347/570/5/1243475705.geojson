@@ -1,0 +1,71 @@
+{
+  "id": 1243475705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.67771,5.08507,100.67771,5.08507",
+    "geom:latitude":5.08507,
+    "geom:longitude":100.67771,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Batu Lima",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6873250,
+    "gn:latitude":5.08507,
+    "gn:longitude":100.67771,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Batu Lima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Lima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6873250
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a96e9e0dabdf529960f40bfb65dd90b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489801,
+            "locality_id":1243475705,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1243475705,
+    "wof:lastmodified":1537674270,
+    "wof:name":"Kampung Batu Lima",
+    "wof:parent_id":890489801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.67771,
+    5.08507,
+    100.67771,
+    5.08507
+],
+  "geometry": {"coordinates":[100.67771,5.08507],"type":"Point"}
+}

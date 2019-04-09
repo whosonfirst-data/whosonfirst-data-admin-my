@@ -1,0 +1,70 @@
+{
+  "id": 1310420093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7971,2.0158,102.7971,2.0158",
+    "geom:latitude":2.0158,
+    "geom:longitude":102.7971,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Parit Tengah",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307865,
+    "gn:latitude":2.0158,
+    "gn:longitude":102.7971,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Parit Tengah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Parit Tengah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307865
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"753631efae798fc389f4355b832639ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1310420093,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1310420093,
+    "wof:lastmodified":1537674452,
+    "wof:name":"Parit Tengah",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7971,
+    2.0158,
+    102.7971,
+    2.0158
+],
+  "geometry": {"coordinates":[102.7971,2.0158],"type":"Point"}
+}

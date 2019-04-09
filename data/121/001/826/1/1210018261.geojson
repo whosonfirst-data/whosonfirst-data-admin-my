@@ -1,0 +1,70 @@
+{
+  "id": 1210018261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.872,5.667,101.872,5.667",
+    "geom:latitude":5.667,
+    "geom:longitude":101.872,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Telok Bayu",
+    "gn:country_code":"MY",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068121,
+    "gn:latitude":5.667,
+    "gn:longitude":101.872,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Telok Bayu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Telok Bayu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068121
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ed2b08168a79aa03d87c7819acb9b925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490101,
+            "locality_id":1210018261,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1210018261,
+    "wof:lastmodified":1537674278,
+    "wof:name":"Kampung Telok Bayu",
+    "wof:parent_id":890490101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.872,
+    5.667,
+    101.872,
+    5.667
+],
+  "geometry": {"coordinates":[101.872,5.667],"type":"Point"}
+}

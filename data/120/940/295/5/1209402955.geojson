@@ -1,0 +1,64 @@
+{
+  "id": 1209402955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.4368,4.9061,115.4368,4.9061",
+    "geom:latitude":4.9061,
+    "geom:longitude":115.4368,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kampung Tagai",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7767646,
+    "gn:latitude":4.9061,
+    "gn:longitude":115.4368,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tagai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tagai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7767646
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2c56eb5871c341aee649247025bd3f33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209402955
+        }
+    ],
+    "wof:id":1209402955,
+    "wof:lastmodified":1537674374,
+    "wof:name":"Kampung Tagai",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.4368,
+    4.9061,
+    115.4368,
+    4.9061
+],
+  "geometry": {"coordinates":[115.43680000000001,4.9061],"type":"Point"}
+}

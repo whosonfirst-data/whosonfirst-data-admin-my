@@ -1,0 +1,70 @@
+{
+  "id": 1226512051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.8784,4.8607,115.8784,4.8607",
+    "geom:latitude":4.8607,
+    "geom:longitude":115.8784,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Marais",
+    "gn:country_code":"MY",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7767946,
+    "gn:latitude":4.8607,
+    "gn:longitude":115.8784,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Marais",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Marais"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7767946
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b99f52898c1abe3e461884c008ec5d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696535,
+            "locality_id":1226512051,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226512051,
+    "wof:lastmodified":1537674375,
+    "wof:name":"Marais",
+    "wof:parent_id":1108696535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.8784,
+    4.8607,
+    115.8784,
+    4.8607
+],
+  "geometry": {"coordinates":[115.8784,4.8607],"type":"Point"}
+}

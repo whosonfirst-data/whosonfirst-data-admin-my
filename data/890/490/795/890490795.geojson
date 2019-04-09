@@ -1,0 +1,67 @@
+{
+  "id": 890490795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.095775,4.94371,102.095775,4.94371",
+    "geom:latitude":4.94371,
+    "geom:longitude":102.095775,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Galas",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kelantan",
+    "qs:photos":23,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":130,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013788,
+        "qs:id":221122
+    },
+    "wof:country":"MY",
+    "wof:created":1469054825,
+    "wof:geomhash":"4879abe602dbbf16f60f8882e41ba6da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "localadmin_id":890490795,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":890490795,
+    "wof:lastmodified":1500013375,
+    "wof:name":"Galas",
+    "wof:parent_id":890488877,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.095775,
+    4.94371,
+    102.095775,
+    4.94371
+],
+  "geometry": {"coordinates":[102.095775,4.94371],"type":"Point"}
+}

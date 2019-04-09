@@ -1,0 +1,72 @@
+{
+  "id": 1292988831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.36667,1.45,110.36667,1.45",
+    "geom:latitude":1.45,
+    "geom:longitude":110.36667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Setigang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764426,
+    "gn:latitude":1.45,
+    "gn:longitude":110.36667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Setigang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Stigang",
+        "Kampong Setigang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764426
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8aba5bc7e0212140045654221b610eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696499,
+            "locality_id":1292988831,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1292988831,
+    "wof:lastmodified":1537673908,
+    "wof:name":"Kampong Setigang",
+    "wof:parent_id":1108696499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.36667,
+    1.45,
+    110.36667,
+    1.45
+],
+  "geometry": {"coordinates":[110.36667,1.45],"type":"Point"}
+}

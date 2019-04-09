@@ -1,0 +1,70 @@
+{
+  "id": 1276323447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.40374,5.38382,100.40374,5.38382",
+    "geom:latitude":5.38382,
+    "geom:longitude":100.40374,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Taman Bakar Arang",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6823223,
+    "gn:latitude":5.38382,
+    "gn:longitude":100.40374,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taman Bakar Arang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Bakar Arang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823223
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ddb8cc25d2aed40dfd27b920c9a52d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1276323447,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1276323447,
+    "wof:lastmodified":1537674252,
+    "wof:name":"Taman Bakar Arang",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.40374,
+    5.38382,
+    100.40374,
+    5.38382
+],
+  "geometry": {"coordinates":[100.40374,5.38382],"type":"Point"}
+}

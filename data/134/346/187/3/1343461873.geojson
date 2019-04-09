@@ -1,0 +1,71 @@
+{
+  "id": 1343461873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.74061,5.84015,100.74061,5.84015",
+    "geom:latitude":5.84015,
+    "geom:longitude":100.74061,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Perangin",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855515,
+    "gn:latitude":5.84015,
+    "gn:longitude":100.74061,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Perangin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perangin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855515
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"94c98eaa8018bb101a45d578d9ed5322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696515,
+            "locality_id":1343461873,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1343461873,
+    "wof:lastmodified":1537674264,
+    "wof:name":"Perangin",
+    "wof:parent_id":1108696515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.74061,
+    5.84015,
+    100.74061,
+    5.84015
+],
+  "geometry": {"coordinates":[100.74061,5.84015],"type":"Point"}
+}

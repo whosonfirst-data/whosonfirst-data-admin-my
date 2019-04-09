@@ -1,0 +1,70 @@
+{
+  "id": 1243576289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2339,3.7934,102.2339,3.7934",
+    "geom:latitude":3.7934,
+    "geom:longitude":102.2339,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Genuai",
+    "gn:country_code":"MY",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7656082,
+    "gn:latitude":3.7934,
+    "gn:longitude":102.2339,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Genuai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Genuai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656082
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f14cad9b548ebd8ae065e9e0624126bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1243576289,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1243576289,
+    "wof:lastmodified":1537674353,
+    "wof:name":"Kampung Genuai",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2339,
+    3.7934,
+    102.2339,
+    3.7934
+],
+  "geometry": {"coordinates":[102.23390000000001,3.7934],"type":"Point"}
+}

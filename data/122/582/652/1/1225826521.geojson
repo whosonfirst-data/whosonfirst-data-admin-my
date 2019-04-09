@@ -1,0 +1,67 @@
+{
+  "id": 1225826521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.35278,1.56111,110.35278,1.56111",
+    "geom:latitude":1.56111,
+    "geom:longitude":110.35278,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kampung Surabaya",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1903382,
+    "gn:latitude":1.56111,
+    "gn:longitude":110.35278,
+    "gn:modification_date":"1997-12-22",
+    "gn:name":"Kampung Surabaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1903382
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"325e95fa5db71d747812a26b2273e01d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1225826521,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1225826521,
+    "wof:lastmodified":1537039734,
+    "wof:name":"Kampung Surabaya",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.35278,
+    1.56111,
+    110.35278,
+    1.56111
+],
+  "geometry": {"coordinates":[110.35278,1.56111],"type":"Point"}
+}

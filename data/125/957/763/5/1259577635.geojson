@@ -1,0 +1,70 @@
+{
+  "id": 1259577635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.6686,4.5458,100.6686,4.5458",
+    "geom:latitude":4.5458,
+    "geom:longitude":100.6686,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Permatang Raja",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7791659,
+    "gn:latitude":4.5458,
+    "gn:longitude":100.6686,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Permatang Raja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Permatang Raja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7791659
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e6a1f1a39ecd84be5d033de2aa6af557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490803,
+            "locality_id":1259577635,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1259577635,
+    "wof:lastmodified":1537674383,
+    "wof:name":"Kampung Permatang Raja",
+    "wof:parent_id":890490803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.6686,
+    4.5458,
+    100.6686,
+    4.5458
+],
+  "geometry": {"coordinates":[100.6686,4.5458],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1210039163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8949,2.5435,101.8949,2.5435",
+    "geom:latitude":2.5435,
+    "geom:longitude":101.8949,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Siliau Selatan",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536716,
+    "gn:latitude":2.5435,
+    "gn:longitude":101.8949,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Siliau Selatan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Siliau Selatan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536716
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3be6a7936c72e6c675396930b2119f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490331,
+            "locality_id":1210039163,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1210039163,
+    "wof:lastmodified":1537674464,
+    "wof:name":"Siliau Selatan",
+    "wof:parent_id":890490331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8949,
+    2.5435,
+    101.8949,
+    2.5435
+],
+  "geometry": {"coordinates":[101.89490000000001,2.5435],"type":"Point"}
+}

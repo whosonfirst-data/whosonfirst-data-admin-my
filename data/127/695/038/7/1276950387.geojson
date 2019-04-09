@@ -1,0 +1,74 @@
+{
+  "id": 1276950387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.6733,5.419,115.6733,5.419",
+    "geom:latitude":5.419,
+    "geom:longitude":115.6733,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Malabau",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733804,
+    "gn:latitude":5.419,
+    "gn:longitude":115.6733,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Malabau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Malabau"
+    ],
+    "name:und_x_variant":[
+        "Kampong Malabau",
+        "Malabau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733804
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0a809607205aca9dbc8b5c2823bb708a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696385,
+            "locality_id":1276950387,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276950387,
+    "wof:lastmodified":1537673690,
+    "wof:name":"Kampung Malabau",
+    "wof:parent_id":1108696385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.6733,
+    5.419,
+    115.6733,
+    5.419
+],
+  "geometry": {"coordinates":[115.6733,5.419],"type":"Point"}
+}

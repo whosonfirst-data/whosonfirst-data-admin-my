@@ -1,0 +1,112 @@
+{
+  "id": 85782581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000413,
+    "geom:area_square_m":5097719.811935,
+    "geom:bbox":"101.707768988,3.08017075225,101.736137075,3.10349428994",
+    "geom:latitude":3.09003,
+    "geom:longitude":101.723731,
+    "gn:latitude":2.6976,
+    "gn:longitude":101.9853,
+    "iso:country":"MY",
+    "lbl:latitude":3.09338,
+    "lbl:longitude":101.727584,
+    "mps:latitude":3.089529,
+    "mps:longitude":101.72488,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Taman Midah"
+    ],
+    "name:msa_x_preferred":[
+        "Taman Maridah"
+    ],
+    "name:unk_x_variant":[
+        "Taman Midah"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1735161,
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Taman Maridah",
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Taman Midah",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Kuala Lumpur",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":133,
+    "qs:photo_sum":315,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56013690,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797208,
+        "gp:id":55862662,
+        "qs:id":224224,
+        "qs_pg:id":224224
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"67a36fe64d1b24e70f0afba2b0cdde96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85782581,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85782581,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497314565,
+    "wof:name":"Taman Midah",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.70776898823368,
+    3.08017075224753,
+    101.73613707528875,
+    3.10349428994125
+],
+  "geometry": {"coordinates":[[[101.73201909700498,3.10212100080994],[101.73305360748429,3.10177565737148],[101.7325748643778,3.09937843810288],[101.73271078958533,3.09869781551615],[101.73339843800005,3.09800916059062],[101.73476972669778,3.09663586473785],[101.73339843800005,3.09251599851554],[101.7330576121376,3.09149202963074],[101.73339843787511,3.09115071091496],[101.73339843785431,3.08566552459168],[101.73613707528875,3.08292290755527],[101.73339843785431,3.0801803105503],[101.72790527316675,3.08018030996179],[101.72241210900012,3.0801803111388],[101.71967347121245,3.08292290755527],[101.71691894500009,3.08292290755527],[101.71142260048163,3.08017075224753],[101.70776898823368,3.08748858629328],[101.71142578100006,3.09115071032414],[101.71691894500009,3.09115071002874],[101.71691894500009,3.09526257582664],[101.71691894500009,3.09663587184008],[101.71966552700013,3.09663587184008],[101.71966552700013,3.09937843876928],[101.72241210900012,3.09937843880259],[101.72241210900012,3.10212100080994],[101.72378339093603,3.10212099606859],[101.72653399461507,3.10212099873561],[101.72790527314606,3.10349428994125],[101.73201909700498,3.10212100080994]]],"type":"Polygon"}
+}

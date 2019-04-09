@@ -1,0 +1,71 @@
+{
+  "id": 1327012129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.8551,6.8216,116.8551,6.8216",
+    "geom:latitude":6.8216,
+    "geom:longitude":116.8551,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Limau Limawan",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736463,
+    "gn:latitude":6.8216,
+    "gn:longitude":116.8551,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Limau Limawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Limau Limawan"
+    ],
+    "name:und_x_variant":[
+        "Limau Limawan",
+        "Limau Limuan",
+        "Limau Limauan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736463
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d398ca97f6f13e3a3ea7a35ff274b637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1327012129,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327012129,
+    "wof:lastmodified":1537673738,
+    "wof:name":"Kampung Limau Limawan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.8551,
+    6.8216,
+    116.8551,
+    6.8216
+],
+  "geometry": {"coordinates":[116.85509999999999,6.8216],"type":"Point"}
+}

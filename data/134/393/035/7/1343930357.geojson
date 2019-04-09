@@ -1,0 +1,73 @@
+{
+  "id": 1343930357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5732,6.5451,116.5732,6.5451",
+    "geom:latitude":6.5451,
+    "geom:longitude":116.5732,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tinangkuban",
+    "gn:country_code":"MY",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762669,
+    "gn:latitude":6.5451,
+    "gn:longitude":116.5732,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tinangkuban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tinangkuban"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tinangkuban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762669
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bb3ba204a80bc996bcf02cb4d16839db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1343930357,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343930357,
+    "wof:lastmodified":1537673825,
+    "wof:name":"Kampung Tinangkuban",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5732,
+    6.5451,
+    116.5732,
+    6.5451
+],
+  "geometry": {"coordinates":[116.5732,6.5451],"type":"Point"}
+}

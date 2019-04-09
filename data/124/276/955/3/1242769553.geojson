@@ -1,0 +1,70 @@
+{
+  "id": 1242769553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1261,4.6177,101.1261,4.6177",
+    "geom:latitude":4.6177,
+    "geom:longitude":101.1261,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taman Teh Teng Seng",
+    "gn:country_code":"MY",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473408,
+    "gn:latitude":4.6177,
+    "gn:longitude":101.1261,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Teh Teng Seng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Teh Teng Seng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473408
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e7f04ca550d98971d2f392868ded53e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1242769553,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1242769553,
+    "wof:lastmodified":1537674306,
+    "wof:name":"Taman Teh Teng Seng",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1261,
+    4.6177,
+    101.1261,
+    4.6177
+],
+  "geometry": {"coordinates":[101.12609999999999,4.6177],"type":"Point"}
+}

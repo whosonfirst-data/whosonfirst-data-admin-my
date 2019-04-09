@@ -1,0 +1,76 @@
+{
+  "id": 1360089731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0007,2.7241,102.0007,2.7241",
+    "geom:latitude":2.7241,
+    "geom:longitude":102.0007,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Baharu Paroi",
+    "gn:country_code":"MY",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771283,
+    "gn:latitude":2.7241,
+    "gn:longitude":102.0007,
+    "gn:modification_date":"2018-04-11",
+    "gn:name":"Kampung Baharu Paroi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Paroi"
+    ],
+    "name:und_x_variant":[
+        "Paroi New Village",
+        "Paroi",
+        "Kampong Baharu Paroi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771283,
+        "wk:page":"Paroi"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"604557696e39b5c5dfed1d1472ab101f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1360089731,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1360089731,
+    "wof:lastmodified":1537674194,
+    "wof:name":"Kampung Baharu Paroi",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0007,
+    2.7241,
+    102.0007,
+    2.7241
+],
+  "geometry": {"coordinates":[102.00069999999999,2.7241],"type":"Point"}
+}

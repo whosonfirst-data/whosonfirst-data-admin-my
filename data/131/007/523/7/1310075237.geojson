@@ -1,0 +1,73 @@
+{
+  "id": 1310075237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5788,5.8643,116.5788,5.8643",
+    "geom:latitude":5.8643,
+    "geom:longitude":116.5788,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Lagkau",
+    "gn:country_code":"MY",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767662,
+    "gn:latitude":5.8643,
+    "gn:longitude":116.5788,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Lagkau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lagkau"
+    ],
+    "name:und_x_variant":[
+        "Kampong Lakau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767662
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"25b001537e8cbff18c52645fec7d835c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":1310075237,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1310075237,
+    "wof:lastmodified":1537674046,
+    "wof:name":"Kampung Lagkau",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5788,
+    5.8643,
+    116.5788,
+    5.8643
+],
+  "geometry": {"coordinates":[116.5788,5.8643],"type":"Point"}
+}

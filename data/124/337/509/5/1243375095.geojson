@@ -1,0 +1,67 @@
+{
+  "id": 1243375095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2,5.5,102.2,5.5",
+    "geom:latitude":5.5,
+    "geom:longitude":102.2,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Merbau",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766852,
+    "gn:latitude":5.5,
+    "gn:longitude":102.2,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Merbau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766852
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5dc328ce538b95572773b7e979b8c1f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489265,
+            "locality_id":1243375095,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1243375095,
+    "wof:lastmodified":1536908731,
+    "wof:name":"Kampong Merbau",
+    "wof:parent_id":890489265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2,
+    5.5,
+    102.2,
+    5.5
+],
+  "geometry": {"coordinates":[102.2,5.5],"type":"Point"}
+}

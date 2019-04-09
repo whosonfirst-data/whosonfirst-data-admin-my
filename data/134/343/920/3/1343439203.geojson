@@ -1,0 +1,72 @@
+{
+  "id": 1343439203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.33688,1.65046,110.33688,1.65046",
+    "geom:latitude":1.65046,
+    "geom:longitude":110.33688,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampung Rampangi",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765112,
+    "gn:latitude":1.65046,
+    "gn:longitude":110.33688,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kampung Rampangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rampangi",
+        "Kampong Rampangi",
+        "Kampung Rampangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765112
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1b4b2d508e3bfcde9ffd278dc8cac6d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1343439203,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1343439203,
+    "wof:lastmodified":1537673940,
+    "wof:name":"Kampung Rampangi",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.33688,
+    1.65046,
+    110.33688,
+    1.65046
+],
+  "geometry": {"coordinates":[110.33687999999999,1.65046],"type":"Point"}
+}

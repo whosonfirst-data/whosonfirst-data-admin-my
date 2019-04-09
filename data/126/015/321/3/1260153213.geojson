@@ -1,0 +1,67 @@
+{
+  "id": 1260153213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4,5.76667,116.4,5.76667",
+    "geom:latitude":5.76667,
+    "geom:longitude":116.4,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Tambatu",
+    "gn:country_code":"MY",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1741951,
+    "gn:latitude":5.76667,
+    "gn:longitude":116.4,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Tambatu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1741951
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d2676c2c64e9428b5d055ac935da87b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696525,
+            "locality_id":1260153213,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1260153213,
+    "wof:lastmodified":1536889082,
+    "wof:name":"Tambatu",
+    "wof:parent_id":1108696525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4,
+    5.76667,
+    116.4,
+    5.76667
+],
+  "geometry": {"coordinates":[116.40000000000001,5.76667],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1126065275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.26052,5.29992,100.26052,5.29992",
+    "geom:latitude":5.29992,
+    "geom:longitude":100.26052,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":5.29992,
+    "lbl:longitude":100.26052,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:msa_x_preferred":[
+        "Bayan Lepas"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1735102,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bayan Lepas",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Pulau Pinang",
+    "qs_pg:photos":55,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":55,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":964802,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1140856,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Pulau Pinang",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023363,
+        890489155,
+        85675127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735102,
+        "gp:id":1140856,
+        "qs_pg:id":964802
+    },
+    "wof:country":"MY",
+    "wof:created":1497308779,
+    "wof:geomhash":"36f1b11fc52202c4deea457aada88983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "locality_id":102023363,
+            "neighbourhood_id":1126065275,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1126065275,
+    "wof:lastmodified":1509410391,
+    "wof:name":"Bayan Lepas",
+    "wof:parent_id":102023363,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.26052,
+    5.29992,
+    100.26052,
+    5.29992
+],
+  "geometry": {"coordinates":[100.26052,5.29992],"type":"Point"}
+}

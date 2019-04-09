@@ -1,0 +1,73 @@
+{
+  "id": 1226412083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.7397,6.8524,116.7397,6.8524",
+    "geom:latitude":6.8524,
+    "geom:longitude":116.7397,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Merabau",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1754781,
+    "gn:latitude":6.8524,
+    "gn:longitude":116.7397,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Merabau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Merabau"
+    ],
+    "name:und_x_variant":[
+        "Merbau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1754781
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6901e1392e6fa0d7b5958252a86827ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1226412083,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226412083,
+    "wof:lastmodified":1537673792,
+    "wof:name":"Kampung Merabau",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.7397,
+    6.8524,
+    116.7397,
+    6.8524
+],
+  "geometry": {"coordinates":[116.7397,6.8524],"type":"Point"}
+}

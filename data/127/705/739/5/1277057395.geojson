@@ -1,0 +1,72 @@
+{
+  "id": 1277057395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.77303,1.73059,109.77303,1.73059",
+    "geom:latitude":1.73059,
+    "geom:longitude":109.77303,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Serayan",
+    "gn:country_code":"MY",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764511,
+    "gn:latitude":1.73059,
+    "gn:longitude":109.77303,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampong Serayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serayan",
+        "Kampong Serayan",
+        "Kampung Serayan Hulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764511
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"313cf29577bb9cd9c2b3de7f279ead55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696453,
+            "locality_id":1277057395,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1277057395,
+    "wof:lastmodified":1537673913,
+    "wof:name":"Kampong Serayan",
+    "wof:parent_id":1108696453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.77303,
+    1.73059,
+    109.77303,
+    1.73059
+],
+  "geometry": {"coordinates":[109.77303000000001,1.73059],"type":"Point"}
+}

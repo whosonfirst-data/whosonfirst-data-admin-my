@@ -1,0 +1,70 @@
+{
+  "id": 1226265559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0634,2.6282,102.0634,2.6282",
+    "geom:latitude":2.6282,
+    "geom:longitude":102.0634,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Desa Permai Rembau",
+    "gn:country_code":"MY",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536720,
+    "gn:latitude":2.6282,
+    "gn:longitude":102.0634,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Desa Permai Rembau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Desa Permai Rembau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536720
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"505a6463fde820e13398a140c4b9daf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1226265559,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1226265559,
+    "wof:lastmodified":1537674464,
+    "wof:name":"Desa Permai Rembau",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0634,
+    2.6282,
+    102.0634,
+    2.6282
+],
+  "geometry": {"coordinates":[102.0634,2.6282],"type":"Point"}
+}

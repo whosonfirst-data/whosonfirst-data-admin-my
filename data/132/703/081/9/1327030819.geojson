@@ -1,0 +1,70 @@
+{
+  "id": 1327030819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0416,2.364,102.0416,2.364",
+    "geom:latitude":2.364,
+    "geom:longitude":102.0416,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Ladang",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7567396,
+    "gn:latitude":2.364,
+    "gn:longitude":102.0416,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Ladang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ladang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7567396
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"53667e317a1d65ec4787cb7173843b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1327030819,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1327030819,
+    "wof:lastmodified":1537674316,
+    "wof:name":"Kampung Ladang",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0416,
+    2.364,
+    102.0416,
+    2.364
+],
+  "geometry": {"coordinates":[102.0416,2.364],"type":"Point"}
+}

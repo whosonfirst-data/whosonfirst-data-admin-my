@@ -1,0 +1,70 @@
+{
+  "id": 1259492225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.89009,5.77279,100.89009,5.77279",
+    "geom:latitude":5.77279,
+    "geom:longitude":100.89009,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Pokok Setul",
+    "gn:country_code":"MY",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805108,
+    "gn:latitude":5.77279,
+    "gn:longitude":100.89009,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Pokok Setul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pokok Setul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805108
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a2c7f99aa20220df43f590e1260d293c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696379,
+            "locality_id":1259492225,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1259492225,
+    "wof:lastmodified":1537674235,
+    "wof:name":"Kampung Pokok Setul",
+    "wof:parent_id":1108696379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.89009,
+    5.77279,
+    100.89009,
+    5.77279
+],
+  "geometry": {"coordinates":[100.89009,5.77279],"type":"Point"}
+}

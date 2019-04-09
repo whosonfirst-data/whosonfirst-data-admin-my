@@ -1,0 +1,67 @@
+{
+  "id": 1310593795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.98333,3.96667,101.98333,3.96667",
+    "geom:latitude":3.96667,
+    "geom:longitude":101.98333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampong Telindok",
+    "gn:country_code":"MY",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763131,
+    "gn:latitude":3.96667,
+    "gn:longitude":101.98333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Telindok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763131
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"783be872138f3062219dbb96c33cfcfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1310593795,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1310593795,
+    "wof:lastmodified":1536790018,
+    "wof:name":"Kampong Telindok",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.98333,
+    3.96667,
+    101.98333,
+    3.96667
+],
+  "geometry": {"coordinates":[101.98333,3.96667],"type":"Point"}
+}

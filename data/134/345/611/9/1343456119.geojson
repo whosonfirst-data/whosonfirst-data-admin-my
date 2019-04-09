@@ -1,0 +1,70 @@
+{
+  "id": 1343456119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.928,4.0421,101.928,4.0421",
+    "geom:latitude":4.0421,
+    "geom:longitude":101.928,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Dahaka",
+    "gn:country_code":"MY",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638931,
+    "gn:latitude":4.0421,
+    "gn:longitude":101.928,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Dahaka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Dahaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638931
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"87ca0f93ed4d9486570baeadeec1691b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1343456119,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1343456119,
+    "wof:lastmodified":1537674345,
+    "wof:name":"Kampung Dahaka",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.928,
+    4.0421,
+    101.928,
+    4.0421
+],
+  "geometry": {"coordinates":[101.928,4.0421],"type":"Point"}
+}

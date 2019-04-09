@@ -1,0 +1,70 @@
+{
+  "id": 890489987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.71667,2.81667,111.71667,2.81667",
+    "geom:latitude":2.81667,
+    "geom:longitude":111.71667,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Uri"
+    ],
+    "qs:name":"Igan",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sarawak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736831,
+        "gp:id":1154676,
+        "qs:id":1116810
+    },
+    "wof:country":"MY",
+    "wof:created":1469054784,
+    "wof:geomhash":"7168071c5dadb422781d1543e1d1cd46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "locality_id":890489987,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":890489987,
+    "wof:lastmodified":1505343786,
+    "wof:name":"Igan",
+    "wof:parent_id":85675177,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.71667,
+    2.81667,
+    111.71667,
+    2.81667
+],
+  "geometry": {"coordinates":[111.71666999999999,2.81667],"type":"Point"}
+}

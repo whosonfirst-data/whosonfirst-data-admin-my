@@ -1,0 +1,68 @@
+{
+  "id": 1193006189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.3,3.76667,115.3,3.76667",
+    "geom:latitude":3.76667,
+    "geom:longitude":115.3,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kubaan",
+    "gn:country_code":"MY",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1759431,
+    "gn:latitude":3.76667,
+    "gn:longitude":115.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kubaan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1759431,
+        "wk:page":"Kubaan"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"79cb20785a0289553b7309822d8b38e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696465,
+            "locality_id":1193006189,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1193006189,
+    "wof:lastmodified":1537569851,
+    "wof:name":"Kubaan",
+    "wof:parent_id":1108696465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.3,
+    3.76667,
+    115.3,
+    3.76667
+],
+  "geometry": {"coordinates":[115.3,3.76667],"type":"Point"}
+}

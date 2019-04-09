@@ -1,0 +1,73 @@
+{
+  "id": 1225939321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.45792,2.61465,103.45792,2.61465",
+    "geom:latitude":2.61465,
+    "geom:longitude":103.45792,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Sungai Mok",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797620,
+    "gn:latitude":2.61465,
+    "gn:longitude":103.45792,
+    "gn:modification_date":"2013-10-10",
+    "gn:name":"Kampung Sungai Mok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Mok"
+    ],
+    "name:und_x_variant":[
+        "Kampong Mok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797620
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1a8dc81cb6c7b84481b08e0cd2fd1b42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1225939321,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1225939321,
+    "wof:lastmodified":1537674422,
+    "wof:name":"Kampung Sungai Mok",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.45792,
+    2.61465,
+    103.45792,
+    2.61465
+],
+  "geometry": {"coordinates":[103.45792,2.61465],"type":"Point"}
+}

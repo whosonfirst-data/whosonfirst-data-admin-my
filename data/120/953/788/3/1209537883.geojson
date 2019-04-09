@@ -1,0 +1,64 @@
+{
+  "id": 1209537883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2458,4.0853,102.2458,4.0853",
+    "geom:latitude":4.0853,
+    "geom:longitude":102.2458,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Hulu Lik Kecil",
+    "gn:country_code":"MY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7792285,
+    "gn:latitude":4.0853,
+    "gn:longitude":102.2458,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Hulu Lik Kecil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Hulu Lik Kecil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7792285
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c5e0424807837e2b7cc054285af7f92c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209537883
+        }
+    ],
+    "wof:id":1209537883,
+    "wof:lastmodified":1537674386,
+    "wof:name":"Kampung Hulu Lik Kecil",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2458,
+    4.0853,
+    102.2458,
+    4.0853
+],
+  "geometry": {"coordinates":[102.2458,4.0853],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209908751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4354,3.8493,102.4354,3.8493",
+    "geom:latitude":3.8493,
+    "geom:longitude":102.4354,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Kelola",
+    "gn:country_code":"MY",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732604,
+    "gn:latitude":3.8493,
+    "gn:longitude":102.4354,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kelola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kelola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732604
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"188cda76ab40d72f8b63b7a45eb4ac50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1209908751,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1209908751,
+    "wof:lastmodified":1537673665,
+    "wof:name":"Kampung Kelola",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4354,
+    3.8493,
+    102.4354,
+    3.8493
+],
+  "geometry": {"coordinates":[102.4354,3.8493],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343684405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1481,2.749,102.1481,2.749",
+    "geom:latitude":2.749,
+    "geom:longitude":102.1481,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Ayer Hitam",
+    "gn:country_code":"MY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771521,
+    "gn:latitude":2.749,
+    "gn:longitude":102.1481,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ayer Hitam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ayer Hitam"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ayer Hitam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771521
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"67743bc8685897e4a06c6b8c81f8dd64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1343684405,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1343684405,
+    "wof:lastmodified":1537674206,
+    "wof:name":"Kampung Ayer Hitam",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1481,
+    2.749,
+    102.1481,
+    2.749
+],
+  "geometry": {"coordinates":[102.1481,2.749],"type":"Point"}
+}

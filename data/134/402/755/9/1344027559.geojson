@@ -1,0 +1,70 @@
+{
+  "id": 1344027559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.16074,6.98822,117.16074,6.98822",
+    "geom:latitude":6.98822,
+    "geom:longitude":117.16074,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Dundulit",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786842,
+    "gn:latitude":6.98822,
+    "gn:longitude":117.16074,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Kampung Dundulit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Dundulit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786842
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9d4843718bc45ecfe855bd16fa4a071d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1344027559,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1344027559,
+    "wof:lastmodified":1537674381,
+    "wof:name":"Kampung Dundulit",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.16074,
+    6.98822,
+    117.16074,
+    6.98822
+],
+  "geometry": {"coordinates":[117.16074,6.98822],"type":"Point"}
+}

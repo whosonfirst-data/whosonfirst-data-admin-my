@@ -1,0 +1,70 @@
+{
+  "id": 1209938633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4887,3.4656,102.4887,3.4656",
+    "geom:latitude":3.4656,
+    "geom:longitude":102.4887,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Sungai Gau",
+    "gn:country_code":"MY",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795971,
+    "gn:latitude":3.4656,
+    "gn:longitude":102.4887,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sungai Gau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Gau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795971
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b56524d20c90b07f4144fb2dca68ba4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1209938633,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1209938633,
+    "wof:lastmodified":1537674398,
+    "wof:name":"Kampung Sungai Gau",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4887,
+    3.4656,
+    102.4887,
+    3.4656
+],
+  "geometry": {"coordinates":[102.48869999999999,3.4656],"type":"Point"}
+}

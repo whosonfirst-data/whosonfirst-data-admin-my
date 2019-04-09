@@ -1,0 +1,67 @@
+{
+  "id": 1344246667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36596,5.41321,100.36596,5.41321",
+    "geom:latitude":5.41321,
+    "geom:longitude":100.36596,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bagan Tuan Kecil",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6823195,
+    "gn:latitude":5.41321,
+    "gn:longitude":100.36596,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bagan Tuan Kecil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bagan Tuan Kecil"
+    ],
+    "name:und_x_variant":[
+        "Bagan Tuan Kechil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823195
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a876b517a26b624c92efc09fd8d87ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344246667,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344246667,
+    "wof:lastmodified":1537674252,
+    "wof:name":"Bagan Tuan Kecil",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36596,
+    5.41321,
+    100.36596,
+    5.41321
+],
+  "geometry": {"coordinates":[100.36596,5.41321],"type":"Point"}
+}

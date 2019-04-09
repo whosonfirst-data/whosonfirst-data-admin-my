@@ -1,0 +1,90 @@
+{
+  "id": 1125786649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3989,2.5331,102.3989,2.5331",
+    "geom:latitude":2.5331,
+    "geom:longitude":102.3989,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":2.5331,
+    "lbl:longitude":102.3989,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:msa_x_preferred":[
+        "Gemencheh"
+    ],
+    "name:unk_x_variant":[
+        "Gemencheh Baharu"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1734860,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gemencih",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Negeri Sembilan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":193471,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1141149,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Negeri Sembilan",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        1108696529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734860,
+        "gp:id":1141149,
+        "qs_pg:id":193471
+    },
+    "wof:country":"MY",
+    "wof:created":1497290707,
+    "wof:geomhash":"49d69dcd4f006fa11307b6f04354a9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696529,
+            "locality_id":1125786649,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1125786649,
+    "wof:lastmodified":1509392018,
+    "wof:name":"Gemencih",
+    "wof:parent_id":1108696529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3989,
+    2.5331,
+    102.3989,
+    2.5331
+],
+  "geometry": {"coordinates":[102.3989,2.5331],"type":"Point"}
+}

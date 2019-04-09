@@ -1,0 +1,67 @@
+{
+  "id": 1226547273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.23333,5.81667,102.23333,5.81667",
+    "geom:latitude":5.81667,
+    "geom:longitude":102.23333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Takil Dalam",
+    "gn:country_code":"MY",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763641,
+    "gn:latitude":5.81667,
+    "gn:longitude":102.23333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Takil Dalam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763641
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2d0525d55937312103b541061f701311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696457,
+            "locality_id":1226547273,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1226547273,
+    "wof:lastmodified":1536994982,
+    "wof:name":"Kampong Takil Dalam",
+    "wof:parent_id":1108696457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.23333,
+    5.81667,
+    102.23333,
+    5.81667
+],
+  "geometry": {"coordinates":[102.23333,5.81667],"type":"Point"}
+}

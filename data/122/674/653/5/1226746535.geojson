@@ -1,0 +1,70 @@
+{
+  "id": 1226746535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3301,2.8612,102.3301,2.8612",
+    "geom:latitude":2.8612,
+    "geom:longitude":102.3301,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Jawa Serting Tengah",
+    "gn:country_code":"MY",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536706,
+    "gn:latitude":2.8612,
+    "gn:longitude":102.3301,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Jawa Serting Tengah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jawa Serting Tengah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536706
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"656f5f249e030cc97d90f3f529950ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1226746535,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1226746535,
+    "wof:lastmodified":1537674464,
+    "wof:name":"Kampung Jawa Serting Tengah",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3301,
+    2.8612,
+    102.3301,
+    2.8612
+],
+  "geometry": {"coordinates":[102.3301,2.8612],"type":"Point"}
+}

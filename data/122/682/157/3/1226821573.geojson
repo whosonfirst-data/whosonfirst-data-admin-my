@@ -1,0 +1,67 @@
+{
+  "id": 1226821573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.09906,4.80086,118.09906,4.80086",
+    "geom:latitude":4.80086,
+    "geom:longitude":118.09906,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Babi",
+    "gn:country_code":"MY",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7045162,
+    "gn:latitude":4.80086,
+    "gn:longitude":118.09906,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Babi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7045162
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"699ff415d26f75eb5ee4a5ac2879d990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696435,
+            "locality_id":1226821573,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226821573,
+    "wof:lastmodified":1536603325,
+    "wof:name":"Babi",
+    "wof:parent_id":1108696435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.09906,
+    4.80086,
+    118.09906,
+    4.80086
+],
+  "geometry": {"coordinates":[118.09905999999999,4.80086],"type":"Point"}
+}

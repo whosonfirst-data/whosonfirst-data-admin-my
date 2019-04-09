@@ -1,0 +1,79 @@
+{
+  "id": 890490667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7323,2.9576,101.7323,2.9576",
+    "geom:latitude":2.9576,
+    "geom:longitude":101.7323,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Datuk Abu Bakar Baginda"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Abu Bakar"
+    ],
+    "qs:name":"Kampung Abu Baker Baginda",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":17,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":17,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771740,
+        "gp:id":56035047,
+        "qs:id":505846
+    },
+    "wof:country":"MY",
+    "wof:created":1469054819,
+    "wof:geomhash":"891ec62ee46efc8e0f752865a9d860c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489971,
+            "locality_id":890490667,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890490667,
+    "wof:lastmodified":1505343789,
+    "wof:name":"Kampung Abu Baker Baginda",
+    "wof:parent_id":890489971,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7323,
+    2.9576,
+    101.7323,
+    2.9576
+],
+  "geometry": {"coordinates":[101.7323,2.9576],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1243374985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.15532,6.2046,102.15532,6.2046",
+    "geom:latitude":6.2046,
+    "geom:longitude":102.15532,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Baru Nelayan",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068002,
+    "gn:latitude":6.2046,
+    "gn:longitude":102.15532,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Baru Nelayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baru Nelayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068002
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e1017482a95b5fb25e5e42c3e00939d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243374985,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243374985,
+    "wof:lastmodified":1537674276,
+    "wof:name":"Kampung Baru Nelayan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.15532,
+    6.2046,
+    102.15532,
+    6.2046
+],
+  "geometry": {"coordinates":[102.15532,6.2046],"type":"Point"}
+}

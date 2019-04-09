@@ -1,0 +1,72 @@
+{
+  "id": 1343763947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.26667,5.95,102.26667,5.95",
+    "geom:latitude":5.95,
+    "geom:longitude":102.26667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Jenereh",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768798,
+    "gn:latitude":5.95,
+    "gn:longitude":102.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Jenereh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Jerenih",
+        "Kampong Jenereh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768798
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8ad2835415534de8017879a60d09e37a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489783,
+            "locality_id":1343763947,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1343763947,
+    "wof:lastmodified":1537674095,
+    "wof:name":"Kampong Jenereh",
+    "wof:parent_id":890489783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.26667,
+    5.95,
+    102.26667,
+    5.95
+],
+  "geometry": {"coordinates":[102.26667,5.95],"type":"Point"}
+}

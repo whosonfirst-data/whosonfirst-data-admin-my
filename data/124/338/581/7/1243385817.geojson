@@ -1,0 +1,70 @@
+{
+  "id": 1243385817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.83043,3.70793,101.83043,3.70793",
+    "geom:latitude":3.70793,
+    "geom:longitude":101.83043,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Sungai Cendarawi",
+    "gn:country_code":"MY",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764073,
+    "gn:latitude":3.70793,
+    "gn:longitude":101.83043,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Cendarawi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Sungai Chendarawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764073
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ad4dbdf4f7a9db97ce67b36376d5c336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1243385817,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1243385817,
+    "wof:lastmodified":1537673891,
+    "wof:name":"Kampung Sungai Cendarawi",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.83043,
+    3.70793,
+    101.83043,
+    3.70793
+],
+  "geometry": {"coordinates":[101.83043000000001,3.70793],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 85784073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5049750.595146,
+    "geom:bbox":"101.074404,4.597744,101.074404,4.597744",
+    "geom:latitude":4.597744,
+    "geom:longitude":101.074404,
+    "iso:country":"MY",
+    "lbl:latitude":4.597744,
+    "lbl:longitude":101.074404,
+    "mps:latitude":4.603449,
+    "mps:longitude":101.071275,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:und_x_preferred":[
+        "Taman Istana"
+    ],
+    "name:unk_x_variant":[
+        "Taman Istana"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1734634,
+    "qs:id":0,
+    "qs:local_max":376,
+    "qs:local_sum":1287,
+    "qs:localhoods":14,
+    "qs:name":"Taman Istana",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:name_adm2":"Kinta",
+    "qs:name_lau":"Hulu Kinta",
+    "qs:name_local":"Ipoh",
+    "qs:photo_max":102,
+    "qs:photo_sum":219,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346302,
+    "qs:woe_adm2":56013603,
+    "qs:woe_lau":56014601,
+    "qs:woe_local":1154679,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023021,
+        890490953,
+        85675123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56016292
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d1dadd3a8891fead2e531daaac8876b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":102023021,
+            "neighbourhood_id":85784073,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":85784073,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860576,
+    "wof:name":"Taman Istana",
+    "wof:parent_id":102023021,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.074404,
+    4.597744,
+    101.074404,
+    4.597744
+],
+  "geometry": {"coordinates":[101.074404,4.597744],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209497303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.2883,6.5266,117.2883,6.5266",
+    "geom:latitude":6.5266,
+    "geom:longitude":117.2883,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Golong",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736556,
+    "gn:latitude":6.5266,
+    "gn:longitude":117.2883,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kampung Golong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Golong"
+    ],
+    "name:und_x_variant":[
+        "Golong",
+        "Kaidangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736556
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"39ac4667b0ef83cf9d257d9d554f29e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209497303
+        }
+    ],
+    "wof:id":1209497303,
+    "wof:lastmodified":1537673742,
+    "wof:name":"Kampung Golong",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.2883,
+    6.5266,
+    117.2883,
+    6.5266
+],
+  "geometry": {"coordinates":[117.28830000000001,6.5266],"type":"Point"}
+}

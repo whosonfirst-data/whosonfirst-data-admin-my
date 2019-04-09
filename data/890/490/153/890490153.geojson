@@ -1,0 +1,76 @@
+{
+  "id": 890490153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.9973,5.8108,117.9973,5.8108",
+    "geom:latitude":5.8108,
+    "geom:longitude":117.9973,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bambangan"
+    ],
+    "qs:name":"Kampong Bambangan",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sabah",
+    "qs:photos":166,
+    "qs:photos_1k":34,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":166,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        890490007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734013,
+        "gp:id":1141824,
+        "qs:id":1167900
+    },
+    "wof:country":"MY",
+    "wof:created":1469054791,
+    "wof:geomhash":"d5b788dff6e41250f505b3a1e3ed8aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490007,
+            "locality_id":890490153,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":890490153,
+    "wof:lastmodified":1505343787,
+    "wof:name":"Kampong Bambangan",
+    "wof:parent_id":890490007,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.9973,
+    5.8108,
+    117.9973,
+    5.8108
+],
+  "geometry": {"coordinates":[117.9973,5.8108],"type":"Point"}
+}

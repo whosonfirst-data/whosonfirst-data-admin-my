@@ -1,0 +1,70 @@
+{
+  "id": 1344254855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5967,4.4146,101.5967,4.4146",
+    "geom:latitude":4.4146,
+    "geom:longitude":101.5967,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Cerus",
+    "gn:country_code":"MY",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7792071,
+    "gn:latitude":4.4146,
+    "gn:longitude":101.5967,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Cerus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Cerus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7792071
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2baa13605fee116f489947b6f9ffbedd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696393,
+            "locality_id":1344254855,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1344254855,
+    "wof:lastmodified":1537674384,
+    "wof:name":"Kampung Cerus",
+    "wof:parent_id":1108696393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5967,
+    4.4146,
+    101.5967,
+    4.4146
+],
+  "geometry": {"coordinates":[101.5967,4.4146],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343827475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.25,4.48333,116.25,4.48333",
+    "geom:latitude":4.48333,
+    "geom:longitude":116.25,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bantangan",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1781324,
+    "gn:latitude":4.48333,
+    "gn:longitude":116.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bantangan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bantangon",
+        "Bantangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1781324
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dcba6a5f3ead9ff53900c48e3f255372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696483,
+            "locality_id":1343827475,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343827475,
+    "wof:lastmodified":1537674223,
+    "wof:name":"Bantangan",
+    "wof:parent_id":1108696483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.25,
+    4.48333,
+    116.25,
+    4.48333
+],
+  "geometry": {"coordinates":[116.25,4.48333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242580533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.57149,5.38477,100.57149,5.38477",
+    "geom:latitude":5.38477,
+    "geom:longitude":100.57149,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Padang Kulim",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766498,
+    "gn:latitude":5.38477,
+    "gn:longitude":100.57149,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Padang Kulim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Padang Kulim"
+    ],
+    "name:und_x_variant":[
+        "Kampong Padang Kulim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766498
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"76e1ac223e4f5db29dcd35e92be5b443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490359,
+            "locality_id":1242580533,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1242580533,
+    "wof:lastmodified":1537673997,
+    "wof:name":"Kampung Padang Kulim",
+    "wof:parent_id":890490359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.57149,
+    5.38477,
+    100.57149,
+    5.38477
+],
+  "geometry": {"coordinates":[100.57149,5.38477],"type":"Point"}
+}

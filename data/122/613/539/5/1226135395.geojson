@@ -1,0 +1,70 @@
+{
+  "id": 1226135395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5115,3.9349,102.5115,3.9349",
+    "geom:latitude":3.9349,
+    "geom:longitude":102.5115,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kemajuan Tanah Kota Gelanggi Tiga",
+    "gn:country_code":"MY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536552,
+    "gn:latitude":3.9349,
+    "gn:longitude":102.5115,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kemajuan Tanah Kota Gelanggi Tiga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Kota Gelanggi Tiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536552
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"acd15b9f0dbed33530036d7254524bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1226135395,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226135395,
+    "wof:lastmodified":1537674463,
+    "wof:name":"Kemajuan Tanah Kota Gelanggi Tiga",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5115,
+    3.9349,
+    102.5115,
+    3.9349
+],
+  "geometry": {"coordinates":[102.5115,3.9349],"type":"Point"}
+}

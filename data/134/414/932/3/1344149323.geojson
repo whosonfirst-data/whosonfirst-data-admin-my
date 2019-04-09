@@ -1,0 +1,70 @@
+{
+  "id": 1344149323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1446,3.1727,103.1446,3.1727",
+    "geom:latitude":3.1727,
+    "geom:longitude":103.1446,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kota Perdana",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697246,
+    "gn:latitude":3.1727,
+    "gn:longitude":103.1446,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kota Perdana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kota Perdana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697246
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e2bbf3f2e43e28dfe052a14562627b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1344149323,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1344149323,
+    "wof:lastmodified":1537674366,
+    "wof:name":"Kota Perdana",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1446,
+    3.1727,
+    103.1446,
+    3.1727
+],
+  "geometry": {"coordinates":[103.1446,3.1727],"type":"Point"}
+}

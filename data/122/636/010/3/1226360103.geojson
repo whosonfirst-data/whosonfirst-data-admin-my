@@ -1,0 +1,70 @@
+{
+  "id": 1226360103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2889,1.7564,103.2889,1.7564",
+    "geom:latitude":1.7564,
+    "geom:longitude":103.2889,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Ibrahim Majid",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7620468,
+    "gn:latitude":1.7564,
+    "gn:longitude":103.2889,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Ibrahim Majid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ibrahim Majid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7620468
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"38330f408ecb8bf5c58871a681c65612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1226360103,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1226360103,
+    "wof:lastmodified":1537674336,
+    "wof:name":"Kampung Ibrahim Majid",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2889,
+    1.7564,
+    103.2889,
+    1.7564
+],
+  "geometry": {"coordinates":[103.2889,1.7564],"type":"Point"}
+}

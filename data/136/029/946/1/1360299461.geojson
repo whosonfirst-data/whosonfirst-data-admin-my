@@ -1,0 +1,70 @@
+{
+  "id": 1360299461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7275,2.4113,102.7275,2.4113",
+    "geom:latitude":2.4113,
+    "geom:longitude":102.7275,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Singkang",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798296,
+    "gn:latitude":2.4113,
+    "gn:longitude":102.7275,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Singkang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Singkang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798296
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bb7262a752eea8f456d2333138852226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1360299461,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1360299461,
+    "wof:lastmodified":1537674430,
+    "wof:name":"Kampung Singkang",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7275,
+    2.4113,
+    102.7275,
+    2.4113
+],
+  "geometry": {"coordinates":[102.72750000000001,2.4113],"type":"Point"}
+}

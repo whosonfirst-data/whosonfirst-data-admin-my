@@ -1,0 +1,74 @@
+{
+  "id": 1293759959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1852,4.5238,103.1852,4.5238",
+    "geom:latitude":4.5238,
+    "geom:longitude":103.1852,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Gadung",
+    "gn:country_code":"MY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734318,
+    "gn:latitude":4.5238,
+    "gn:longitude":103.1852,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Gadung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gadung"
+    ],
+    "name:und_x_variant":[
+        "Kampong Gadong",
+        "Kampung Gadung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734318
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bdd0d10b586244580c9cdb6e445c5ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":1293759959,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1293759959,
+    "wof:lastmodified":1537673702,
+    "wof:name":"Kampung Gadung",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1852,
+    4.5238,
+    103.1852,
+    4.5238
+],
+  "geometry": {"coordinates":[103.18519999999999,4.5238],"type":"Point"}
+}

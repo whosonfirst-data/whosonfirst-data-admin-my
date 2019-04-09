@@ -1,0 +1,70 @@
+{
+  "id": 1360177323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6674,3.0363,102.6674,3.0363",
+    "geom:latitude":3.0363,
+    "geom:longitude":102.6674,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Kuin",
+    "gn:country_code":"MY",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796471,
+    "gn:latitude":3.0363,
+    "gn:longitude":102.6674,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kuin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796471
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f60fee2d3d779e6834189fe163215626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1360177323,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1360177323,
+    "wof:lastmodified":1537674405,
+    "wof:name":"Kampung Kuin",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6674,
+    3.0363,
+    102.6674,
+    3.0363
+],
+  "geometry": {"coordinates":[102.6674,3.0363],"type":"Point"}
+}

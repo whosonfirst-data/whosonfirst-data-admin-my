@@ -1,0 +1,74 @@
+{
+  "id": 1310277421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4828,5.9953,116.4828,5.9953",
+    "geom:latitude":5.9953,
+    "geom:longitude":116.4828,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tamis",
+    "gn:country_code":"MY",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763589,
+    "gn:latitude":5.9953,
+    "gn:longitude":116.4828,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tamis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tamis"
+    ],
+    "name:und_x_variant":[
+        "Tamis",
+        "Kampong Tamis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763589
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"91fa1f020d3145a74fcc25d0ed68603f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1310277421,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1310277421,
+    "wof:lastmodified":1537673868,
+    "wof:name":"Kampung Tamis",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4828,
+    5.9953,
+    116.4828,
+    5.9953
+],
+  "geometry": {"coordinates":[116.4828,5.9953],"type":"Point"}
+}

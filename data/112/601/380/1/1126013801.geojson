@@ -1,0 +1,89 @@
+{
+  "id": 1126013801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0051,4.3927,101.0051,4.3927",
+    "geom:latitude":4.3927,
+    "geom:longitude":101.0051,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":4.3927,
+    "lbl:longitude":101.0051,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:msa_x_preferred":[
+        "Bali"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7612594,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bali",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Perak",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1013767,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1154563,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Perak",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7612594,
+        "gp:id":1154563,
+        "qs_pg:id":1013767
+    },
+    "wof:country":"MY",
+    "wof:created":1497300432,
+    "wof:geomhash":"646308cd193e613d29f1e0f039a26677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1126013801,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1126013801,
+    "wof:lastmodified":1509406816,
+    "wof:name":"Bali",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0051,
+    4.3927,
+    101.0051,
+    4.3927
+],
+  "geometry": {"coordinates":[101.0051,4.3927],"type":"Point"}
+}

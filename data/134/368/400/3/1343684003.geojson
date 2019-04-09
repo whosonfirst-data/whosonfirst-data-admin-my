@@ -1,0 +1,70 @@
+{
+  "id": 1343684003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7062,2.8673,102.7062,2.8673",
+    "geom:latitude":2.8673,
+    "geom:longitude":102.7062,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Pasal",
+    "gn:country_code":"MY",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796997,
+    "gn:latitude":2.8673,
+    "gn:longitude":102.7062,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pasal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pasal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796997
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"19a5e4c3eff486ac6faec020dae1f352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1343684003,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1343684003,
+    "wof:lastmodified":1537674413,
+    "wof:name":"Kampung Pasal",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7062,
+    2.8673,
+    102.7062,
+    2.8673
+],
+  "geometry": {"coordinates":[102.7062,2.8673],"type":"Point"}
+}

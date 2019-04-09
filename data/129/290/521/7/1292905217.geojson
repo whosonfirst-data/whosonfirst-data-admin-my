@@ -1,0 +1,73 @@
+{
+  "id": 1292905217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9672,5.989,101.9672,5.989",
+    "geom:latitude":5.989,
+    "geom:longitude":101.9672,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Padang Nyior",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766458,
+    "gn:latitude":5.989,
+    "gn:longitude":101.9672,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Padang Nyior",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Padang Nyior"
+    ],
+    "name:und_x_variant":[
+        "Kampong Padang Nyior"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766458
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"134d4bcdc46fde704c28d4e99db9117b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1292905217,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1292905217,
+    "wof:lastmodified":1537673996,
+    "wof:name":"Kampung Padang Nyior",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9672,
+    5.989,
+    101.9672,
+    5.989
+],
+  "geometry": {"coordinates":[101.96720000000001,5.989],"type":"Point"}
+}

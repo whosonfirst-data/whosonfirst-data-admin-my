@@ -1,0 +1,73 @@
+{
+  "id": 1326900149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1251,5.2811,116.1251,5.2811",
+    "geom:latitude":5.2811,
+    "geom:longitude":116.1251,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Ansip",
+    "gn:country_code":"MY",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734081,
+    "gn:latitude":5.2811,
+    "gn:longitude":116.1251,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ansip",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ansip"
+    ],
+    "name:und_x_variant":[
+        "Ansip"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734081
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f43d43a14ecc70936cfef41623be93c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1326900149,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1326900149,
+    "wof:lastmodified":1537673697,
+    "wof:name":"Kampung Ansip",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1251,
+    5.2811,
+    116.1251,
+    5.2811
+],
+  "geometry": {"coordinates":[116.1251,5.2811],"type":"Point"}
+}

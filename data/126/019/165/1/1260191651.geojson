@@ -1,0 +1,70 @@
+{
+  "id": 1260191651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.37486,5.7992,100.37486,5.7992",
+    "geom:latitude":5.7992,
+    "geom:longitude":100.37486,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Titi Raga",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804987,
+    "gn:latitude":5.7992,
+    "gn:longitude":100.37486,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Titi Raga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Titi Raga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804987
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a87b759bf97aaeca1da046ff10b4b11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489701,
+            "locality_id":1260191651,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1260191651,
+    "wof:lastmodified":1537674232,
+    "wof:name":"Kampung Titi Raga",
+    "wof:parent_id":890489701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.37486,
+    5.7992,
+    100.37486,
+    5.7992
+],
+  "geometry": {"coordinates":[100.37486,5.7992],"type":"Point"}
+}

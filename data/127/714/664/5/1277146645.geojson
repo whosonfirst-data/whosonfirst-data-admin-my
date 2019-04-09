@@ -1,0 +1,70 @@
+{
+  "id": 1277146645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.5786,4.5127,118.5786,4.5127",
+    "geom:latitude":4.5127,
+    "geom:longitude":118.5786,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Senang Hati",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7064122,
+    "gn:latitude":4.5127,
+    "gn:longitude":118.5786,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Senang Hati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Senang Hati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7064122
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5d9b2a466ff931300f62d463c4f84e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696507,
+            "locality_id":1277146645,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1277146645,
+    "wof:lastmodified":1537674273,
+    "wof:name":"Kampung Senang Hati",
+    "wof:parent_id":1108696507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.5786,
+    4.5127,
+    118.5786,
+    4.5127
+],
+  "geometry": {"coordinates":[118.57859999999999,4.5127],"type":"Point"}
+}

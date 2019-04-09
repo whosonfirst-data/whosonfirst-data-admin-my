@@ -1,0 +1,70 @@
+{
+  "id": 1309778569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.02277,4.24381,118.02277,4.24381",
+    "geom:latitude":4.24381,
+    "geom:longitude":118.02277,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Membalua",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766928,
+    "gn:latitude":4.24381,
+    "gn:longitude":118.02277,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kampong Membalua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampong Membalua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766928
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"158a4815f73560a728085d59e2bf2648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696533,
+            "locality_id":1309778569,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309778569,
+    "wof:lastmodified":1537674015,
+    "wof:name":"Kampong Membalua",
+    "wof:parent_id":1108696533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.02277,
+    4.24381,
+    118.02277,
+    4.24381
+],
+  "geometry": {"coordinates":[118.02276999999999,4.24381],"type":"Point"}
+}

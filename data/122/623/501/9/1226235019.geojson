@@ -1,0 +1,73 @@
+{
+  "id": 1226235019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0774,3.489,103.0774,3.489",
+    "geom:latitude":3.489,
+    "geom:longitude":103.0774,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Bunut",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770011,
+    "gn:latitude":3.489,
+    "gn:longitude":103.0774,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bunut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bunut"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bunut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770011
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"29ffd2f7fb715c9992de98be360c509a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1226235019,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226235019,
+    "wof:lastmodified":1537674143,
+    "wof:name":"Kampung Bunut",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0774,
+    3.489,
+    103.0774,
+    3.489
+],
+  "geometry": {"coordinates":[103.0774,3.489],"type":"Point"}
+}

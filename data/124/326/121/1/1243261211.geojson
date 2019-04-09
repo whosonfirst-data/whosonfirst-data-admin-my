@@ -1,0 +1,70 @@
+{
+  "id": 1243261211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4819,4.4518,102.4819,4.4518",
+    "geom:latitude":4.4518,
+    "geom:longitude":102.4819,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Kempit",
+    "gn:country_code":"MY",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7559283,
+    "gn:latitude":4.4518,
+    "gn:longitude":102.4819,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kempit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kempit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7559283
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bf4cd918b5be673da5929cd336131e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1243261211,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1243261211,
+    "wof:lastmodified":1537674310,
+    "wof:name":"Kampung Kempit",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4819,
+    4.4518,
+    102.4819,
+    4.4518
+],
+  "geometry": {"coordinates":[102.4819,4.4518],"type":"Point"}
+}

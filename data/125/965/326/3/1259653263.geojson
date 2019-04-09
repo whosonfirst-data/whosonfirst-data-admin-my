@@ -1,0 +1,67 @@
+{
+  "id": 1259653263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.88333,4.7,115.88333,4.7",
+    "geom:latitude":4.7,
+    "geom:longitude":115.88333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bekuku",
+    "gn:country_code":"MY",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734140,
+    "gn:latitude":4.7,
+    "gn:longitude":115.88333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Bekuku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734140
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bd7e393db3ae049fb195a286b7112168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696535,
+            "locality_id":1259653263,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259653263,
+    "wof:lastmodified":1536611770,
+    "wof:name":"Bekuku",
+    "wof:parent_id":1108696535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.88333,
+    4.7,
+    115.88333,
+    4.7
+],
+  "geometry": {"coordinates":[115.88333,4.7],"type":"Point"}
+}

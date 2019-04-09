@@ -1,0 +1,70 @@
+{
+  "id": 1276733955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4,4.8263,103.4,4.8263",
+    "geom:latitude":4.8263,
+    "geom:longitude":103.4,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Baharu Kuala Abang",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7554895,
+    "gn:latitude":4.8263,
+    "gn:longitude":103.4,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Baharu Kuala Abang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Kuala Abang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7554895
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6003ab5a91973a078393c3b22de0047e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":1276733955,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1276733955,
+    "wof:lastmodified":1537674308,
+    "wof:name":"Kampung Baharu Kuala Abang",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4,
+    4.8263,
+    103.4,
+    4.8263
+],
+  "geometry": {"coordinates":[103.40000000000001,4.8263],"type":"Point"}
+}

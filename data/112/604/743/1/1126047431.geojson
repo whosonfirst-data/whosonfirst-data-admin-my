@@ -1,0 +1,102 @@
+{
+  "id": 1126047431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.51449,5.6998,100.51449,5.6998",
+    "geom:latitude":5.6998,
+    "geom:longitude":100.51449,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":5.6998,
+    "lbl:longitude":100.51449,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sungai Lalang"
+    ],
+    "name:eng_x_preferred":[
+        "Sungai Lalang"
+    ],
+    "name:epo_x_preferred":[
+        "Sungai Lalang"
+    ],
+    "name:may_x_preferred":[
+        "Sungai Lalang"
+    ],
+    "name:msa_x_preferred":[
+        "Sungai Lalang"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1742731,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sungai Seluang",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Kedah",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":908875,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1154186,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Kedah",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1742731,
+        "gp:id":1154186,
+        "qs_pg:id":908875,
+        "wd:id":"Q12859822"
+    },
+    "wof:country":"MY",
+    "wof:created":1497302519,
+    "wof:geomhash":"46bb304bf83c9b516c8566fc60bee3fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "locality_id":1126047431,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1126047431,
+    "wof:lastmodified":1514490843,
+    "wof:name":"Sungai Seluang",
+    "wof:parent_id":890490355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51449,
+    5.6998,
+    100.51449,
+    5.6998
+],
+  "geometry": {"coordinates":[100.51449,5.6998],"type":"Point"}
+}

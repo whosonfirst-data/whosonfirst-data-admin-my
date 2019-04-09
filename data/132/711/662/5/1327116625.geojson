@@ -1,0 +1,70 @@
+{
+  "id": 1327116625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.9964,6.5452,116.9964,6.5452",
+    "geom:latitude":6.5452,
+    "geom:longitude":116.9964,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Saniatan",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7458543,
+    "gn:latitude":6.5452,
+    "gn:longitude":116.9964,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Saniatan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Saniatan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7458543
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"981818bc56bcbaab5312dc0e947f134f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1327116625,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327116625,
+    "wof:lastmodified":1537674289,
+    "wof:name":"Kampung Saniatan",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.9964,
+    6.5452,
+    116.9964,
+    6.5452
+],
+  "geometry": {"coordinates":[116.99639999999999,6.5452],"type":"Point"}
+}

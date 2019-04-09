@@ -1,0 +1,67 @@
+{
+  "id": 890489379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.334105,1.586463,110.334105,1.586463",
+    "geom:latitude":1.586463,
+    "geom:longitude":110.334105,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Seri Sena",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sarawak",
+    "qs:photos":20,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56016978,
+        "qs:id":1088781
+    },
+    "wof:country":"MY",
+    "wof:created":1469054755,
+    "wof:geomhash":"05515f16ab31a89d42403fa04a16167d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":890489379,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":890489379,
+    "wof:lastmodified":1500013656,
+    "wof:name":"Taman Seri Sena",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.334105,
+    1.586463,
+    110.334105,
+    1.586463
+],
+  "geometry": {"coordinates":[110.33410499999999,1.586463],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310419883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0283,1.7518,103.0283,1.7518",
+    "geom:latitude":1.7518,
+    "geom:longitude":103.0283,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Senggarang",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536968,
+    "gn:latitude":1.7518,
+    "gn:longitude":103.0283,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Taman Senggarang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Senggarang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536968
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bba452192b67880c1eb6955e2a58c9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1310419883,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1310419883,
+    "wof:lastmodified":1537674466,
+    "wof:name":"Taman Senggarang",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0283,
+    1.7518,
+    103.0283,
+    1.7518
+],
+  "geometry": {"coordinates":[103.0283,1.7518],"type":"Point"}
+}

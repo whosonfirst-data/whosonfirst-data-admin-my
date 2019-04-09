@@ -1,0 +1,98 @@
+{
+  "id": 85783919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":15533133.144624,
+    "geom:bbox":"100.380371,5.354555,100.380371,5.354555",
+    "geom:latitude":5.354555,
+    "geom:longitude":100.380371,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":5.354555,
+    "lbl:longitude":100.380371,
+    "mps:latitude":5.354196,
+    "mps:longitude":100.383822,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:und_x_preferred":[
+        "Kawasan Perindustrian Prai"
+    ],
+    "name:unk_x_variant":[
+        "Kawasan Perindustrian Prai"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":225,
+    "qs:local_sum":405,
+    "qs:localhoods":3,
+    "qs:name":"Kawasan Perindustrian Prai",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:name_adm2":"Seberang Perai Tengah",
+    "qs:name_lau":"Mukim 1",
+    "qs:name_local":"Perai",
+    "qs:photo_max":28,
+    "qs:photo_sum":86,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346304,
+    "qs:woe_adm2":56013622,
+    "qs:woe_lau":56014310,
+    "qs:woe_local":1152579,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102023327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56015400,
+        "qs:id":5384
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"72fc053f19bc394b334500847e749ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102023327,
+            "neighbourhood_id":85783919,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85783919,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860560,
+    "wof:name":"Kawasan Perindustrian Prai",
+    "wof:parent_id":102023327,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.380371,
+    5.354555,
+    100.380371,
+    5.354555
+],
+  "geometry": {"coordinates":[100.380371,5.354555],"type":"Point"}
+}

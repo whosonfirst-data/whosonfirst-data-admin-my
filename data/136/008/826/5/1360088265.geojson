@@ -1,0 +1,74 @@
+{
+  "id": 1360088265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.42713,6.36744,100.42713,6.36744",
+    "geom:latitude":6.36744,
+    "geom:longitude":100.42713,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Napuh",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766706,
+    "gn:latitude":6.36744,
+    "gn:longitude":100.42713,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Napuh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Napuh"
+    ],
+    "name:und_x_variant":[
+        "Kampong Napoh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766706
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f0102fa230675bb9831bf36fc4d1de21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1360088265,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1360088265,
+    "wof:lastmodified":1537674005,
+    "wof:name":"Kampung Napuh",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.42713,
+    6.36744,
+    100.42713,
+    6.36744
+],
+  "geometry": {"coordinates":[100.42713000000001,6.36744],"type":"Point"}
+}

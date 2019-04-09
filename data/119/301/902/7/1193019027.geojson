@@ -1,0 +1,73 @@
+{
+  "id": 1193019027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.33338,6.12413,100.33338,6.12413",
+    "geom:latitude":6.12413,
+    "geom:longitude":100.33338,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Ketayap",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768273,
+    "gn:latitude":6.12413,
+    "gn:longitude":100.33338,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ketayap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ketayap"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ketayap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768273
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bf648c5bf2bdd2f871df10878b4f2573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1193019027,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1193019027,
+    "wof:lastmodified":1537674071,
+    "wof:name":"Kampung Ketayap",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.33338,
+    6.12413,
+    100.33338,
+    6.12413
+],
+  "geometry": {"coordinates":[100.33338000000001,6.12413],"type":"Point"}
+}

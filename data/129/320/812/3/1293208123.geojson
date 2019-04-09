@@ -1,0 +1,72 @@
+{
+  "id": 1293208123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.26667,6.18333,102.26667,6.18333",
+    "geom:latitude":6.18333,
+    "geom:longitude":102.26667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Tanjong Dal",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763433,
+    "gn:latitude":6.18333,
+    "gn:longitude":102.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Tanjong Dal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Dal",
+        "Kampong Tanjong Dal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763433
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9bd74f919ef5a6d2112575db856e6d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489783,
+            "locality_id":1293208123,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1293208123,
+    "wof:lastmodified":1537673860,
+    "wof:name":"Kampong Tanjong Dal",
+    "wof:parent_id":890489783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.26667,
+    6.18333,
+    102.26667,
+    6.18333
+],
+  "geometry": {"coordinates":[102.26667,6.18333],"type":"Point"}
+}

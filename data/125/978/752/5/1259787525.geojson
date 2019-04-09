@@ -1,0 +1,73 @@
+{
+  "id": 1259787525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3093,1.8539,103.3093,1.8539",
+    "geom:latitude":1.8539,
+    "geom:longitude":103.3093,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Haji Noor",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769078,
+    "gn:latitude":1.8539,
+    "gn:longitude":103.3093,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Haji Noor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Haji Noor"
+    ],
+    "name:und_x_variant":[
+        "Kampong Haji Noor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769078
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8c3cd32d4707a6032914be6a0d546028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1259787525,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1259787525,
+    "wof:lastmodified":1537674106,
+    "wof:name":"Kampung Haji Noor",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3093,
+    1.8539,
+    103.3093,
+    1.8539
+],
+  "geometry": {"coordinates":[103.30929999999999,1.8539],"type":"Point"}
+}

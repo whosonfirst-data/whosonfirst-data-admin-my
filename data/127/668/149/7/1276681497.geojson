@@ -1,0 +1,70 @@
+{
+  "id": 1276681497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3635,2.5708,102.3635,2.5708",
+    "geom:latitude":2.5708,
+    "geom:longitude":102.3635,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Anak Ayer Chempa",
+    "gn:country_code":"MY",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698113,
+    "gn:latitude":2.5708,
+    "gn:longitude":102.3635,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Anak Ayer Chempa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Anak Ayer Chempa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        1108696529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698113
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bae5cfd2b9ec33c08c0055273836a6bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696529,
+            "locality_id":1276681497,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1276681497,
+    "wof:lastmodified":1537674370,
+    "wof:name":"Kampung Anak Ayer Chempa",
+    "wof:parent_id":1108696529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3635,
+    2.5708,
+    102.3635,
+    2.5708
+],
+  "geometry": {"coordinates":[102.3635,2.5708],"type":"Point"}
+}

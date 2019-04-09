@@ -1,0 +1,70 @@
+{
+  "id": 1309817335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3207,1.7439,103.3207,1.7439",
+    "geom:latitude":1.7439,
+    "geom:longitude":103.3207,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kawasan Penempatan Ulu Benut Lima",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7620470,
+    "gn:latitude":1.7439,
+    "gn:longitude":103.3207,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Kawasan Penempatan Ulu Benut Lima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kawasan Penempatan Ulu Benut Lima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7620470
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cb292b5dba9244443d0aaeeb5ecd339e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1309817335,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1309817335,
+    "wof:lastmodified":1537674336,
+    "wof:name":"Kawasan Penempatan Ulu Benut Lima",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3207,
+    1.7439,
+    103.3207,
+    1.7439
+],
+  "geometry": {"coordinates":[103.3207,1.7439],"type":"Point"}
+}

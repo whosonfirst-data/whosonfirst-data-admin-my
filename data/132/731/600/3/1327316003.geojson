@@ -1,0 +1,71 @@
+{
+  "id": 1327316003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.6751,4.2598,117.6751,4.2598",
+    "geom:latitude":4.2598,
+    "geom:longitude":117.6751,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mantadok",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7768109,
+    "gn:latitude":4.2598,
+    "gn:longitude":117.6751,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mantadok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Mantadok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7768109
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2e5df1ce6d6314668e66274e94eec450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696533,
+            "locality_id":1327316003,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327316003,
+    "wof:lastmodified":1537674376,
+    "wof:name":"Mantadok",
+    "wof:parent_id":1108696533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.6751,
+    4.2598,
+    117.6751,
+    4.2598
+],
+  "geometry": {"coordinates":[117.6751,4.2598],"type":"Point"}
+}

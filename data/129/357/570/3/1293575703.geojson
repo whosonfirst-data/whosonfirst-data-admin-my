@@ -1,0 +1,70 @@
+{
+  "id": 1293575703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.48074,5.51216,102.48074,5.51216",
+    "geom:latitude":5.51216,
+    "geom:longitude":102.48074,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Cegar Kubur",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068264,
+    "gn:latitude":5.51216,
+    "gn:longitude":102.48074,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Cegar Kubur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Cegar Kubur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068264
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a15aa082c226d53908b19952229ab102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "locality_id":1293575703,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1293575703,
+    "wof:lastmodified":1537674280,
+    "wof:name":"Kampung Cegar Kubur",
+    "wof:parent_id":890488399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.48074,
+    5.51216,
+    102.48074,
+    5.51216
+],
+  "geometry": {"coordinates":[102.48074,5.51216],"type":"Point"}
+}

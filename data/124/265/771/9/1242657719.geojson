@@ -1,0 +1,73 @@
+{
+  "id": 1242657719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5767,3.6297,101.5767,3.6297",
+    "geom:latitude":3.6297,
+    "geom:longitude":101.5767,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Kalumpang",
+    "gn:country_code":"MY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768632,
+    "gn:latitude":3.6297,
+    "gn:longitude":101.5767,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kalumpang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kalumpang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kalumpang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768632
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f4b824cfef1de8e28afc974ea10c2360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1242657719,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1242657719,
+    "wof:lastmodified":1537674087,
+    "wof:name":"Kampung Kalumpang",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5767,
+    3.6297,
+    101.5767,
+    3.6297
+],
+  "geometry": {"coordinates":[101.5767,3.6297],"type":"Point"}
+}

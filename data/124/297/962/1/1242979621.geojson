@@ -1,0 +1,74 @@
+{
+  "id": 1242979621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.55088,5.53243,100.55088,5.53243",
+    "geom:latitude":5.53243,
+    "geom:longitude":100.55088,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Sidam Kanan",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764374,
+    "gn:latitude":5.53243,
+    "gn:longitude":100.55088,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sidam Kanan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sidam Kanan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sidam Kanan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764374
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b349e82372ad15058dfa1f582fed6885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490359,
+            "locality_id":1242979621,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1242979621,
+    "wof:lastmodified":1537673906,
+    "wof:name":"Kampung Sidam Kanan",
+    "wof:parent_id":890490359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.55088,
+    5.53243,
+    100.55088,
+    5.53243
+],
+  "geometry": {"coordinates":[100.55088000000001,5.53243],"type":"Point"}
+}

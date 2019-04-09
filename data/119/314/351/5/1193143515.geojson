@@ -1,0 +1,73 @@
+{
+  "id": 1193143515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0888,2.3697,102.0888,2.3697",
+    "geom:latitude":2.3697,
+    "geom:longitude":102.0888,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Jeram",
+    "gn:country_code":"MY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768776,
+    "gn:latitude":2.3697,
+    "gn:longitude":102.0888,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Jeram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jeram"
+    ],
+    "name:und_x_variant":[
+        "Kampong Jeram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768776
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e233cf1ac2f30b00523dbac8340e6091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1193143515,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1193143515,
+    "wof:lastmodified":1537674094,
+    "wof:name":"Kampung Jeram",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0888,
+    2.3697,
+    102.0888,
+    2.3697
+],
+  "geometry": {"coordinates":[102.08880000000001,2.3697],"type":"Point"}
+}

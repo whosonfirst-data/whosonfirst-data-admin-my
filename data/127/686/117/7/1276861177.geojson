@@ -1,0 +1,74 @@
+{
+  "id": 1276861177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.46261,5.41382,100.46261,5.41382",
+    "geom:latitude":5.41382,
+    "geom:longitude":100.46261,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Pelet",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765796,
+    "gn:latitude":5.41382,
+    "gn:longitude":100.46261,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pelet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pelet"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pelet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765796
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d540d671eb218b5a013b119a6ddd80c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1276861177,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1276861177,
+    "wof:lastmodified":1537673969,
+    "wof:name":"Kampung Pelet",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.46261,
+    5.41382,
+    100.46261,
+    5.41382
+],
+  "geometry": {"coordinates":[100.46261,5.41382],"type":"Point"}
+}

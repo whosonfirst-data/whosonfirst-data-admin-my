@@ -1,0 +1,67 @@
+{
+  "id": 1242656825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5,5.48333,102.5,5.48333",
+    "geom:latitude":5.48333,
+    "geom:longitude":102.5,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Keruak",
+    "gn:country_code":"MY",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734323,
+    "gn:latitude":5.48333,
+    "gn:longitude":102.5,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampung Keruak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734323
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dc6fc6c3d2cc1b6efb9fba8af4da7665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "locality_id":1242656825,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1242656825,
+    "wof:lastmodified":1536950026,
+    "wof:name":"Kampung Keruak",
+    "wof:parent_id":890488399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5,
+    5.48333,
+    102.5,
+    5.48333
+],
+  "geometry": {"coordinates":[102.5,5.48333],"type":"Point"}
+}

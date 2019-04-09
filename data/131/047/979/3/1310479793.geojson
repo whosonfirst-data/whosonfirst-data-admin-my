@@ -1,0 +1,67 @@
+{
+  "id": 1310479793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.4,2.03333,112.4,2.03333",
+    "geom:latitude":2.03333,
+    "geom:longitude":112.4,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Simpon",
+    "gn:country_code":"MY",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747531,
+    "gn:latitude":2.03333,
+    "gn:longitude":112.4,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Simpon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747531
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"adca110e3ad148b519597e813f95b21b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696409,
+            "locality_id":1310479793,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1310479793,
+    "wof:lastmodified":1536954111,
+    "wof:name":"Rumah Simpon",
+    "wof:parent_id":1108696409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.4,
+    2.03333,
+    112.4,
+    2.03333
+],
+  "geometry": {"coordinates":[112.40000000000001,2.03333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344259925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.62203,5.30168,100.62203,5.30168",
+    "geom:latitude":5.30168,
+    "geom:longitude":100.62203,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Batu Sepuluh",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6818758,
+    "gn:latitude":5.30168,
+    "gn:longitude":100.62203,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Batu Sepuluh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Sepuluh"
+    ],
+    "name:und_x_variant":[
+        "Kampung Batu 10"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818758
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1e8dc95ebd864fb38543f95c2fe1e570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490359,
+            "locality_id":1344259925,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1344259925,
+    "wof:lastmodified":1537674242,
+    "wof:name":"Kampung Batu Sepuluh",
+    "wof:parent_id":890490359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.62203,
+    5.30168,
+    100.62203,
+    5.30168
+],
+  "geometry": {"coordinates":[100.62203,5.30168],"type":"Point"}
+}

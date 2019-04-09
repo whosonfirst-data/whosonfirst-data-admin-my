@@ -1,0 +1,70 @@
+{
+  "id": 1343648711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8716,2.8913,101.8716,2.8913",
+    "geom:latitude":2.8913,
+    "geom:longitude":101.8716,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Rumah Murah Perbadanan",
+    "gn:country_code":"MY",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796522,
+    "gn:latitude":2.8913,
+    "gn:longitude":101.8716,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Rumah Murah Perbadanan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Rumah Murah Perbadanan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796522
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"16d8b4c952b16a96aaab47174198c729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":1343648711,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1343648711,
+    "wof:lastmodified":1537674406,
+    "wof:name":"Rumah Murah Perbadanan",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8716,
+    2.8913,
+    101.8716,
+    2.8913
+],
+  "geometry": {"coordinates":[101.8716,2.8913],"type":"Point"}
+}

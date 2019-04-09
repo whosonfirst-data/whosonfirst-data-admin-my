@@ -1,0 +1,73 @@
+{
+  "id": 1343433419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.481,5.7677,116.481,5.7677",
+    "geom:latitude":5.7677,
+    "geom:longitude":116.481,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Sinungkalangon",
+    "gn:country_code":"MY",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764283,
+    "gn:latitude":5.7677,
+    "gn:longitude":116.481,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sinungkalangon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sinungkalangon"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sinung Kalangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764283
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"16612ce4c684a936c6f15352608cb6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696525,
+            "locality_id":1343433419,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343433419,
+    "wof:lastmodified":1537673901,
+    "wof:name":"Kampung Sinungkalangon",
+    "wof:parent_id":1108696525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.481,
+    5.7677,
+    116.481,
+    5.7677
+],
+  "geometry": {"coordinates":[116.48099999999999,5.7677],"type":"Point"}
+}

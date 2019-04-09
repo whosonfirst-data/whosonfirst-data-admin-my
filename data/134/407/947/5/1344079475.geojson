@@ -1,0 +1,70 @@
+{
+  "id": 1344079475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.267,3.0204,102.267,3.0204",
+    "geom:latitude":3.0204,
+    "geom:longitude":102.267,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kemajuan Tanah Pasoh Satu",
+    "gn:country_code":"MY",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7691796,
+    "gn:latitude":3.0204,
+    "gn:longitude":102.267,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Pasoh Satu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Pasoh Satu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7691796
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bb7c3760dc85234f3210fb90a292e099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1344079475,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1344079475,
+    "wof:lastmodified":1537674363,
+    "wof:name":"Kemajuan Tanah Pasoh Satu",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.267,
+    3.0204,
+    102.267,
+    3.0204
+],
+  "geometry": {"coordinates":[102.267,3.0204],"type":"Point"}
+}

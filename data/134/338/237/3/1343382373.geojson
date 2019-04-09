@@ -1,0 +1,74 @@
+{
+  "id": 1343382373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7647,3.9574,100.7647,3.9574",
+    "geom:latitude":3.9574,
+    "geom:longitude":100.7647,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Permatang Kunda",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765550,
+    "gn:latitude":3.9574,
+    "gn:longitude":100.7647,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Permatang Kunda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Permatang Kunda"
+    ],
+    "name:und_x_variant":[
+        "Kampong Matang Kunda",
+        "Kampong Permatang Kunda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765550
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0d04d97c1299325eb5fc950a587a49d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1343382373,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1343382373,
+    "wof:lastmodified":1537673958,
+    "wof:name":"Kampung Permatang Kunda",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7647,
+    3.9574,
+    100.7647,
+    3.9574
+],
+  "geometry": {"coordinates":[100.7647,3.9574],"type":"Point"}
+}

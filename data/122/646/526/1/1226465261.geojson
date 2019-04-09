@@ -1,0 +1,70 @@
+{
+  "id": 1226465261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1284,2.9617,102.1284,2.9617",
+    "geom:latitude":2.9617,
+    "geom:longitude":102.1284,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Batang Peradong",
+    "gn:country_code":"MY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796793,
+    "gn:latitude":2.9617,
+    "gn:longitude":102.1284,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Batang Peradong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batang Peradong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796793
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"094afbf29b76ddf7873612b600cbc7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1226465261,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1226465261,
+    "wof:lastmodified":1537674412,
+    "wof:name":"Kampung Batang Peradong",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1284,
+    2.9617,
+    102.1284,
+    2.9617
+],
+  "geometry": {"coordinates":[102.1284,2.9617],"type":"Point"}
+}

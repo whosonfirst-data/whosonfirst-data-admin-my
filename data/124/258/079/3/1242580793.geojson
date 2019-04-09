@@ -1,0 +1,70 @@
+{
+  "id": 1242580793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.67809,6.28203,100.67809,6.28203",
+    "geom:latitude":6.28203,
+    "geom:longitude":100.67809,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Lubok Keriang",
+    "gn:country_code":"MY",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6853473,
+    "gn:latitude":6.28203,
+    "gn:longitude":100.67809,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Lubok Keriang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lubok Keriang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6853473
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3f361cad5942556bec1a16022f4a7ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696471,
+            "locality_id":1242580793,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1242580793,
+    "wof:lastmodified":1537674259,
+    "wof:name":"Kampung Lubok Keriang",
+    "wof:parent_id":1108696471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.67809,
+    6.28203,
+    100.67809,
+    6.28203
+],
+  "geometry": {"coordinates":[100.67809,6.28203],"type":"Point"}
+}

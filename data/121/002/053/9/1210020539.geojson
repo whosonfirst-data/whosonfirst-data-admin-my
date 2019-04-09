@@ -1,0 +1,70 @@
+{
+  "id": 1210020539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8821,1.6071,103.8821,1.6071",
+    "geom:latitude":1.6071,
+    "geom:longitude":103.8821,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Sungai Redan Baharu",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7619741,
+    "gn:latitude":1.6071,
+    "gn:longitude":103.8821,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sungai Redan Baharu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Redan Baharu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619741
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"10a674b68f266a852a2c706d00069842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":1210020539,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1210020539,
+    "wof:lastmodified":1537674334,
+    "wof:name":"Kampung Sungai Redan Baharu",
+    "wof:parent_id":890491003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8821,
+    1.6071,
+    103.8821,
+    1.6071
+],
+  "geometry": {"coordinates":[103.88209999999999,1.6071],"type":"Point"}
+}

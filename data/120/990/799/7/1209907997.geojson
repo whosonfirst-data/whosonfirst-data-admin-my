@@ -1,0 +1,70 @@
+{
+  "id": 1209907997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1298,4.6265,101.1298,4.6265",
+    "geom:latitude":4.6265,
+    "geom:longitude":101.1298,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taman Shukor",
+    "gn:country_code":"MY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473414,
+    "gn:latitude":4.6265,
+    "gn:longitude":101.1298,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Shukor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Shukor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473414
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5c75182ce6a664e49e93167155d4218b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1209907997,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1209907997,
+    "wof:lastmodified":1537674307,
+    "wof:name":"Taman Shukor",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1298,
+    4.6265,
+    101.1298,
+    4.6265
+],
+  "geometry": {"coordinates":[101.1298,4.6265],"type":"Point"}
+}

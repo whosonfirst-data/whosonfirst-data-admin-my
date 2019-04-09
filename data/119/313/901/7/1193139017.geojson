@@ -1,0 +1,70 @@
+{
+  "id": 1193139017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9583,5.4179,101.9583,5.4179",
+    "geom:latitude":5.4179,
+    "geom:longitude":101.9583,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Perkampungan Biak B",
+    "gn:country_code":"MY",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7459947,
+    "gn:latitude":5.4179,
+    "gn:longitude":101.9583,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Perkampungan Biak B",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perkampungan Biak B"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7459947
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"67e6b15ae244b9ecda8273bdc40197f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490101,
+            "locality_id":1193139017,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1193139017,
+    "wof:lastmodified":1537674290,
+    "wof:name":"Perkampungan Biak B",
+    "wof:parent_id":890490101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9583,
+    5.4179,
+    101.9583,
+    5.4179
+],
+  "geometry": {"coordinates":[101.95829999999999,5.4179],"type":"Point"}
+}

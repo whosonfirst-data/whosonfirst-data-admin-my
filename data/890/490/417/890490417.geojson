@@ -1,0 +1,93 @@
+{
+  "id": 890490417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1335,5.3503,103.1335,5.3503",
+    "geom:latitude":5.3503,
+    "geom:longitude":103.1335,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Seberang Takir"
+    ],
+    "name:eng_x_preferred":[
+        "Seberang Takir"
+    ],
+    "name:epo_x_preferred":[
+        "Seberang Takir"
+    ],
+    "name:ind_x_preferred":[
+        "Seberang Takir"
+    ],
+    "name:may_x_preferred":[
+        "Seberang Takir"
+    ],
+    "name:msa_x_preferred":[
+        "Kampung Seberang Takir"
+    ],
+    "name:unk_x_variant":[
+        "Saberang Takir"
+    ],
+    "qs:name":"Kampung Seberang Takir",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Terengganu",
+    "qs:photos":33,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734702,
+        "gp:id":1151445,
+        "qs:id":970159,
+        "wd:id":"Q4204575"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054804,
+    "wof:geomhash":"f85aa925e372e8ba8b48a3a0846772c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "locality_id":890490417,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":890490417,
+    "wof:lastmodified":1514490519,
+    "wof:name":"Kampung Seberang Takir",
+    "wof:parent_id":85675169,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1335,
+    5.3503,
+    103.1335,
+    5.3503
+],
+  "geometry": {"coordinates":[103.1335,5.3503],"type":"Point"}
+}

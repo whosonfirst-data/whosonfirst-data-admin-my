@@ -1,0 +1,64 @@
+{
+  "id": 1327415993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.24742,6.86097,117.24742,6.86097",
+    "geom:latitude":6.86097,
+    "geom:longitude":117.24742,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Mapan Mapan",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786851,
+    "gn:latitude":6.86097,
+    "gn:longitude":117.24742,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Kampung Mapan Mapan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mapan Mapan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786851
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"790b5c89a073cef84da7a254774859c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327415993,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327415993,
+    "wof:lastmodified":1537674381,
+    "wof:name":"Kampung Mapan Mapan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.24742,
+    6.86097,
+    117.24742,
+    6.86097
+],
+  "geometry": {"coordinates":[117.24742000000001,6.86097],"type":"Point"}
+}

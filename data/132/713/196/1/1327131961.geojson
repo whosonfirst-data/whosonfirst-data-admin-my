@@ -1,0 +1,70 @@
+{
+  "id": 1327131961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3915,3.5099,102.3915,3.5099",
+    "geom:latitude":3.5099,
+    "geom:longitude":102.3915,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Paya Petai",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795911,
+    "gn:latitude":3.5099,
+    "gn:longitude":102.3915,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Paya Petai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Paya Petai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795911
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"54c3fe837fbc58fbb24f75f77aab4aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1327131961,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1327131961,
+    "wof:lastmodified":1537674396,
+    "wof:name":"Kampung Paya Petai",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3915,
+    3.5099,
+    102.3915,
+    3.5099
+],
+  "geometry": {"coordinates":[102.39149999999999,3.5099],"type":"Point"}
+}

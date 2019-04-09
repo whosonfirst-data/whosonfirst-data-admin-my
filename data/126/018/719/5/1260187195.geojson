@@ -1,0 +1,73 @@
+{
+  "id": 1260187195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2243,2.6927,102.2243,2.6927",
+    "geom:latitude":2.6927,
+    "geom:longitude":102.2243,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Cheriau",
+    "gn:country_code":"MY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769788,
+    "gn:latitude":2.6927,
+    "gn:longitude":102.2243,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Cheriau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Cheriau"
+    ],
+    "name:und_x_variant":[
+        "Kampong Cheriau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769788
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b356eee607705897ab52e2f392b873ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1260187195,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1260187195,
+    "wof:lastmodified":1537674134,
+    "wof:name":"Kampung Cheriau",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2243,
+    2.6927,
+    102.2243,
+    2.6927
+],
+  "geometry": {"coordinates":[102.2243,2.6927],"type":"Point"}
+}

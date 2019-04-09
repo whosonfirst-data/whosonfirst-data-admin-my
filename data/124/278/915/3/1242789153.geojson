@@ -1,0 +1,73 @@
+{
+  "id": 1242789153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.94207,5.83958,101.94207,5.83958",
+    "geom:latitude":5.83958,
+    "geom:longitude":101.94207,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Banggul Yek",
+    "gn:country_code":"MY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771086,
+    "gn:latitude":5.83958,
+    "gn:longitude":101.94207,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Banggul Yek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Banggul Yek"
+    ],
+    "name:und_x_variant":[
+        "Kampong Banggol Yek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771086
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"331694073278ea599c3d00309ecb205e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490497,
+            "locality_id":1242789153,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1242789153,
+    "wof:lastmodified":1537674188,
+    "wof:name":"Kampung Banggul Yek",
+    "wof:parent_id":890490497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.94207,
+    5.83958,
+    101.94207,
+    5.83958
+],
+  "geometry": {"coordinates":[101.94207,5.83958],"type":"Point"}
+}

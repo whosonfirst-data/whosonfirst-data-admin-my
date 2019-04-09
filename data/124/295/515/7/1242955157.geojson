@@ -1,0 +1,67 @@
+{
+  "id": 1242955157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.9,5.68333,115.9,5.68333",
+    "geom:latitude":5.68333,
+    "geom:longitude":115.9,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Andus",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1783048,
+    "gn:latitude":5.68333,
+    "gn:longitude":115.9,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Andus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1783048
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dee04db63a3c5ed3d921d8f3d16c7cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696477,
+            "locality_id":1242955157,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1242955157,
+    "wof:lastmodified":1537016197,
+    "wof:name":"Andus",
+    "wof:parent_id":1108696477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.9,
+    5.68333,
+    115.9,
+    5.68333
+],
+  "geometry": {"coordinates":[115.90000000000001,5.68333],"type":"Point"}
+}

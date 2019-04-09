@@ -1,0 +1,71 @@
+{
+  "id": 1293366779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.52158,5.82269,102.52158,5.82269",
+    "geom:latitude":5.82269,
+    "geom:longitude":102.52158,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Seberang Baruh",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6893770,
+    "gn:latitude":5.82269,
+    "gn:longitude":102.52158,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Seberang Baruh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Seberang Baruh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6893770
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a499a4444899b0cb65bd5975a86ea974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "locality_id":1293366779,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1293366779,
+    "wof:lastmodified":1537674271,
+    "wof:name":"Kampung Seberang Baruh",
+    "wof:parent_id":890488399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.52158,
+    5.82269,
+    102.52158,
+    5.82269
+],
+  "geometry": {"coordinates":[102.52158,5.82269],"type":"Point"}
+}

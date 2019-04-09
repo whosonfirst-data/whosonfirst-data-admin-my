@@ -1,0 +1,67 @@
+{
+  "id": 1226412681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.18333,5.28333,115.18333,5.28333",
+    "geom:latitude":5.28333,
+    "geom:longitude":115.18333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kampung Berbuloh Darat",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770585,
+    "gn:latitude":5.28333,
+    "gn:longitude":115.18333,
+    "gn:modification_date":"1997-06-17",
+    "gn:name":"Kampung Berbuloh Darat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675191,
+        1108696547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770585
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e3023cd8596b758adf777cd9c4e40454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696547,
+            "locality_id":1226412681,
+            "region_id":85675191
+        }
+    ],
+    "wof:id":1226412681,
+    "wof:lastmodified":1536693464,
+    "wof:name":"Kampung Berbuloh Darat",
+    "wof:parent_id":1108696547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.18333,
+    5.28333,
+    115.18333,
+    5.28333
+],
+  "geometry": {"coordinates":[115.18333,5.28333],"type":"Point"}
+}

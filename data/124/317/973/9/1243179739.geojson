@@ -1,0 +1,70 @@
+{
+  "id": 1243179739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9145,5.4443,101.9145,5.4443",
+    "geom:latitude":5.4443,
+    "geom:longitude":101.9145,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Tunku Abdul Rahman",
+    "gn:country_code":"MY",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068208,
+    "gn:latitude":5.4443,
+    "gn:longitude":101.9145,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Tunku Abdul Rahman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tunku Abdul Rahman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068208
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0bee6c3b9a1f41903aa7c088331c4242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490101,
+            "locality_id":1243179739,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1243179739,
+    "wof:lastmodified":1537674279,
+    "wof:name":"Kampung Tunku Abdul Rahman",
+    "wof:parent_id":890490101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9145,
+    5.4443,
+    101.9145,
+    5.4443
+],
+  "geometry": {"coordinates":[101.9145,5.4443],"type":"Point"}
+}

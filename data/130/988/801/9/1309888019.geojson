@@ -1,0 +1,73 @@
+{
+  "id": 1309888019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.4,5.85,117.4,5.85",
+    "geom:latitude":5.85,
+    "geom:longitude":117.4,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tambayan",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733549,
+    "gn:latitude":5.85,
+    "gn:longitude":117.4,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tambayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Tambayen",
+        "Kampong Tambayan",
+        "Tambayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733549
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"904f3c404ec663d82326acb4dfe960ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1309888019,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309888019,
+    "wof:lastmodified":1537673685,
+    "wof:name":"Tambayan",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.4,
+    5.85,
+    117.4,
+    5.85
+],
+  "geometry": {"coordinates":[117.40000000000001,5.85],"type":"Point"}
+}

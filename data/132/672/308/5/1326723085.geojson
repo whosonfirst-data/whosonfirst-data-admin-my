@@ -1,0 +1,70 @@
+{
+  "id": 1326723085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5131,3.4824,102.5131,3.4824",
+    "geom:latitude":3.4824,
+    "geom:longitude":102.5131,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Perkampungan Kampung Awah",
+    "gn:country_code":"MY",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536631,
+    "gn:latitude":3.4824,
+    "gn:longitude":102.5131,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Perkampungan Kampung Awah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perkampungan Kampung Awah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536631
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cc67e035380f012e7dfb5203284a3eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1326723085,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1326723085,
+    "wof:lastmodified":1537674463,
+    "wof:name":"Perkampungan Kampung Awah",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5131,
+    3.4824,
+    102.5131,
+    3.4824
+],
+  "geometry": {"coordinates":[102.51309999999999,3.4824],"type":"Point"}
+}

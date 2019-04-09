@@ -1,0 +1,70 @@
+{
+  "id": 1276358501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3641,4.0043,102.3641,4.0043",
+    "geom:latitude":4.0043,
+    "geom:longitude":102.3641,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Gajah Mas",
+    "gn:country_code":"MY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793965,
+    "gn:latitude":4.0043,
+    "gn:longitude":102.3641,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Gajah Mas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gajah Mas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793965
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4ad121a35da225f6e61541a31054eeb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1276358501,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276358501,
+    "wof:lastmodified":1537674389,
+    "wof:name":"Kampung Gajah Mas",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3641,
+    4.0043,
+    102.3641,
+    4.0043
+],
+  "geometry": {"coordinates":[102.36409999999999,4.0043],"type":"Point"}
+}

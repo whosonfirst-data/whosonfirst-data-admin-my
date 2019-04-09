@@ -1,0 +1,70 @@
+{
+  "id": 1193025485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5498,2.1705,102.5498,2.1705",
+    "geom:latitude":2.1705,
+    "geom:longitude":102.5498,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Gelugor",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798086,
+    "gn:latitude":2.1705,
+    "gn:longitude":102.5498,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Gelugor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gelugor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798086
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0af83dfbd3fc75e6c6a9346ee711f547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1193025485,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1193025485,
+    "wof:lastmodified":1537674428,
+    "wof:name":"Kampung Gelugor",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5498,
+    2.1705,
+    102.5498,
+    2.1705
+],
+  "geometry": {"coordinates":[102.5498,2.1705],"type":"Point"}
+}

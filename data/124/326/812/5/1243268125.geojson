@@ -1,0 +1,70 @@
+{
+  "id": 1243268125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.056,2.1154,103.056,2.1154",
+    "geom:latitude":2.1154,
+    "geom:longitude":103.056,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Haji Mian Batu Tujuh Belas",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856954,
+    "gn:latitude":2.1154,
+    "gn:longitude":103.056,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Haji Mian Batu Tujuh Belas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Haji Mian Batu Tujuh Belas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856954
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2a422211534a6fc603e4a9936438338c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1243268125,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1243268125,
+    "wof:lastmodified":1537674440,
+    "wof:name":"Kampung Haji Mian Batu Tujuh Belas",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.056,
+    2.1154,
+    103.056,
+    2.1154
+],
+  "geometry": {"coordinates":[103.056,2.1154],"type":"Point"}
+}

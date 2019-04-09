@@ -1,0 +1,70 @@
+{
+  "id": 1343666059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4899,2.0923,103.4899,2.0923",
+    "geom:latitude":2.0923,
+    "geom:longitude":103.4899,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Perkampungan Kahang Timur",
+    "gn:country_code":"MY",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7578608,
+    "gn:latitude":2.0923,
+    "gn:longitude":103.4899,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Perkampungan Kahang Timur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perkampungan Kahang Timur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7578608
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"94cc2d5c0fb67adbb09e01940a8ae589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1343666059,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1343666059,
+    "wof:lastmodified":1537674317,
+    "wof:name":"Perkampungan Kahang Timur",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4899,
+    2.0923,
+    103.4899,
+    2.0923
+],
+  "geometry": {"coordinates":[103.48990000000001,2.0923],"type":"Point"}
+}

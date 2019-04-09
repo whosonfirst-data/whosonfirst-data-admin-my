@@ -1,0 +1,67 @@
+{
+  "id": 890489023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.286293,5.347197,100.286293,5.347197",
+    "geom:latitude":5.347197,
+    "geom:longitude":100.286293,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Barat Daya",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:photos":303,
+    "qs:photos_1k":61,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":303,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56037523,
+        "qs:id":119095
+    },
+    "wof:country":"MY",
+    "wof:created":1469054741,
+    "wof:geomhash":"ed049d40c40ea1c4b00739f55ea075d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696537,
+            "locality_id":890489023,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":890489023,
+    "wof:lastmodified":1500013260,
+    "wof:name":"Barat Daya",
+    "wof:parent_id":1108696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.286293,
+    5.347197,
+    100.286293,
+    5.347197
+],
+  "geometry": {"coordinates":[100.286293,5.347197],"type":"Point"}
+}

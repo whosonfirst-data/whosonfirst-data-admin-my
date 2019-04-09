@@ -1,0 +1,64 @@
+{
+  "id": 1292970567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.5951,4.5537,118.5951,4.5537",
+    "geom:latitude":4.5537,
+    "geom:longitude":118.5951,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Larapan Hujung",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7064108,
+    "gn:latitude":4.5537,
+    "gn:longitude":118.5951,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Larapan Hujung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Larapan Hujung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7064108
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b77f3ab859f74c6e75c69719192ce90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1292970567,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292970567,
+    "wof:lastmodified":1537674273,
+    "wof:name":"Kampung Larapan Hujung",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.5951,
+    4.5537,
+    118.5951,
+    4.5537
+],
+  "geometry": {"coordinates":[118.5951,4.5537],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310606039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6182,2.8874,102.6182,2.8874",
+    "geom:latitude":2.8874,
+    "geom:longitude":102.6182,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lima Belas dan Enam Belas Perkampungan Palong Empat Belas",
+    "gn:country_code":"MY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797146,
+    "gn:latitude":2.8874,
+    "gn:longitude":102.6182,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lima Belas dan Enam Belas Perkampungan Palong Empat Belas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Lima Belas dan Enam Belas Perkampungan Palong Empat Belas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797146
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"354fa37bb9e1c80df072fcd1701f4627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1310606039,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1310606039,
+    "wof:lastmodified":1537674415,
+    "wof:name":"Lima Belas dan Enam Belas Perkampungan Palong Empat Belas",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6182,
+    2.8874,
+    102.6182,
+    2.8874
+],
+  "geometry": {"coordinates":[102.6182,2.8874],"type":"Point"}
+}

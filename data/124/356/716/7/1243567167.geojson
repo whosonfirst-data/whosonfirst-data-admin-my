@@ -1,0 +1,73 @@
+{
+  "id": 1243567167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36379,6.19878,100.36379,6.19878",
+    "geom:latitude":6.19878,
+    "geom:longitude":100.36379,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Pulau Kerengga",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768314,
+    "gn:latitude":6.19878,
+    "gn:longitude":100.36379,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pulau Kerengga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pulau Kerengga"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kerengga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768314
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cd5964a5e57cd1514b780827a00dda45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1243567167,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1243567167,
+    "wof:lastmodified":1537674073,
+    "wof:name":"Kampung Pulau Kerengga",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36379,
+    6.19878,
+    100.36379,
+    6.19878
+],
+  "geometry": {"coordinates":[100.36378999999999,6.19878],"type":"Point"}
+}

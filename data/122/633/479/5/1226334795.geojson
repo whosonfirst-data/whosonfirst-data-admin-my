@@ -1,0 +1,70 @@
+{
+  "id": 1226334795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4021,4.3862,102.4021,4.3862",
+    "geom:latitude":4.3862,
+    "geom:longitude":102.4021,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kompleks Perhilitan Kuala Tahan",
+    "gn:country_code":"MY",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577260,
+    "gn:latitude":4.3862,
+    "gn:longitude":102.4021,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kompleks Perhilitan Kuala Tahan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kompleks Perhilitan Kuala Tahan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577260
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1d9130d6ceac5bede9899f8ae43f97e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1226334795,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226334795,
+    "wof:lastmodified":1537674317,
+    "wof:name":"Kompleks Perhilitan Kuala Tahan",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4021,
+    4.3862,
+    102.4021,
+    4.3862
+],
+  "geometry": {"coordinates":[102.4021,4.3862],"type":"Point"}
+}

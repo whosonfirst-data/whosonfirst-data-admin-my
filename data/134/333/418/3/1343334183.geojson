@@ -1,0 +1,73 @@
+{
+  "id": 1343334183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.2434,6.1944,116.2434,6.1944",
+    "geom:latitude":6.1944,
+    "geom:longitude":116.2434,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Raun",
+    "gn:country_code":"MY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765050,
+    "gn:latitude":6.1944,
+    "gn:longitude":116.2434,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Raun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Raun"
+    ],
+    "name:und_x_variant":[
+        "Kampong Raun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765050
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"000389090e9e6d46553637f9e14529ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1343334183,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343334183,
+    "wof:lastmodified":1537673937,
+    "wof:name":"Kampung Raun",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.2434,
+    6.1944,
+    116.2434,
+    6.1944
+],
+  "geometry": {"coordinates":[116.24339999999999,6.1944],"type":"Point"}
+}

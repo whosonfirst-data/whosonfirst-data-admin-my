@@ -1,0 +1,67 @@
+{
+  "id": 1243563501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.45,5.95,100.45,5.95",
+    "geom:latitude":5.95,
+    "geom:longitude":100.45,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Bukit Chepat",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770304,
+    "gn:latitude":5.95,
+    "gn:longitude":100.45,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Bukit Chepat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770304
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5685bc5e554ce831e63bd78e6453d6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489109,
+            "locality_id":1243563501,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1243563501,
+    "wof:lastmodified":1536635508,
+    "wof:name":"Kampong Bukit Chepat",
+    "wof:parent_id":890489109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.45,
+    5.95,
+    100.45,
+    5.95
+],
+  "geometry": {"coordinates":[100.45,5.95],"type":"Point"}
+}

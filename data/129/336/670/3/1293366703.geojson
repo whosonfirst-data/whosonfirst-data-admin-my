@@ -1,0 +1,73 @@
+{
+  "id": 1293366703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.16112,4.96485,103.16112,4.96485",
+    "geom:latitude":4.96485,
+    "geom:longitude":103.16112,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bukit Cabang",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1777692,
+    "gn:latitude":4.96485,
+    "gn:longitude":103.16112,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bukit Cabang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bukit Cabang"
+    ],
+    "name:und_x_variant":[
+        "Bukit Chabang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1777692
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dbc9374304c9827f972c12ca1e887ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1293366703,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1293366703,
+    "wof:lastmodified":1537674220,
+    "wof:name":"Bukit Cabang",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.16112,
+    4.96485,
+    103.16112,
+    4.96485
+],
+  "geometry": {"coordinates":[103.16112,4.96485],"type":"Point"}
+}

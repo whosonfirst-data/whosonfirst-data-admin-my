@@ -1,0 +1,113 @@
+{
+  "id": 85784491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8385648.626786,
+    "geom:bbox":"101.760613,3.052837,101.760613,3.052837",
+    "geom:latitude":3.052837,
+    "geom:longitude":101.760613,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.052837,
+    "lbl:longitude":101.760613,
+    "mps:latitude":3.053421,
+    "mps:longitude":101.760734,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:msa_x_preferred":[
+        "Bandar Tun Hussein Onn"
+    ],
+    "name:und_x_preferred":[
+        "Bandar Tun Hussein Onn"
+    ],
+    "name:unk_x_variant":[
+        "Bandar Tun Hussein Onn"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1777077,
+    "qs:gn_nam_loc":"cheras",
+    "qs:gn_namadm1":"00",
+    "qs:local_max":33,
+    "qs:local_sum":72,
+    "qs:localhoods":3,
+    "qs:name":"Bandar Tun Hussein Onn",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:name_adm2":"Hulu Langat",
+    "qs:name_lau":"Cheras",
+    "qs:name_local":"Cheras",
+    "qs:photo_max":9,
+    "qs:photo_sum":33,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346306,
+    "qs:woe_adm2":56013645,
+    "qs:woe_lau":56014384,
+    "qs:woe_local":1154641,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":214,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023899,
+        1108696543,
+        85675163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56036790,
+        "qs:id":996365,
+        "qs_pg:id":996365,
+        "wd:id":"Q4854433"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c19c90e417e698018acbfc34bf33d166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":102023899,
+            "neighbourhood_id":85784491,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":85784491,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860616,
+    "wof:name":"Bandar Tun Hussein Onn",
+    "wof:parent_id":102023899,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.760613,
+    3.052837,
+    101.760613,
+    3.052837
+],
+  "geometry": {"coordinates":[101.76061300000001,3.052837],"type":"Point"}
+}

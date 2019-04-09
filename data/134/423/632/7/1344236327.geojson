@@ -1,0 +1,70 @@
+{
+  "id": 1344236327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6388,5.67701,102.6388,5.67701",
+    "geom:latitude":5.67701,
+    "geom:longitude":102.6388,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Tasik Batu Hampar",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861613,
+    "gn:latitude":5.67701,
+    "gn:longitude":102.6388,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Tasik Batu Hampar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tasik Batu Hampar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861613
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3510e10fa31a4041a3918a10240c7f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "locality_id":1344236327,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1344236327,
+    "wof:lastmodified":1537674268,
+    "wof:name":"Kampung Tasik Batu Hampar",
+    "wof:parent_id":890488399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6388,
+    5.67701,
+    102.6388,
+    5.67701
+],
+  "geometry": {"coordinates":[102.6388,5.67701],"type":"Point"}
+}

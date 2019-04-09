@@ -1,0 +1,70 @@
+{
+  "id": 1243549995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.16422,6.36058,100.16422,6.36058",
+    "geom:latitude":6.36058,
+    "geom:longitude":100.16422,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Behor Tui",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819174,
+    "gn:latitude":6.36058,
+    "gn:longitude":100.16422,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Behor Tui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Behor Tui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819174
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0ee7fab6abeba8cc53005dc613c2bb85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1243549995,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1243549995,
+    "wof:lastmodified":1537674246,
+    "wof:name":"Kampung Behor Tui",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.16422,
+    6.36058,
+    100.16422,
+    6.36058
+],
+  "geometry": {"coordinates":[100.16422,6.36058],"type":"Point"}
+}

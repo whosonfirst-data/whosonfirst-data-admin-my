@@ -1,0 +1,97 @@
+{
+  "id": 890488763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0317,1.8548,103.0317,1.8548",
+    "geom:latitude":1.8548,
+    "geom:longitude":103.0317,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u56db\u52a0\u4ead"
+    ],
+    "name:dut_x_preferred":[
+        "Sri Gading"
+    ],
+    "name:eng_x_preferred":[
+        "Sri Gading"
+    ],
+    "name:fre_x_preferred":[
+        "Sri Gading"
+    ],
+    "name:ind_x_preferred":[
+        "Sri Gading"
+    ],
+    "name:may_x_preferred":[
+        "Sri Gading"
+    ],
+    "name:msa_x_preferred":[
+        "Seri Gading"
+    ],
+    "qs:name":"Sri Gading",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:latitude":"1.85",
+    "wd:longitude":"102.916666666",
+    "wd:wordcount":336,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356666,
+        "gp:id":56015751,
+        "qs:id":338378,
+        "wd:id":"Q7585831",
+        "wk:page":"Sri Gading"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054732,
+    "wof:geomhash":"0808cdc14f7593986ad88e7241f7fa8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":890488763,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890488763,
+    "wof:lastmodified":1527787073,
+    "wof:name":"Sri Gading",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0317,
+    1.8548,
+    103.0317,
+    1.8548
+],
+  "geometry": {"coordinates":[103.0317,1.8548],"type":"Point"}
+}

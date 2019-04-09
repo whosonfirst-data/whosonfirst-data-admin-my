@@ -1,0 +1,79 @@
+{
+  "id": 890489275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6667,3.0074,102.6667,3.0074",
+    "geom:latitude":3.0074,
+    "geom:longitude":102.6667,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Datuk"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Datoh"
+    ],
+    "qs:name":"Kampong Datok",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85675159,
+        85632739,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769676,
+        "gp:id":55862684,
+        "qs:id":989647
+    },
+    "wof:country":"MY",
+    "wof:created":1469054751,
+    "wof:geomhash":"d95c391ceab9c285f3c989a9d2bf13a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "neighbourhood_id":890489275,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":890489275,
+    "wof:lastmodified":1505343785,
+    "wof:name":"Kampong Datok",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6667,
+    3.0074,
+    102.6667,
+    3.0074
+],
+  "geometry": {"coordinates":[102.66670000000001,3.0074],"type":"Point"}
+}

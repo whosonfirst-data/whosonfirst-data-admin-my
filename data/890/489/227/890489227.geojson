@@ -1,0 +1,67 @@
+{
+  "id": 890489227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.570183,5.790555,102.570183,5.790555",
+    "geom:latitude":5.790555,
+    "geom:longitude":102.570183,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kg. Raja",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Terengganu",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":43,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014463,
+        "qs:id":969647
+    },
+    "wof:country":"MY",
+    "wof:created":1469054749,
+    "wof:geomhash":"b40063eeb68fb1061232867a7770085c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "localadmin_id":890489227,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":890489227,
+    "wof:lastmodified":1500013520,
+    "wof:name":"Kg. Raja",
+    "wof:parent_id":890488399,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.570183,
+    5.790555,
+    102.570183,
+    5.790555
+],
+  "geometry": {"coordinates":[102.570183,5.790555],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292987243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4008,4.3768,103.4008,4.3768",
+    "geom:latitude":4.3768,
+    "geom:longitude":103.4008,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Payuh",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732953,
+    "gn:latitude":4.3768,
+    "gn:longitude":103.4008,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Payuh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Payuh"
+    ],
+    "name:und_x_variant":[
+        "Kampong Payoh",
+        "Kampung Payuh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732953
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c0cf4c1ba93470af41a37e2d34e801f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "locality_id":1292987243,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1292987243,
+    "wof:lastmodified":1537673672,
+    "wof:name":"Kampung Payuh",
+    "wof:parent_id":890490801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4008,
+    4.3768,
+    103.4008,
+    4.3768
+],
+  "geometry": {"coordinates":[103.4008,4.3768],"type":"Point"}
+}

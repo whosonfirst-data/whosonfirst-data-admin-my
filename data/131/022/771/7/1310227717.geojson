@@ -1,0 +1,66 @@
+{
+  "id": 1310227717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7935,2.5535,101.7935,2.5535",
+    "geom:latitude":2.5535,
+    "geom:longitude":101.7935,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Taman Tanjung",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797243,
+    "gn:latitude":2.5535,
+    "gn:longitude":101.7935,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Tanjung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Tanjung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797243
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3b0a2cb7870de0bb7a868c5ebf8122ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1310227717,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310227717,
+    "wof:lastmodified":1537674416,
+    "wof:name":"Taman Tanjung",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7935,
+    2.5535,
+    101.7935,
+    2.5535
+],
+  "geometry": {"coordinates":[101.79349999999999,2.5535],"type":"Point"}
+}

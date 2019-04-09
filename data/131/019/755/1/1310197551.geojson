@@ -1,0 +1,70 @@
+{
+  "id": 1310197551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1469,3.9756,102.1469,3.9756",
+    "geom:latitude":3.9756,
+    "geom:longitude":102.1469,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Kor",
+    "gn:country_code":"MY",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7649381,
+    "gn:latitude":3.9756,
+    "gn:longitude":102.1469,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7649381
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"20e256c95e0400da21355bbb17d734b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1310197551,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1310197551,
+    "wof:lastmodified":1537674348,
+    "wof:name":"Kampung Kor",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1469,
+    3.9756,
+    102.1469,
+    3.9756
+],
+  "geometry": {"coordinates":[102.1469,3.9756],"type":"Point"}
+}

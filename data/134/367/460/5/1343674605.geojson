@@ -1,0 +1,70 @@
+{
+  "id": 1343674605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.60929,5.20056,100.60929,5.20056",
+    "geom:latitude":5.20056,
+    "geom:longitude":100.60929,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Batu Lapan Belas",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854621,
+    "gn:latitude":5.20056,
+    "gn:longitude":100.60929,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Batu Lapan Belas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Lapan Belas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854621
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"89bb40a2146876ba48c64c06dea17fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490371,
+            "locality_id":1343674605,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1343674605,
+    "wof:lastmodified":1537674260,
+    "wof:name":"Kampung Batu Lapan Belas",
+    "wof:parent_id":890490371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.60929,
+    5.20056,
+    100.60929,
+    5.20056
+],
+  "geometry": {"coordinates":[100.60929,5.20056],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259596217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.6999,5.77694,100.6999,5.77694",
+    "geom:latitude":5.77694,
+    "geom:longitude":100.6999,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Telui Tua",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805141,
+    "gn:latitude":5.77694,
+    "gn:longitude":100.6999,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Telui Tua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Telui Tua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805141
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4e065fdad760dba4b92a00661471e195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696515,
+            "locality_id":1259596217,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1259596217,
+    "wof:lastmodified":1537674235,
+    "wof:name":"Kampung Telui Tua",
+    "wof:parent_id":1108696515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.6999,
+    5.77694,
+    100.6999,
+    5.77694
+],
+  "geometry": {"coordinates":[100.6999,5.77694],"type":"Point"}
+}

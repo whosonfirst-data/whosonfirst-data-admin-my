@@ -1,0 +1,70 @@
+{
+  "id": 1293371227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.38951,1.65964,110.38951,1.65964",
+    "geom:latitude":1.65964,
+    "geom:longitude":110.38951,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampung Penambai",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765779,
+    "gn:latitude":1.65964,
+    "gn:longitude":110.38951,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kampung Penambai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Penambai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765779
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"55bc99cbdd63caa115a07318aaf31625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1293371227,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1293371227,
+    "wof:lastmodified":1537673968,
+    "wof:name":"Kampung Penambai",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.38951000000002,
+    1.65964,
+    110.38951000000002,
+    1.65964
+],
+  "geometry": {"coordinates":[110.38951000000002,1.65964],"type":"Point"}
+}

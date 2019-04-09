@@ -1,0 +1,104 @@
+{
+  "id": 1125835519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2,6.11667,102.2,6.11667",
+    "geom:latitude":6.11667,
+    "geom:longitude":102.2,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":6.11667,
+    "lbl:longitude":102.2,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Wakaf Bharu"
+    ],
+    "name:eng_x_preferred":[
+        "Wakaf Bharu"
+    ],
+    "name:epo_x_preferred":[
+        "Wakaf Bharu"
+    ],
+    "name:may_x_preferred":[
+        "Wakaf Bharu"
+    ],
+    "name:unk_x_variant":[
+        "Wakaf Bharu"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1736366,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Wakaf Baharu",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Kelantan",
+    "qs_pg:photos":34,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":34,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1092103,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1154524,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Kelantan",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736366,
+        "gp:id":1154524,
+        "qs_pg:id":1092103,
+        "wd:id":"Q7960758"
+    },
+    "wof:country":"MY",
+    "wof:created":1497292700,
+    "wof:geomhash":"b93795b2bbca26007b96674827116ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489803,
+            "locality_id":1125835519,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1125835519,
+    "wof:lastmodified":1514490864,
+    "wof:name":"Wakaf Baharu",
+    "wof:parent_id":890489803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2,
+    6.11667,
+    102.2,
+    6.11667
+],
+  "geometry": {"coordinates":[102.2,6.11667],"type":"Point"}
+}

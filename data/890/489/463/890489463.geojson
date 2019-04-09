@@ -1,0 +1,70 @@
+{
+  "id": 890489463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.074331,5.418678,103.074331,5.418678",
+    "geom:latitude":5.418678,
+    "geom:longitude":103.074331,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Batu Rakit",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Terengganu",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":56,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014096,
+        "qs:id":1018016,
+        "wd:id":"Q4204593",
+        "wk:page":"Batu Rakit"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054758,
+    "wof:geomhash":"188ec3c8741308aa16b61b08edc279cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "localadmin_id":890489463,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":890489463,
+    "wof:lastmodified":1527792862,
+    "wof:name":"Batu Rakit",
+    "wof:parent_id":890490947,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.074331,
+    5.418678,
+    103.074331,
+    5.418678
+],
+  "geometry": {"coordinates":[103.074331,5.418678],"type":"Point"}
+}

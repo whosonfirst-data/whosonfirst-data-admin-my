@@ -1,0 +1,70 @@
+{
+  "id": 1242942715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.4191,6.2892,117.4191,6.2892",
+    "geom:latitude":6.2892,
+    "geom:longitude":117.4191,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Tampal",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7607466,
+    "gn:latitude":6.2892,
+    "gn:longitude":117.4191,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tampal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tampal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7607466
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bf5efad78c8b04e20c2e57db56d4b79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1242942715,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1242942715,
+    "wof:lastmodified":1537674324,
+    "wof:name":"Kampung Tampal",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.4191,
+    6.2892,
+    117.4191,
+    6.2892
+],
+  "geometry": {"coordinates":[117.4191,6.2892],"type":"Point"}
+}

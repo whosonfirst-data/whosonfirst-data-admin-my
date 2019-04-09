@@ -1,0 +1,73 @@
+{
+  "id": 1344158945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.21667,5.65,102.21667,5.65",
+    "geom:latitude":5.65,
+    "geom:longitude":102.21667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Telekong Baharu",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763135,
+    "gn:latitude":5.65,
+    "gn:longitude":102.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Telekong Baharu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Telekong",
+        "Kampong Telkong Bharu",
+        "Kampong Telekong Baharu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763135
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bafbd5030c04ed8fd46fb92f95c01bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489265,
+            "locality_id":1344158945,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1344158945,
+    "wof:lastmodified":1537673846,
+    "wof:name":"Kampong Telekong Baharu",
+    "wof:parent_id":890489265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.21667,
+    5.65,
+    102.21667,
+    5.65
+],
+  "geometry": {"coordinates":[102.21666999999999,5.65],"type":"Point"}
+}

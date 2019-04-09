@@ -1,0 +1,73 @@
+{
+  "id": 1326652733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2029,2.8573,102.2029,2.8573",
+    "geom:latitude":2.8573,
+    "geom:longitude":102.2029,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Tengkek",
+    "gn:country_code":"MY",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762800,
+    "gn:latitude":2.8573,
+    "gn:longitude":102.2029,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tengkek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tengkek"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tengkek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762800
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0a431b371d82214ab6296c8b8f47c3b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1326652733,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1326652733,
+    "wof:lastmodified":1537673831,
+    "wof:name":"Kampung Tengkek",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2029,
+    2.8573,
+    102.2029,
+    2.8573
+],
+  "geometry": {"coordinates":[102.2029,2.8573],"type":"Point"}
+}

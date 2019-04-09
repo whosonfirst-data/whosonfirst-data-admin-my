@@ -1,0 +1,70 @@
+{
+  "id": 1242675151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0962,3.5827,103.0962,3.5827",
+    "geom:latitude":3.5827,
+    "geom:longitude":103.0962,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Ladang Sawit Lepar",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795583,
+    "gn:latitude":3.5827,
+    "gn:longitude":103.0962,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Ladang Sawit Lepar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ladang Sawit Lepar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795583
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4af7ac0c423abe516e5e514c5ebd9ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1242675151,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1242675151,
+    "wof:lastmodified":1537674394,
+    "wof:name":"Kampung Ladang Sawit Lepar",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0962,
+    3.5827,
+    103.0962,
+    3.5827
+],
+  "geometry": {"coordinates":[103.0962,3.5827],"type":"Point"}
+}

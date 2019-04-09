@@ -1,0 +1,70 @@
+{
+  "id": 1293789833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2156,2.3712,102.2156,2.3712",
+    "geom:latitude":2.3712,
+    "geom:longitude":102.2156,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Pengkalan Kelemak",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797787,
+    "gn:latitude":2.3712,
+    "gn:longitude":102.2156,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pengkalan Kelemak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pengkalan Kelemak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797787
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8bee2430c6ebd69310a38fcd69124381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1293789833,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1293789833,
+    "wof:lastmodified":1537674424,
+    "wof:name":"Kampung Pengkalan Kelemak",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2156,
+    2.3712,
+    102.2156,
+    2.3712
+],
+  "geometry": {"coordinates":[102.21559999999999,2.3712],"type":"Point"}
+}

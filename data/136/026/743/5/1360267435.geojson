@@ -1,0 +1,67 @@
+{
+  "id": 1360267435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.88333,5.58333,115.88333,5.58333",
+    "geom:latitude":5.58333,
+    "geom:longitude":115.88333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Batu 35",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770976,
+    "gn:latitude":5.58333,
+    "gn:longitude":115.88333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Batu 35",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770976
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d692b45c73bc648072c945d9a293f804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696477,
+            "locality_id":1360267435,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1360267435,
+    "wof:lastmodified":1536682572,
+    "wof:name":"Kampong Batu 35",
+    "wof:parent_id":1108696477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.88333,
+    5.58333,
+    115.88333,
+    5.58333
+],
+  "geometry": {"coordinates":[115.88333,5.58333],"type":"Point"}
+}

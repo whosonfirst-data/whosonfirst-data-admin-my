@@ -1,0 +1,70 @@
+{
+  "id": 1276742591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1292,5.2992,103.1292,5.2992",
+    "geom:latitude":5.2992,
+    "geom:longitude":103.1292,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Pak Bang",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7608707,
+    "gn:latitude":5.2992,
+    "gn:longitude":103.1292,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pak Bang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pak Bang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7608707
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cfb2eb2b6d91df72813e198fb6db8eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1276742591,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1276742591,
+    "wof:lastmodified":1537674326,
+    "wof:name":"Kampung Pak Bang",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1292,
+    5.2992,
+    103.1292,
+    5.2992
+],
+  "geometry": {"coordinates":[103.1292,5.2992],"type":"Point"}
+}

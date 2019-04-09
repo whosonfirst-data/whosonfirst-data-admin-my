@@ -1,0 +1,70 @@
+{
+  "id": 1310277453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.3606,5.1357,116.3606,5.1357",
+    "geom:latitude":5.1357,
+    "geom:longitude":116.3606,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Susulut",
+    "gn:country_code":"MY",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783174,
+    "gn:latitude":5.1357,
+    "gn:longitude":116.3606,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Susulut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Susulut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783174
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2cb88cf0569f328c9da884e6b033445b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1310277453,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1310277453,
+    "wof:lastmodified":1537674379,
+    "wof:name":"Kampung Susulut",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.3606,
+    5.1357,
+    116.3606,
+    5.1357
+],
+  "geometry": {"coordinates":[116.36060000000001,5.1357],"type":"Point"}
+}

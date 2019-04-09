@@ -1,0 +1,67 @@
+{
+  "id": 1209088497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4434,5.7699,116.4434,5.7699",
+    "geom:latitude":5.7699,
+    "geom:longitude":116.4434,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Pukakon",
+    "gn:country_code":"MY",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765330,
+    "gn:latitude":5.7699,
+    "gn:longitude":116.4434,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pukakon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pukakon"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pukakan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765330
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c160b298d42f043a145f275819d0d64d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209088497
+        }
+    ],
+    "wof:id":1209088497,
+    "wof:lastmodified":1537673949,
+    "wof:name":"Kampung Pukakon",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4434,
+    5.7699,
+    116.4434,
+    5.7699
+],
+  "geometry": {"coordinates":[116.4434,5.7699],"type":"Point"}
+}

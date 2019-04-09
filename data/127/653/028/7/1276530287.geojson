@@ -1,0 +1,70 @@
+{
+  "id": 1276530287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.1475,6.9936,117.1475,6.9936",
+    "geom:latitude":6.9936,
+    "geom:longitude":117.1475,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Dalas",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786841,
+    "gn:latitude":6.9936,
+    "gn:longitude":117.1475,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Dalas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Dalas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786841
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1e938ee97d944b2d4cfafa1d877ec0b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1276530287,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276530287,
+    "wof:lastmodified":1537674381,
+    "wof:name":"Kampung Dalas",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.1475,
+    6.9936,
+    117.1475,
+    6.9936
+],
+  "geometry": {"coordinates":[117.14749999999999,6.9936],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260195691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.50611,5.7555,100.50611,5.7555",
+    "geom:latitude":5.7555,
+    "geom:longitude":100.50611,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Sungai Tok Pawang",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6856255,
+    "gn:latitude":5.7555,
+    "gn:longitude":100.50611,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Sungai Tok Pawang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Tok Pawang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6856255
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ea2e2a351c4e1117dfa9c29f174843c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "locality_id":1260195691,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1260195691,
+    "wof:lastmodified":1537674265,
+    "wof:name":"Kampung Sungai Tok Pawang",
+    "wof:parent_id":890490355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.50611,
+    5.7555,
+    100.50611,
+    5.7555
+],
+  "geometry": {"coordinates":[100.50611000000001,5.7555],"type":"Point"}
+}

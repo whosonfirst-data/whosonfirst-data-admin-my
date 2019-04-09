@@ -1,0 +1,73 @@
+{
+  "id": 1243186577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7458,2.1826,102.7458,2.1826",
+    "geom:latitude":2.1826,
+    "geom:longitude":102.7458,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Olak Sepam",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766604,
+    "gn:latitude":2.1826,
+    "gn:longitude":102.7458,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Olak Sepam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Olak Sepam"
+    ],
+    "name:und_x_variant":[
+        "Kampong Olak Sepam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766604
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5d11d9217e28d6d5e0ae1a13445a0c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1243186577,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1243186577,
+    "wof:lastmodified":1537674000,
+    "wof:name":"Kampung Olak Sepam",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7458,
+    2.1826,
+    102.7458,
+    2.1826
+],
+  "geometry": {"coordinates":[102.7458,2.1826],"type":"Point"}
+}

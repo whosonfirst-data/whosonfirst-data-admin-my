@@ -1,0 +1,63 @@
+{
+  "id": 1260003759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.41667,2.13333,102.41667,2.13333",
+    "geom:latitude":2.13333,
+    "geom:longitude":102.41667,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampong Permatang Pasir",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765539,
+    "gn:latitude":2.13333,
+    "gn:longitude":102.41667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Permatang Pasir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765539
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"52ef3b37395a788c800ffee1ed78d32d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1260003759,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260003759,
+    "wof:lastmodified":1536602827,
+    "wof:name":"Kampong Permatang Pasir",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.41667,
+    2.13333,
+    102.41667,
+    2.13333
+],
+  "geometry": {"coordinates":[102.41667,2.13333],"type":"Point"}
+}

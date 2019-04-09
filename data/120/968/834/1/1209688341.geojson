@@ -1,0 +1,64 @@
+{
+  "id": 1209688341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.5318,5.2149,117.5318,5.2149",
+    "geom:latitude":5.2149,
+    "geom:longitude":117.5318,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Pagar",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7468023,
+    "gn:latitude":5.2149,
+    "gn:longitude":117.5318,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468023
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"30f88054033e54674f597fe24186f072",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209688341
+        }
+    ],
+    "wof:id":1209688341,
+    "wof:lastmodified":1537674296,
+    "wof:name":"Kampung Pagar",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.5318,
+    5.2149,
+    117.5318,
+    5.2149
+],
+  "geometry": {"coordinates":[117.5318,5.2149],"type":"Point"}
+}

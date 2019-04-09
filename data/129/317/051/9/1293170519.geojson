@@ -1,0 +1,70 @@
+{
+  "id": 1293170519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.416,6.3978,116.416,6.3978",
+    "geom:latitude":6.3978,
+    "geom:longitude":116.416,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Kota Peladok",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768122,
+    "gn:latitude":6.3978,
+    "gn:longitude":116.416,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Kota Peladok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampong Kota Peladok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768122
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2054b3c83372040040f564b2879751b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1293170519,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293170519,
+    "wof:lastmodified":1537674064,
+    "wof:name":"Kampong Kota Peladok",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.416,
+    6.3978,
+    116.416,
+    6.3978
+],
+  "geometry": {"coordinates":[116.416,6.3978],"type":"Point"}
+}

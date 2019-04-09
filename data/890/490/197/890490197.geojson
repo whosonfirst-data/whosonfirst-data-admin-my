@@ -1,0 +1,89 @@
+{
+  "id": 890490197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.776336,2.970819,101.776336,2.970819",
+    "geom:latitude":2.970819,
+    "geom:longitude":101.776336,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bandar Baru Bangi"
+    ],
+    "name:eng_x_preferred":[
+        "Bandar Baru Bangi"
+    ],
+    "name:fre_x_preferred":[
+        "Bandar Baru Bangi"
+    ],
+    "name:ita_x_preferred":[
+        "Bandar Baru Bangi"
+    ],
+    "name:may_x_preferred":[
+        "Bandar Baru Bangi"
+    ],
+    "name:msa_x_preferred":[
+        "Bandar Baru Bangi"
+    ],
+    "qs:name":"Bandar Baru Bangi",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":98,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":98,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":257,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535633,
+        "gp:id":22722938,
+        "qs:id":1179868,
+        "wd:id":"Q3633920",
+        "wk:page":"Bandar Baru Bangi"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054794,
+    "wof:geomhash":"83d29d92213fefa1a25e2b686cd11198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":890490197,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890490197,
+    "wof:lastmodified":1527734158,
+    "wof:name":"Bandar Baru Bangi",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.776336,
+    2.970819,
+    101.776336,
+    2.970819
+],
+  "geometry": {"coordinates":[101.776336,2.970819],"type":"Point"}
+}

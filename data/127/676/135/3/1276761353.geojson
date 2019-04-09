@@ -1,0 +1,70 @@
+{
+  "id": 1276761353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.372,2.5761,102.372,2.5761",
+    "geom:latitude":2.5761,
+    "geom:longitude":102.372,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Ulu Rokan",
+    "gn:country_code":"MY",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535638,
+    "gn:latitude":2.5761,
+    "gn:longitude":102.372,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Ulu Rokan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ulu Rokan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        1108696529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535638
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a133d04848e1b4671413be014e0de114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696529,
+            "locality_id":1276761353,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1276761353,
+    "wof:lastmodified":1537674461,
+    "wof:name":"Kampung Ulu Rokan",
+    "wof:parent_id":1108696529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.372,
+    2.5761,
+    102.372,
+    2.5761
+],
+  "geometry": {"coordinates":[102.372,2.5761],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209614329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1954,2.7048,102.1954,2.7048",
+    "geom:latitude":2.7048,
+    "geom:longitude":102.1954,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Solok Gamin",
+    "gn:country_code":"MY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797417,
+    "gn:latitude":2.7048,
+    "gn:longitude":102.1954,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Solok Gamin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Solok Gamin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797417
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b7a5cc9604e5a99537fd1aa3f7f656b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209614329
+        }
+    ],
+    "wof:id":1209614329,
+    "wof:lastmodified":1537674418,
+    "wof:name":"Kampung Solok Gamin",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1954,
+    2.7048,
+    102.1954,
+    2.7048
+],
+  "geometry": {"coordinates":[102.19540000000001,2.7048],"type":"Point"}
+}

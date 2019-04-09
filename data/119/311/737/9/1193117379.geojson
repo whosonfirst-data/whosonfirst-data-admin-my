@@ -1,0 +1,66 @@
+{
+  "id": 1193117379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0198,3.6403,101.0198,3.6403",
+    "geom:latitude":3.6403,
+    "geom:longitude":101.0198,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kampung Nelayan Sungai Haji Durani",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7651161,
+    "gn:latitude":3.6403,
+    "gn:longitude":101.0198,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Nelayan Sungai Haji Durani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Nelayan Sungai Haji Durani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7651161
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"913779f6240fc3954bb5165a602c4bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1193117379,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193117379,
+    "wof:lastmodified":1537674352,
+    "wof:name":"Kampung Nelayan Sungai Haji Durani",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0198,
+    3.6403,
+    101.0198,
+    3.6403
+],
+  "geometry": {"coordinates":[101.0198,3.6403],"type":"Point"}
+}

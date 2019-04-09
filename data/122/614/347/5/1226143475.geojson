@@ -1,0 +1,73 @@
+{
+  "id": 1226143475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2436,2.2381,102.2436,2.2381",
+    "geom:latitude":2.2381,
+    "geom:longitude":102.2436,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Bachang",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771441,
+    "gn:latitude":2.2381,
+    "gn:longitude":102.2436,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bachang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bachang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bachang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771441
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"61e3035688e06e380115c82a9fc79063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":1226143475,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1226143475,
+    "wof:lastmodified":1537674202,
+    "wof:name":"Kampung Bachang",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2436,
+    2.2381,
+    102.2436,
+    2.2381
+],
+  "geometry": {"coordinates":[102.2436,2.2381],"type":"Point"}
+}

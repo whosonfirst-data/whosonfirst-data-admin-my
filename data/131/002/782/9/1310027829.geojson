@@ -1,0 +1,70 @@
+{
+  "id": 1310027829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.44925,3.35708,102.44925,3.35708",
+    "geom:latitude":3.35708,
+    "geom:longitude":102.44925,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Seberang Jelam",
+    "gn:country_code":"MY",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764785,
+    "gn:latitude":3.35708,
+    "gn:longitude":102.44925,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Seberang Jelam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Seberang Jelam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764785
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fe9278154d3dcc0d6392ff22c15deec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1310027829,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1310027829,
+    "wof:lastmodified":1537673925,
+    "wof:name":"Kampung Seberang Jelam",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.44925,
+    3.35708,
+    102.44925,
+    3.35708
+],
+  "geometry": {"coordinates":[102.44925000000001,3.35708],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360076713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.95,4.71667,100.95,4.71667",
+    "geom:latitude":4.71667,
+    "geom:longitude":100.95,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Kuala Menora",
+    "gn:country_code":"MY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768011,
+    "gn:latitude":4.71667,
+    "gn:longitude":100.95,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Kuala Menora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768011
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6b51d9ddfe8e40ff0f979583b185e759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":1360076713,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1360076713,
+    "wof:lastmodified":1536957819,
+    "wof:name":"Kampong Kuala Menora",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.95,
+    4.71667,
+    100.95,
+    4.71667
+],
+  "geometry": {"coordinates":[100.95,4.71667],"type":"Point"}
+}

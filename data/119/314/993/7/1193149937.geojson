@@ -1,0 +1,75 @@
+{
+  "id": 1193149937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.33545,6.33209,100.33545,6.33209",
+    "geom:latitude":6.33209,
+    "geom:longitude":100.33545,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Megat Dewa",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766972,
+    "gn:latitude":6.33209,
+    "gn:longitude":100.33545,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Megat Dewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Megat Dewa"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tok Megat Dewa",
+        "Kampong Megat Dewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766972,
+        "wk:page":"Megat_Dewa"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ee79ee89af1abfd1c5d6ec7160f0eef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1193149937,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1193149937,
+    "wof:lastmodified":1537674017,
+    "wof:name":"Megat Dewa",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.33545,
+    6.33209,
+    100.33545,
+    6.33209
+],
+  "geometry": {"coordinates":[100.33544999999999,6.33209],"type":"Point"}
+}

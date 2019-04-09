@@ -1,0 +1,70 @@
+{
+  "id": 1343583871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9405,2.9191,101.9405,2.9191",
+    "geom:latitude":2.9191,
+    "geom:longitude":101.9405,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Sungai Lumut",
+    "gn:country_code":"MY",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796547,
+    "gn:latitude":2.9191,
+    "gn:longitude":101.9405,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sungai Lumut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Lumut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796547
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1edee253108420d2097d28ee4627ae85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1343583871,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1343583871,
+    "wof:lastmodified":1537674406,
+    "wof:name":"Kampung Sungai Lumut",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9405,
+    2.9191,
+    101.9405,
+    2.9191
+],
+  "geometry": {"coordinates":[101.9405,2.9191],"type":"Point"}
+}

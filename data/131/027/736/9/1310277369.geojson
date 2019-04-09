@@ -1,0 +1,74 @@
+{
+  "id": 1310277369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.7158,6.7137,116.7158,6.7137",
+    "geom:latitude":6.7137,
+    "geom:longitude":116.7158,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Goman Matunggong",
+    "gn:country_code":"MY",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769289,
+    "gn:latitude":6.7137,
+    "gn:longitude":116.7158,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Goman Matunggong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Goman Matunggong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Goman Matunggong",
+        "Kampong Goman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769289
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0d427151d2bc46ab3c9e23e41e5869d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1310277369,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1310277369,
+    "wof:lastmodified":1537674112,
+    "wof:name":"Kampung Goman Matunggong",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.7158,
+    6.7137,
+    116.7158,
+    6.7137
+],
+  "geometry": {"coordinates":[116.7158,6.7137],"type":"Point"}
+}

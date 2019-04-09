@@ -1,0 +1,67 @@
+{
+  "id": 1209518575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.33807,6.07238,100.33807,6.07238",
+    "geom:latitude":6.07238,
+    "geom:longitude":100.33807,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Tengah",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762822,
+    "gn:latitude":6.07238,
+    "gn:longitude":100.33807,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tengah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tengah"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tengah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762822
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ceaf9ef3524549c9580c7c3fc649eabd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209518575
+        }
+    ],
+    "wof:id":1209518575,
+    "wof:lastmodified":1537673832,
+    "wof:name":"Kampung Tengah",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.33807,
+    6.07238,
+    100.33807,
+    6.07238
+],
+  "geometry": {"coordinates":[100.33807,6.07238],"type":"Point"}
+}

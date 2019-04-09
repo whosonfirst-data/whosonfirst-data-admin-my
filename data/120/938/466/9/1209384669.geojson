@@ -1,0 +1,64 @@
+{
+  "id": 1209384669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.9366,5.7353,117.9366,5.7353",
+    "geom:latitude":5.7353,
+    "geom:longitude":117.9366,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Upak",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307515,
+    "gn:latitude":5.7353,
+    "gn:longitude":117.9366,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Upak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Upak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307515
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"698b743d2990362b54d3238bdc00986e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209384669
+        }
+    ],
+    "wof:id":1209384669,
+    "wof:lastmodified":1537674452,
+    "wof:name":"Upak",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.9366,
+    5.7353,
+    117.9366,
+    5.7353
+],
+  "geometry": {"coordinates":[117.9366,5.7353],"type":"Point"}
+}

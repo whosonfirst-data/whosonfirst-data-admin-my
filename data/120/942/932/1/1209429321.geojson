@@ -1,0 +1,64 @@
+{
+  "id": 1209429321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8517,2.4939,102.8517,2.4939",
+    "geom:latitude":2.4939,
+    "geom:longitude":102.8517,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bandar Segamat Baru",
+    "gn:country_code":"MY",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535656,
+    "gn:latitude":2.4939,
+    "gn:longitude":102.8517,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Bandar Segamat Baru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bandar Segamat Baru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535656
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fccc6d7beb7ce90bec7f868f96a127a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209429321
+        }
+    ],
+    "wof:id":1209429321,
+    "wof:lastmodified":1537674462,
+    "wof:name":"Bandar Segamat Baru",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8517,
+    2.4939,
+    102.8517,
+    2.4939
+],
+  "geometry": {"coordinates":[102.85169999999999,2.4939],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343938935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.31667,1.7,110.31667,1.7",
+    "geom:latitude":1.7,
+    "geom:longitude":110.31667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Pasir Pandak",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766033,
+    "gn:latitude":1.7,
+    "gn:longitude":110.31667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Pasir Pandak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pasir Pandak",
+        "Kampong Pasir Pandak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766033
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"31ced9e5b2b4102b756f2d028471b580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1343938935,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1343938935,
+    "wof:lastmodified":1537673979,
+    "wof:name":"Kampong Pasir Pandak",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.31667,
+    1.7,
+    110.31667,
+    1.7
+],
+  "geometry": {"coordinates":[110.31667,1.7],"type":"Point"}
+}

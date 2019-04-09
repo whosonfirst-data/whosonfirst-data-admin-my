@@ -1,0 +1,70 @@
+{
+  "id": 1225913819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.7426,6.8103,116.7426,6.8103",
+    "geom:latitude":6.8103,
+    "geom:longitude":116.7426,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Banduk",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785000,
+    "gn:latitude":6.8103,
+    "gn:longitude":116.7426,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Banduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Banduk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785000
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"44340b2f8f4dcaae04783ea18060449d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1225913819,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1225913819,
+    "wof:lastmodified":1537674381,
+    "wof:name":"Kampung Banduk",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.7426,
+    6.8103,
+    116.7426,
+    6.8103
+],
+  "geometry": {"coordinates":[116.7426,6.8103],"type":"Point"}
+}

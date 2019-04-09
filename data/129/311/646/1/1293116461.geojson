@@ -1,0 +1,70 @@
+{
+  "id": 1293116461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.6554,1.6132,103.6554,1.6132",
+    "geom:latitude":1.6132,
+    "geom:longitude":103.6554,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Sri Senai",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536979,
+    "gn:latitude":1.6132,
+    "gn:longitude":103.6554,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Taman Sri Senai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Sri Senai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536979
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7ec020d54d2ecc7084776986065c2189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696433,
+            "locality_id":1293116461,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293116461,
+    "wof:lastmodified":1537674467,
+    "wof:name":"Taman Sri Senai",
+    "wof:parent_id":1108696433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.6554,
+    1.6132,
+    103.6554,
+    1.6132
+],
+  "geometry": {"coordinates":[103.6554,1.6132],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242585263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9762,5.1035,101.9762,5.1035",
+    "geom:latitude":5.1035,
+    "geom:longitude":101.9762,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Tool",
+    "gn:country_code":"MY",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762479,
+    "gn:latitude":5.1035,
+    "gn:longitude":101.9762,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tool",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tool"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tool"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762479
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"67ade3cff2a577f78a2757ea812ed1c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1242585263,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1242585263,
+    "wof:lastmodified":1537673817,
+    "wof:name":"Kampung Tool",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9762,
+    5.1035,
+    101.9762,
+    5.1035
+],
+  "geometry": {"coordinates":[101.97620000000001,5.1035],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 890488833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.72801,6.29107,99.72801,6.29107",
+    "geom:latitude":6.29107,
+    "geom:longitude":99.72801,
+    "gn:country":"MY",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Pantai Cenang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692362,
+        "qs:id":379409
+    },
+    "wof:country":"MY",
+    "wof:created":1469054734,
+    "wof:geomhash":"9141f027d05ef3993b1946b4cb2b6478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "localadmin_id":890488833,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":890488833,
+    "wof:lastmodified":1505343783,
+    "wof:name":"Pantai Cenang",
+    "wof:parent_id":85675137,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.72801,
+    6.29107,
+    99.72801,
+    6.29107
+],
+  "geometry": {"coordinates":[99.72801,6.29107],"type":"Point"}
+}

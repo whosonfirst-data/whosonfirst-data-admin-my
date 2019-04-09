@@ -1,0 +1,72 @@
+{
+  "id": 890490701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7773,1.4942,103.7773,1.4942",
+    "geom:latitude":1.4942,
+    "geom:longitude":103.7773,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Sentosa"
+    ],
+    "qs:name":"Taman Sri Sentosa",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619670,
+        "gp:id":56017108,
+        "qs:id":208199
+    },
+    "wof:country":"MY",
+    "wof:created":1469054821,
+    "wof:geomhash":"4a32800fe9da710ff10d24ae06cd4983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":890490701,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890490701,
+    "wof:lastmodified":1505343789,
+    "wof:name":"Taman Sri Sentosa",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7773,
+    1.4942,
+    103.7773,
+    1.4942
+],
+  "geometry": {"coordinates":[103.7773,1.4942],"type":"Point"}
+}

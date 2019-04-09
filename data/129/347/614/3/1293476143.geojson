@@ -1,0 +1,70 @@
+{
+  "id": 1293476143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.02559,4.64435,103.02559,4.64435",
+    "geom:latitude":4.64435,
+    "geom:longitude":103.02559,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Jongkong",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768708,
+    "gn:latitude":4.64435,
+    "gn:longitude":103.02559,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Jongkong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Jongkong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768708
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0fba7d4cca5ce0212b77e42fbc106866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":1293476143,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1293476143,
+    "wof:lastmodified":1537674092,
+    "wof:name":"Kampung Jongkong",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.02559,
+    4.64435,
+    103.02559,
+    4.64435
+],
+  "geometry": {"coordinates":[103.02558999999999,4.64435],"type":"Point"}
+}

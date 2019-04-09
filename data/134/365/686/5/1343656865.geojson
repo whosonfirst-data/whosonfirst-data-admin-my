@@ -1,0 +1,70 @@
+{
+  "id": 1343656865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4297,3.9257,102.4297,3.9257",
+    "geom:latitude":3.9257,
+    "geom:longitude":102.4297,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Tanah Rom",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7794002,
+    "gn:latitude":3.9257,
+    "gn:longitude":102.4297,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tanah Rom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanah Rom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794002
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a5138aad4f28172b082249f4d79d7657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1343656865,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1343656865,
+    "wof:lastmodified":1537674390,
+    "wof:name":"Kampung Tanah Rom",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4297,
+    3.9257,
+    102.4297,
+    3.9257
+],
+  "geometry": {"coordinates":[102.4297,3.9257],"type":"Point"}
+}

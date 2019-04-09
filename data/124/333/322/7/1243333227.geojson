@@ -1,0 +1,61 @@
+{
+  "id": 1243333227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.60609,4.48748,118.60609,4.48748",
+    "geom:latitude":4.48748,
+    "geom:longitude":118.60609,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Bangau Bangau",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7045188,
+    "gn:latitude":4.48748,
+    "gn:longitude":118.60609,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Bangau Bangau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7045188
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ee71845cbe087e5812522640c679ea83",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243333227,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243333227,
+    "wof:lastmodified":1536968643,
+    "wof:name":"Kampung Bangau Bangau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.60609,
+    4.48748,
+    118.60609,
+    4.48748
+],
+  "geometry": {"coordinates":[118.60608999999999,4.48748],"type":"Point"}
+}

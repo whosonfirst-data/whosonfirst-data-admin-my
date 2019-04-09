@@ -1,0 +1,70 @@
+{
+  "id": 1226456629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.884,1.4913,103.884,1.4913",
+    "geom:latitude":1.4913,
+    "geom:longitude":103.884,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Sri Alam",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7619757,
+    "gn:latitude":1.4913,
+    "gn:longitude":103.884,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Sri Alam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Sri Alam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619757
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e6f4829aac341c3972535b944c1f0d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1226456629,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1226456629,
+    "wof:lastmodified":1537674334,
+    "wof:name":"Taman Sri Alam",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.884,
+    1.4913,
+    103.884,
+    1.4913
+],
+  "geometry": {"coordinates":[103.884,1.4913],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243071771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.91667,1.93333,103.91667,1.93333",
+    "geom:latitude":1.93333,
+    "geom:longitude":103.91667,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Lubok Pusing",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1756778,
+    "gn:latitude":1.93333,
+    "gn:longitude":103.91667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Lubok Pusing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1756778
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"927b853fabb0b5ff3b5779a5df51ab27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":1243071771,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1243071771,
+    "wof:lastmodified":1536847526,
+    "wof:name":"Lubok Pusing",
+    "wof:parent_id":890491003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.91667,
+    1.93333,
+    103.91667,
+    1.93333
+],
+  "geometry": {"coordinates":[103.91667,1.93333],"type":"Point"}
+}

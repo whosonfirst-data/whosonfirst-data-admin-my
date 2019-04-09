@@ -1,0 +1,73 @@
+{
+  "id": 1310682277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.35,1.76667,113.35,1.76667",
+    "geom:latitude":1.76667,
+    "geom:longitude":113.35,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Sugit",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747523,
+    "gn:latitude":1.76667,
+    "gn:longitude":113.35,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rumah Sugit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sugit",
+        "Rumah Tuau",
+        "Rumah Sugit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747523
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"eba719154553766eb382b1cec8f7a5bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488879,
+            "locality_id":1310682277,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1310682277,
+    "wof:lastmodified":1537673770,
+    "wof:name":"Rumah Sugit",
+    "wof:parent_id":890488879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.35,
+    1.76667,
+    113.35,
+    1.76667
+],
+  "geometry": {"coordinates":[113.34999999999999,1.76667],"type":"Point"}
+}

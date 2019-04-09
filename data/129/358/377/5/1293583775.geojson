@@ -1,0 +1,73 @@
+{
+  "id": 1293583775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.49225,5.23611,100.49225,5.23611",
+    "geom:latitude":5.23611,
+    "geom:longitude":100.49225,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Gurun",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769091,
+    "gn:latitude":5.23611,
+    "gn:longitude":100.49225,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Gurun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gurun"
+    ],
+    "name:und_x_variant":[
+        "Kampong Gurun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769091
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aff2c2ba9c7d9b125f5c31c51d80346e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1293583775,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1293583775,
+    "wof:lastmodified":1537674106,
+    "wof:name":"Kampung Gurun",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49225,
+    5.23611,
+    100.49225,
+    5.23611
+],
+  "geometry": {"coordinates":[100.49225,5.23611],"type":"Point"}
+}

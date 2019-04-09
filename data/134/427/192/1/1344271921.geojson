@@ -1,0 +1,61 @@
+{
+  "id": 1344271921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9,3.66667,100.9,3.66667",
+    "geom:latitude":3.66667,
+    "geom:longitude":100.9,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bagan Sungai Besar",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1781966,
+    "gn:latitude":3.66667,
+    "gn:longitude":100.9,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Bagan Sungai Besar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1781966
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"951d027f61730718933d7ea4dc571455",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344271921,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344271921,
+    "wof:lastmodified":1537064640,
+    "wof:name":"Bagan Sungai Besar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9,
+    3.66667,
+    100.9,
+    3.66667
+],
+  "geometry": {"coordinates":[100.90000000000001,3.66667],"type":"Point"}
+}

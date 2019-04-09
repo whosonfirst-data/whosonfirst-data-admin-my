@@ -1,0 +1,70 @@
+{
+  "id": 1360288471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.60233,6.06183,100.60233,6.06183",
+    "geom:latitude":6.06183,
+    "geom:longitude":100.60233,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Namdan",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6853453,
+    "gn:latitude":6.06183,
+    "gn:longitude":100.60233,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Namdan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Namdan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6853453
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0d598437322ec86ad0e745eb1e6df76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489109,
+            "locality_id":1360288471,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1360288471,
+    "wof:lastmodified":1537674259,
+    "wof:name":"Kampung Namdan",
+    "wof:parent_id":890489109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.60233,
+    6.06183,
+    100.60233,
+    6.06183
+],
+  "geometry": {"coordinates":[100.60232999999999,6.06183],"type":"Point"}
+}

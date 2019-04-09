@@ -1,0 +1,84 @@
+{
+  "id": 890489617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.128211,5.346199,103.128211,5.346199",
+    "geom:latitude":5.346199,
+    "geom:longitude":103.128211,
+    "gn:country":"MY",
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Seberang Takir"
+    ],
+    "name:eng_x_preferred":[
+        "Seberang Takir"
+    ],
+    "name:epo_x_preferred":[
+        "Seberang Takir"
+    ],
+    "name:ind_x_preferred":[
+        "Seberang Takir"
+    ],
+    "name:may_x_preferred":[
+        "Seberang Takir"
+    ],
+    "qs:name":"Seberang Takir",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Terengganu",
+    "qs:photos":72,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":72,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1155077,
+        "qs:id":1064602,
+        "wd:id":"Q4204575",
+        "wk:page":"Seberang Takir"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054763,
+    "wof:geomhash":"afb6535ccb101c86f6d50d255ac831bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "locality_id":890489617,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":890489617,
+    "wof:lastmodified":1527792861,
+    "wof:name":"Seberang Takir",
+    "wof:parent_id":85675169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.128211,
+    5.346199,
+    103.128211,
+    5.346199
+],
+  "geometry": {"coordinates":[103.12821099999999,5.346199],"type":"Point"}
+}

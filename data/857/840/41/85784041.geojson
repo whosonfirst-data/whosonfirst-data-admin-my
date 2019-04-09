@@ -1,0 +1,107 @@
+{
+  "id": 85784041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3993883.997384,
+    "geom:bbox":"101.75909,3.109381,101.75909,3.109381",
+    "geom:latitude":3.109381,
+    "geom:longitude":101.75909,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.109381,
+    "lbl:longitude":101.75909,
+    "mps:latitude":3.106803,
+    "mps:longitude":101.761191,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:und_x_preferred":[
+        "Taman Bukit Permai"
+    ],
+    "name:unk_x_variant":[
+        "Taman Bukit Permai"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"12",
+    "qs:gn_name":"Taman Bukit Permai",
+    "qs:local_max":1600,
+    "qs:local_sum":2828,
+    "qs:localhoods":16,
+    "qs:name":"Taman Bukit Permai",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:name_adm2":"Hulu Langat",
+    "qs:name_lau":"Ampang",
+    "qs:name_local":"Pekan Ampang",
+    "qs:photo_max":11,
+    "qs:photo_sum":17,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346306,
+    "qs:woe_adm2":56013645,
+    "qs:woe_lau":56013982,
+    "qs:woe_local":1140655,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023407,
+        890490945,
+        85675181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56015938,
+        "qs:id":969669,
+        "qs_pg:id":969669
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"710ade6b14db828dc70b64b1b01208f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85784041,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85784041,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860572,
+    "wof:name":"Taman Bukit Permai",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.75909,
+    3.109381,
+    101.75909,
+    3.109381
+],
+  "geometry": {"coordinates":[101.75909,3.109381],"type":"Point"}
+}

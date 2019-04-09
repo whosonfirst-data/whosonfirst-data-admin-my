@@ -1,0 +1,70 @@
+{
+  "id": 1344256285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1189,2.4924,102.1189,2.4924",
+    "geom:latitude":2.4924,
+    "geom:longitude":102.1189,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Tiga Nenek",
+    "gn:country_code":"MY",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797346,
+    "gn:latitude":2.4924,
+    "gn:longitude":102.1189,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tiga Nenek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tiga Nenek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797346
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"95f24ca833548f113a93c0a7c8b628a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1344256285,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1344256285,
+    "wof:lastmodified":1537674417,
+    "wof:name":"Kampung Tiga Nenek",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1189,
+    2.4924,
+    102.1189,
+    2.4924
+],
+  "geometry": {"coordinates":[102.1189,2.4924],"type":"Point"}
+}

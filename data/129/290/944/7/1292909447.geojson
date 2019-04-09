@@ -1,0 +1,74 @@
+{
+  "id": 1292909447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1303,2.3872,102.1303,2.3872",
+    "geom:latitude":2.3872,
+    "geom:longitude":102.1303,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Ayer Punggai",
+    "gn:country_code":"MY",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771473,
+    "gn:latitude":2.3872,
+    "gn:longitude":102.1303,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ayer Punggai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ayer Punggai"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ayer Punggai",
+        "Kampong Ayer Ponggai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771473
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4ab12a15dc95b396d96c1444efff73fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1292909447,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1292909447,
+    "wof:lastmodified":1537674204,
+    "wof:name":"Kampung Ayer Punggai",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1303,
+    2.3872,
+    102.1303,
+    2.3872
+],
+  "geometry": {"coordinates":[102.13030000000001,2.3872],"type":"Point"}
+}

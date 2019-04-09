@@ -1,0 +1,71 @@
+{
+  "id": 1226044381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.74731,5.75436,101.74731,5.75436",
+    "geom:latitude":5.75436,
+    "geom:longitude":101.74731,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Tadoh",
+    "gn:country_code":"MY",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763675,
+    "gn:latitude":5.75436,
+    "gn:longitude":101.74731,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Tadoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Tadok",
+        "Kampong Tadoh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763675
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d0ee0e450d31863fe74edf49b2bc2d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490101,
+            "locality_id":1226044381,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1226044381,
+    "wof:lastmodified":1537673872,
+    "wof:name":"Kampong Tadoh",
+    "wof:parent_id":890490101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.74731,
+    5.75436,
+    101.74731,
+    5.75436
+],
+  "geometry": {"coordinates":[101.74731,5.75436],"type":"Point"}
+}

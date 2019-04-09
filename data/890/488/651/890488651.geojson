@@ -1,0 +1,95 @@
+{
+  "id": 890488651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.246,2.2487,102.246,2.2487",
+    "geom:latitude":2.2487,
+    "geom:longitude":102.246,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":25028,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5cc7\u682a\u5b89\u5357"
+    ],
+    "name:dut_x_preferred":[
+        "Batu Berendam"
+    ],
+    "name:eng_x_preferred":[
+        "Batu Berendam"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30c8\u30a5\u30fb\u30d6\u30ec\u30f3\u30c0\u30e0"
+    ],
+    "name:may_x_preferred":[
+        "Batu Berendam"
+    ],
+    "name:msa_x_preferred":[
+        "Batu Berendam"
+    ],
+    "name:spa_x_preferred":[
+        "Batu Berendam"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bbf\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd"
+    ],
+    "name:unk_x_variant":[
+        "Batu Berendam"
+    ],
+    "qs:name":"Berendam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":131,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1780890,
+        "qs:id":277478,
+        "wd:id":"Q2621054",
+        "wk:page":"Batu Berendam"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054727,
+    "wof:geomhash":"8433dcfe95f44790d508ae70546d6e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":890488651,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":890488651,
+    "wof:lastmodified":1527787076,
+    "wof:name":"Berendam",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:population":25028,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.246,
+    2.2487,
+    102.246,
+    2.2487
+],
+  "geometry": {"coordinates":[102.246,2.2487],"type":"Point"}
+}

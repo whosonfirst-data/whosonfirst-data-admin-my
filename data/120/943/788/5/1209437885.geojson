@@ -1,0 +1,64 @@
+{
+  "id": 1209437885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1909,2.4971,102.1909,2.4971",
+    "geom:latitude":2.4971,
+    "geom:longitude":102.1909,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Ulu Kendong",
+    "gn:country_code":"MY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797503,
+    "gn:latitude":2.4971,
+    "gn:longitude":102.1909,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Ulu Kendong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ulu Kendong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797503
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a23b79aa19f5c1fe5670cd793571a387",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209437885
+        }
+    ],
+    "wof:id":1209437885,
+    "wof:lastmodified":1537674421,
+    "wof:name":"Kampung Ulu Kendong",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1909,
+    2.4971,
+    102.1909,
+    2.4971
+],
+  "geometry": {"coordinates":[102.1909,2.4971],"type":"Point"}
+}

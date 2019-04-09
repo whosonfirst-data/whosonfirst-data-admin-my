@@ -1,0 +1,110 @@
+{
+  "id": 85771723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000115,
+    "geom:area_square_m":1415727.172149,
+    "geom:bbox":"101.651706912,3.17616743501,101.667480469,3.19117602787",
+    "geom:latitude":3.183725,
+    "geom:longitude":101.65984,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.182659,
+    "lbl:longitude":101.661238,
+    "mps:latitude":3.183683,
+    "mps:longitude":101.659303,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Kampong Segambut"
+    ],
+    "name:und_x_variant":[
+        "Taman Segambut Sppk"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Segambut"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1735161,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Kampong Segambut",
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Kampong Segambut",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Batu",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":52,
+    "qs:photo_sum":64,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56014045,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1148301,
+        "qs:id":1111681,
+        "qs_pg:id":1111681
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"665d9f29cb33f834da63c72f8d66c455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85771723,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85771723,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497316212,
+    "wof:name":"Kampong Segambut",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.65170691229417,
+    3.1761674350111,
+    101.66748046900011,
+    3.19117602787313
+],
+  "geometry": {"coordinates":[[[101.66473388700007,3.17890979549992],[101.66473388700007,3.1761674350111],[101.6619873050002,3.17616743513757],[101.6619873050002,3.17890979443837],[101.65924072300004,3.17890979443837],[101.65650259071646,3.18165214574512],[101.65649414100017,3.18165637712011],[101.65374755900001,3.18440719557925],[101.65170691229417,3.18747288702502],[101.65170814094478,3.18747300803649],[101.65229931787707,3.18857902228521],[101.65354294618817,3.19009438776693],[101.65486092847095,3.19117602787313],[101.65788228734834,3.18987915264769],[101.66198730550713,3.18576778183581],[101.6633584790178,3.18439448807896],[101.66748046900011,3.18439448777467],[101.66748046900011,3.18028308448787],[101.66748046900011,3.17890979549992],[101.66473388700007,3.17890979549992]]],"type":"Polygon"}
+}

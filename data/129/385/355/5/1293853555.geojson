@@ -1,0 +1,74 @@
+{
+  "id": 1293853555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5472,6.5789,116.5472,6.5789",
+    "geom:latitude":6.5789,
+    "geom:longitude":116.5472,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Sarang",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736502,
+    "gn:latitude":6.5789,
+    "gn:longitude":116.5472,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sarang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sarang"
+    ],
+    "name:und_x_variant":[
+        "Sarang",
+        "Kampong Sarang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736502
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5da060f585e040e2c01d6ff8836a40d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1293853555,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293853555,
+    "wof:lastmodified":1537673740,
+    "wof:name":"Kampung Sarang",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5472,
+    6.5789,
+    116.5472,
+    6.5789
+],
+  "geometry": {"coordinates":[116.5472,6.5789],"type":"Point"}
+}

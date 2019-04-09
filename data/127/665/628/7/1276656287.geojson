@@ -1,0 +1,70 @@
+{
+  "id": 1276656287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3726,2.8071,102.3726,2.8071",
+    "geom:latitude":2.8071,
+    "geom:longitude":102.3726,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Taman Tunku Puan Chik",
+    "gn:country_code":"MY",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797065,
+    "gn:latitude":2.8071,
+    "gn:longitude":102.3726,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Tunku Puan Chik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Tunku Puan Chik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797065
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1cfef37ef791062096798ff9f924776e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1276656287,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1276656287,
+    "wof:lastmodified":1537674414,
+    "wof:name":"Taman Tunku Puan Chik",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3726,
+    2.8071,
+    102.3726,
+    2.8071
+],
+  "geometry": {"coordinates":[102.37260000000001,2.8071],"type":"Point"}
+}

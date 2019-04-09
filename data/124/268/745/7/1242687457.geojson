@@ -1,0 +1,70 @@
+{
+  "id": 1242687457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8198,1.511,103.8198,1.511",
+    "geom:latitude":1.511,
+    "geom:longitude":103.8198,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Permas Jaya",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7619709,
+    "gn:latitude":1.511,
+    "gn:longitude":103.8198,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Permas Jaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Permas Jaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619709
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f9018acb6b4ff0ef53b8ddb28c85bf23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1242687457,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1242687457,
+    "wof:lastmodified":1537674334,
+    "wof:name":"Taman Permas Jaya",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8198,
+    1.511,
+    103.8198,
+    1.511
+],
+  "geometry": {"coordinates":[103.8198,1.511],"type":"Point"}
+}

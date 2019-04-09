@@ -1,0 +1,70 @@
+{
+  "id": 1327433213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.26453,5.55132,102.26453,5.55132",
+    "geom:latitude":5.55132,
+    "geom:longitude":102.26453,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bechah Salak",
+    "gn:country_code":"MY",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068270,
+    "gn:latitude":5.55132,
+    "gn:longitude":102.26453,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bechah Salak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bechah Salak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068270
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cbd11f97ee884a06afdd2a3f2769e2d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489265,
+            "locality_id":1327433213,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1327433213,
+    "wof:lastmodified":1537674280,
+    "wof:name":"Bechah Salak",
+    "wof:parent_id":890489265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.26453,
+    5.55132,
+    102.26453,
+    5.55132
+],
+  "geometry": {"coordinates":[102.26452999999999,5.55132],"type":"Point"}
+}

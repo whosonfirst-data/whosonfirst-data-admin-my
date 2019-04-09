@@ -1,0 +1,67 @@
+{
+  "id": 1293771763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.71667,3.16667,113.71667,3.16667",
+    "geom:latitude":3.16667,
+    "geom:longitude":113.71667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Gong",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747942,
+    "gn:latitude":3.16667,
+    "gn:longitude":113.71667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Gong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747942
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"351a5e6e14ee75ba3280992d76192879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488209,
+            "locality_id":1293771763,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1293771763,
+    "wof:lastmodified":1536873366,
+    "wof:name":"Rumah Gong",
+    "wof:parent_id":890488209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.71667,
+    3.16667,
+    113.71667,
+    3.16667
+],
+  "geometry": {"coordinates":[113.71666999999999,3.16667],"type":"Point"}
+}

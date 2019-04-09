@@ -1,0 +1,67 @@
+{
+  "id": 1259600735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.0963,2.3038,104.0963,2.3038",
+    "geom:latitude":2.3038,
+    "geom:longitude":104.0963,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Sebirah Kechil",
+    "gn:country_code":"MY",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764764,
+    "gn:latitude":2.3038,
+    "gn:longitude":104.0963,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sebirah Kechil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sebirah Kechil"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sebirah Kechil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764764
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f7bb7c96fb2e594779058db5922ddc5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259600735,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259600735,
+    "wof:lastmodified":1537673924,
+    "wof:name":"Kampung Sebirah Kechil",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.0963,
+    2.3038,
+    104.0963,
+    2.3038
+],
+  "geometry": {"coordinates":[104.0963,2.3038],"type":"Point"}
+}

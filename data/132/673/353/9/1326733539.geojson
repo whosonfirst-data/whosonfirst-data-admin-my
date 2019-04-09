@@ -1,0 +1,74 @@
+{
+  "id": 1326733539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35822,6.38457,100.35822,6.38457",
+    "geom:latitude":6.38457,
+    "geom:longitude":100.35822,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Wang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762245,
+    "gn:latitude":6.38457,
+    "gn:longitude":100.35822,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Wang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Wang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Wang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762245
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c81863a8726c6ce02ccb7f9874e4e51f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1326733539,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1326733539,
+    "wof:lastmodified":1537673806,
+    "wof:name":"Kampung Wang",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35822,
+    6.38457,
+    100.35822,
+    6.38457
+],
+  "geometry": {"coordinates":[100.35822,6.38457],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360003705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9266,2.0357,102.9266,2.0357",
+    "geom:latitude":2.0357,
+    "geom:longitude":102.9266,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Parit Sedayu",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856983,
+    "gn:latitude":2.0357,
+    "gn:longitude":102.9266,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Parit Sedayu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Parit Sedayu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856983
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"63a58c061c5c27c000226ae427296136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1360003705,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1360003705,
+    "wof:lastmodified":1537674440,
+    "wof:name":"Parit Sedayu",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9266,
+    2.0357,
+    102.9266,
+    2.0357
+],
+  "geometry": {"coordinates":[102.92659999999999,2.0357],"type":"Point"}
+}

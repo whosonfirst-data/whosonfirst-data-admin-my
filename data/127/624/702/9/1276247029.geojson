@@ -1,0 +1,67 @@
+{
+  "id": 1276247029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.03333,4.61667,103.03333,4.61667",
+    "geom:latitude":4.61667,
+    "geom:longitude":103.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampung Perlis",
+    "gn:country_code":"MY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734281,
+    "gn:latitude":4.61667,
+    "gn:longitude":103.03333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampung Perlis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734281
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4328ba21f70c4eeb43e2d6449d51e9b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":1276247029,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1276247029,
+    "wof:lastmodified":1536894024,
+    "wof:name":"Kampung Perlis",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.03333,
+    4.61667,
+    103.03333,
+    4.61667
+],
+  "geometry": {"coordinates":[103.03333000000001,4.61667],"type":"Point"}
+}

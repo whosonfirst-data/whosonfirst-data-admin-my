@@ -1,0 +1,74 @@
+{
+  "id": 1242686767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.40285,6.42712,100.40285,6.42712",
+    "geom:latitude":6.42712,
+    "geom:longitude":100.40285,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Lembah Palas",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766322,
+    "gn:latitude":6.42712,
+    "gn:longitude":100.40285,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Lembah Palas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lembah Palas"
+    ],
+    "name:und_x_variant":[
+        "Kampong Palas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766322
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c8799dad19afcaa1767573cae1454685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1242686767,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1242686767,
+    "wof:lastmodified":1537673991,
+    "wof:name":"Kampung Lembah Palas",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.40285,
+    6.42712,
+    100.40285,
+    6.42712
+],
+  "geometry": {"coordinates":[100.40285,6.42712],"type":"Point"}
+}

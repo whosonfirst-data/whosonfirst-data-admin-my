@@ -1,0 +1,67 @@
+{
+  "id": 1310312577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0,6.01667,102.0,6.01667",
+    "geom:latitude":6.01667,
+    "geom:longitude":102.0,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Taman",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763617,
+    "gn:latitude":6.01667,
+    "gn:longitude":102.0,
+    "gn:modification_date":"2016-02-29",
+    "gn:name":"Kampong Taman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763617
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bb74d07579ceda42f310f3aa77d9fd85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1310312577,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1310312577,
+    "wof:lastmodified":1536697874,
+    "wof:name":"Kampong Taman",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0,
+    6.01667,
+    102.0,
+    6.01667
+],
+  "geometry": {"coordinates":[102.0,6.01667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1292916561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.45571,6.29654,100.45571,6.29654",
+    "geom:latitude":6.29654,
+    "geom:longitude":100.45571,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Lubok Ipoh",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767313,
+    "gn:latitude":6.29654,
+    "gn:longitude":100.45571,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kampung Lubok Ipoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lubok Ipoh"
+    ],
+    "name:und_x_variant":[
+        "Kampong Lubok Ipoh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767313
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7ffd67b4a53e77f69f0317fccddc3153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1292916561,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1292916561,
+    "wof:lastmodified":1537674032,
+    "wof:name":"Kampung Lubok Ipoh",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.45571,
+    6.29654,
+    100.45571,
+    6.29654
+],
+  "geometry": {"coordinates":[100.45571,6.29654],"type":"Point"}
+}

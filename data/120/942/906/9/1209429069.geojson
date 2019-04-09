@@ -1,0 +1,64 @@
+{
+  "id": 1209429069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7833,2.2103,102.7833,2.2103",
+    "geom:latitude":2.2103,
+    "geom:longitude":102.7833,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Renchong Ulu",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798414,
+    "gn:latitude":2.2103,
+    "gn:longitude":102.7833,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Renchong Ulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Renchong Ulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798414
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3b0d3c00ea821d31b2e22f36f4d55314",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209429069
+        }
+    ],
+    "wof:id":1209429069,
+    "wof:lastmodified":1537674431,
+    "wof:name":"Kampung Renchong Ulu",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7833,
+    2.2103,
+    102.7833,
+    2.2103
+],
+  "geometry": {"coordinates":[102.7833,2.2103],"type":"Point"}
+}

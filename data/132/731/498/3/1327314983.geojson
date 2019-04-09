@@ -1,0 +1,67 @@
+{
+  "id": 1327314983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.23333,1.55,110.23333,1.55",
+    "geom:latitude":1.55,
+    "geom:longitude":110.23333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Sungai Tengah",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763763,
+    "gn:latitude":1.55,
+    "gn:longitude":110.23333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Sungai Tengah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763763
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"897ecd6bff55baf41edc58e98e85a3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1327314983,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1327314983,
+    "wof:lastmodified":1536849331,
+    "wof:name":"Kampong Sungai Tengah",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.23333,
+    1.55,
+    110.23333,
+    1.55
+],
+  "geometry": {"coordinates":[110.23333,1.55],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193000547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.5938,5.3568,115.5938,5.3568",
+    "geom:latitude":5.3568,
+    "geom:longitude":115.5938,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Badadan",
+    "gn:country_code":"MY",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580687,
+    "gn:latitude":5.3568,
+    "gn:longitude":115.5938,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Badadan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Badadan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580687
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e38a43f4fc71ee11b0fce19082e57414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696385,
+            "locality_id":1193000547,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1193000547,
+    "wof:lastmodified":1537674319,
+    "wof:name":"Kampung Badadan",
+    "wof:parent_id":1108696385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.5938,
+    5.3568,
+    115.5938,
+    5.3568
+],
+  "geometry": {"coordinates":[115.5938,5.3568],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343879675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1178,4.7182,101.1178,4.7182",
+    "geom:latitude":4.7182,
+    "geom:longitude":101.1178,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taman Hartawan",
+    "gn:country_code":"MY",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473334,
+    "gn:latitude":4.7182,
+    "gn:longitude":101.1178,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Hartawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Hartawan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473334
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9b06e56e152e24466a10c7dac3b5696c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1343879675,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1343879675,
+    "wof:lastmodified":1537674304,
+    "wof:name":"Taman Hartawan",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1178,
+    4.7182,
+    101.1178,
+    4.7182
+],
+  "geometry": {"coordinates":[101.1178,4.7182],"type":"Point"}
+}

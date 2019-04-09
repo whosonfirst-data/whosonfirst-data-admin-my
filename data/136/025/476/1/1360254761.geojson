@@ -1,0 +1,75 @@
+{
+  "id": 1360254761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.8135,5.3834,116.8135,5.3834",
+    "geom:latitude":5.3834,
+    "geom:longitude":116.8135,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Titimang",
+    "gn:country_code":"MY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733832,
+    "gn:latitude":5.3834,
+    "gn:longitude":116.8135,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Titimang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Titimang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Titimang",
+        "Kampong Titamang",
+        "Titimang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733832
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a7bb8b4098217a2fe7f335939548d3ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696539,
+            "locality_id":1360254761,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1360254761,
+    "wof:lastmodified":1537673691,
+    "wof:name":"Kampung Titimang",
+    "wof:parent_id":1108696539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.8135,
+    5.3834,
+    116.8135,
+    5.3834
+],
+  "geometry": {"coordinates":[116.8135,5.3834],"type":"Point"}
+}

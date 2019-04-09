@@ -1,0 +1,72 @@
+{
+  "id": 1293478219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.01667,1.43333,110.01667,1.43333",
+    "geom:latitude":1.43333,
+    "geom:longitude":110.01667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Sekebang Opar",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764719,
+    "gn:latitude":1.43333,
+    "gn:longitude":110.01667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Sekebang Opar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Skebang Opar",
+        "Kampong Sekebang Opar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764719
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cf63afc0e9dba390e17b7ca59fac0a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696381,
+            "locality_id":1293478219,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1293478219,
+    "wof:lastmodified":1537673922,
+    "wof:name":"Kampong Sekebang Opar",
+    "wof:parent_id":1108696381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.01667,
+    1.43333,
+    110.01667,
+    1.43333
+],
+  "geometry": {"coordinates":[110.01667,1.43333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344238059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.68333,3.18333,113.68333,3.18333",
+    "geom:latitude":3.18333,
+    "geom:longitude":113.68333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rumah Sang",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1737283,
+    "gn:latitude":3.18333,
+    "gn:longitude":113.68333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1737283
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4d1dfa13d584bb5351f31beb8cfaae2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488209,
+            "locality_id":1344238059,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1344238059,
+    "wof:lastmodified":1536617129,
+    "wof:name":"Rumah Sang",
+    "wof:parent_id":890488209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.68333,
+    3.18333,
+    113.68333,
+    3.18333
+],
+  "geometry": {"coordinates":[113.68333,3.18333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259561595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.97314,1.66023,109.97314,1.66023",
+    "geom:latitude":1.66023,
+    "geom:longitude":109.97314,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Kuali",
+    "gn:country_code":"MY",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767931,
+    "gn:latitude":1.66023,
+    "gn:longitude":109.97314,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampong Kuali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767931
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d9f2076b1ea4483bf8beb3967c00178c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696453,
+            "locality_id":1259561595,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1259561595,
+    "wof:lastmodified":1536746155,
+    "wof:name":"Kampong Kuali",
+    "wof:parent_id":1108696453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.97314,
+    1.66023,
+    109.97314,
+    1.66023
+],
+  "geometry": {"coordinates":[109.97314,1.66023],"type":"Point"}
+}

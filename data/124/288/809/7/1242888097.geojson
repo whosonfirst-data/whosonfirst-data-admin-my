@@ -1,0 +1,70 @@
+{
+  "id": 1242888097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6421,2.1421,102.6421,2.1421",
+    "geom:latitude":2.1421,
+    "geom:longitude":102.6421,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Tanjung Ruak",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856217,
+    "gn:latitude":2.1421,
+    "gn:longitude":102.6421,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tanjung Ruak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Ruak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856217
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c094a4346b677ae74c58d66a2c203fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1242888097,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1242888097,
+    "wof:lastmodified":1537674436,
+    "wof:name":"Kampung Tanjung Ruak",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6421,
+    2.1421,
+    102.6421,
+    2.1421
+],
+  "geometry": {"coordinates":[102.6421,2.1421],"type":"Point"}
+}

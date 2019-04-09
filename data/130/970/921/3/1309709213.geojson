@@ -1,0 +1,73 @@
+{
+  "id": 1309709213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.6521,4.531,100.6521,4.531",
+    "geom:latitude":4.531,
+    "geom:longitude":100.6521,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Che Rahmat",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769807,
+    "gn:latitude":4.531,
+    "gn:longitude":100.6521,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Che Rahmat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Che Rahmat"
+    ],
+    "name:und_x_variant":[
+        "Kampong Che Rahmat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769807
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"edba08dffee913d7a1cb841dcce7fbd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490803,
+            "locality_id":1309709213,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1309709213,
+    "wof:lastmodified":1537674135,
+    "wof:name":"Kampung Che Rahmat",
+    "wof:parent_id":890490803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.6521,
+    4.531,
+    100.6521,
+    4.531
+],
+  "geometry": {"coordinates":[100.6521,4.531],"type":"Point"}
+}

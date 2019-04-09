@@ -1,0 +1,114 @@
+{
+  "id": 85771567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12740660.35952,
+    "geom:bbox":"103.428324,4.78154,103.428324,4.78154",
+    "geom:latitude":4.78154,
+    "geom:longitude":103.428324,
+    "gn:latitude":4.7794,
+    "gn:longitude":103.4191,
+    "iso:country":"MY",
+    "lbl:latitude":4.78154,
+    "lbl:longitude":103.428324,
+    "mps:latitude":4.783035,
+    "mps:longitude":103.426378,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kampong Bijangga"
+    ],
+    "name:msa_x_preferred":[
+        "Kampung Bijangga"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Bijangga"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1734308,
+    "qs:gn_nam_loc":"Dungun, Kuala Dungun, Dungun, Terengganu, MY",
+    "qs:gn_namadm1":"13",
+    "qs:gn_name":"Kampung Bijangga",
+    "qs:local_max":178,
+    "qs:local_sum":178,
+    "qs:localhoods":1,
+    "qs:name":"Kampong Bijangga",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Terengganu",
+    "qs:name_adm2":"Dungun",
+    "qs:name_lau":"Kuala Dungun",
+    "qs:name_local":"Dungun",
+    "qs:photo_max":105,
+    "qs:photo_sum":178,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346307,
+    "qs:woe_adm2":56013559,
+    "qs:woe_lau":56014386,
+    "qs:woe_local":1154650,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102022939,
+        890490253,
+        85675169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770506,
+        "gp:id":1142519,
+        "qs:id":1167901,
+        "qs_pg:id":1167901
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e7c903ce44daf76d1f6cdae38177b734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":102022939,
+            "neighbourhood_id":85771567,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":85771567,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859434,
+    "wof:name":"Kampong Bijangga",
+    "wof:parent_id":102022939,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.428324,
+    4.78154,
+    103.428324,
+    4.78154
+],
+  "geometry": {"coordinates":[103.428324,4.78154],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1260265161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.58189,4.38799,118.58189,4.38799",
+    "geom:latitude":4.38799,
+    "geom:longitude":118.58189,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Kuala Bibang",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7045439,
+    "gn:latitude":4.38799,
+    "gn:longitude":118.58189,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Kuala Bibang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7045439
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"822b78eed77224f72966681d927c3623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1260265161,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260265161,
+    "wof:lastmodified":1536736549,
+    "wof:name":"Kampung Kuala Bibang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.58189,
+    4.38799,
+    118.58189,
+    4.38799
+],
+  "geometry": {"coordinates":[118.58189,4.38799],"type":"Point"}
+}

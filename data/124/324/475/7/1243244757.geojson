@@ -1,0 +1,67 @@
+{
+  "id": 1243244757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.95,2.25,111.95,2.25",
+    "geom:latitude":2.25,
+    "geom:longitude":111.95,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Ajoh",
+    "gn:country_code":"MY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748206,
+    "gn:latitude":2.25,
+    "gn:longitude":111.95,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Ajoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748206
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"534ad4174ae224e92c1ea329bf31d205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488423,
+            "locality_id":1243244757,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1243244757,
+    "wof:lastmodified":1537093030,
+    "wof:name":"Rumah Ajoh",
+    "wof:parent_id":890488423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.95,
+    2.25,
+    111.95,
+    2.25
+],
+  "geometry": {"coordinates":[111.95,2.25],"type":"Point"}
+}

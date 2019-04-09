@@ -1,0 +1,61 @@
+{
+  "id": 1293401725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.25,6.21667,102.25,6.21667",
+    "geom:latitude":6.21667,
+    "geom:longitude":102.25,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Pantai Mas",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766185,
+    "gn:latitude":6.21667,
+    "gn:longitude":102.25,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Pantai Mas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766185
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4a2cdaf9e5a1435e66864a8c5dcfde0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293401725,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293401725,
+    "wof:lastmodified":1536910936,
+    "wof:name":"Kampong Pantai Mas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.25,
+    6.21667,
+    102.25,
+    6.21667
+],
+  "geometry": {"coordinates":[102.25,6.21667],"type":"Point"}
+}

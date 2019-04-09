@@ -1,0 +1,70 @@
+{
+  "id": 1243037715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.1702,6.9539,117.1702,6.9539",
+    "geom:latitude":6.9539,
+    "geom:longitude":117.1702,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Tandawan",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786845,
+    "gn:latitude":6.9539,
+    "gn:longitude":117.1702,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tandawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tandawan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786845
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8f62e9381af007be71eb388a2c583354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1243037715,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1243037715,
+    "wof:lastmodified":1537674381,
+    "wof:name":"Kampung Tandawan",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.1702,
+    6.9539,
+    117.1702,
+    6.9539
+],
+  "geometry": {"coordinates":[117.17019999999999,6.9539],"type":"Point"}
+}

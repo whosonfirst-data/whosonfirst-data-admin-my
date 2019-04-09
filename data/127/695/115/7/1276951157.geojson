@@ -1,0 +1,67 @@
+{
+  "id": 1276951157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.16667,5.26667,115.16667,5.26667",
+    "geom:latitude":5.26667,
+    "geom:longitude":115.16667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kiam Sam",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734238,
+    "gn:latitude":5.26667,
+    "gn:longitude":115.16667,
+    "gn:modification_date":"1997-06-17",
+    "gn:name":"Kiam Sam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675191,
+        1108696547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734238
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5502d445ad48757780a1c52e719d562e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696547,
+            "locality_id":1276951157,
+            "region_id":85675191
+        }
+    ],
+    "wof:id":1276951157,
+    "wof:lastmodified":1536946254,
+    "wof:name":"Kiam Sam",
+    "wof:parent_id":1108696547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.16667,
+    5.26667,
+    115.16667,
+    5.26667
+],
+  "geometry": {"coordinates":[115.16667,5.26667],"type":"Point"}
+}

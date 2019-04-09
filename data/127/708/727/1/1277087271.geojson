@@ -1,0 +1,70 @@
+{
+  "id": 1277087271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.73407,5.49864,100.73407,5.49864",
+    "geom:latitude":5.49864,
+    "geom:longitude":100.73407,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Seratus",
+    "gn:country_code":"MY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859106,
+    "gn:latitude":5.49864,
+    "gn:longitude":100.73407,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Seratus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Seratus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859106
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"201b311f2889d5d50ac3acc866d04083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696379,
+            "locality_id":1277087271,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1277087271,
+    "wof:lastmodified":1537674267,
+    "wof:name":"Kampung Seratus",
+    "wof:parent_id":1108696379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.73407,
+    5.49864,
+    100.73407,
+    5.49864
+],
+  "geometry": {"coordinates":[100.73407,5.49864],"type":"Point"}
+}

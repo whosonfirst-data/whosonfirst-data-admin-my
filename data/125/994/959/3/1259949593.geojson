@@ -1,0 +1,67 @@
+{
+  "id": 1259949593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5,4.46667,116.5,4.46667",
+    "geom:latitude":4.46667,
+    "geom:longitude":116.5,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Sapalian",
+    "gn:country_code":"MY",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1746641,
+    "gn:latitude":4.46667,
+    "gn:longitude":116.5,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Sapalian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1746641
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aede2c027d46b6f1549dd59ab35440a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696483,
+            "locality_id":1259949593,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259949593,
+    "wof:lastmodified":1536683992,
+    "wof:name":"Sapalian",
+    "wof:parent_id":1108696483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5,
+    4.46667,
+    116.5,
+    4.46667
+],
+  "geometry": {"coordinates":[116.5,4.46667],"type":"Point"}
+}

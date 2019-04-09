@@ -1,0 +1,70 @@
+{
+  "id": 1327039597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0627,1.9248,103.0627,1.9248",
+    "geom:latitude":1.9248,
+    "geom:longitude":103.0627,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Jambi",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857066,
+    "gn:latitude":1.9248,
+    "gn:longitude":103.0627,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Jambi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Jambi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857066
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4ffea3ea6f461bee0db29d37974a6357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1327039597,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1327039597,
+    "wof:lastmodified":1537674442,
+    "wof:name":"Kampung Parit Jambi",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0627,
+    1.9248,
+    103.0627,
+    1.9248
+],
+  "geometry": {"coordinates":[103.06270000000001,1.9248],"type":"Point"}
+}

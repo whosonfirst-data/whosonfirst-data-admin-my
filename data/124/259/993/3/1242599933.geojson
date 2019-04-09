@@ -1,0 +1,70 @@
+{
+  "id": 1242599933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3032,3.8088,103.3032,3.8088",
+    "geom:latitude":3.8088,
+    "geom:longitude":103.3032,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Taman Bukit Setongkol",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7651001,
+    "gn:latitude":3.8088,
+    "gn:longitude":103.3032,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Bukit Setongkol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Bukit Setongkol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7651001
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3d53760878e413e21ffd5cf82b6237f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":1242599933,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1242599933,
+    "wof:lastmodified":1537674350,
+    "wof:name":"Taman Bukit Setongkol",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3032,
+    3.8088,
+    103.3032,
+    3.8088
+],
+  "geometry": {"coordinates":[103.3032,3.8088],"type":"Point"}
+}

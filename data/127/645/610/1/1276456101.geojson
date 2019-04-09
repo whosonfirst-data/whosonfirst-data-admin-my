@@ -1,0 +1,67 @@
+{
+  "id": 1276456101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.45,5.58333,100.45,5.58333",
+    "geom:latitude":5.58333,
+    "geom:longitude":100.45,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Pulau Sepom",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765218,
+    "gn:latitude":5.58333,
+    "gn:longitude":100.45,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Pulau Sepom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765218
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"26c00e28adf493c2795e894859356665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "locality_id":1276456101,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1276456101,
+    "wof:lastmodified":1536611625,
+    "wof:name":"Kampong Pulau Sepom",
+    "wof:parent_id":890490355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.45,
+    5.58333,
+    100.45,
+    5.58333
+],
+  "geometry": {"coordinates":[100.45,5.58333],"type":"Point"}
+}

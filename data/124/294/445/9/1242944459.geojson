@@ -1,0 +1,73 @@
+{
+  "id": 1242944459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.126,5.2854,103.126,5.2854",
+    "geom:latitude":5.2854,
+    "geom:longitude":103.126,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Gelugur Raja",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769361,
+    "gn:latitude":5.2854,
+    "gn:longitude":103.126,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Gelugur Raja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gelugur Raja"
+    ],
+    "name:und_x_variant":[
+        "Kampong Gelugor Raja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769361
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4975614274d7326839004dbd5c562577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1242944459,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1242944459,
+    "wof:lastmodified":1537674115,
+    "wof:name":"Kampung Gelugur Raja",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.126,
+    5.2854,
+    103.126,
+    5.2854
+],
+  "geometry": {"coordinates":[103.126,5.2854],"type":"Point"}
+}

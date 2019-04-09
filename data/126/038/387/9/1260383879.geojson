@@ -1,0 +1,70 @@
+{
+  "id": 1260383879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9358,3.0753,102.9358,3.0753",
+    "geom:latitude":3.0753,
+    "geom:longitude":102.9358,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Membalau",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697166,
+    "gn:latitude":3.0753,
+    "gn:longitude":102.9358,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Membalau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Membalau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697166
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9c542e672923b39952964060864190f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1260383879,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1260383879,
+    "wof:lastmodified":1537674365,
+    "wof:name":"Kampung Membalau",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9358,
+    3.0753,
+    102.9358,
+    3.0753
+],
+  "geometry": {"coordinates":[102.9358,3.0753],"type":"Point"}
+}

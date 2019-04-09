@@ -1,0 +1,70 @@
+{
+  "id": 1276776223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.60719,5.22781,100.60719,5.22781",
+    "geom:latitude":5.22781,
+    "geom:longitude":100.60719,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Batu Enam Belas",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854617,
+    "gn:latitude":5.22781,
+    "gn:longitude":100.60719,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Batu Enam Belas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Enam Belas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854617
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5ad748c14ca2df97f68219d70c565d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490371,
+            "locality_id":1276776223,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1276776223,
+    "wof:lastmodified":1537674260,
+    "wof:name":"Kampung Batu Enam Belas",
+    "wof:parent_id":890490371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.60719,
+    5.22781,
+    100.60719,
+    5.22781
+],
+  "geometry": {"coordinates":[100.60719,5.22781],"type":"Point"}
+}

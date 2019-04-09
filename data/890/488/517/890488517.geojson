@@ -1,0 +1,70 @@
+{
+  "id": 890488517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.281572,6.439324,100.281572,6.439324",
+    "geom:latitude":6.439324,
+    "geom:longitude":100.281572,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Arau",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perlis",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":48,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":111,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014592,
+        "qs:id":1306946,
+        "wd:id":"Q626526",
+        "wk:page":"Arau"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054722,
+    "wof:geomhash":"f29eefea0486d1007f599698c9ce9118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "localadmin_id":890488517,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":890488517,
+    "wof:lastmodified":1527787077,
+    "wof:name":"Arau",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.281572,
+    6.439324,
+    100.281572,
+    6.439324
+],
+  "geometry": {"coordinates":[100.281572,6.439324],"type":"Point"}
+}

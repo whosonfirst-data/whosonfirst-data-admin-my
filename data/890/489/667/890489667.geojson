@@ -1,0 +1,79 @@
+{
+  "id": 890489667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3944,4.3509,102.3944,4.3509",
+    "geom:latitude":4.3509,
+    "geom:longitude":102.3944,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Serama"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Sirama"
+    ],
+    "qs:name":"Kampung Serana",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos":362,
+    "qs:photos_1k":73,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":362,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733011,
+        "gp:id":1151465,
+        "qs:id":1083534
+    },
+    "wof:country":"MY",
+    "wof:created":1469054765,
+    "wof:geomhash":"d5035ba1fd244ed80a403d9c42be33bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":890489667,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":890489667,
+    "wof:lastmodified":1505343786,
+    "wof:name":"Kampung Serana",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3944,
+    4.3509,
+    102.3944,
+    4.3509
+],
+  "geometry": {"coordinates":[102.3944,4.3509],"type":"Point"}
+}

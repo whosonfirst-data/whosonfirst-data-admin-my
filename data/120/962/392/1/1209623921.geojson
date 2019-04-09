@@ -1,0 +1,64 @@
+{
+  "id": 1209623921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.76802,5.34741,100.76802,5.34741",
+    "geom:latitude":5.34741,
+    "geom:longitude":100.76802,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Hulu Mahang (B)",
+    "gn:country_code":"MY",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857727,
+    "gn:latitude":5.34741,
+    "gn:longitude":100.76802,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Hulu Mahang (B)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Hulu Mahang (B)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857727
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5c14828405d123496678f9e5acdacb17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209623921
+        }
+    ],
+    "wof:id":1209623921,
+    "wof:lastmodified":1537674265,
+    "wof:name":"Kampung Hulu Mahang (B)",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.76802,
+    5.34741,
+    100.76802,
+    5.34741
+],
+  "geometry": {"coordinates":[100.76802000000001,5.34741],"type":"Point"}
+}

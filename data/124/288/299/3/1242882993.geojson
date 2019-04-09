@@ -1,0 +1,72 @@
+{
+  "id": 1242882993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35984,5.71409,100.35984,5.71409",
+    "geom:latitude":5.71409,
+    "geom:longitude":100.35984,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Sungai Pial",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763870,
+    "gn:latitude":5.71409,
+    "gn:longitude":100.35984,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Pial",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Sungei Piyal",
+        "Kampong Sungai Pial",
+        "Kampung Sungai Pial"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763870
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d2ac7fd8612c658ae6a2dbec31ddd941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "locality_id":1242882993,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1242882993,
+    "wof:lastmodified":1537673881,
+    "wof:name":"Kampung Sungai Pial",
+    "wof:parent_id":890490355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35984,
+    5.71409,
+    100.35984,
+    5.71409
+],
+  "geometry": {"coordinates":[100.35984000000001,5.71409],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343275931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5866,2.0613,102.5866,2.0613",
+    "geom:latitude":2.0613,
+    "geom:longitude":102.5866,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Sungai Abong",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856381,
+    "gn:latitude":2.0613,
+    "gn:longitude":102.5866,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Sungai Abong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Sungai Abong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856381
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8b7fd100f3bea745c76f0a166ad3d776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1343275931,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1343275931,
+    "wof:lastmodified":1537674439,
+    "wof:name":"Taman Sungai Abong",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5866,
+    2.0613,
+    102.5866,
+    2.0613
+],
+  "geometry": {"coordinates":[102.5866,2.0613],"type":"Point"}
+}

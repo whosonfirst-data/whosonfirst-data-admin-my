@@ -1,0 +1,70 @@
+{
+  "id": 1242591937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.5922,1.666,103.5922,1.666",
+    "geom:latitude":1.666,
+    "geom:longitude":103.5922,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Nam Tak",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7614210,
+    "gn:latitude":1.666,
+    "gn:longitude":103.5922,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Nam Tak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Nam Tak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7614210
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aa121de44139f143f816eb75e1c2e04b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696433,
+            "locality_id":1242591937,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1242591937,
+    "wof:lastmodified":1537674330,
+    "wof:name":"Taman Nam Tak",
+    "wof:parent_id":1108696433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.5922,
+    1.666,
+    103.5922,
+    1.666
+],
+  "geometry": {"coordinates":[103.59220000000001,1.666],"type":"Point"}
+}

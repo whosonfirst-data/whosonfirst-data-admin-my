@@ -1,0 +1,70 @@
+{
+  "id": 1360093787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.32442,6.23852,100.32442,6.23852",
+    "geom:latitude":6.23852,
+    "geom:longitude":100.32442,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Alor Biak",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6820180,
+    "gn:latitude":6.23852,
+    "gn:longitude":100.32442,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Alor Biak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Alor Biak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6820180
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5f306d6232744a19c818e1a337924040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1360093787,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1360093787,
+    "wof:lastmodified":1537674250,
+    "wof:name":"Kampung Alor Biak",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.32442,
+    6.23852,
+    100.32442,
+    6.23852
+],
+  "geometry": {"coordinates":[100.32442,6.23852],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209403111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.71667,3.83333,114.71667,3.83333",
+    "geom:latitude":3.83333,
+    "geom:longitude":114.71667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Long Atip",
+    "gn:country_code":"MY",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1737758,
+    "gn:latitude":3.83333,
+    "gn:longitude":114.71667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Long Atip",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1737758
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c5e2698c02a5b0323ca896e353b81893",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209403111
+        }
+    ],
+    "wof:id":1209403111,
+    "wof:lastmodified":1536288081,
+    "wof:name":"Long Atip",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.71667,
+    3.83333,
+    114.71667,
+    3.83333
+],
+  "geometry": {"coordinates":[114.71666999999999,3.83333],"type":"Point"}
+}

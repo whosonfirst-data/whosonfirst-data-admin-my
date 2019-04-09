@@ -1,0 +1,73 @@
+{
+  "id": 1243435499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.2,1.33333,110.2,1.33333",
+    "geom:latitude":1.33333,
+    "geom:longitude":110.2,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Pelaman Sagah",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1751431,
+    "gn:latitude":1.33333,
+    "gn:longitude":110.2,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pelaman Sagah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plaman Sogoh",
+        "Plaman Sagah",
+        "Pelaman Sagah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1751431
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"82181c34a595f9dd75fd8de070bd64f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696381,
+            "locality_id":1243435499,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1243435499,
+    "wof:lastmodified":1537673786,
+    "wof:name":"Pelaman Sagah",
+    "wof:parent_id":1108696381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.2,
+    1.33333,
+    110.2,
+    1.33333
+],
+  "geometry": {"coordinates":[110.2,1.33333],"type":"Point"}
+}

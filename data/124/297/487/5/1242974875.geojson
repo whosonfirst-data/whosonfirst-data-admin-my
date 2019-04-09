@@ -1,0 +1,70 @@
+{
+  "id": 1242974875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.0247,1.8599,104.0247,1.8599",
+    "geom:latitude":1.8599,
+    "geom:longitude":104.0247,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Bukit Tiga",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857565,
+    "gn:latitude":1.8599,
+    "gn:longitude":104.0247,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bukit Tiga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Tiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857565
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f8be454f4d2b61b963b357e431b98e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":1242974875,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1242974875,
+    "wof:lastmodified":1537674444,
+    "wof:name":"Kampung Bukit Tiga",
+    "wof:parent_id":890491003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.0247,
+    1.8599,
+    104.0247,
+    1.8599
+],
+  "geometry": {"coordinates":[104.0247,1.8599],"type":"Point"}
+}

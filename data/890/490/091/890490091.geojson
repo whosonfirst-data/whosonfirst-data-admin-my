@@ -1,0 +1,74 @@
+{
+  "id": 890490091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2408,2.2618,102.2408,2.2618",
+    "geom:latitude":2.2618,
+    "geom:longitude":102.2408,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Merdeka"
+    ],
+    "qs:name":"Taman Merdeka",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675151,
+        102191569,
+        85632739,
+        102023085,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797907,
+        "gp:id":56016530,
+        "qs:id":1159242
+    },
+    "wof:country":"MY",
+    "wof:created":1469054788,
+    "wof:geomhash":"45e2d04fa76bd514bd13683b1230da59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":102023085,
+            "neighbourhood_id":890490091,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":890490091,
+    "wof:lastmodified":1505343787,
+    "wof:name":"Taman Merdeka",
+    "wof:parent_id":102023085,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2408,
+    2.2618,
+    102.2408,
+    2.2618
+],
+  "geometry": {"coordinates":[102.24079999999999,2.2618],"type":"Point"}
+}

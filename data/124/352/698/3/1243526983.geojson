@@ -1,0 +1,70 @@
+{
+  "id": 1243526983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.608,5.5988,115.608,5.5988",
+    "geom:latitude":5.5988,
+    "geom:longitude":115.608,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Jangkit",
+    "gn:country_code":"MY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768927,
+    "gn:latitude":5.5988,
+    "gn:longitude":115.608,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Jangkit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jangkit"
+    ],
+    "name:und_x_variant":[
+        "Jankit",
+        "Kampong Jangkit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768927
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2f91877ef442420c09b81f26ba80b957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1243526983,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243526983,
+    "wof:lastmodified":1537674100,
+    "wof:name":"Kampung Jangkit",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.608,
+    5.5988,
+    115.608,
+    5.5988
+],
+  "geometry": {"coordinates":[115.608,5.5988],"type":"Point"}
+}

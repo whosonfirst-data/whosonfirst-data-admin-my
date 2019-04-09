@@ -1,0 +1,70 @@
+{
+  "id": 1310128519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.04,3.1205,102.04,3.1205",
+    "geom:latitude":3.1205,
+    "geom:longitude":102.04,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jeram Lesong",
+    "gn:country_code":"MY",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7688590,
+    "gn:latitude":3.1205,
+    "gn:longitude":102.04,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Jeram Lesong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Jeram Lesong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7688590
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d33bdbb31be18f9c090e0edf361377cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1310128519,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1310128519,
+    "wof:lastmodified":1537674361,
+    "wof:name":"Jeram Lesong",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.04,
+    3.1205,
+    102.04,
+    3.1205
+],
+  "geometry": {"coordinates":[102.04000000000001,3.1205],"type":"Point"}
+}

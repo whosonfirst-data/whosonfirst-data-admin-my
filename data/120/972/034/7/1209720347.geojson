@@ -1,0 +1,74 @@
+{
+  "id": 1209720347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2164,2.6948,102.2164,2.6948",
+    "geom:latitude":2.6948,
+    "geom:longitude":102.2164,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Gachong",
+    "gn:country_code":"MY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734844,
+    "gn:latitude":2.6948,
+    "gn:longitude":102.2164,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Gachong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gachong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Gachong",
+        "Kampung Gancung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734844
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9362a0e205c24bb363cca461fa09cf7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1209720347,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1209720347,
+    "wof:lastmodified":1537673712,
+    "wof:name":"Kampung Gachong",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2164,
+    2.6948,
+    102.2164,
+    2.6948
+],
+  "geometry": {"coordinates":[102.21639999999999,2.6948],"type":"Point"}
+}

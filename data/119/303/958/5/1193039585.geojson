@@ -1,0 +1,70 @@
+{
+  "id": 1193039585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.39869,5.09228,100.39869,5.09228",
+    "geom:latitude":5.09228,
+    "geom:longitude":100.39869,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Sungai Labu",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854902,
+    "gn:latitude":5.09228,
+    "gn:longitude":100.39869,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Sungai Labu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Labu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854902
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8736d693871a31cf861c7374ff6bf231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489801,
+            "locality_id":1193039585,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1193039585,
+    "wof:lastmodified":1537674261,
+    "wof:name":"Kampung Sungai Labu",
+    "wof:parent_id":890489801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.39869,
+    5.09228,
+    100.39869,
+    5.09228
+],
+  "geometry": {"coordinates":[100.39869,5.09228],"type":"Point"}
+}

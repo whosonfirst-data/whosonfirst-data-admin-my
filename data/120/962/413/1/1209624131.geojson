@@ -1,0 +1,61 @@
+{
+  "id": 1209624131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.65814,6.29056,100.65814,6.29056",
+    "geom:latitude":6.29056,
+    "geom:longitude":100.65814,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Padang Gelangang",
+    "gn:country_code":"MY",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766531,
+    "gn:latitude":6.29056,
+    "gn:longitude":100.65814,
+    "gn:modification_date":"2009-02-05",
+    "gn:name":"Kampong Padang Gelangang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766531
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"85d16c968df14bf35e1ddfd4ea618405",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209624131
+        }
+    ],
+    "wof:id":1209624131,
+    "wof:lastmodified":1536281414,
+    "wof:name":"Kampong Padang Gelangang",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.65814,
+    6.29056,
+    100.65814,
+    6.29056
+],
+  "geometry": {"coordinates":[100.65814,6.29056],"type":"Point"}
+}

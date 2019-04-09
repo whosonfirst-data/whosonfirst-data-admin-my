@@ -1,0 +1,72 @@
+{
+  "id": 890490649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8425,2.485,102.8425,2.485",
+    "geom:latitude":2.485,
+    "geom:longitude":102.8425,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bukit Siput"
+    ],
+    "qs:name":"Bukit Siput",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1778269,
+        "gp:id":1154628,
+        "qs:id":193547
+    },
+    "wof:country":"MY",
+    "wof:created":1469054819,
+    "wof:geomhash":"eae22c4abb5a0b02573b1ef352198fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":890490649,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890490649,
+    "wof:lastmodified":1505343789,
+    "wof:name":"Bukit Siput",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8425,
+    2.485,
+    102.8425,
+    2.485
+],
+  "geometry": {"coordinates":[102.8425,2.485],"type":"Point"}
+}

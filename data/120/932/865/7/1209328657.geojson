@@ -1,0 +1,68 @@
+{
+  "id": 1209328657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5655,2.1467,102.5655,2.1467",
+    "geom:latitude":2.1467,
+    "geom:longitude":102.5655,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bandar Sungai Mati",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732863,
+    "gn:latitude":2.1467,
+    "gn:longitude":102.5655,
+    "gn:modification_date":"2018-04-12",
+    "gn:name":"Bandar Sungai Mati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bandar Sungai Mati"
+    ],
+    "name:und_x_variant":[
+        "Sungai Mati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732863,
+        "wk:page":"Sungai_Mati"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2484ac5cfae231f9811509ae25b2fa1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209328657
+        }
+    ],
+    "wof:id":1209328657,
+    "wof:lastmodified":1537673671,
+    "wof:name":"Bandar Sungai Mati",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5655,
+    2.1467,
+    102.5655,
+    2.1467
+],
+  "geometry": {"coordinates":[102.5655,2.1467],"type":"Point"}
+}

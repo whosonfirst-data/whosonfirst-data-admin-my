@@ -1,0 +1,66 @@
+{
+  "id": 890490925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.349121,5.202188,100.349121,5.202188",
+    "geom:latitude":5.202188,
+    "geom:longitude":100.349121,
+    "gn:country":"MY",
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Seberang Perai Selatan",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":503,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":173,
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013597,
+        "qs:id":239141,
+        "wd:id":"Q1884768",
+        "wk:page":"South Seberang Perai District"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054833,
+    "wof:geomhash":"b1c58eb62ba1825d36a20be16a4f3323",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "county_id":890490925
+        }
+    ],
+    "wof:id":890490925,
+    "wof:lastmodified":1527734157,
+    "wof:name":"Seberang Perai Selatan",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.349121,
+    5.202188,
+    100.349121,
+    5.202188
+],
+  "geometry": {"coordinates":[100.349121,5.202188],"type":"Point"}
+}

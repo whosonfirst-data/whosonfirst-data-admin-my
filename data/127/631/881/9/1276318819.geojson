@@ -1,0 +1,70 @@
+{
+  "id": 1276318819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.29395,6.65504,100.29395,6.65504",
+    "geom:latitude":6.65504,
+    "geom:longitude":100.29395,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Syed Abdan",
+    "gn:country_code":"MY",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798349,
+    "gn:latitude":6.65504,
+    "gn:longitude":100.29395,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Syed Abdan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Syed Abdan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798349
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"906c9607775b9350e1d00e8c3895abfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1276318819,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1276318819,
+    "wof:lastmodified":1537674229,
+    "wof:name":"Kampung Syed Abdan",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.29395,
+    6.65504,
+    100.29395,
+    6.65504
+],
+  "geometry": {"coordinates":[100.29395,6.65504],"type":"Point"}
+}

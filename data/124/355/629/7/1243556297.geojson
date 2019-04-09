@@ -1,0 +1,67 @@
+{
+  "id": 1243556297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.08619,6.22417,102.08619,6.22417",
+    "geom:latitude":6.22417,
+    "geom:longitude":102.08619,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Pulau Ular",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765196,
+    "gn:latitude":6.22417,
+    "gn:longitude":102.08619,
+    "gn:modification_date":"2009-03-28",
+    "gn:name":"Kampong Pulau Ular",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765196
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f308f1ad9245096c93c806a8fe74e843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489803,
+            "locality_id":1243556297,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1243556297,
+    "wof:lastmodified":1536646774,
+    "wof:name":"Kampong Pulau Ular",
+    "wof:parent_id":890489803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.08619,
+    6.22417,
+    102.08619,
+    6.22417
+],
+  "geometry": {"coordinates":[102.08619,6.22417],"type":"Point"}
+}

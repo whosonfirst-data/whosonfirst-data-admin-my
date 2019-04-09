@@ -1,0 +1,67 @@
+{
+  "id": 1327422043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.66667,1.93333,113.66667,1.93333",
+    "geom:latitude":1.93333,
+    "geom:longitude":113.66667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Ugil",
+    "gn:country_code":"MY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747470,
+    "gn:latitude":1.93333,
+    "gn:longitude":113.66667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Ugil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747470
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"02500669dafa95c3ca1741c58847a7bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488879,
+            "locality_id":1327422043,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1327422043,
+    "wof:lastmodified":1536695984,
+    "wof:name":"Rumah Ugil",
+    "wof:parent_id":890488879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.66667,
+    1.93333,
+    113.66667,
+    1.93333
+],
+  "geometry": {"coordinates":[113.66667,1.93333],"type":"Point"}
+}

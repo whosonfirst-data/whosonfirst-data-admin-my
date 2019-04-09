@@ -1,0 +1,70 @@
+{
+  "id": 1327203619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.8383,5.496,115.8383,5.496",
+    "geom:latitude":5.496,
+    "geom:longitude":115.8383,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Kalintangan",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418702,
+    "gn:latitude":5.496,
+    "gn:longitude":115.8383,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kalintangan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kalintangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418702
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4eaa82f5b5457f11ae5e43ec9fdc68e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696477,
+            "locality_id":1327203619,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327203619,
+    "wof:lastmodified":1537674287,
+    "wof:name":"Kampung Kalintangan",
+    "wof:parent_id":1108696477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.8383,
+    5.496,
+    115.8383,
+    5.496
+],
+  "geometry": {"coordinates":[115.8383,5.496],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209246437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4774,2.5069,102.4774,2.5069",
+    "geom:latitude":2.5069,
+    "geom:longitude":102.4774,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Ayer Kuning",
+    "gn:country_code":"MY",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771506,
+    "gn:latitude":2.5069,
+    "gn:longitude":102.4774,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ayer Kuning",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ayer Kuning"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ayer Kuning"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771506
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"96cccd3829abd9e981c6c633c712a0e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209246437
+        }
+    ],
+    "wof:id":1209246437,
+    "wof:lastmodified":1537674206,
+    "wof:name":"Kampung Ayer Kuning",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4774,
+    2.5069,
+    102.4774,
+    2.5069
+],
+  "geometry": {"coordinates":[102.4774,2.5069],"type":"Point"}
+}

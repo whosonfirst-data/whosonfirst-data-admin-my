@@ -1,0 +1,67 @@
+{
+  "id": 1226338237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.43333,5.26667,100.43333,5.26667",
+    "geom:latitude":5.26667,
+    "geom:longitude":100.43333,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampong Bukit Tambun",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770105,
+    "gn:latitude":5.26667,
+    "gn:longitude":100.43333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Bukit Tambun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770105
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1256b2ab74287314ad49666a0c94b87d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1226338237,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1226338237,
+    "wof:lastmodified":1536800359,
+    "wof:name":"Kampong Bukit Tambun",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.43333,
+    5.26667,
+    100.43333,
+    5.26667
+],
+  "geometry": {"coordinates":[100.43333,5.26667],"type":"Point"}
+}

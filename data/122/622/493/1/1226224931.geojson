@@ -1,0 +1,63 @@
+{
+  "id": 1226224931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.23667,5.28472,115.23667,5.28472",
+    "geom:latitude":5.28472,
+    "geom:longitude":115.23667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kampung Sagoking",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764928,
+    "gn:latitude":5.28472,
+    "gn:longitude":115.23667,
+    "gn:modification_date":"1997-06-17",
+    "gn:name":"Kampung Sagoking",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764928
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fca199b55349c9524674b08f9102ad06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1226224931,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226224931,
+    "wof:lastmodified":1536963515,
+    "wof:name":"Kampung Sagoking",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.23667,
+    5.28472,
+    115.23667,
+    5.28472
+],
+  "geometry": {"coordinates":[115.23667,5.28472],"type":"Point"}
+}

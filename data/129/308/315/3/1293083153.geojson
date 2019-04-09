@@ -1,0 +1,73 @@
+{
+  "id": 1293083153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1462,5.9127,116.1462,5.9127",
+    "geom:latitude":5.9127,
+    "geom:longitude":116.1462,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Pogunon",
+    "gn:country_code":"MY",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766388,
+    "gn:latitude":5.9127,
+    "gn:longitude":116.1462,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pogunon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pogunon"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pagunan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766388
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ba6f97d6ba028c144642c3ef2c45fd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1293083153,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293083153,
+    "wof:lastmodified":1537673993,
+    "wof:name":"Kampung Pogunon",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1462,
+    5.9127,
+    116.1462,
+    5.9127
+],
+  "geometry": {"coordinates":[116.14619999999999,5.9127],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277155267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.78653,2.64848,114.78653,2.64848",
+    "geom:latitude":2.64848,
+    "geom:longitude":114.78653,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1737860",
+    "gn:asciiname":"Lidung Jelo",
+    "gn:country_code":"MY",
+    "gn:dem":729,
+    "gn:elevation":"760.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":10103859,
+    "gn:latitude":2.64848,
+    "gn:longitude":114.78653,
+    "gn:modification_date":"2018-04-11",
+    "gn:name":"Lidung Jelo",
+    "gn:population":1900,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10103859,
+        "wk:page":"Lidung_Jelo"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b83e9523ebe587076b8f76cb3973052f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696387,
+            "locality_id":1277155267,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1277155267,
+    "wof:lastmodified":1537569922,
+    "wof:name":"Lidung Jelo",
+    "wof:parent_id":1108696387,
+    "wof:placetype":"locality",
+    "wof:population":1900,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.78653,
+    2.64848,
+    114.78653,
+    2.64848
+],
+  "geometry": {"coordinates":[114.78653,2.64848],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890490107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.33917,1.56361,110.33917,1.56361",
+    "geom:latitude":1.56361,
+    "geom:longitude":110.33917,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kampung Sungai Bedil Besar",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sarawak",
+    "qs:photos":362,
+    "qs:photos_1k":73,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":362,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1903370,
+        "gp:id":28345527,
+        "qs:id":1164104
+    },
+    "wof:country":"MY",
+    "wof:created":1469054788,
+    "wof:geomhash":"2888788adc5cc4137ccec31246f2a288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":890490107,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":890490107,
+    "wof:lastmodified":1505343787,
+    "wof:name":"Kampung Sungai Bedil Besar",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.33917,
+    1.56361,
+    110.33917,
+    1.56361
+],
+  "geometry": {"coordinates":[110.33917,1.56361],"type":"Point"}
+}

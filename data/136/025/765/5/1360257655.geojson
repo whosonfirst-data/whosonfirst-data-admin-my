@@ -1,0 +1,70 @@
+{
+  "id": 1360257655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.8183,6.7999,116.8183,6.7999",
+    "geom:latitude":6.7999,
+    "geom:longitude":116.8183,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Milau",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7603958,
+    "gn:latitude":6.7999,
+    "gn:longitude":116.8183,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Milau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Milau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7603958
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2a673af31cfcfe0f9ec16ebc11a6b811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1360257655,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1360257655,
+    "wof:lastmodified":1537674324,
+    "wof:name":"Kampung Milau",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.8183,
+    6.7999,
+    116.8183,
+    6.7999
+],
+  "geometry": {"coordinates":[116.81829999999999,6.7999],"type":"Point"}
+}

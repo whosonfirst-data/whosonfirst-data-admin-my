@@ -1,0 +1,70 @@
+{
+  "id": 1276441129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.263,2.7215,102.263,2.7215",
+    "geom:latitude":2.7215,
+    "geom:longitude":102.263,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Dioh Estate",
+    "gn:country_code":"MY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796651,
+    "gn:latitude":2.7215,
+    "gn:longitude":102.263,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Dioh Estate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Dioh Estate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796651
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"78abc79869e7f298051a8ca96357fdd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1276441129,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1276441129,
+    "wof:lastmodified":1537674408,
+    "wof:name":"Kampung Dioh Estate",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.263,
+    2.7215,
+    102.263,
+    2.7215
+],
+  "geometry": {"coordinates":[102.26300000000001,2.7215],"type":"Point"}
+}

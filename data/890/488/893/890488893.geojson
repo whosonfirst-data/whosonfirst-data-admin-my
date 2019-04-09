@@ -1,0 +1,72 @@
+{
+  "id": 890488893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.64466,3.160548,101.64466,3.160548",
+    "geom:latitude":3.160548,
+    "geom:longitude":101.64466,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Sri Hartamas",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:photos":123,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":123,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wd:wordcount":90,
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862699,
+        "qs:id":1031211,
+        "wd:id":"Q17056076",
+        "wk:page":"SMK Seri Hartamas"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054736,
+    "wof:geomhash":"6f453f62238eeb294873f89ef6dd1532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":890488893,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":890488893,
+    "wof:lastmodified":1527787077,
+    "wof:name":"Taman Sri Hartamas",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.64466,
+    3.160548,
+    101.64466,
+    3.160548
+],
+  "geometry": {"coordinates":[101.64466,3.160548],"type":"Point"}
+}

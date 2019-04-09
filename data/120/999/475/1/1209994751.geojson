@@ -1,0 +1,61 @@
+{
+  "id": 1209994751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.3,2.43333,111.3,2.43333",
+    "geom:latitude":2.43333,
+    "geom:longitude":111.3,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Sedi",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764753,
+    "gn:latitude":2.43333,
+    "gn:longitude":111.3,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Sedi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764753
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"24e896807d3227a7ab8371f966394dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209994751,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209994751,
+    "wof:lastmodified":1536384800,
+    "wof:name":"Kampong Sedi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.3,
+    2.43333,
+    111.3,
+    2.43333
+],
+  "geometry": {"coordinates":[111.3,2.43333],"type":"Point"}
+}

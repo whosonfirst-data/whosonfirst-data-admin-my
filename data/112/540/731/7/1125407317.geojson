@@ -1,0 +1,74 @@
+{
+  "id": 1125407317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.5,2.75,112.5,2.75",
+    "geom:latitude":2.75,
+    "geom:longitude":112.5,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":2.75,
+    "lbl:longitude":112.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":1735296,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Balingian",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1152031,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735296,
+        "qs_pg:id":1152031
+    },
+    "wof:country":"MY",
+    "wof:created":1497049726,
+    "wof:geomhash":"1710def6ece3a3d3597a12b689c271d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696469,
+            "localadmin_id":1125407317,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1125407317,
+    "wof:lastmodified":1509390182,
+    "wof:name":"Balingian",
+    "wof:parent_id":1108696469,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.5,
+    2.75,
+    112.5,
+    2.75
+],
+  "geometry": {"coordinates":[112.5,2.75],"type":"Point"}
+}

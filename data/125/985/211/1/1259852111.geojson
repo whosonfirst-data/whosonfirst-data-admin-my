@@ -1,0 +1,74 @@
+{
+  "id": 1259852111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.72739,6.97364,116.72739,6.97364",
+    "geom:latitude":6.97364,
+    "geom:longitude":116.72739,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Loro Kecil",
+    "gn:country_code":"MY",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1756948,
+    "gn:latitude":6.97364,
+    "gn:longitude":116.72739,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Kampung Loro Kecil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Luru Kecil"
+    ],
+    "name:und_x_variant":[
+        "Loro",
+        "Kampung Loro Kecil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1756948
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5e91ff093985d7f761e993b20f22049a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1259852111,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259852111,
+    "wof:lastmodified":1537673794,
+    "wof:name":"Kampung Loro Kecil",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.72739,
+    6.97364,
+    116.72739,
+    6.97364
+],
+  "geometry": {"coordinates":[116.72739,6.97364],"type":"Point"}
+}

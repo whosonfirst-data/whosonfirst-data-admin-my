@@ -1,0 +1,73 @@
+{
+  "id": 1310128087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.318,3.5281,103.318,3.5281",
+    "geom:latitude":3.5281,
+    "geom:longitude":103.318,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Sungai Sekur",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764707,
+    "gn:latitude":3.5281,
+    "gn:longitude":103.318,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Sekur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Sekur"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sekor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764707
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9d499101da84c14033c8f0e0e16ac0ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1310128087,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1310128087,
+    "wof:lastmodified":1537673921,
+    "wof:name":"Kampung Sungai Sekur",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.318,
+    3.5281,
+    103.318,
+    3.5281
+],
+  "geometry": {"coordinates":[103.318,3.5281],"type":"Point"}
+}

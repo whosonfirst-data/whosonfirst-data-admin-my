@@ -1,0 +1,70 @@
+{
+  "id": 1226412021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4918,5.3368,116.4918,5.3368",
+    "geom:latitude":5.3368,
+    "geom:longitude":116.4918,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Cuek",
+    "gn:country_code":"MY",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7781987,
+    "gn:latitude":5.3368,
+    "gn:longitude":116.4918,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Cuek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Cuek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7781987
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f06d04a9446853d4ab5c96a7957e511a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1226412021,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226412021,
+    "wof:lastmodified":1537674379,
+    "wof:name":"Kampung Cuek",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4918,
+    5.3368,
+    116.4918,
+    5.3368
+],
+  "geometry": {"coordinates":[116.4918,5.3368],"type":"Point"}
+}

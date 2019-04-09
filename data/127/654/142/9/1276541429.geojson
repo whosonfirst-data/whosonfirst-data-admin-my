@@ -1,0 +1,70 @@
+{
+  "id": 1276541429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7454,3.5021,102.7454,3.5021",
+    "geom:latitude":3.5021,
+    "geom:longitude":102.7454,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Batu Periuk",
+    "gn:country_code":"MY",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796184,
+    "gn:latitude":3.5021,
+    "gn:longitude":102.7454,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Batu Periuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Periuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796184
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c41c519f557a61904b9c2d030e713363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1276541429,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276541429,
+    "wof:lastmodified":1537674401,
+    "wof:name":"Kampung Batu Periuk",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7454,
+    3.5021,
+    102.7454,
+    3.5021
+],
+  "geometry": {"coordinates":[102.7454,3.5021],"type":"Point"}
+}

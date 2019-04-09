@@ -1,0 +1,119 @@
+{
+  "id": 85784555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":295051.025201,
+    "geom:bbox":"100.270844,5.324807,100.270844,5.324807",
+    "geom:latitude":5.324807,
+    "geom:longitude":100.270844,
+    "gn:id":"",
+    "gn:latitude":5.32597,
+    "gn:longitude":100.26616,
+    "iso:country":"MY",
+    "lbl:latitude":5.324807,
+    "lbl:longitude":100.270844,
+    "mps:latitude":5.325778,
+    "mps:longitude":100.270448,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":2,
+    "name:msa_x_preferred":[
+        "Taman Sungai Ara"
+    ],
+    "name:und_x_preferred":[
+        "Taman Sungai Ara"
+    ],
+    "name:unk_x_variant":[
+        "Taman Sungai Ara"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1764027,
+    "qs:gn_nam_loc":"Kampong Sungai Gelugor, Pulau Pinang, MY",
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Taman Sungai Ara",
+    "qs:local_max":422,
+    "qs:local_sum":2726,
+    "qs:localhoods":18,
+    "qs:name":"Taman Sungai Ara",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:name_adm2":"Barat Daya",
+    "qs:name_lau":"Mukim 12",
+    "qs:name_local":"Kampong Sungai Gelugor",
+    "qs:photo_max":49,
+    "qs:photo_sum":49,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346304,
+    "qs:woe_adm2":56013634,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":56014458,
+    "qs:woe_local":1149014,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675127,
+        102191569,
+        85632739,
+        102023363,
+        890489155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01e5cf88-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6812408,
+        "gp:id":56037155,
+        "qs:id":987091
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9144aa7e03fca89a2bcdfbf34b895aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "locality_id":102023363,
+            "neighbourhood_id":85784555,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":85784555,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1534379384,
+    "wof:name":"Taman Sungai Ara",
+    "wof:parent_id":102023363,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[
+        85784377
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.270844,
+    5.324807,
+    100.270844,
+    5.324807
+],
+  "geometry": {"coordinates":[100.270844,5.324807],"type":"Point"}
+}

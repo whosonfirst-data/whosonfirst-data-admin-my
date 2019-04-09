@@ -1,0 +1,70 @@
+{
+  "id": 1260094397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8073,1.5117,103.8073,1.5117",
+    "geom:latitude":1.5117,
+    "geom:longitude":103.8073,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Sambanthan",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7619708,
+    "gn:latitude":1.5117,
+    "gn:longitude":103.8073,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sambanthan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sambanthan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619708
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"514d428c6675254d768a3b1e624500d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1260094397,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1260094397,
+    "wof:lastmodified":1537674334,
+    "wof:name":"Kampung Sambanthan",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8073,
+    1.5117,
+    103.8073,
+    1.5117
+],
+  "geometry": {"coordinates":[103.8073,1.5117],"type":"Point"}
+}

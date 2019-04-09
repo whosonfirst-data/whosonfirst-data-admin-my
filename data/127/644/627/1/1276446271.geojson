@@ -1,0 +1,67 @@
+{
+  "id": 1276446271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.1337,1.35,104.1337,1.35",
+    "geom:latitude":1.35,
+    "geom:longitude":104.1337,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Jawa Laut",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768883,
+    "gn:latitude":1.35,
+    "gn:longitude":104.1337,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Jawa Laut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jawa Laut"
+    ],
+    "name:und_x_variant":[
+        "Kampong Jawa Laut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768883
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"63303f692fdcac45ff24b0b0a0e0adf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276446271,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276446271,
+    "wof:lastmodified":1537674098,
+    "wof:name":"Kampung Jawa Laut",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.1337,
+    1.35,
+    104.1337,
+    1.35
+],
+  "geometry": {"coordinates":[104.1337,1.35],"type":"Point"}
+}

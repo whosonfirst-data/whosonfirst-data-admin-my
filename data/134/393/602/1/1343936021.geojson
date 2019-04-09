@@ -1,0 +1,67 @@
+{
+  "id": 1343936021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.93333,1.28333,111.93333,1.28333",
+    "geom:latitude":1.28333,
+    "geom:longitude":111.93333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nanga Ukom",
+    "gn:country_code":"MY",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736849,
+    "gn:latitude":1.28333,
+    "gn:longitude":111.93333,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Nanga Ukom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736849
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"24bb5bfa1885be75e61fab4aad509a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696451,
+            "locality_id":1343936021,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1343936021,
+    "wof:lastmodified":1537053050,
+    "wof:name":"Nanga Ukom",
+    "wof:parent_id":1108696451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.93333,
+    1.28333,
+    111.93333,
+    1.28333
+],
+  "geometry": {"coordinates":[111.93333,1.28333],"type":"Point"}
+}

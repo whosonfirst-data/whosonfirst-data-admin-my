@@ -1,0 +1,70 @@
+{
+  "id": 1293078327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6579,3.5392,101.6579,3.5392",
+    "geom:latitude":3.5392,
+    "geom:longitude":101.6579,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Perumahan Ampang Pechah",
+    "gn:country_code":"MY",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7794729,
+    "gn:latitude":3.5392,
+    "gn:longitude":101.6579,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Perumahan Ampang Pechah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perumahan Ampang Pechah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794729
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ed48938f8f4a79f49e37dc6902e53ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1293078327,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1293078327,
+    "wof:lastmodified":1537674392,
+    "wof:name":"Perumahan Ampang Pechah",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6579,
+    3.5392,
+    101.6579,
+    3.5392
+],
+  "geometry": {"coordinates":[101.6579,3.5392],"type":"Point"}
+}

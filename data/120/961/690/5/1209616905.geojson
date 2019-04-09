@@ -1,0 +1,61 @@
+{
+  "id": 1209616905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.35,6.03333,102.35,6.03333",
+    "geom:latitude":6.03333,
+    "geom:longitude":102.35,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Alor Pasir",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771656,
+    "gn:latitude":6.03333,
+    "gn:longitude":102.35,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Alor Pasir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771656
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4152a27e0abbddd043622f271b584e91",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209616905
+        }
+    ],
+    "wof:id":1209616905,
+    "wof:lastmodified":1536281657,
+    "wof:name":"Kampong Alor Pasir",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.35,
+    6.03333,
+    102.35,
+    6.03333
+],
+  "geometry": {"coordinates":[102.34999999999999,6.03333],"type":"Point"}
+}

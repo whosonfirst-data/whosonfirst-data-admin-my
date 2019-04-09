@@ -1,0 +1,72 @@
+{
+  "id": 1309698505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.28333,4.8,103.28333,4.8",
+    "geom:latitude":4.8,
+    "geom:longitude":103.28333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampong Burong Baharu",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769998,
+    "gn:latitude":4.8,
+    "gn:longitude":103.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Burong Baharu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Burong Baru",
+        "Kampong Burong Baharu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769998
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f23eaf0afc50200318fa732d2c255f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":1309698505,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1309698505,
+    "wof:lastmodified":1537674143,
+    "wof:name":"Kampong Burong Baharu",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.28333,
+    4.8,
+    103.28333,
+    4.8
+],
+  "geometry": {"coordinates":[103.28333000000001,4.8],"type":"Point"}
+}

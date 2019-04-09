@@ -1,0 +1,64 @@
+{
+  "id": 1209432637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.771,2.2596,102.771,2.2596",
+    "geom:latitude":2.2596,
+    "geom:longitude":102.771,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Tunggol",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798378,
+    "gn:latitude":2.2596,
+    "gn:longitude":102.771,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Tunggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Tunggol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798378
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"be5475b2fa0605a1697efe4bf7c49be3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209432637
+        }
+    ],
+    "wof:id":1209432637,
+    "wof:lastmodified":1537674430,
+    "wof:name":"Kampung Parit Tunggol",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.771,
+    2.2596,
+    102.771,
+    2.2596
+],
+  "geometry": {"coordinates":[102.771,2.2596],"type":"Point"}
+}

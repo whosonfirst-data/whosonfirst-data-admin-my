@@ -1,0 +1,74 @@
+{
+  "id": 1309927893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8946,3.9039,101.8946,3.9039",
+    "geom:latitude":3.9039,
+    "geom:longitude":101.8946,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Sungai La",
+    "gn:country_code":"MY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763953,
+    "gn:latitude":3.9039,
+    "gn:longitude":101.8946,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai La",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai La"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungei La",
+        "Kampong Sungai Lar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763953
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f32dedcd27affaed5380f4e41787066a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1309927893,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1309927893,
+    "wof:lastmodified":1537673885,
+    "wof:name":"Kampung Sungai La",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8946,
+    3.9039,
+    101.8946,
+    3.9039
+],
+  "geometry": {"coordinates":[101.8946,3.9039],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310515635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8145,2.398,102.8145,2.398",
+    "geom:latitude":2.398,
+    "geom:longitude":102.8145,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Tekam",
+    "gn:country_code":"MY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763177,
+    "gn:latitude":2.398,
+    "gn:longitude":102.8145,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tekam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tekam"
+    ],
+    "name:und_x_variant":[
+        "Tekam",
+        "Kampong Tekam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763177
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4dc8b641ed456e2651f0ed76f9cd78de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1310515635,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1310515635,
+    "wof:lastmodified":1537673848,
+    "wof:name":"Kampung Tekam",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8145,
+    2.398,
+    102.8145,
+    2.398
+],
+  "geometry": {"coordinates":[102.8145,2.398],"type":"Point"}
+}

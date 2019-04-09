@@ -1,0 +1,76 @@
+{
+  "id": 890489949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.6774,4.2256,100.6774,4.2256",
+    "geom:latitude":4.2256,
+    "geom:longitude":100.6774,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lumut Kiri"
+    ],
+    "qs:name":"Kampong Lumut Kiri",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos":21,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":21,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        1108696459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767221,
+        "gp:id":1145807,
+        "qs:id":40344
+    },
+    "wof:country":"MY",
+    "wof:created":1469054782,
+    "wof:geomhash":"800534739ac905bc4e14697cb10d4859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696459,
+            "locality_id":890489949,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890489949,
+    "wof:lastmodified":1505343786,
+    "wof:name":"Kampong Lumut Kiri",
+    "wof:parent_id":1108696459,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.6774,
+    4.2256,
+    100.6774,
+    4.2256
+],
+  "geometry": {"coordinates":[100.67740000000001,4.2256],"type":"Point"}
+}

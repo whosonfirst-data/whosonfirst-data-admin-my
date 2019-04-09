@@ -1,0 +1,75 @@
+{
+  "id": 1276566229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8045,2.6282,102.8045,2.6282",
+    "geom:latitude":2.6282,
+    "geom:longitude":102.8045,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Selumpur",
+    "gn:country_code":"MY",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764653,
+    "gn:latitude":2.6282,
+    "gn:longitude":102.8045,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Selumpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Selumpur"
+    ],
+    "name:und_x_variant":[
+        "Selampur",
+        "Selumpur",
+        "Kampong Selumpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764653
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fb2f7ff5df1de1f7d20a0a0a49b3058d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1276566229,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276566229,
+    "wof:lastmodified":1537673919,
+    "wof:name":"Kampung Selumpur",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8045,
+    2.6282,
+    102.8045,
+    2.6282
+],
+  "geometry": {"coordinates":[102.8045,2.6282],"type":"Point"}
+}

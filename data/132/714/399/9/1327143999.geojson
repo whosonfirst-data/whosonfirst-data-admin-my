@@ -1,0 +1,70 @@
+{
+  "id": 1327143999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8007,1.6067,103.8007,1.6067",
+    "geom:latitude":1.6067,
+    "geom:longitude":103.8007,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Kiambang",
+    "gn:country_code":"MY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7619682,
+    "gn:latitude":1.6067,
+    "gn:longitude":103.8007,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kiambang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kiambang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619682
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"05df443d018084d5037148f786749e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1327143999,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1327143999,
+    "wof:lastmodified":1537674333,
+    "wof:name":"Kampung Kiambang",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8007,
+    1.6067,
+    103.8007,
+    1.6067
+],
+  "geometry": {"coordinates":[103.80070000000001,1.6067],"type":"Point"}
+}

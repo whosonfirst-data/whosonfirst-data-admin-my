@@ -1,0 +1,73 @@
+{
+  "id": 1343248339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1966,5.1765,103.1966,5.1765",
+    "geom:latitude":5.1765,
+    "geom:longitude":103.1966,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Sentul Patah",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764550,
+    "gn:latitude":5.1765,
+    "gn:longitude":103.1966,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sentul Patah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sentul Patah"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sentol Patah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764550
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ff3290dc81be8072a8e3288e149c265f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490535,
+            "locality_id":1343248339,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1343248339,
+    "wof:lastmodified":1537673914,
+    "wof:name":"Kampung Sentul Patah",
+    "wof:parent_id":890490535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1966,
+    5.1765,
+    103.1966,
+    5.1765
+],
+  "geometry": {"coordinates":[103.1966,5.1765],"type":"Point"}
+}

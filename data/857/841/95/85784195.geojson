@@ -1,0 +1,113 @@
+{
+  "id": 85784195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000152,
+    "geom:area_square_m":1881267.718541,
+    "geom:bbox":"101.7237854,3.15148587091,101.738891602,3.16931360346",
+    "geom:latitude":3.160215,
+    "geom:longitude":101.731345,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.161708,
+    "lbl:longitude":101.732523,
+    "mps:latitude":3.159952,
+    "mps:longitude":101.730716,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:ind_x_preferred":[
+        "Taman U-Thant"
+    ],
+    "name:msa_x_preferred":[
+        "Taman U-Thant"
+    ],
+    "name:und_x_preferred":[
+        "Taman U Thant"
+    ],
+    "name:unk_x_variant":[
+        "Taman U Thant"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Taman U Thant",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Ampang",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":51,
+    "qs:photo_sum":218,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56014061,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017232,
+        "qs:id":481795,
+        "qs_pg:id":481795,
+        "wd:id":"Q4209698"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"50911109225623aa3fcf3ebd905e7e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85784195,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85784195,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269496,
+    "wof:name":"Taman U Thant",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.72378540000005,
+    3.15148587091494,
+    101.73889160200008,
+    3.16931360346088
+],
+  "geometry": {"coordinates":[[[101.73614502000004,3.16794031440001],[101.73614502000004,3.16519792474003],[101.73614502000004,3.1624555291059],[101.73889160200002,3.16245552933273],[101.73889160200008,3.15971312613905],[101.73614502000004,3.15971312613905],[101.73614502000004,3.15697071706002],[101.73614502000004,3.15651433848677],[101.7333984378709,3.15559742077764],[101.73339843786124,3.15148587091494],[101.72790527313902,3.15148587091494],[101.72790527307831,3.15559742073545],[101.72379163125629,3.15697071706002],[101.72378540000005,3.15697279729973],[101.72378540000005,3.15833774357681],[101.72515869100016,3.15971312621446],[101.72515869100005,3.16245553024001],[101.72515869100016,3.16291189431445],[101.72687687375083,3.16348549617131],[101.72744681154609,3.16519792413518],[101.72790527300015,3.16519792494111],[101.73065185515634,3.1651979248158],[101.73065185512951,3.16794031440001],[101.73065185525013,3.16839667354453],[101.73339843775022,3.16931360346088],[101.73614502000004,3.16839667362784],[101.73614502000004,3.16794031440001]]],"type":"Polygon"}
+}

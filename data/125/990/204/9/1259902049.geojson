@@ -1,0 +1,71 @@
+{
+  "id": 1259902049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.429,3.4554,102.429,3.4554",
+    "geom:latitude":3.4554,
+    "geom:longitude":102.429,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1732585",
+    "gn:asciiname":"Kampung Bangau Rakit",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795943,
+    "gn:latitude":3.4554,
+    "gn:longitude":102.429,
+    "gn:modification_date":"2014-05-10",
+    "gn:name":"Kampung Bangau Rakit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bangau Rakit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795943
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8afe644214c59237146f9b193fc620e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1259902049,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1259902049,
+    "wof:lastmodified":1537674398,
+    "wof:name":"Kampung Bangau Rakit",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.429,
+    3.4554,
+    102.429,
+    3.4554
+],
+  "geometry": {"coordinates":[102.429,3.4554],"type":"Point"}
+}

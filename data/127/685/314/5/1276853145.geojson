@@ -1,0 +1,70 @@
+{
+  "id": 1276853145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.9332,5.6743,117.9332,5.6743",
+    "geom:latitude":5.6743,
+    "geom:longitude":117.9332,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kuala Sebode",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7784764,
+    "gn:latitude":5.6743,
+    "gn:longitude":117.9332,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kuala Sebode",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kuala Sebode"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        890490007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7784764
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5c5028448055b9db79f3be0655e402b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490007,
+            "locality_id":1276853145,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276853145,
+    "wof:lastmodified":1537674380,
+    "wof:name":"Kuala Sebode",
+    "wof:parent_id":890490007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.9332,
+    5.6743,
+    117.9332,
+    5.6743
+],
+  "geometry": {"coordinates":[117.9332,5.6743],"type":"Point"}
+}

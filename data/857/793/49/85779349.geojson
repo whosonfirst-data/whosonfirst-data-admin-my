@@ -1,0 +1,116 @@
+{
+  "id": 85779349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3454099.893735,
+    "geom:bbox":"102.249071,2.193997,102.249071,2.193997",
+    "geom:latitude":2.193997,
+    "geom:longitude":102.249071,
+    "gn:latitude":2.19167,
+    "gn:longitude":102.25167,
+    "iso:country":"MY",
+    "lbl:latitude":2.193997,
+    "lbl:longitude":102.249071,
+    "mps:latitude":2.191189,
+    "mps:longitude":102.255406,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "St. Paul's Hill"
+    ],
+    "name:eng_x_variant":[
+        "Saint Paul's Hill"
+    ],
+    "name:unk_x_variant":[
+        "St. Paul's Hill"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1734759,
+    "qs:gn_nam_loc":"melaka",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Saint Paul\u2019s Hill",
+    "qs:local_max":7816,
+    "qs:local_sum":12944,
+    "qs:localhoods":8,
+    "qs:name":"St. Paul's Hill",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:name_adm2":"Melaka Tengah",
+    "qs:name_lau":"Bandar Melaka",
+    "qs:name_local":"Melaka",
+    "qs:photo_max":1973,
+    "qs:photo_sum":7816,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":51,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346299,
+    "qs:woe_adm2":56013576,
+    "qs:woe_lau":56014534,
+    "qs:woe_local":1154903,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":157,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023085,
+        890489715,
+        85675151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1903694,
+        "gp:id":28345537,
+        "qs:id":894098,
+        "qs_pg:id":894098,
+        "wd:id":"Q19646406"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ef7149e3f7d87f7b1959d75e9d2da5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":102023085,
+            "neighbourhood_id":85779349,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":85779349,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859918,
+    "wof:name":"St. Paul's Hill",
+    "wof:parent_id":102023085,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.249071,
+    2.193997,
+    102.249071,
+    2.193997
+],
+  "geometry": {"coordinates":[102.249071,2.193997],"type":"Point"}
+}

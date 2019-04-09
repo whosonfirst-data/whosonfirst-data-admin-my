@@ -1,0 +1,70 @@
+{
+  "id": 1209918831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7592,2.6224,101.7592,2.6224",
+    "geom:latitude":2.6224,
+    "geom:longitude":101.7592,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Pachitan",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698008,
+    "gn:latitude":2.6224,
+    "gn:longitude":101.7592,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pachitan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pachitan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698008
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"244be71c9f13b71f80da22f6ff5dd7e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490331,
+            "locality_id":1209918831,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1209918831,
+    "wof:lastmodified":1537674370,
+    "wof:name":"Kampung Pachitan",
+    "wof:parent_id":890490331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7592,
+    2.6224,
+    101.7592,
+    2.6224
+],
+  "geometry": {"coordinates":[101.75920000000001,2.6224],"type":"Point"}
+}

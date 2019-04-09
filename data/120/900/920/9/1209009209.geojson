@@ -1,0 +1,64 @@
+{
+  "id": 1209009209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9543,2.7462,101.9543,2.7462",
+    "geom:latitude":2.7462,
+    "geom:longitude":101.9543,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Taman Rashibah Indah",
+    "gn:country_code":"MY",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796599,
+    "gn:latitude":2.7462,
+    "gn:longitude":101.9543,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Rashibah Indah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Rashibah Indah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796599
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0262fce44705c5e57e21cb5fc103e86d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209009209
+        }
+    ],
+    "wof:id":1209009209,
+    "wof:lastmodified":1537674407,
+    "wof:name":"Taman Rashibah Indah",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9543,
+    2.7462,
+    101.9543,
+    2.7462
+],
+  "geometry": {"coordinates":[101.9543,2.7462],"type":"Point"}
+}

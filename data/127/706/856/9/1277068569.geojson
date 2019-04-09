@@ -1,0 +1,73 @@
+{
+  "id": 1277068569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0937,4.6649,101.0937,4.6649",
+    "geom:latitude":4.6649,
+    "geom:longitude":101.0937,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Rancangan Perkampungan Tersusun Chepor Dalam",
+    "gn:country_code":"MY",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473352,
+    "gn:latitude":4.6649,
+    "gn:longitude":101.0937,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Rancangan Perkampungan Tersusun Chepor Dalam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rancangan Perkampungan Tersusun Chepor Dalam"
+    ],
+    "name:und_x_variant":[
+        "Kampung RPT Chepor Dalam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473352
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c4e5327eb9dd9c25c12b15e33342fe6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1277068569,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1277068569,
+    "wof:lastmodified":1537674305,
+    "wof:name":"Kampung Rancangan Perkampungan Tersusun Chepor Dalam",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0937,
+    4.6649,
+    101.0937,
+    4.6649
+],
+  "geometry": {"coordinates":[101.0937,4.6649],"type":"Point"}
+}

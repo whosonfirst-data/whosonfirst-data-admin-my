@@ -1,0 +1,64 @@
+{
+  "id": 1209319489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2856,2.7923,102.2856,2.7923",
+    "geom:latitude":2.7923,
+    "geom:longitude":102.2856,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Juasseh Kapitan",
+    "gn:country_code":"MY",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536678,
+    "gn:latitude":2.7923,
+    "gn:longitude":102.2856,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Juasseh Kapitan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Juasseh Kapitan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536678
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"95595b4086097afe7004e168d00bd5b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209319489
+        }
+    ],
+    "wof:id":1209319489,
+    "wof:lastmodified":1537674464,
+    "wof:name":"Kampung Juasseh Kapitan",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2856,
+    2.7923,
+    102.2856,
+    2.7923
+],
+  "geometry": {"coordinates":[102.2856,2.7923],"type":"Point"}
+}

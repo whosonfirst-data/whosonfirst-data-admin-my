@@ -1,0 +1,64 @@
+{
+  "id": 1209607845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3729,2.9682,103.3729,2.9682",
+    "geom:latitude":2.9682,
+    "geom:longitude":103.3729,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Permatang Pasir",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796988,
+    "gn:latitude":2.9682,
+    "gn:longitude":103.3729,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Permatang Pasir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Permatang Pasir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796988
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5e0fa167dc7c169f274c6ca701b767dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209607845
+        }
+    ],
+    "wof:id":1209607845,
+    "wof:lastmodified":1537674413,
+    "wof:name":"Permatang Pasir",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3729,
+    2.9682,
+    103.3729,
+    2.9682
+],
+  "geometry": {"coordinates":[103.3729,2.9682],"type":"Point"}
+}

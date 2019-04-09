@@ -1,0 +1,70 @@
+{
+  "id": 1242883799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.342,2.0471,103.342,2.0471",
+    "geom:latitude":2.0471,
+    "geom:longitude":103.342,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Nasib",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7614292,
+    "gn:latitude":2.0471,
+    "gn:longitude":103.342,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Nasib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Nasib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7614292
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ce5f97b1a9afc4f614f113ef0a71abe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1242883799,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1242883799,
+    "wof:lastmodified":1537674331,
+    "wof:name":"Taman Nasib",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.342,
+    2.0471,
+    103.342,
+    2.0471
+],
+  "geometry": {"coordinates":[103.342,2.0471],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326812397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.8359,6.4911,116.8359,6.4911",
+    "geom:latitude":6.4911,
+    "geom:longitude":116.8359,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Rasak",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748984,
+    "gn:latitude":6.4911,
+    "gn:longitude":116.8359,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Rasak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rasak"
+    ],
+    "name:und_x_variant":[
+        "Rasak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748984
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cae29ecd04431286c2273181c237092b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696425,
+            "locality_id":1326812397,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1326812397,
+    "wof:lastmodified":1537673780,
+    "wof:name":"Kampung Rasak",
+    "wof:parent_id":1108696425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.8359,
+    6.4911,
+    116.8359,
+    6.4911
+],
+  "geometry": {"coordinates":[116.8359,6.4911],"type":"Point"}
+}

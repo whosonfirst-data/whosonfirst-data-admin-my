@@ -1,0 +1,61 @@
+{
+  "id": 1209116163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.31667,2.91667,101.31667,2.91667",
+    "geom:latitude":2.91667,
+    "geom:longitude":101.31667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Kampong Sungai Kembong",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763980,
+    "gn:latitude":2.91667,
+    "gn:longitude":101.31667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Sungai Kembong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763980
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d872ec53b8d2238dd0d2ed78180315d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209116163
+        }
+    ],
+    "wof:id":1209116163,
+    "wof:lastmodified":1536297247,
+    "wof:name":"Kampong Sungai Kembong",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.31667,
+    2.91667,
+    101.31667,
+    2.91667
+],
+  "geometry": {"coordinates":[101.31667,2.91667],"type":"Point"}
+}

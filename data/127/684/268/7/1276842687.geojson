@@ -1,0 +1,73 @@
+{
+  "id": 1276842687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.6877,6.4955,116.6877,6.4955",
+    "geom:latitude":6.4955,
+    "geom:longitude":116.6877,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Pinatau",
+    "gn:country_code":"MY",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765427,
+    "gn:latitude":6.4955,
+    "gn:longitude":116.6877,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pinatau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pinatau"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pinatan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765427
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c0d03ef5b220daaae4f5d71a18a5dd45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696425,
+            "locality_id":1276842687,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276842687,
+    "wof:lastmodified":1537673953,
+    "wof:name":"Kampung Pinatau",
+    "wof:parent_id":1108696425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.6877,
+    6.4955,
+    116.6877,
+    6.4955
+],
+  "geometry": {"coordinates":[116.68770000000001,6.4955],"type":"Point"}
+}

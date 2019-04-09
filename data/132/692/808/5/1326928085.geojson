@@ -1,0 +1,70 @@
+{
+  "id": 1326928085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3761,3.4957,103.3761,3.4957",
+    "geom:latitude":3.4957,
+    "geom:longitude":103.3761,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Makam Condong",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7685698,
+    "gn:latitude":3.4957,
+    "gn:longitude":103.3761,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Makam Condong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Makam Condong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685698
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6f19d51fbf4d1f85fd806d72d6dd8472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1326928085,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1326928085,
+    "wof:lastmodified":1537674359,
+    "wof:name":"Kampung Makam Condong",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3761,
+    3.4957,
+    103.3761,
+    3.4957
+],
+  "geometry": {"coordinates":[103.37609999999999,3.4957],"type":"Point"}
+}

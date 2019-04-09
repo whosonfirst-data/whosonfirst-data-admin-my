@@ -1,0 +1,70 @@
+{
+  "id": 1327413155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.46261,5.52238,102.46261,5.52238",
+    "geom:latitude":5.52238,
+    "geom:longitude":102.46261,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Kelkak",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068265,
+    "gn:latitude":5.52238,
+    "gn:longitude":102.46261,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Kelkak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kelkak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068265
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3f8669aa3ff8d6917ec8e699c755cf64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "locality_id":1327413155,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1327413155,
+    "wof:lastmodified":1537674280,
+    "wof:name":"Kampung Kelkak",
+    "wof:parent_id":890488399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.46261,
+    5.52238,
+    102.46261,
+    5.52238
+],
+  "geometry": {"coordinates":[102.46261,5.52238],"type":"Point"}
+}

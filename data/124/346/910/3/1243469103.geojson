@@ -1,0 +1,67 @@
+{
+  "id": 1243469103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.0,5.0,118.0,5.0",
+    "geom:latitude":5.0,
+    "geom:longitude":118.0,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lahad Datu",
+    "gn:country_code":"MY",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733600,
+    "gn:latitude":5.0,
+    "gn:longitude":118.0,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Lahad Datu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733600
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"47184e2e88ef381ad6435b9bcb07e243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696441,
+            "locality_id":1243469103,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1243469103,
+    "wof:lastmodified":1536773444,
+    "wof:name":"Lahad Datu",
+    "wof:parent_id":1108696441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.0,
+    5.0,
+    118.0,
+    5.0
+],
+  "geometry": {"coordinates":[118.0,5.0],"type":"Point"}
+}

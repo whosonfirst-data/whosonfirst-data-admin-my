@@ -1,0 +1,70 @@
+{
+  "id": 1327252465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.48845,5.26222,100.48845,5.26222",
+    "geom:latitude":5.26222,
+    "geom:longitude":100.48845,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Paya Mahang",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819366,
+    "gn:latitude":5.26222,
+    "gn:longitude":100.48845,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Paya Mahang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Paya Mahang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819366
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6fff4d215ff2bd25e10833540ad57c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1327252465,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1327252465,
+    "wof:lastmodified":1537674250,
+    "wof:name":"Paya Mahang",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.48845,
+    5.26222,
+    100.48845,
+    5.26222
+],
+  "geometry": {"coordinates":[100.48845,5.26222],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243451819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1714,3.1878,103.1714,3.1878",
+    "geom:latitude":3.1878,
+    "geom:longitude":103.1714,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Terubin",
+    "gn:country_code":"MY",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762719,
+    "gn:latitude":3.1878,
+    "gn:longitude":103.1714,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Terubin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Terubin"
+    ],
+    "name:und_x_variant":[
+        "Kampong Terubin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762719
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e4d592f820e5513461ab44c29f84922f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1243451819,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1243451819,
+    "wof:lastmodified":1537673827,
+    "wof:name":"Kampung Terubin",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1714,
+    3.1878,
+    103.1714,
+    3.1878
+],
+  "geometry": {"coordinates":[103.17140000000001,3.1878],"type":"Point"}
+}

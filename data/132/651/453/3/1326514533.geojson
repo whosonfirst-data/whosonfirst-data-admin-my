@@ -1,0 +1,75 @@
+{
+  "id": 1326514533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.51928,5.35608,100.51928,5.35608",
+    "geom:latitude":5.35608,
+    "geom:longitude":100.51928,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Pagar Teras",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1752922,
+    "gn:latitude":5.35608,
+    "gn:longitude":100.51928,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pagar Teras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pagar Teras"
+    ],
+    "name:und_x_variant":[
+        "Pagar Tras",
+        "Pagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1752922
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dd3d9525bd77ee106fb8103cecb10afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1326514533,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1326514533,
+    "wof:lastmodified":1537673789,
+    "wof:name":"Pagar Teras",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51928,
+    5.35608,
+    100.51928,
+    5.35608
+],
+  "geometry": {"coordinates":[100.51927999999999,5.35608],"type":"Point"}
+}

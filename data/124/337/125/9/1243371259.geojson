@@ -1,0 +1,72 @@
+{
+  "id": 1243371259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.90779,5.47746,101.90779,5.47746",
+    "geom:latitude":5.47746,
+    "geom:longitude":101.90779,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Bukit Jering",
+    "gn:country_code":"MY",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770256,
+    "gn:latitude":5.47746,
+    "gn:longitude":101.90779,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kampung Bukit Jering",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jerimbong",
+        "Kampong Bukit Jering",
+        "Kampung Bukit Jering"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770256
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"51489cd030657728a330d5426f9116e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490101,
+            "locality_id":1243371259,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1243371259,
+    "wof:lastmodified":1537674154,
+    "wof:name":"Kampung Bukit Jering",
+    "wof:parent_id":890490101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.90779,
+    5.47746,
+    101.90779,
+    5.47746
+],
+  "geometry": {"coordinates":[101.90779000000001,5.47746],"type":"Point"}
+}

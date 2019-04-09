@@ -1,0 +1,73 @@
+{
+  "id": 1309885289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1177,5.2672,103.1177,5.2672",
+    "geom:latitude":5.2672,
+    "geom:longitude":103.1177,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Kubang Durian",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767873,
+    "gn:latitude":5.2672,
+    "gn:longitude":103.1177,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kubang Durian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kubang Durian"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kubang Durian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767873
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3d4bd4a31d1af01d770cb7490f97adc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1309885289,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1309885289,
+    "wof:lastmodified":1537674054,
+    "wof:name":"Kampung Kubang Durian",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1177,
+    5.2672,
+    103.1177,
+    5.2672
+],
+  "geometry": {"coordinates":[103.1177,5.2672],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209220575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2615,2.2084,102.2615,2.2084",
+    "geom:latitude":2.2084,
+    "geom:longitude":102.2615,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Durian Daun Dalam",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797975,
+    "gn:latitude":2.2084,
+    "gn:longitude":102.2615,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Durian Daun Dalam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Durian Daun Dalam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797975
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b0fa7ed345e20d760920909339112659",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209220575
+        }
+    ],
+    "wof:id":1209220575,
+    "wof:lastmodified":1537674427,
+    "wof:name":"Durian Daun Dalam",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2615,
+    2.2084,
+    102.2615,
+    2.2084
+],
+  "geometry": {"coordinates":[102.2615,2.2084],"type":"Point"}
+}

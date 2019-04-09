@@ -1,0 +1,70 @@
+{
+  "id": 890488679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.499265,2.125023,102.499265,2.125023",
+    "geom:latitude":2.125023,
+    "geom:longitude":102.499265,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Sungai Rambai",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":103,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014569,
+        "qs:id":287375,
+        "wd:id":"Q7640171",
+        "wk:page":"Sungai Rambai"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054728,
+    "wof:geomhash":"dfed0e1bb09fdffc21fa1386038c455c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489809,
+            "localadmin_id":890488679,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":890488679,
+    "wof:lastmodified":1527787080,
+    "wof:name":"Sungai Rambai",
+    "wof:parent_id":890489809,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.499265,
+    2.125023,
+    102.499265,
+    2.125023
+],
+  "geometry": {"coordinates":[102.49926499999999,2.125023],"type":"Point"}
+}

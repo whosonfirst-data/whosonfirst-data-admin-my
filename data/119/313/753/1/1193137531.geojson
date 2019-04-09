@@ -1,0 +1,66 @@
+{
+  "id": 1193137531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2571,2.1907,102.2571,2.1907",
+    "geom:latitude":2.1907,
+    "geom:longitude":102.2571,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Bandar Kaba",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797987,
+    "gn:latitude":2.1907,
+    "gn:longitude":102.2571,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bandar Kaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bandar Kaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797987
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e84ad09005a8d92db416d1721dbd4cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1193137531,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193137531,
+    "wof:lastmodified":1537674427,
+    "wof:name":"Kampung Bandar Kaba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2571,
+    2.1907,
+    102.2571,
+    2.1907
+],
+  "geometry": {"coordinates":[102.25709999999999,2.1907],"type":"Point"}
+}

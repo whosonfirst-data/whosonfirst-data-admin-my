@@ -1,0 +1,70 @@
+{
+  "id": 1293314651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.344,4.1133,102.344,4.1133",
+    "geom:latitude":4.1133,
+    "geom:longitude":102.344,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Kuala Pai",
+    "gn:country_code":"MY",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564997,
+    "gn:latitude":4.1133,
+    "gn:longitude":102.344,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kuala Pai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Pai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564997
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"241f58d80bd605ec8e287b56ceb1b15c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1293314651,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293314651,
+    "wof:lastmodified":1537674311,
+    "wof:name":"Kampung Kuala Pai",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.344,
+    4.1133,
+    102.344,
+    4.1133
+],
+  "geometry": {"coordinates":[102.34399999999999,4.1133],"type":"Point"}
+}

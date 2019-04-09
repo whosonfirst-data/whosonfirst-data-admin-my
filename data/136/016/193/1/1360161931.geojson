@@ -1,0 +1,70 @@
+{
+  "id": 1360161931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5898,3.3423,101.5898,3.3423",
+    "geom:latitude":3.3423,
+    "geom:longitude":101.5898,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kampung Tanjung",
+    "gn:country_code":"MY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795825,
+    "gn:latitude":3.3423,
+    "gn:longitude":101.5898,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tanjung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795825
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7d925f1fabdb61eefa3a26e1b6134da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1360161931,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1360161931,
+    "wof:lastmodified":1537674395,
+    "wof:name":"Kampung Tanjung",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5898,
+    3.3423,
+    101.5898,
+    3.3423
+],
+  "geometry": {"coordinates":[101.5898,3.3423],"type":"Point"}
+}

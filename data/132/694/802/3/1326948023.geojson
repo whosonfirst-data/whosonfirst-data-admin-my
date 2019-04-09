@@ -1,0 +1,73 @@
+{
+  "id": 1326948023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5485,2.2833,102.5485,2.2833",
+    "geom:latitude":2.2833,
+    "geom:longitude":102.5485,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Chenas",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769836,
+    "gn:latitude":2.2833,
+    "gn:longitude":102.5485,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Chenas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Chenas"
+    ],
+    "name:und_x_variant":[
+        "Kampong Chenas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769836
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"308a9f5e7eda48471b3b64cfa5da4cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1326948023,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1326948023,
+    "wof:lastmodified":1537674136,
+    "wof:name":"Kampung Chenas",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5485,
+    2.2833,
+    102.5485,
+    2.2833
+],
+  "geometry": {"coordinates":[102.5485,2.2833],"type":"Point"}
+}

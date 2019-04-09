@@ -1,0 +1,70 @@
+{
+  "id": 1344270943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7706,2.7684,102.7706,2.7684",
+    "geom:latitude":2.7684,
+    "geom:longitude":102.7706,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ladang Bukit Bujang",
+    "gn:country_code":"MY",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797140,
+    "gn:latitude":2.7684,
+    "gn:longitude":102.7706,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ladang Bukit Bujang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ladang Bukit Bujang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797140
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"739cd11f77a5e6f7d9981ab8df23206a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1344270943,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1344270943,
+    "wof:lastmodified":1537674415,
+    "wof:name":"Ladang Bukit Bujang",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7706,
+    2.7684,
+    102.7706,
+    2.7684
+],
+  "geometry": {"coordinates":[102.7706,2.7684],"type":"Point"}
+}

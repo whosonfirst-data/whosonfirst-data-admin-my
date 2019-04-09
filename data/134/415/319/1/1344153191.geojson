@@ -1,0 +1,70 @@
+{
+  "id": 1344153191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38348,5.54913,100.38348,5.54913",
+    "geom:latitude":5.54913,
+    "geom:longitude":100.38348,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Permatang Tok Brain",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6856696,
+    "gn:latitude":5.54913,
+    "gn:longitude":100.38348,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Permatang Tok Brain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Permatang Tok Brain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890490327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6856696
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"68c3f194b70e0b8019c5eb486938ab13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490327,
+            "locality_id":1344153191,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1344153191,
+    "wof:lastmodified":1537674265,
+    "wof:name":"Permatang Tok Brain",
+    "wof:parent_id":890490327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38348,
+    5.54913,
+    100.38348,
+    5.54913
+],
+  "geometry": {"coordinates":[100.38348000000001,5.54913],"type":"Point"}
+}

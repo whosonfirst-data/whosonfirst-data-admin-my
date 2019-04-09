@@ -1,0 +1,61 @@
+{
+  "id": 1209596597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.33333,3.05,113.33333,3.05",
+    "geom:latitude":3.05,
+    "geom:longitude":113.33333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rumah Changgai",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1737450,
+    "gn:latitude":3.05,
+    "gn:longitude":113.33333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Changgai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1737450
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1e7e516e30cda4f05034c2ee122c68c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209596597
+        }
+    ],
+    "wof:id":1209596597,
+    "wof:lastmodified":1536282304,
+    "wof:name":"Rumah Changgai",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.33333,
+    3.05,
+    113.33333,
+    3.05
+],
+  "geometry": {"coordinates":[113.33333,3.05],"type":"Point"}
+}

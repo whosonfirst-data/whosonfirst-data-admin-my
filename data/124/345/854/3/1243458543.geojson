@@ -1,0 +1,70 @@
+{
+  "id": 1243458543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.95252,2.07483,102.95252,2.07483",
+    "geom:latitude":2.07483,
+    "geom:longitude":102.95252,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bukit Wahak",
+    "gn:country_code":"MY",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733304,
+    "gn:latitude":2.07483,
+    "gn:longitude":102.95252,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bukit Wahak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bukit Wahak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733304
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f53c78d06f0518cd75fe3bfdf8d62336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1243458543,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1243458543,
+    "wof:lastmodified":1537673675,
+    "wof:name":"Bukit Wahak",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.95252,
+    2.07483,
+    102.95252,
+    2.07483
+],
+  "geometry": {"coordinates":[102.95252000000001,2.07483],"type":"Point"}
+}

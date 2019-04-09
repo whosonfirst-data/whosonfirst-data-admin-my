@@ -1,0 +1,73 @@
+{
+  "id": 1293214827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0597,1.8467,103.0597,1.8467",
+    "geom:latitude":1.8467,
+    "geom:longitude":103.0597,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Tunggul Hitam",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762420,
+    "gn:latitude":1.8467,
+    "gn:longitude":103.0597,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tunggul Hitam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tunggul Hitam"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tunggul Hitam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762420
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a4eb82bf4b8fb135b5d97a6a718e4def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1293214827,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293214827,
+    "wof:lastmodified":1537673815,
+    "wof:name":"Kampung Tunggul Hitam",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0597,
+    1.8467,
+    103.0597,
+    1.8467
+],
+  "geometry": {"coordinates":[103.05970000000001,1.8467],"type":"Point"}
+}

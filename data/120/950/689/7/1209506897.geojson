@@ -1,0 +1,64 @@
+{
+  "id": 1209506897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1118,4.7067,101.1118,4.7067",
+    "geom:latitude":4.7067,
+    "geom:longitude":101.1118,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taman Rasi Kuala Kuang",
+    "gn:country_code":"MY",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473337,
+    "gn:latitude":4.7067,
+    "gn:longitude":101.1118,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Rasi Kuala Kuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Rasi Kuala Kuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473337
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9be5ac5751f481588a2544eeb1bc45e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209506897
+        }
+    ],
+    "wof:id":1209506897,
+    "wof:lastmodified":1537674305,
+    "wof:name":"Taman Rasi Kuala Kuang",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1118,
+    4.7067,
+    101.1118,
+    4.7067
+],
+  "geometry": {"coordinates":[101.1118,4.7067],"type":"Point"}
+}

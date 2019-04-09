@@ -1,0 +1,73 @@
+{
+  "id": 890489765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1,4.9,101.1,4.9",
+    "geom:latitude":4.9,
+    "geom:longitude":101.1,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kampong Batu Lapan",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos":15,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85675123,
+        85632739,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770878,
+        "gp:id":1142147,
+        "qs:id":1096469
+    },
+    "wof:country":"MY",
+    "wof:created":1469054769,
+    "wof:geomhash":"ec291b8c2e9da934e9fe4a0cc59b896a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "neighbourhood_id":890489765,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890489765,
+    "wof:lastmodified":1505343786,
+    "wof:name":"Kampong Batu Lapan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1,
+    4.9,
+    101.1,
+    4.9
+],
+  "geometry": {"coordinates":[101.09999999999999,4.9],"type":"Point"}
+}

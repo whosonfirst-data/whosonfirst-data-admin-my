@@ -1,0 +1,105 @@
+{
+  "id": 1125965269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0353,2.3594,102.0353,2.3594",
+    "geom:latitude":2.3594,
+    "geom:longitude":102.0353,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":12269,
+    "gn:population":12269,
+    "iso:country":"MY",
+    "lbl:latitude":2.3594,
+    "lbl:longitude":102.0353,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kuala Sungai Baru"
+    ],
+    "name:eng_x_preferred":[
+        "Kuala Sungai Baru"
+    ],
+    "name:may_x_preferred":[
+        "Kuala Sungai Baru"
+    ],
+    "name:msa_x_preferred":[
+        "Kuala Sungai Baru"
+    ],
+    "name:spa_x_preferred":[
+        "Kuala Sungai Baru"
+    ],
+    "name:unk_x_variant":[
+        "Kuala Sungai Baru"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1759513,
+    "qs_pg:gn_pop":12269,
+    "qs_pg:name":"Kuala Sungai Baharu",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Melaka",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1072844,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1151823,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Melaka",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1759513,
+        "gp:id":1151823,
+        "qs_pg:id":1072844,
+        "wd:id":"Q2643150"
+    },
+    "wof:country":"MY",
+    "wof:created":1497297949,
+    "wof:geomhash":"c46c838c278f2e892ec3e54a00384851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1125965269,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125965269,
+    "wof:lastmodified":1514490584,
+    "wof:name":"Kuala Sungai Baharu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":12269,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0353,
+    2.3594,
+    102.0353,
+    2.3594
+],
+  "geometry": {"coordinates":[102.03530000000001,2.3594],"type":"Point"}
+}

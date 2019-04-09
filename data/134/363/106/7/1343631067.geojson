@@ -1,0 +1,73 @@
+{
+  "id": 1343631067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5675,6.374,116.5675,6.374",
+    "geom:latitude":6.374,
+    "geom:longitude":116.5675,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Luba Utara",
+    "gn:country_code":"MY",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767362,
+    "gn:latitude":6.374,
+    "gn:longitude":116.5675,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Luba Utara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Luba Utara"
+    ],
+    "name:und_x_variant":[
+        "Kampong Luba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767362
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e9b1567b098d5218257891f8a3b609c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1343631067,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343631067,
+    "wof:lastmodified":1537674034,
+    "wof:name":"Kampung Luba Utara",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5675,
+    6.374,
+    116.5675,
+    6.374
+],
+  "geometry": {"coordinates":[116.5675,6.374],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343476591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.5006,1.5788,103.5006,1.5788",
+    "geom:latitude":1.5788,
+    "geom:longitude":103.5006,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Sepakat Jaya",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857947,
+    "gn:latitude":1.5788,
+    "gn:longitude":103.5006,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sepakat Jaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sepakat Jaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857947
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fc1c35238ca0f07ace16e2dc62d0431e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "locality_id":1343476591,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1343476591,
+    "wof:lastmodified":1537674447,
+    "wof:name":"Kampung Sepakat Jaya",
+    "wof:parent_id":890491001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.5006,
+    1.5788,
+    103.5006,
+    1.5788
+],
+  "geometry": {"coordinates":[103.50060000000001,1.5788],"type":"Point"}
+}

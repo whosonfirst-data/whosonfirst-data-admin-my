@@ -1,0 +1,70 @@
+{
+  "id": 1276219633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8802,3.9775,101.8802,3.9775",
+    "geom:latitude":3.9775,
+    "geom:longitude":101.8802,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Sain",
+    "gn:country_code":"MY",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638893,
+    "gn:latitude":3.9775,
+    "gn:longitude":101.8802,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638893
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"561546a4bbf8e61c02905f7c7c41fded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1276219633,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276219633,
+    "wof:lastmodified":1537674344,
+    "wof:name":"Kampung Sain",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8802,
+    3.9775,
+    101.8802,
+    3.9775
+],
+  "geometry": {"coordinates":[101.8802,3.9775],"type":"Point"}
+}

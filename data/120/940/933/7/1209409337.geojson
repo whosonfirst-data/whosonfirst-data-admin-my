@@ -1,0 +1,61 @@
+{
+  "id": 1209409337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.18333,4.21667,101.18333,4.21667",
+    "geom:latitude":4.21667,
+    "geom:longitude":101.18333,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Banir Baharu",
+    "gn:country_code":"MY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771065,
+    "gn:latitude":4.21667,
+    "gn:longitude":101.18333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Banir Baharu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771065
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3e32479466f1ada52a72c7b087edbf88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209409337
+        }
+    ],
+    "wof:id":1209409337,
+    "wof:lastmodified":1536287891,
+    "wof:name":"Kampong Banir Baharu",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.18333,
+    4.21667,
+    101.18333,
+    4.21667
+],
+  "geometry": {"coordinates":[101.18333,4.21667],"type":"Point"}
+}

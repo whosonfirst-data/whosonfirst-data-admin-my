@@ -1,0 +1,70 @@
+{
+  "id": 1260254993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.0267,6.1079,117.0267,6.1079",
+    "geom:latitude":6.1079,
+    "geom:longitude":117.0267,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Kosanit",
+    "gn:country_code":"MY",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418577,
+    "gn:latitude":6.1079,
+    "gn:longitude":117.0267,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kosanit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kosanit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418577
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1ebf8eb06923a0c8793e45e5d3095a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1260254993,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1260254993,
+    "wof:lastmodified":1537674285,
+    "wof:name":"Kampung Kosanit",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.0267,
+    6.1079,
+    117.0267,
+    6.1079
+],
+  "geometry": {"coordinates":[117.02670000000001,6.1079],"type":"Point"}
+}

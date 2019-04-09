@@ -1,0 +1,70 @@
+{
+  "id": 1343585409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.453,2.2588,102.453,2.2588",
+    "geom:latitude":2.2588,
+    "geom:longitude":102.453,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tanah Merah",
+    "gn:country_code":"MY",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307792,
+    "gn:latitude":2.2588,
+    "gn:longitude":102.453,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Tanah Merah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Tanah Merah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307792
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8dd7835eaecaffb8578638ca9e22598f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489809,
+            "locality_id":1343585409,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1343585409,
+    "wof:lastmodified":1537674452,
+    "wof:name":"Tanah Merah",
+    "wof:parent_id":890489809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.453,
+    2.2588,
+    102.453,
+    2.2588
+],
+  "geometry": {"coordinates":[102.453,2.2588],"type":"Point"}
+}

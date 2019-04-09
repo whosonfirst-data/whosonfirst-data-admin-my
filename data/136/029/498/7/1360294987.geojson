@@ -1,0 +1,70 @@
+{
+  "id": 1360294987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.9018,1.7976,103.9018,1.7976",
+    "geom:latitude":1.7976,
+    "geom:longitude":103.9018,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Lukut",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732731,
+    "gn:latitude":1.7976,
+    "gn:longitude":103.9018,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Lukut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lukut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732731
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"eb6db45df512a3819048c9478c44698d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":1360294987,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1360294987,
+    "wof:lastmodified":1537673668,
+    "wof:name":"Kampung Lukut",
+    "wof:parent_id":890491003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9018,
+    1.7976,
+    103.9018,
+    1.7976
+],
+  "geometry": {"coordinates":[103.90179999999999,1.7976],"type":"Point"}
+}

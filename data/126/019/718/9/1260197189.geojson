@@ -1,0 +1,73 @@
+{
+  "id": 1260197189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.82246,2.57374,102.82246,2.57374",
+    "geom:latitude":2.57374,
+    "geom:longitude":102.82246,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Jemain",
+    "gn:country_code":"MY",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768820,
+    "gn:latitude":2.57374,
+    "gn:longitude":102.82246,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Jemain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jemain"
+    ],
+    "name:und_x_variant":[
+        "Kampong Jemain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768820
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"83780eb081e4f453f57bd8d89e1e4e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1260197189,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1260197189,
+    "wof:lastmodified":1537674096,
+    "wof:name":"Kampung Jemain",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.82246,
+    2.57374,
+    102.82246,
+    2.57374
+],
+  "geometry": {"coordinates":[102.82246000000001,2.57374],"type":"Point"}
+}

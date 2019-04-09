@@ -1,0 +1,72 @@
+{
+  "id": 1259571155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.21667,1.86667,111.21667,1.86667",
+    "geom:latitude":1.86667,
+    "geom:longitude":111.21667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Asen",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748164,
+    "gn:latitude":1.86667,
+    "gn:longitude":111.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rumah Asen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rumah Asson",
+        "Rumah Asen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748164
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9d79f46949cf77f9fbb0cb8e33a2ebf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696501,
+            "locality_id":1259571155,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1259571155,
+    "wof:lastmodified":1537673779,
+    "wof:name":"Rumah Asen",
+    "wof:parent_id":1108696501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.21667,
+    1.86667,
+    111.21667,
+    1.86667
+],
+  "geometry": {"coordinates":[111.21666999999999,1.86667],"type":"Point"}
+}

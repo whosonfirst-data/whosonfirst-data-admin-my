@@ -1,0 +1,73 @@
+{
+  "id": 1226124689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.7271,6.6781,116.7271,6.6781",
+    "geom:latitude":6.6781,
+    "geom:longitude":116.7271,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Namou",
+    "gn:country_code":"MY",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766726,
+    "gn:latitude":6.6781,
+    "gn:longitude":116.7271,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Namou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Namou"
+    ],
+    "name:und_x_variant":[
+        "Kampong Namou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766726
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e3fc5c528a6f657a399ab4affd74fd21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1226124689,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226124689,
+    "wof:lastmodified":1537674006,
+    "wof:name":"Kampung Namou",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.7271,
+    6.6781,
+    116.7271,
+    6.6781
+],
+  "geometry": {"coordinates":[116.72709999999999,6.6781],"type":"Point"}
+}

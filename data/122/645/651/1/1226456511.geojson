@@ -1,0 +1,70 @@
+{
+  "id": 1226456511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5783,2.047,102.5783,2.047",
+    "geom:latitude":2.047,
+    "geom:longitude":102.5783,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Kenangan Tun Dokter Ismail",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7855793,
+    "gn:latitude":2.047,
+    "gn:longitude":102.5783,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kenangan Tun Dokter Ismail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kenangan Tun Dokter Ismail"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855793
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"acd7d54acf803a8417057e18edcf2821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1226456511,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1226456511,
+    "wof:lastmodified":1537674435,
+    "wof:name":"Kampung Kenangan Tun Dokter Ismail",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5783,
+    2.047,
+    102.5783,
+    2.047
+],
+  "geometry": {"coordinates":[102.5783,2.047],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242691931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6432,1.9935,102.6432,1.9935",
+    "geom:latitude":1.9935,
+    "geom:longitude":102.6432,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Pinang Seribu Darat",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856395,
+    "gn:latitude":1.9935,
+    "gn:longitude":102.6432,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Pinang Seribu Darat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Pinang Seribu Darat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856395
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bc8f2ef404827af4746c82c304f192bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1242691931,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1242691931,
+    "wof:lastmodified":1537674439,
+    "wof:name":"Kampung Parit Pinang Seribu Darat",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6432,
+    1.9935,
+    102.6432,
+    1.9935
+],
+  "geometry": {"coordinates":[102.64319999999999,1.9935],"type":"Point"}
+}

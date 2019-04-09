@@ -1,0 +1,73 @@
+{
+  "id": 1293801599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1164,1.9376,103.1164,1.9376",
+    "geom:latitude":1.9376,
+    "geom:longitude":103.1164,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Assam Bubok",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771564,
+    "gn:latitude":1.9376,
+    "gn:longitude":103.1164,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Assam Bubok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Assam Bubok"
+    ],
+    "name:und_x_variant":[
+        "Kampong Asam Bubok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771564
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"26630081268170fada197600525a3ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1293801599,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293801599,
+    "wof:lastmodified":1537674208,
+    "wof:name":"Kampung Assam Bubok",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1164,
+    1.9376,
+    103.1164,
+    1.9376
+],
+  "geometry": {"coordinates":[103.1164,1.9376],"type":"Point"}
+}

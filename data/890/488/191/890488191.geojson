@@ -1,0 +1,67 @@
+{
+  "id": 890488191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.706512,2.969833,101.706512,2.969833",
+    "geom:latitude":2.969833,
+    "geom:longitude":101.706512,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Fakulti Perubatan Upm",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":159,
+    "qs:photos_1k":32,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":159,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56035080,
+        "qs:id":183793
+    },
+    "wof:country":"MY",
+    "wof:created":1469054710,
+    "wof:geomhash":"6a55047c333a8cbd9c17a807f80f9507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489971,
+            "locality_id":890488191,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890488191,
+    "wof:lastmodified":1500013490,
+    "wof:name":"Fakulti Perubatan Upm",
+    "wof:parent_id":890489971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.706512,
+    2.969833,
+    101.706512,
+    2.969833
+],
+  "geometry": {"coordinates":[101.706512,2.969833],"type":"Point"}
+}

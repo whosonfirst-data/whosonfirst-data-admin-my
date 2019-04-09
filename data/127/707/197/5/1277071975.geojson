@@ -1,0 +1,70 @@
+{
+  "id": 1277071975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8714,3.8001,101.8714,3.8001",
+    "geom:latitude":3.8001,
+    "geom:longitude":101.8714,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Baharu Sempalit Hilir",
+    "gn:country_code":"MY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638883,
+    "gn:latitude":3.8001,
+    "gn:longitude":101.8714,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Baharu Sempalit Hilir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Sempalit Hilir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638883
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"34382f9810fadd5372dcce8e141d8132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1277071975,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1277071975,
+    "wof:lastmodified":1537674344,
+    "wof:name":"Kampung Baharu Sempalit Hilir",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8714,
+    3.8001,
+    101.8714,
+    3.8001
+],
+  "geometry": {"coordinates":[101.87139999999999,3.8001],"type":"Point"}
+}

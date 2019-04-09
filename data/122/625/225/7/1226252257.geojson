@@ -1,0 +1,74 @@
+{
+  "id": 1226252257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.5617,1.3558,103.5617,1.3558",
+    "geom:latitude":1.3558,
+    "geom:longitude":103.5617,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Tanjung Adang",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763481,
+    "gn:latitude":1.3558,
+    "gn:longitude":103.5617,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tanjung Adang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Adang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tanjong Radang",
+        "Kampong Tanjong Adang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763481
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"00cf006febba7f217c17bfb8fdb8268e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1226252257,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1226252257,
+    "wof:lastmodified":1537673863,
+    "wof:name":"Kampung Tanjung Adang",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.5617,
+    1.3558,
+    103.5617,
+    1.3558
+],
+  "geometry": {"coordinates":[103.5617,1.3558],"type":"Point"}
+}

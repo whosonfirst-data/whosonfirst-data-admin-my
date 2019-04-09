@@ -1,0 +1,72 @@
+{
+  "id": 1293469215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.83333,5.01667,102.83333,5.01667",
+    "geom:latitude":5.01667,
+    "geom:longitude":102.83333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Pasir Bercing",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734343,
+    "gn:latitude":5.01667,
+    "gn:longitude":102.83333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pasir Bercing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Pasir Berching",
+        "Kampung Pasir Bercing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734343
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"56169c2cbeb558388ffcfa9caea57ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1293469215,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1293469215,
+    "wof:lastmodified":1537673703,
+    "wof:name":"Kampung Pasir Bercing",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.83333,
+    5.01667,
+    102.83333,
+    5.01667
+],
+  "geometry": {"coordinates":[102.83333,5.01667],"type":"Point"}
+}

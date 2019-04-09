@@ -1,0 +1,73 @@
+{
+  "id": 1260052503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.10964,6.85759,117.10964,6.85759",
+    "geom:latitude":6.85759,
+    "geom:longitude":117.10964,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Gumpa",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1774155,
+    "gn:latitude":6.85759,
+    "gn:longitude":117.10964,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kampung Gumpa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gumpa"
+    ],
+    "name:und_x_variant":[
+        "Gumpah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1774155
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"097cc92930b688adcd38fc0cee98d3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1260052503,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1260052503,
+    "wof:lastmodified":1537674216,
+    "wof:name":"Kampung Gumpa",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.10963999999998,
+    6.85759,
+    117.10963999999998,
+    6.85759
+],
+  "geometry": {"coordinates":[117.10963999999998,6.85759],"type":"Point"}
+}

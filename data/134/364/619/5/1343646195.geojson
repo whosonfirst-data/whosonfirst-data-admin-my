@@ -1,0 +1,73 @@
+{
+  "id": 1343646195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.51332,5.26676,100.51332,5.26676",
+    "geom:latitude":5.26676,
+    "geom:longitude":100.51332,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Dua Kongsi",
+    "gn:country_code":"MY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769630,
+    "gn:latitude":5.26676,
+    "gn:longitude":100.51332,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Dua Kongsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Dua Kongsi"
+    ],
+    "name:und_x_variant":[
+        "Kampong Dua Kongsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769630
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4c93e8901f021d40794e5a6c1d7ca928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1343646195,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1343646195,
+    "wof:lastmodified":1537674128,
+    "wof:name":"Kampung Dua Kongsi",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51332,
+    5.26676,
+    100.51332,
+    5.26676
+],
+  "geometry": {"coordinates":[100.51331999999999,5.26676],"type":"Point"}
+}

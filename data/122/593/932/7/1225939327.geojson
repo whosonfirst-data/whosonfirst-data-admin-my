@@ -1,0 +1,70 @@
+{
+  "id": 1225939327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5715,3.3785,102.5715,3.3785",
+    "geom:latitude":3.3785,
+    "geom:longitude":102.5715,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kemajuan Tanah Bukit Serdang",
+    "gn:country_code":"MY",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796116,
+    "gn:latitude":3.3785,
+    "gn:longitude":102.5715,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Bukit Serdang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Bukit Serdang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796116
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2cb142f38a84bdf73ced9952f81acde6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1225939327,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1225939327,
+    "wof:lastmodified":1537674401,
+    "wof:name":"Kemajuan Tanah Bukit Serdang",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5715,
+    3.3785,
+    102.5715,
+    3.3785
+],
+  "geometry": {"coordinates":[102.5715,3.3785],"type":"Point"}
+}

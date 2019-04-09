@@ -1,0 +1,73 @@
+{
+  "id": 1327236389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2201,2.6987,102.2201,2.6987",
+    "geom:latitude":2.6987,
+    "geom:longitude":102.2201,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Angga Bisa",
+    "gn:country_code":"MY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771600,
+    "gn:latitude":2.6987,
+    "gn:longitude":102.2201,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Angga Bisa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Angga Bisa"
+    ],
+    "name:und_x_variant":[
+        "Kampong Angga Bisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771600
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4ae30f41f84abed20f63d0f0eddd1444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1327236389,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1327236389,
+    "wof:lastmodified":1537674210,
+    "wof:name":"Kampung Angga Bisa",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2201,
+    2.6987,
+    102.2201,
+    2.6987
+],
+  "geometry": {"coordinates":[102.2201,2.6987],"type":"Point"}
+}

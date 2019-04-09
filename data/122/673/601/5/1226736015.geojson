@@ -1,0 +1,70 @@
+{
+  "id": 1226736015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1456,5.2874,103.1456,5.2874",
+    "geom:latitude":5.2874,
+    "geom:longitude":103.1456,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Gelung Gajah",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7608715,
+    "gn:latitude":5.2874,
+    "gn:longitude":103.1456,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Gelung Gajah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gelung Gajah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7608715
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"41ca8957f618532d8a2f5c1e725196db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1226736015,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1226736015,
+    "wof:lastmodified":1537674326,
+    "wof:name":"Kampung Gelung Gajah",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1456,
+    5.2874,
+    103.1456,
+    5.2874
+],
+  "geometry": {"coordinates":[103.1456,5.2874],"type":"Point"}
+}

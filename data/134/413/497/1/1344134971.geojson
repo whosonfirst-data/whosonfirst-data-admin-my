@@ -1,0 +1,72 @@
+{
+  "id": 1344134971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.85,4.06667,113.85,4.06667",
+    "geom:latitude":4.06667,
+    "geom:longitude":113.85,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Kuala Satap",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767972,
+    "gn:latitude":4.06667,
+    "gn:longitude":113.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Kuala Satap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Kuala Setap",
+        "Kampong Kuala Satap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767972
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"08821a49458b68c92bc3713033e89f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488483,
+            "locality_id":1344134971,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1344134971,
+    "wof:lastmodified":1537674058,
+    "wof:name":"Kampong Kuala Satap",
+    "wof:parent_id":890488483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.85,
+    4.06667,
+    113.85,
+    4.06667
+],
+  "geometry": {"coordinates":[113.84999999999999,4.06667],"type":"Point"}
+}

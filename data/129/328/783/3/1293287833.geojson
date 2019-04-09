@@ -1,0 +1,70 @@
+{
+  "id": 1293287833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4964,3.4212,102.4964,3.4212",
+    "geom:latitude":3.4212,
+    "geom:longitude":102.4964,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Caruk Puting",
+    "gn:country_code":"MY",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795972,
+    "gn:latitude":3.4212,
+    "gn:longitude":102.4964,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Caruk Puting",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Caruk Puting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795972
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2ea688ec04ac2731d45d2716f6f0eb43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1293287833,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293287833,
+    "wof:lastmodified":1537674398,
+    "wof:name":"Kampung Caruk Puting",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4964,
+    3.4212,
+    102.4964,
+    3.4212
+],
+  "geometry": {"coordinates":[102.49639999999999,3.4212],"type":"Point"}
+}

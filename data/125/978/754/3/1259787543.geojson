@@ -1,0 +1,70 @@
+{
+  "id": 1259787543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9943,2.0225,102.9943,2.0225",
+    "geom:latitude":2.0225,
+    "geom:longitude":102.9943,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Seri Menanti",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856990,
+    "gn:latitude":2.0225,
+    "gn:longitude":102.9943,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Seri Menanti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Seri Menanti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856990
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aee24ebbd0f484f15bd0b384ddbff248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1259787543,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1259787543,
+    "wof:lastmodified":1537674440,
+    "wof:name":"Kampung Parit Seri Menanti",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9943,
+    2.0225,
+    102.9943,
+    2.0225
+],
+  "geometry": {"coordinates":[102.9943,2.0225],"type":"Point"}
+}

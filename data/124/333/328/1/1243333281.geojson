@@ -1,0 +1,70 @@
+{
+  "id": 1243333281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.75898,6.94059,116.75898,6.94059",
+    "geom:latitude":6.94059,
+    "geom:longitude":116.75898,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Luru",
+    "gn:country_code":"MY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7603920,
+    "gn:latitude":6.94059,
+    "gn:longitude":116.75898,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Kampung Luru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Luru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7603920
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"59da940321a3bf5cb304bd2566e69f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1243333281,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1243333281,
+    "wof:lastmodified":1537674323,
+    "wof:name":"Kampung Luru",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.75898,
+    6.94059,
+    116.75898,
+    6.94059
+],
+  "geometry": {"coordinates":[116.75897999999999,6.94059],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 890490989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.546309,4.253285,100.546309,4.253285",
+    "geom:latitude":4.253285,
+    "geom:longitude":100.546309,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Pekan Pangkor",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos":35,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":35,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        1108696459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56037224,
+        "qs:id":250531
+    },
+    "wof:country":"MY",
+    "wof:created":1469054835,
+    "wof:geomhash":"1913a97b968ac67179e4ad2440df83a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696459,
+            "locality_id":890490989,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890490989,
+    "wof:lastmodified":1500013236,
+    "wof:name":"Pekan Pangkor",
+    "wof:parent_id":1108696459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.546309,
+    4.253285,
+    100.546309,
+    4.253285
+],
+  "geometry": {"coordinates":[100.54630899999999,4.253285],"type":"Point"}
+}

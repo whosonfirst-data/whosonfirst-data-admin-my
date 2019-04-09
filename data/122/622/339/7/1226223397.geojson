@@ -1,0 +1,75 @@
+{
+  "id": 1226223397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.4889,4.5528,115.4889,4.5528",
+    "geom:latitude":4.5528,
+    "geom:longitude":115.4889,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Long Sukang",
+    "gn:country_code":"MY",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1737622,
+    "gn:latitude":4.5528,
+    "gn:longitude":115.4889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Long Sukang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Long Sukang"
+    ],
+    "name:und_x_variant":[
+        "Sukang",
+        "Long Sukang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1737622,
+        "wk:page":"Long_Sukang"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3a4c5b730c708d464ef4f0c8322856a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696445,
+            "locality_id":1226223397,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1226223397,
+    "wof:lastmodified":1537673751,
+    "wof:name":"Long Sukang",
+    "wof:parent_id":1108696445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.4889,
+    4.5528,
+    115.4889,
+    4.5528
+],
+  "geometry": {"coordinates":[115.4889,4.5528],"type":"Point"}
+}

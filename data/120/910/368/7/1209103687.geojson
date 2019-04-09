@@ -1,0 +1,64 @@
+{
+  "id": 1209103687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8002,4.0641,101.8002,4.0641",
+    "geom:latitude":4.0641,
+    "geom:longitude":101.8002,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Felda Tersang Dua",
+    "gn:country_code":"MY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638813,
+    "gn:latitude":4.0641,
+    "gn:longitude":101.8002,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Felda Tersang Dua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Felda Tersang Dua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638813
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3561e1a58c8168be23cd19289526b76e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209103687
+        }
+    ],
+    "wof:id":1209103687,
+    "wof:lastmodified":1537674343,
+    "wof:name":"Kampung Felda Tersang Dua",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8002,
+    4.0641,
+    101.8002,
+    4.0641
+],
+  "geometry": {"coordinates":[101.8002,4.0641],"type":"Point"}
+}

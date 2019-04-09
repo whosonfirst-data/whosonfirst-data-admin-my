@@ -1,0 +1,63 @@
+{
+  "id": 1360163023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.86667,1.76667,109.86667,1.76667",
+    "geom:latitude":1.76667,
+    "geom:longitude":109.86667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Pandan",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766275,
+    "gn:latitude":1.76667,
+    "gn:longitude":109.86667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Pandan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766275
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d36d70c46ef45e60ccb2993614a04d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1360163023,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360163023,
+    "wof:lastmodified":1536832283,
+    "wof:name":"Kampong Pandan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.86667,
+    1.76667,
+    109.86667,
+    1.76667
+],
+  "geometry": {"coordinates":[109.86667,1.76667],"type":"Point"}
+}

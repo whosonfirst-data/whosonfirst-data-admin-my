@@ -1,0 +1,70 @@
+{
+  "id": 1226264033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7514,3.9418,100.7514,3.9418",
+    "geom:latitude":3.9418,
+    "geom:longitude":100.7514,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Parit Rungkup Utara",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7565922,
+    "gn:latitude":3.9418,
+    "gn:longitude":100.7514,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Rungkup Utara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Rungkup Utara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7565922
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6d084d3a2c1e74513ad109d8ac5020fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1226264033,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1226264033,
+    "wof:lastmodified":1537674312,
+    "wof:name":"Kampung Parit Rungkup Utara",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7514,
+    3.9418,
+    100.7514,
+    3.9418
+],
+  "geometry": {"coordinates":[100.7514,3.9418],"type":"Point"}
+}

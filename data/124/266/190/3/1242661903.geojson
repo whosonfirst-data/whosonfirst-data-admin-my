@@ -1,0 +1,78 @@
+{
+  "id": 1242661903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.52737,5.21536,100.52737,5.21536",
+    "geom:latitude":5.21536,
+    "geom:longitude":100.52737,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Sungai Baung",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764138,
+    "gn:latitude":5.21536,
+    "gn:longitude":100.52737,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Baung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Baong"
+    ],
+    "name:msa_x_variant":[
+        "Kampung Sungai Baung"
+    ],
+    "name:und_x_variant":[
+        "Sungei Bong",
+        "Kampong Sungai Baong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764138
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3252bb656e286105389bf3d5ea2d9e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1242661903,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1242661903,
+    "wof:lastmodified":1537673894,
+    "wof:name":"Kampung Sungai Baung",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52737,
+    5.21536,
+    100.52737,
+    5.21536
+],
+  "geometry": {"coordinates":[100.52737,5.21536],"type":"Point"}
+}

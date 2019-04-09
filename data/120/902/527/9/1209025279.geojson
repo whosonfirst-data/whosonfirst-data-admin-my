@@ -1,0 +1,67 @@
+{
+  "id": 1209025279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.21154,5.39307,100.21154,5.39307",
+    "geom:latitude":5.39307,
+    "geom:longitude":100.21154,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kampung Sungai Pinang",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6823182,
+    "gn:latitude":5.39307,
+    "gn:longitude":100.21154,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Sungai Pinang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Pinang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Pinang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823182
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2a032dfa993b7b0ab2151bc196086586",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209025279
+        }
+    ],
+    "wof:id":1209025279,
+    "wof:lastmodified":1537674251,
+    "wof:name":"Kampung Sungai Pinang",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.21154,
+    5.39307,
+    100.21154,
+    5.39307
+],
+  "geometry": {"coordinates":[100.21154,5.39307],"type":"Point"}
+}

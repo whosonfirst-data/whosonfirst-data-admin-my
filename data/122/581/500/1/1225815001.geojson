@@ -1,0 +1,70 @@
+{
+  "id": 1225815001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1566,6.0431,116.1566,6.0431",
+    "geom:latitude":6.0431,
+    "geom:longitude":116.1566,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Dambai",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7458656,
+    "gn:latitude":6.0431,
+    "gn:longitude":116.1566,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Dambai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Dambai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7458656
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c4f165cee5e1f34c8804e05a80e1efef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1225815001,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1225815001,
+    "wof:lastmodified":1537674290,
+    "wof:name":"Kampung Dambai",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1566,
+    6.0431,
+    116.1566,
+    6.0431
+],
+  "geometry": {"coordinates":[116.1566,6.0431],"type":"Point"}
+}

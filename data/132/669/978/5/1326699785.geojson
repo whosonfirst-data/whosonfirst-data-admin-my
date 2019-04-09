@@ -1,0 +1,70 @@
+{
+  "id": 1326699785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.7292,6.8735,116.7292,6.8735",
+    "geom:latitude":6.8735,
+    "geom:longitude":116.7292,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Popot",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7784994,
+    "gn:latitude":6.8735,
+    "gn:longitude":116.7292,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Popot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Popot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7784994
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4d585dae5cc203cd3c03ea5e16c2cba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1326699785,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1326699785,
+    "wof:lastmodified":1537674381,
+    "wof:name":"Kampung Popot",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.7292,
+    6.8735,
+    116.7292,
+    6.8735
+],
+  "geometry": {"coordinates":[116.72920000000001,6.8735],"type":"Point"}
+}

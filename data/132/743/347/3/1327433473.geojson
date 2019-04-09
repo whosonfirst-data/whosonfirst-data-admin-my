@@ -1,0 +1,70 @@
+{
+  "id": 1327433473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.18859,6.00732,102.18859,6.00732",
+    "geom:latitude":6.00732,
+    "geom:longitude":102.18859,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Keledang",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068144,
+    "gn:latitude":6.00732,
+    "gn:longitude":102.18859,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Keledang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Keledang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068144
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"de3ad15e2c97dc2e1c98f7d4df005e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489783,
+            "locality_id":1327433473,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1327433473,
+    "wof:lastmodified":1537674278,
+    "wof:name":"Kampung Keledang",
+    "wof:parent_id":890489783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.18859,
+    6.00732,
+    102.18859,
+    6.00732
+],
+  "geometry": {"coordinates":[102.18859,6.00732],"type":"Point"}
+}

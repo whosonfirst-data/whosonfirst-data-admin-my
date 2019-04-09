@@ -1,0 +1,70 @@
+{
+  "id": 1260083145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.40774,6.11325,100.40774,6.11325",
+    "geom:latitude":6.11325,
+    "geom:longitude":100.40774,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Alor Semela",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807168,
+    "gn:latitude":6.11325,
+    "gn:longitude":100.40774,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Alor Semela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Alor Semela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807168
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"109ef98422b7233dea90fbdf11911de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1260083145,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1260083145,
+    "wof:lastmodified":1537674238,
+    "wof:name":"Kampung Alor Semela",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.40774,
+    6.11325,
+    100.40774,
+    6.11325
+],
+  "geometry": {"coordinates":[100.40774,6.11325],"type":"Point"}
+}

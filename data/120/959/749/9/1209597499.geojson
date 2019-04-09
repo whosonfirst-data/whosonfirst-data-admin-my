@@ -1,0 +1,64 @@
+{
+  "id": 1209597499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.3273,6.6574,117.3273,6.6574",
+    "geom:latitude":6.6574,
+    "geom:longitude":117.3273,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Segampa",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8301032,
+    "gn:latitude":6.6574,
+    "gn:longitude":117.3273,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Segampa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Segampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8301032
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"43aba5676f24fa3cf7ec12626620b702",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209597499
+        }
+    ],
+    "wof:id":1209597499,
+    "wof:lastmodified":1537674451,
+    "wof:name":"Segampa",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.3273,
+    6.6574,
+    117.3273,
+    6.6574
+],
+  "geometry": {"coordinates":[117.32729999999999,6.6574],"type":"Point"}
+}

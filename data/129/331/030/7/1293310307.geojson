@@ -1,0 +1,70 @@
+{
+  "id": 1293310307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3032,1.709,103.3032,1.709",
+    "geom:latitude":1.709,
+    "geom:longitude":103.3032,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Markom",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7620443,
+    "gn:latitude":1.709,
+    "gn:longitude":103.3032,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Markom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Markom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7620443
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2d76840117e18d4e132ba6723b80e2bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "locality_id":1293310307,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293310307,
+    "wof:lastmodified":1537674335,
+    "wof:name":"Kampung Parit Markom",
+    "wof:parent_id":890491001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3032,
+    1.709,
+    103.3032,
+    1.709
+],
+  "geometry": {"coordinates":[103.3032,1.709],"type":"Point"}
+}

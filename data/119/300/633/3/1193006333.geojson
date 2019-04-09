@@ -1,0 +1,67 @@
+{
+  "id": 1193006333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.76374,1.53946,109.76374,1.53946",
+    "geom:latitude":1.53946,
+    "geom:longitude":109.76374,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Panchau",
+    "gn:country_code":"MY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":1766290,
+    "gn:latitude":1.53946,
+    "gn:longitude":109.76374,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampong Panchau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766290
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3e1cba225a6b643e105c5f77d01a87c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696453,
+            "locality_id":1193006333,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1193006333,
+    "wof:lastmodified":1536365715,
+    "wof:name":"Kampong Panchau",
+    "wof:parent_id":1108696453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.76373999999998,
+    1.53946,
+    109.76373999999998,
+    1.53946
+],
+  "geometry": {"coordinates":[109.76373999999998,1.53946],"type":"Point"}
+}

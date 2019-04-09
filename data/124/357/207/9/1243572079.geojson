@@ -1,0 +1,70 @@
+{
+  "id": 1243572079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6467,2.0905,102.6467,2.0905",
+    "geom:latitude":2.0905,
+    "geom:longitude":102.6467,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Bukit Tampoi",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856250,
+    "gn:latitude":2.0905,
+    "gn:longitude":102.6467,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bukit Tampoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Tampoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856250
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b9323e73211c36f3632ed77b0e424d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1243572079,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1243572079,
+    "wof:lastmodified":1537674436,
+    "wof:name":"Kampung Bukit Tampoi",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6467,
+    2.0905,
+    102.6467,
+    2.0905
+],
+  "geometry": {"coordinates":[102.6467,2.0905],"type":"Point"}
+}

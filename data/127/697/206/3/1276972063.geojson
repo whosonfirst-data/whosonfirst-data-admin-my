@@ -1,0 +1,70 @@
+{
+  "id": 1276972063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2602,3.7503,102.2602,3.7503",
+    "geom:latitude":3.7503,
+    "geom:longitude":102.2602,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Pasu",
+    "gn:country_code":"MY",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7656124,
+    "gn:latitude":3.7503,
+    "gn:longitude":102.2602,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pasu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pasu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656124
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bddea35d4077313aacdd2f1e1aabac54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1276972063,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276972063,
+    "wof:lastmodified":1537674353,
+    "wof:name":"Kampung Pasu",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2602,
+    3.7503,
+    102.2602,
+    3.7503
+],
+  "geometry": {"coordinates":[102.2602,3.7503],"type":"Point"}
+}

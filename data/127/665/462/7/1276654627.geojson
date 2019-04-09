@@ -1,0 +1,70 @@
+{
+  "id": 1276654627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3294,3.4949,102.3294,3.4949",
+    "geom:latitude":3.4949,
+    "geom:longitude":102.3294,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Batu Kapur",
+    "gn:country_code":"MY",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795888,
+    "gn:latitude":3.4949,
+    "gn:longitude":102.3294,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Batu Kapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Kapur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795888
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"74fd4d850a8ad140c93a71fcf8af55ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1276654627,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276654627,
+    "wof:lastmodified":1537674396,
+    "wof:name":"Kampung Batu Kapur",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3294,
+    3.4949,
+    102.3294,
+    3.4949
+],
+  "geometry": {"coordinates":[102.32940000000001,3.4949],"type":"Point"}
+}

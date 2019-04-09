@@ -1,0 +1,73 @@
+{
+  "id": 1193117297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5221,3.393,101.5221,3.393",
+    "geom:latitude":3.393,
+    "geom:longitude":101.5221,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kampung Sungai Buaya",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735131,
+    "gn:latitude":3.393,
+    "gn:longitude":101.5221,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Buaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Buaya"
+    ],
+    "name:und_x_variant":[
+        "Kampung Sungia Buaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735131
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d57472e51fba03bd0059b28b024bf701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1193117297,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1193117297,
+    "wof:lastmodified":1537673718,
+    "wof:name":"Kampung Sungai Buaya",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5221,
+    3.393,
+    101.5221,
+    3.393
+],
+  "geometry": {"coordinates":[101.52209999999999,3.393],"type":"Point"}
+}

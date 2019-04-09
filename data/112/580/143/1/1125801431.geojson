@@ -1,0 +1,103 @@
+{
+  "id": 1125801431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1302,2.2972,103.1302,2.2972",
+    "geom:latitude":2.2972,
+    "geom:longitude":103.1302,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":2.2972,
+    "lbl:longitude":103.1302,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u5f7c\u54af"
+    ],
+    "name:dut_x_preferred":[
+        "Bekok"
+    ],
+    "name:eng_x_preferred":[
+        "Bekok"
+    ],
+    "name:may_x_preferred":[
+        "Bekok"
+    ],
+    "name:msa_x_preferred":[
+        "Bekok"
+    ],
+    "name:unk_x_variant":[
+        "Bekok"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1732883,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bekuk",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Johor",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":136134,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1140869,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Johor",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732883,
+        "gp:id":1140869,
+        "qs_pg:id":136134,
+        "wd:id":"Q4881659"
+    },
+    "wof:country":"MY",
+    "wof:created":1497291277,
+    "wof:geomhash":"1eff5625ca5c3840eb1ae060f70ab892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1125801431,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1125801431,
+    "wof:lastmodified":1553816543,
+    "wof:name":"Bekuk",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1302,
+    2.2972,
+    103.1302,
+    2.2972
+],
+  "geometry": {"coordinates":[103.1302,2.2972],"type":"Point"}
+}

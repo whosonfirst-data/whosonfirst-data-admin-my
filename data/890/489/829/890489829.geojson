@@ -1,0 +1,70 @@
+{
+  "id": 890489829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.690193,3.099435,101.690193,3.099435",
+    "geom:latitude":3.099435,
+    "geom:longitude":101.690193,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Petaling",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4931,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":558,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675181,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013873,
+        "qs:id":1111818,
+        "wd:id":"Q2701266",
+        "wk:page":"Petaling District"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054772,
+    "wof:geomhash":"cd8e466f28a49d2e9f4a15fc936e2bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "localadmin_id":890489829,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":890489829,
+    "wof:lastmodified":1527792861,
+    "wof:name":"Petaling",
+    "wof:parent_id":890490945,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.690193,
+    3.099435,
+    101.690193,
+    3.099435
+],
+  "geometry": {"coordinates":[101.69019299999999,3.099435],"type":"Point"}
+}

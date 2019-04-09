@@ -1,0 +1,67 @@
+{
+  "id": 1343273597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2,5.83333,102.2,5.83333",
+    "geom:latitude":5.83333,
+    "geom:longitude":102.2,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Pak Gombak",
+    "gn:country_code":"MY",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766359,
+    "gn:latitude":5.83333,
+    "gn:longitude":102.2,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Pak Gombak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766359
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c0f372d20aa14cd3e95b115056cdfcff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696457,
+            "locality_id":1343273597,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1343273597,
+    "wof:lastmodified":1537015177,
+    "wof:name":"Kampong Pak Gombak",
+    "wof:parent_id":1108696457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2,
+    5.83333,
+    102.2,
+    5.83333
+],
+  "geometry": {"coordinates":[102.2,5.83333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343351179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.66884,5.13719,100.66884,5.13719",
+    "geom:latitude":5.13719,
+    "geom:longitude":100.66884,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Sungai Malau Dalam",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763929,
+    "gn:latitude":5.13719,
+    "gn:longitude":100.66884,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Malau Dalam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Malau Dalam"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Marlow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763929
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0d674e2c7f9dacbd519f27e6db1b297b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489813,
+            "locality_id":1343351179,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1343351179,
+    "wof:lastmodified":1537673884,
+    "wof:name":"Kampung Sungai Malau Dalam",
+    "wof:parent_id":890489813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.66884,
+    5.13719,
+    100.66884,
+    5.13719
+],
+  "geometry": {"coordinates":[100.66884,5.13719],"type":"Point"}
+}

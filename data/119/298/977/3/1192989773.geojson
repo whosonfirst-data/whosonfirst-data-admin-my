@@ -1,0 +1,67 @@
+{
+  "id": 1192989773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.41667,4.21667,103.41667,4.21667",
+    "geom:latitude":4.21667,
+    "geom:longitude":103.41667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampong Peng Pandan",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765678,
+    "gn:latitude":4.21667,
+    "gn:longitude":103.41667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Peng Pandan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765678
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5f47cf8d92ea0239fc71959d1e602264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "locality_id":1192989773,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1192989773,
+    "wof:lastmodified":1536382163,
+    "wof:name":"Kampong Peng Pandan",
+    "wof:parent_id":890490801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.41667,
+    4.21667,
+    103.41667,
+    4.21667
+],
+  "geometry": {"coordinates":[103.41667,4.21667],"type":"Point"}
+}

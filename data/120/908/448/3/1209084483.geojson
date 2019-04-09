@@ -1,0 +1,62 @@
+{
+  "id": 1209084483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.56191,3.86933,115.56191,3.86933",
+    "geom:latitude":3.86933,
+    "geom:longitude":115.56191,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Long Rapung",
+    "gn:country_code":"MY",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1737616,
+    "gn:latitude":3.86933,
+    "gn:longitude":115.56191,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Long Rapung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1737616,
+        "wk:page":"Long_Rapung"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"121dfb6ee9ada629c3b3af5a025e9cda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209084483
+        }
+    ],
+    "wof:id":1209084483,
+    "wof:lastmodified":1537569843,
+    "wof:name":"Long Rapung",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.56191,
+    3.86933,
+    115.56191,
+    3.86933
+],
+  "geometry": {"coordinates":[115.56191,3.86933],"type":"Point"}
+}

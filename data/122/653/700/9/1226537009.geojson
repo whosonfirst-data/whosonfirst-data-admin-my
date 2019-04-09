@@ -1,0 +1,67 @@
+{
+  "id": 1226537009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.6003,4.2545,100.6003,4.2545",
+    "geom:latitude":4.2545,
+    "geom:longitude":100.6003,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Kuala Sempit",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767964,
+    "gn:latitude":4.2545,
+    "gn:longitude":100.6003,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kuala Sempit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Sempit"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kuala Sempit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767964
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4b931fd880632846d8ab97ebc692d2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226537009,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226537009,
+    "wof:lastmodified":1537674057,
+    "wof:name":"Kampung Kuala Sempit",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.6003,
+    4.2545,
+    100.6003,
+    4.2545
+],
+  "geometry": {"coordinates":[100.6003,4.2545],"type":"Point"}
+}

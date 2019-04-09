@@ -1,0 +1,73 @@
+{
+  "id": 1344157467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2909,2.3267,102.2909,2.3267",
+    "geom:latitude":2.3267,
+    "geom:longitude":102.2909,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Ayer Manggis",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771501,
+    "gn:latitude":2.3267,
+    "gn:longitude":102.2909,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ayer Manggis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ayer Manggis"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ayer Manggis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771501
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d903627ebeb0a36959f6ecb59687d169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1344157467,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1344157467,
+    "wof:lastmodified":1537674205,
+    "wof:name":"Kampung Ayer Manggis",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2909,
+    2.3267,
+    102.2909,
+    2.3267
+],
+  "geometry": {"coordinates":[102.29089999999999,2.3267],"type":"Point"}
+}

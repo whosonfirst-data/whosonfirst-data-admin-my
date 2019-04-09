@@ -1,0 +1,70 @@
+{
+  "id": 1343543309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.9562,6.6316,116.9562,6.6316",
+    "geom:latitude":6.6316,
+    "geom:longitude":116.9562,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Bilangau Kecil",
+    "gn:country_code":"MY",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7458527,
+    "gn:latitude":6.6316,
+    "gn:longitude":116.9562,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bilangau Kecil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bilangau Kecil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7458527
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0ff86776ee1507905e1b6ceb38d41ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1343543309,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343543309,
+    "wof:lastmodified":1537674289,
+    "wof:name":"Kampung Bilangau Kecil",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.9562,
+    6.6316,
+    116.9562,
+    6.6316
+],
+  "geometry": {"coordinates":[116.9562,6.6316],"type":"Point"}
+}

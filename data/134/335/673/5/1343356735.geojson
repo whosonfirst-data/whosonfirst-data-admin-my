@@ -1,0 +1,67 @@
+{
+  "id": 1343356735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.48333,2.81667,103.48333,2.81667",
+    "geom:latitude":2.81667,
+    "geom:longitude":103.48333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampong Tanjong Tengku",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763316,
+    "gn:latitude":2.81667,
+    "gn:longitude":103.48333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Tanjong Tengku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763316
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c614f61c2dc6c1cf6101b2fde5821dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1343356735,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1343356735,
+    "wof:lastmodified":1536895754,
+    "wof:name":"Kampong Tanjong Tengku",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.48333,
+    2.81667,
+    103.48333,
+    2.81667
+],
+  "geometry": {"coordinates":[103.48333,2.81667],"type":"Point"}
+}

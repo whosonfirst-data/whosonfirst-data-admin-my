@@ -1,0 +1,70 @@
+{
+  "id": 1343231661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.8984,4.9407,115.8984,4.9407",
+    "geom:latitude":4.9407,
+    "geom:longitude":115.8984,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Baru Jumpah",
+    "gn:country_code":"MY",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7767930,
+    "gn:latitude":4.9407,
+    "gn:longitude":115.8984,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Baru Jumpah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Baru Jumpah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7767930
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"edfe75b587dd1d6b70ef76f2817c7eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696535,
+            "locality_id":1343231661,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343231661,
+    "wof:lastmodified":1537674375,
+    "wof:name":"Baru Jumpah",
+    "wof:parent_id":1108696535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.8984,
+    4.9407,
+    115.8984,
+    4.9407
+],
+  "geometry": {"coordinates":[115.8984,4.9407],"type":"Point"}
+}

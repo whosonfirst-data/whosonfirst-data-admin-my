@@ -1,0 +1,70 @@
+{
+  "id": 1276750005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2193,5.1865,103.2193,5.1865",
+    "geom:latitude":5.1865,
+    "geom:longitude":103.2193,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Perumahan Pak Chan",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7608753,
+    "gn:latitude":5.1865,
+    "gn:longitude":103.2193,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Perumahan Pak Chan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perumahan Pak Chan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7608753
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1bf95c1591f0435e67945cbb53cb15b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490535,
+            "locality_id":1276750005,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1276750005,
+    "wof:lastmodified":1537674327,
+    "wof:name":"Perumahan Pak Chan",
+    "wof:parent_id":890490535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2193,
+    5.1865,
+    103.2193,
+    5.1865
+],
+  "geometry": {"coordinates":[103.2193,5.1865],"type":"Point"}
+}

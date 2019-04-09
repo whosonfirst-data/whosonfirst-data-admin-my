@@ -1,0 +1,72 @@
+{
+  "id": 1343659697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.21667,2.83333,103.21667,2.83333",
+    "geom:latitude":2.83333,
+    "geom:longitude":103.21667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Kacah",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734911,
+    "gn:latitude":2.83333,
+    "gn:longitude":103.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kacah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Kachah",
+        "Kampung Kacah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734911
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"826c04fb3d7d1cf08b339271abd90964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1343659697,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1343659697,
+    "wof:lastmodified":1537673713,
+    "wof:name":"Kampung Kacah",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.21667,
+    2.83333,
+    103.21667,
+    2.83333
+],
+  "geometry": {"coordinates":[103.21666999999999,2.83333],"type":"Point"}
+}

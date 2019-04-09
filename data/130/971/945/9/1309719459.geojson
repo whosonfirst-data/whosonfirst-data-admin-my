@@ -1,0 +1,70 @@
+{
+  "id": 1309719459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6635,5.0243,101.6635,5.0243",
+    "geom:latitude":5.0243,
+    "geom:longitude":101.6635,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Kuala Suma",
+    "gn:country_code":"MY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7462009,
+    "gn:latitude":5.0243,
+    "gn:longitude":101.6635,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kuala Suma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Suma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7462009
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"993d0541ed51d75f62598c1e51a65ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1309719459,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1309719459,
+    "wof:lastmodified":1537674296,
+    "wof:name":"Kampung Kuala Suma",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6635,
+    5.0243,
+    101.6635,
+    5.0243
+],
+  "geometry": {"coordinates":[101.6635,5.0243],"type":"Point"}
+}

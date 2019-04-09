@@ -1,0 +1,70 @@
+{
+  "id": 1310710533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.6302,6.08622,100.6302,6.08622",
+    "geom:latitude":6.08622,
+    "geom:longitude":100.6302,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Wan Lah",
+    "gn:country_code":"MY",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6853456,
+    "gn:latitude":6.08622,
+    "gn:longitude":100.6302,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Wan Lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Wan Lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6853456
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e0d7f8d9a21d5cd5736ee1f076f4d6db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489109,
+            "locality_id":1310710533,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310710533,
+    "wof:lastmodified":1537674259,
+    "wof:name":"Kampung Wan Lah",
+    "wof:parent_id":890489109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.6302,
+    6.08622,
+    100.6302,
+    6.08622
+],
+  "geometry": {"coordinates":[100.6302,6.08622],"type":"Point"}
+}

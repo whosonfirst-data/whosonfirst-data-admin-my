@@ -1,0 +1,67 @@
+{
+  "id": 1193013445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3,4.08333,102.3,4.08333",
+    "geom:latitude":4.08333,
+    "geom:longitude":102.3,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampong Jelai",
+    "gn:country_code":"MY",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768857,
+    "gn:latitude":4.08333,
+    "gn:longitude":102.3,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Jelai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768857
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c5cdb41f2ce111d5d7fd4b3be7f4df4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1193013445,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1193013445,
+    "wof:lastmodified":1536381053,
+    "wof:name":"Kampong Jelai",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3,
+    4.08333,
+    102.3,
+    4.08333
+],
+  "geometry": {"coordinates":[102.3,4.08333],"type":"Point"}
+}

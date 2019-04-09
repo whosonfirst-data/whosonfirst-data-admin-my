@@ -1,0 +1,73 @@
+{
+  "id": 1193273121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4,3.61667,102.4,3.61667",
+    "geom:latitude":3.61667,
+    "geom:longitude":102.4,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Tekal",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732610,
+    "gn:latitude":3.61667,
+    "gn:longitude":102.4,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tekal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Kuala Tekal",
+        "Kuala Tekal",
+        "Kampung Tekal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732610
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"06069050cd8811aa2bc68531a3102354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1193273121,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1193273121,
+    "wof:lastmodified":1537673665,
+    "wof:name":"Kampung Tekal",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4,
+    3.61667,
+    102.4,
+    3.61667
+],
+  "geometry": {"coordinates":[102.40000000000001,3.61667],"type":"Point"}
+}

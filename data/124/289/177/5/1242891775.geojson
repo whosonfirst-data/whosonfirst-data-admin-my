@@ -1,0 +1,70 @@
+{
+  "id": 1242891775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8188,2.1524,102.8188,2.1524",
+    "geom:latitude":2.1524,
+    "geom:longitude":102.8188,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Bukit Sedenak",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856347,
+    "gn:latitude":2.1524,
+    "gn:longitude":102.8188,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bukit Sedenak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Sedenak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856347
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"120c695ecf054f6d7a73d768b09b275f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1242891775,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1242891775,
+    "wof:lastmodified":1537674438,
+    "wof:name":"Kampung Bukit Sedenak",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8188,
+    2.1524,
+    102.8188,
+    2.1524
+],
+  "geometry": {"coordinates":[102.8188,2.1524],"type":"Point"}
+}

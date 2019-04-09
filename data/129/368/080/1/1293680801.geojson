@@ -1,0 +1,70 @@
+{
+  "id": 1293680801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.147,4.6101,101.147,4.6101",
+    "geom:latitude":4.6101,
+    "geom:longitude":101.147,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tambun Garden",
+    "gn:country_code":"MY",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473400,
+    "gn:latitude":4.6101,
+    "gn:longitude":101.147,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tambun Garden",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Tambun Garden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473400
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"de7a02eec7b947ce708ffa1266d1380b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1293680801,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1293680801,
+    "wof:lastmodified":1537674306,
+    "wof:name":"Tambun Garden",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.147,
+    4.6101,
+    101.147,
+    4.6101
+],
+  "geometry": {"coordinates":[101.14700000000001,4.6101],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326552915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.41667,2.55,102.41667,2.55",
+    "geom:latitude":2.55,
+    "geom:longitude":102.41667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gedok New Village",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1774873,
+    "gn:latitude":2.55,
+    "gn:longitude":102.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gedok New Village",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gedok",
+        "Gedok New Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        1108696529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1774873
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bc45529aba9c2635f539951370a6fc86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696529,
+            "locality_id":1326552915,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1326552915,
+    "wof:lastmodified":1537674217,
+    "wof:name":"Gedok New Village",
+    "wof:parent_id":1108696529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.41667,
+    2.55,
+    102.41667,
+    2.55
+],
+  "geometry": {"coordinates":[102.41667,2.55],"type":"Point"}
+}

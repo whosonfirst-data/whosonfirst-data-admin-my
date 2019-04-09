@@ -1,0 +1,74 @@
+{
+  "id": 1226521671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9,5.1722,102.9,5.1722",
+    "geom:latitude":5.1722,
+    "geom:longitude":102.9,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Pasir Simpuh",
+    "gn:country_code":"MY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765997,
+    "gn:latitude":5.1722,
+    "gn:longitude":102.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pasir Simpuh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pasir Simpuh"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pasir Simpul",
+        "Kampong Pasir Simpoh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765997
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a9b8ac162d8b3d60720228ab9c22e8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1226521671,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1226521671,
+    "wof:lastmodified":1537673978,
+    "wof:name":"Kampung Pasir Simpuh",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9,
+    5.1722,
+    102.9,
+    5.1722
+],
+  "geometry": {"coordinates":[102.90000000000001,5.1722],"type":"Point"}
+}

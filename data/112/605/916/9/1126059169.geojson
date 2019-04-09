@@ -1,0 +1,105 @@
+{
+  "id": 1126059169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.67,4.1987,100.67,4.1987",
+    "geom:latitude":4.1987,
+    "geom:longitude":100.67,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":4.1987,
+    "lbl:longitude":100.67,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Seri Manjung"
+    ],
+    "name:dut_x_preferred":[
+        "Seri Manjung"
+    ],
+    "name:eng_x_preferred":[
+        "Seri Manjung"
+    ],
+    "name:epo_x_preferred":[
+        "Seri Manjung"
+    ],
+    "name:may_x_preferred":[
+        "Seri Manjung"
+    ],
+    "name:msa_x_preferred":[
+        "Seri Manjung"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7792200,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Seri Manjong",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Perak",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1072921,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":22722930,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Perak",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        1108696459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7792200,
+        "gp:id":22722930,
+        "qs_pg:id":1072921,
+        "wd:id":"Q7454636"
+    },
+    "wof:country":"MY",
+    "wof:created":1497303823,
+    "wof:geomhash":"7cd4dc9a2545f2082cf9b9bfe5f800e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696459,
+            "locality_id":1126059169,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1126059169,
+    "wof:lastmodified":1514490828,
+    "wof:name":"Seri Manjong",
+    "wof:parent_id":1108696459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.67,
+    4.1987,
+    100.67,
+    4.1987
+],
+  "geometry": {"coordinates":[100.67,4.1987],"type":"Point"}
+}

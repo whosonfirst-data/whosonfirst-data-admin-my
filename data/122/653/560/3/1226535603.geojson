@@ -1,0 +1,73 @@
+{
+  "id": 1226535603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9198,3.59,101.9198,3.59",
+    "geom:latitude":3.59,
+    "geom:longitude":101.9198,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Hulu Lebu",
+    "gn:country_code":"MY",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762337,
+    "gn:latitude":3.59,
+    "gn:longitude":101.9198,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Hulu Lebu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Hulu Lebu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ulu Lebu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762337
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b3b692c80d6baa5ca9e8e5517d6aa493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696389,
+            "locality_id":1226535603,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226535603,
+    "wof:lastmodified":1537673811,
+    "wof:name":"Kampung Hulu Lebu",
+    "wof:parent_id":1108696389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9198,
+    3.59,
+    101.9198,
+    3.59
+],
+  "geometry": {"coordinates":[101.9198,3.59],"type":"Point"}
+}

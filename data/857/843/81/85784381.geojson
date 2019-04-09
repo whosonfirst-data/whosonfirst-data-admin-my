@@ -1,0 +1,114 @@
+{
+  "id": 85784381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5477318.813333,
+    "geom:bbox":"100.307528,5.334209,100.307528,5.334209",
+    "geom:latitude":5.334209,
+    "geom:longitude":100.307528,
+    "gn:latitude":5.35986,
+    "gn:longitude":100.44874,
+    "iso:country":"MY",
+    "lbl:latitude":5.334209,
+    "lbl:longitude":100.307528,
+    "mps:latitude":5.331948,
+    "mps:longitude":100.319609,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:msa_x_preferred":[
+        "Taman Mutiara"
+    ],
+    "name:und_x_preferred":[
+        "Bayan Mutiara"
+    ],
+    "name:unk_x_variant":[
+        "Bayan Mutiara"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1735106,
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Taman Mutiara",
+    "qs:local_max":5776,
+    "qs:local_sum":22216,
+    "qs:localhoods":25,
+    "qs:name":"Bayan Mutiara",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:name_adm2":"Timur Laut",
+    "qs:name_lau":"Mukim 13 Paya Terubung",
+    "qs:name_local":"George Town",
+    "qs:photo_max":377,
+    "qs:photo_sum":767,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346304,
+    "qs:woe_adm2":56013581,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":56013984,
+    "qs:woe_local":1141153,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023363,
+        890489155,
+        85675127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818863,
+        "gp:id":56035749,
+        "qs:id":1206013,
+        "qs_pg:id":1206013
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"47eb0228465257037e7f75ee347dee92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "locality_id":102023363,
+            "neighbourhood_id":85784381,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":85784381,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860601,
+    "wof:name":"Bayan Mutiara",
+    "wof:parent_id":102023363,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.307528,
+    5.334209,
+    100.307528,
+    5.334209
+],
+  "geometry": {"coordinates":[100.307528,5.334209],"type":"Point"}
+}

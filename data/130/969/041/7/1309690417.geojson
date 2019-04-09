@@ -1,0 +1,67 @@
+{
+  "id": 1309690417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.15,3.78333,114.15,3.78333",
+    "geom:latitude":3.78333,
+    "geom:longitude":114.15,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Kuala Bok",
+    "gn:country_code":"MY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747820,
+    "gn:latitude":3.78333,
+    "gn:longitude":114.15,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Kuala Bok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747820
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b3a3eee0253bf4a793dfc0fce730dd41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696465,
+            "locality_id":1309690417,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1309690417,
+    "wof:lastmodified":1537094279,
+    "wof:name":"Rumah Kuala Bok",
+    "wof:parent_id":1108696465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.15,
+    3.78333,
+    114.15,
+    3.78333
+],
+  "geometry": {"coordinates":[114.15000000000001,3.78333],"type":"Point"}
+}

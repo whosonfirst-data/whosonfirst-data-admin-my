@@ -1,0 +1,70 @@
+{
+  "id": 1327012091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.6872,5.375,115.6872,5.375",
+    "geom:latitude":5.375,
+    "geom:longitude":115.6872,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Labung",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580677,
+    "gn:latitude":5.375,
+    "gn:longitude":115.6872,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Labung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Labung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580677
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"95272a0c05e3dcdfe602eff5b5046ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696385,
+            "locality_id":1327012091,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327012091,
+    "wof:lastmodified":1537674319,
+    "wof:name":"Kampung Labung",
+    "wof:parent_id":1108696385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.6872,
+    5.375,
+    115.6872,
+    5.375
+],
+  "geometry": {"coordinates":[115.6872,5.375],"type":"Point"}
+}

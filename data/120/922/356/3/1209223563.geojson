@@ -1,0 +1,64 @@
+{
+  "id": 1209223563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.79335,5.70427,100.79335,5.70427",
+    "geom:latitude":5.70427,
+    "geom:longitude":100.79335,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Bakong",
+    "gn:country_code":"MY",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805010,
+    "gn:latitude":5.70427,
+    "gn:longitude":100.79335,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Bakong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bakong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805010
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e79341ded5e77305b2cc189fd20df6af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209223563
+        }
+    ],
+    "wof:id":1209223563,
+    "wof:lastmodified":1537674232,
+    "wof:name":"Kampung Bakong",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.79335,
+    5.70427,
+    100.79335,
+    5.70427
+],
+  "geometry": {"coordinates":[100.79335,5.70427],"type":"Point"}
+}

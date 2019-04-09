@@ -1,0 +1,71 @@
+{
+  "id": 1276842623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.4391,4.591,118.4391,4.591",
+    "geom:latitude":4.591,
+    "geom:longitude":118.4391,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Lihak",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767459,
+    "gn:latitude":4.591,
+    "gn:longitude":118.4391,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Lihak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Lihak",
+        "Kampung Lihak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767459
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d2ed2dfb1a2afe23d5bd64263aa01d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696507,
+            "locality_id":1276842623,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276842623,
+    "wof:lastmodified":1537674038,
+    "wof:name":"Kampung Lihak",
+    "wof:parent_id":1108696507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.4391,
+    4.591,
+    118.4391,
+    4.591
+],
+  "geometry": {"coordinates":[118.4391,4.591],"type":"Point"}
+}

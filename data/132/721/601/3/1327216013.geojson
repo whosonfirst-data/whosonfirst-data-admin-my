@@ -1,0 +1,70 @@
+{
+  "id": 1327216013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.2017,5.318,116.2017,5.318",
+    "geom:latitude":5.318,
+    "geom:longitude":116.2017,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Menawo Ulu",
+    "gn:country_code":"MY",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7588827,
+    "gn:latitude":5.318,
+    "gn:longitude":116.2017,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Menawo Ulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Menawo Ulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7588827
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"de31ce2e3884feb367531bbb095f5a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1327216013,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327216013,
+    "wof:lastmodified":1537674323,
+    "wof:name":"Kampung Menawo Ulu",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.2017,
+    5.318,
+    116.2017,
+    5.318
+],
+  "geometry": {"coordinates":[116.2017,5.318],"type":"Point"}
+}

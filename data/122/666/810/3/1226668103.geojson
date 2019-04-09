@@ -1,0 +1,70 @@
+{
+  "id": 1226668103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2315,3.4845,102.2315,3.4845",
+    "geom:latitude":3.4845,
+    "geom:longitude":102.2315,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Bongsu",
+    "gn:country_code":"MY",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7683698,
+    "gn:latitude":3.4845,
+    "gn:longitude":102.2315,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bongsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bongsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7683698
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"acc75fee147f8d3f54e3dad160aebf30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1226668103,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226668103,
+    "wof:lastmodified":1537674358,
+    "wof:name":"Kampung Bongsu",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2315,
+    3.4845,
+    102.2315,
+    3.4845
+],
+  "geometry": {"coordinates":[102.2315,3.4845],"type":"Point"}
+}

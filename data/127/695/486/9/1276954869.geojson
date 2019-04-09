@@ -1,0 +1,67 @@
+{
+  "id": 1276954869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4,4.85,103.4,4.85",
+    "geom:latitude":4.85,
+    "geom:longitude":103.4,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampong Rhu Batel",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764991,
+    "gn:latitude":4.85,
+    "gn:longitude":103.4,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Rhu Batel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764991
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6b96618af62879e6946f6f68a74f077e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":1276954869,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1276954869,
+    "wof:lastmodified":1536941481,
+    "wof:name":"Kampong Rhu Batel",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4,
+    4.85,
+    103.4,
+    4.85
+],
+  "geometry": {"coordinates":[103.40000000000001,4.85],"type":"Point"}
+}

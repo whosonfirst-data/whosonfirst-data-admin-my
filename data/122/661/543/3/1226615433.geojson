@@ -1,0 +1,67 @@
+{
+  "id": 1226615433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.2,5.78333,117.2,5.78333",
+    "geom:latitude":5.78333,
+    "geom:longitude":117.2,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kuanomu",
+    "gn:country_code":"MY",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1759464,
+    "gn:latitude":5.78333,
+    "gn:longitude":117.2,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kuanomu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1759464
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"59030ba0dd6b6272590354f07b1a31ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1226615433,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226615433,
+    "wof:lastmodified":1536902872,
+    "wof:name":"Kuanomu",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.2,
+    5.78333,
+    117.2,
+    5.78333
+],
+  "geometry": {"coordinates":[117.2,5.78333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243149441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5237,3.674,101.5237,3.674",
+    "geom:latitude":3.674,
+    "geom:longitude":101.5237,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taman Hulu Bernam",
+    "gn:country_code":"MY",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7794694,
+    "gn:latitude":3.674,
+    "gn:longitude":101.5237,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Hulu Bernam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Hulu Bernam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794694
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"720124e415477b5a9072d3d10a35489c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1243149441,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1243149441,
+    "wof:lastmodified":1537674391,
+    "wof:name":"Taman Hulu Bernam",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5237,
+    3.674,
+    101.5237,
+    3.674
+],
+  "geometry": {"coordinates":[101.52370000000001,3.674],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343543393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.9217,6.5937,116.9217,6.5937",
+    "geom:latitude":6.5937,
+    "geom:longitude":116.9217,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Biabas",
+    "gn:country_code":"MY",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7458537,
+    "gn:latitude":6.5937,
+    "gn:longitude":116.9217,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Biabas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Biabas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7458537
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3934a0cca4e04470d200c3895ce0e8c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1343543393,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343543393,
+    "wof:lastmodified":1537674289,
+    "wof:name":"Kampung Biabas",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.9217,
+    6.5937,
+    116.9217,
+    6.5937
+],
+  "geometry": {"coordinates":[116.9217,6.5937],"type":"Point"}
+}

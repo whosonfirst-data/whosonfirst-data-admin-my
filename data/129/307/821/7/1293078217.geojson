@@ -1,0 +1,70 @@
+{
+  "id": 1293078217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9548,3.7914,100.9548,3.7914",
+    "geom:latitude":3.7914,
+    "geom:longitude":100.9548,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kampung Baharu",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735193,
+    "gn:latitude":3.7914,
+    "gn:longitude":100.9548,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Baharu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890490813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735193
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"621b5bb9421e5a2c2f41b6ed717b5191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490813,
+            "locality_id":1293078217,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1293078217,
+    "wof:lastmodified":1537673719,
+    "wof:name":"Kampung Baharu",
+    "wof:parent_id":890490813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9548,
+    3.7914,
+    100.9548,
+    3.7914
+],
+  "geometry": {"coordinates":[100.95480000000001,3.7914],"type":"Point"}
+}

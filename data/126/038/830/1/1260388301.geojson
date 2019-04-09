@@ -1,0 +1,70 @@
+{
+  "id": 1260388301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2781,2.6129,102.2781,2.6129",
+    "geom:latitude":2.6129,
+    "geom:longitude":102.2781,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Tinggal",
+    "gn:country_code":"MY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797467,
+    "gn:latitude":2.6129,
+    "gn:longitude":102.2781,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tinggal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tinggal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797467
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"26a047e8b853cff5ee2f33dca1e04c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1260388301,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1260388301,
+    "wof:lastmodified":1537674420,
+    "wof:name":"Kampung Tinggal",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2781,
+    2.6129,
+    102.2781,
+    2.6129
+],
+  "geometry": {"coordinates":[102.27809999999999,2.6129],"type":"Point"}
+}

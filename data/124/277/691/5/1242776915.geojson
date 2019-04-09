@@ -1,0 +1,74 @@
+{
+  "id": 1242776915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2999,2.9017,102.2999,2.9017",
+    "geom:latitude":2.9017,
+    "geom:longitude":102.2999,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Ulu Serting",
+    "gn:country_code":"MY",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734831,
+    "gn:latitude":2.9017,
+    "gn:longitude":102.2999,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ulu Serting",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ulu Serting"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ulu Serting",
+        "Kampung Serting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734831
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c4f88deda1b9216fa81f8b46ed063b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1242776915,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1242776915,
+    "wof:lastmodified":1537673711,
+    "wof:name":"Kampung Ulu Serting",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2999,
+    2.9017,
+    102.2999,
+    2.9017
+],
+  "geometry": {"coordinates":[102.29989999999999,2.9017],"type":"Point"}
+}

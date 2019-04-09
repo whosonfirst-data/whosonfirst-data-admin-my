@@ -1,0 +1,67 @@
+{
+  "id": 1343938987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.58333,1.88333,111.58333,1.88333",
+    "geom:latitude":1.88333,
+    "geom:longitude":111.58333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rumah Jampong",
+    "gn:country_code":"MY",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735970,
+    "gn:latitude":1.88333,
+    "gn:longitude":111.58333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Jampong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735970
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9a9a779aafada1f4b1fc3e87e822aa00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696475,
+            "locality_id":1343938987,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1343938987,
+    "wof:lastmodified":1537048988,
+    "wof:name":"Rumah Jampong",
+    "wof:parent_id":1108696475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.58333,
+    1.88333,
+    111.58333,
+    1.88333
+],
+  "geometry": {"coordinates":[111.58333,1.88333],"type":"Point"}
+}

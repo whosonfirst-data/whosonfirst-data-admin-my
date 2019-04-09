@@ -1,0 +1,76 @@
+{
+  "id": 1276880455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9745,6.016,101.9745,6.016",
+    "geom:latitude":6.016,
+    "geom:longitude":101.9745,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Rantau Panjang",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765067,
+    "gn:latitude":6.016,
+    "gn:longitude":101.9745,
+    "gn:modification_date":"2016-10-29",
+    "gn:name":"Kampung Rantau Panjang",
+    "gn:population":500,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rantau Panjang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Rantau Panjang"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765067
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"705410633d7786f3f6fc0b9072e1037f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1276880455,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1276880455,
+    "wof:lastmodified":1537673938,
+    "wof:name":"Kampung Rantau Panjang",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9745,
+    6.016,
+    101.9745,
+    6.016
+],
+  "geometry": {"coordinates":[101.97450000000001,6.016],"type":"Point"}
+}

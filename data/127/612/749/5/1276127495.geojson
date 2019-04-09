@@ -1,0 +1,71 @@
+{
+  "id": 1276127495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.64192,5.82449,100.64192,5.82449",
+    "geom:latitude":5.82449,
+    "geom:longitude":100.64192,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Changhai",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855517,
+    "gn:latitude":5.82449,
+    "gn:longitude":100.64192,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Changhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Changhai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855517
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a96f73d7b96267b3d706ab5d6181c25c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696515,
+            "locality_id":1276127495,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1276127495,
+    "wof:lastmodified":1537674264,
+    "wof:name":"Kampung Changhai",
+    "wof:parent_id":1108696515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.64192,
+    5.82449,
+    100.64192,
+    5.82449
+],
+  "geometry": {"coordinates":[100.64192,5.82449],"type":"Point"}
+}

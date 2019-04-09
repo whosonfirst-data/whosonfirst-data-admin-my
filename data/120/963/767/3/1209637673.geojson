@@ -1,0 +1,64 @@
+{
+  "id": 1209637673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5592,3.3274,102.5592,3.3274",
+    "geom:latitude":3.3274,
+    "geom:longitude":102.5592,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Kepayang",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796098,
+    "gn:latitude":3.3274,
+    "gn:longitude":102.5592,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kepayang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kepayang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796098
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bd7ed433d4c18a01280e311000cc6981",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209637673
+        }
+    ],
+    "wof:id":1209637673,
+    "wof:lastmodified":1537674400,
+    "wof:name":"Kampung Kepayang",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5592,
+    3.3274,
+    102.5592,
+    3.3274
+],
+  "geometry": {"coordinates":[102.5592,3.3274],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293801607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.128,1.3669,104.128,1.3669",
+    "geom:latitude":1.3669,
+    "geom:longitude":104.128,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Batu Mas",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770862,
+    "gn:latitude":1.3669,
+    "gn:longitude":104.128,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Batu Mas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Mas"
+    ],
+    "name:und_x_variant":[
+        "Kampong Batu Mas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770862
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9e4269db2922bdf721367bef8f52b123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":1293801607,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293801607,
+    "wof:lastmodified":1537674178,
+    "wof:name":"Kampung Batu Mas",
+    "wof:parent_id":890491003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.128,
+    1.3669,
+    104.128,
+    1.3669
+],
+  "geometry": {"coordinates":[104.128,1.3669],"type":"Point"}
+}

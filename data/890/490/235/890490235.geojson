@@ -1,0 +1,83 @@
+{
+  "id": 890490235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6024,3.5908,101.6024,3.5908",
+    "geom:latitude":3.5908,
+    "geom:longitude":101.6024,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kerling"
+    ],
+    "name:eng_x_preferred":[
+        "Kerling"
+    ],
+    "name:msa_x_preferred":[
+        "Kerling"
+    ],
+    "qs:name":"Kerling",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732675,
+        "gp:id":1154743,
+        "qs:id":888251,
+        "wd:id":"Q15235706",
+        "wk:page":"Kerling"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054795,
+    "wof:geomhash":"d0e86e0f99c1d6dc2b6e9be301d57927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":890490235,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890490235,
+    "wof:lastmodified":1527732954,
+    "wof:name":"Kerling",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6024,
+    3.5908,
+    101.6024,
+    3.5908
+],
+  "geometry": {"coordinates":[101.6024,3.5908],"type":"Point"}
+}

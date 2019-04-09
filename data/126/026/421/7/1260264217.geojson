@@ -1,0 +1,67 @@
+{
+  "id": 1260264217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.33333,1.7,111.33333,1.7",
+    "geom:latitude":1.7,
+    "geom:longitude":111.33333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Dana",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748037,
+    "gn:latitude":1.7,
+    "gn:longitude":111.33333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Dana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748037
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3a9087280de5bfa0cd7011648fed867e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696501,
+            "locality_id":1260264217,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1260264217,
+    "wof:lastmodified":1536737747,
+    "wof:name":"Rumah Dana",
+    "wof:parent_id":1108696501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.33333,
+    1.7,
+    111.33333,
+    1.7
+],
+  "geometry": {"coordinates":[111.33333,1.7],"type":"Point"}
+}

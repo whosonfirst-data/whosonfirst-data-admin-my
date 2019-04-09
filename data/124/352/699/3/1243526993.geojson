@@ -1,0 +1,73 @@
+{
+  "id": 1243526993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.218,5.7877,116.218,5.7877",
+    "geom:latitude":5.7877,
+    "geom:longitude":116.218,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tigol",
+    "gn:country_code":"MY",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762688,
+    "gn:latitude":5.7877,
+    "gn:longitude":116.218,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tigol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tigol"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tigol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762688
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f180efb8fd5fef53955403d4ffc35565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1243526993,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1243526993,
+    "wof:lastmodified":1537673826,
+    "wof:name":"Kampung Tigol",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.218,
+    5.7877,
+    116.218,
+    5.7877
+],
+  "geometry": {"coordinates":[116.218,5.7877],"type":"Point"}
+}

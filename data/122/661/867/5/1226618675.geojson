@@ -1,0 +1,70 @@
+{
+  "id": 1226618675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.7123,6.9064,116.7123,6.9064",
+    "geom:latitude":6.9064,
+    "geom:longitude":116.7123,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Rampai Sikuati",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536284,
+    "gn:latitude":6.9064,
+    "gn:longitude":116.7123,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Rampai Sikuati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rampai Sikuati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536284
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cac19822a10ece5a4c92443d5b3ae143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1226618675,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226618675,
+    "wof:lastmodified":1537674462,
+    "wof:name":"Kampung Rampai Sikuati",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.7123,
+    6.9064,
+    116.7123,
+    6.9064
+],
+  "geometry": {"coordinates":[116.7123,6.9064],"type":"Point"}
+}

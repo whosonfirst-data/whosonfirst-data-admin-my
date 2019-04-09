@@ -1,0 +1,70 @@
+{
+  "id": 1242775483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0306,2.6319,103.0306,2.6319",
+    "geom:latitude":2.6319,
+    "geom:longitude":103.0306,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kemajuan Tanah Selancar Lima",
+    "gn:country_code":"MY",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797564,
+    "gn:latitude":2.6319,
+    "gn:longitude":103.0306,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Selancar Lima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Selancar Lima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797564
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1e1a3b71d3ab1d1ad3b20b0f7124d403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1242775483,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1242775483,
+    "wof:lastmodified":1537674422,
+    "wof:name":"Kemajuan Tanah Selancar Lima",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0306,
+    2.6319,
+    103.0306,
+    2.6319
+],
+  "geometry": {"coordinates":[103.03060000000001,2.6319],"type":"Point"}
+}

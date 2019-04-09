@@ -1,0 +1,70 @@
+{
+  "id": 1276553569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0967,2.3646,102.0967,2.3646",
+    "geom:latitude":2.3646,
+    "geom:longitude":102.0967,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Taman Thamby Chik Karim",
+    "gn:country_code":"MY",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797793,
+    "gn:latitude":2.3646,
+    "gn:longitude":102.0967,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Thamby Chik Karim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Thamby Chik Karim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797793
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7b4637fd356920258197786b5477f145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1276553569,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1276553569,
+    "wof:lastmodified":1537674424,
+    "wof:name":"Taman Thamby Chik Karim",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0967,
+    2.3646,
+    102.0967,
+    2.3646
+],
+  "geometry": {"coordinates":[102.0967,2.3646],"type":"Point"}
+}

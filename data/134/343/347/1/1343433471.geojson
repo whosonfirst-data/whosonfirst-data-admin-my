@@ -1,0 +1,70 @@
+{
+  "id": 1343433471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4155,6.3916,116.4155,6.3916",
+    "geom:latitude":6.3916,
+    "geom:longitude":116.4155,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampong Tanjung Wakap",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417169,
+    "gn:latitude":6.3916,
+    "gn:longitude":116.4155,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampong Tanjung Wakap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampong Tanjung Wakap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417169
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ca9f15dfa080da435ebf73edb5e7ec4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1343433471,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343433471,
+    "wof:lastmodified":1537674283,
+    "wof:name":"Kampong Tanjung Wakap",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4155,
+    6.3916,
+    116.4155,
+    6.3916
+],
+  "geometry": {"coordinates":[116.41549999999999,6.3916],"type":"Point"}
+}

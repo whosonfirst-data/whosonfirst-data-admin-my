@@ -1,0 +1,70 @@
+{
+  "id": 1226744213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.2368,4.4794,101.2368,4.4794",
+    "geom:latitude":4.4794,
+    "geom:longitude":101.2368,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Empang",
+    "gn:country_code":"MY",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7555025,
+    "gn:latitude":4.4794,
+    "gn:longitude":101.2368,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Empang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Empang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7555025
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"677c91b10c2691fce3c61f1e6aaf5c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1226744213,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1226744213,
+    "wof:lastmodified":1537674310,
+    "wof:name":"Kampung Empang",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.2368,
+    4.4794,
+    101.2368,
+    4.4794
+],
+  "geometry": {"coordinates":[101.2368,4.4794],"type":"Point"}
+}

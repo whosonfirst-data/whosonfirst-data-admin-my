@@ -1,0 +1,64 @@
+{
+  "id": 1209109093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.42071,5.56338,100.42071,5.56338",
+    "geom:latitude":5.56338,
+    "geom:longitude":100.42071,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Guar Kepan",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848632,
+    "gn:latitude":5.56338,
+    "gn:longitude":100.42071,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Guar Kepan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Guar Kepan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848632
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3369aef9ef8b7fd988e6996a9e474c8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209109093
+        }
+    ],
+    "wof:id":1209109093,
+    "wof:lastmodified":1537674257,
+    "wof:name":"Kampung Guar Kepan",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.42071,
+    5.56338,
+    100.42071,
+    5.56338
+],
+  "geometry": {"coordinates":[100.42071,5.56338],"type":"Point"}
+}

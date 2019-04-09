@@ -1,0 +1,70 @@
+{
+  "id": 1310489533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.70082,2.50258,111.70082,2.50258",
+    "geom:latitude":2.50258,
+    "geom:longitude":111.70082,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kampung Sawai",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8431258,
+    "gn:latitude":2.50258,
+    "gn:longitude":111.70082,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Kampung Sawai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sawai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8431258
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d1485896953df9e7d45d153adb1c9b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696467,
+            "locality_id":1310489533,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1310489533,
+    "wof:lastmodified":1537674456,
+    "wof:name":"Kampung Sawai",
+    "wof:parent_id":1108696467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.70082,
+    2.50258,
+    111.70082,
+    2.50258
+],
+  "geometry": {"coordinates":[111.70081999999999,2.50258],"type":"Point"}
+}

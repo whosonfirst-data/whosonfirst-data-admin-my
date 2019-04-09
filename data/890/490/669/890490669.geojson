@@ -1,0 +1,78 @@
+{
+  "id": 890490669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3068,3.7995,103.3068,3.7995",
+    "geom:latitude":3.7995,
+    "geom:longitude":103.3068,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Setongkol"
+    ],
+    "qs:name":"Kampung Bukit Setongkol",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675159,
+        102191569,
+        85632739,
+        102023459,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7650998,
+        "gp:id":56036499,
+        "qs:id":505866
+    },
+    "wof:country":"MY",
+    "wof:created":1469054819,
+    "wof:geomhash":"c74ab7531b0d1c6a2fe6b79f033bfbb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":102023459,
+            "neighbourhood_id":890490669,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":890490669,
+    "wof:lastmodified":1505343789,
+    "wof:name":"Kampung Bukit Setongkol",
+    "wof:parent_id":102023459,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3068,
+    3.7995,
+    103.3068,
+    3.7995
+],
+  "geometry": {"coordinates":[103.3068,3.7995],"type":"Point"}
+}

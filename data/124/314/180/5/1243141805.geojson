@@ -1,0 +1,70 @@
+{
+  "id": 1243141805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.586,6.0067,116.586,6.0067",
+    "geom:latitude":6.0067,
+    "geom:longitude":116.586,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Kauluan",
+    "gn:country_code":"MY",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7468052,
+    "gn:latitude":6.0067,
+    "gn:longitude":116.586,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kauluan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kauluan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468052
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e4c3f563d02b7a09da708d7f541e1526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":1243141805,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1243141805,
+    "wof:lastmodified":1537674296,
+    "wof:name":"Kampung Kauluan",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.586,
+    6.0067,
+    116.586,
+    6.0067
+],
+  "geometry": {"coordinates":[116.586,6.0067],"type":"Point"}
+}

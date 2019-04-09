@@ -1,0 +1,70 @@
+{
+  "id": 1293378079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.0494,4.0258,114.0494,4.0258",
+    "geom:latitude":4.0258,
+    "geom:longitude":114.0494,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Biar",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748083,
+    "gn:latitude":4.0258,
+    "gn:longitude":114.0494,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rumah Biar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Rumah Biar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748083
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"72cd1f461df6ccd33d02cf89bd0af07a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696465,
+            "locality_id":1293378079,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1293378079,
+    "wof:lastmodified":1537673778,
+    "wof:name":"Rumah Biar",
+    "wof:parent_id":1108696465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.0494,
+    4.0258,
+    114.0494,
+    4.0258
+],
+  "geometry": {"coordinates":[114.04940000000001,4.0258],"type":"Point"}
+}

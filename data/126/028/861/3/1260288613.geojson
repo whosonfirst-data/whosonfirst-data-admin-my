@@ -1,0 +1,70 @@
+{
+  "id": 1260288613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7718,1.4645,103.7718,1.4645",
+    "geom:latitude":1.4645,
+    "geom:longitude":103.7718,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Bukit",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7619688,
+    "gn:latitude":1.4645,
+    "gn:longitude":103.7718,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bukit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619688
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"45c67252fe70d8ef21d6ace4f965b00a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1260288613,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1260288613,
+    "wof:lastmodified":1537674334,
+    "wof:name":"Kampung Bukit",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7718,
+    1.4645,
+    103.7718,
+    1.4645
+],
+  "geometry": {"coordinates":[103.7718,1.4645],"type":"Point"}
+}

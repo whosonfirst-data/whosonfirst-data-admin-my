@@ -1,0 +1,70 @@
+{
+  "id": 1293661789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.244,6.6062,117.244,6.6062",
+    "geom:latitude":6.6062,
+    "geom:longitude":117.244,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Taradas",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416339,
+    "gn:latitude":6.6062,
+    "gn:longitude":117.244,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Taradas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Taradas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416339
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2c75dc9963e5023b3a0c04d378b1d848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1293661789,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293661789,
+    "wof:lastmodified":1537674282,
+    "wof:name":"Kampung Taradas",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.244,
+    6.6062,
+    117.244,
+    6.6062
+],
+  "geometry": {"coordinates":[117.244,6.6062],"type":"Point"}
+}

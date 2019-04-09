@@ -1,0 +1,70 @@
+{
+  "id": 1193010947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7496,3.6916,101.7496,3.6916",
+    "geom:latitude":3.6916,
+    "geom:longitude":101.7496,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gap",
+    "gn:country_code":"MY",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7794723,
+    "gn:latitude":3.6916,
+    "gn:longitude":101.7496,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Gap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794723
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2d0850f014a64dcbfd25dbe2691991c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1193010947,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1193010947,
+    "wof:lastmodified":1537674392,
+    "wof:name":"Gap",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7496,
+    3.6916,
+    101.7496,
+    3.6916
+],
+  "geometry": {"coordinates":[101.7496,3.6916],"type":"Point"}
+}

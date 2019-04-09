@@ -1,0 +1,70 @@
+{
+  "id": 1293314647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1589,3.3771,103.1589,3.3771",
+    "geom:latitude":3.3771,
+    "geom:longitude":103.1589,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Pulau Lairik",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7685641,
+    "gn:latitude":3.3771,
+    "gn:longitude":103.1589,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pulau Lairik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pulau Lairik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685641
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"04fe330ede53971e4dc76d3f130c3c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1293314647,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293314647,
+    "wof:lastmodified":1537674359,
+    "wof:name":"Kampung Pulau Lairik",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1589,
+    3.3771,
+    103.1589,
+    3.3771
+],
+  "geometry": {"coordinates":[103.1589,3.3771],"type":"Point"}
+}

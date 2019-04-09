@@ -1,0 +1,70 @@
+{
+  "id": 1226440173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8602,3.7854,101.8602,3.7854",
+    "geom:latitude":3.7854,
+    "geom:longitude":101.8602,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Rotan Tunggal",
+    "gn:country_code":"MY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748278,
+    "gn:latitude":3.7854,
+    "gn:longitude":101.8602,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rotan Tunggal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Rotan Tunggal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748278
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"808a2f7009802d296f9da744a1516e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1226440173,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226440173,
+    "wof:lastmodified":1537673780,
+    "wof:name":"Rotan Tunggal",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8602,
+    3.7854,
+    101.8602,
+    3.7854
+],
+  "geometry": {"coordinates":[101.86020000000001,3.7854],"type":"Point"}
+}

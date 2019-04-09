@@ -1,0 +1,70 @@
+{
+  "id": 1343257063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3746,2.9019,103.3746,2.9019",
+    "geom:latitude":2.9019,
+    "geom:longitude":103.3746,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Belangkap",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796991,
+    "gn:latitude":2.9019,
+    "gn:longitude":103.3746,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Belangkap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Belangkap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796991
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"865c1d02fcf03b2482f188e7fbcdd1d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1343257063,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1343257063,
+    "wof:lastmodified":1537674413,
+    "wof:name":"Kampung Belangkap",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3746,
+    2.9019,
+    103.3746,
+    2.9019
+],
+  "geometry": {"coordinates":[103.3746,2.9019],"type":"Point"}
+}

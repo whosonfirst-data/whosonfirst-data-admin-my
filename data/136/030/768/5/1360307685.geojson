@@ -1,0 +1,73 @@
+{
+  "id": 1360307685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5485,3.2683,102.5485,3.2683",
+    "geom:latitude":3.2683,
+    "geom:longitude":102.5485,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Tebing Tinggi",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763221,
+    "gn:latitude":3.2683,
+    "gn:longitude":102.5485,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tebing Tinggi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Tebing Tinggi"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tebing Tinggi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763221
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8910f47fc89c94f251ed4ec82e178e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1360307685,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1360307685,
+    "wof:lastmodified":1537673850,
+    "wof:name":"Tebing Tinggi",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5485,
+    3.2683,
+    102.5485,
+    3.2683
+],
+  "geometry": {"coordinates":[102.5485,3.2683],"type":"Point"}
+}

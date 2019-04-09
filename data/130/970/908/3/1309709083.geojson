@@ -1,0 +1,73 @@
+{
+  "id": 1309709083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.2248,3.7861,101.2248,3.7861",
+    "geom:latitude":3.7861,
+    "geom:longitude":101.2248,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Cangkat Kereta",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769949,
+    "gn:latitude":3.7861,
+    "gn:longitude":101.2248,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Cangkat Kereta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Cangkat Kereta"
+    ],
+    "name:und_x_variant":[
+        "Kampong Changkat Kereta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769949
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"48f92da85efbe4aa672884c630b22b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1309709083,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1309709083,
+    "wof:lastmodified":1537674141,
+    "wof:name":"Kampung Cangkat Kereta",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.2248,
+    3.7861,
+    101.2248,
+    3.7861
+],
+  "geometry": {"coordinates":[101.2248,3.7861],"type":"Point"}
+}

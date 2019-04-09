@@ -1,0 +1,72 @@
+{
+  "id": 890490301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0027,5.9973,102.0027,5.9973",
+    "geom:latitude":5.9973,
+    "geom:longitude":102.0027,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Bakti"
+    ],
+    "qs:name":"Taman Bakti",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kelantan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068054,
+        "gp:id":56119122,
+        "qs:id":1026640
+    },
+    "wof:country":"MY",
+    "wof:created":1469054799,
+    "wof:geomhash":"de4aee9301b7e03af4e33488188c7226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":890490301,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":890490301,
+    "wof:lastmodified":1505343788,
+    "wof:name":"Taman Bakti",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0027,
+    5.9973,
+    102.0027,
+    5.9973
+],
+  "geometry": {"coordinates":[102.0027,5.9973],"type":"Point"}
+}

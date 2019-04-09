@@ -1,0 +1,74 @@
+{
+  "id": 1310028405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9624,2.8483,101.9624,2.8483",
+    "geom:latitude":2.8483,
+    "geom:longitude":101.9624,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Mandum",
+    "gn:country_code":"MY",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767124,
+    "gn:latitude":2.8483,
+    "gn:longitude":101.9624,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Mandum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mandum"
+    ],
+    "name:und_x_variant":[
+        "Kampong Mandam",
+        "Kampong Mandum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767124
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"23d09ce85de01f56c126e26ff6fa8012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1310028405,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1310028405,
+    "wof:lastmodified":1537674024,
+    "wof:name":"Kampung Mandum",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9624,
+    2.8483,
+    101.9624,
+    2.8483
+],
+  "geometry": {"coordinates":[101.9624,2.8483],"type":"Point"}
+}

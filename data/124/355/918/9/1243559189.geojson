@@ -1,0 +1,70 @@
+{
+  "id": 1243559189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1484,2.5419,102.1484,2.5419",
+    "geom:latitude":2.5419,
+    "geom:longitude":102.1484,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Solok Rumbia",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797380,
+    "gn:latitude":2.5419,
+    "gn:longitude":102.1484,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Solok Rumbia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Solok Rumbia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797380
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"939e219c911ad4077dbe61eb822c6c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1243559189,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1243559189,
+    "wof:lastmodified":1537674418,
+    "wof:name":"Kampung Solok Rumbia",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1484,
+    2.5419,
+    102.1484,
+    2.5419
+],
+  "geometry": {"coordinates":[102.1484,2.5419],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259455579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.7,5.36667,117.7,5.36667",
+    "geom:latitude":5.36667,
+    "geom:longitude":117.7,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Padulan",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766394,
+    "gn:latitude":5.36667,
+    "gn:longitude":117.7,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Padulan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766394
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e367c3528e2fe3d8571d9f1db3b65301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696413,
+            "locality_id":1259455579,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259455579,
+    "wof:lastmodified":1536898936,
+    "wof:name":"Kampong Padulan",
+    "wof:parent_id":1108696413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.7,
+    5.36667,
+    117.7,
+    5.36667
+],
+  "geometry": {"coordinates":[117.7,5.36667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226438569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.22653,5.28801,100.22653,5.28801",
+    "geom:latitude":5.28801,
+    "geom:longitude":100.22653,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Nelayan",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766684,
+    "gn:latitude":5.28801,
+    "gn:longitude":100.22653,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Nelayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Nelayan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Nelayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766684
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3ea90c776158914518da4e2341999f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "locality_id":1226438569,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1226438569,
+    "wof:lastmodified":1537674004,
+    "wof:name":"Kampung Nelayan",
+    "wof:parent_id":890489155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.22653,
+    5.28801,
+    100.22653,
+    5.28801
+],
+  "geometry": {"coordinates":[100.22653,5.28801],"type":"Point"}
+}

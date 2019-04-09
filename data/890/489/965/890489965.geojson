@@ -1,0 +1,70 @@
+{
+  "id": 890489965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38333,5.38333,100.38333,5.38333",
+    "geom:latitude":5.38333,
+    "geom:longitude":100.38333,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kampong Dock",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:photos":17,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":17,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102023327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769634,
+        "gp:id":1143395,
+        "qs:id":44179
+    },
+    "wof:country":"MY",
+    "wof:created":1469054783,
+    "wof:geomhash":"2da268a2d2f48cf8914d6a23c0956370",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102023327,
+            "neighbourhood_id":890489965,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890489965,
+    "wof:lastmodified":1507590239,
+    "wof:name":"Kampong Dock",
+    "wof:parent_id":102023327,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38333,
+    5.38333,
+    100.38333,
+    5.38333
+],
+  "geometry": {"coordinates":[100.38333,5.38333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309882251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0162,5.1162,103.0162,5.1162",
+    "geom:latitude":5.1162,
+    "geom:longitude":103.0162,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Pulau Kudat",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765264,
+    "gn:latitude":5.1162,
+    "gn:longitude":103.0162,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pulau Kudat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pulau Kudat"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pulau Kudat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765264
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b0f9d85611c7f86f1a3b44b87b9947c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1309882251,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1309882251,
+    "wof:lastmodified":1537673947,
+    "wof:name":"Kampung Pulau Kudat",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0162,
+    5.1162,
+    103.0162,
+    5.1162
+],
+  "geometry": {"coordinates":[103.0162,5.1162],"type":"Point"}
+}

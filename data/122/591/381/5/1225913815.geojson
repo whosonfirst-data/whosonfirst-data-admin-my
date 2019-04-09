@@ -1,0 +1,70 @@
+{
+  "id": 1225913815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.7448,6.9066,116.7448,6.9066",
+    "geom:latitude":6.9066,
+    "geom:longitude":116.7448,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Barambangan",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536285,
+    "gn:latitude":6.9066,
+    "gn:longitude":116.7448,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Barambangan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Barambangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536285
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"29fa6d80bae2f98030c1665da0761d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1225913815,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1225913815,
+    "wof:lastmodified":1537674462,
+    "wof:name":"Kampung Barambangan",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.7448,
+    6.9066,
+    116.7448,
+    6.9066
+],
+  "geometry": {"coordinates":[116.7448,6.9066],"type":"Point"}
+}

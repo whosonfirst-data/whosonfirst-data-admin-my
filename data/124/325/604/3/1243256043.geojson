@@ -1,0 +1,70 @@
+{
+  "id": 1243256043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7323,3.8795,102.7323,3.8795",
+    "geom:latitude":3.8795,
+    "geom:longitude":102.7323,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kemajuan Tanah Lepar Utara Dua Dan Sepuluh",
+    "gn:country_code":"MY",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7566109,
+    "gn:latitude":3.8795,
+    "gn:longitude":102.7323,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Lepar Utara Dua Dan Sepuluh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Lepar Utara Dua Dan Sepuluh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7566109
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"18032384cd8941bd36ae3ab3577ba3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1243256043,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1243256043,
+    "wof:lastmodified":1537674315,
+    "wof:name":"Kemajuan Tanah Lepar Utara Dua Dan Sepuluh",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7323,
+    3.8795,
+    102.7323,
+    3.8795
+],
+  "geometry": {"coordinates":[102.7323,3.8795],"type":"Point"}
+}

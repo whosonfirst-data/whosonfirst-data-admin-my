@@ -1,0 +1,67 @@
+{
+  "id": 1209206409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.8769,3.9778,100.8769,3.9778",
+    "geom:latitude":3.9778,
+    "geom:longitude":100.8769,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Teluk Ketapang",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763035,
+    "gn:latitude":3.9778,
+    "gn:longitude":100.8769,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Teluk Ketapang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Teluk Ketapang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Telok Ketapang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763035
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e7352153294a9847725481e55657713b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209206409
+        }
+    ],
+    "wof:id":1209206409,
+    "wof:lastmodified":1537673841,
+    "wof:name":"Kampung Teluk Ketapang",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.8769,
+    3.9778,
+    100.8769,
+    3.9778
+],
+  "geometry": {"coordinates":[100.87690000000001,3.9778],"type":"Point"}
+}

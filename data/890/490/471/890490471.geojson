@@ -1,0 +1,78 @@
+{
+  "id": 890490471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6584,3.5747,101.6584,3.5747",
+    "geom:latitude":3.5747,
+    "geom:longitude":101.6584,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Juta"
+    ],
+    "qs:name":"Taman Putra",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":21,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":21,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675163,
+        102191569,
+        85632739,
+        102022735,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794656,
+        "gp:id":56070863,
+        "qs:id":1293389
+    },
+    "wof:country":"MY",
+    "wof:created":1469054811,
+    "wof:geomhash":"dffdcb60177247b219af7d426454dfa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":102022735,
+            "neighbourhood_id":890490471,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890490471,
+    "wof:lastmodified":1505343788,
+    "wof:name":"Taman Putra",
+    "wof:parent_id":102022735,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6584,
+    3.5747,
+    101.6584,
+    3.5747
+],
+  "geometry": {"coordinates":[101.6584,3.5747],"type":"Point"}
+}

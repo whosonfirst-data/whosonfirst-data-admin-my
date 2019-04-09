@@ -1,0 +1,93 @@
+{
+  "id": 1126091823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.61667,3.0,101.61667,3.0",
+    "geom:latitude":3.0,
+    "geom:longitude":101.61667,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":3.0,
+    "lbl:longitude":101.61667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Puchong"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1749822,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Puchong New Village",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Selangor",
+    "qs_pg:photos":184,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":184,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":218091,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1152668,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Selangor",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023809,
+        890490605,
+        85675163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1749822,
+        "gp:id":1152668,
+        "qs_pg:id":218091
+    },
+    "wof:country":"MY",
+    "wof:created":1497314027,
+    "wof:geomhash":"3cf8a0fd0455bb9cd70070180933c553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490605,
+            "locality_id":102023809,
+            "neighbourhood_id":1126091823,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1126091823,
+    "wof:lastmodified":1509411692,
+    "wof:name":"Puchong New Village",
+    "wof:parent_id":102023809,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.61667,
+    3.0,
+    101.61667,
+    3.0
+],
+  "geometry": {"coordinates":[101.61667,3.0],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259497337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8152,2.5303,102.8152,2.5303",
+    "geom:latitude":2.5303,
+    "geom:longitude":102.8152,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bukit Lintang",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698832,
+    "gn:latitude":2.5303,
+    "gn:longitude":102.8152,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bukit Lintang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bukit Lintang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698832
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"81ac89a021f1209d567cff55df129a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1259497337,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1259497337,
+    "wof:lastmodified":1537674373,
+    "wof:name":"Bukit Lintang",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8152,
+    2.5303,
+    102.8152,
+    2.5303
+],
+  "geometry": {"coordinates":[102.8152,2.5303],"type":"Point"}
+}

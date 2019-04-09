@@ -1,0 +1,67 @@
+{
+  "id": 1309721851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.66667,3.2,101.66667,3.2",
+    "geom:latitude":3.2,
+    "geom:longitude":101.66667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Kampong Bangkong",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771076,
+    "gn:latitude":3.2,
+    "gn:longitude":101.66667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Bangkong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675181,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771076
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"06be4f8277fc884e7c008e6eca889555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":1309721851,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":1309721851,
+    "wof:lastmodified":1537049932,
+    "wof:name":"Kampong Bangkong",
+    "wof:parent_id":890490945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.66667,
+    3.2,
+    101.66667,
+    3.2
+],
+  "geometry": {"coordinates":[101.66667,3.2],"type":"Point"}
+}

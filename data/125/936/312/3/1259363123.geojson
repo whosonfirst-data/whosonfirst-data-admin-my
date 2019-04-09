@@ -1,0 +1,70 @@
+{
+  "id": 1259363123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7887,2.9802,101.7887,2.9802",
+    "geom:latitude":2.9802,
+    "geom:longitude":101.7887,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taman Reko",
+    "gn:country_code":"MY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796489,
+    "gn:latitude":2.9802,
+    "gn:longitude":101.7887,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Reko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Reko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796489
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"145a58f90d97c4787e58697fbab76eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":1259363123,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1259363123,
+    "wof:lastmodified":1537674405,
+    "wof:name":"Taman Reko",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7887,
+    2.9802,
+    101.7887,
+    2.9802
+],
+  "geometry": {"coordinates":[101.78870000000001,2.9802],"type":"Point"}
+}

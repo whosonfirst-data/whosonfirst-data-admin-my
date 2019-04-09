@@ -1,0 +1,70 @@
+{
+  "id": 1259972207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0099,3.9433,102.0099,3.9433",
+    "geom:latitude":3.9433,
+    "geom:longitude":102.0099,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Cerlang",
+    "gn:country_code":"MY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638965,
+    "gn:latitude":3.9433,
+    "gn:longitude":102.0099,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Cerlang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Cerlang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638965
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"481c399684225597981ad31b5cb789e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1259972207,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1259972207,
+    "wof:lastmodified":1537674346,
+    "wof:name":"Kampung Cerlang",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0099,
+    3.9433,
+    102.0099,
+    3.9433
+],
+  "geometry": {"coordinates":[102.0099,3.9433],"type":"Point"}
+}

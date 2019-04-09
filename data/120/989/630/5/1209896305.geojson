@@ -1,0 +1,73 @@
+{
+  "id": 1209896305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5936,3.5832,101.5936,3.5832",
+    "geom:latitude":3.5832,
+    "geom:longitude":101.5936,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Jawa",
+    "gn:country_code":"MY",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768899,
+    "gn:latitude":3.5832,
+    "gn:longitude":101.5936,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Jawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jawa"
+    ],
+    "name:und_x_variant":[
+        "Kampong Jawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768899
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"666acafeee79c2e1927256f8c424d390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1209896305,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1209896305,
+    "wof:lastmodified":1537674099,
+    "wof:name":"Kampung Jawa",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5936,
+    3.5832,
+    101.5936,
+    3.5832
+],
+  "geometry": {"coordinates":[101.5936,3.5832],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226521733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.01,5.1584,103.01,5.1584",
+    "geom:latitude":5.1584,
+    "geom:longitude":103.01,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kubang Besar",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7461124,
+    "gn:latitude":5.1584,
+    "gn:longitude":103.01,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kubang Besar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kubang Besar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7461124
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"781aeb632389d8ffdff154c5cfa04452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1226521733,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1226521733,
+    "wof:lastmodified":1537674293,
+    "wof:name":"Kubang Besar",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.01,
+    5.1584,
+    103.01,
+    5.1584
+],
+  "geometry": {"coordinates":[103.01000000000001,5.1584],"type":"Point"}
+}

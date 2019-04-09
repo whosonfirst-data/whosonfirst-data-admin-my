@@ -1,0 +1,70 @@
+{
+  "id": 1343273419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1543,5.0295,102.1543,5.0295",
+    "geom:latitude":5.0295,
+    "geom:longitude":102.1543,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kemajuan Tanah Chiku Enam",
+    "gn:country_code":"MY",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7469827,
+    "gn:latitude":5.0295,
+    "gn:longitude":102.1543,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Chiku Enam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Chiku Enam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7469827
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aed119d06e25281a6415395ddac29837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1343273419,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1343273419,
+    "wof:lastmodified":1537674299,
+    "wof:name":"Kemajuan Tanah Chiku Enam",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1543,
+    5.0295,
+    102.1543,
+    5.0295
+],
+  "geometry": {"coordinates":[102.15430000000001,5.0295],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310623075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.38188,4.48004,101.38188,4.48004",
+    "geom:latitude":4.48004,
+    "geom:longitude":101.38188,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1735261",
+    "gn:asciiname":"Kem Selim",
+    "gn:country_code":"MY",
+    "gn:dem":1452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7555022,
+    "gn:latitude":4.48004,
+    "gn:longitude":101.38188,
+    "gn:modification_date":"2014-08-27",
+    "gn:name":"Kem Selim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kem Selim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7555022
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0f3b6d2b40ae433b231ae851a2ed8f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696393,
+            "locality_id":1310623075,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1310623075,
+    "wof:lastmodified":1537674310,
+    "wof:name":"Kem Selim",
+    "wof:parent_id":1108696393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.38188,
+    4.48004,
+    101.38188,
+    4.48004
+],
+  "geometry": {"coordinates":[101.38188,4.48004],"type":"Point"}
+}

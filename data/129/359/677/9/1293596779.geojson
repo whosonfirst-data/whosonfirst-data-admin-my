@@ -1,0 +1,73 @@
+{
+  "id": 1293596779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0026,6.0218,102.0026,6.0218",
+    "geom:latitude":6.0218,
+    "geom:longitude":102.0026,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Kob Kiyeh",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768200,
+    "gn:latitude":6.0218,
+    "gn:longitude":102.0026,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kob Kiyeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kob Kiyeh"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kob Kiyeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768200
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"21a6beacdecc2dc4cdae51cfea7e01c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1293596779,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1293596779,
+    "wof:lastmodified":1537674067,
+    "wof:name":"Kampung Kob Kiyeh",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0026,
+    6.0218,
+    102.0026,
+    6.0218
+],
+  "geometry": {"coordinates":[102.0026,6.0218],"type":"Point"}
+}

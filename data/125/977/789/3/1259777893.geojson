@@ -1,0 +1,73 @@
+{
+  "id": 1259777893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.3068,5.4516,100.3068,5.4516",
+    "geom:latitude":5.4516,
+    "geom:longitude":100.3068,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Belachan",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770743,
+    "gn:latitude":5.4516,
+    "gn:longitude":100.3068,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Belachan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Belachan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Belachan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770743
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"67020968a67a2b2100aa4f1e700abd73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696537,
+            "locality_id":1259777893,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1259777893,
+    "wof:lastmodified":1537674174,
+    "wof:name":"Kampung Belachan",
+    "wof:parent_id":1108696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.3068,
+    5.4516,
+    100.3068,
+    5.4516
+],
+  "geometry": {"coordinates":[100.3068,5.4516],"type":"Point"}
+}

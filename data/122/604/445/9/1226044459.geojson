@@ -1,0 +1,70 @@
+{
+  "id": 1226044459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.19121,5.80757,102.19121,5.80757",
+    "geom:latitude":5.80757,
+    "geom:longitude":102.19121,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Pangkal Mak Wan",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067996,
+    "gn:latitude":5.80757,
+    "gn:longitude":102.19121,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Pangkal Mak Wan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pangkal Mak Wan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067996
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"91e7728f09379a72a052852c68c1bebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696457,
+            "locality_id":1226044459,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1226044459,
+    "wof:lastmodified":1537674275,
+    "wof:name":"Kampung Pangkal Mak Wan",
+    "wof:parent_id":1108696457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.19121,
+    5.80757,
+    102.19121,
+    5.80757
+],
+  "geometry": {"coordinates":[102.19121,5.80757],"type":"Point"}
+}

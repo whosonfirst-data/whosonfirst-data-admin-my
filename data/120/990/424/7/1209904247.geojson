@@ -1,0 +1,70 @@
+{
+  "id": 1209904247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.9058,2.86361,114.9058,2.86361",
+    "geom:latitude":2.86361,
+    "geom:longitude":114.9058,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Long Tikan",
+    "gn:country_code":"MY",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425552,
+    "gn:latitude":2.86361,
+    "gn:longitude":114.9058,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Long Tikan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Long Tikan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425552
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6f49e146b375e930eb0771820787b242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696465,
+            "locality_id":1209904247,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1209904247,
+    "wof:lastmodified":1537674455,
+    "wof:name":"Long Tikan",
+    "wof:parent_id":1108696465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.9058,
+    2.86361,
+    114.9058,
+    2.86361
+],
+  "geometry": {"coordinates":[114.9058,2.86361],"type":"Point"}
+}

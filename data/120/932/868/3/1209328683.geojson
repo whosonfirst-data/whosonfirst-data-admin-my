@@ -1,0 +1,64 @@
+{
+  "id": 1209328683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4865,2.224,103.4865,2.224",
+    "geom:latitude":2.224,
+    "geom:longitude":103.4865,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Sedehok",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7567420,
+    "gn:latitude":2.224,
+    "gn:longitude":103.4865,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sedehok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sedehok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7567420
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7678ea9a91bed7d092d4f9b2ba5bc2ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209328683
+        }
+    ],
+    "wof:id":1209328683,
+    "wof:lastmodified":1537674316,
+    "wof:name":"Kampung Sedehok",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4865,
+    2.224,
+    103.4865,
+    2.224
+],
+  "geometry": {"coordinates":[103.48650000000001,2.224],"type":"Point"}
+}

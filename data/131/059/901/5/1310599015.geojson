@@ -1,0 +1,73 @@
+{
+  "id": 1310599015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3915,4.2956,102.3915,4.2956",
+    "geom:latitude":4.2956,
+    "geom:longitude":102.3915,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Kacung",
+    "gn:country_code":"MY",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768666,
+    "gn:latitude":4.2956,
+    "gn:longitude":102.3915,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kacung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kacung"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kachong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768666
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5a8713ff72e044af859d3aca33fa0e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1310599015,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1310599015,
+    "wof:lastmodified":1537674089,
+    "wof:name":"Kampung Kacung",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3915,
+    4.2956,
+    102.3915,
+    4.2956
+],
+  "geometry": {"coordinates":[102.39149999999999,4.2956],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 85784349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000192,
+    "geom:area_square_m":2370160.180631,
+    "geom:bbox":"101.670234995,3.07469506796,101.689531457,3.09389327896",
+    "geom:latitude":3.083246,
+    "geom:longitude":101.679817,
+    "iso:country":"MY",
+    "lbl:latitude":3.083355,
+    "lbl:longitude":101.683377,
+    "mps:latitude":3.084844,
+    "mps:longitude":101.678356,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:und_x_preferred":[
+        "Taman Gembira"
+    ],
+    "name:unk_x_variant":[
+        "Taman Gembira"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:id":0,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Taman Gembira",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Petaling",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":47,
+    "qs:photo_sum":96,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56013873,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56035509
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e7f507727653ad3947ece7bb73f1f8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85784349,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85784349,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269417,
+    "wof:name":"Taman Gembira",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.67023499521241,
+    3.07469506796251,
+    101.68953145705564,
+    3.09389327895776
+],
+  "geometry": {"coordinates":[[[101.67881760289765,3.09080738414421],[101.68121337900004,3.08840812409758],[101.68327431264777,3.08840812439263],[101.68395996100003,3.08840812513009],[101.6839599610002,3.0877214780207],[101.6839599610002,3.08566552768778],[101.68670654300018,3.08566552773689],[101.68670654300018,3.08292292419911],[101.68911029798801,3.08051568461242],[101.68953145705564,3.07840683453909],[101.68733453553654,3.07694010501957],[101.68601297408622,3.07675103804611],[101.6839599610002,3.07469506884394],[101.678466797,3.07469506796251],[101.678466797,3.08018031025614],[101.67297363300003,3.0801803105503],[101.67023499521241,3.08292290755527],[101.67297363300003,3.08566552459168],[101.67297363300003,3.09115071032414],[101.67571221420258,3.09389327895776],[101.67572821579756,3.09389327895776],[101.67846679548785,3.09115071117769],[101.67880762514864,3.09080938260135],[101.67881760289765,3.09080738414421]]],"type":"Polygon"}
+}

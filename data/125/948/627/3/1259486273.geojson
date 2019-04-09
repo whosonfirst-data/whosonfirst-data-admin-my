@@ -1,0 +1,70 @@
+{
+  "id": 1259486273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.84412,5.58504,100.84412,5.58504",
+    "geom:latitude":5.58504,
+    "geom:longitude":100.84412,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Tanjung Setang",
+    "gn:country_code":"MY",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847455,
+    "gn:latitude":5.58504,
+    "gn:longitude":100.84412,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Tanjung Setang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Setang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847455
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d3f756c1e6b3d44559ce8d8b97b87fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696379,
+            "locality_id":1259486273,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1259486273,
+    "wof:lastmodified":1537674255,
+    "wof:name":"Kampung Tanjung Setang",
+    "wof:parent_id":1108696379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.84412,
+    5.58504,
+    100.84412,
+    5.58504
+],
+  "geometry": {"coordinates":[100.84412,5.58504],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343363695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2215,2.8571,102.2215,2.8571",
+    "geom:latitude":2.8571,
+    "geom:longitude":102.2215,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Kata",
+    "gn:country_code":"MY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796731,
+    "gn:latitude":2.8571,
+    "gn:longitude":102.2215,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796731
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ed5644b78675e3c2a007904ecae369c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1343363695,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1343363695,
+    "wof:lastmodified":1537674410,
+    "wof:name":"Kampung Kata",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2215,
+    2.8571,
+    102.2215,
+    2.8571
+],
+  "geometry": {"coordinates":[102.22150000000001,2.8571],"type":"Point"}
+}

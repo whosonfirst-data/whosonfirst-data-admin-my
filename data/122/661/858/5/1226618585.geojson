@@ -1,0 +1,70 @@
+{
+  "id": 1226618585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.2209,5.3645,116.2209,5.3645",
+    "geom:latitude":5.3645,
+    "geom:longitude":116.2209,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Magatang",
+    "gn:country_code":"MY",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7588809,
+    "gn:latitude":5.3645,
+    "gn:longitude":116.2209,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Magatang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Magatang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7588809
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8137dfe95ea3b79fc06a4225319d2ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1226618585,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226618585,
+    "wof:lastmodified":1537674322,
+    "wof:name":"Kampung Magatang",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.2209,
+    5.3645,
+    116.2209,
+    5.3645
+],
+  "geometry": {"coordinates":[116.2209,5.3645],"type":"Point"}
+}

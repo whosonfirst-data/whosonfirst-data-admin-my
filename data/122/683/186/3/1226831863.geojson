@@ -1,0 +1,67 @@
+{
+  "id": 1226831863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.2,5.3,115.2,5.3",
+    "geom:latitude":5.3,
+    "geom:longitude":115.2,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kampung Sungai Buton",
+    "gn:country_code":"MY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764075,
+    "gn:latitude":5.3,
+    "gn:longitude":115.2,
+    "gn:modification_date":"1997-06-17",
+    "gn:name":"Kampung Sungai Buton",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675191,
+        1108696547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764075
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c078dbf8c0a9f5c35b46763f7ee93453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696547,
+            "locality_id":1226831863,
+            "region_id":85675191
+        }
+    ],
+    "wof:id":1226831863,
+    "wof:lastmodified":1537085163,
+    "wof:name":"Kampung Sungai Buton",
+    "wof:parent_id":1108696547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.2,
+    5.3,
+    115.2,
+    5.3
+],
+  "geometry": {"coordinates":[115.2,5.3],"type":"Point"}
+}

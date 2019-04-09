@@ -1,0 +1,70 @@
+{
+  "id": 1276665303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.20416,5.83002,102.20416,5.83002",
+    "geom:latitude":5.83002,
+    "geom:longitude":102.20416,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Seputih",
+    "gn:country_code":"MY",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068009,
+    "gn:latitude":5.83002,
+    "gn:longitude":102.20416,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Seputih",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Seputih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068009
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1272a383ac4a2990d9198f62cd8a37cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696457,
+            "locality_id":1276665303,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1276665303,
+    "wof:lastmodified":1537674276,
+    "wof:name":"Kampung Seputih",
+    "wof:parent_id":1108696457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.20416,
+    5.83002,
+    102.20416,
+    5.83002
+],
+  "geometry": {"coordinates":[102.20416,5.83002],"type":"Point"}
+}

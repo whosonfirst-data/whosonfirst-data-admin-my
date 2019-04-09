@@ -1,0 +1,70 @@
+{
+  "id": 1327406359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.1815,6.1844,117.1815,6.1844",
+    "geom:latitude":6.1844,
+    "geom:longitude":117.1815,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Atok",
+    "gn:country_code":"MY",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418559,
+    "gn:latitude":6.1844,
+    "gn:longitude":117.1815,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Atok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Atok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418559
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e63c138d3e35b61b4017b465ab2419dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1327406359,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327406359,
+    "wof:lastmodified":1537674284,
+    "wof:name":"Kampung Atok",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.1815,
+    6.1844,
+    117.1815,
+    6.1844
+],
+  "geometry": {"coordinates":[117.1815,6.1844],"type":"Point"}
+}

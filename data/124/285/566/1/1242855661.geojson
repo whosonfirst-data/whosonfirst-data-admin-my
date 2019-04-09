@@ -1,0 +1,67 @@
+{
+  "id": 1242855661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.98333,4.35,114.98333,4.35",
+    "geom:latitude":4.35,
+    "geom:longitude":114.98333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Gani",
+    "gn:country_code":"MY",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747979,
+    "gn:latitude":4.35,
+    "gn:longitude":114.98333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Gani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747979
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9b72e1e37073aea665b1ab4704d1564a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696449,
+            "locality_id":1242855661,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1242855661,
+    "wof:lastmodified":1536663175,
+    "wof:name":"Rumah Gani",
+    "wof:parent_id":1108696449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.98333,
+    4.35,
+    114.98333,
+    4.35
+],
+  "geometry": {"coordinates":[114.98333,4.35],"type":"Point"}
+}

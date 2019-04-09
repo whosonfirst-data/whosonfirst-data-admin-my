@@ -1,0 +1,73 @@
+{
+  "id": 1343238587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.74978,5.5319,102.74978,5.5319",
+    "geom:latitude":5.5319,
+    "geom:longitude":102.74978,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Buruk",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770001,
+    "gn:latitude":5.5319,
+    "gn:longitude":102.74978,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Buruk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Buruk"
+    ],
+    "name:und_x_variant":[
+        "Kampong Burok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        1108696513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770001
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8284f89c798d997ec7be1dba33f29cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696513,
+            "locality_id":1343238587,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1343238587,
+    "wof:lastmodified":1537674143,
+    "wof:name":"Kampung Buruk",
+    "wof:parent_id":1108696513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.74978,
+    5.5319,
+    102.74978,
+    5.5319
+],
+  "geometry": {"coordinates":[102.74978,5.5319],"type":"Point"}
+}

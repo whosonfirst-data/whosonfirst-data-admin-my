@@ -1,0 +1,92 @@
+{
+  "id": 1125917871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6555,3.4312,101.6555,3.4312",
+    "geom:latitude":3.4312,
+    "geom:longitude":101.6555,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":3.4312,
+    "lbl:longitude":101.6555,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:msa_x_preferred":[
+        "Hulu Yam Baharu"
+    ],
+    "name:unk_x_variant":[
+        "Ulu Yam Bharu"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1735146,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ulu Yam Baharu",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Selangor",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":385536,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1155253,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Selangor",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735146,
+        "gp:id":1155253,
+        "qs_pg:id":385536
+    },
+    "wof:country":"MY",
+    "wof:created":1497296378,
+    "wof:geomhash":"4f097df0a2958e9251851a40d94e1eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1125917871,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1125917871,
+    "wof:lastmodified":1509400651,
+    "wof:name":"Ulu Yam Baharu",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6555,
+    3.4312,
+    101.6555,
+    3.4312
+],
+  "geometry": {"coordinates":[101.6555,3.4312],"type":"Point"}
+}

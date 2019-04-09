@@ -1,0 +1,70 @@
+{
+  "id": 1326824731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1649,4.6652,101.1649,4.6652",
+    "geom:latitude":4.6652,
+    "geom:longitude":101.1649,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taman Sun Brite Jaya",
+    "gn:country_code":"MY",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473379,
+    "gn:latitude":4.6652,
+    "gn:longitude":101.1649,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Sun Brite Jaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Sun Brite Jaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473379
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"748c984b7a8f531557768bb7f53bc24f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1326824731,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1326824731,
+    "wof:lastmodified":1537674306,
+    "wof:name":"Taman Sun Brite Jaya",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1649,
+    4.6652,
+    101.1649,
+    4.6652
+],
+  "geometry": {"coordinates":[101.1649,4.6652],"type":"Point"}
+}

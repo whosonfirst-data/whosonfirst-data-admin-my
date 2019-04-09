@@ -1,0 +1,74 @@
+{
+  "id": 1293788141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6243,2.146,102.6243,2.146",
+    "geom:latitude":2.146,
+    "geom:longitude":102.6243,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Belemang",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770726,
+    "gn:latitude":2.146,
+    "gn:longitude":102.6243,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Belemang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Belemang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Blemang",
+        "Kampong Belemang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770726
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2e5db0233350a67f99e580eba03cee62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1293788141,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293788141,
+    "wof:lastmodified":1537674173,
+    "wof:name":"Kampung Belemang",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6243,
+    2.146,
+    102.6243,
+    2.146
+],
+  "geometry": {"coordinates":[102.62430000000001,2.146],"type":"Point"}
+}

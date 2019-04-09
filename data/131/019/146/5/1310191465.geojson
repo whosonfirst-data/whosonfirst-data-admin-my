@@ -1,0 +1,70 @@
+{
+  "id": 1310191465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.238,5.1455,103.238,5.1455",
+    "geom:latitude":5.1455,
+    "geom:longitude":103.238,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Alur Kumbang",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7470921,
+    "gn:latitude":5.1455,
+    "gn:longitude":103.238,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Alur Kumbang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Alur Kumbang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7470921
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1ba294389427d1af67ef7ceffa4c6275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490535,
+            "locality_id":1310191465,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1310191465,
+    "wof:lastmodified":1537674301,
+    "wof:name":"Kampung Alur Kumbang",
+    "wof:parent_id":890490535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.238,
+    5.1455,
+    103.238,
+    5.1455
+],
+  "geometry": {"coordinates":[103.238,5.1455],"type":"Point"}
+}

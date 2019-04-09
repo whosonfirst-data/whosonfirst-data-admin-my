@@ -1,0 +1,70 @@
+{
+  "id": 1226147927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8425,2.5015,101.8425,2.5015",
+    "geom:latitude":2.5015,
+    "geom:longitude":101.8425,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Taman Abu Zarim",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797264,
+    "gn:latitude":2.5015,
+    "gn:longitude":101.8425,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Abu Zarim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Abu Zarim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797264
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9bcfabf3d565d12f618ef51c30622185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490331,
+            "locality_id":1226147927,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1226147927,
+    "wof:lastmodified":1537674417,
+    "wof:name":"Taman Abu Zarim",
+    "wof:parent_id":890490331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8425,
+    2.5015,
+    101.8425,
+    2.5015
+],
+  "geometry": {"coordinates":[101.8425,2.5015],"type":"Point"}
+}

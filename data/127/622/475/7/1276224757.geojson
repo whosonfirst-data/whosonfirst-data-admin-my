@@ -1,0 +1,70 @@
+{
+  "id": 1276224757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.02,3.945,102.02,3.945",
+    "geom:latitude":3.945,
+    "geom:longitude":102.02,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Biul",
+    "gn:country_code":"MY",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638982,
+    "gn:latitude":3.945,
+    "gn:longitude":102.02,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Biul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Biul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638982
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"834e7eb6b18d8fc1f18ac9b4cf40b6c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1276224757,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276224757,
+    "wof:lastmodified":1537674347,
+    "wof:name":"Kampung Biul",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.02,
+    3.945,
+    102.02,
+    3.945
+],
+  "geometry": {"coordinates":[102.02,3.945],"type":"Point"}
+}

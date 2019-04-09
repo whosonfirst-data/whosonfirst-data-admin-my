@@ -1,0 +1,72 @@
+{
+  "id": 1276886489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.58333,6.1,100.58333,6.1",
+    "geom:latitude":6.1,
+    "geom:longitude":100.58333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampong Perupok",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732558,
+    "gn:latitude":6.1,
+    "gn:longitude":100.58333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Perupok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Prupok",
+        "Kampong Perupok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732558
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"be4fdd5acb9544b40633e3465e39a15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489109,
+            "locality_id":1276886489,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1276886489,
+    "wof:lastmodified":1537673663,
+    "wof:name":"Kampong Perupok",
+    "wof:parent_id":890489109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.58333,
+    6.1,
+    100.58333,
+    6.1
+],
+  "geometry": {"coordinates":[100.58333,6.1],"type":"Point"}
+}

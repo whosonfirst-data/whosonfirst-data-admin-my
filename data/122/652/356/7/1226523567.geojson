@@ -1,0 +1,67 @@
+{
+  "id": 1226523567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.83333,4.11667,113.83333,4.11667",
+    "geom:latitude":4.11667,
+    "geom:longitude":113.83333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Tusan",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762409,
+    "gn:latitude":4.11667,
+    "gn:longitude":113.83333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Tusan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762409
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"03df36ea50dce50e17c89198dea6485e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488483,
+            "locality_id":1226523567,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1226523567,
+    "wof:lastmodified":1537028824,
+    "wof:name":"Kampong Tusan",
+    "wof:parent_id":890488483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.83333,
+    4.11667,
+    113.83333,
+    4.11667
+],
+  "geometry": {"coordinates":[113.83333,4.11667],"type":"Point"}
+}

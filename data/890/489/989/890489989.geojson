@@ -1,0 +1,72 @@
+{
+  "id": 890489989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.8869,5.0186,118.8869,5.0186",
+    "geom:latitude":5.0186,
+    "geom:longitude":118.8869,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Tungku Village"
+    ],
+    "qs:name":"Tungku",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sabah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733984,
+        "gp:id":1155247,
+        "qs:id":1116831
+    },
+    "wof:country":"MY",
+    "wof:created":1469054784,
+    "wof:geomhash":"038df2ffca8dfe522701606e07a927fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696441,
+            "locality_id":890489989,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":890489989,
+    "wof:lastmodified":1505343786,
+    "wof:name":"Tungku",
+    "wof:parent_id":1108696441,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.8869,
+    5.0186,
+    118.8869,
+    5.0186
+],
+  "geometry": {"coordinates":[118.8869,5.0186],"type":"Point"}
+}

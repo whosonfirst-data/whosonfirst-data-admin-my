@@ -1,0 +1,64 @@
+{
+  "id": 1209508359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1952,3.0986,103.1952,3.0986",
+    "geom:latitude":3.0986,
+    "geom:longitude":103.1952,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Cerampak",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697262,
+    "gn:latitude":3.0986,
+    "gn:longitude":103.1952,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Cerampak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Cerampak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697262
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7c8f55f1c2dfc4633244ef39fb561026",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209508359
+        }
+    ],
+    "wof:id":1209508359,
+    "wof:lastmodified":1537674366,
+    "wof:name":"Kampung Cerampak",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1952,
+    3.0986,
+    103.1952,
+    3.0986
+],
+  "geometry": {"coordinates":[103.1952,3.0986],"type":"Point"}
+}

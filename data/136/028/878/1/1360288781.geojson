@@ -1,0 +1,67 @@
+{
+  "id": 1360288781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.5159,5.6308,100.5159,5.6308",
+    "geom:latitude":5.6308,
+    "geom:longitude":100.5159,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Batu Dua",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847553,
+    "gn:latitude":5.6308,
+    "gn:longitude":100.5159,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kampung Batu Dua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847553
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"595615e95ff0cac262e5da7e50c0dc3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "locality_id":1360288781,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1360288781,
+    "wof:lastmodified":1536651585,
+    "wof:name":"Kampung Batu Dua",
+    "wof:parent_id":890490355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.5159,
+    5.6308,
+    100.5159,
+    5.6308
+],
+  "geometry": {"coordinates":[100.5159,5.6308],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226160625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.6733,2.6137,103.6733,2.6137",
+    "geom:latitude":2.6137,
+    "geom:longitude":103.6733,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Perkampungan Endau",
+    "gn:country_code":"MY",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7699356,
+    "gn:latitude":2.6137,
+    "gn:longitude":103.6733,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Perkampungan Endau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perkampungan Endau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7699356
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"394c2f6f22348eb4df7b9c99d34c9b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488715,
+            "locality_id":1226160625,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1226160625,
+    "wof:lastmodified":1537674374,
+    "wof:name":"Perkampungan Endau",
+    "wof:parent_id":890488715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.6733,
+    2.6137,
+    103.6733,
+    2.6137
+],
+  "geometry": {"coordinates":[103.6733,2.6137],"type":"Point"}
+}

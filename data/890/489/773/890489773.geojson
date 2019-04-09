@@ -1,0 +1,67 @@
+{
+  "id": 890489773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.208572,6.217353,116.208572,6.217353",
+    "geom:latitude":6.217353,
+    "geom:longitude":116.208572,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Surusup",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sabah",
+    "qs:photos":13,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":13,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1154211,
+        "qs:id":1096507
+    },
+    "wof:country":"MY",
+    "wof:created":1469054769,
+    "wof:geomhash":"c76059f8119f327be467b87d6649f756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":890489773,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":890489773,
+    "wof:lastmodified":1500013601,
+    "wof:name":"Surusup",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.208572,
+    6.217353,
+    116.208572,
+    6.217353
+],
+  "geometry": {"coordinates":[116.208572,6.217353],"type":"Point"}
+}

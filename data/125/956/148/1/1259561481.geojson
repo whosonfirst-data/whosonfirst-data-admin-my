@@ -1,0 +1,67 @@
+{
+  "id": 1259561481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.06667,2.01667,113.06667,2.01667",
+    "geom:latitude":2.01667,
+    "geom:longitude":113.06667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Sibau",
+    "gn:country_code":"MY",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747543,
+    "gn:latitude":2.01667,
+    "gn:longitude":113.06667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Sibau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747543
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f9d52502879adf076881160a99c716e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488879,
+            "locality_id":1259561481,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1259561481,
+    "wof:lastmodified":1536746327,
+    "wof:name":"Rumah Sibau",
+    "wof:parent_id":890488879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.06667,
+    2.01667,
+    113.06667,
+    2.01667
+],
+  "geometry": {"coordinates":[113.06667,2.01667],"type":"Point"}
+}

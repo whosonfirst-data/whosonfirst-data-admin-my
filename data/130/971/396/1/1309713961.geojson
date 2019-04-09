@@ -1,0 +1,70 @@
+{
+  "id": 1309713961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9631,5.4133,101.9631,5.4133",
+    "geom:latitude":5.4133,
+    "geom:longitude":101.9631,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pasir Biak",
+    "gn:country_code":"MY",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304197,
+    "gn:latitude":5.4133,
+    "gn:longitude":101.9631,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Pasir Biak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pasir Biak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304197
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c5306cec013f3897f3e493270615927a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489265,
+            "locality_id":1309713961,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1309713961,
+    "wof:lastmodified":1537674451,
+    "wof:name":"Pasir Biak",
+    "wof:parent_id":890489265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9631,
+    5.4133,
+    101.9631,
+    5.4133
+],
+  "geometry": {"coordinates":[101.9631,5.4133],"type":"Point"}
+}

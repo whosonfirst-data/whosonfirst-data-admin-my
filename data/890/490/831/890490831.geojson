@@ -1,0 +1,65 @@
+{
+  "id": 890490831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.443805,2.7493935,101.443805,2.7493935",
+    "geom:latitude":2.749394,
+    "geom:longitude":101.443805,
+    "gn:country":"MY",
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Morib",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":186,
+    "qs:photos_1k":38,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":304,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":163,
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014512,
+        "qs:id":225324,
+        "wd:id":"Q6912158",
+        "wk:page":"Morib"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054826,
+    "wof:geomhash":"e51a7b02c8b65088efa59b1d524aec2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "localadmin_id":890490831
+        }
+    ],
+    "wof:id":890490831,
+    "wof:lastmodified":1527734159,
+    "wof:name":"Morib",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.443805,
+    2.7493935,
+    101.443805,
+    2.7493935
+],
+  "geometry": {"coordinates":[101.443805,2.7493935],"type":"Point"}
+}

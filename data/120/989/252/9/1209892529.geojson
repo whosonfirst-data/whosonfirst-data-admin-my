@@ -1,0 +1,70 @@
+{
+  "id": 1209892529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8831,5.0805,102.8831,5.0805",
+    "geom:latitude":5.0805,
+    "geom:longitude":102.8831,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Berua",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7470200,
+    "gn:latitude":5.0805,
+    "gn:longitude":102.8831,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Berua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Berua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7470200
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c388fd820e6ed0546ac1d3140ef1bc6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1209892529,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1209892529,
+    "wof:lastmodified":1537674300,
+    "wof:name":"Kampung Berua",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8831,
+    5.0805,
+    102.8831,
+    5.0805
+],
+  "geometry": {"coordinates":[102.8831,5.0805],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243457611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.75187,5.88721,100.75187,5.88721",
+    "geom:latitude":5.88721,
+    "geom:longitude":100.75187,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Chong",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734424,
+    "gn:latitude":5.88721,
+    "gn:longitude":100.75187,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Chong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Chong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Chong",
+        "Kampong An Chiong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734424
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6d2a270efdeb2a37016a9e28ab05fec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696515,
+            "locality_id":1243457611,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1243457611,
+    "wof:lastmodified":1537673704,
+    "wof:name":"Kampung Chong",
+    "wof:parent_id":1108696515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.75187,
+    5.88721,
+    100.75187,
+    5.88721
+],
+  "geometry": {"coordinates":[100.75187,5.88721],"type":"Point"}
+}

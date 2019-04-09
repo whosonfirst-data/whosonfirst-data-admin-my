@@ -1,0 +1,117 @@
+{
+  "id": 85771705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8340043.359954,
+    "geom:bbox":"100.25247,5.280767,100.25247,5.280767",
+    "geom:latitude":5.280767,
+    "geom:longitude":100.25247,
+    "gn:latitude":5.2823,
+    "gn:longitude":100.25891,
+    "iso:country":"MY",
+    "lbl:latitude":5.280767,
+    "lbl:longitude":100.25247,
+    "mps:latitude":5.282418,
+    "mps:longitude":100.242061,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Kampong Permatang Damar Laut"
+    ],
+    "name:msa_x_preferred":[
+        "Kampung Permatang Damar Laut"
+    ],
+    "name:und_x_variant":[
+        "Kampung Permatang Damar Laut"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Permatang Damar Laut"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1764027,
+    "qs:gn_nam_loc":"Kampong Sungai Gelugor, Pulau Pinang, MY",
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Kampung Permatang Damar Laut",
+    "qs:local_max":422,
+    "qs:local_sum":2726,
+    "qs:localhoods":18,
+    "qs:name":"Kampong Permatang Damar Laut",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:name_adm2":"Barat Daya",
+    "qs:name_lau":"Mukim 12",
+    "qs:name_local":"Kampong Sungai Gelugor",
+    "qs:photo_max":39,
+    "qs:photo_sum":82,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346304,
+    "qs:woe_adm2":56013634,
+    "qs:woe_lau":56014458,
+    "qs:woe_local":1149014,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023363,
+        890489155,
+        85675127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765575,
+        "gp:id":1147457,
+        "qs:id":478800,
+        "qs_pg:id":478800
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"54e8dc728a54721c3d68c489273c6c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "locality_id":102023363,
+            "neighbourhood_id":85771705,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":85771705,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859445,
+    "wof:name":"Kampong Permatang Damar Laut",
+    "wof:parent_id":102023363,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.25247,
+    5.280767,
+    100.25247,
+    5.280767
+],
+  "geometry": {"coordinates":[100.25247,5.280767],"type":"Point"}
+}

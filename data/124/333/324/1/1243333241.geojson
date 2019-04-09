@@ -1,0 +1,70 @@
+{
+  "id": 1243333241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.0024,6.4335,117.0024,6.4335",
+    "geom:latitude":6.4335,
+    "geom:longitude":117.0024,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Nabungan",
+    "gn:country_code":"MY",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7468083,
+    "gn:latitude":6.4335,
+    "gn:longitude":117.0024,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Nabungan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Nabungan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468083
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5b79f7c36190b40b4595d79f394fcff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696425,
+            "locality_id":1243333241,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1243333241,
+    "wof:lastmodified":1537674296,
+    "wof:name":"Kampung Nabungan",
+    "wof:parent_id":1108696425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.0024,
+    6.4335,
+    117.0024,
+    6.4335
+],
+  "geometry": {"coordinates":[117.00239999999999,6.4335],"type":"Point"}
+}

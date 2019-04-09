@@ -1,0 +1,63 @@
+{
+  "id": 1276439245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.37917,3.81667,103.37917,3.81667",
+    "geom:latitude":3.81667,
+    "geom:longitude":103.37917,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pelindong Tengah",
+    "gn:country_code":"MY",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888076,
+    "gn:latitude":3.81667,
+    "gn:longitude":103.37917,
+    "gn:modification_date":"1995-11-17",
+    "gn:name":"Pelindong Tengah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888076
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8060a0aed349b606541284a607ec0f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1276439245,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276439245,
+    "wof:lastmodified":1536635466,
+    "wof:name":"Pelindong Tengah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.37917,
+    3.81667,
+    103.37917,
+    3.81667
+],
+  "geometry": {"coordinates":[103.37917,3.81667],"type":"Point"}
+}

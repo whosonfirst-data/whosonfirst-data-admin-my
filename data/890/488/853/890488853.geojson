@@ -1,0 +1,67 @@
+{
+  "id": 890488853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.32836,5.71528,102.32836,5.71528",
+    "geom:latitude":5.71528,
+    "geom:longitude":102.32836,
+    "gn:country":"MY",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Hulu Sat"
+    ],
+    "qs:name":"Hulu Sat",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068275,
+        "qs:id":379858
+    },
+    "wof:country":"MY",
+    "wof:created":1469054735,
+    "wof:geomhash":"815a75a7012886834c47af4a811a2bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696457,
+            "localadmin_id":890488853,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":890488853,
+    "wof:lastmodified":1505343783,
+    "wof:name":"Hulu Sat",
+    "wof:parent_id":1108696457,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.32836,
+    5.71528,
+    102.32836,
+    5.71528
+],
+  "geometry": {"coordinates":[102.32836,5.71528],"type":"Point"}
+}

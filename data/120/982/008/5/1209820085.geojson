@@ -1,0 +1,70 @@
+{
+  "id": 1209820085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2583,2.7489,102.2583,2.7489",
+    "geom:latitude":2.7489,
+    "geom:longitude":102.2583,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Kuala Dioh",
+    "gn:country_code":"MY",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796821,
+    "gn:latitude":2.7489,
+    "gn:longitude":102.2583,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kuala Dioh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Dioh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796821
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"89991210e4853e10da0289b3d380ae49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1209820085,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1209820085,
+    "wof:lastmodified":1537674412,
+    "wof:name":"Kampung Kuala Dioh",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2583,
+    2.7489,
+    102.2583,
+    2.7489
+],
+  "geometry": {"coordinates":[102.25830000000001,2.7489],"type":"Point"}
+}

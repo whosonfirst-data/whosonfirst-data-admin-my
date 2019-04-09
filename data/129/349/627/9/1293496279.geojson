@@ -1,0 +1,71 @@
+{
+  "id": 1293496279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.67555,5.92556,100.67555,5.92556",
+    "geom:latitude":5.92556,
+    "geom:longitude":100.67555,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Padang Pulut",
+    "gn:country_code":"MY",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766440,
+    "gn:latitude":5.92556,
+    "gn:longitude":100.67555,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Padang Pulut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Padang Pulut",
+        "Kampung Padang Pulut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766440
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"61b5f4409b20eae39ea2d4b4adc8f9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696515,
+            "locality_id":1293496279,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1293496279,
+    "wof:lastmodified":1537673995,
+    "wof:name":"Kampung Padang Pulut",
+    "wof:parent_id":1108696515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.67555,
+    5.92556,
+    100.67555,
+    5.92556
+],
+  "geometry": {"coordinates":[100.67555,5.92556],"type":"Point"}
+}

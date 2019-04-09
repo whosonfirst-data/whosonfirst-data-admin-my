@@ -1,0 +1,70 @@
+{
+  "id": 1293387557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6386,3.0127,102.6386,3.0127",
+    "geom:latitude":3.0127,
+    "geom:longitude":102.6386,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Rau Rau",
+    "gn:country_code":"MY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796481,
+    "gn:latitude":3.0127,
+    "gn:longitude":102.6386,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Rau Rau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rau Rau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796481
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"12dd7fcd27a46c0f85ebf31fd84ae242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1293387557,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293387557,
+    "wof:lastmodified":1537674405,
+    "wof:name":"Kampung Rau Rau",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6386,
+    3.0127,
+    102.6386,
+    3.0127
+],
+  "geometry": {"coordinates":[102.6386,3.0127],"type":"Point"}
+}

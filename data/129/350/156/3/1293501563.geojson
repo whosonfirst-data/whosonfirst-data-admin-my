@@ -1,0 +1,70 @@
+{
+  "id": 1293501563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8145,1.5893,103.8145,1.5893",
+    "geom:latitude":1.5893,
+    "geom:longitude":103.8145,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Rose",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7619695,
+    "gn:latitude":1.5893,
+    "gn:longitude":103.8145,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Rose",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Rose"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619695
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a84db726769e740a16a4059803a8a90f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1293501563,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293501563,
+    "wof:lastmodified":1537674334,
+    "wof:name":"Taman Rose",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8145,
+    1.5893,
+    103.8145,
+    1.5893
+],
+  "geometry": {"coordinates":[103.8145,1.5893],"type":"Point"}
+}

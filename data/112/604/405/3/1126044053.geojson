@@ -1,0 +1,106 @@
+{
+  "id": 1126044053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.5235,6.44233,100.5235,6.44233",
+    "geom:latitude":6.44233,
+    "geom:longitude":100.5235,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":6.44233,
+    "lbl:longitude":100.5235,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u8f9b\u6258\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Sintok"
+    ],
+    "name:eng_x_preferred":[
+        "Sintok"
+    ],
+    "name:ind_x_preferred":[
+        "Sintok"
+    ],
+    "name:jav_x_preferred":[
+        "Sintok"
+    ],
+    "name:may_x_preferred":[
+        "Sintok"
+    ],
+    "name:unk_x_variant":[
+        "Sintok"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1736326,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sintuk",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Kedah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1056379,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1154069,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Kedah",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736326,
+        "gp:id":1154069,
+        "qs_pg:id":1056379,
+        "wd:id":"Q4200633"
+    },
+    "wof:country":"MY",
+    "wof:created":1497302325,
+    "wof:geomhash":"14e2d74ada1a159ea2ac987c16ea45d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1126044053,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1126044053,
+    "wof:lastmodified":1514490839,
+    "wof:name":"Sintuk",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.5235,
+    6.44233,
+    100.5235,
+    6.44233
+],
+  "geometry": {"coordinates":[100.5235,6.44233],"type":"Point"}
+}

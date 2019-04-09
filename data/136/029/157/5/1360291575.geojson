@@ -1,0 +1,73 @@
+{
+  "id": 1360291575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2956,2.3645,102.2956,2.3645",
+    "geom:latitude":2.3645,
+    "geom:longitude":102.2956,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Mancap Umboo",
+    "gn:country_code":"MY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1756493,
+    "gn:latitude":2.3645,
+    "gn:longitude":102.2956,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Mancap Umboo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mancap Umboo"
+    ],
+    "name:und_x_variant":[
+        "Machap Umbor Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1756493
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"37a0a91e9bb5f186282e50e2af72d15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1360291575,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1360291575,
+    "wof:lastmodified":1537673794,
+    "wof:name":"Kampung Mancap Umboo",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2956,
+    2.3645,
+    102.2956,
+    2.3645
+],
+  "geometry": {"coordinates":[102.29559999999999,2.3645],"type":"Point"}
+}

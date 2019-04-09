@@ -1,0 +1,70 @@
+{
+  "id": 1276224893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5809,4.169,101.5809,4.169",
+    "geom:latitude":4.169,
+    "geom:longitude":101.5809,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sinderut",
+    "gn:country_code":"MY",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8306296,
+    "gn:latitude":4.169,
+    "gn:longitude":101.5809,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Sinderut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Sinderut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306296
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"707a6ecc7a98fb0153b96d12db651aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1276224893,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276224893,
+    "wof:lastmodified":1537674451,
+    "wof:name":"Sinderut",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5809,
+    4.169,
+    101.5809,
+    4.169
+],
+  "geometry": {"coordinates":[101.5809,4.169],"type":"Point"}
+}

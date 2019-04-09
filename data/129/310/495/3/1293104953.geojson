@@ -1,0 +1,70 @@
+{
+  "id": 1293104953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3341,2.1777,102.3341,2.1777",
+    "geom:latitude":2.1777,
+    "geom:longitude":102.3341,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Solok Bukit Larang",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798006,
+    "gn:latitude":2.1777,
+    "gn:longitude":102.3341,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Solok Bukit Larang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Solok Bukit Larang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798006
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b1e92a3ffa8c4a51c45c3eb3eaff343f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":1293104953,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1293104953,
+    "wof:lastmodified":1537674427,
+    "wof:name":"Solok Bukit Larang",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3341,
+    2.1777,
+    102.3341,
+    2.1777
+],
+  "geometry": {"coordinates":[102.33410000000001,2.1777],"type":"Point"}
+}

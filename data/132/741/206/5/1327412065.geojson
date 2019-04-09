@@ -1,0 +1,67 @@
+{
+  "id": 1327412065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.86667,4.53333,114.86667,4.53333",
+    "geom:latitude":4.53333,
+    "geom:longitude":114.86667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Jampi",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747895,
+    "gn:latitude":4.53333,
+    "gn:longitude":114.86667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Jampi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747895
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"56826d8f94b632823acbc3c46d24b612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696449,
+            "locality_id":1327412065,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1327412065,
+    "wof:lastmodified":1536710484,
+    "wof:name":"Rumah Jampi",
+    "wof:parent_id":1108696449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.86667,
+    4.53333,
+    114.86667,
+    4.53333
+],
+  "geometry": {"coordinates":[114.86667,4.53333],"type":"Point"}
+}

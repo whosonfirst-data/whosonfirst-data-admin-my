@@ -1,0 +1,73 @@
+{
+  "id": 890490731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1838,2.2594,102.1838,2.2594",
+    "geom:latitude":2.2594,
+    "geom:longitude":102.1838,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":17391,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bukit Rambai"
+    ],
+    "qs:name":"Bukit Rambai",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1778290,
+        "gp:id":1140977,
+        "qs:id":870024
+    },
+    "wof:country":"MY",
+    "wof:created":1469054823,
+    "wof:geomhash":"5a7828a2f7a5278adffa793c8f0f539f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":890490731,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":890490731,
+    "wof:lastmodified":1505343789,
+    "wof:name":"Bukit Rambai",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:population":17391,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1838,
+    2.2594,
+    102.1838,
+    2.2594
+],
+  "geometry": {"coordinates":[102.18380000000001,2.2594],"type":"Point"}
+}

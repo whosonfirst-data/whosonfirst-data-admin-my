@@ -1,0 +1,70 @@
+{
+  "id": 1259460083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0181,3.7288,101.0181,3.7288",
+    "geom:latitude":3.7288,
+    "geom:longitude":101.0181,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kampung Parit Sembilan Barat",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7651092,
+    "gn:latitude":3.7288,
+    "gn:longitude":101.0181,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Sembilan Barat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Sembilan Barat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890490813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7651092
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a6f9d33077ef72b4ec04a719f6710ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490813,
+            "locality_id":1259460083,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1259460083,
+    "wof:lastmodified":1537674351,
+    "wof:name":"Kampung Parit Sembilan Barat",
+    "wof:parent_id":890490813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0181,
+    3.7288,
+    101.0181,
+    3.7288
+],
+  "geometry": {"coordinates":[101.0181,3.7288],"type":"Point"}
+}

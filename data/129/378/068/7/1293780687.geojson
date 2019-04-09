@@ -1,0 +1,67 @@
+{
+  "id": 1293780687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.78333,4.35,100.78333,4.35",
+    "geom:latitude":4.35,
+    "geom:longitude":100.78333,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Jering",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768745,
+    "gn:latitude":4.35,
+    "gn:longitude":100.78333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Jering",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        1108696459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768745
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"374b5174748d3cc499b7a47733a08d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696459,
+            "locality_id":1293780687,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1293780687,
+    "wof:lastmodified":1536860117,
+    "wof:name":"Kampong Jering",
+    "wof:parent_id":1108696459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.78333,
+    4.35,
+    100.78333,
+    4.35
+],
+  "geometry": {"coordinates":[100.78333000000001,4.35],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209212607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6352,3.823,102.6352,3.823",
+    "geom:latitude":3.823,
+    "geom:longitude":102.6352,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Air Terjun",
+    "gn:country_code":"MY",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7566105,
+    "gn:latitude":3.823,
+    "gn:longitude":102.6352,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Air Terjun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Air Terjun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7566105
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6a8165c0fb7823db93230cee5ba6e1e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209212607
+        }
+    ],
+    "wof:id":1209212607,
+    "wof:lastmodified":1537674315,
+    "wof:name":"Kampung Air Terjun",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6352,
+    3.823,
+    102.6352,
+    3.823
+],
+  "geometry": {"coordinates":[102.6352,3.823],"type":"Point"}
+}

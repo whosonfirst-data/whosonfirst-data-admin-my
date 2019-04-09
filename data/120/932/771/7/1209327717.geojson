@@ -1,0 +1,64 @@
+{
+  "id": 1209327717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.43687,6.09152,100.43687,6.09152",
+    "geom:latitude":6.09152,
+    "geom:longitude":100.43687,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Pulau Binjai",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6820195,
+    "gn:latitude":6.09152,
+    "gn:longitude":100.43687,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Pulau Binjai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pulau Binjai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6820195
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0dbc78ca95183eabafef18ff6d29c4a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209327717
+        }
+    ],
+    "wof:id":1209327717,
+    "wof:lastmodified":1537674251,
+    "wof:name":"Kampung Pulau Binjai",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.43687,
+    6.09152,
+    100.43687,
+    6.09152
+],
+  "geometry": {"coordinates":[100.43687,6.09152],"type":"Point"}
+}

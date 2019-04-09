@@ -1,0 +1,70 @@
+{
+  "id": 1344179365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3936,4.1875,102.3936,4.1875",
+    "geom:latitude":4.1875,
+    "geom:longitude":102.3936,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Lubuk Payung",
+    "gn:country_code":"MY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564958,
+    "gn:latitude":4.1875,
+    "gn:longitude":102.3936,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Lubuk Payung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lubuk Payung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564958
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"972195b42e3924d9b9698d45e1de5c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1344179365,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1344179365,
+    "wof:lastmodified":1537674310,
+    "wof:name":"Kampung Lubuk Payung",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3936,
+    4.1875,
+    102.3936,
+    4.1875
+],
+  "geometry": {"coordinates":[102.39360000000001,4.1875],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327047933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4749,2.2263,103.4749,2.2263",
+    "geom:latitude":2.2263,
+    "geom:longitude":103.4749,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Kemelor",
+    "gn:country_code":"MY",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768410,
+    "gn:latitude":2.2263,
+    "gn:longitude":103.4749,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kemelor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kemelor"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kemalor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768410
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9807a46c8a6d4ca7001fc391a2e49191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1327047933,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1327047933,
+    "wof:lastmodified":1537674077,
+    "wof:name":"Kampung Kemelor",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4749,
+    2.2263,
+    103.4749,
+    2.2263
+],
+  "geometry": {"coordinates":[103.47490000000001,2.2263],"type":"Point"}
+}

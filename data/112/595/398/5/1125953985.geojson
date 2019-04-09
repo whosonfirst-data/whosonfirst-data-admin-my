@@ -1,0 +1,87 @@
+{
+  "id": 1125953985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.65759,6.30188,100.65759,6.30188",
+    "geom:latitude":6.30188,
+    "geom:longitude":100.65759,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":6.30188,
+    "lbl:longitude":100.65759,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Padang Terap"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1736318,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kampung Padang Teja",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Kedah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1026642,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":56119097,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Kedah",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736318,
+        "gp:id":56119097,
+        "qs_pg:id":1026642
+    },
+    "wof:country":"MY",
+    "wof:created":1497297558,
+    "wof:geomhash":"7f7eceab43e98e70f39c03d1025276be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696471,
+            "locality_id":1125953985,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1125953985,
+    "wof:lastmodified":1509402869,
+    "wof:name":"Kampung Padang Teja",
+    "wof:parent_id":1108696471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.65759,
+    6.30188,
+    100.65759,
+    6.30188
+],
+  "geometry": {"coordinates":[100.65759,6.30188],"type":"Point"}
+}

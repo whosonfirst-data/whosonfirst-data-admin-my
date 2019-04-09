@@ -1,0 +1,67 @@
+{
+  "id": 1209018353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6344,2.1976,102.6344,2.1976",
+    "geom:latitude":2.1976,
+    "geom:longitude":102.6344,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Simpang Lima",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764322,
+    "gn:latitude":2.1976,
+    "gn:longitude":102.6344,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Simpang Lima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Simpang Lima"
+    ],
+    "name:und_x_variant":[
+        "Kampong Simpang Lima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764322
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4d5060aba57ebd7b7e055e974dbe23d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209018353
+        }
+    ],
+    "wof:id":1209018353,
+    "wof:lastmodified":1537673903,
+    "wof:name":"Kampung Simpang Lima",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6344,
+    2.1976,
+    102.6344,
+    2.1976
+],
+  "geometry": {"coordinates":[102.6344,2.1976],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209593815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.4,2.05,111.4,2.05",
+    "geom:latitude":2.05,
+    "geom:longitude":111.4,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dampa Rumah Banyi",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1776537,
+    "gn:latitude":2.05,
+    "gn:longitude":111.4,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Dampa Rumah Banyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1776537
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8651299207ba8a677ef99338bf025fa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209593815
+        }
+    ],
+    "wof:id":1209593815,
+    "wof:lastmodified":1536282391,
+    "wof:name":"Dampa Rumah Banyi",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.4,
+    2.05,
+    111.4,
+    2.05
+],
+  "geometry": {"coordinates":[111.40000000000001,2.05],"type":"Point"}
+}

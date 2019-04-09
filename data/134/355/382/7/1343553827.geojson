@@ -1,0 +1,70 @@
+{
+  "id": 1343553827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0056,4.703,102.0056,4.703",
+    "geom:latitude":4.703,
+    "geom:longitude":102.0056,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Tanggang",
+    "gn:country_code":"MY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7475089,
+    "gn:latitude":4.703,
+    "gn:longitude":102.0056,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tanggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanggang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7475089
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9a6952708a035165050cba49fa18624a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1343553827,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1343553827,
+    "wof:lastmodified":1537674308,
+    "wof:name":"Kampung Tanggang",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0056,
+    4.703,
+    102.0056,
+    4.703
+],
+  "geometry": {"coordinates":[102.0056,4.703],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260087573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.91667,5.41667,101.91667,5.41667",
+    "geom:latitude":5.41667,
+    "geom:longitude":101.91667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Rawa",
+    "gn:country_code":"MY",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765047,
+    "gn:latitude":5.41667,
+    "gn:longitude":101.91667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Rawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765047
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fb2d3d199ac22642fa0cb7063c3e28ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490101,
+            "locality_id":1260087573,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1260087573,
+    "wof:lastmodified":1536981367,
+    "wof:name":"Kampong Rawa",
+    "wof:parent_id":890490101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.91667,
+    5.41667,
+    101.91667,
+    5.41667
+],
+  "geometry": {"coordinates":[101.91667,5.41667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259386813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8096,2.0121,102.8096,2.0121",
+    "geom:latitude":2.0121,
+    "geom:longitude":102.8096,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Parit Hassan Ahmad Satu",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856403,
+    "gn:latitude":2.0121,
+    "gn:longitude":102.8096,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Parit Hassan Ahmad Satu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Parit Hassan Ahmad Satu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856403
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1481a77e18a91dd0056a2004c23d1b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1259386813,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1259386813,
+    "wof:lastmodified":1537674440,
+    "wof:name":"Parit Hassan Ahmad Satu",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8096,
+    2.0121,
+    102.8096,
+    2.0121
+],
+  "geometry": {"coordinates":[102.8096,2.0121],"type":"Point"}
+}

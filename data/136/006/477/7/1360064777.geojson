@@ -1,0 +1,67 @@
+{
+  "id": 1360064777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.33333,4.8,103.33333,4.8",
+    "geom:latitude":4.8,
+    "geom:longitude":103.33333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampong Serdang",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764503,
+    "gn:latitude":4.8,
+    "gn:longitude":103.33333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Serdang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764503
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c24decdac65903df914563a311acc96c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":1360064777,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1360064777,
+    "wof:lastmodified":1536974554,
+    "wof:name":"Kampong Serdang",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.33333,
+    4.8,
+    103.33333,
+    4.8
+],
+  "geometry": {"coordinates":[103.33333,4.8],"type":"Point"}
+}

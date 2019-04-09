@@ -1,0 +1,74 @@
+{
+  "id": 1225853857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.72568,5.76221,100.72568,5.76221",
+    "geom:latitude":5.76221,
+    "geom:longitude":100.72568,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Bandar",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771198,
+    "gn:latitude":5.76221,
+    "gn:longitude":100.72568,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bandar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bandar"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bandar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771198
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"709e63e8ad60fb792d7d3b7d8210f768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696515,
+            "locality_id":1225853857,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1225853857,
+    "wof:lastmodified":1537674191,
+    "wof:name":"Kampung Bandar",
+    "wof:parent_id":1108696515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.72568,
+    5.76221,
+    100.72568,
+    5.76221
+],
+  "geometry": {"coordinates":[100.72568,5.76221],"type":"Point"}
+}

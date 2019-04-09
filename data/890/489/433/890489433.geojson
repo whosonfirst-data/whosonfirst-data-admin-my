@@ -1,0 +1,67 @@
+{
+  "id": 890489433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.437995,4.6234795,103.437995,4.6234795",
+    "geom:latitude":4.62348,
+    "geom:longitude":103.437995,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kuala Paka",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Terengganu",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":89,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014462,
+        "qs:id":1016616
+    },
+    "wof:country":"MY",
+    "wof:created":1469054757,
+    "wof:geomhash":"1e729be692f49f877b83bb25936a31b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "localadmin_id":890489433,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":890489433,
+    "wof:lastmodified":1500013520,
+    "wof:name":"Kuala Paka",
+    "wof:parent_id":890490253,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.437995,
+    4.6234795,
+    103.437995,
+    4.6234795
+],
+  "geometry": {"coordinates":[103.437995,4.6234795],"type":"Point"}
+}

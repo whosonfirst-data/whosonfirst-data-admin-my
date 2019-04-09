@@ -1,0 +1,74 @@
+{
+  "id": 1310014741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.72728,5.74377,100.72728,5.74377",
+    "geom:latitude":5.74377,
+    "geom:longitude":100.72728,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Charok Pasir",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769901,
+    "gn:latitude":5.74377,
+    "gn:longitude":100.72728,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Charok Pasir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Charok Pasir"
+    ],
+    "name:und_x_variant":[
+        "Kampong Charok Pasir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769901
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b59b0336dbb55f4e85944480e00f60e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696515,
+            "locality_id":1310014741,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310014741,
+    "wof:lastmodified":1537674139,
+    "wof:name":"Kampung Charok Pasir",
+    "wof:parent_id":1108696515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.72728,
+    5.74377,
+    100.72728,
+    5.74377
+],
+  "geometry": {"coordinates":[100.72727999999999,5.74377],"type":"Point"}
+}

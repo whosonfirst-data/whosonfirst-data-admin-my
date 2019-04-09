@@ -1,0 +1,75 @@
+{
+  "id": 890489171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.21667,5.91667,102.21667,5.91667",
+    "geom:latitude":5.91667,
+    "geom:longitude":102.21667,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":39904,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kampong Pangkal Kalong",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kelantan",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766249,
+        "gp:id":1146785,
+        "qs:id":944129,
+        "wd:id":"Q21006013",
+        "wk:page":"List of Malayan federal electoral districts 1955\u201359"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054747,
+    "wof:geomhash":"ed6f6d4fb521ef6d2a28d8c6055f7a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489783,
+            "locality_id":890489171,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":890489171,
+    "wof:lastmodified":1527792867,
+    "wof:name":"Kampong Pangkal Kalong",
+    "wof:parent_id":890489783,
+    "wof:placetype":"locality",
+    "wof:population":39904,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.21667,
+    5.91667,
+    102.21667,
+    5.91667
+],
+  "geometry": {"coordinates":[102.21666999999999,5.91667],"type":"Point"}
+}

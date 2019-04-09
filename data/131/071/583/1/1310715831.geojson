@@ -1,0 +1,70 @@
+{
+  "id": 1310715831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8788,1.4959,103.8788,1.4959",
+    "geom:latitude":1.4959,
+    "geom:longitude":103.8788,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Rinting",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7619755,
+    "gn:latitude":1.4959,
+    "gn:longitude":103.8788,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Rinting",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Rinting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619755
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"69b720437111e3f705339789fdb753a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1310715831,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1310715831,
+    "wof:lastmodified":1537674334,
+    "wof:name":"Taman Rinting",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8788,
+    1.4959,
+    103.8788,
+    1.4959
+],
+  "geometry": {"coordinates":[103.8788,1.4959],"type":"Point"}
+}

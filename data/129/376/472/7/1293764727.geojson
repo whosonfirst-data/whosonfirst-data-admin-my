@@ -1,0 +1,73 @@
+{
+  "id": 1293764727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.14583,1.07488,111.14583,1.07488",
+    "geom:latitude":1.07488,
+    "geom:longitude":111.14583,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rapak Terus",
+    "gn:country_code":"MY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735752,
+    "gn:latitude":1.07488,
+    "gn:longitude":111.14583,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Rapak Terus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tepus",
+        "Rapak Tepus",
+        "Rapak Terus",
+        "Rapak Tebus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735752
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cd8cf6ed8b72911124bb2f1f524b413a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696523,
+            "locality_id":1293764727,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1293764727,
+    "wof:lastmodified":1537673727,
+    "wof:name":"Rapak Terus",
+    "wof:parent_id":1108696523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.14583,
+    1.07488,
+    111.14583,
+    1.07488
+],
+  "geometry": {"coordinates":[111.14583,1.07488],"type":"Point"}
+}

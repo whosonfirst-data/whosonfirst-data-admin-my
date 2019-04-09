@@ -1,0 +1,64 @@
+{
+  "id": 1209533203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.2104,1.3598,104.2104,1.3598",
+    "geom:latitude":1.3598,
+    "geom:longitude":104.2104,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Bukit Buloh",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7699403,
+    "gn:latitude":1.3598,
+    "gn:longitude":104.2104,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bukit Buloh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Buloh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7699403
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f9d96cd207403d8f2fa67e495499009a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209533203
+        }
+    ],
+    "wof:id":1209533203,
+    "wof:lastmodified":1537674374,
+    "wof:name":"Kampung Bukit Buloh",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.2104,
+    1.3598,
+    104.2104,
+    1.3598
+],
+  "geometry": {"coordinates":[104.21040000000001,1.3598],"type":"Point"}
+}

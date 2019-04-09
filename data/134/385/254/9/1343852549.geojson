@@ -1,0 +1,74 @@
+{
+  "id": 1343852549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.96777,5.11647,100.96777,5.11647",
+    "geom:latitude":5.11647,
+    "geom:longitude":100.96777,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Sira",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764271,
+    "gn:latitude":5.11647,
+    "gn:longitude":100.96777,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sira"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764271
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"400f0351e02026b47b24d4affb3f820b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489739,
+            "locality_id":1343852549,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1343852549,
+    "wof:lastmodified":1537673901,
+    "wof:name":"Kampung Sira",
+    "wof:parent_id":890489739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.96777,
+    5.11647,
+    100.96777,
+    5.11647
+],
+  "geometry": {"coordinates":[100.96777,5.11647],"type":"Point"}
+}

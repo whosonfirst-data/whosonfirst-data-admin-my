@@ -1,0 +1,70 @@
+{
+  "id": 1327043875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0236,2.1116,103.0236,2.1116",
+    "geom:latitude":2.1116,
+    "geom:longitude":103.0236,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Ngamarto",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856953,
+    "gn:latitude":2.1116,
+    "gn:longitude":103.0236,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Ngamarto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ngamarto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856953
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"010d4f7863223b0da2ab6a6ce1f3d468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1327043875,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1327043875,
+    "wof:lastmodified":1537674440,
+    "wof:name":"Kampung Ngamarto",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0236,
+    2.1116,
+    103.0236,
+    2.1116
+],
+  "geometry": {"coordinates":[103.0236,2.1116],"type":"Point"}
+}

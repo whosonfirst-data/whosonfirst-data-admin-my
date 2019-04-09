@@ -1,0 +1,71 @@
+{
+  "id": 1309893781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.92975,4.2512,113.92975,4.2512",
+    "geom:latitude":4.2512,
+    "geom:longitude":113.92975,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Bakam",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771265,
+    "gn:latitude":4.2512,
+    "gn:longitude":113.92975,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Kampong Bakam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakam",
+        "Kampong Bakam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771265
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1d165269c675535749d5ad3a57b3ea26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488483,
+            "locality_id":1309893781,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1309893781,
+    "wof:lastmodified":1537674194,
+    "wof:name":"Kampong Bakam",
+    "wof:parent_id":890488483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.92975,
+    4.2512,
+    113.92975,
+    4.2512
+],
+  "geometry": {"coordinates":[113.92975,4.2512],"type":"Point"}
+}

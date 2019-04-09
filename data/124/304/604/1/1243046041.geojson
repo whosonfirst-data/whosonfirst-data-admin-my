@@ -1,0 +1,70 @@
+{
+  "id": 1243046041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.32399,1.62673,110.32399,1.62673",
+    "geom:latitude":1.62673,
+    "geom:longitude":110.32399,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampung Bodoh",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770452,
+    "gn:latitude":1.62673,
+    "gn:longitude":110.32399,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kampung Bodoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Bodoh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770452
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"89f3394146d8b95370017f9475c620b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1243046041,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1243046041,
+    "wof:lastmodified":1537674161,
+    "wof:name":"Kampung Bodoh",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.32399,
+    1.62673,
+    110.32399,
+    1.62673
+],
+  "geometry": {"coordinates":[110.32398999999999,1.62673],"type":"Point"}
+}

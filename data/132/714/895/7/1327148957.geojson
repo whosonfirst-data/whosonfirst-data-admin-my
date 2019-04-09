@@ -1,0 +1,67 @@
+{
+  "id": 1327148957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.18333,6.43333,100.18333,6.43333",
+    "geom:latitude":6.43333,
+    "geom:longitude":100.18333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampung Boroh Temak",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736242,
+    "gn:latitude":6.43333,
+    "gn:longitude":100.18333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampung Boroh Temak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736242
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e3a9488345b84cbfe49b49593bf19738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1327148957,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1327148957,
+    "wof:lastmodified":1537086803,
+    "wof:name":"Kampung Boroh Temak",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.18333,
+    6.43333,
+    100.18333,
+    6.43333
+],
+  "geometry": {"coordinates":[100.18333,6.43333],"type":"Point"}
+}

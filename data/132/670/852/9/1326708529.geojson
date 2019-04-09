@@ -1,0 +1,67 @@
+{
+  "id": 1326708529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.85,4.71667,114.85,4.71667",
+    "geom:latitude":4.71667,
+    "geom:longitude":114.85,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Bumbun",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770046,
+    "gn:latitude":4.71667,
+    "gn:longitude":114.85,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Bumbun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770046
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4d9d5a28a580dab4893dbb0d2958cdeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696449,
+            "locality_id":1326708529,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1326708529,
+    "wof:lastmodified":1536730307,
+    "wof:name":"Kampong Bumbun",
+    "wof:parent_id":1108696449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.85,
+    4.71667,
+    114.85,
+    4.71667
+],
+  "geometry": {"coordinates":[114.84999999999999,4.71667],"type":"Point"}
+}

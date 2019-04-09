@@ -1,0 +1,70 @@
+{
+  "id": 1327156401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2806,3.7328,102.2806,3.7328",
+    "geom:latitude":3.7328,
+    "geom:longitude":102.2806,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Penderas",
+    "gn:country_code":"MY",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7656115,
+    "gn:latitude":3.7328,
+    "gn:longitude":102.2806,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Penderas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Penderas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656115
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e5d47404c0b297d14144539c87d07991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1327156401,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1327156401,
+    "wof:lastmodified":1537674353,
+    "wof:name":"Kampung Penderas",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2806,
+    3.7328,
+    102.2806,
+    3.7328
+],
+  "geometry": {"coordinates":[102.28060000000001,3.7328],"type":"Point"}
+}

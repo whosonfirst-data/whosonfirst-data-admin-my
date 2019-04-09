@@ -1,0 +1,73 @@
+{
+  "id": 1326933379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.39386,6.06223,100.39386,6.06223",
+    "geom:latitude":6.06223,
+    "geom:longitude":100.39386,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Alor Belat",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771705,
+    "gn:latitude":6.06223,
+    "gn:longitude":100.39386,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Alor Belat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Alor Belat"
+    ],
+    "name:und_x_variant":[
+        "Kampong Alor Belat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771705
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a06225dfd5780d223205db124879cfef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1326933379,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1326933379,
+    "wof:lastmodified":1537674213,
+    "wof:name":"Kampung Alor Belat",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.39386,
+    6.06223,
+    100.39386,
+    6.06223
+],
+  "geometry": {"coordinates":[100.39386,6.06223],"type":"Point"}
+}

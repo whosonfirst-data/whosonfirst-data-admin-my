@@ -1,0 +1,70 @@
+{
+  "id": 1310204179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0804,2.9197,102.0804,2.9197",
+    "geom:latitude":2.9197,
+    "geom:longitude":102.0804,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Gabai",
+    "gn:country_code":"MY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796710,
+    "gn:latitude":2.9197,
+    "gn:longitude":102.0804,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Gabai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gabai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796710
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"76560204beef87b7f0c60585f297f72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1310204179,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1310204179,
+    "wof:lastmodified":1537674410,
+    "wof:name":"Kampung Gabai",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0804,
+    2.9197,
+    102.0804,
+    2.9197
+],
+  "geometry": {"coordinates":[102.0804,2.9197],"type":"Point"}
+}

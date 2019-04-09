@@ -1,0 +1,88 @@
+{
+  "id": 890490059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.643946,1.602666,103.643946,1.602666",
+    "geom:latitude":1.602666,
+    "geom:longitude":103.643946,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u58eb\u4e43"
+    ],
+    "name:dut_x_preferred":[
+        "Senai"
+    ],
+    "name:eng_x_preferred":[
+        "Senai"
+    ],
+    "name:may_x_preferred":[
+        "Senai"
+    ],
+    "name:pol_x_preferred":[
+        "Senai"
+    ],
+    "name:spa_x_preferred":[
+        "Senai"
+    ],
+    "qs:name":"Senai",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":129,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":129,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":625,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1155100,
+        "qs:id":70041,
+        "wd:id":"Q1059565",
+        "wk:page":"Senai"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054786,
+    "wof:geomhash":"e2da4bbfded96531dad92f5f011427e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696433,
+            "locality_id":890490059,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890490059,
+    "wof:lastmodified":1527734159,
+    "wof:name":"Senai",
+    "wof:parent_id":1108696433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.643946,
+    1.602666,
+    103.643946,
+    1.602666
+],
+  "geometry": {"coordinates":[103.643946,1.602666],"type":"Point"}
+}

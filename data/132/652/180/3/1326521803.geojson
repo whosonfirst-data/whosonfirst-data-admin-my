@@ -1,0 +1,70 @@
+{
+  "id": 1326521803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9313,3.8959,100.9313,3.8959",
+    "geom:latitude":3.8959,
+    "geom:longitude":100.9313,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Perumahan Awam Dua",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7565965,
+    "gn:latitude":3.8959,
+    "gn:longitude":100.9313,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Perumahan Awam Dua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perumahan Awam Dua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7565965
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5b82c8cc40753804842c332d669e75c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1326521803,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1326521803,
+    "wof:lastmodified":1537674314,
+    "wof:name":"Perumahan Awam Dua",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9313,
+    3.8959,
+    100.9313,
+    3.8959
+],
+  "geometry": {"coordinates":[100.93129999999999,3.8959],"type":"Point"}
+}

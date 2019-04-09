@@ -1,0 +1,64 @@
+{
+  "id": 1209078659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.7166,6.0371,116.7166,6.0371",
+    "geom:latitude":6.0371,
+    "geom:longitude":116.7166,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Poring",
+    "gn:country_code":"MY",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9478869,
+    "gn:latitude":6.0371,
+    "gn:longitude":116.7166,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Kampung Poring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Poring"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9478869
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b72739d1c44fe7a3b9ebc7a59abc9d6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209078659
+        }
+    ],
+    "wof:id":1209078659,
+    "wof:lastmodified":1537674467,
+    "wof:name":"Kampung Poring",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.7166,
+    6.0371,
+    116.7166,
+    6.0371
+],
+  "geometry": {"coordinates":[116.7166,6.0371],"type":"Point"}
+}

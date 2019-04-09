@@ -1,0 +1,70 @@
+{
+  "id": 1276339679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2393,2.4668,102.2393,2.4668",
+    "geom:latitude":2.4668,
+    "geom:longitude":102.2393,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Taman Antarabangsa",
+    "gn:country_code":"MY",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797424,
+    "gn:latitude":2.4668,
+    "gn:longitude":102.2393,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Antarabangsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Antarabangsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        1108696529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797424
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9d2cee0cd8f93547e4d74b925de887a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696529,
+            "locality_id":1276339679,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1276339679,
+    "wof:lastmodified":1537674419,
+    "wof:name":"Taman Antarabangsa",
+    "wof:parent_id":1108696529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2393,
+    2.4668,
+    102.2393,
+    2.4668
+],
+  "geometry": {"coordinates":[102.2393,2.4668],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343765059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7076,6.23928,100.7076,6.23928",
+    "geom:latitude":6.23928,
+    "geom:longitude":100.7076,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Pong",
+    "gn:country_code":"MY",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6853476,
+    "gn:latitude":6.23928,
+    "gn:longitude":100.7076,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Pong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6853476
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7499794625796fb5534671b308b74848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696471,
+            "locality_id":1343765059,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1343765059,
+    "wof:lastmodified":1537674259,
+    "wof:name":"Kampung Pong",
+    "wof:parent_id":1108696471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7076,
+    6.23928,
+    100.7076,
+    6.23928
+],
+  "geometry": {"coordinates":[100.7076,6.23928],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225936455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0988,3.5648,103.0988,3.5648",
+    "geom:latitude":3.5648,
+    "geom:longitude":103.0988,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Pemulihan Banjir Batu Lapun",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795584,
+    "gn:latitude":3.5648,
+    "gn:longitude":103.0988,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pemulihan Banjir Batu Lapun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pemulihan Banjir Batu Lapun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795584
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dbea9f9fe443310ce556991f9fdaf98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1225936455,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1225936455,
+    "wof:lastmodified":1537674394,
+    "wof:name":"Kampung Pemulihan Banjir Batu Lapun",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0988,
+    3.5648,
+    103.0988,
+    3.5648
+],
+  "geometry": {"coordinates":[103.0988,3.5648],"type":"Point"}
+}

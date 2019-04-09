@@ -1,0 +1,67 @@
+{
+  "id": 1226122689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.65,3.53333,101.65,3.53333",
+    "geom:latitude":3.53333,
+    "geom:longitude":101.65,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampong Tualang",
+    "gn:country_code":"MY",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762465,
+    "gn:latitude":3.53333,
+    "gn:longitude":101.65,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Kampong Tualang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762465
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"df013f97eee3f798e0b5a59235af256f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1226122689,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1226122689,
+    "wof:lastmodified":1536611614,
+    "wof:name":"Kampong Tualang",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.65,
+    3.53333,
+    101.65,
+    3.53333
+],
+  "geometry": {"coordinates":[101.65000000000001,3.53333],"type":"Point"}
+}

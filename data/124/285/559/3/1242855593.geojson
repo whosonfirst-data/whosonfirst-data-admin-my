@@ -1,0 +1,68 @@
+{
+  "id": 1242855593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.4,4.08333,114.4,4.08333",
+    "geom:latitude":4.08333,
+    "geom:longitude":114.4,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Melikat",
+    "gn:country_code":"MY",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766951,
+    "gn:latitude":4.08333,
+    "gn:longitude":114.4,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kampong Melikat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766951,
+        "wk:page":"Kampung_Melikat"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ba548833a0be704931192ce91bcceaa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696465,
+            "locality_id":1242855593,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1242855593,
+    "wof:lastmodified":1537569872,
+    "wof:name":"Kampong Melikat",
+    "wof:parent_id":1108696465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.4,
+    4.08333,
+    114.4,
+    4.08333
+],
+  "geometry": {"coordinates":[114.40000000000001,4.08333],"type":"Point"}
+}

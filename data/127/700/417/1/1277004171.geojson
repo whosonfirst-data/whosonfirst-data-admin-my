@@ -1,0 +1,70 @@
+{
+  "id": 1277004171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8803,3.866,101.8803,3.866",
+    "geom:latitude":3.866,
+    "geom:longitude":101.8803,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Ruyung Kecil",
+    "gn:country_code":"MY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638897,
+    "gn:latitude":3.866,
+    "gn:longitude":101.8803,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Ruyung Kecil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ruyung Kecil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638897
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d3c8482e36b47c45078a1de7dc9f3f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1277004171,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1277004171,
+    "wof:lastmodified":1537674344,
+    "wof:name":"Kampung Ruyung Kecil",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8803,
+    3.866,
+    101.8803,
+    3.866
+],
+  "geometry": {"coordinates":[101.88030000000001,3.866],"type":"Point"}
+}

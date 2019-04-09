@@ -1,0 +1,70 @@
+{
+  "id": 1309684637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.2828,5.1391,116.2828,5.1391",
+    "geom:latitude":5.1391,
+    "geom:longitude":116.2828,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Babason",
+    "gn:country_code":"MY",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783178,
+    "gn:latitude":5.1391,
+    "gn:longitude":116.2828,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Babason",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Babason"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783178
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"186d4766cfc0e77aca7e75a48ac4b8be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1309684637,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309684637,
+    "wof:lastmodified":1537674379,
+    "wof:name":"Kampung Babason",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.2828,
+    5.1391,
+    116.2828,
+    5.1391
+],
+  "geometry": {"coordinates":[116.28279999999999,5.1391],"type":"Point"}
+}

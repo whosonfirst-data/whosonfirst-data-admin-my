@@ -1,0 +1,72 @@
+{
+  "id": 1343555837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.8697,4.0185,100.8697,4.0185",
+    "geom:latitude":4.0185,
+    "geom:longitude":100.8697,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Kota Setia",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735424,
+    "gn:latitude":4.0185,
+    "gn:longitude":100.8697,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kota Setia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kota Setia"
+    ],
+    "name:und_x_variant":[
+        "Kota Stia",
+        "Kota Satia",
+        "Kota Setia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735424,
+        "wk:page":"Kota_Setia"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5944ed5d230f4bd85272e0ee3f764f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1343555837,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343555837,
+    "wof:lastmodified":1537673722,
+    "wof:name":"Kampung Kota Setia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.8697,
+    4.0185,
+    100.8697,
+    4.0185
+],
+  "geometry": {"coordinates":[100.86969999999999,4.0185],"type":"Point"}
+}

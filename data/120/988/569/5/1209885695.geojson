@@ -1,0 +1,70 @@
+{
+  "id": 1209885695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.9597,6.0941,116.9597,6.0941",
+    "geom:latitude":6.0941,
+    "geom:longitude":116.9597,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Owatonapaoi",
+    "gn:country_code":"MY",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7468789,
+    "gn:latitude":6.0941,
+    "gn:longitude":116.9597,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Owatonapaoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Owatonapaoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468789
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b24e7d71f66cdf42635bdf652eb8b183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1209885695,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1209885695,
+    "wof:lastmodified":1537674298,
+    "wof:name":"Kampung Owatonapaoi",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.9597,
+    6.0941,
+    116.9597,
+    6.0941
+],
+  "geometry": {"coordinates":[116.9597,6.0941],"type":"Point"}
+}

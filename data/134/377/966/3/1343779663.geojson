@@ -1,0 +1,70 @@
+{
+  "id": 1343779663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7546,1.9911,102.7546,1.9911",
+    "geom:latitude":1.9911,
+    "geom:longitude":102.7546,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tanah Gambut",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856401,
+    "gn:latitude":1.9911,
+    "gn:longitude":102.7546,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tanah Gambut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Tanah Gambut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856401
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"784b96729e5f159c4e01e25563fb1c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1343779663,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1343779663,
+    "wof:lastmodified":1537674439,
+    "wof:name":"Tanah Gambut",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7546,
+    1.9911,
+    102.7546,
+    1.9911
+],
+  "geometry": {"coordinates":[102.7546,1.9911],"type":"Point"}
+}

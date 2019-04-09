@@ -1,0 +1,70 @@
+{
+  "id": 1259852119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.513,5.4691,115.513,5.4691",
+    "geom:latitude":5.4691,
+    "geom:longitude":115.513,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Rumasam",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580643,
+    "gn:latitude":5.4691,
+    "gn:longitude":115.513,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Rumasam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rumasam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        890490799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580643
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"49b9ec03b868bcb167678a690736e328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490799,
+            "locality_id":1259852119,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259852119,
+    "wof:lastmodified":1537674318,
+    "wof:name":"Kampung Rumasam",
+    "wof:parent_id":890490799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.513,
+    5.4691,
+    115.513,
+    5.4691
+],
+  "geometry": {"coordinates":[115.51300000000001,5.4691],"type":"Point"}
+}

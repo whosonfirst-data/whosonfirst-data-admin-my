@@ -1,0 +1,63 @@
+{
+  "id": 1276666521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36667,5.08333,100.36667,5.08333",
+    "geom:latitude":5.08333,
+    "geom:longitude":100.36667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Tok Sirun",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762503,
+    "gn:latitude":5.08333,
+    "gn:longitude":100.36667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Tok Sirun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762503
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e3b075910f6436bd60e8e248e3c9dd39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1276666521,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276666521,
+    "wof:lastmodified":1536828274,
+    "wof:name":"Kampong Tok Sirun",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36667,
+    5.08333,
+    100.36667,
+    5.08333
+],
+  "geometry": {"coordinates":[100.36667,5.08333],"type":"Point"}
+}

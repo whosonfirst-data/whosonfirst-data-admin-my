@@ -1,0 +1,70 @@
+{
+  "id": 1226141925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.304,2.7552,102.304,2.7552",
+    "geom:latitude":2.7552,
+    "geom:longitude":102.304,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Ayer Sepam",
+    "gn:country_code":"MY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796773,
+    "gn:latitude":2.7552,
+    "gn:longitude":102.304,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Ayer Sepam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ayer Sepam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796773
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"eabf36fb17ff64808aba5250ef05181d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1226141925,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1226141925,
+    "wof:lastmodified":1537674411,
+    "wof:name":"Kampung Ayer Sepam",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.304,
+    2.7552,
+    102.304,
+    2.7552
+],
+  "geometry": {"coordinates":[102.304,2.7552],"type":"Point"}
+}

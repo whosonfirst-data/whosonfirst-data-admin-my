@@ -1,0 +1,75 @@
+{
+  "id": 1276995091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.5422,2.2138,103.5422,2.2138",
+    "geom:latitude":2.2138,
+    "geom:longitude":103.5422,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Kahang Baharu",
+    "gn:country_code":"MY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732832,
+    "gn:latitude":2.2138,
+    "gn:longitude":103.5422,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kahang Baharu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kahang Baharu"
+    ],
+    "name:und_x_variant":[
+        "Kangkar Kabang",
+        "Kangkar Kahang",
+        "Kampung Kahang Baharu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732832
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"717423f4ff91145218d8ba76e770724f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1276995091,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276995091,
+    "wof:lastmodified":1537673670,
+    "wof:name":"Kampung Kahang Baharu",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.5422,
+    2.2138,
+    103.5422,
+    2.2138
+],
+  "geometry": {"coordinates":[103.54219999999999,2.2138],"type":"Point"}
+}

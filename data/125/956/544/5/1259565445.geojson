@@ -1,0 +1,70 @@
+{
+  "id": 1259565445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.8023,6.4539,116.8023,6.4539",
+    "geom:latitude":6.4539,
+    "geom:longitude":116.8023,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Mangkulua",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7468101,
+    "gn:latitude":6.4539,
+    "gn:longitude":116.8023,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Mangkulua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mangkulua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468101
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0b104081d20363d57533957ee32766e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696425,
+            "locality_id":1259565445,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259565445,
+    "wof:lastmodified":1537674297,
+    "wof:name":"Kampung Mangkulua",
+    "wof:parent_id":1108696425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.8023,
+    6.4539,
+    116.8023,
+    6.4539
+],
+  "geometry": {"coordinates":[116.8023,6.4539],"type":"Point"}
+}

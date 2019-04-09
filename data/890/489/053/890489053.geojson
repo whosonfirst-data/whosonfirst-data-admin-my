@@ -1,0 +1,69 @@
+{
+  "id": 890489053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.310729,5.36737,100.310729,5.36737",
+    "geom:latitude":5.36737,
+    "geom:longitude":100.310729,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kampung Si Nibong",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023367,
+        1108696537,
+        85675127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1151474,
+        "qs:id":449092
+    },
+    "wof:country":"MY",
+    "wof:created":1469054743,
+    "wof:geomhash":"94a2a9372beaec9ea26c8d7fbe02aefb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696537,
+            "locality_id":102023367,
+            "neighbourhood_id":890489053,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":890489053,
+    "wof:lastmodified":1500013273,
+    "wof:name":"Kampung Si Nibong",
+    "wof:parent_id":102023367,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.310729,
+    5.36737,
+    100.310729,
+    5.36737
+],
+  "geometry": {"coordinates":[100.31072899999999,5.36737],"type":"Point"}
+}

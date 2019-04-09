@@ -1,0 +1,67 @@
+{
+  "id": 1344247825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.21667,6.45,100.21667,6.45",
+    "geom:latitude":6.45,
+    "geom:longitude":100.21667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Kerangi",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736079,
+    "gn:latitude":6.45,
+    "gn:longitude":100.21667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampung Kerangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736079
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"abc265a002f5c9e0aeb83cadd841fe0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1344247825,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1344247825,
+    "wof:lastmodified":1536602080,
+    "wof:name":"Kampung Kerangi",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.21667,
+    6.45,
+    100.21667,
+    6.45
+],
+  "geometry": {"coordinates":[100.21666999999999,6.45],"type":"Point"}
+}

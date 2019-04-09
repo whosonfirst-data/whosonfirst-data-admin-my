@@ -1,0 +1,70 @@
+{
+  "id": 1310093691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.40696,2.40832,113.40696,2.40832",
+    "geom:latitude":2.40832,
+    "geom:longitude":113.40696,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rumah Punan Biau",
+    "gn:country_code":"MY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8541583,
+    "gn:latitude":2.40832,
+    "gn:longitude":113.40696,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Rumah Punan Biau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Rumah Punan Biau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8541583
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4d4f5807a072efbd393ef6ef02f10302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696387,
+            "locality_id":1310093691,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1310093691,
+    "wof:lastmodified":1537674467,
+    "wof:name":"Rumah Punan Biau",
+    "wof:parent_id":1108696387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.40696,
+    2.40832,
+    113.40696,
+    2.40832
+],
+  "geometry": {"coordinates":[113.40696,2.40832],"type":"Point"}
+}

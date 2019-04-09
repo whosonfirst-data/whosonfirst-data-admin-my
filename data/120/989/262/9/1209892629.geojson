@@ -1,0 +1,73 @@
+{
+  "id": 1209892629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8483,5.1886,102.8483,5.1886",
+    "geom:latitude":5.1886,
+    "geom:longitude":102.8483,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Pasir Dula",
+    "gn:country_code":"MY",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766063,
+    "gn:latitude":5.1886,
+    "gn:longitude":102.8483,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pasir Dula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pasir Dula"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pasir Dula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766063
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0f5a51e4998d307adb1cfd1484effbb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1209892629,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1209892629,
+    "wof:lastmodified":1537673980,
+    "wof:name":"Kampung Pasir Dula",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8483,
+    5.1886,
+    102.8483,
+    5.1886
+],
+  "geometry": {"coordinates":[102.84829999999999,5.1886],"type":"Point"}
+}

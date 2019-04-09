@@ -1,0 +1,73 @@
+{
+  "id": 1309694543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.0487,5.1035,118.0487,5.1035",
+    "geom:latitude":5.1035,
+    "geom:longitude":118.0487,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Batu Bilin",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1780871,
+    "gn:latitude":5.1035,
+    "gn:longitude":118.0487,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Batu Bilin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Bilin"
+    ],
+    "name:und_x_variant":[
+        "Batu Bilin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1780871
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ef8b80b05ba80d64a6668423ea8540c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696441,
+            "locality_id":1309694543,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309694543,
+    "wof:lastmodified":1537674223,
+    "wof:name":"Kampung Batu Bilin",
+    "wof:parent_id":1108696441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.0487,
+    5.1035,
+    118.0487,
+    5.1035
+],
+  "geometry": {"coordinates":[118.0487,5.1035],"type":"Point"}
+}

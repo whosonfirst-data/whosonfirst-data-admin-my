@@ -1,0 +1,72 @@
+{
+  "id": 1260262283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.10713,4.64569,103.10713,4.64569",
+    "geom:latitude":4.64569,
+    "geom:longitude":103.10713,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Buluh Brang",
+    "gn:country_code":"MY",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770061,
+    "gn:latitude":4.64569,
+    "gn:longitude":103.10713,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Buluh Brang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Buloh Brang",
+        "Kampung Buluh Brang",
+        "Kampong Buloh Berang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770061
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aa50d639148359741167927702785971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":1260262283,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1260262283,
+    "wof:lastmodified":1537674146,
+    "wof:name":"Kampung Buluh Brang",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.10713,
+    4.64569,
+    103.10713,
+    4.64569
+],
+  "geometry": {"coordinates":[103.10713,4.64569],"type":"Point"}
+}

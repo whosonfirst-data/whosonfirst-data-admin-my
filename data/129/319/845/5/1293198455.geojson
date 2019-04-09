@@ -1,0 +1,70 @@
+{
+  "id": 1293198455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.148,3.4176,103.148,3.4176",
+    "geom:latitude":3.4176,
+    "geom:longitude":103.148,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Gasak",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7685635,
+    "gn:latitude":3.4176,
+    "gn:longitude":103.148,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Gasak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gasak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685635
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fd9663b5e619ba393366e82f745f62e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1293198455,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293198455,
+    "wof:lastmodified":1537674359,
+    "wof:name":"Kampung Gasak",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.148,
+    3.4176,
+    103.148,
+    3.4176
+],
+  "geometry": {"coordinates":[103.148,3.4176],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293681653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.3712,4.484,101.3712,4.484",
+    "geom:latitude":4.484,
+    "geom:longitude":101.3712,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Perdah",
+    "gn:country_code":"MY",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7555013,
+    "gn:latitude":4.484,
+    "gn:longitude":101.3712,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Perdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7555013
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c00de5c469ce6f9d67a00690adc7b790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696393,
+            "locality_id":1293681653,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293681653,
+    "wof:lastmodified":1537674310,
+    "wof:name":"Perdah",
+    "wof:parent_id":1108696393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.3712,
+    4.484,
+    101.3712,
+    4.484
+],
+  "geometry": {"coordinates":[101.3712,4.484],"type":"Point"}
+}

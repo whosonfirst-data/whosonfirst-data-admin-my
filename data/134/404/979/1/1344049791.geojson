@@ -1,0 +1,70 @@
+{
+  "id": 1344049791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7326,4.0081,101.7326,4.0081",
+    "geom:latitude":4.0081,
+    "geom:longitude":101.7326,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Batu Rusa",
+    "gn:country_code":"MY",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638852,
+    "gn:latitude":4.0081,
+    "gn:longitude":101.7326,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Batu Rusa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Rusa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638852
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a0ce4e24ad2a86e15286f4c160854e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1344049791,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1344049791,
+    "wof:lastmodified":1537674344,
+    "wof:name":"Kampung Batu Rusa",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7326,
+    4.0081,
+    101.7326,
+    4.0081
+],
+  "geometry": {"coordinates":[101.73260000000001,4.0081],"type":"Point"}
+}

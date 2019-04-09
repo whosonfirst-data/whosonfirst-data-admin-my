@@ -1,0 +1,70 @@
+{
+  "id": 1226632489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.05735,5.11673,103.05735,5.11673",
+    "geom:latitude":5.11673,
+    "geom:longitude":103.05735,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Pak Bilis",
+    "gn:country_code":"MY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766367,
+    "gn:latitude":5.11673,
+    "gn:longitude":103.05735,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pak Bilis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Pak Bilis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766367
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"21bc960dbdd5bcfa8a95714ec269665e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1226632489,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1226632489,
+    "wof:lastmodified":1537673992,
+    "wof:name":"Kampung Pak Bilis",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.05735,
+    5.11673,
+    103.05735,
+    5.11673
+],
+  "geometry": {"coordinates":[103.05735,5.11673],"type":"Point"}
+}

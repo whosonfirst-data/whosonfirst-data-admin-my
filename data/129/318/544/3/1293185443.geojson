@@ -1,0 +1,67 @@
+{
+  "id": 1293185443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.29515,5.33651,100.29515,5.33651",
+    "geom:latitude":5.33651,
+    "geom:longitude":100.29515,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Medan Mutiara",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812426,
+    "gn:latitude":5.33651,
+    "gn:longitude":100.29515,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Medan Mutiara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812426
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"036929e87eb52a26a0402d68969bc5b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696537,
+            "locality_id":1293185443,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1293185443,
+    "wof:lastmodified":1536725972,
+    "wof:name":"Medan Mutiara",
+    "wof:parent_id":1108696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.29515,
+    5.33651,
+    100.29515,
+    5.33651
+],
+  "geometry": {"coordinates":[100.29515000000001,5.33651],"type":"Point"}
+}

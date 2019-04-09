@@ -1,0 +1,67 @@
+{
+  "id": 1243563473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.48333,6.0,100.48333,6.0",
+    "geom:latitude":6.0,
+    "geom:longitude":100.48333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Seberang Pendang",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764776,
+    "gn:latitude":6.0,
+    "gn:longitude":100.48333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Seberang Pendang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764776
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"647b71a13429e02e8cf561d49c1a51d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489109,
+            "locality_id":1243563473,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1243563473,
+    "wof:lastmodified":1536635552,
+    "wof:name":"Kampong Seberang Pendang",
+    "wof:parent_id":890489109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.48333,
+    6.0,
+    100.48333,
+    6.0
+],
+  "geometry": {"coordinates":[100.48333,6.0],"type":"Point"}
+}

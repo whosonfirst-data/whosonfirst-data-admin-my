@@ -1,0 +1,73 @@
+{
+  "id": 1226418935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.136,5.1187,103.136,5.1187",
+    "geom:latitude":5.1187,
+    "geom:longitude":103.136,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Durian Penjara",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769574,
+    "gn:latitude":5.1187,
+    "gn:longitude":103.136,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Durian Penjara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Durian Penjara"
+    ],
+    "name:und_x_variant":[
+        "Kampong Durian Penjara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769574
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bd42284c965e0783d4a645d49c54d5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490535,
+            "locality_id":1226418935,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1226418935,
+    "wof:lastmodified":1537674125,
+    "wof:name":"Kampung Durian Penjara",
+    "wof:parent_id":890490535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.136,
+    5.1187,
+    103.136,
+    5.1187
+],
+  "geometry": {"coordinates":[103.136,5.1187],"type":"Point"}
+}

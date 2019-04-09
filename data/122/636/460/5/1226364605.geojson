@@ -1,0 +1,73 @@
+{
+  "id": 1226364605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1926,3.4871,102.1926,3.4871",
+    "geom:latitude":3.4871,
+    "geom:longitude":102.1926,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Sementih",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764616,
+    "gn:latitude":3.4871,
+    "gn:longitude":102.1926,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sementih",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sementih"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sementeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764616
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"afcbb9ed6279999813cc30591c707220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1226364605,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226364605,
+    "wof:lastmodified":1537673917,
+    "wof:name":"Kampung Sementih",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1926,
+    3.4871,
+    102.1926,
+    3.4871
+],
+  "geometry": {"coordinates":[102.1926,3.4871],"type":"Point"}
+}

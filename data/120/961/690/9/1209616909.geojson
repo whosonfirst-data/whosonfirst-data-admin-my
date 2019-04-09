@@ -1,0 +1,64 @@
+{
+  "id": 1209616909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8859,5.6035,101.8859,5.6035",
+    "geom:latitude":5.6035,
+    "geom:longitude":101.8859,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Rangka Baru",
+    "gn:country_code":"MY",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068170,
+    "gn:latitude":5.6035,
+    "gn:longitude":101.8859,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Rangka Baru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rangka Baru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068170
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"83f704ce3c4de8e11e8303102dfce747",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209616909
+        }
+    ],
+    "wof:id":1209616909,
+    "wof:lastmodified":1537674279,
+    "wof:name":"Kampung Rangka Baru",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8859,
+    5.6035,
+    101.8859,
+    5.6035
+],
+  "geometry": {"coordinates":[101.88590000000001,5.6035],"type":"Point"}
+}

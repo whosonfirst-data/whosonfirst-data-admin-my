@@ -1,0 +1,72 @@
+{
+  "id": 1260056501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.56667,5.73333,102.56667,5.73333",
+    "geom:latitude":5.73333,
+    "geom:longitude":102.56667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Kerandang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768332,
+    "gn:latitude":5.73333,
+    "gn:longitude":102.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kerandang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Krandang",
+        "Kampung Kerandang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768332
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"45c3f19756a26a3a42f50b0e7a053ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "locality_id":1260056501,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1260056501,
+    "wof:lastmodified":1537674074,
+    "wof:name":"Kampung Kerandang",
+    "wof:parent_id":890488399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.56667,
+    5.73333,
+    102.56667,
+    5.73333
+],
+  "geometry": {"coordinates":[102.56667,5.73333],"type":"Point"}
+}

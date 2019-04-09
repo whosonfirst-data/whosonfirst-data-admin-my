@@ -1,0 +1,70 @@
+{
+  "id": 1292981035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8489,2.9621,101.8489,2.9621",
+    "geom:latitude":2.9621,
+    "geom:longitude":101.8489,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taman Hiew Piow",
+    "gn:country_code":"MY",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796507,
+    "gn:latitude":2.9621,
+    "gn:longitude":101.8489,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Hiew Piow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Hiew Piow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796507
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d8c4c6a6ba253f2cdcf222d531c58453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":1292981035,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1292981035,
+    "wof:lastmodified":1537674406,
+    "wof:name":"Taman Hiew Piow",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8489,
+    2.9621,
+    101.8489,
+    2.9621
+],
+  "geometry": {"coordinates":[101.8489,2.9621],"type":"Point"}
+}

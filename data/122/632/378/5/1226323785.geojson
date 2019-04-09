@@ -1,0 +1,72 @@
+{
+  "id": 1226323785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.96667,4.65,114.96667,4.65",
+    "geom:latitude":4.65,
+    "geom:longitude":114.96667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Bakol",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771243,
+    "gn:latitude":4.65,
+    "gn:longitude":114.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Bakol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakol",
+        "Kampong Bakol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771243
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"752d64f5a03e4b8d6003b37536e0cae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696449,
+            "locality_id":1226323785,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1226323785,
+    "wof:lastmodified":1537674193,
+    "wof:name":"Kampong Bakol",
+    "wof:parent_id":1108696449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.96667,
+    4.65,
+    114.96667,
+    4.65
+],
+  "geometry": {"coordinates":[114.96666999999999,4.65],"type":"Point"}
+}

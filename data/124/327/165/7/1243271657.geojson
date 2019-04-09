@@ -1,0 +1,70 @@
+{
+  "id": 1243271657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7759,5.6908,101.7759,5.6908",
+    "geom:latitude":5.6908,
+    "geom:longitude":101.7759,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Sungai Long",
+    "gn:country_code":"MY",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067947,
+    "gn:latitude":5.6908,
+    "gn:longitude":101.7759,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Sungai Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Long"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067947
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"79d3b897857f130c3d7165ef7b57a727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490101,
+            "locality_id":1243271657,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1243271657,
+    "wof:lastmodified":1537674274,
+    "wof:name":"Kampung Sungai Long",
+    "wof:parent_id":890490101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7759,
+    5.6908,
+    101.7759,
+    5.6908
+],
+  "geometry": {"coordinates":[101.77589999999999,5.6908],"type":"Point"}
+}

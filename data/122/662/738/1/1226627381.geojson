@@ -1,0 +1,70 @@
+{
+  "id": 1226627381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.77733,1.9421,114.77733,1.9421",
+    "geom:latitude":1.9421,
+    "geom:longitude":114.77733,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sungai Tasak",
+    "gn:country_code":"MY",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8613705,
+    "gn:latitude":1.9421,
+    "gn:longitude":114.77733,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Sungai Tasak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Sungai Tasak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8613705
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3b258cb58a6de6f962aac595fb5cc8a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696387,
+            "locality_id":1226627381,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1226627381,
+    "wof:lastmodified":1537674467,
+    "wof:name":"Sungai Tasak",
+    "wof:parent_id":1108696387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.77733,
+    1.9421,
+    114.77733,
+    1.9421
+],
+  "geometry": {"coordinates":[114.77733000000001,1.9421],"type":"Point"}
+}

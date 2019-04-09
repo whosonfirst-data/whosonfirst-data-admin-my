@@ -1,0 +1,70 @@
+{
+  "id": 1243476453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4306,3.3986,102.4306,3.3986",
+    "geom:latitude":3.3986,
+    "geom:longitude":102.4306,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Tenggala",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795999,
+    "gn:latitude":3.3986,
+    "gn:longitude":102.4306,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tenggala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tenggala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795999
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f3004bd91b43a7cfd9d37fcb63b37566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1243476453,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1243476453,
+    "wof:lastmodified":1537674399,
+    "wof:name":"Kampung Tenggala",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4306,
+    3.3986,
+    102.4306,
+    3.3986
+],
+  "geometry": {"coordinates":[102.4306,3.3986],"type":"Point"}
+}

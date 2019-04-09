@@ -1,0 +1,73 @@
+{
+  "id": 1226436841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.6214,4.2732,100.6214,4.2732",
+    "geom:latitude":4.2732,
+    "geom:longitude":100.6214,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Sungai Sempit",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763809,
+    "gn:latitude":4.2732,
+    "gn:longitude":100.6214,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Sempit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Sempit"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Sempit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        1108696459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763809
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c414afa28b8c8cecbf13608086274c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696459,
+            "locality_id":1226436841,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1226436841,
+    "wof:lastmodified":1537673879,
+    "wof:name":"Kampung Sungai Sempit",
+    "wof:parent_id":1108696459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.6214,
+    4.2732,
+    100.6214,
+    4.2732
+],
+  "geometry": {"coordinates":[100.62139999999999,4.2732],"type":"Point"}
+}

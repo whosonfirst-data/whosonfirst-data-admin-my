@@ -1,0 +1,70 @@
+{
+  "id": 1243475587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.98935,4.84964,100.98935,4.84964",
+    "geom:latitude":4.84964,
+    "geom:longitude":100.98935,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Prek Dalam",
+    "gn:country_code":"MY",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765345,
+    "gn:latitude":4.84964,
+    "gn:longitude":100.98935,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Prek Dalam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Prek Dalam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765345
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4543957fcd713811c3645044a8dfb631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":1243475587,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1243475587,
+    "wof:lastmodified":1537673949,
+    "wof:name":"Kampung Prek Dalam",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.98935,
+    4.84964,
+    100.98935,
+    4.84964
+],
+  "geometry": {"coordinates":[100.98935,4.84964],"type":"Point"}
+}

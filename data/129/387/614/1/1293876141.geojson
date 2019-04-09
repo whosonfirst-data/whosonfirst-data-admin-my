@@ -1,0 +1,70 @@
+{
+  "id": 1293876141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6627,3.6841,102.6627,3.6841",
+    "geom:latitude":3.6841,
+    "geom:longitude":102.6627,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Baru Jara",
+    "gn:country_code":"MY",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662007,
+    "gn:latitude":3.6841,
+    "gn:longitude":102.6627,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Baru Jara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baru Jara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662007
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"07c2d0f4f56947fa3d68dbc223d5f1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1293876141,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293876141,
+    "wof:lastmodified":1537674354,
+    "wof:name":"Kampung Baru Jara",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6627,
+    3.6841,
+    102.6627,
+    3.6841
+],
+  "geometry": {"coordinates":[102.6627,3.6841],"type":"Point"}
+}

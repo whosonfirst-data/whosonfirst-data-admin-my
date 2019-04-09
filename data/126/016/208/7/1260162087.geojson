@@ -1,0 +1,73 @@
+{
+  "id": 1260162087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.48333,2.01667,112.48333,2.01667",
+    "geom:latitude":2.01667,
+    "geom:longitude":112.48333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Gerinang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747949,
+    "gn:latitude":2.01667,
+    "gn:longitude":112.48333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rumah Gerinang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rumah Grinang",
+        "Rumah Layang",
+        "Rumah Gerinang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747949
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"36357183ff2e32251d4a3b465ea39e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696521,
+            "locality_id":1260162087,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1260162087,
+    "wof:lastmodified":1537673776,
+    "wof:name":"Rumah Gerinang",
+    "wof:parent_id":1108696521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.48333,
+    2.01667,
+    112.48333,
+    2.01667
+],
+  "geometry": {"coordinates":[112.48333,2.01667],"type":"Point"}
+}

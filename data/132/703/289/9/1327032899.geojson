@@ -1,0 +1,70 @@
+{
+  "id": 1327032899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.41362,5.51263,100.41362,5.51263",
+    "geom:latitude":5.51263,
+    "geom:longitude":100.41362,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Tok Loba",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848629,
+    "gn:latitude":5.51263,
+    "gn:longitude":100.41362,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Tok Loba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tok Loba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890490327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848629
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"61ebc5e14e6910f35df965f56889378e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490327,
+            "locality_id":1327032899,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1327032899,
+    "wof:lastmodified":1537674257,
+    "wof:name":"Kampung Tok Loba",
+    "wof:parent_id":890490327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.41362,
+    5.51263,
+    100.41362,
+    5.51263
+],
+  "geometry": {"coordinates":[100.41361999999999,5.51263],"type":"Point"}
+}

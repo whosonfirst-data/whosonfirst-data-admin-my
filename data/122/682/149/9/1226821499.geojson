@@ -1,0 +1,70 @@
+{
+  "id": 1226821499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.9946,6.3518,116.9946,6.3518",
+    "geom:latitude":6.3518,
+    "geom:longitude":116.9946,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Malinsau Laut",
+    "gn:country_code":"MY",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7468085,
+    "gn:latitude":6.3518,
+    "gn:longitude":116.9946,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Malinsau Laut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Malinsau Laut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468085
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"413f039e61d0eb77ca49bb316228e2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696425,
+            "locality_id":1226821499,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226821499,
+    "wof:lastmodified":1537674297,
+    "wof:name":"Kampung Malinsau Laut",
+    "wof:parent_id":1108696425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.9946,
+    6.3518,
+    116.9946,
+    6.3518
+],
+  "geometry": {"coordinates":[116.99460000000001,6.3518],"type":"Point"}
+}

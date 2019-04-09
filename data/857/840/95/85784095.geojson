@@ -1,0 +1,106 @@
+{
+  "id": 85784095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3448202.406396,
+    "geom:bbox":"103.697205,1.518682,103.697205,1.518682",
+    "geom:latitude":1.518682,
+    "geom:longitude":103.697205,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":1.518682,
+    "lbl:longitude":103.697205,
+    "mps:latitude":1.51984,
+    "mps:longitude":103.697577,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:und_x_preferred":[
+        "Taman Kobena"
+    ],
+    "name:unk_x_variant":[
+        "Taman Kobena"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1732752,
+    "qs:local_max":681,
+    "qs:local_sum":3607,
+    "qs:localhoods":29,
+    "qs:name":"Taman Kobena",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:name_adm2":"Johor Bahru",
+    "qs:name_lau":"Tebrau",
+    "qs:name_local":"Johor Baharu",
+    "qs:photo_max":2,
+    "qs:photo_sum":2,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346296,
+    "qs:woe_adm2":56013565,
+    "qs:woe_lau":56013764,
+    "qs:woe_local":1154698,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102022781,
+        1108696403,
+        85675141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56016394,
+        "qs:id":1316976,
+        "qs_pg:id":1316976
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f8cb2dc0f299758f74602e71aa88370a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":102022781,
+            "neighbourhood_id":85784095,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":85784095,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860577,
+    "wof:name":"Taman Kobena",
+    "wof:parent_id":102022781,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.697205,
+    1.518682,
+    103.697205,
+    1.518682
+],
+  "geometry": {"coordinates":[103.697205,1.518682],"type":"Point"}
+}

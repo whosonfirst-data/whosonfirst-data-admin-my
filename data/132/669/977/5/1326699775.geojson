@@ -1,0 +1,73 @@
+{
+  "id": 1326699775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4144,6.4064,116.4144,6.4064",
+    "geom:latitude":6.4064,
+    "geom:longitude":116.4144,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Merbau",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766851,
+    "gn:latitude":6.4064,
+    "gn:longitude":116.4144,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Merbau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampong Merbau"
+    ],
+    "name:und_x_variant":[
+        "Marabau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766851
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ee56bc2f58b0eea39c47e855e6d032f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1326699775,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1326699775,
+    "wof:lastmodified":1537674011,
+    "wof:name":"Kampong Merbau",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4144,
+    6.4064,
+    116.4144,
+    6.4064
+],
+  "geometry": {"coordinates":[116.4144,6.4064],"type":"Point"}
+}

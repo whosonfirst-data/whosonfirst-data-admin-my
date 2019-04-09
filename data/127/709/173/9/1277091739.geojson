@@ -1,0 +1,70 @@
+{
+  "id": 1277091739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0888,1.9131,103.0888,1.9131",
+    "geom:latitude":1.9131,
+    "geom:longitude":103.0888,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Darim",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536957,
+    "gn:latitude":1.9131,
+    "gn:longitude":103.0888,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Parit Darim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Darim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536957
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"51d30ebeb569f2bc9536a6efdac5afe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1277091739,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1277091739,
+    "wof:lastmodified":1537674466,
+    "wof:name":"Kampung Parit Darim",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0888,
+    1.9131,
+    103.0888,
+    1.9131
+],
+  "geometry": {"coordinates":[103.08880000000001,1.9131],"type":"Point"}
+}

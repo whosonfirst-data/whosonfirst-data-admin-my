@@ -1,0 +1,73 @@
+{
+  "id": 1292983063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.7662,6.8211,116.7662,6.8211",
+    "geom:latitude":6.8211,
+    "geom:longitude":116.7662,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Pituru",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1750004,
+    "gn:latitude":6.8211,
+    "gn:longitude":116.7662,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pituru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pituru"
+    ],
+    "name:und_x_variant":[
+        "Pituru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1750004
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"652b54abf527484c66f5b4af3149a3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1292983063,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1292983063,
+    "wof:lastmodified":1537673781,
+    "wof:name":"Kampung Pituru",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.7662,
+    6.8211,
+    116.7662,
+    6.8211
+],
+  "geometry": {"coordinates":[116.7662,6.8211],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1292904115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2352,2.2446,102.2352,2.2446",
+    "geom:latitude":2.2446,
+    "geom:longitude":102.2352,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Taman Malim Jaya",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536744,
+    "gn:latitude":2.2446,
+    "gn:longitude":102.2352,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Taman Malim Jaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Malim Jaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536744
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"656b2689d2506e2b01c975fb03153023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":1292904115,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1292904115,
+    "wof:lastmodified":1537674465,
+    "wof:name":"Taman Malim Jaya",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2352,
+    2.2446,
+    102.2352,
+    2.2446
+],
+  "geometry": {"coordinates":[102.23520000000001,2.2446],"type":"Point"}
+}

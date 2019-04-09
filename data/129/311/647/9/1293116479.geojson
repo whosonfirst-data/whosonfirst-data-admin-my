@@ -1,0 +1,74 @@
+{
+  "id": 1293116479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.6935,1.6682,103.6935,1.6682",
+    "geom:latitude":1.6682,
+    "geom:longitude":103.6935,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Roscote",
+    "gn:country_code":"MY",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748297,
+    "gn:latitude":1.6682,
+    "gn:longitude":103.6935,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Roscote",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Roscote"
+    ],
+    "name:und_x_variant":[
+        "Roscote",
+        "Roscote Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748297
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"38da20c21c4acf1eeb37b9d82f74a73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696433,
+            "locality_id":1293116479,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293116479,
+    "wof:lastmodified":1537673780,
+    "wof:name":"Kampung Roscote",
+    "wof:parent_id":1108696433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.6935,
+    1.6682,
+    103.6935,
+    1.6682
+],
+  "geometry": {"coordinates":[103.6935,1.6682],"type":"Point"}
+}

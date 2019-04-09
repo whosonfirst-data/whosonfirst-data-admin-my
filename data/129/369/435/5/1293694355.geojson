@@ -1,0 +1,61 @@
+{
+  "id": 1293694355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.35,6.16667,102.35,6.16667",
+    "geom:latitude":6.16667,
+    "geom:longitude":102.35,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Awang Jalar",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736362,
+    "gn:latitude":6.16667,
+    "gn:longitude":102.35,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampung Awang Jalar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736362
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"18f9f1ab95f0a8e18b8441fa727ae79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293694355,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293694355,
+    "wof:lastmodified":1536985241,
+    "wof:name":"Kampung Awang Jalar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.35,
+    6.16667,
+    102.35,
+    6.16667
+],
+  "geometry": {"coordinates":[102.34999999999999,6.16667],"type":"Point"}
+}

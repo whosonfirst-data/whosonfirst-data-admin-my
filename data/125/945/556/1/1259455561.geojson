@@ -1,0 +1,67 @@
+{
+  "id": 1259455561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5479,6.02141,116.5479,6.02141",
+    "geom:latitude":6.02141,
+    "geom:longitude":116.5479,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kinabalu Park",
+    "gn:country_code":"MY",
+    "gn:dem":1683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10227203,
+    "gn:latitude":6.02141,
+    "gn:longitude":116.5479,
+    "gn:modification_date":"2015-04-14",
+    "gn:name":"Kinabalu Park",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10227203
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bf27de74d5aeef4565ce128e3c7d8bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":1259455561,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259455561,
+    "wof:lastmodified":1536898962,
+    "wof:name":"Kinabalu Park",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5479,
+    6.02141,
+    116.5479,
+    6.02141
+],
+  "geometry": {"coordinates":[116.5479,6.02141],"type":"Point"}
+}

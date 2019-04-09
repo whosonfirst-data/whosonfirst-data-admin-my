@@ -1,0 +1,69 @@
+{
+  "id": 890489033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.495528,6.4367305,100.495528,6.4367305",
+    "geom:latitude":6.436731,
+    "geom:longitude":100.495528,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Temin",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kedah",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":131,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":125,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014550,
+        "qs:id":399674,
+        "wk:page":"Tamin"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054742,
+    "wof:geomhash":"9510dcc8d5db50f8be1070b132a5f3e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "localadmin_id":890489033,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":890489033,
+    "wof:lastmodified":1527792865,
+    "wof:name":"Temin",
+    "wof:parent_id":890488625,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.495528,
+    6.4367305,
+    100.495528,
+    6.4367305
+],
+  "geometry": {"coordinates":[100.49552799999999,6.4367305],"type":"Point"}
+}

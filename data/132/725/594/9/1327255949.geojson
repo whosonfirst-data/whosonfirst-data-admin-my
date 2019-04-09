@@ -1,0 +1,70 @@
+{
+  "id": 1327255949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5472,3.8309,102.5472,3.8309",
+    "geom:latitude":3.8309,
+    "geom:longitude":102.5472,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kemajuan Tanah Jengka Sepuluh",
+    "gn:country_code":"MY",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7794041,
+    "gn:latitude":3.8309,
+    "gn:longitude":102.5472,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Jengka Sepuluh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Jengka Sepuluh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794041
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f80dc78f231ea9e41d42978dae67f1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1327255949,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1327255949,
+    "wof:lastmodified":1537674391,
+    "wof:name":"Kemajuan Tanah Jengka Sepuluh",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5472,
+    3.8309,
+    102.5472,
+    3.8309
+],
+  "geometry": {"coordinates":[102.5472,3.8309],"type":"Point"}
+}

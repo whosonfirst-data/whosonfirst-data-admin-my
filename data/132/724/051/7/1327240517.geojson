@@ -1,0 +1,74 @@
+{
+  "id": 1327240517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.47867,5.83943,100.47867,5.83943",
+    "geom:latitude":5.83943,
+    "geom:longitude":100.47867,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Guar Nanas",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855466,
+    "gn:latitude":5.83943,
+    "gn:longitude":100.47867,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Guar Nanas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Guar Nanas"
+    ],
+    "name:und_x_variant":[
+        "Kampong Guar Nanas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855466
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4e26c595b39dc1da4b747821d1b65177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "locality_id":1327240517,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1327240517,
+    "wof:lastmodified":1537674263,
+    "wof:name":"Kampung Guar Nanas",
+    "wof:parent_id":890490355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.47867,
+    5.83943,
+    100.47867,
+    5.83943
+],
+  "geometry": {"coordinates":[100.47866999999999,5.83943],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276988417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.08333,5.78333,102.08333,5.78333",
+    "geom:latitude":5.78333,
+    "geom:longitude":102.08333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Bechah Laut",
+    "gn:country_code":"MY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770776,
+    "gn:latitude":5.78333,
+    "gn:longitude":102.08333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Bechah Laut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770776
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8b0bfbc19d58fc2fcfe594570ffb2b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490497,
+            "locality_id":1276988417,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1276988417,
+    "wof:lastmodified":1536895381,
+    "wof:name":"Kampong Bechah Laut",
+    "wof:parent_id":890490497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.08333,
+    5.78333,
+    102.08333,
+    5.78333
+],
+  "geometry": {"coordinates":[102.08333,5.78333],"type":"Point"}
+}

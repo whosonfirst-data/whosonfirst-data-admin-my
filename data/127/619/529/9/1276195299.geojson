@@ -1,0 +1,70 @@
+{
+  "id": 1276195299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.307,6.2319,117.307,6.2319",
+    "geom:latitude":6.2319,
+    "geom:longitude":117.307,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Tatangit",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7607685,
+    "gn:latitude":6.2319,
+    "gn:longitude":117.307,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tatangit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tatangit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7607685
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a38739a9a38f6f0986acdf5b2a427baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1276195299,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276195299,
+    "wof:lastmodified":1537674325,
+    "wof:name":"Kampung Tatangit",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.307,
+    6.2319,
+    117.307,
+    6.2319
+],
+  "geometry": {"coordinates":[117.307,6.2319],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293411983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3298,3.878,102.3298,3.878",
+    "geom:latitude":3.878,
+    "geom:longitude":102.3298,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Perkampungan Orang Asli Sungai Kiol",
+    "gn:country_code":"MY",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793954,
+    "gn:latitude":3.878,
+    "gn:longitude":102.3298,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Perkampungan Orang Asli Sungai Kiol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perkampungan Orang Asli Sungai Kiol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793954
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4b7542927cd07b46bb03cd04b4a5bdf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1293411983,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293411983,
+    "wof:lastmodified":1537674389,
+    "wof:name":"Perkampungan Orang Asli Sungai Kiol",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3298,
+    3.878,
+    102.3298,
+    3.878
+],
+  "geometry": {"coordinates":[102.32980000000001,3.878],"type":"Point"}
+}

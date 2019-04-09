@@ -1,0 +1,73 @@
+{
+  "id": 1226348525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1779,2.2288,102.1779,2.2288",
+    "geom:latitude":2.2288,
+    "geom:longitude":102.1779,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Pengkalan Lanjut",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765716,
+    "gn:latitude":2.2288,
+    "gn:longitude":102.1779,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pengkalan Lanjut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pengkalan Lanjut"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pengkalan Lanjut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765716
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9283cbbe6cb5b5c42aee5555f8a16df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":1226348525,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1226348525,
+    "wof:lastmodified":1537673965,
+    "wof:name":"Kampung Pengkalan Lanjut",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1779,
+    2.2288,
+    102.1779,
+    2.2288
+],
+  "geometry": {"coordinates":[102.17789999999999,2.2288],"type":"Point"}
+}

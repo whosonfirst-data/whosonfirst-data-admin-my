@@ -1,0 +1,76 @@
+{
+  "id": 890489955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7778,2.607,103.7778,2.607",
+    "geom:latitude":2.607,
+    "geom:longitude":103.7778,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mawar"
+    ],
+    "qs:name":"Kampung Mawar",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734895,
+        "gp:id":1151256,
+        "qs:id":40363
+    },
+    "wof:country":"MY",
+    "wof:created":1469054782,
+    "wof:geomhash":"2fb3cb85848513647d55cd02a8cb4ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488715,
+            "locality_id":890489955,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890489955,
+    "wof:lastmodified":1505343786,
+    "wof:name":"Kampung Mawar",
+    "wof:parent_id":890488715,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7778,
+    2.607,
+    103.7778,
+    2.607
+],
+  "geometry": {"coordinates":[103.7778,2.607],"type":"Point"}
+}

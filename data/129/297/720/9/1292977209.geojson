@@ -1,0 +1,75 @@
+{
+  "id": 1292977209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0124,5.2131,103.0124,5.2131",
+    "geom:latitude":5.2131,
+    "geom:longitude":103.0124,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Pelam",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765819,
+    "gn:latitude":5.2131,
+    "gn:longitude":103.0124,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pelam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pelam"
+    ],
+    "name:und_x_variant":[
+        "Kampong Plang",
+        "Kampong Plam",
+        "Kampong Pelam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765819
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d92d6383e16dda3549105b609c43fc35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1292977209,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1292977209,
+    "wof:lastmodified":1537673970,
+    "wof:name":"Kampung Pelam",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0124,
+    5.2131,
+    103.0124,
+    5.2131
+],
+  "geometry": {"coordinates":[103.0124,5.2131],"type":"Point"}
+}

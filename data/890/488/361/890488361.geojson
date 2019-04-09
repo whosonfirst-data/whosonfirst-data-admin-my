@@ -1,0 +1,81 @@
+{
+  "id": 890488361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.80321,6.42972,99.80321,6.42972",
+    "geom:latitude":6.42972,
+    "geom:longitude":99.80321,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Padang Lalang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kedah",
+    "qs:photos":42,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":42,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696443,
+        85675137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804945,
+        "gp:id":56036401,
+        "qs:id":1206017
+    },
+    "wof:country":"MY",
+    "wof:created":1469054717,
+    "wof:geomhash":"e78ac28d03496f4334ec808400a21fde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":890488361,
+            "region_id":85675133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":890488361,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":890488361,
+    "wof:lastmodified":1505343782,
+    "wof:name":"Padang Lalang",
+    "wof:parent_id":1108696443,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.80321,
+    6.42972,
+    99.80321,
+    6.42972
+],
+  "geometry": {"coordinates":[99.80321000000001,6.42972],"type":"Point"}
+}

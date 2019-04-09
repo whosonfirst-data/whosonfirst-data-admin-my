@@ -1,0 +1,67 @@
+{
+  "id": 890489959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.165641,2.74313,102.165641,2.74313",
+    "geom:latitude":2.74313,
+    "geom:longitude":102.165641,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Terachi",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Negeri Sembilan",
+    "qs:photos":26,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":26,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1155221,
+        "qs:id":1112364
+    },
+    "wof:country":"MY",
+    "wof:created":1469054782,
+    "wof:geomhash":"08166e10793b46ace3d234328b71d827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":890489959,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":890489959,
+    "wof:lastmodified":1500013418,
+    "wof:name":"Terachi",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.165641,
+    2.74313,
+    102.165641,
+    2.74313
+],
+  "geometry": {"coordinates":[102.16564099999999,2.74313],"type":"Point"}
+}

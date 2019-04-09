@@ -1,0 +1,70 @@
+{
+  "id": 1327425463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.10865,4.50094,101.10865,4.50094",
+    "geom:latitude":4.50094,
+    "geom:longitude":101.10865,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Paya Rengas",
+    "gn:country_code":"MY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765867,
+    "gn:latitude":4.50094,
+    "gn:longitude":101.10865,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Paya Rengas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Paya Rengas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765867
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4db0ce599411913db9fe0c95e828c82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1327425463,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1327425463,
+    "wof:lastmodified":1537673972,
+    "wof:name":"Kampung Paya Rengas",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.10865,
+    4.50094,
+    101.10865,
+    4.50094
+],
+  "geometry": {"coordinates":[101.10865,4.50094],"type":"Point"}
+}

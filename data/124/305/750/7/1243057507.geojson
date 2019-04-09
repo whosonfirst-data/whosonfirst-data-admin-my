@@ -1,0 +1,76 @@
+{
+  "id": 1243057507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38948,5.53901,100.38948,5.53901",
+    "geom:latitude":5.53901,
+    "geom:longitude":100.38948,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Padang Tembusu",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766414,
+    "gn:latitude":5.53901,
+    "gn:longitude":100.38948,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Padang Tembusu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Padang Tembusu"
+    ],
+    "name:und_x_variant":[
+        "Padang Temusu",
+        "Kampong Padang Tembusu",
+        "Kampong Padang Tembesu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890490327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766414
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"848909fb84402fc17879681e5b511fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490327,
+            "locality_id":1243057507,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1243057507,
+    "wof:lastmodified":1537673994,
+    "wof:name":"Kampung Padang Tembusu",
+    "wof:parent_id":890490327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38948,
+    5.53901,
+    100.38948,
+    5.53901
+],
+  "geometry": {"coordinates":[100.38948000000001,5.53901],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309828323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8763,2.9066,102.8763,2.9066",
+    "geom:latitude":2.9066,
+    "geom:longitude":102.8763,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Keratung Dua",
+    "gn:country_code":"MY",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697760,
+    "gn:latitude":2.9066,
+    "gn:longitude":102.8763,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Keratung Dua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Keratung Dua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697760
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"25724878263d5eb7681c2070d86505a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1309828323,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1309828323,
+    "wof:lastmodified":1537674369,
+    "wof:name":"Keratung Dua",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8763,
+    2.9066,
+    102.8763,
+    2.9066
+],
+  "geometry": {"coordinates":[102.8763,2.9066],"type":"Point"}
+}

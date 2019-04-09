@@ -1,0 +1,73 @@
+{
+  "id": 1344165769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38315,6.14782,100.38315,6.14782",
+    "geom:latitude":6.14782,
+    "geom:longitude":100.38315,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Hutah Keriang",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769044,
+    "gn:latitude":6.14782,
+    "gn:longitude":100.38315,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Hutah Keriang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Hutah Keriang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Hutan Keriang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769044
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"472d7f3cc68ca332efa2120ee1f5f6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1344165769,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1344165769,
+    "wof:lastmodified":1537674104,
+    "wof:name":"Kampung Hutah Keriang",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38315,
+    6.14782,
+    100.38315,
+    6.14782
+],
+  "geometry": {"coordinates":[100.38315,6.14782],"type":"Point"}
+}

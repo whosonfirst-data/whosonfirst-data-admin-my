@@ -1,0 +1,70 @@
+{
+  "id": 1293185265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.4725,5.34988,100.4725,5.34988",
+    "geom:latitude":5.34988,
+    "geom:longitude":100.4725,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Taman Alma",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6818871,
+    "gn:latitude":5.34988,
+    "gn:longitude":100.4725,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taman Alma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Alma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818871
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f57cd291f5a11ae46db44bf9d2400c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1293185265,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1293185265,
+    "wof:lastmodified":1537674243,
+    "wof:name":"Taman Alma",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.4725,
+    5.34988,
+    100.4725,
+    5.34988
+],
+  "geometry": {"coordinates":[100.4725,5.34988],"type":"Point"}
+}

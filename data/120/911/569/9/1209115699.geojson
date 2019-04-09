@@ -1,0 +1,64 @@
+{
+  "id": 1209115699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3336,2.0512,103.3336,2.0512",
+    "geom:latitude":2.0512,
+    "geom:longitude":103.3336,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Sri Paya",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7614288,
+    "gn:latitude":2.0512,
+    "gn:longitude":103.3336,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Sri Paya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Sri Paya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7614288
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a2af1ba6ed23f741347c2ecd36250ea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209115699
+        }
+    ],
+    "wof:id":1209115699,
+    "wof:lastmodified":1537674331,
+    "wof:name":"Taman Sri Paya",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3336,
+    2.0512,
+    103.3336,
+    2.0512
+],
+  "geometry": {"coordinates":[103.3336,2.0512],"type":"Point"}
+}

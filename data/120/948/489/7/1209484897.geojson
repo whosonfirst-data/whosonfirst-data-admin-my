@@ -1,0 +1,64 @@
+{
+  "id": 1209484897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.8358,5.0666,116.8358,5.0666",
+    "geom:latitude":5.0666,
+    "geom:longitude":116.8358,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Langga",
+    "gn:country_code":"MY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1758507,
+    "gn:latitude":5.0666,
+    "gn:longitude":116.8358,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Langga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:msa_x_preferred":[
+        "Langga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1758507
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"654358040c1e88856464f379d0680b4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209484897
+        }
+    ],
+    "wof:id":1209484897,
+    "wof:lastmodified":1537673798,
+    "wof:name":"Langga",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.8358,
+    5.0666,
+    116.8358,
+    5.0666
+],
+  "geometry": {"coordinates":[116.83580000000001,5.0666],"type":"Point"}
+}

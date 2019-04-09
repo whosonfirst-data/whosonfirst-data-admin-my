@@ -1,0 +1,64 @@
+{
+  "id": 1209114857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.2734,6.16814,100.2734,6.16814",
+    "geom:latitude":6.16814,
+    "geom:longitude":100.2734,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Lintang",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807254,
+    "gn:latitude":6.16814,
+    "gn:longitude":100.2734,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Lintang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lintang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807254
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9879f041b328c736314bd769b4b69825",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209114857
+        }
+    ],
+    "wof:id":1209114857,
+    "wof:lastmodified":1537674240,
+    "wof:name":"Kampung Lintang",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.2734,
+    6.16814,
+    100.2734,
+    6.16814
+],
+  "geometry": {"coordinates":[100.2734,6.16814],"type":"Point"}
+}

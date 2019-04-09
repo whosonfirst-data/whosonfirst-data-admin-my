@@ -1,0 +1,67 @@
+{
+  "id": 1293274421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5,5.4,116.5,5.4",
+    "geom:latitude":5.4,
+    "geom:longitude":116.5,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kabatang",
+    "gn:country_code":"MY",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733829,
+    "gn:latitude":5.4,
+    "gn:longitude":116.5,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kabatang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733829
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"12b6f93abd740fcf53ce1c5aaa5bc97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1293274421,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293274421,
+    "wof:lastmodified":1537091003,
+    "wof:name":"Kabatang",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5,
+    5.4,
+    116.5,
+    5.4
+],
+  "geometry": {"coordinates":[116.5,5.4],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243081569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.5151,1.6818,103.5151,1.6818",
+    "geom:latitude":1.6818,
+    "geom:longitude":103.5151,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Rahmat",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7614182,
+    "gn:latitude":1.6818,
+    "gn:longitude":103.5151,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Rahmat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rahmat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7614182
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e2dfce224bf6b7df3d3eddaf275257b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696433,
+            "locality_id":1243081569,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1243081569,
+    "wof:lastmodified":1537674330,
+    "wof:name":"Kampung Rahmat",
+    "wof:parent_id":1108696433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.5151,
+    1.6818,
+    103.5151,
+    1.6818
+],
+  "geometry": {"coordinates":[103.5151,1.6818],"type":"Point"}
+}

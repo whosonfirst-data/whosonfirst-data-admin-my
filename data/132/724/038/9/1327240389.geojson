@@ -1,0 +1,73 @@
+{
+  "id": 1327240389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.40301,6.06196,100.40301,6.06196",
+    "geom:latitude":6.06196,
+    "geom:longitude":100.40301,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Tanjung Bayam",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763456,
+    "gn:latitude":6.06196,
+    "gn:longitude":100.40301,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tanjung Bayam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Bayam"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tanjong Bayam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763456
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"407fe477d2e1c4922db7f494f413043e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1327240389,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1327240389,
+    "wof:lastmodified":1537673861,
+    "wof:name":"Kampung Tanjung Bayam",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.40301,
+    6.06196,
+    100.40301,
+    6.06196
+],
+  "geometry": {"coordinates":[100.40300999999999,6.06196],"type":"Point"}
+}

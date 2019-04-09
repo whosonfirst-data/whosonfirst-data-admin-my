@@ -1,0 +1,70 @@
+{
+  "id": 1209799841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.25149,5.47714,100.25149,5.47714",
+    "geom:latitude":5.47714,
+    "geom:longitude":100.25149,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kampung Tanjung Huma",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826911,
+    "gn:latitude":5.47714,
+    "gn:longitude":100.25149,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Tanjung Huma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Huma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826911
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"defa912f11be8919a60e80de5f399de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696537,
+            "locality_id":1209799841,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1209799841,
+    "wof:lastmodified":1537674253,
+    "wof:name":"Kampung Tanjung Huma",
+    "wof:parent_id":1108696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.25149,
+    5.47714,
+    100.25149,
+    5.47714
+],
+  "geometry": {"coordinates":[100.25149,5.47714],"type":"Point"}
+}

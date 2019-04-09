@@ -1,0 +1,83 @@
+{
+  "id": 890490379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.43333,3.13333,101.43333,3.13333",
+    "geom:latitude":3.13333,
+    "geom:longitude":101.43333,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Meru"
+    ],
+    "name:eng_x_preferred":[
+        "Meru"
+    ],
+    "name:may_x_preferred":[
+        "Meru"
+    ],
+    "qs:name":"Meru",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":41,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":41,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732902,
+        "gp:id":1154928,
+        "qs:id":280568,
+        "wd:id":"Q6820751"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054803,
+    "wof:geomhash":"0981e16a4d975e015c8e112c52526194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696415,
+            "locality_id":890490379,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890490379,
+    "wof:lastmodified":1514490625,
+    "wof:name":"Meru",
+    "wof:parent_id":1108696415,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.43333,
+    3.13333,
+    101.43333,
+    3.13333
+],
+  "geometry": {"coordinates":[101.43333,3.13333],"type":"Point"}
+}

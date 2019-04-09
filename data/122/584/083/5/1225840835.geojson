@@ -1,0 +1,76 @@
+{
+  "id": 1225840835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.4537,5.33095,100.4537,5.33095",
+    "geom:latitude":5.33095,
+    "geom:longitude":100.4537,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Bukit Minyak",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770181,
+    "gn:latitude":5.33095,
+    "gn:longitude":100.4537,
+    "gn:modification_date":"2018-04-11",
+    "gn:name":"Kampung Bukit Minyak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Minyak"
+    ],
+    "name:und_x_variant":[
+        "Bukit Minyak",
+        "Kampong Bukit Minyak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770181,
+        "wk:page":"Bukit_Minyak"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a185f04565f04c32bc02b36ef8210dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1225840835,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1225840835,
+    "wof:lastmodified":1537674151,
+    "wof:name":"Kampung Bukit Minyak",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.4537,
+    5.33095,
+    100.4537,
+    5.33095
+],
+  "geometry": {"coordinates":[100.4537,5.33095],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 890488551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.804847,2.549439,101.804847,2.549439",
+    "geom:latitude":2.549439,
+    "geom:longitude":101.804847,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Port Dickson",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Negeri Sembilan",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1220,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":1135,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013651,
+        "qs:id":1313654,
+        "wd:id":"Q653801",
+        "wk:page":"Port Dickson District"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054723,
+    "wof:geomhash":"b0908163c194beca27f1a2b9b5adad8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490331,
+            "localadmin_id":890488551,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":890488551,
+    "wof:lastmodified":1527787073,
+    "wof:name":"Port Dickson",
+    "wof:parent_id":890490331,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.804847,
+    2.549439,
+    101.804847,
+    2.549439
+],
+  "geometry": {"coordinates":[101.804847,2.549439],"type":"Point"}
+}

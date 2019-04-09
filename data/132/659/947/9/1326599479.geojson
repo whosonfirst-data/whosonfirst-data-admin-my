@@ -1,0 +1,73 @@
+{
+  "id": 1326599479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.6954,6.6567,116.6954,6.6567",
+    "geom:latitude":6.6567,
+    "geom:longitude":116.6954,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Mahong",
+    "gn:country_code":"MY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767189,
+    "gn:latitude":6.6567,
+    "gn:longitude":116.6954,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Mahong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mahong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Mahong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767189
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a8fdf90364c15740b270c2a9e5314706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696425,
+            "locality_id":1326599479,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1326599479,
+    "wof:lastmodified":1537674026,
+    "wof:name":"Kampung Mahong",
+    "wof:parent_id":1108696425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.6954,
+    6.6567,
+    116.6954,
+    6.6567
+],
+  "geometry": {"coordinates":[116.69540000000001,6.6567],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310516047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.31667,3.36667,101.31667,3.36667",
+    "geom:latitude":3.36667,
+    "geom:longitude":101.31667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Kampong Siak",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764402,
+    "gn:latitude":3.36667,
+    "gn:longitude":101.31667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Siak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890488801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764402
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"00d47c2714a697aa99e5672332cfdf08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488801,
+            "locality_id":1310516047,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1310516047,
+    "wof:lastmodified":1536901680,
+    "wof:name":"Kampong Siak",
+    "wof:parent_id":890488801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.31667,
+    3.36667,
+    101.31667,
+    3.36667
+],
+  "geometry": {"coordinates":[101.31667,3.36667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209908895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9335,4.0485,101.9335,4.0485",
+    "geom:latitude":4.0485,
+    "geom:longitude":101.9335,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Hulu Atuk",
+    "gn:country_code":"MY",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638929,
+    "gn:latitude":4.0485,
+    "gn:longitude":101.9335,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Hulu Atuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Hulu Atuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638929
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3c7ee71e3ca2fc59ade30da0ca3a81b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1209908895,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1209908895,
+    "wof:lastmodified":1537674345,
+    "wof:name":"Kampung Hulu Atuk",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9335,
+    4.0485,
+    101.9335,
+    4.0485
+],
+  "geometry": {"coordinates":[101.9335,4.0485],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259755715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.6576,5.2692,115.6576,5.2692",
+    "geom:latitude":5.2692,
+    "geom:longitude":115.6576,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Bukau",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733857,
+    "gn:latitude":5.2692,
+    "gn:longitude":115.6576,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bukau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukau"
+    ],
+    "name:und_x_variant":[
+        "Bakau",
+        "Kampong Bukau",
+        "Bukau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733857
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3cefdc399747d5579434ed4894bf5314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696385,
+            "locality_id":1259755715,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259755715,
+    "wof:lastmodified":1537673692,
+    "wof:name":"Kampung Bukau",
+    "wof:parent_id":1108696385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.6576,
+    5.2692,
+    115.6576,
+    5.2692
+],
+  "geometry": {"coordinates":[115.6576,5.2692],"type":"Point"}
+}

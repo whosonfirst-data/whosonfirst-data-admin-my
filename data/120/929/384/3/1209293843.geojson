@@ -1,0 +1,67 @@
+{
+  "id": 1209293843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.09,5.3468,103.09,5.3468",
+    "geom:latitude":5.3468,
+    "geom:longitude":103.09,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Tuan Mandan",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762446,
+    "gn:latitude":5.3468,
+    "gn:longitude":103.09,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tuan Mandan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tuan Mandan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tuan Mandak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762446
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"40aa80b78eabdb22bd82ed6314354e4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209293843
+        }
+    ],
+    "wof:id":1209293843,
+    "wof:lastmodified":1537673816,
+    "wof:name":"Kampung Tuan Mandan",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.09,
+    5.3468,
+    103.09,
+    5.3468
+],
+  "geometry": {"coordinates":[103.09,5.3468],"type":"Point"}
+}

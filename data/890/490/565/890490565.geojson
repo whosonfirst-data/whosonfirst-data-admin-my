@@ -1,0 +1,69 @@
+{
+  "id": 890490565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.252899,2.20338,102.252899,2.20338",
+    "geom:latitude":2.20338,
+    "geom:longitude":102.252899,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Nam Seng",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:photos":186,
+    "qs:photos_1k":38,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":186,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023085,
+        890489715,
+        85675151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56037460,
+        "qs:id":184007
+    },
+    "wof:country":"MY",
+    "wof:created":1469054815,
+    "wof:geomhash":"6ff7293c620096800ce3bb57c477e80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":102023085,
+            "neighbourhood_id":890490565,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":890490565,
+    "wof:lastmodified":1500013402,
+    "wof:name":"Taman Nam Seng",
+    "wof:parent_id":102023085,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.252899,
+    2.20338,
+    102.252899,
+    2.20338
+],
+  "geometry": {"coordinates":[102.252899,2.20338],"type":"Point"}
+}

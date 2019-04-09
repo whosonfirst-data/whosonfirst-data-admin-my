@@ -1,0 +1,73 @@
+{
+  "id": 1343279777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5905,2.0851,102.5905,2.0851",
+    "geom:latitude":2.0851,
+    "geom:longitude":102.5905,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Temiang",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856268,
+    "gn:latitude":2.0851,
+    "gn:longitude":102.5905,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Temiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Temiang"
+    ],
+    "name:und_x_variant":[
+        "Kampung Temang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856268
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d702573203e3ac0d3cddd1a878c4d543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1343279777,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1343279777,
+    "wof:lastmodified":1537674437,
+    "wof:name":"Kampung Temiang",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5905,
+    2.0851,
+    102.5905,
+    2.0851
+],
+  "geometry": {"coordinates":[102.59050000000001,2.0851],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 85771795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":600855.334448,
+    "geom:bbox":"101.693575118,3.18165214575,101.700439453,3.19125244896",
+    "geom:latitude":3.186532,
+    "geom:longitude":101.696824,
+    "iso:country":"MY",
+    "lbl:latitude":3.184639,
+    "lbl:longitude":101.697636,
+    "mps:latitude":3.187212,
+    "mps:longitude":101.697445,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Sentul"
+    ],
+    "name:ind_x_preferred":[
+        "Sentul"
+    ],
+    "name:nld_x_preferred":[
+        "Sentul"
+    ],
+    "name:unk_x_variant":[
+        "Sentul"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:id":0,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Sentul",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Bandar Kuala Lumpur",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":31,
+    "qs:photo_sum":67,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56014567,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1153954
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"12e9a9fcd3106801b14adfd57b7dbe69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85771795,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85771795,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269549,
+    "wof:name":"Sentul",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6935751177183,
+    3.18165214574512,
+    101.70043945300017,
+    3.19125244895885
+],
+  "geometry": {"coordinates":[[[101.69905976726608,3.18987915996007],[101.70008816181081,3.18953582937139],[101.70043945300017,3.1896061966165],[101.70043945300017,3.18713682981009],[101.70043945300017,3.18439449119948],[101.69769287100013,3.18439449119948],[101.69769287100013,3.18165214642956],[101.69494628900009,3.18165214653854],[101.69448782028064,3.18165214574512],[101.6935751177183,3.18439448777521],[101.69448781784934,3.18713682798008],[101.69357512227714,3.18987915508512],[101.69494628899997,3.19125244895885],[101.69905976726608,3.18987915996007]]],"type":"Polygon"}
+}

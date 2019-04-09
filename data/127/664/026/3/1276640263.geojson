@@ -1,0 +1,74 @@
+{
+  "id": 1276640263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.46255,5.39417,100.46255,5.39417",
+    "geom:latitude":5.39417,
+    "geom:longitude":100.46255,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Sungai Semambu",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763812,
+    "gn:latitude":5.39417,
+    "gn:longitude":100.46255,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Semambu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Semambu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Semambu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763812
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ce78172b20405b6c785bcfb232121e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1276640263,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1276640263,
+    "wof:lastmodified":1537673879,
+    "wof:name":"Kampung Sungai Semambu",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.46255,
+    5.39417,
+    100.46255,
+    5.39417
+],
+  "geometry": {"coordinates":[100.46254999999999,5.39417],"type":"Point"}
+}

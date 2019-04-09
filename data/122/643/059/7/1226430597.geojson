@@ -1,0 +1,72 @@
+{
+  "id": 1226430597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.9,1.21667,110.9,1.21667",
+    "geom:latitude":1.21667,
+    "geom:longitude":110.9,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Semalatong",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764650,
+    "gn:latitude":1.21667,
+    "gn:longitude":110.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Semalatong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Semalatong",
+        "Kampong Semalatong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764650
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0de63958bfb1c62aa04975be03534f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696517,
+            "locality_id":1226430597,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1226430597,
+    "wof:lastmodified":1537673919,
+    "wof:name":"Kampong Semalatong",
+    "wof:parent_id":1108696517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.9,
+    1.21667,
+    110.9,
+    1.21667
+],
+  "geometry": {"coordinates":[110.90000000000001,1.21667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209103549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5279,3.4866,102.5279,3.4866",
+    "geom:latitude":3.4866,
+    "geom:longitude":102.5279,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Laman Cincin",
+    "gn:country_code":"MY",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767639,
+    "gn:latitude":3.4866,
+    "gn:longitude":102.5279,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Laman Cincin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Laman Cincin"
+    ],
+    "name:und_x_variant":[
+        "Kampong Laman Chinchin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767639
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c6f4a323b54c32cf9abf604ce5de6d3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209103549
+        }
+    ],
+    "wof:id":1209103549,
+    "wof:lastmodified":1537674046,
+    "wof:name":"Kampung Laman Cincin",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5279,
+    3.4866,
+    102.5279,
+    3.4866
+],
+  "geometry": {"coordinates":[102.5279,3.4866],"type":"Point"}
+}

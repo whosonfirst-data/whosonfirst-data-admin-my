@@ -1,0 +1,70 @@
+{
+  "id": 1226228473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0245,5.212,103.0245,5.212",
+    "geom:latitude":5.212,
+    "geom:longitude":103.0245,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Mesah",
+    "gn:country_code":"MY",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355656,
+    "gn:latitude":5.212,
+    "gn:longitude":103.0245,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Kampung Mesah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mesah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355656
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0d13b46caf3b969b798ebe91cf2e708d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1226228473,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1226228473,
+    "wof:lastmodified":1537674453,
+    "wof:name":"Kampung Mesah",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0245,
+    5.212,
+    103.0245,
+    5.212
+],
+  "geometry": {"coordinates":[103.0245,5.212],"type":"Point"}
+}

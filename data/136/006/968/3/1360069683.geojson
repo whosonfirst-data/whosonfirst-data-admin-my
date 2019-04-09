@@ -1,0 +1,70 @@
+{
+  "id": 1360069683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.5095,5.42824,100.5095,5.42824",
+    "geom:latitude":5.42824,
+    "geom:longitude":100.5095,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Teluk Wang",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6823601,
+    "gn:latitude":5.42824,
+    "gn:longitude":100.5095,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Teluk Wang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Teluk Wang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823601
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d5138384d590316a0cbf664dbaafa84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1360069683,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1360069683,
+    "wof:lastmodified":1537674252,
+    "wof:name":"Teluk Wang",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.5095,
+    5.42824,
+    100.5095,
+    5.42824
+],
+  "geometry": {"coordinates":[100.5095,5.42824],"type":"Point"}
+}

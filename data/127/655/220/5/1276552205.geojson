@@ -1,0 +1,73 @@
+{
+  "id": 1276552205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5121,2.6682,102.5121,2.6682",
+    "geom:latitude":2.6682,
+    "geom:longitude":102.5121,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Beriku",
+    "gn:country_code":"MY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770571,
+    "gn:latitude":2.6682,
+    "gn:longitude":102.5121,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Beriku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Beriku"
+    ],
+    "name:und_x_variant":[
+        "Kampong Beriku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        1108696529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770571
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aaf1be0da8fad0561bad445e05b0e6f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696529,
+            "locality_id":1276552205,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1276552205,
+    "wof:lastmodified":1537674166,
+    "wof:name":"Kampung Beriku",
+    "wof:parent_id":1108696529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5121,
+    2.6682,
+    102.5121,
+    2.6682
+],
+  "geometry": {"coordinates":[102.5121,2.6682],"type":"Point"}
+}

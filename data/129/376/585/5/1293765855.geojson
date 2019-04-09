@@ -1,0 +1,74 @@
+{
+  "id": 1293765855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.7977,6.0132,116.7977,6.0132",
+    "geom:latitude":6.0132,
+    "geom:longitude":116.7977,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Walahu",
+    "gn:country_code":"MY",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762250,
+    "gn:latitude":6.0132,
+    "gn:longitude":116.7977,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Walahu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Walahu"
+    ],
+    "name:und_x_variant":[
+        "Walahu",
+        "Kampong Walahu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762250
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9833c89f5035e80f234899ab943f6d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":1293765855,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293765855,
+    "wof:lastmodified":1537673806,
+    "wof:name":"Kampung Walahu",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.7977,
+    6.0132,
+    116.7977,
+    6.0132
+],
+  "geometry": {"coordinates":[116.79770000000001,6.0132],"type":"Point"}
+}

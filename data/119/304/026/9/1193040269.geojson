@@ -1,0 +1,70 @@
+{
+  "id": 1193040269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9108,4.0034,101.9108,4.0034",
+    "geom:latitude":4.0034,
+    "geom:longitude":101.9108,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Tanjung Aur",
+    "gn:country_code":"MY",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638912,
+    "gn:latitude":4.0034,
+    "gn:longitude":101.9108,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tanjung Aur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Aur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638912
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ee407c440cb6c6fb3bde0838121490af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1193040269,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1193040269,
+    "wof:lastmodified":1537674345,
+    "wof:name":"Kampung Tanjung Aur",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9108,
+    4.0034,
+    101.9108,
+    4.0034
+],
+  "geometry": {"coordinates":[101.91079999999999,4.0034],"type":"Point"}
+}

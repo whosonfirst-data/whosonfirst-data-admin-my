@@ -1,0 +1,70 @@
+{
+  "id": 1293881289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0495,3.1933,103.0495,3.1933",
+    "geom:latitude":3.1933,
+    "geom:longitude":103.0495,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Jubau",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697148,
+    "gn:latitude":3.1933,
+    "gn:longitude":103.0495,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Jubau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jubau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697148
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"74bc3de5b8676452afb694a67779deff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1293881289,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293881289,
+    "wof:lastmodified":1537674365,
+    "wof:name":"Kampung Jubau",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0495,
+    3.1933,
+    103.0495,
+    3.1933
+],
+  "geometry": {"coordinates":[103.04949999999999,3.1933],"type":"Point"}
+}

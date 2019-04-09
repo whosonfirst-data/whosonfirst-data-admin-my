@@ -1,0 +1,73 @@
+{
+  "id": 1243527023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.229,6.0669,116.229,6.0669",
+    "geom:latitude":6.0669,
+    "geom:longitude":116.229,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Kabayau",
+    "gn:country_code":"MY",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768676,
+    "gn:latitude":6.0669,
+    "gn:longitude":116.229,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kabayau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kabayau"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kabayau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768676
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f1b8d459084d3fd872b54ebb6a80b7bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1243527023,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1243527023,
+    "wof:lastmodified":1537674090,
+    "wof:name":"Kampung Kabayau",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.229,
+    6.0669,
+    116.229,
+    6.0669
+],
+  "geometry": {"coordinates":[116.229,6.0669],"type":"Point"}
+}

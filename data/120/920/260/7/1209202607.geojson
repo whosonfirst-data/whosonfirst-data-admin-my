@@ -1,0 +1,61 @@
+{
+  "id": 1209202607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.8,2.38333,113.8,2.38333",
+    "geom:latitude":2.38333,
+    "geom:longitude":113.8,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rumah Daro",
+    "gn:country_code":"MY",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1737041,
+    "gn:latitude":2.38333,
+    "gn:longitude":113.8,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Daro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1737041
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bf249c997f8fa6b16e5a9e2b93131a18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209202607
+        }
+    ],
+    "wof:id":1209202607,
+    "wof:lastmodified":1536294558,
+    "wof:name":"Rumah Daro",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.8,
+    2.38333,
+    113.8,
+    2.38333
+],
+  "geometry": {"coordinates":[113.8,2.38333],"type":"Point"}
+}

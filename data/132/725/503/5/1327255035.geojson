@@ -1,0 +1,67 @@
+{
+  "id": 1327255035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7,4.16667,100.7,4.16667",
+    "geom:latitude":4.16667,
+    "geom:longitude":100.7,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Sungai Parit",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763892,
+    "gn:latitude":4.16667,
+    "gn:longitude":100.7,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Sungai Parit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        1108696459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763892
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"82089f2645ebd9a332cd6e4cb37ee38c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696459,
+            "locality_id":1327255035,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1327255035,
+    "wof:lastmodified":1536937718,
+    "wof:name":"Kampong Sungai Parit",
+    "wof:parent_id":1108696459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7,
+    4.16667,
+    100.7,
+    4.16667
+],
+  "geometry": {"coordinates":[100.7,4.16667],"type":"Point"}
+}

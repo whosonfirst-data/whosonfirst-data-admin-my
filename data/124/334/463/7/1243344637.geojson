@@ -1,0 +1,67 @@
+{
+  "id": 1243344637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.73374,1.10792,111.73374,1.10792",
+    "geom:latitude":1.10792,
+    "geom:longitude":111.73374,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sayat",
+    "gn:country_code":"MY",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1746355,
+    "gn:latitude":1.10792,
+    "gn:longitude":111.73374,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Sayat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1746355
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7f11427119e40131fa027800cc2dcc84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696451,
+            "locality_id":1243344637,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1243344637,
+    "wof:lastmodified":1536952525,
+    "wof:name":"Sayat",
+    "wof:parent_id":1108696451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.73374,
+    1.10792,
+    111.73374,
+    1.10792
+],
+  "geometry": {"coordinates":[111.73374,1.10792],"type":"Point"}
+}

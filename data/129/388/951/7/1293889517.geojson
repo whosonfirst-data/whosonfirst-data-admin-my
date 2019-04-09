@@ -1,0 +1,70 @@
+{
+  "id": 1293889517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1101,2.3379,102.1101,2.3379",
+    "geom:latitude":2.3379,
+    "geom:longitude":102.1101,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Solok Duku",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797838,
+    "gn:latitude":2.3379,
+    "gn:longitude":102.1101,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Solok Duku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Solok Duku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797838
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a91102534d22e8fd96593beac90189de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1293889517,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1293889517,
+    "wof:lastmodified":1537674424,
+    "wof:name":"Kampung Solok Duku",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1101,
+    2.3379,
+    102.1101,
+    2.3379
+],
+  "geometry": {"coordinates":[102.1101,2.3379],"type":"Point"}
+}

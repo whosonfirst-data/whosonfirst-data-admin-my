@@ -1,0 +1,73 @@
+{
+  "id": 1193154677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.627,2.2349,102.627,2.2349",
+    "geom:latitude":2.2349,
+    "geom:longitude":102.627,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Parit Kasan",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766133,
+    "gn:latitude":2.2349,
+    "gn:longitude":102.627,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Parit Kasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Kasan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Parit Kasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766133
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5b63d1f2d62178491d0c1d56133a045f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1193154677,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1193154677,
+    "wof:lastmodified":1537673984,
+    "wof:name":"Kampung Parit Kasan",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.627,
+    2.2349,
+    102.627,
+    2.2349
+],
+  "geometry": {"coordinates":[102.627,2.2349],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343273723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.15,5.76667,102.15,5.76667",
+    "geom:latitude":5.76667,
+    "geom:longitude":102.15,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Pasir Pinji",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766019,
+    "gn:latitude":5.76667,
+    "gn:longitude":102.15,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Pasir Pinji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766019
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"28cbbff89587980e71acbeb0026ba874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696457,
+            "locality_id":1343273723,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1343273723,
+    "wof:lastmodified":1537014993,
+    "wof:name":"Kampong Pasir Pinji",
+    "wof:parent_id":1108696457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.15,
+    5.76667,
+    102.15,
+    5.76667
+],
+  "geometry": {"coordinates":[102.15000000000001,5.76667],"type":"Point"}
+}

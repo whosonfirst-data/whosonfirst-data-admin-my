@@ -1,0 +1,67 @@
+{
+  "id": 890490035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.193477,1.576666,104.193477,1.576666",
+    "geom:latitude":1.576666,
+    "geom:longitude":104.193477,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tanjung Surat",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":50,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013766,
+        "qs:id":4840
+    },
+    "wof:country":"MY",
+    "wof:created":1469054785,
+    "wof:geomhash":"f40ada777fe2818197b836854db1db60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "localadmin_id":890490035,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890490035,
+    "wof:lastmodified":1500013339,
+    "wof:name":"Tanjung Surat",
+    "wof:parent_id":890491003,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.193477,
+    1.576666,
+    104.193477,
+    1.576666
+],
+  "geometry": {"coordinates":[104.193477,1.576666],"type":"Point"}
+}

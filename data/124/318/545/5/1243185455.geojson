@@ -1,0 +1,74 @@
+{
+  "id": 1243185455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36517,5.9496,100.36517,5.9496",
+    "geom:latitude":5.9496,
+    "geom:longitude":100.36517,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Kubang Busok",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855463,
+    "gn:latitude":5.9496,
+    "gn:longitude":100.36517,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Kubang Busok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kubang Busok"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kubang Busok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855463
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"02d1c77b1f9f127cbcef6f1fa318350f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489701,
+            "locality_id":1243185455,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1243185455,
+    "wof:lastmodified":1537674262,
+    "wof:name":"Kampung Kubang Busok",
+    "wof:parent_id":890489701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36517,
+    5.9496,
+    100.36517,
+    5.9496
+],
+  "geometry": {"coordinates":[100.36517000000001,5.9496],"type":"Point"}
+}

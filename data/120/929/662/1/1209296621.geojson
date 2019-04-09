@@ -1,0 +1,67 @@
+{
+  "id": 1209296621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1257,5.9735,116.1257,5.9735",
+    "geom:latitude":5.9735,
+    "geom:longitude":116.1257,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Nountun",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766643,
+    "gn:latitude":5.9735,
+    "gn:longitude":116.1257,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Nountun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Nountun"
+    ],
+    "name:und_x_variant":[
+        "Kampong Nounton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766643
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1a518f30e6d4fb6ecfe8e40d4ba233d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209296621
+        }
+    ],
+    "wof:id":1209296621,
+    "wof:lastmodified":1537674002,
+    "wof:name":"Kampung Nountun",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1257,
+    5.9735,
+    116.1257,
+    5.9735
+],
+  "geometry": {"coordinates":[116.12569999999999,5.9735],"type":"Point"}
+}

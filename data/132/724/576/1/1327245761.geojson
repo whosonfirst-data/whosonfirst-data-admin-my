@@ -1,0 +1,67 @@
+{
+  "id": 1327245761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.62322,1.39324,103.62322,1.39324",
+    "geom:latitude":1.39324,
+    "geom:longitude":103.62322,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nusajaya",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10063567,
+    "gn:latitude":1.39324,
+    "gn:longitude":103.62322,
+    "gn:modification_date":"2015-02-12",
+    "gn:name":"Nusajaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10063567
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9a5f155885dab04c0193ebc2e91ed5b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1327245761,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1327245761,
+    "wof:lastmodified":1536950406,
+    "wof:name":"Nusajaya",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.62322,
+    1.39324,
+    103.62322,
+    1.39324
+],
+  "geometry": {"coordinates":[103.62322,1.39324],"type":"Point"}
+}

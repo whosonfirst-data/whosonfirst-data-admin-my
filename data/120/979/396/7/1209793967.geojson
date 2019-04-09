@@ -1,0 +1,67 @@
+{
+  "id": 1209793967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.76667,1.36667,110.76667,1.36667",
+    "geom:latitude":1.36667,
+    "geom:longitude":110.76667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Segunduk",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764727,
+    "gn:latitude":1.36667,
+    "gn:longitude":110.76667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Segunduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764727
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9df522d4a02d553e5f07065d7dad0490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696517,
+            "locality_id":1209793967,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1209793967,
+    "wof:lastmodified":1536393738,
+    "wof:name":"Kampong Segunduk",
+    "wof:parent_id":1108696517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.76667,
+    1.36667,
+    110.76667,
+    1.36667
+],
+  "geometry": {"coordinates":[110.76667,1.36667],"type":"Point"}
+}

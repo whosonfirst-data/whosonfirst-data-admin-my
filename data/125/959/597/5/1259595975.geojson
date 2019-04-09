@@ -1,0 +1,71 @@
+{
+  "id": 1259595975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.56191,5.0895,100.56191,5.0895",
+    "geom:latitude":5.0895,
+    "geom:longitude":100.56191,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bagan Samak",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875842,
+    "gn:latitude":5.0895,
+    "gn:longitude":100.56191,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bagan Samak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bagan Samak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875842
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b8c11351b777fdb65c4aabea1583cbc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490371,
+            "locality_id":1259595975,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1259595975,
+    "wof:lastmodified":1537674271,
+    "wof:name":"Bagan Samak",
+    "wof:parent_id":890490371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.56191,
+    5.0895,
+    100.56191,
+    5.0895
+],
+  "geometry": {"coordinates":[100.56191,5.0895],"type":"Point"}
+}

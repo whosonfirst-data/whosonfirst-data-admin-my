@@ -1,0 +1,114 @@
+{
+  "id": 85771679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":20839265.355356,
+    "geom:bbox":"101.937152,2.728204,101.937152,2.728204",
+    "geom:latitude":2.728204,
+    "geom:longitude":101.937152,
+    "gn:latitude":2.7306,
+    "gn:longitude":101.9277,
+    "iso:country":"MY",
+    "lbl:latitude":2.728204,
+    "lbl:longitude":101.937152,
+    "mps:latitude":2.732573,
+    "mps:longitude":101.930217,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kampong Lobok"
+    ],
+    "name:msa_x_preferred":[
+        "Kampung Lobok"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Lobok"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1734810,
+    "qs:gn_nam_loc":"Seremban, Seremban, Seremban, Negeri Sembilan, MY",
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Kampung Lobok",
+    "qs:local_max":565,
+    "qs:local_sum":968,
+    "qs:localhoods":4,
+    "qs:name":"Kampong Lobok",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Negeri Sembilan",
+    "qs:name_adm2":"Seremban",
+    "qs:name_lau":"Seremban",
+    "qs:name_local":"Seremban",
+    "qs:photo_max":246,
+    "qs:photo_sum":565,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":29,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346300,
+    "qs:woe_adm2":56013631,
+    "qs:woe_lau":56013799,
+    "qs:woe_local":1155106,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023155,
+        890489719,
+        85675155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767391,
+        "gp:id":1145641,
+        "qs:id":279262,
+        "qs_pg:id":279262
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"406b5971cb5de23ed22ee5b68f7e6444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":102023155,
+            "neighbourhood_id":85771679,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":85771679,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859442,
+    "wof:name":"Kampong Lobok",
+    "wof:parent_id":102023155,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.937152,
+    2.728204,
+    101.937152,
+    2.728204
+],
+  "geometry": {"coordinates":[101.937152,2.728204],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259777909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.45147,5.14526,100.45147,5.14526",
+    "geom:latitude":5.14526,
+    "geom:longitude":100.45147,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kampung Sungai Setar Besar",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854905,
+    "gn:latitude":5.14526,
+    "gn:longitude":100.45147,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Sungai Setar Besar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Setar Besar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854905
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cdad0d52451d41b51761e83552c7571c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1259777909,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1259777909,
+    "wof:lastmodified":1537674261,
+    "wof:name":"Kampung Sungai Setar Besar",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.45147,
+    5.14526,
+    100.45147,
+    5.14526
+],
+  "geometry": {"coordinates":[100.45147,5.14526],"type":"Point"}
+}

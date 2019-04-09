@@ -1,0 +1,71 @@
+{
+  "id": 1242665511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.2762,1.11019,110.2762,1.11019",
+    "geom:latitude":1.11019,
+    "geom:longitude":110.2762,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Sadir",
+    "gn:country_code":"MY",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764933,
+    "gn:latitude":1.11019,
+    "gn:longitude":110.2762,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampong Sadir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Senah Sadir",
+        "Kampong Sadir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764933
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ac3e75b6905595457087415c9f0d89a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1242665511,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1242665511,
+    "wof:lastmodified":1537673932,
+    "wof:name":"Kampong Sadir",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.2762,
+    1.11019,
+    110.2762,
+    1.11019
+],
+  "geometry": {"coordinates":[110.2762,1.11019],"type":"Point"}
+}

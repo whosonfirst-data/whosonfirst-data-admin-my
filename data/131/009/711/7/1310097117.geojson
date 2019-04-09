@@ -1,0 +1,74 @@
+{
+  "id": 1310097117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.6877,4.1693,100.6877,4.1693",
+    "geom:latitude":4.1693,
+    "geom:longitude":100.6877,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Pasir Panjang Laut",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762217,
+    "gn:latitude":4.1693,
+    "gn:longitude":100.6877,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pasir Panjang Laut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pasir Panjang Laut"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pasir Panjang Laut",
+        "Kampung Pasir Panjang Laut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        1108696459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762217
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"83dc972f2525a2dcda07010909ba84de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696459,
+            "locality_id":1310097117,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1310097117,
+    "wof:lastmodified":1537673805,
+    "wof:name":"Kampung Pasir Panjang Laut",
+    "wof:parent_id":1108696459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.6877,
+    4.1693,
+    100.6877,
+    4.1693
+],
+  "geometry": {"coordinates":[100.68770000000001,4.1693],"type":"Point"}
+}

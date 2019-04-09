@@ -1,0 +1,70 @@
+{
+  "id": 1242895939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.33243,3.22993,103.33243,3.22993",
+    "geom:latitude":3.22993,
+    "geom:longitude":103.33243,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Pati",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765978,
+    "gn:latitude":3.22993,
+    "gn:longitude":103.33243,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Pati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765978
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1275b46dbbfb7ccec4d95740069e1be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1242895939,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1242895939,
+    "wof:lastmodified":1537673977,
+    "wof:name":"Kampung Pati",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.33243,
+    3.22993,
+    103.33243,
+    3.22993
+],
+  "geometry": {"coordinates":[103.33243,3.22993],"type":"Point"}
+}

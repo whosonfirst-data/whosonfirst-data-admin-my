@@ -1,0 +1,73 @@
+{
+  "id": 1310706725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1031,2.5886,102.1031,2.5886",
+    "geom:latitude":2.5886,
+    "geom:longitude":102.1031,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Senama Ulu",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764585,
+    "gn:latitude":2.5886,
+    "gn:longitude":102.1031,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Senama Ulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Senama Ulu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Senama Ulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764585
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dcf337a07c19aa4327fbbb5cce7527a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1310706725,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1310706725,
+    "wof:lastmodified":1537673916,
+    "wof:name":"Kampung Senama Ulu",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1031,
+    2.5886,
+    102.1031,
+    2.5886
+],
+  "geometry": {"coordinates":[102.1031,2.5886],"type":"Point"}
+}

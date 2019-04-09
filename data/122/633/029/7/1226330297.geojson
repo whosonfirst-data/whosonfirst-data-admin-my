@@ -1,0 +1,67 @@
+{
+  "id": 1226330297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.38333,4.18333,114.38333,4.18333",
+    "geom:latitude":4.18333,
+    "geom:longitude":114.38333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Dabai",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748045,
+    "gn:latitude":4.18333,
+    "gn:longitude":114.38333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Dabai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748045
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bd2e7bd4cfe123d816166bba6b41bc31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696465,
+            "locality_id":1226330297,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1226330297,
+    "wof:lastmodified":1536811267,
+    "wof:name":"Rumah Dabai",
+    "wof:parent_id":1108696465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.38333,
+    4.18333,
+    114.38333,
+    4.18333
+],
+  "geometry": {"coordinates":[114.38333,4.18333],"type":"Point"}
+}

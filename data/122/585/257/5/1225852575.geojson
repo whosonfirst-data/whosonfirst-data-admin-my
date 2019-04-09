@@ -1,0 +1,70 @@
+{
+  "id": 1225852575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.06099,5.98644,102.06099,5.98644",
+    "geom:latitude":5.98644,
+    "geom:longitude":102.06099,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Gual Lemsa",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068039,
+    "gn:latitude":5.98644,
+    "gn:longitude":102.06099,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Gual Lemsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gual Lemsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068039
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c5d26f002b4f84b2b02d0d1273648ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1225852575,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1225852575,
+    "wof:lastmodified":1537674277,
+    "wof:name":"Kampung Gual Lemsa",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.06099,
+    5.98644,
+    102.06099,
+    5.98644
+],
+  "geometry": {"coordinates":[102.06099,5.98644],"type":"Point"}
+}

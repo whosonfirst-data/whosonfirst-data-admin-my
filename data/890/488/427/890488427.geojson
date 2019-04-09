@@ -1,0 +1,70 @@
+{
+  "id": 890488427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.427956,6.261038,100.427956,6.261038",
+    "geom:latitude":6.261038,
+    "geom:longitude":100.427956,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Jitra",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kedah",
+    "qs:photos":98,
+    "qs:photos_1k":20,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":407,
+    "qs:photos_sr":3,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":381,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014496,
+        "qs:id":1316947,
+        "wd:id":"Q4129994",
+        "wk:page":"Jitra"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054719,
+    "wof:geomhash":"7adf195e0f9b48002f631786dcc01d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "localadmin_id":890488427,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":890488427,
+    "wof:lastmodified":1527787080,
+    "wof:name":"Jitra",
+    "wof:parent_id":890488625,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.427956,
+    6.261038,
+    100.427956,
+    6.261038
+],
+  "geometry": {"coordinates":[100.42795599999999,6.261038],"type":"Point"}
+}

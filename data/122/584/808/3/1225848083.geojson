@@ -1,0 +1,70 @@
+{
+  "id": 1225848083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.47933,5.65048,100.47933,5.65048",
+    "geom:latitude":5.65048,
+    "geom:longitude":100.47933,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Teroi",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847555,
+    "gn:latitude":5.65048,
+    "gn:longitude":100.47933,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Teroi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Teroi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847555
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b293f80c55646e9fddaf5a895af80e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "locality_id":1225848083,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1225848083,
+    "wof:lastmodified":1537674256,
+    "wof:name":"Kampung Teroi",
+    "wof:parent_id":890490355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.47933,
+    5.65048,
+    100.47933,
+    5.65048
+],
+  "geometry": {"coordinates":[100.47933,5.65048],"type":"Point"}
+}

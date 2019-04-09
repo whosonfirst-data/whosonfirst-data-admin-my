@@ -1,0 +1,67 @@
+{
+  "id": 1293305513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.81288,6.3629,100.81288,6.3629",
+    "geom:latitude":6.3629,
+    "geom:longitude":100.81288,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Peniat",
+    "gn:country_code":"MY",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765675,
+    "gn:latitude":6.3629,
+    "gn:longitude":100.81288,
+    "gn:modification_date":"2009-02-05",
+    "gn:name":"Kampong Peniat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765675
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"824e8b67839deaf21c90b0c283e9a2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696471,
+            "locality_id":1293305513,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1293305513,
+    "wof:lastmodified":1537047305,
+    "wof:name":"Kampong Peniat",
+    "wof:parent_id":1108696471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.81288,
+    6.3629,
+    100.81288,
+    6.3629
+],
+  "geometry": {"coordinates":[100.81288000000001,6.3629],"type":"Point"}
+}

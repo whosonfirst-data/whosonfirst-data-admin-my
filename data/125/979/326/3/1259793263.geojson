@@ -1,0 +1,70 @@
+{
+  "id": 1259793263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3061,1.6286,103.3061,1.6286",
+    "geom:latitude":1.6286,
+    "geom:longitude":103.3061,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sanglang",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8306088,
+    "gn:latitude":1.6286,
+    "gn:longitude":103.3061,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Sanglang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Sanglang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306088
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"78d40c2b43f638012d8392a92b14aa28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "locality_id":1259793263,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1259793263,
+    "wof:lastmodified":1537674451,
+    "wof:name":"Sanglang",
+    "wof:parent_id":890491001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3061,
+    1.6286,
+    103.3061,
+    1.6286
+],
+  "geometry": {"coordinates":[103.3061,1.6286],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890488307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.43333,2.75,101.43333,2.75",
+    "geom:latitude":2.75,
+    "geom:longitude":101.43333,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kampong Morib"
+    ],
+    "qs:name":"Morib",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":61,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":61,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":163,
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734783,
+        "gp:id":1154933,
+        "qs:id":270824,
+        "wd:id":"Q6912158",
+        "wk:page":"Morib"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054714,
+    "wof:geomhash":"7e54c8e179b6ff85ea5734c69d3611dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":890488307
+        }
+    ],
+    "wof:id":890488307,
+    "wof:lastmodified":1527787073,
+    "wof:name":"Morib",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.43333,
+    2.75,
+    101.43333,
+    2.75
+],
+  "geometry": {"coordinates":[101.43333,2.75],"type":"Point"}
+}

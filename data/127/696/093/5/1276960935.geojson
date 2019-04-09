@@ -1,0 +1,70 @@
+{
+  "id": 1276960935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1787,5.4266,116.1787,5.4266",
+    "geom:latitude":5.4266,
+    "geom:longitude":116.1787,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Narupot",
+    "gn:country_code":"MY",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7588787,
+    "gn:latitude":5.4266,
+    "gn:longitude":116.1787,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Narupot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Narupot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7588787
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b510328b1a540da4484485b397d81f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1276960935,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276960935,
+    "wof:lastmodified":1537674321,
+    "wof:name":"Kampung Narupot",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1787,
+    5.4266,
+    116.1787,
+    5.4266
+],
+  "geometry": {"coordinates":[116.17870000000001,5.4266],"type":"Point"}
+}

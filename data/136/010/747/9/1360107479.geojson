@@ -1,0 +1,73 @@
+{
+  "id": 1360107479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9386,2.5943,101.9386,2.5943",
+    "geom:latitude":2.5943,
+    "geom:longitude":101.9386,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Sega Ilir",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764742,
+    "gn:latitude":2.5943,
+    "gn:longitude":101.9386,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sega Ilir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sega Ilir"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sega Ilir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764742
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a418b16ea5c6964847b06a9c6d2913ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1360107479,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1360107479,
+    "wof:lastmodified":1537673923,
+    "wof:name":"Kampung Sega Ilir",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9386,
+    2.5943,
+    101.9386,
+    2.5943
+],
+  "geometry": {"coordinates":[101.93859999999999,2.5943],"type":"Point"}
+}

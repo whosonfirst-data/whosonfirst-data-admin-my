@@ -1,0 +1,67 @@
+{
+  "id": 1226162937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.28333,6.43333,100.28333,6.43333",
+    "geom:latitude":6.43333,
+    "geom:longitude":100.28333,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Kampong Gur Guring",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769095,
+    "gn:latitude":6.43333,
+    "gn:longitude":100.28333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Gur Guring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769095
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5a16d157d09c9ec65bb8e4a6a4dae0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1226162937,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1226162937,
+    "wof:lastmodified":1537050842,
+    "wof:name":"Kampong Gur Guring",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.28333,
+    6.43333,
+    100.28333,
+    6.43333
+],
+  "geometry": {"coordinates":[100.28333000000001,6.43333],"type":"Point"}
+}

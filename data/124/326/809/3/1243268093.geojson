@@ -1,0 +1,73 @@
+{
+  "id": 1243268093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5314,2.2596,102.5314,2.2596",
+    "geom:latitude":2.2596,
+    "geom:longitude":102.5314,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Tanjung Batu",
+    "gn:country_code":"MY",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763462,
+    "gn:latitude":2.2596,
+    "gn:longitude":102.5314,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tanjung Batu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Batu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tanjong Batu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763462
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9a89b9a615c16604c486e9b6c82f8cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1243268093,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1243268093,
+    "wof:lastmodified":1537673862,
+    "wof:name":"Kampung Tanjung Batu",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5314,
+    2.2596,
+    102.5314,
+    2.2596
+],
+  "geometry": {"coordinates":[102.5314,2.2596],"type":"Point"}
+}

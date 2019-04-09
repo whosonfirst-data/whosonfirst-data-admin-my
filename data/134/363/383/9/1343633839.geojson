@@ -1,0 +1,74 @@
+{
+  "id": 1343633839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1648,5.7868,116.1648,5.7868",
+    "geom:latitude":5.7868,
+    "geom:longitude":116.1648,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tiku",
+    "gn:country_code":"MY",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762685,
+    "gn:latitude":5.7868,
+    "gn:longitude":116.1648,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tiku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tiku"
+    ],
+    "name:und_x_variant":[
+        "Tiku",
+        "Kampong Tiku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762685
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c18edef7c6e4679afd3ebb0569d9dd73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696477,
+            "locality_id":1343633839,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343633839,
+    "wof:lastmodified":1537673826,
+    "wof:name":"Kampung Tiku",
+    "wof:parent_id":1108696477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1648,
+    5.7868,
+    116.1648,
+    5.7868
+],
+  "geometry": {"coordinates":[116.1648,5.7868],"type":"Point"}
+}

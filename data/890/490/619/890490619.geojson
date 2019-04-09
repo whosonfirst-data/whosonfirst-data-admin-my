@@ -1,0 +1,72 @@
+{
+  "id": 890490619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.55618,5.68381,102.55618,5.68381",
+    "geom:latitude":5.68381,
+    "geom:longitude":102.55618,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jabi"
+    ],
+    "qs:name":"Kampung Jabi",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Terengganu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736406,
+        "gp:id":1151051,
+        "qs:id":193493
+    },
+    "wof:country":"MY",
+    "wof:created":1469054818,
+    "wof:geomhash":"b0935c4279de9be9149d5fa9a4361524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "locality_id":890490619,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":890490619,
+    "wof:lastmodified":1505343789,
+    "wof:name":"Kampung Jabi",
+    "wof:parent_id":890488399,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.55618,
+    5.68381,
+    102.55618,
+    5.68381
+],
+  "geometry": {"coordinates":[102.55618,5.68381],"type":"Point"}
+}

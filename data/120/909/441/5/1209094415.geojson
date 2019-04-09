@@ -1,0 +1,61 @@
+{
+  "id": 1209094415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.15,1.36667,111.15,1.36667",
+    "geom:latitude":1.36667,
+    "geom:longitude":111.15,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sungai Pisang",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735731,
+    "gn:latitude":1.36667,
+    "gn:longitude":111.15,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Sungai Pisang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735731
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"816f6c9d5947d418625eb668c8547283",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209094415
+        }
+    ],
+    "wof:id":1209094415,
+    "wof:lastmodified":1536297933,
+    "wof:name":"Sungai Pisang",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.15,
+    1.36667,
+    111.15,
+    1.36667
+],
+  "geometry": {"coordinates":[111.15000000000001,1.36667],"type":"Point"}
+}

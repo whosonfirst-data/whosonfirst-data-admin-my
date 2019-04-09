@@ -1,0 +1,64 @@
+{
+  "id": 1209097923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1452,4.6202,101.1452,4.6202",
+    "geom:latitude":4.6202,
+    "geom:longitude":101.1452,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Tersusun Batu Lima Tambun",
+    "gn:country_code":"MY",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473398,
+    "gn:latitude":4.6202,
+    "gn:longitude":101.1452,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tersusun Batu Lima Tambun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tersusun Batu Lima Tambun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473398
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b2a4843297f5d972248a7a95a79bba42",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209097923
+        }
+    ],
+    "wof:id":1209097923,
+    "wof:lastmodified":1537674306,
+    "wof:name":"Kampung Tersusun Batu Lima Tambun",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1452,
+    4.6202,
+    101.1452,
+    4.6202
+],
+  "geometry": {"coordinates":[101.1452,4.6202],"type":"Point"}
+}

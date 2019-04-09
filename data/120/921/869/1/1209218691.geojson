@@ -1,0 +1,64 @@
+{
+  "id": 1209218691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.5249,1.4656,103.5249,1.4656",
+    "geom:latitude":1.4656,
+    "geom:longitude":103.5249,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Jeram Batu",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7858036,
+    "gn:latitude":1.4656,
+    "gn:longitude":103.5249,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Jeram Batu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jeram Batu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858036
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c705a6d6cdc95429c410e290bba59cd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209218691
+        }
+    ],
+    "wof:id":1209218691,
+    "wof:lastmodified":1537674449,
+    "wof:name":"Kampung Jeram Batu",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.5249,
+    1.4656,
+    103.5249,
+    1.4656
+],
+  "geometry": {"coordinates":[103.5249,1.4656],"type":"Point"}
+}

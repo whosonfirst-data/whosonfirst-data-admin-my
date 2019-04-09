@@ -1,0 +1,74 @@
+{
+  "id": 1210001087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.54183,5.17364,100.54183,5.17364",
+    "geom:latitude":5.17364,
+    "geom:longitude":100.54183,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Besar",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770540,
+    "gn:latitude":5.17364,
+    "gn:longitude":100.54183,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Besar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Besar"
+    ],
+    "name:und_x_variant":[
+        "Kampong Besar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770540
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"61b7f0d5de64d4e80d7778e8683af151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1210001087,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1210001087,
+    "wof:lastmodified":1537674165,
+    "wof:name":"Kampung Besar",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.54183,
+    5.17364,
+    100.54183,
+    5.17364
+],
+  "geometry": {"coordinates":[100.54183,5.17364],"type":"Point"}
+}

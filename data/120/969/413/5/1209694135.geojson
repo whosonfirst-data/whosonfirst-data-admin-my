@@ -1,0 +1,68 @@
+{
+  "id": 1209694135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.4279,3.4848,114.4279,3.4848",
+    "geom:latitude":3.4848,
+    "geom:longitude":114.4279,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Busang Tijok",
+    "gn:country_code":"MY",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1777783,
+    "gn:latitude":3.4848,
+    "gn:longitude":114.4279,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Busang Tijok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Busang Tijok"
+    ],
+    "name:und_x_variant":[
+        "Busang Tejo",
+        "Busang Tuyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1777783
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2ba59e0177fac3a5e7ae59bd9fcd4106",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209694135
+        }
+    ],
+    "wof:id":1209694135,
+    "wof:lastmodified":1537674220,
+    "wof:name":"Busang Tijok",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.4279,
+    3.4848,
+    114.4279,
+    3.4848
+],
+  "geometry": {"coordinates":[114.42789999999999,3.4848],"type":"Point"}
+}

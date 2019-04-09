@@ -1,0 +1,74 @@
+{
+  "id": 1243195131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1545,2.5438,102.1545,2.5438",
+    "geom:latitude":2.5438,
+    "geom:longitude":102.1545,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Chengkau Ulu",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769821,
+    "gn:latitude":2.5438,
+    "gn:longitude":102.1545,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Chengkau Ulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Chengkau Ulu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ulu Chengkau",
+        "Kampong Chengkau Ulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769821
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"eac94d512fa7e6d383e36912b7d85aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1243195131,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1243195131,
+    "wof:lastmodified":1537674136,
+    "wof:name":"Kampung Chengkau Ulu",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1545,
+    2.5438,
+    102.1545,
+    2.5438
+],
+  "geometry": {"coordinates":[102.1545,2.5438],"type":"Point"}
+}

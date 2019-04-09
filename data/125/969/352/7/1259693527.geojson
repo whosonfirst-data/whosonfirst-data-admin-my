@@ -1,0 +1,73 @@
+{
+  "id": 1259693527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7655,2.5582,102.7655,2.5582",
+    "geom:latitude":2.5582,
+    "geom:longitude":102.7655,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Kuala Tandong",
+    "gn:country_code":"MY",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767949,
+    "gn:latitude":2.5582,
+    "gn:longitude":102.7655,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kuala Tandong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Tandong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kuala Tandong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767949
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"26e90fa0059e9fea3d857cf3ae55fbcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1259693527,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1259693527,
+    "wof:lastmodified":1537674057,
+    "wof:name":"Kampung Kuala Tandong",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7655,
+    2.5582,
+    102.7655,
+    2.5582
+],
+  "geometry": {"coordinates":[102.7655,2.5582],"type":"Point"}
+}

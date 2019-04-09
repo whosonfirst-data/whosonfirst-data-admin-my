@@ -1,0 +1,67 @@
+{
+  "id": 890489001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.53573,3.003984,101.53573,3.003984",
+    "geom:latitude":3.003984,
+    "geom:longitude":101.53573,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Bunga Indah",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":163,
+    "qs:photos_1k":33,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":163,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56037058,
+        "qs:id":44320
+    },
+    "wof:country":"MY",
+    "wof:created":1469054740,
+    "wof:geomhash":"cc2e64c63ba964ac94800f4a280a9b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696415,
+            "locality_id":890489001,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890489001,
+    "wof:lastmodified":1500013480,
+    "wof:name":"Taman Bunga Indah",
+    "wof:parent_id":1108696415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.53573,
+    3.003984,
+    101.53573,
+    3.003984
+],
+  "geometry": {"coordinates":[101.53573,3.003984],"type":"Point"}
+}

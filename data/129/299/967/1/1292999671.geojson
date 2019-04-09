@@ -1,0 +1,70 @@
+{
+  "id": 1292999671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4391,3.0051,102.4391,3.0051",
+    "geom:latitude":3.0051,
+    "geom:longitude":102.4391,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Gatco",
+    "gn:country_code":"MY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697128,
+    "gn:latitude":3.0051,
+    "gn:longitude":102.4391,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Gatco",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gatco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697128
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7b3454b369d992e5af4d0684107cd170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1292999671,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1292999671,
+    "wof:lastmodified":1537674364,
+    "wof:name":"Kampung Gatco",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4391,
+    3.0051,
+    102.4391,
+    3.0051
+],
+  "geometry": {"coordinates":[102.4391,3.0051],"type":"Point"}
+}

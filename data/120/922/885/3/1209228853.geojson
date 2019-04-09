@@ -1,0 +1,64 @@
+{
+  "id": 1209228853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9413,2.0417,102.9413,2.0417",
+    "geom:latitude":2.0417,
+    "geom:longitude":102.9413,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Parit Jayus",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307877,
+    "gn:latitude":2.0417,
+    "gn:longitude":102.9413,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Parit Jayus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Parit Jayus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307877
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2e4f074e4f29a0e8991b0d7ea81ed01e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209228853
+        }
+    ],
+    "wof:id":1209228853,
+    "wof:lastmodified":1537674452,
+    "wof:name":"Parit Jayus",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9413,
+    2.0417,
+    102.9413,
+    2.0417
+],
+  "geometry": {"coordinates":[102.9413,2.0417],"type":"Point"}
+}

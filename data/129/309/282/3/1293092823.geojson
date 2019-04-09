@@ -1,0 +1,70 @@
+{
+  "id": 1293092823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.2151,4.8021,101.2151,4.8021",
+    "geom:latitude":4.8021,
+    "geom:longitude":101.2151,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Kelah",
+    "gn:country_code":"MY",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473314,
+    "gn:latitude":4.8021,
+    "gn:longitude":101.2151,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kelah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kelah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473314
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5d1d7bc31f425ef96a72722de424c43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":1293092823,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1293092823,
+    "wof:lastmodified":1537674304,
+    "wof:name":"Kampung Kelah",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.2151,
+    4.8021,
+    101.2151,
+    4.8021
+],
+  "geometry": {"coordinates":[101.21510000000001,4.8021],"type":"Point"}
+}

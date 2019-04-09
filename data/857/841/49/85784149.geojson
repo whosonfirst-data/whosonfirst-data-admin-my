@@ -1,0 +1,108 @@
+{
+  "id": 85784149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4576282.077157,
+    "geom:bbox":"102.251523,2.178795,102.251523,2.178795",
+    "geom:latitude":2.178795,
+    "geom:longitude":102.251523,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":2.178795,
+    "lbl:longitude":102.251523,
+    "mps:latitude":2.175412,
+    "mps:longitude":102.258491,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:und_x_preferred":[
+        "Taman Pulau Melaka"
+    ],
+    "name:unk_x_variant":[
+        "Taman Pulau Melaka"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1734759,
+    "qs:gn_nam_loc":"melaka",
+    "qs:gn_namadm1":"04",
+    "qs:local_max":7816,
+    "qs:local_sum":12944,
+    "qs:localhoods":8,
+    "qs:name":"Taman Pulau Melaka",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:name_adm2":"Melaka Tengah",
+    "qs:name_lau":"Bandar Melaka",
+    "qs:name_local":"Melaka",
+    "qs:photo_max":87,
+    "qs:photo_sum":164,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346299,
+    "qs:woe_adm2":56013576,
+    "qs:woe_lau":56014534,
+    "qs:woe_local":1154903,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023085,
+        890489715,
+        85675151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56016789,
+        "qs:id":5842,
+        "qs_pg:id":5842
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"da83c4326b91740a6d79a29c9f0b1b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":102023085,
+            "neighbourhood_id":85784149,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":85784149,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860582,
+    "wof:name":"Taman Pulau Melaka",
+    "wof:parent_id":102023085,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.251523,
+    2.178795,
+    102.251523,
+    2.178795
+],
+  "geometry": {"coordinates":[102.25152300000001,2.178795],"type":"Point"}
+}

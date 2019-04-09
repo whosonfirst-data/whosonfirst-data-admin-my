@@ -1,0 +1,74 @@
+{
+  "id": 1259372595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.47395,5.44306,100.47395,5.44306",
+    "geom:latitude":5.44306,
+    "geom:longitude":100.47395,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Guar Petai",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1774215,
+    "gn:latitude":5.44306,
+    "gn:longitude":100.47395,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Guar Petai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Guak Petai"
+    ],
+    "name:msa_x_variant":[
+        "Guar Petai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890490327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1774215
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"63e140caf7d8e790ae65d1a322589b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490327,
+            "locality_id":1259372595,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1259372595,
+    "wof:lastmodified":1537674217,
+    "wof:name":"Guar Petai",
+    "wof:parent_id":890490327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.47395,
+    5.44306,
+    100.47395,
+    5.44306
+],
+  "geometry": {"coordinates":[100.47395,5.44306],"type":"Point"}
+}

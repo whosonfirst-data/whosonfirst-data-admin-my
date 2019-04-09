@@ -1,0 +1,73 @@
+{
+  "id": 1327027465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3237,3.7335,103.3237,3.7335",
+    "geom:latitude":3.7335,
+    "geom:longitude":103.3237,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Ru Bongkok",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735171,
+    "gn:latitude":3.7335,
+    "gn:longitude":103.3237,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ru Bongkok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ru Bongkok"
+    ],
+    "name:und_x_variant":[
+        "Kanpung Ru Bongkok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735171
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dea997832459e9fdacb7f15db10015ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":1327027465,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1327027465,
+    "wof:lastmodified":1537673718,
+    "wof:name":"Kampung Ru Bongkok",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3237,
+    3.7335,
+    103.3237,
+    3.7335
+],
+  "geometry": {"coordinates":[103.3237,3.7335],"type":"Point"}
+}

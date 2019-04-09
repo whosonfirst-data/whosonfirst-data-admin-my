@@ -1,0 +1,70 @@
+{
+  "id": 1260163113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.0796,6.7018,117.0796,6.7018",
+    "geom:latitude":6.7018,
+    "geom:longitude":117.0796,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Kabatasan",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416309,
+    "gn:latitude":6.7018,
+    "gn:longitude":117.0796,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kabatasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kabatasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416309
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"15a5bc402ffbf48923dad0fee53968ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1260163113,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1260163113,
+    "wof:lastmodified":1537674281,
+    "wof:name":"Kampung Kabatasan",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.0796,
+    6.7018,
+    117.0796,
+    6.7018
+],
+  "geometry": {"coordinates":[117.0796,6.7018],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310679327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.35944,1.56056,110.35944,1.56056",
+    "geom:latitude":1.56056,
+    "geom:longitude":110.35944,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kampung Panglima Seman Lama",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1903348,
+    "gn:latitude":1.56056,
+    "gn:longitude":110.35944,
+    "gn:modification_date":"1997-12-22",
+    "gn:name":"Kampung Panglima Seman Lama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1903348
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b07bbedd8f86815cc4102e2c8242ae1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1310679327,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1310679327,
+    "wof:lastmodified":1536666215,
+    "wof:name":"Kampung Panglima Seman Lama",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.35944,
+    1.56056,
+    110.35944,
+    1.56056
+],
+  "geometry": {"coordinates":[110.35944000000001,1.56056],"type":"Point"}
+}

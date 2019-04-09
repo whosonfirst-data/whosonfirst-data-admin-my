@@ -1,0 +1,79 @@
+{
+  "id": 890489071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.999206,1.454416,103.999206,1.454416",
+    "geom:latitude":1.454416,
+    "geom:longitude":103.999206,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Tanjung Langsat"
+    ],
+    "name:eng_x_preferred":[
+        "Tanjung Langsat"
+    ],
+    "name:may_x_preferred":[
+        "Tanjung Langsat"
+    ],
+    "qs:name":"Tanjung Langsat",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1154316,
+        "qs:id":479191,
+        "wd:id":"Q7683420",
+        "wk:page":"Tanjung Langsat"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054743,
+    "wof:geomhash":"46be06302d98fb02b2ea5f6cbd879666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":890489071,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890489071,
+    "wof:lastmodified":1527792862,
+    "wof:name":"Tanjung Langsat",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.999206,
+    1.454416,
+    103.999206,
+    1.454416
+],
+  "geometry": {"coordinates":[103.999206,1.454416],"type":"Point"}
+}

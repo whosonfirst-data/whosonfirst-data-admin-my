@@ -1,0 +1,105 @@
+{
+  "id": 85784353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17029622.296497,
+    "geom:bbox":"102.30213,2.279983,102.30213,2.279983",
+    "geom:latitude":2.279983,
+    "geom:longitude":102.30213,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":2.279983,
+    "lbl:longitude":102.30213,
+    "mps:latitude":2.278212,
+    "mps:longitude":102.298454,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:und_x_preferred":[
+        "Taman Ekspo Melaka"
+    ],
+    "name:unk_x_variant":[
+        "Taman Ekspo Melaka"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":301,
+    "qs:local_sum":301,
+    "qs:localhoods":1,
+    "qs:name":"Taman Ekspo Melaka",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:name_adm2":"Melaka Tengah",
+    "qs:name_lau":"Bukit Baru",
+    "qs:name_local":"Bukit Baru",
+    "qs:photo_max":149,
+    "qs:photo_sum":301,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346299,
+    "qs:woe_adm2":56013576,
+    "qs:woe_lau":56013935,
+    "qs:woe_local":56013935,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023085,
+        890489715,
+        85675151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56035667,
+        "qs:id":1090988,
+        "qs_pg:id":1090988
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bc9924e5881bfe8b81bf3119b1257c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":102023085,
+            "neighbourhood_id":85784353,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":85784353,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860597,
+    "wof:name":"Taman Ekspo Melaka",
+    "wof:parent_id":102023085,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.30213,
+    2.279983,
+    102.30213,
+    2.279983
+],
+  "geometry": {"coordinates":[102.30213000000001,2.279983],"type":"Point"}
+}

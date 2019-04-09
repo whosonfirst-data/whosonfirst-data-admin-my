@@ -1,0 +1,67 @@
+{
+  "id": 1225953141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35,6.28333,100.35,6.28333",
+    "geom:latitude":6.28333,
+    "geom:longitude":100.35,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Gelong Rambai",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769370,
+    "gn:latitude":6.28333,
+    "gn:longitude":100.35,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Gelong Rambai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769370
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"789e9d57a6582b63f96d3ba9f7ec6510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1225953141,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1225953141,
+    "wof:lastmodified":1536857280,
+    "wof:name":"Kampong Gelong Rambai",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35,
+    6.28333,
+    100.35,
+    6.28333
+],
+  "geometry": {"coordinates":[100.34999999999999,6.28333],"type":"Point"}
+}

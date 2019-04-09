@@ -1,0 +1,73 @@
+{
+  "id": 1260077991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3216,2.8998,103.3216,2.8998",
+    "geom:latitude":2.8998,
+    "geom:longitude":103.3216,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Pulau Macang",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765260,
+    "gn:latitude":2.8998,
+    "gn:longitude":103.3216,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pulau Macang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pulau Macang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pulau Machang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765260
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ead65de2a22f68c7740099ef9b250f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1260077991,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1260077991,
+    "wof:lastmodified":1537673946,
+    "wof:name":"Kampung Pulau Macang",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3216,
+    2.8998,
+    103.3216,
+    2.8998
+],
+  "geometry": {"coordinates":[103.3216,2.8998],"type":"Point"}
+}

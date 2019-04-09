@@ -1,0 +1,65 @@
+{
+  "id": 1343334189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.65028,4.41509,118.65028,4.41509",
+    "geom:latitude":4.41509,
+    "geom:longitude":118.65028,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tongkalloh",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762485,
+    "gn:latitude":4.41509,
+    "gn:longitude":118.65028,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tongkalloh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Tong Kallok",
+        "Kampung Tongkalloh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762485
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"446cbf30a8631ca0ff20e09247240ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343334189,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343334189,
+    "wof:lastmodified":1537673818,
+    "wof:name":"Kampung Tongkalloh",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.65028,
+    4.41509,
+    118.65028,
+    4.41509
+],
+  "geometry": {"coordinates":[118.65028,4.41509],"type":"Point"}
+}

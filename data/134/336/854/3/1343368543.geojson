@@ -1,0 +1,70 @@
+{
+  "id": 1343368543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3466,2.0515,103.3466,2.0515",
+    "geom:latitude":2.0515,
+    "geom:longitude":103.3466,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Matahari",
+    "gn:country_code":"MY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7614293,
+    "gn:latitude":2.0515,
+    "gn:longitude":103.3466,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Matahari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Matahari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7614293
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7310ef7c25c9cc456380b7588f1adca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1343368543,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1343368543,
+    "wof:lastmodified":1537674331,
+    "wof:name":"Taman Matahari",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3466,
+    2.0515,
+    103.3466,
+    2.0515
+],
+  "geometry": {"coordinates":[103.3466,2.0515],"type":"Point"}
+}

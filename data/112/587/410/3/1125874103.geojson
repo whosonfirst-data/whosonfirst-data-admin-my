@@ -1,0 +1,111 @@
+{
+  "id": 1125874103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.6891,4.3775,100.6891,4.3775",
+    "geom:latitude":4.3775,
+    "geom:longitude":100.6891,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":4.3775,
+    "lbl:longitude":100.6891,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Changkat Keruing"
+    ],
+    "name:eng_x_preferred":[
+        "Changkat Keruing"
+    ],
+    "name:fre_x_preferred":[
+        "Changkat Keruing"
+    ],
+    "name:ger_x_preferred":[
+        "Changkat Keruing"
+    ],
+    "name:ind_x_preferred":[
+        "Changkat Keruing"
+    ],
+    "name:may_x_preferred":[
+        "Changkat Keruing"
+    ],
+    "name:msa_x_preferred":[
+        "Kampung Cangkat Keruing"
+    ],
+    "name:unk_x_variant":[
+        "Changkat Kruing"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1769948,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kampong Changkat Keruing",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Perak",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":136202,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1143078,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Perak",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        1108696459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769948,
+        "gp:id":1143078,
+        "qs_pg:id":136202,
+        "wd:id":"Q5072066"
+    },
+    "wof:country":"MY",
+    "wof:created":1497294450,
+    "wof:geomhash":"85a1f596a5202d443280275618760c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696459,
+            "locality_id":1125874103,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1125874103,
+    "wof:lastmodified":1514490516,
+    "wof:name":"Kampong Changkat Keruing",
+    "wof:parent_id":1108696459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.6891,
+    4.3775,
+    100.6891,
+    4.3775
+],
+  "geometry": {"coordinates":[100.6891,4.3775],"type":"Point"}
+}

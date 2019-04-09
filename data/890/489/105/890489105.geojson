@@ -1,0 +1,66 @@
+{
+  "id": 890489105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.62785,4.309994,118.62785,4.309994",
+    "geom:latitude":4.309994,
+    "geom:longitude":118.62785,
+    "gn:country":"MY",
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Division Tawau",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sabah",
+    "qs:photos":7078,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":39,
+    "qs:photos_9r":15,
+    "qs:photos_all":8731,
+    "qs:photos_sr":25,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013566,
+        "qs:id":509158,
+        "wd:id":"Q4329280",
+        "wk:page":"Divisions of Malaysia"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054744,
+    "wof:geomhash":"6d97ccb9aadeaab76204593c1bd8ea5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "county_id":890489105
+        }
+    ],
+    "wof:id":890489105,
+    "wof:lastmodified":1527792861,
+    "wof:name":"Division Tawau",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.62785,
+    4.309994,
+    118.62785,
+    4.309994
+],
+  "geometry": {"coordinates":[118.62785,4.309994],"type":"Point"}
+}

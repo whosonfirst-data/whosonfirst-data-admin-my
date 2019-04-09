@@ -1,0 +1,64 @@
+{
+  "id": 1209519611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7204,2.7605,102.7204,2.7605",
+    "geom:latitude":2.7605,
+    "geom:longitude":102.7204,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tanjung Lubok Paku",
+    "gn:country_code":"MY",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797158,
+    "gn:latitude":2.7605,
+    "gn:longitude":102.7204,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tanjung Lubok Paku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Tanjung Lubok Paku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797158
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8dddfb06b1def25b797f191c6c300fc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209519611
+        }
+    ],
+    "wof:id":1209519611,
+    "wof:lastmodified":1537674415,
+    "wof:name":"Tanjung Lubok Paku",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7204,
+    2.7605,
+    102.7204,
+    2.7605
+],
+  "geometry": {"coordinates":[102.7204,2.7605],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360299453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.13333,1.53333,104.13333,1.53333",
+    "geom:latitude":1.53333,
+    "geom:longitude":104.13333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tembereh Baharu",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1740499,
+    "gn:latitude":1.53333,
+    "gn:longitude":104.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tembereh Baharu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tembereh Bahru",
+        "Tembereh Baharu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1740499
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6da63138a653ce5c36830cc69709fe19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":1360299453,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1360299453,
+    "wof:lastmodified":1537673758,
+    "wof:name":"Tembereh Baharu",
+    "wof:parent_id":890491003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.13333,
+    1.53333,
+    104.13333,
+    1.53333
+],
+  "geometry": {"coordinates":[104.13333,1.53333],"type":"Point"}
+}

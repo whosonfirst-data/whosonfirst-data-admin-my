@@ -1,0 +1,71 @@
+{
+  "id": 1360092587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.90594,5.48072,101.90594,5.48072",
+    "geom:latitude":5.48072,
+    "geom:longitude":101.90594,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Jerimbong",
+    "gn:country_code":"MY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734349,
+    "gn:latitude":5.48072,
+    "gn:longitude":101.90594,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kampung Jerimbong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Jerimbong",
+        "Kampung Jerimbong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734349
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1c86ed10963c8df3e0f7c6e5c90e28ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490101,
+            "locality_id":1360092587,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1360092587,
+    "wof:lastmodified":1537673703,
+    "wof:name":"Kampung Jerimbong",
+    "wof:parent_id":890490101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.90594,
+    5.48072,
+    101.90594,
+    5.48072
+],
+  "geometry": {"coordinates":[101.90594,5.48072],"type":"Point"}
+}

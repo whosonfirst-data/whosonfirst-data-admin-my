@@ -1,0 +1,67 @@
+{
+  "id": 1259402611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.18333,6.46667,100.18333,6.46667",
+    "geom:latitude":6.46667,
+    "geom:longitude":100.18333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Nisam",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736094,
+    "gn:latitude":6.46667,
+    "gn:longitude":100.18333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampung Nisam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736094
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c55533ba595a38c6314a7dd3f713d778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1259402611,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1259402611,
+    "wof:lastmodified":1536974431,
+    "wof:name":"Kampung Nisam",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.18333,
+    6.46667,
+    100.18333,
+    6.46667
+],
+  "geometry": {"coordinates":[100.18333,6.46667],"type":"Point"}
+}

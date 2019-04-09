@@ -1,0 +1,64 @@
+{
+  "id": 1209524307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35355,5.976,100.35355,5.976",
+    "geom:latitude":5.976,
+    "geom:longitude":100.35355,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sala",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807199,
+    "gn:latitude":5.976,
+    "gn:longitude":100.35355,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Sala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807199
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2676b455cd44f813d3e5f1d9a8f92c0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209524307
+        }
+    ],
+    "wof:id":1209524307,
+    "wof:lastmodified":1537674239,
+    "wof:name":"Sala",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35355,
+    5.976,
+    100.35355,
+    5.976
+],
+  "geometry": {"coordinates":[100.35355,5.976],"type":"Point"}
+}

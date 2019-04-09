@@ -1,0 +1,70 @@
+{
+  "id": 1310613891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38672,6.38597,100.38672,6.38597",
+    "geom:latitude":6.38597,
+    "geom:longitude":100.38672,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Guar Napai",
+    "gn:country_code":"MY",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807508,
+    "gn:latitude":6.38597,
+    "gn:longitude":100.38672,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Guar Napai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Guar Napai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807508
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"42beed7fcdaa4fe3a8fad2b178b719a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1310613891,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310613891,
+    "wof:lastmodified":1537674241,
+    "wof:name":"Guar Napai",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38672,
+    6.38597,
+    100.38672,
+    6.38597
+],
+  "geometry": {"coordinates":[100.38672,6.38597],"type":"Point"}
+}

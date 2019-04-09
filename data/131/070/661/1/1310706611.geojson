@@ -1,0 +1,73 @@
+{
+  "id": 1310706611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9324,2.8723,101.9324,2.8723",
+    "geom:latitude":2.8723,
+    "geom:longitude":101.9324,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Sungai Machang Ulu",
+    "gn:country_code":"MY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763933,
+    "gn:latitude":2.8723,
+    "gn:longitude":101.9324,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Machang Ulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Machang Ulu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Machang Ulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763933
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"01324fdbaa0dca2a5f7ee88f470cf247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1310706611,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1310706611,
+    "wof:lastmodified":1537673884,
+    "wof:name":"Kampung Sungai Machang Ulu",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9324,
+    2.8723,
+    101.9324,
+    2.8723
+],
+  "geometry": {"coordinates":[101.9324,2.8723],"type":"Point"}
+}

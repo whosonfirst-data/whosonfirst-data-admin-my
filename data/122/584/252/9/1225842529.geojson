@@ -1,0 +1,70 @@
+{
+  "id": 1225842529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7428,3.4882,102.7428,3.4882",
+    "geom:latitude":3.4882,
+    "geom:longitude":102.7428,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Lubuk Gemuruh",
+    "gn:country_code":"MY",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7849347,
+    "gn:latitude":3.4882,
+    "gn:longitude":102.7428,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Lubuk Gemuruh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lubuk Gemuruh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849347
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c2ebb078e07bf36ed602636dcd2679c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1225842529,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1225842529,
+    "wof:lastmodified":1537674431,
+    "wof:name":"Kampung Lubuk Gemuruh",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7428,
+    3.4882,
+    102.7428,
+    3.4882
+],
+  "geometry": {"coordinates":[102.7428,3.4882],"type":"Point"}
+}

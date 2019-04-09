@@ -1,0 +1,67 @@
+{
+  "id": 1343642757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.38333,2.08333,111.38333,2.08333",
+    "geom:latitude":2.08333,
+    "geom:longitude":111.38333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Gara",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747975,
+    "gn:latitude":2.08333,
+    "gn:longitude":111.38333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Gara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747975
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e6b2f32d05166288b512bbc1d7162363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488261,
+            "locality_id":1343642757,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1343642757,
+    "wof:lastmodified":1536979977,
+    "wof:name":"Rumah Gara",
+    "wof:parent_id":890488261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.38333,
+    2.08333,
+    111.38333,
+    2.08333
+],
+  "geometry": {"coordinates":[111.38333,2.08333],"type":"Point"}
+}

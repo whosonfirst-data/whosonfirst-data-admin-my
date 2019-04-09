@@ -1,0 +1,155 @@
+{
+  "id": 1125963799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.4,3.0,101.4,3.0",
+    "geom:latitude":3.0,
+    "geom:longitude":101.4,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":20000,
+    "iso:country":"MY",
+    "lbl:latitude":3.0,
+    "lbl:longitude":101.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0646\u0627\u0621 \u0643\u0644\u0627\u063a"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u751f\u6e2f"
+    ],
+    "name:dut_x_preferred":[
+        "Port Klang"
+    ],
+    "name:eng_x_preferred":[
+        "Port Klang"
+    ],
+    "name:fin_x_preferred":[
+        "Port Klang"
+    ],
+    "name:fre_x_preferred":[
+        "Port Klang"
+    ],
+    "name:ger_x_preferred":[
+        "Port Klang"
+    ],
+    "name:hun_x_preferred":[
+        "Port Klang"
+    ],
+    "name:ind_x_preferred":[
+        "Pelabuhan Klang"
+    ],
+    "name:ita_x_preferred":[
+        "Port Klang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30f3\u6e2f"
+    ],
+    "name:lit_x_preferred":[
+        "Port Klangas"
+    ],
+    "name:may_x_preferred":[
+        "Pelabuhan Klang"
+    ],
+    "name:msa_x_preferred":[
+        "Pelabuhan Kelang"
+    ],
+    "name:msa_x_variant":[
+        "Pelabohan Klang",
+        "Pelabuhan Kelang Selatan",
+        "Pelabuhan Klang"
+    ],
+    "name:pol_x_preferred":[
+        "Port Klang"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041a\u043b\u0430\u043d\u0433"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e01\u0e25\u0e31\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Port Klang"
+    ],
+    "name:unk_x_variant":[
+        "Port Kalang"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1734769,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pelabuhan Kelang",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Selangor",
+    "qs_pg:photos":205,
+    "qs_pg:photos_1k":42,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":205,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":409635,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1152513,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Selangor",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734769,
+        "gp:id":1152513,
+        "qs_pg:id":409635,
+        "wd:id":"Q11155122"
+    },
+    "wof:country":"MY",
+    "wof:created":1497297897,
+    "wof:geomhash":"e460cfd30c9068ad2bc86da1047b3069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696415,
+            "locality_id":1125963799,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1125963799,
+    "wof:lastmodified":1514490659,
+    "wof:name":"Pelabuhan Kelang",
+    "wof:parent_id":1108696415,
+    "wof:placetype":"locality",
+    "wof:population":20000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.4,
+    3.0,
+    101.4,
+    3.0
+],
+  "geometry": {"coordinates":[101.40000000000001,3.0],"type":"Point"}
+}

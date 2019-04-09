@@ -1,0 +1,74 @@
+{
+  "id": 1293006675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1647,2.4045,102.1647,2.4045",
+    "geom:latitude":2.4045,
+    "geom:longitude":102.1647,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ayer Pa' Abas",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356588,
+    "gn:latitude":2.4045,
+    "gn:longitude":102.1647,
+    "gn:modification_date":"2018-04-12",
+    "gn:name":"Ayer Pa\u2019 Abas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ayer Pa\u2019 Abas"
+    ],
+    "name:und_x_variant":[
+        "Ayer Paabas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356588,
+        "wk:page":"Ayer_Paabas"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"69793300cfaf3b89fba0aac0fee1d5bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1293006675,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1293006675,
+    "wof:lastmodified":1537674454,
+    "wof:name":"Ayer Pa' Abas",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1647,
+    2.4045,
+    102.1647,
+    2.4045
+],
+  "geometry": {"coordinates":[102.1647,2.4045],"type":"Point"}
+}

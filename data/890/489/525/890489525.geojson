@@ -1,0 +1,67 @@
+{
+  "id": 890489525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.650475,3.561769,101.650475,3.561769",
+    "geom:latitude":3.561769,
+    "geom:longitude":101.650475,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Kuala Kubu Utama",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":14,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56036862,
+        "qs:id":1024505
+    },
+    "wof:country":"MY",
+    "wof:created":1469054760,
+    "wof:geomhash":"e17ae33660512d1457941e93f7c59a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":890489525,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890489525,
+    "wof:lastmodified":1500013491,
+    "wof:name":"Taman Kuala Kubu Utama",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.650475,
+    3.561769,
+    101.650475,
+    3.561769
+],
+  "geometry": {"coordinates":[101.650475,3.561769],"type":"Point"}
+}

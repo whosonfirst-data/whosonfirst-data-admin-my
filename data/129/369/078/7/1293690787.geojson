@@ -1,0 +1,70 @@
+{
+  "id": 1293690787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.9062,1.4972,103.9062,1.4972",
+    "geom:latitude":1.4972,
+    "geom:longitude":103.9062,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Nusa Damai",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7619754,
+    "gn:latitude":1.4972,
+    "gn:longitude":103.9062,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Nusa Damai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Nusa Damai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619754
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"32d3528b5884b0badee42021962574e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1293690787,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293690787,
+    "wof:lastmodified":1537674334,
+    "wof:name":"Taman Nusa Damai",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9062,
+    1.4972,
+    103.9062,
+    1.4972
+],
+  "geometry": {"coordinates":[103.9062,1.4972],"type":"Point"}
+}

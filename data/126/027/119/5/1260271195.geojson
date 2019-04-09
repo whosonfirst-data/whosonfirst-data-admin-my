@@ -1,0 +1,67 @@
+{
+  "id": 1260271195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.2131,1.18632,110.2131,1.18632",
+    "geom:latitude":1.18632,
+    "geom:longitude":110.2131,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Kambug",
+    "gn:country_code":"MY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768628,
+    "gn:latitude":1.18632,
+    "gn:longitude":110.2131,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kampong Kambug",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768628
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a11ba001e81a9eb7a15ce630b3b61e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1260271195,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1260271195,
+    "wof:lastmodified":1536728813,
+    "wof:name":"Kampong Kambug",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.2131,
+    1.18632,
+    110.2131,
+    1.18632
+],
+  "geometry": {"coordinates":[110.2131,1.18632],"type":"Point"}
+}

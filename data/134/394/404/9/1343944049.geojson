@@ -1,0 +1,67 @@
+{
+  "id": 1343944049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5367,5.80279,102.5367,5.80279",
+    "geom:latitude":5.80279,
+    "geom:longitude":102.5367,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampong Nangka",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766716,
+    "gn:latitude":5.80279,
+    "gn:longitude":102.5367,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Kampong Nangka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766716
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"028f34c76f6c646cd9777a3f3f726f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "locality_id":1343944049,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1343944049,
+    "wof:lastmodified":1537041993,
+    "wof:name":"Kampong Nangka",
+    "wof:parent_id":890488399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5367,
+    5.80279,
+    102.5367,
+    5.80279
+],
+  "geometry": {"coordinates":[102.5367,5.80279],"type":"Point"}
+}

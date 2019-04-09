@@ -1,0 +1,72 @@
+{
+  "id": 1344171833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.86667,4.6,100.86667,4.6",
+    "geom:latitude":4.6,
+    "geom:longitude":100.86667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Manung",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734571,
+    "gn:latitude":4.6,
+    "gn:longitude":100.86667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Manung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manong",
+        "Manung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734571
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3dfb3420799619b25053fb838cfd93b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":1344171833,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1344171833,
+    "wof:lastmodified":1537673707,
+    "wof:name":"Manung",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.86667,
+    4.6,
+    100.86667,
+    4.6
+],
+  "geometry": {"coordinates":[100.86667,4.6],"type":"Point"}
+}

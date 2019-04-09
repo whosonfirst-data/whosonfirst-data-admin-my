@@ -1,0 +1,70 @@
+{
+  "id": 1243185319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.55318,6.10444,100.55318,6.10444",
+    "geom:latitude":6.10444,
+    "geom:longitude":100.55318,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Huma Besar",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6853442,
+    "gn:latitude":6.10444,
+    "gn:longitude":100.55318,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Huma Besar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Huma Besar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6853442
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f989701966a559dd91cc81f9fc8509a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489109,
+            "locality_id":1243185319,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1243185319,
+    "wof:lastmodified":1537674258,
+    "wof:name":"Kampung Huma Besar",
+    "wof:parent_id":890489109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.55318,
+    6.10444,
+    100.55318,
+    6.10444
+],
+  "geometry": {"coordinates":[100.55318,6.10444],"type":"Point"}
+}

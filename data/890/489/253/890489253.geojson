@@ -1,0 +1,78 @@
+{
+  "id": 890489253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9295,2.6926,101.9295,2.6926",
+    "geom:latitude":2.6926,
+    "geom:longitude":101.9295,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Bukit Chendang"
+    ],
+    "qs:name":"Taman Bukit Senjuang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:photos":60,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":60,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675155,
+        102191569,
+        85632739,
+        102023155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797214,
+        "gp:id":56037457,
+        "qs:id":981523
+    },
+    "wof:country":"MY",
+    "wof:created":1469054750,
+    "wof:geomhash":"acc22526595e5d58938b79b4e3c15ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":102023155,
+            "neighbourhood_id":890489253,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":890489253,
+    "wof:lastmodified":1505343785,
+    "wof:name":"Taman Bukit Senjuang",
+    "wof:parent_id":102023155,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9295,
+    2.6926,
+    101.9295,
+    2.6926
+],
+  "geometry": {"coordinates":[101.9295,2.6926],"type":"Point"}
+}

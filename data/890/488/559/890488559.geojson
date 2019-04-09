@@ -1,0 +1,67 @@
+{
+  "id": 890488559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.419721,4.231443,103.419721,4.231443",
+    "geom:latitude":4.231443,
+    "geom:longitude":103.419721,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Cukai",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Terengganu",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":249,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013754,
+        "qs:id":1313664
+    },
+    "wof:country":"MY",
+    "wof:created":1469054724,
+    "wof:geomhash":"04c3457e2909a1b55debaa68aa467ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "localadmin_id":890488559,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":890488559,
+    "wof:lastmodified":1500013519,
+    "wof:name":"Cukai",
+    "wof:parent_id":890490801,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.419721,
+    4.231443,
+    103.419721,
+    4.231443
+],
+  "geometry": {"coordinates":[103.419721,4.231443],"type":"Point"}
+}

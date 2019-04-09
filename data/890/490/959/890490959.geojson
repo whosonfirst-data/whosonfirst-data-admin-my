@@ -1,0 +1,70 @@
+{
+  "id": 890490959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.951437,4.7635585,100.951437,4.7635585",
+    "geom:latitude":4.763559,
+    "geom:longitude":100.951437,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Sayong",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos":36,
+    "qs:photos_1k":7,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":866,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013836,
+        "qs:id":242230,
+        "wd:id":"Q427609",
+        "wk:page":"Sayong"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054834,
+    "wof:geomhash":"e517d46e0201acfab5cbe974b304c1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "localadmin_id":890490959,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890490959,
+    "wof:lastmodified":1527734157,
+    "wof:name":"Sayong",
+    "wof:parent_id":890489077,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.951437,
+    4.7635585,
+    100.951437,
+    4.7635585
+],
+  "geometry": {"coordinates":[100.951437,4.7635585],"type":"Point"}
+}

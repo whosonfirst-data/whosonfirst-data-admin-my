@@ -1,0 +1,74 @@
+{
+  "id": 1327116667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1809,5.8103,116.1809,5.8103",
+    "geom:latitude":5.8103,
+    "geom:longitude":116.1809,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Terian",
+    "gn:country_code":"MY",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733447,
+    "gn:latitude":5.8103,
+    "gn:longitude":116.1809,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Terian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Terian"
+    ],
+    "name:und_x_variant":[
+        "Kampong Terian",
+        "Terian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733447
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"11cc883304c01a8c8afa220e27fb7087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1327116667,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327116667,
+    "wof:lastmodified":1537673680,
+    "wof:name":"Kampung Terian",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1809,
+    5.8103,
+    116.1809,
+    5.8103
+],
+  "geometry": {"coordinates":[116.18089999999999,5.8103],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259498045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.71667,1.9,112.71667,1.9",
+    "geom:latitude":1.9,
+    "geom:longitude":112.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rumah Jugat",
+    "gn:country_code":"MY",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1737338,
+    "gn:latitude":1.9,
+    "gn:longitude":112.71667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Jugat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1737338
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8107434e7cd0c6372ecf8cc93597e065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696521,
+            "locality_id":1259498045,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1259498045,
+    "wof:lastmodified":1536836774,
+    "wof:name":"Rumah Jugat",
+    "wof:parent_id":1108696521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.71667,
+    1.9,
+    112.71667,
+    1.9
+],
+  "geometry": {"coordinates":[112.71666999999999,1.9],"type":"Point"}
+}

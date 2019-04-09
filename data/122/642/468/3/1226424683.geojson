@@ -1,0 +1,74 @@
+{
+  "id": 1226424683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1225,5.352,116.1225,5.352",
+    "geom:latitude":5.352,
+    "geom:longitude":116.1225,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Agudon",
+    "gn:country_code":"MY",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734095,
+    "gn:latitude":5.352,
+    "gn:longitude":116.1225,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Agudon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Agudon"
+    ],
+    "name:und_x_variant":[
+        "Augodun",
+        "Agodun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734095
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"367f75b41ace03117a57d4096c3607cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1226424683,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226424683,
+    "wof:lastmodified":1537673698,
+    "wof:name":"Kampung Agudon",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1225,
+    5.352,
+    116.1225,
+    5.352
+],
+  "geometry": {"coordinates":[116.1225,5.352],"type":"Point"}
+}

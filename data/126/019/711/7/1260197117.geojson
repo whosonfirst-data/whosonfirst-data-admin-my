@@ -1,0 +1,74 @@
+{
+  "id": 1260197117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8209,2.5799,102.8209,2.5799",
+    "geom:latitude":2.5799,
+    "geom:longitude":102.8209,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Gelang Chinchin",
+    "gn:country_code":"MY",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769388,
+    "gn:latitude":2.5799,
+    "gn:longitude":102.8209,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Gelang Chinchin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gelang Chinchin"
+    ],
+    "name:und_x_variant":[
+        "Kampong Gelang Chinchen",
+        "Kampong Gelang Chinchin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769388
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d3b4966f0955acf01eb0c170b30730aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1260197117,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1260197117,
+    "wof:lastmodified":1537674116,
+    "wof:name":"Kampung Gelang Chinchin",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8209,
+    2.5799,
+    102.8209,
+    2.5799
+],
+  "geometry": {"coordinates":[102.82089999999999,2.5799],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293014395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8451,2.5117,102.8451,2.5117",
+    "geom:latitude":2.5117,
+    "geom:longitude":102.8451,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Mega",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698796,
+    "gn:latitude":2.5117,
+    "gn:longitude":102.8451,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Mega",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Mega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698796
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2685d9289f7b882aaadd427ed383e780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1293014395,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293014395,
+    "wof:lastmodified":1537674372,
+    "wof:name":"Taman Mega",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8451,
+    2.5117,
+    102.8451,
+    2.5117
+],
+  "geometry": {"coordinates":[102.8451,2.5117],"type":"Point"}
+}

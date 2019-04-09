@@ -1,0 +1,70 @@
+{
+  "id": 1243233367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5446,6.00536,116.5446,6.00536",
+    "geom:latitude":6.00536,
+    "geom:longitude":116.5446,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Polar Park",
+    "gn:country_code":"MY",
+    "gn:dem":1577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7468056,
+    "gn:latitude":6.00536,
+    "gn:longitude":116.5446,
+    "gn:modification_date":"2015-04-14",
+    "gn:name":"Polar Park",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Polar Park"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468056
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ead0933e0c858796ff228c7f54117cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":1243233367,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1243233367,
+    "wof:lastmodified":1537674296,
+    "wof:name":"Polar Park",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5446,
+    6.00536,
+    116.5446,
+    6.00536
+],
+  "geometry": {"coordinates":[116.5446,6.00536],"type":"Point"}
+}

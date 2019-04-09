@@ -1,0 +1,74 @@
+{
+  "id": 1310099921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.40957,5.40347,100.40957,5.40347",
+    "geom:latitude":5.40347,
+    "geom:longitude":100.40957,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kampung Bagan Serai",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6823190,
+    "gn:latitude":5.40347,
+    "gn:longitude":100.40957,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Bagan Serai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bagan Serai"
+    ],
+    "name:und_x_variant":[
+        "Bagan Serai",
+        "Kampong Bagan Serai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823190
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"629a0ab14d068547bf6a0e4deae80616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1310099921,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1310099921,
+    "wof:lastmodified":1537674252,
+    "wof:name":"Kampung Bagan Serai",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.40957,
+    5.40347,
+    100.40957,
+    5.40347
+],
+  "geometry": {"coordinates":[100.40957,5.40347],"type":"Point"}
+}

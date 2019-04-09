@@ -1,0 +1,74 @@
+{
+  "id": 1344165895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9165,5.68534,100.9165,5.68534",
+    "geom:latitude":5.68534,
+    "geom:longitude":100.9165,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Seberang Pekan",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764777,
+    "gn:latitude":5.68534,
+    "gn:longitude":100.9165,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Seberang Pekan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Seberang Pekan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Seberang Pekan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764777
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"10d9b86317a1d7e4ababb26da3841a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696379,
+            "locality_id":1344165895,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1344165895,
+    "wof:lastmodified":1537673925,
+    "wof:name":"Kampung Seberang Pekan",
+    "wof:parent_id":1108696379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9165,
+    5.68534,
+    100.9165,
+    5.68534
+],
+  "geometry": {"coordinates":[100.9165,5.68534],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226031175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1099,5.3118,103.1099,5.3118",
+    "geom:latitude":5.3118,
+    "geom:longitude":103.1099,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Wakaf Kembar",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355655,
+    "gn:latitude":5.3118,
+    "gn:longitude":103.1099,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Kampung Wakaf Kembar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Wakaf Kembar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355655
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"079203870a188d5e64065fb0b9c3b25e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1226031175,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1226031175,
+    "wof:lastmodified":1537674453,
+    "wof:name":"Kampung Wakaf Kembar",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1099,
+    5.3118,
+    103.1099,
+    5.3118
+],
+  "geometry": {"coordinates":[103.1099,5.3118],"type":"Point"}
+}

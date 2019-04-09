@@ -1,0 +1,70 @@
+{
+  "id": 1242844057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.7879,5.4648,115.7879,5.4648",
+    "geom:latitude":5.4648,
+    "geom:longitude":115.7879,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Tahal",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418710,
+    "gn:latitude":5.4648,
+    "gn:longitude":115.7879,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tahal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tahal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418710
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cc95271028416f75439530b578092133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696385,
+            "locality_id":1242844057,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1242844057,
+    "wof:lastmodified":1537674287,
+    "wof:name":"Kampung Tahal",
+    "wof:parent_id":1108696385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.7879,
+    5.4648,
+    115.7879,
+    5.4648
+],
+  "geometry": {"coordinates":[115.78789999999999,5.4648],"type":"Point"}
+}

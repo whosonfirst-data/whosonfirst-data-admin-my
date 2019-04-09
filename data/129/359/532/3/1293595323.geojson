@@ -1,0 +1,74 @@
+{
+  "id": 1293595323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1928,2.2898,102.1928,2.2898",
+    "geom:latitude":2.2898,
+    "geom:longitude":102.1928,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Bertam Ulu",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1779395,
+    "gn:latitude":2.2898,
+    "gn:longitude":102.1928,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bertam Ulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bertam Ulu"
+    ],
+    "name:und_x_variant":[
+        "Bertam Ulu Village",
+        "Bertam Ulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1779395
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"713481052054cc6ea70bdceae3b24c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":1293595323,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1293595323,
+    "wof:lastmodified":1537674221,
+    "wof:name":"Kampung Bertam Ulu",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1928,
+    2.2898,
+    102.1928,
+    2.2898
+],
+  "geometry": {"coordinates":[102.19280000000001,2.2898],"type":"Point"}
+}

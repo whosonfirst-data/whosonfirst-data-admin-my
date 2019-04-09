@@ -1,0 +1,70 @@
+{
+  "id": 1327434519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.74843,5.81557,100.74843,5.81557",
+    "geom:latitude":5.81557,
+    "geom:longitude":100.74843,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Charok Badong",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805009,
+    "gn:latitude":5.81557,
+    "gn:longitude":100.74843,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Charok Badong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Charok Badong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805009
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"35bad9e383ce2912f0d37e7a43c23524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696515,
+            "locality_id":1327434519,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1327434519,
+    "wof:lastmodified":1537674232,
+    "wof:name":"Charok Badong",
+    "wof:parent_id":1108696515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.74843,
+    5.81557,
+    100.74843,
+    5.81557
+],
+  "geometry": {"coordinates":[100.74843,5.81557],"type":"Point"}
+}

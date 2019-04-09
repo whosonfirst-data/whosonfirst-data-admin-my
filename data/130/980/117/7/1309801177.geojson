@@ -1,0 +1,70 @@
+{
+  "id": 1309801177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1219,3.4984,103.1219,3.4984",
+    "geom:latitude":3.4984,
+    "geom:longitude":103.1219,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Tengkur",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796328,
+    "gn:latitude":3.4984,
+    "gn:longitude":103.1219,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tengkur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tengkur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796328
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5bcfaab5b70ba9c17b21051392de40dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1309801177,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1309801177,
+    "wof:lastmodified":1537674403,
+    "wof:name":"Kampung Tengkur",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1219,
+    3.4984,
+    103.1219,
+    3.4984
+],
+  "geometry": {"coordinates":[103.1219,3.4984],"type":"Point"}
+}

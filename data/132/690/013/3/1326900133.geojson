@@ -1,0 +1,70 @@
+{
+  "id": 1326900133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.77022,6.93805,116.77022,6.93805",
+    "geom:latitude":6.93805,
+    "geom:longitude":116.77022,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Lau San",
+    "gn:country_code":"MY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7603921,
+    "gn:latitude":6.93805,
+    "gn:longitude":116.77022,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Kampung Lau San",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lau San"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7603921
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"284f07e3f87ec50315ef88fbe591fd7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1326900133,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1326900133,
+    "wof:lastmodified":1537674323,
+    "wof:name":"Kampung Lau San",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.77022,
+    6.93805,
+    116.77022,
+    6.93805
+],
+  "geometry": {"coordinates":[116.77021999999999,6.93805],"type":"Point"}
+}

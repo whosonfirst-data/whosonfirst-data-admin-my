@@ -1,0 +1,70 @@
+{
+  "id": 1310705009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.40828,5.97367,100.40828,5.97367",
+    "geom:latitude":5.97367,
+    "geom:longitude":100.40828,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Banggul Wan Awang",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807196,
+    "gn:latitude":5.97367,
+    "gn:longitude":100.40828,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Banggul Wan Awang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Banggul Wan Awang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807196
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"18882a8687482cccb43acbd8f1345990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1310705009,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310705009,
+    "wof:lastmodified":1537674239,
+    "wof:name":"Kampung Banggul Wan Awang",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.40828,
+    5.97367,
+    100.40828,
+    5.97367
+],
+  "geometry": {"coordinates":[100.40828,5.97367],"type":"Point"}
+}

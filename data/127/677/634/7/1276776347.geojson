@@ -1,0 +1,70 @@
+{
+  "id": 1276776347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38508,5.94927,100.38508,5.94927",
+    "geom:latitude":5.94927,
+    "geom:longitude":100.38508,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Alur Pudak",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804269,
+    "gn:latitude":5.94927,
+    "gn:longitude":100.38508,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Alur Pudak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Alur Pudak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804269
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3f52b49f616f437c2beb7f89585b9561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489701,
+            "locality_id":1276776347,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1276776347,
+    "wof:lastmodified":1537674230,
+    "wof:name":"Kampung Alur Pudak",
+    "wof:parent_id":890489701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38508,
+    5.94927,
+    100.38508,
+    5.94927
+],
+  "geometry": {"coordinates":[100.38508,5.94927],"type":"Point"}
+}

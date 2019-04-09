@@ -1,0 +1,70 @@
+{
+  "id": 1259892853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.41227,5.87109,100.41227,5.87109",
+    "geom:latitude":5.87109,
+    "geom:longitude":100.41227,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Ulu Sedaka",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804477,
+    "gn:latitude":5.87109,
+    "gn:longitude":100.41227,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Ulu Sedaka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ulu Sedaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804477
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7c5a83a6adcd7eefda5eed586e3a438b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489701,
+            "locality_id":1259892853,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1259892853,
+    "wof:lastmodified":1537674231,
+    "wof:name":"Kampung Ulu Sedaka",
+    "wof:parent_id":890489701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.41227,
+    5.87109,
+    100.41227,
+    5.87109
+],
+  "geometry": {"coordinates":[100.41227000000001,5.87109],"type":"Point"}
+}

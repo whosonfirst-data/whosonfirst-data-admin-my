@@ -1,0 +1,70 @@
+{
+  "id": 1310593677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3902,3.4076,102.3902,3.4076",
+    "geom:latitude":3.4076,
+    "geom:longitude":102.3902,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Tanjung Kelat",
+    "gn:country_code":"MY",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796058,
+    "gn:latitude":3.4076,
+    "gn:longitude":102.3902,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tanjung Kelat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Kelat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796058
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1ab44bc3493b666653022329476acfda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1310593677,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1310593677,
+    "wof:lastmodified":1537674400,
+    "wof:name":"Kampung Tanjung Kelat",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3902,
+    3.4076,
+    102.3902,
+    3.4076
+],
+  "geometry": {"coordinates":[102.39019999999999,3.4076],"type":"Point"}
+}

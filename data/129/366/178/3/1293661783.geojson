@@ -1,0 +1,70 @@
+{
+  "id": 1293661783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.0257,6.6318,117.0257,6.6318",
+    "geom:latitude":6.6318,
+    "geom:longitude":117.0257,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Bengkoka",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416330,
+    "gn:latitude":6.6318,
+    "gn:longitude":117.0257,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bengkoka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bengkoka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416330
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bb69f16641dfd2f5973a7ca913ef65fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1293661783,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293661783,
+    "wof:lastmodified":1537674282,
+    "wof:name":"Kampung Bengkoka",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.0257,
+    6.6318,
+    117.0257,
+    6.6318
+],
+  "geometry": {"coordinates":[117.0257,6.6318],"type":"Point"}
+}

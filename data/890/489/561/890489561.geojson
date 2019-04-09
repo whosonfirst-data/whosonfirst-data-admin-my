@@ -1,0 +1,74 @@
+{
+  "id": 890489561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9256,1.8333,102.9256,1.8333",
+    "geom:latitude":1.8333,
+    "geom:longitude":102.9256,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Petani"
+    ],
+    "qs:name":"Kampung Setanggi",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675141,
+        102191569,
+        85632739,
+        102022741,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857511,
+        "gp:id":56015314,
+        "qs:id":905364
+    },
+    "wof:country":"MY",
+    "wof:created":1469054761,
+    "wof:geomhash":"6bc8f1d7eb087913e43c9cc742befae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":102022741,
+            "neighbourhood_id":890489561,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890489561,
+    "wof:lastmodified":1505343786,
+    "wof:name":"Kampung Setanggi",
+    "wof:parent_id":102022741,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9256,
+    1.8333,
+    102.9256,
+    1.8333
+],
+  "geometry": {"coordinates":[102.9256,1.8333],"type":"Point"}
+}

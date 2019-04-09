@@ -1,0 +1,70 @@
+{
+  "id": 1327248903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7607,2.179,102.7607,2.179",
+    "geom:latitude":2.179,
+    "geom:longitude":102.7607,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Sungai Semeriut",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798423,
+    "gn:latitude":2.179,
+    "gn:longitude":102.7607,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sungai Semeriut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Semeriut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798423
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4e50d81b033daba2478e7e1f1cea2a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1327248903,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1327248903,
+    "wof:lastmodified":1537674431,
+    "wof:name":"Kampung Sungai Semeriut",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7607,
+    2.179,
+    102.7607,
+    2.179
+],
+  "geometry": {"coordinates":[102.7607,2.179],"type":"Point"}
+}

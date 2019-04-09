@@ -1,0 +1,70 @@
+{
+  "id": 1343731775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.9823,6.7062,116.9823,6.7062",
+    "geom:latitude":6.7062,
+    "geom:longitude":116.9823,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Unggans",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7458032,
+    "gn:latitude":6.7062,
+    "gn:longitude":116.9823,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Unggans",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Unggans"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7458032
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ba01dc45d8886036e1ff276a38bf58c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1343731775,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343731775,
+    "wof:lastmodified":1537674288,
+    "wof:name":"Unggans",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.9823,
+    6.7062,
+    116.9823,
+    6.7062
+],
+  "geometry": {"coordinates":[116.9823,6.7062],"type":"Point"}
+}

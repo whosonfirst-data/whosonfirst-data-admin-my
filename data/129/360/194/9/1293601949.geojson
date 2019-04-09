@@ -1,0 +1,74 @@
+{
+  "id": 1293601949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.43705,5.59325,100.43705,5.59325",
+    "geom:latitude":5.59325,
+    "geom:longitude":100.43705,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Berapit",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770590,
+    "gn:latitude":5.59325,
+    "gn:longitude":100.43705,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Berapit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Berapit"
+    ],
+    "name:und_x_variant":[
+        "Kampong Berapit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770590
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9af55f1fe1f52486f0678480d298e14e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "locality_id":1293601949,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1293601949,
+    "wof:lastmodified":1537674167,
+    "wof:name":"Kampung Berapit",
+    "wof:parent_id":890490355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.43705,
+    5.59325,
+    100.43705,
+    5.59325
+],
+  "geometry": {"coordinates":[100.43705,5.59325],"type":"Point"}
+}

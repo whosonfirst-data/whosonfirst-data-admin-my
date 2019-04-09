@@ -1,0 +1,70 @@
+{
+  "id": 1326618287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.45526,3.13688,114.45526,3.13688",
+    "geom:latitude":3.13688,
+    "geom:longitude":114.45526,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Long Bahleppau",
+    "gn:country_code":"MY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7467824,
+    "gn:latitude":3.13688,
+    "gn:longitude":114.45526,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Long Bahleppau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Long Bahleppau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7467824
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"288c00c0f8feaa3e581b97a891266e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696465,
+            "locality_id":1326618287,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1326618287,
+    "wof:lastmodified":1537674296,
+    "wof:name":"Long Bahleppau",
+    "wof:parent_id":1108696465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.45526,
+    3.13688,
+    114.45526,
+    3.13688
+],
+  "geometry": {"coordinates":[114.45526,3.13688],"type":"Point"}
+}

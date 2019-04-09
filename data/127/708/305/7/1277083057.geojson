@@ -1,0 +1,70 @@
+{
+  "id": 1277083057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.4727,5.69219,100.4727,5.69219",
+    "geom:latitude":5.69219,
+    "geom:longitude":100.4727,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Pengkalan",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847273,
+    "gn:latitude":5.69219,
+    "gn:longitude":100.4727,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Pengkalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pengkalan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847273
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4897cf7d3dd217ada8dc35333ac18931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "locality_id":1277083057,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1277083057,
+    "wof:lastmodified":1537674254,
+    "wof:name":"Kampung Pengkalan",
+    "wof:parent_id":890490355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.4727,
+    5.69219,
+    100.4727,
+    5.69219
+],
+  "geometry": {"coordinates":[100.4727,5.69219],"type":"Point"}
+}

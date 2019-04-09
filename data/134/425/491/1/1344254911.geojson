@@ -1,0 +1,74 @@
+{
+  "id": 1344254911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7987,3.9953,101.7987,3.9953",
+    "geom:latitude":3.9953,
+    "geom:longitude":101.7987,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Tersang Hulu",
+    "gn:country_code":"MY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762285,
+    "gn:latitude":3.9953,
+    "gn:longitude":101.7987,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tersang Hulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tersang Hulu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tersang Ulu",
+        "Kampong Ulu Tersang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762285
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"139ab1a71eb63920575e9b802ec07c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1344254911,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1344254911,
+    "wof:lastmodified":1537673808,
+    "wof:name":"Kampung Tersang Hulu",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7987,
+    3.9953,
+    101.7987,
+    3.9953
+],
+  "geometry": {"coordinates":[101.7987,3.9953],"type":"Point"}
+}

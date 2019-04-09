@@ -1,0 +1,73 @@
+{
+  "id": 1310086771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.57253,0.9259,110.57253,0.9259",
+    "geom:latitude":0.9259,
+    "geom:longitude":110.57253,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Mentu Tembawang",
+    "gn:country_code":"MY",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766877,
+    "gn:latitude":0.9259,
+    "gn:longitude":110.57253,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampong Mentu Tembawang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Mentu",
+        "Kampong Mintu Tembawang",
+        "Kampong Mentu Tembawang",
+        "Kampung Mentu Mawang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766877
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"67cae8e0744bceb14d2d953abe2c8137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696511,
+            "locality_id":1310086771,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1310086771,
+    "wof:lastmodified":1537674012,
+    "wof:name":"Kampong Mentu Tembawang",
+    "wof:parent_id":1108696511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.57253,
+    0.9259,
+    110.57253,
+    0.9259
+],
+  "geometry": {"coordinates":[110.57253,0.9259],"type":"Point"}
+}

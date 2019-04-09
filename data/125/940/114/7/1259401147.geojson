@@ -1,0 +1,67 @@
+{
+  "id": 1259401147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.05,5.88333,117.05,5.88333",
+    "geom:latitude":5.88333,
+    "geom:longitude":117.05,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Wasai",
+    "gn:country_code":"MY",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733536,
+    "gn:latitude":5.88333,
+    "gn:longitude":117.05,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Wasai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733536
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3091169a59e64c7906f52b7090b8458e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1259401147,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259401147,
+    "wof:lastmodified":1536976414,
+    "wof:name":"Wasai",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.05,
+    5.88333,
+    117.05,
+    5.88333
+],
+  "geometry": {"coordinates":[117.05,5.88333],"type":"Point"}
+}

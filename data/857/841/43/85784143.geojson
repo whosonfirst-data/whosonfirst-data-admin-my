@@ -1,0 +1,105 @@
+{
+  "id": 85784143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":1445085.471189,
+    "geom:bbox":"101.682588704,3.11720495413,101.697104027,3.1295462178",
+    "geom:latitude":3.122812,
+    "geom:longitude":101.690029,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.122243,
+    "lbl:longitude":101.687965,
+    "mps:latitude":3.122402,
+    "mps:longitude":101.690168,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:und_x_preferred":[
+        "Taman Persiaran Desa"
+    ],
+    "name:unk_x_variant":[
+        "Taman Persiaran Desa"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Taman Persiaran Desa",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Bandar Kuala Lumpur",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":269,
+    "qs:photo_sum":359,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56014567,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56016757,
+        "qs:id":891818,
+        "qs_pg:id":891818
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"460b1beae2512433ada288af95dcb354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85784143,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85784143,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269496,
+    "wof:name":"Taman Persiaran Desa",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.68258870399421,
+    3.11720495413012,
+    101.69710402688878,
+    3.12954621780005
+],
+  "geometry": {"coordinates":[[[101.69494628900009,3.12542634382591],[101.69540065195514,3.12406122445512],[101.69683583861399,3.12319883061646],[101.69710402688878,3.12131872599016],[101.69700724115302,3.12064021838167],[101.69700318388897,3.1206361551004],[101.69494628900009,3.11994950571426],[101.69494628900009,3.11857621678004],[101.6894531254045,3.11857621592925],[101.68808389484377,3.11720495413012],[101.68670654300024,3.11720495413012],[101.68395996100003,3.11720495413012],[101.68395793057823,3.11720495413012],[101.68258870399421,3.11857620962772],[101.68350151874057,3.12131872599016],[101.68293152059118,3.12303125876443],[101.68395996100008,3.12406123092399],[101.68670654300018,3.12406123050148],[101.68670654300018,3.12680372717834],[101.68945312500006,3.12680372721192],[101.68945312500006,3.12954621780005],[101.6921997070001,3.12954621780005],[101.69494628900009,3.12954621780005],[101.69494628900009,3.12542634382591]]],"type":"Polygon"}
+}

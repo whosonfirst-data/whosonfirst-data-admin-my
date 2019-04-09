@@ -1,0 +1,70 @@
+{
+  "id": 890488921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.81314,5.48953,100.81314,5.48953",
+    "geom:latitude":5.48953,
+    "geom:longitude":100.81314,
+    "gn:country":"MY",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:msa_x_preferred":[
+        "Bakai"
+    ],
+    "qs:name":"Bakai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857723,
+        "gp:id":56013571,
+        "qs:id":1039246,
+        "wd:id":"Q4848987",
+        "wk:page":"Bakai"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054737,
+    "wof:geomhash":"87e8f040f8f6ca0a7dce63b653e0bd30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488921,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":890488921,
+    "wof:lastmodified":1527787082,
+    "wof:name":"Bakai",
+    "wof:parent_id":85675133,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.81314,
+    5.48953,
+    100.81314,
+    5.48953
+],
+  "geometry": {"coordinates":[100.81314,5.48953],"type":"Point"}
+}

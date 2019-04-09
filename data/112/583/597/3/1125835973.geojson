@@ -1,0 +1,114 @@
+{
+  "id": 1125835973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.21414,5.76407,102.21414,5.76407",
+    "geom:latitude":5.76407,
+    "geom:longitude":102.21414,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":5.76407,
+    "lbl:longitude":102.21414,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u99ac\u6a1f"
+    ],
+    "name:dut_x_preferred":[
+        "Machang"
+    ],
+    "name:eng_x_preferred":[
+        "Machang"
+    ],
+    "name:ind_x_preferred":[
+        "Machang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c1\u30e3\u30f3"
+    ],
+    "name:may_x_preferred":[
+        "Machang"
+    ],
+    "name:msa_x_preferred":[
+        "Machang"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u0686\u0627\u0646\u06af"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0686\u0627\u0646\u06af\u060c \u06a9\u06cc\u0644\u0627\u0646\u0679\u0627\u0646"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1735558,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Macang",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Kelantan",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":19,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1072843,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1152085,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Kelantan",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735558,
+        "gp:id":1152085,
+        "qs_pg:id":1072843,
+        "wd:id":"Q6723423"
+    },
+    "wof:country":"MY",
+    "wof:created":1497292718,
+    "wof:geomhash":"e8a714e837ef146a35174b652b6c75d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696457,
+            "locality_id":1125835973,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1125835973,
+    "wof:lastmodified":1514490617,
+    "wof:name":"Macang",
+    "wof:parent_id":1108696457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.21414,
+    5.76407,
+    102.21414,
+    5.76407
+],
+  "geometry": {"coordinates":[102.21414,5.76407],"type":"Point"}
+}

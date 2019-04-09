@@ -1,0 +1,67 @@
+{
+  "id": 1209088517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4616,6.3444,116.4616,6.3444",
+    "geom:latitude":6.3444,
+    "geom:longitude":116.4616,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Tambulian Laut",
+    "gn:country_code":"MY",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763593,
+    "gn:latitude":6.3444,
+    "gn:longitude":116.4616,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Tambulian Laut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampong Tambulian Laut"
+    ],
+    "name:und_x_variant":[
+        "Tambulian Laut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763593
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c956473912e63531cc5f3ceeed7b61c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209088517
+        }
+    ],
+    "wof:id":1209088517,
+    "wof:lastmodified":1537673868,
+    "wof:name":"Kampong Tambulian Laut",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4616,
+    6.3444,
+    116.4616,
+    6.3444
+],
+  "geometry": {"coordinates":[116.4616,6.3444],"type":"Point"}
+}

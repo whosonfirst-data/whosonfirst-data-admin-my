@@ -1,0 +1,67 @@
+{
+  "id": 1209215287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4237,2.4283,102.4237,2.4283",
+    "geom:latitude":2.4283,
+    "geom:longitude":102.4237,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Ulu Jus",
+    "gn:country_code":"MY",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762357,
+    "gn:latitude":2.4283,
+    "gn:longitude":102.4237,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ulu Jus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ulu Jus"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ulu Jus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762357
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fdc00e75260708318214fdb320fbbc01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209215287
+        }
+    ],
+    "wof:id":1209215287,
+    "wof:lastmodified":1537673812,
+    "wof:name":"Kampung Ulu Jus",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4237,
+    2.4283,
+    102.4237,
+    2.4283
+],
+  "geometry": {"coordinates":[102.4237,2.4283],"type":"Point"}
+}

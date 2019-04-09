@@ -1,0 +1,70 @@
+{
+  "id": 1310103379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7217,3.5654,102.7217,3.5654",
+    "geom:latitude":3.5654,
+    "geom:longitude":102.7217,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Sentosa",
+    "gn:country_code":"MY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662015,
+    "gn:latitude":3.5654,
+    "gn:longitude":102.7217,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sentosa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sentosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662015
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1130b14a5ad1352e506b4c9c999de602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1310103379,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1310103379,
+    "wof:lastmodified":1537674354,
+    "wof:name":"Kampung Sentosa",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7217,
+    3.5654,
+    102.7217,
+    3.5654
+],
+  "geometry": {"coordinates":[102.7217,3.5654],"type":"Point"}
+}

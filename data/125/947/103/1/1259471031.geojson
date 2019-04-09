@@ -1,0 +1,70 @@
+{
+  "id": 1259471031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.73726,1.79913,109.73726,1.79913",
+    "geom:latitude":1.79913,
+    "geom:longitude":109.73726,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Sebat",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764808,
+    "gn:latitude":1.79913,
+    "gn:longitude":109.73726,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Kampong Sebat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampung Sebat Melayu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764808
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d895edfca483e77d55d7a48ba90634a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696453,
+            "locality_id":1259471031,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1259471031,
+    "wof:lastmodified":1537673926,
+    "wof:name":"Kampong Sebat",
+    "wof:parent_id":1108696453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.73726,
+    1.79913,
+    109.73726,
+    1.79913
+],
+  "geometry": {"coordinates":[109.73726000000001,1.79913],"type":"Point"}
+}

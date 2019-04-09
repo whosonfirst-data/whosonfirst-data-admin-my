@@ -1,0 +1,73 @@
+{
+  "id": 1276251259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2865,4.0807,102.2865,4.0807",
+    "geom:latitude":4.0807,
+    "geom:longitude":102.2865,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Serdang",
+    "gn:country_code":"MY",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764507,
+    "gn:latitude":4.0807,
+    "gn:longitude":102.2865,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Serdang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Serdang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Serdang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764507
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e6d62f84bffa174fbf254f88f00f75fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1276251259,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276251259,
+    "wof:lastmodified":1537673912,
+    "wof:name":"Kampung Serdang",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2865,
+    4.0807,
+    102.2865,
+    4.0807
+],
+  "geometry": {"coordinates":[102.2865,4.0807],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226124637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.7943,6.5247,116.7943,6.5247",
+    "geom:latitude":6.5247,
+    "geom:longitude":116.7943,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Mangkupa",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7458548,
+    "gn:latitude":6.5247,
+    "gn:longitude":116.7943,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Mangkupa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mangkupa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7458548
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"21140ef763a2215a9ec86898097c18e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696425,
+            "locality_id":1226124637,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226124637,
+    "wof:lastmodified":1537674289,
+    "wof:name":"Kampung Mangkupa",
+    "wof:parent_id":1108696425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.7943,
+    6.5247,
+    116.7943,
+    6.5247
+],
+  "geometry": {"coordinates":[116.79430000000001,6.5247],"type":"Point"}
+}

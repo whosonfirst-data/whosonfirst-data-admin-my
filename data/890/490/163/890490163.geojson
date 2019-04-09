@@ -1,0 +1,78 @@
+{
+  "id": 890490163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8135,1.5149,103.8135,1.5149",
+    "geom:latitude":1.5149,
+    "geom:longitude":103.8135,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Tengkorak"
+    ],
+    "qs:name":"Kampong Sungai Tengkorak",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":177,
+    "qs:photos_1k":36,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":177,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675141,
+        102191569,
+        85632739,
+        102022781,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763758,
+        "gp:id":1149282,
+        "qs:id":1167921
+    },
+    "wof:country":"MY",
+    "wof:created":1469054793,
+    "wof:geomhash":"191b6ce511b15b45cd00d9f129a47aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":102022781,
+            "neighbourhood_id":890490163,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890490163,
+    "wof:lastmodified":1505343787,
+    "wof:name":"Kampong Sungai Tengkorak",
+    "wof:parent_id":102022781,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8135,
+    1.5149,
+    103.8135,
+    1.5149
+],
+  "geometry": {"coordinates":[103.8135,1.5149],"type":"Point"}
+}

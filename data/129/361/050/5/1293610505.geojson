@@ -1,0 +1,74 @@
+{
+  "id": 1293610505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1715,4.0453,101.1715,4.0453",
+    "geom:latitude":4.0453,
+    "geom:longitude":101.1715,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Chui Chak",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769741,
+    "gn:latitude":4.0453,
+    "gn:longitude":101.1715,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Chui Chak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Chui Chak"
+    ],
+    "name:und_x_variant":[
+        "Chui Chok",
+        "Kampong Chui Chok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769741
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ba8d62b16df15aaf9da8af3cb0918bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1293610505,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1293610505,
+    "wof:lastmodified":1537674132,
+    "wof:name":"Kampung Chui Chak",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1715,
+    4.0453,
+    101.1715,
+    4.0453
+],
+  "geometry": {"coordinates":[101.17149999999999,4.0453],"type":"Point"}
+}

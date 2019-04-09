@@ -1,0 +1,70 @@
+{
+  "id": 1243374911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8906,5.5001,101.8906,5.5001",
+    "geom:latitude":5.5001,
+    "geom:longitude":101.8906,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Bukit Selar",
+    "gn:country_code":"MY",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068055,
+    "gn:latitude":5.5001,
+    "gn:longitude":101.8906,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Bukit Selar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Selar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068055
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"94d1aec590af5c6a073ab064d4759848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490101,
+            "locality_id":1243374911,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1243374911,
+    "wof:lastmodified":1537674277,
+    "wof:name":"Kampung Bukit Selar",
+    "wof:parent_id":890490101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8906,
+    5.5001,
+    101.8906,
+    5.5001
+],
+  "geometry": {"coordinates":[101.89060000000001,5.5001],"type":"Point"}
+}

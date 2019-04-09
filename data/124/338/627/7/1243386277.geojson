@@ -1,0 +1,73 @@
+{
+  "id": 1243386277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8865,2.8217,101.8865,2.8217",
+    "geom:latitude":2.8217,
+    "geom:longitude":101.8865,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Bahru Che' Lah",
+    "gn:country_code":"MY",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771299,
+    "gn:latitude":2.8217,
+    "gn:longitude":101.8865,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bahru Che\u2019 Lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bahru Che\u2019 Lah"
+    ],
+    "name:und_x_variant":[
+        "Kampong Baharu Che Lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771299
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4fd07ac8d39fa88db034798a29075281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1243386277,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1243386277,
+    "wof:lastmodified":1537674195,
+    "wof:name":"Kampung Bahru Che' Lah",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8865,
+    2.8217,
+    101.8865,
+    2.8217
+],
+  "geometry": {"coordinates":[101.8865,2.8217],"type":"Point"}
+}

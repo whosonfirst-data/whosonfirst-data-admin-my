@@ -1,0 +1,67 @@
+{
+  "id": 890490539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.35891,1.552975,110.35891,1.552975",
+    "geom:latitude":1.552975,
+    "geom:longitude":110.35891,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Central",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sarawak",
+    "qs:photos":210,
+    "qs:photos_1k":43,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":210,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56016001,
+        "qs:id":183103
+    },
+    "wof:country":"MY",
+    "wof:created":1469054814,
+    "wof:geomhash":"af0ab7664e481ebb6bc7657ad0be0987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":890490539,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":890490539,
+    "wof:lastmodified":1500013657,
+    "wof:name":"Taman Central",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.35891,
+    1.552975,
+    110.35891,
+    1.552975
+],
+  "geometry": {"coordinates":[110.35890999999999,1.552975],"type":"Point"}
+}

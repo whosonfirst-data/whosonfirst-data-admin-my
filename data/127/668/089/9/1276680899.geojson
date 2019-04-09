@@ -1,0 +1,70 @@
+{
+  "id": 1276680899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5258,3.3925,102.5258,3.3925",
+    "geom:latitude":3.3925,
+    "geom:longitude":102.5258,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Selinding",
+    "gn:country_code":"MY",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796018,
+    "gn:latitude":3.3925,
+    "gn:longitude":102.5258,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Selinding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Selinding"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796018
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1563f6324edfd9df667fe6c63da8a5b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1276680899,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276680899,
+    "wof:lastmodified":1537674399,
+    "wof:name":"Kampung Selinding",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5258,
+    3.3925,
+    102.5258,
+    3.3925
+],
+  "geometry": {"coordinates":[102.5258,3.3925],"type":"Point"}
+}

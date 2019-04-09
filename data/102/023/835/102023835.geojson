@@ -1,0 +1,105 @@
+{
+  "id": 102023835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000125,
+    "geom:area_square_m":1533483.090763,
+    "geom:bbox":"102.271728516,6.09549429379,102.282714844,6.1091493819",
+    "geom:latitude":6.102215,
+    "geom:longitude":102.277477,
+    "gn:latitude":6.09123,
+    "gn:longitude":102.27938,
+    "iso:country":"MY",
+    "lbl:latitude":6.102322,
+    "lbl:longitude":102.277582,
+    "mps:latitude":6.102322,
+    "mps:longitude":102.277582,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kubang Kerian"
+    ],
+    "name:eng_x_preferred":[
+        "Kubang Kerian"
+    ],
+    "name:epo_x_preferred":[
+        "Kubang Kerian"
+    ],
+    "name:ind_x_preferred":[
+        "Kubang Kerian"
+    ],
+    "name:may_x_preferred":[
+        "Kubang Kerian"
+    ],
+    "name:msa_x_preferred":[
+        "Kubang Kerian"
+    ],
+    "name:unk_x_variant":[
+        "Kubang Kriang"
+    ],
+    "qs:a0":"Malaysia",
+    "qs:a1":"*Kelantan",
+    "qs:a1r":"*",
+    "qs:a2":"Kota Bharu",
+    "qs:id":0,
+    "qs:la":"Lundang",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kubang Kerian",
+    "qs:loc_alt":"Kubang Kerian",
+    "qs:loc_lc":"1759391",
+    "qs:pop":0,
+    "qs:source":"Squattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":449,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1759391,
+        "gp:id":1154801,
+        "qs:id":1063090,
+        "qs_pg:id":1063090,
+        "wd:id":"Q6441173",
+        "wk:page":"Kubang Kerian"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4b576c6debc83159586bb2daede5c627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489783,
+            "locality_id":102023835,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":102023835,
+    "wof:lastmodified":1527636454,
+    "wof:name":"Kubang Kerian",
+    "wof:parent_id":890489783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.27172851600007,
+    6.09549429379004,
+    102.2827148440001,
+    6.10914938190201
+],
+  "geometry": {"coordinates":[[[102.27792776816101,6.10914938190201],[102.27928550233328,6.10778389447],[102.27996826200005,6.10778389447],[102.28271484400001,6.10778389447],[102.28271484400001,6.10505289645995],[102.2827148440001,6.10368739223],[102.2827148440001,6.10232188451003],[102.28271484400001,6.10095637332999],[102.28271484400001,6.09959085866004],[102.28271484400001,6.09822534051001],[102.28271484400001,6.09685981888997],[102.28134155300008,6.09685981888997],[102.28134155300008,6.09549429379004],[102.27996826200005,6.09549429379004],[102.27859497100003,6.09549429379004],[102.27722167999998,6.09549429379004],[102.27584838900005,6.09549429379004],[102.27584838900005,6.09685981888997],[102.27447509800002,6.09685981888997],[102.27447509800002,6.09822534051001],[102.27310180675006,6.09822534007499],[102.2719147106536,6.09941919120237],[102.27172851600007,6.09945664217136],[102.27172851600007,6.09959085866004],[102.27172851600007,6.10232188451003],[102.27172851600007,6.10778389447],[102.27722167999998,6.10778389447],[102.27722167999998,6.1091493795757],[102.27792776816101,6.10914938190201]]],"type":"Polygon"}
+}

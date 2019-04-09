@@ -1,0 +1,73 @@
+{
+  "id": 1276301863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.721,6.5955,116.721,6.5955",
+    "geom:latitude":6.5955,
+    "geom:longitude":116.721,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Betutai",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770516,
+    "gn:latitude":6.5955,
+    "gn:longitude":116.721,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Betutai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Betutai"
+    ],
+    "name:und_x_variant":[
+        "Kampong Betutai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770516
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1e3e0a03256350cfde56aced17d6d209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696425,
+            "locality_id":1276301863,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276301863,
+    "wof:lastmodified":1537674164,
+    "wof:name":"Kampung Betutai",
+    "wof:parent_id":1108696425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.721,
+    6.5955,
+    116.721,
+    6.5955
+],
+  "geometry": {"coordinates":[116.721,6.5955],"type":"Point"}
+}

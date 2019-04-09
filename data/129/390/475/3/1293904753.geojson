@@ -1,0 +1,70 @@
+{
+  "id": 1293904753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5159,3.6882,101.5159,3.6882",
+    "geom:latitude":3.6882,
+    "geom:longitude":101.5159,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Chabang Lima",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7794692,
+    "gn:latitude":3.6882,
+    "gn:longitude":101.5159,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Chabang Lima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Chabang Lima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794692
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ce0e9cb51695c974f0001fcde03d9ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489741,
+            "locality_id":1293904753,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1293904753,
+    "wof:lastmodified":1537674391,
+    "wof:name":"Kampung Chabang Lima",
+    "wof:parent_id":890489741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5159,
+    3.6882,
+    101.5159,
+    3.6882
+],
+  "geometry": {"coordinates":[101.5159,3.6882],"type":"Point"}
+}

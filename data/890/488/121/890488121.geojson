@@ -1,0 +1,70 @@
+{
+  "id": 890488121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3665685,3.8855555,103.3665685,3.8855555",
+    "geom:latitude":3.885556,
+    "geom:longitude":103.366568,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Beserah",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos":163,
+    "qs:photos_1k":33,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":262,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014087,
+        "qs:id":242235,
+        "wd:id":"Q4896211",
+        "wk:page":"Beserah"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054707,
+    "wof:geomhash":"514d1c06b1f7a2efb27b81cc243c9220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "localadmin_id":890488121,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":890488121,
+    "wof:lastmodified":1527787077,
+    "wof:name":"Beserah",
+    "wof:parent_id":890490895,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3665685,
+    3.8855555,
+    103.3665685,
+    3.8855555
+],
+  "geometry": {"coordinates":[103.3665685,3.8855555],"type":"Point"}
+}

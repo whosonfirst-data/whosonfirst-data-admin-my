@@ -1,0 +1,68 @@
+{
+  "id": 1243185123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.37036,5.67965,100.37036,5.67965",
+    "geom:latitude":5.67965,
+    "geom:longitude":100.37036,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Bagan Asam",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771414,
+    "gn:latitude":5.67965,
+    "gn:longitude":100.37036,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bagan Asam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bagan Asam"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bagan Asam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771414
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f7c247b56bc34595751fd3d939f660d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243185123,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243185123,
+    "wof:lastmodified":1537674201,
+    "wof:name":"Kampung Bagan Asam",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.37036,
+    5.67965,
+    100.37036,
+    5.67965
+],
+  "geometry": {"coordinates":[100.37036000000001,5.67965],"type":"Point"}
+}

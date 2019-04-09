@@ -1,0 +1,72 @@
+{
+  "id": 1344179163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.72558,3.51427,102.72558,3.51427",
+    "geom:latitude":3.51427,
+    "geom:longitude":102.72558,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Lamir",
+    "gn:country_code":"MY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767631,
+    "gn:latitude":3.51427,
+    "gn:longitude":102.72558,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Lamir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Lamin",
+        "Kampong Lamir",
+        "Kampung Lamir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767631
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f66297191bbe1ca41c2bec2835e49e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1344179163,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1344179163,
+    "wof:lastmodified":1537674045,
+    "wof:name":"Kampung Lamir",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.72558,
+    3.51427,
+    102.72558,
+    3.51427
+],
+  "geometry": {"coordinates":[102.72557999999999,3.51427],"type":"Point"}
+}

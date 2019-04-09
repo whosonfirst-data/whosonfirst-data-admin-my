@@ -1,0 +1,73 @@
+{
+  "id": 1344271129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4497,1.3457,103.4497,1.3457",
+    "geom:latitude":1.3457,
+    "geom:longitude":103.4497,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Air Masin",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771498,
+    "gn:latitude":1.3457,
+    "gn:longitude":103.4497,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Air Masin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Air Masin"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ayer Masin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771498
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6587df5580358a577cd35300e260181e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "locality_id":1344271129,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1344271129,
+    "wof:lastmodified":1537674205,
+    "wof:name":"Kampung Air Masin",
+    "wof:parent_id":890491001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4497,
+    1.3457,
+    103.4497,
+    1.3457
+],
+  "geometry": {"coordinates":[103.44970000000001,1.3457],"type":"Point"}
+}

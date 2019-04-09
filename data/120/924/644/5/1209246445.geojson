@@ -1,0 +1,61 @@
+{
+  "id": 1209246445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.93333,2.46667,101.93333,2.46667",
+    "geom:latitude":2.46667,
+    "geom:longitude":101.93333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampong Mati",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766987,
+    "gn:latitude":2.46667,
+    "gn:longitude":101.93333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Mati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766987
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2c52d179d868ff2a36b6a1b30ae4eae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209246445
+        }
+    ],
+    "wof:id":1209246445,
+    "wof:lastmodified":1536293148,
+    "wof:name":"Kampong Mati",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.93333,
+    2.46667,
+    101.93333,
+    2.46667
+],
+  "geometry": {"coordinates":[101.93333,2.46667],"type":"Point"}
+}

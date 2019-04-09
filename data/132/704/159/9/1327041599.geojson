@@ -1,0 +1,70 @@
+{
+  "id": 1327041599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8739,4.8905,101.8739,4.8905",
+    "geom:latitude":4.8905,
+    "geom:longitude":101.8739,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kemajuan Tanah Panggong Lalat",
+    "gn:country_code":"MY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7469574,
+    "gn:latitude":4.8905,
+    "gn:longitude":101.8739,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Panggong Lalat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Panggong Lalat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7469574
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"53e993b41d6629f71a493c71f810f0ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1327041599,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1327041599,
+    "wof:lastmodified":1537674298,
+    "wof:name":"Kemajuan Tanah Panggong Lalat",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8739,
+    4.8905,
+    101.8739,
+    4.8905
+],
+  "geometry": {"coordinates":[101.87390000000001,4.8905],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360102633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2453,1.7782,103.2453,1.7782",
+    "geom:latitude":1.7782,
+    "geom:longitude":103.2453,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Ghani",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7620217,
+    "gn:latitude":1.7782,
+    "gn:longitude":103.2453,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Ghani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Ghani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7620217
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d9418573c7b365dcef2fe3805473f00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1360102633,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1360102633,
+    "wof:lastmodified":1537674335,
+    "wof:name":"Kampung Parit Ghani",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2453,
+    1.7782,
+    103.2453,
+    1.7782
+],
+  "geometry": {"coordinates":[103.2453,1.7782],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 890488631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.004451,2.802198,102.004451,2.802198",
+    "geom:latitude":2.802198,
+    "geom:longitude":102.004451,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Pantai",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Negeri Sembilan",
+    "qs:photos":38,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":55,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014246,
+        "qs:id":1316923,
+        "qs_pg:id":1138925,
+        "wd:id":"Q4208720",
+        "wk:page":"Pantai"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054726,
+    "wof:geomhash":"a01b22d6532f85e9a621254c61e35837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "localadmin_id":890488631,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":890488631,
+    "wof:lastmodified":1527787081,
+    "wof:name":"Pantai",
+    "wof:parent_id":890489719,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.004451,
+    2.802198,
+    102.004451,
+    2.802198
+],
+  "geometry": {"coordinates":[102.004451,2.802198],"type":"Point"}
+}

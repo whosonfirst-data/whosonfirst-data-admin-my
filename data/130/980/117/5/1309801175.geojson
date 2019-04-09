@@ -1,0 +1,74 @@
+{
+  "id": 1309801175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9869,3.9776,101.9869,3.9776",
+    "geom:latitude":3.9776,
+    "geom:longitude":101.9869,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Bukit Macing",
+    "gn:country_code":"MY",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770193,
+    "gn:latitude":3.9776,
+    "gn:longitude":101.9869,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bukit Macing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Macing"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bukit Machang",
+        "Kampong Bukit Maching"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770193
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b609dad9118ab164bbef8c54bcf52525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1309801175,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1309801175,
+    "wof:lastmodified":1537674151,
+    "wof:name":"Kampung Bukit Macing",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9869,
+    3.9776,
+    101.9869,
+    3.9776
+],
+  "geometry": {"coordinates":[101.98690000000001,3.9776],"type":"Point"}
+}

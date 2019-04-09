@@ -1,0 +1,84 @@
+{
+  "id": 102023871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":321675.996319,
+    "geom:bbox":"101.123657227,4.53809435744,101.128348949,4.54695524048",
+    "geom:latitude":4.542195,
+    "geom:longitude":101.12576,
+    "gn:latitude":4.5181,
+    "gn:longitude":101.1356,
+    "iso:country":"MY",
+    "lbl:latitude":4.542613,
+    "lbl:longitude":101.12557,
+    "mps:latitude":4.542613,
+    "mps:longitude":101.12557,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kepayang"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Kepayang"
+    ],
+    "qs:a0":"Malaysia",
+    "qs:a1":"*Perak",
+    "qs:a1r":"*",
+    "qs:a2":"Kinta",
+    "qs:id":0,
+    "qs:la":"Sungai Raya",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kampung Kepayang",
+    "qs:loc_alt":"Kampong Kepayang",
+    "qs:loc_lc":"1768346",
+    "qs:pop":0,
+    "qs:source":"Squattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768346,
+        "gp:id":1144684,
+        "qs:id":1059285
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6e7052877a9f0a39697f7190d35e55ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":102023871,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":102023871,
+    "wof:lastmodified":1501222138,
+    "wof:name":"Kampung Kepayang",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.12365722699995,
+    4.53809435744002,
+    101.12834894892994,
+    4.54695524047898
+],
+  "geometry": {"coordinates":[[[101.12834894892994,4.54462615730839],[101.12708830380176,4.54083232359994],[101.12640380900002,4.54083232360004],[101.12640380900002,4.53946334182001],[101.12640380900002,4.53809435744002],[101.12503051799997,4.53809435744002],[101.12365722699995,4.53809435744002],[101.12365722699995,4.53946334182001],[101.12365722700004,4.54083232360004],[101.12365722700004,4.54357027936996],[101.12365722700004,4.54380203482941],[101.12503051750012,4.54456737930431],[101.12809097593008,4.54695524047898],[101.12834894892994,4.54462615730839]]],"type":"Polygon"}
+}

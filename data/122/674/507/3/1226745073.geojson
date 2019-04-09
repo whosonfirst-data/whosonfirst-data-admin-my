@@ -1,0 +1,70 @@
+{
+  "id": 1226745073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5858,3.4524,102.5858,3.4524",
+    "geom:latitude":3.4524,
+    "geom:longitude":102.5858,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Kening Banjir Satu",
+    "gn:country_code":"MY",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796255,
+    "gn:latitude":3.4524,
+    "gn:longitude":102.5858,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kening Banjir Satu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kening Banjir Satu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796255
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f68fa250baf63198042a681262cc1ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1226745073,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226745073,
+    "wof:lastmodified":1537674402,
+    "wof:name":"Kampung Kening Banjir Satu",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5858,
+    3.4524,
+    102.5858,
+    3.4524
+],
+  "geometry": {"coordinates":[102.58580000000001,3.4524],"type":"Point"}
+}

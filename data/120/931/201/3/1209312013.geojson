@@ -1,0 +1,64 @@
+{
+  "id": 1209312013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1889,4.1913,102.1889,4.1913",
+    "geom:latitude":4.1913,
+    "geom:longitude":102.1889,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Kuala Parit",
+    "gn:country_code":"MY",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7792245,
+    "gn:latitude":4.1913,
+    "gn:longitude":102.1889,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kuala Parit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Parit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7792245
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1e8eaf756e5066040513bca799340317",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209312013
+        }
+    ],
+    "wof:id":1209312013,
+    "wof:lastmodified":1537674385,
+    "wof:name":"Kampung Kuala Parit",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1889,
+    4.1913,
+    102.1889,
+    4.1913
+],
+  "geometry": {"coordinates":[102.1889,4.1913],"type":"Point"}
+}

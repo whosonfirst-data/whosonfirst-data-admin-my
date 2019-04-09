@@ -1,0 +1,67 @@
+{
+  "id": 1276774769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.06667,5.96667,102.06667,5.96667",
+    "geom:latitude":5.96667,
+    "geom:longitude":102.06667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gual To' Pelandok",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1774226,
+    "gn:latitude":5.96667,
+    "gn:longitude":102.06667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Gual To\u2019 Pelandok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1774226
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2a585a829e8bd2e769d4521247990c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1276774769,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1276774769,
+    "wof:lastmodified":1536684281,
+    "wof:name":"Gual To' Pelandok",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.06667,
+    5.96667,
+    102.06667,
+    5.96667
+],
+  "geometry": {"coordinates":[102.06667,5.96667],"type":"Point"}
+}

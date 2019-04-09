@@ -1,0 +1,70 @@
+{
+  "id": 1226164915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3551,4.0895,102.3551,4.0895",
+    "geom:latitude":4.0895,
+    "geom:longitude":102.3551,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Hulu Retang",
+    "gn:country_code":"MY",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7565010,
+    "gn:latitude":4.0895,
+    "gn:longitude":102.3551,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Hulu Retang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Hulu Retang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7565010
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"90d1086b60d594a0467c6c57ff16e55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1226164915,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226164915,
+    "wof:lastmodified":1537674311,
+    "wof:name":"Kampung Hulu Retang",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3551,
+    4.0895,
+    102.3551,
+    4.0895
+],
+  "geometry": {"coordinates":[102.35509999999999,4.0895],"type":"Point"}
+}

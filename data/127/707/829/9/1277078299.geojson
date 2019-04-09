@@ -1,0 +1,70 @@
+{
+  "id": 1277078299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7679,2.2538,102.7679,2.2538",
+    "geom:latitude":2.2538,
+    "geom:longitude":102.7679,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Simpang",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798380,
+    "gn:latitude":2.2538,
+    "gn:longitude":102.7679,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Simpang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Simpang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798380
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"614eaec089c690d4dac260fc83c02e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1277078299,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1277078299,
+    "wof:lastmodified":1537674431,
+    "wof:name":"Kampung Parit Simpang",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7679,
+    2.2538,
+    102.7679,
+    2.2538
+],
+  "geometry": {"coordinates":[102.7679,2.2538],"type":"Point"}
+}

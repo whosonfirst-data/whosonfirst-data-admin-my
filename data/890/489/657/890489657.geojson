@@ -1,0 +1,74 @@
+{
+  "id": 890489657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6801,2.428,102.6801,2.428",
+    "geom:latitude":2.428,
+    "geom:longitude":102.6801,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Pelangi"
+    ],
+    "qs:name":"Taman Pelangi",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798288,
+        "gp:id":56016675,
+        "qs:id":1072379
+    },
+    "wof:country":"MY",
+    "wof:created":1469054765,
+    "wof:geomhash":"786179e3d950b66e6f132b5f44fa5375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":890489657,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890489657,
+    "wof:lastmodified":1505343786,
+    "wof:name":"Taman Pelangi",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6801,
+    2.428,
+    102.6801,
+    2.428
+],
+  "geometry": {"coordinates":[102.6801,2.428],"type":"Point"}
+}

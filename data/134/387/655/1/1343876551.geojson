@@ -1,0 +1,68 @@
+{
+  "id": 1343876551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.28333,5.28333,100.28333,5.28333",
+    "geom:latitude":5.28333,
+    "geom:longitude":100.28333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Permatang Damar Laut",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735071,
+    "gn:latitude":5.28333,
+    "gn:longitude":100.28333,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Permatang Damar Laut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735071,
+        "wk:page":"Permatang_Damar_Laut"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b95b897b3235eb833155fb6194446c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "locality_id":1343876551,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1343876551,
+    "wof:lastmodified":1537569838,
+    "wof:name":"Permatang Damar Laut",
+    "wof:parent_id":890489155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.28333,
+    5.28333,
+    100.28333,
+    5.28333
+],
+  "geometry": {"coordinates":[100.28333000000001,5.28333],"type":"Point"}
+}

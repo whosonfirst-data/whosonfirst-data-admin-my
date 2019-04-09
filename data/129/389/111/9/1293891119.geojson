@@ -1,0 +1,73 @@
+{
+  "id": 1293891119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.02132,5.37825,102.02132,5.37825",
+    "geom:latitude":5.37825,
+    "geom:longitude":102.02132,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Pasir Mas",
+    "gn:country_code":"MY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766041,
+    "gn:latitude":5.37825,
+    "gn:longitude":102.02132,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kampung Pasir Mas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pasir Mas"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pasir Mas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766041
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cfb704727bb206540344552f63535080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489265,
+            "locality_id":1293891119,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1293891119,
+    "wof:lastmodified":1537673980,
+    "wof:name":"Kampung Pasir Mas",
+    "wof:parent_id":890489265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.02132,
+    5.37825,
+    102.02132,
+    5.37825
+],
+  "geometry": {"coordinates":[102.02132,5.37825],"type":"Point"}
+}

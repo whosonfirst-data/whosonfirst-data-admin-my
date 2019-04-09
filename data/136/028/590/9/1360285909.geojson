@@ -1,0 +1,73 @@
+{
+  "id": 1360285909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2234,2.3666,102.2234,2.3666",
+    "geom:latitude":2.3666,
+    "geom:longitude":102.2234,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Balai",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771234,
+    "gn:latitude":2.3666,
+    "gn:longitude":102.2234,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Balai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Balai"
+    ],
+    "name:und_x_variant":[
+        "Kampong Balai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771234
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3c1572558e8270e39149492f4cdec8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1360285909,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1360285909,
+    "wof:lastmodified":1537674193,
+    "wof:name":"Kampung Balai",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2234,
+    2.3666,
+    102.2234,
+    2.3666
+],
+  "geometry": {"coordinates":[102.2234,2.3666],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344265707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.53606,5.12257,100.53606,5.12257",
+    "geom:latitude":5.12257,
+    "geom:longitude":100.53606,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Sungai Tepus",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763757,
+    "gn:latitude":5.12257,
+    "gn:longitude":100.53606,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Tepus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Tepus"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Tepus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763757
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b21899e9269a1d34d3e5872435e045e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490371,
+            "locality_id":1344265707,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1344265707,
+    "wof:lastmodified":1537673876,
+    "wof:name":"Kampung Sungai Tepus",
+    "wof:parent_id":890490371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.53606,
+    5.12257,
+    100.53606,
+    5.12257
+],
+  "geometry": {"coordinates":[100.53606000000001,5.12257],"type":"Point"}
+}

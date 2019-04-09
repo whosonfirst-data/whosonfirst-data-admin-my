@@ -1,0 +1,73 @@
+{
+  "id": 1209697941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.23333,5.3,117.23333,5.3",
+    "geom:latitude":5.3,
+    "geom:longitude":117.23333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tamo",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733899,
+    "gn:latitude":5.3,
+    "gn:longitude":117.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tamo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Tamoi",
+        "Tamoi",
+        "Tamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733899
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7b4cbc6e4a07d33be4fb2e3d9924e83b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696539,
+            "locality_id":1209697941,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1209697941,
+    "wof:lastmodified":1537673693,
+    "wof:name":"Tamo",
+    "wof:parent_id":1108696539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.23333,
+    5.3,
+    117.23333,
+    5.3
+],
+  "geometry": {"coordinates":[117.23333,5.3],"type":"Point"}
+}

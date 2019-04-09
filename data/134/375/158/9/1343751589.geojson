@@ -1,0 +1,70 @@
+{
+  "id": 1343751589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.5145,5.29205,100.5145,5.29205",
+    "geom:latitude":5.29205,
+    "geom:longitude":100.5145,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Taman Layang-Layang",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6818759,
+    "gn:latitude":5.29205,
+    "gn:longitude":100.5145,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taman Layang-Layang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Layang-Layang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818759
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bf9c635117805b8e89df5c07ad69bcb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1343751589,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1343751589,
+    "wof:lastmodified":1537674242,
+    "wof:name":"Taman Layang-Layang",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.5145,
+    5.29205,
+    100.5145,
+    5.29205
+],
+  "geometry": {"coordinates":[100.5145,5.29205],"type":"Point"}
+}

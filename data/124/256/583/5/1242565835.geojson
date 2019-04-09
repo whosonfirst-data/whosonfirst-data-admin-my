@@ -1,0 +1,71 @@
+{
+  "id": 1242565835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.0475,4.4088,114.0475,4.4088",
+    "geom:latitude":4.4088,
+    "geom:longitude":114.0475,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Long Palai",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1756986,
+    "gn:latitude":4.4088,
+    "gn:longitude":114.0475,
+    "gn:modification_date":"2018-04-11",
+    "gn:name":"Long Palai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Long Palai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1756986,
+        "wk:page":"Long_Palai"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4983b8e133747dfa8344d50ed3b33ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488483,
+            "locality_id":1242565835,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1242565835,
+    "wof:lastmodified":1537673795,
+    "wof:name":"Long Palai",
+    "wof:parent_id":890488483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.0475,
+    4.4088,
+    114.0475,
+    4.4088
+],
+  "geometry": {"coordinates":[114.0475,4.4088],"type":"Point"}
+}

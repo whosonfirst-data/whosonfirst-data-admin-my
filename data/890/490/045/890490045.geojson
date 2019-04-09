@@ -1,0 +1,76 @@
+{
+  "id": 890490045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8407,2.9561,101.8407,2.9561",
+    "geom:latitude":2.9561,
+    "geom:longitude":101.8407,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Paling Jaya"
+    ],
+    "qs:name":"Taman Sepang Jaya",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":70,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":70,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796505,
+        "gp:id":56036449,
+        "qs:id":1137111
+    },
+    "wof:country":"MY",
+    "wof:created":1469054786,
+    "wof:geomhash":"f7583424fd9daadbb6d95b99529a9268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":890490045,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890490045,
+    "wof:lastmodified":1505343787,
+    "wof:name":"Taman Sepang Jaya",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8407,
+    2.9561,
+    101.8407,
+    2.9561
+],
+  "geometry": {"coordinates":[101.8407,2.9561],"type":"Point"}
+}

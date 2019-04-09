@@ -1,0 +1,61 @@
+{
+  "id": 1243245685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.70817,4.43888,118.70817,4.43888",
+    "geom:latitude":4.43888,
+    "geom:longitude":118.70817,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Muntai Muntai",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766755,
+    "gn:latitude":4.43888,
+    "gn:longitude":118.70817,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Muntai Muntai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766755
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8b40128d65ef309590db5570f720c9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243245685,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243245685,
+    "wof:lastmodified":1537091684,
+    "wof:name":"Kampung Muntai Muntai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.70817,
+    4.43888,
+    118.70817,
+    4.43888
+],
+  "geometry": {"coordinates":[118.70817,4.43888],"type":"Point"}
+}

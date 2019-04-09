@@ -1,0 +1,70 @@
+{
+  "id": 1193159327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3707,3.5081,102.3707,3.5081",
+    "geom:latitude":3.5081,
+    "geom:longitude":102.3707,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Gantuk Hulu",
+    "gn:country_code":"MY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536629,
+    "gn:latitude":3.5081,
+    "gn:longitude":102.3707,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Gantuk Hulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gantuk Hulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536629
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"351514f4952f4633e3dcb33e3f9fa025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1193159327,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1193159327,
+    "wof:lastmodified":1537674463,
+    "wof:name":"Kampung Gantuk Hulu",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3707,
+    3.5081,
+    102.3707,
+    3.5081
+],
+  "geometry": {"coordinates":[102.3707,3.5081],"type":"Point"}
+}

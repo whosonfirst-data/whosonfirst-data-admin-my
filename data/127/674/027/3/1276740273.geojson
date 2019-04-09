@@ -1,0 +1,76 @@
+{
+  "id": 1276740273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.818,2.9133,101.818,2.9133",
+    "geom:latitude":2.9133,
+    "geom:longitude":101.818,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Batu Tiga Jalan Bangi",
+    "gn:country_code":"MY",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770821,
+    "gn:latitude":2.9133,
+    "gn:longitude":101.818,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Kampung Batu Tiga Jalan Bangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Tiga Jalan Bangi"
+    ],
+    "name:msa_x_variant":[
+        "Kampung Batu Tiga"
+    ],
+    "name:und_x_variant":[
+        "Kampong Batu Tiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770821
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f677a998c070cadaa2386aaf3f26c1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":1276740273,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1276740273,
+    "wof:lastmodified":1537674176,
+    "wof:name":"Kampung Batu Tiga Jalan Bangi",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.818,
+    2.9133,
+    101.818,
+    2.9133
+],
+  "geometry": {"coordinates":[101.818,2.9133],"type":"Point"}
+}

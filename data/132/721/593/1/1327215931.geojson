@@ -1,0 +1,67 @@
+{
+  "id": 1327215931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.81667,5.36667,116.81667,5.36667",
+    "geom:latitude":5.36667,
+    "geom:longitude":116.81667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Takiau",
+    "gn:country_code":"MY",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1742113,
+    "gn:latitude":5.36667,
+    "gn:longitude":116.81667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Takiau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1742113
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"15513b40e0b429fedfc0dcfc66e5694a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696539,
+            "locality_id":1327215931,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327215931,
+    "wof:lastmodified":1536992604,
+    "wof:name":"Takiau",
+    "wof:parent_id":1108696539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.81667,
+    5.36667,
+    116.81667,
+    5.36667
+],
+  "geometry": {"coordinates":[116.81667,5.36667],"type":"Point"}
+}

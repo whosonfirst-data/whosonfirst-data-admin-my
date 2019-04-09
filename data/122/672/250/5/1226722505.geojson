@@ -1,0 +1,70 @@
+{
+  "id": 1226722505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.69982,4.17458,117.69982,4.17458",
+    "geom:latitude":4.17458,
+    "geom:longitude":117.69982,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Mentadak",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1754993,
+    "gn:latitude":4.17458,
+    "gn:longitude":117.69982,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mentadak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Mentadak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1754993
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c55637e508c565d85b47f76399eede43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696533,
+            "locality_id":1226722505,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226722505,
+    "wof:lastmodified":1537673792,
+    "wof:name":"Mentadak",
+    "wof:parent_id":1108696533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.69982,
+    4.17458,
+    117.69982,
+    4.17458
+],
+  "geometry": {"coordinates":[117.69982,4.17458],"type":"Point"}
+}

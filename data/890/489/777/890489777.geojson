@@ -1,0 +1,74 @@
+{
+  "id": 890489777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.73333,4.58333,100.73333,4.58333",
+    "geom:latitude":4.58333,
+    "geom:longitude":100.73333,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Durian Sabatang"
+    ],
+    "qs:name":"Durian Sebatang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734604,
+        "gp:id":1154651,
+        "qs:id":29010
+    },
+    "wof:country":"MY",
+    "wof:created":1469054770,
+    "wof:geomhash":"995ccfc8b9f0f5b312cb852dbc278e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490803,
+            "locality_id":890489777,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890489777,
+    "wof:lastmodified":1505343786,
+    "wof:name":"Durian Sebatang",
+    "wof:parent_id":890490803,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.73333,
+    4.58333,
+    100.73333,
+    4.58333
+],
+  "geometry": {"coordinates":[100.73333,4.58333],"type":"Point"}
+}

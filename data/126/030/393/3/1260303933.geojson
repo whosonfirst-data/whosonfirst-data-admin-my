@@ -1,0 +1,67 @@
+{
+  "id": 1260303933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.28333,4.05,101.28333,4.05",
+    "geom:latitude":4.05,
+    "geom:longitude":101.28333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampung Bikam",
+    "gn:country_code":"MY",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735294,
+    "gn:latitude":4.05,
+    "gn:longitude":101.28333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampung Bikam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735294
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2aa053d8bee88a02c4fab223c66f0564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489741,
+            "locality_id":1260303933,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1260303933,
+    "wof:lastmodified":1536684433,
+    "wof:name":"Kampung Bikam",
+    "wof:parent_id":890489741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.28333,
+    4.05,
+    101.28333,
+    4.05
+],
+  "geometry": {"coordinates":[101.28333000000001,4.05],"type":"Point"}
+}

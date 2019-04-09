@@ -1,0 +1,64 @@
+{
+  "id": 1293598115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.34219,5.59307,100.34219,5.59307",
+    "geom:latitude":5.59307,
+    "geom:longitude":100.34219,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Masjid",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847548,
+    "gn:latitude":5.59307,
+    "gn:longitude":100.34219,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Masjid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Masjid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847548
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0588ace0e8ba94c8c2696576514a8c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293598115,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293598115,
+    "wof:lastmodified":1537674256,
+    "wof:name":"Kampung Masjid",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.34219,
+    5.59307,
+    100.34219,
+    5.59307
+],
+  "geometry": {"coordinates":[100.34219,5.59307],"type":"Point"}
+}

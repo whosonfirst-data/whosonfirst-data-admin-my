@@ -1,0 +1,70 @@
+{
+  "id": 1343562829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0187,5.3262,102.0187,5.3262",
+    "geom:latitude":5.3262,
+    "geom:longitude":102.0187,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Pulau Layak",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7459966,
+    "gn:latitude":5.3262,
+    "gn:longitude":102.0187,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pulau Layak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pulau Layak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7459966
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c13e5ee9125b09ec80f0be5839817a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489265,
+            "locality_id":1343562829,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1343562829,
+    "wof:lastmodified":1537674290,
+    "wof:name":"Kampung Pulau Layak",
+    "wof:parent_id":890489265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0187,
+    5.3262,
+    102.0187,
+    5.3262
+],
+  "geometry": {"coordinates":[102.0187,5.3262],"type":"Point"}
+}

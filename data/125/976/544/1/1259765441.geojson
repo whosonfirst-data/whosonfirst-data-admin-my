@@ -1,0 +1,73 @@
+{
+  "id": 1259765441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4872,5.8921,116.4872,5.8921",
+    "geom:latitude":5.8921,
+    "geom:longitude":116.4872,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Kiporing",
+    "gn:country_code":"MY",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768224,
+    "gn:latitude":5.8921,
+    "gn:longitude":116.4872,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kiporing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kiporing"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kiporing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768224
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9169369e2a7d70023d64e0f072ba4188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696525,
+            "locality_id":1259765441,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259765441,
+    "wof:lastmodified":1537674069,
+    "wof:name":"Kampung Kiporing",
+    "wof:parent_id":1108696525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4872,
+    5.8921,
+    116.4872,
+    5.8921
+],
+  "geometry": {"coordinates":[116.4872,5.8921],"type":"Point"}
+}

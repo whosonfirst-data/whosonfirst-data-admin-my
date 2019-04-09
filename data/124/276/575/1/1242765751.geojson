@@ -1,0 +1,73 @@
+{
+  "id": 1242765751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.61631,3.96149,115.61631,3.96149",
+    "geom:latitude":3.96149,
+    "geom:longitude":115.61631,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Old Punang Kelalan",
+    "gn:country_code":"MY",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1749627,
+    "gn:latitude":3.96149,
+    "gn:longitude":115.61631,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Old Punang Kelalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Old Punang Kelalan"
+    ],
+    "name:msa_x_variant":[
+        "Punang Kelalan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1749627
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5959f47b7dd2707404b99a94ab65c942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696445,
+            "locality_id":1242765751,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1242765751,
+    "wof:lastmodified":1537673780,
+    "wof:name":"Old Punang Kelalan",
+    "wof:parent_id":1108696445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.61631,
+    3.96149,
+    115.61631,
+    3.96149
+],
+  "geometry": {"coordinates":[115.61631,3.96149],"type":"Point"}
+}

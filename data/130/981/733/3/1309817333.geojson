@@ -1,0 +1,70 @@
+{
+  "id": 1309817333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.073,2.225,103.073,2.225",
+    "geom:latitude":2.225,
+    "geom:longitude":103.073,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ladang Sungai Gerchang Bahagian Satu",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7854693,
+    "gn:latitude":2.225,
+    "gn:longitude":103.073,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ladang Sungai Gerchang Bahagian Satu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ladang Sungai Gerchang Bahagian Satu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854693
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3200235d9424bbe3900edb327e26667b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1309817333,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1309817333,
+    "wof:lastmodified":1537674432,
+    "wof:name":"Ladang Sungai Gerchang Bahagian Satu",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.073,
+    2.225,
+    103.073,
+    2.225
+],
+  "geometry": {"coordinates":[103.07299999999999,2.225],"type":"Point"}
+}

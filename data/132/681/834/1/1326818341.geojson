@@ -1,0 +1,73 @@
+{
+  "id": 1326818341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.9509,1.69864,109.9509,1.69864",
+    "geom:latitude":1.69864,
+    "geom:longitude":109.9509,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Sireh",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764260,
+    "gn:latitude":1.69864,
+    "gn:longitude":109.9509,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampong Sireh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sirek",
+        "Kampong Sirek",
+        "Sireh",
+        "Kampong Sireh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764260
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a03b9a9e8fe3a5e7e9041ebc9a4ff668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696453,
+            "locality_id":1326818341,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1326818341,
+    "wof:lastmodified":1537673900,
+    "wof:name":"Kampong Sireh",
+    "wof:parent_id":1108696453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.9509,
+    1.69864,
+    109.9509,
+    1.69864
+],
+  "geometry": {"coordinates":[109.9509,1.69864],"type":"Point"}
+}

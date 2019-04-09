@@ -1,0 +1,67 @@
+{
+  "id": 1310316871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.16667,6.11667,102.16667,6.11667",
+    "geom:latitude":6.11667,
+    "geom:longitude":102.16667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Lambor",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767634,
+    "gn:latitude":6.11667,
+    "gn:longitude":102.16667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Lambor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767634
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"44a835067859096efc0521afd81b773d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489803,
+            "locality_id":1310316871,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1310316871,
+    "wof:lastmodified":1536691618,
+    "wof:name":"Kampong Lambor",
+    "wof:parent_id":890489803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.16667,
+    6.11667,
+    102.16667,
+    6.11667
+],
+  "geometry": {"coordinates":[102.16667,6.11667],"type":"Point"}
+}

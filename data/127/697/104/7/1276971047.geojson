@@ -1,0 +1,70 @@
+{
+  "id": 1276971047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0585,4.6019,101.0585,4.6019",
+    "geom:latitude":4.6019,
+    "geom:longitude":101.0585,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Silibin",
+    "gn:country_code":"MY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356110,
+    "gn:latitude":4.6019,
+    "gn:longitude":101.0585,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Silibin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Silibin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356110
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"82fc057f1c761cda9fc2b3fc790ed97c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1276971047,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1276971047,
+    "wof:lastmodified":1537674453,
+    "wof:name":"Silibin",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0585,
+    4.6019,
+    101.0585,
+    4.6019
+],
+  "geometry": {"coordinates":[101.0585,4.6019],"type":"Point"}
+}

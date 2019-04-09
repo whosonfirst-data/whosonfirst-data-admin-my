@@ -1,0 +1,70 @@
+{
+  "id": 1343648723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7791,3.1272,101.7791,3.1272",
+    "geom:latitude":3.1272,
+    "geom:longitude":101.7791,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Permai Ampang",
+    "gn:country_code":"MY",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535557,
+    "gn:latitude":3.1272,
+    "gn:longitude":101.7791,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Permai Ampang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Permai Ampang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535557
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"21a51a2b25d72cb56190f424f6b622fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":1343648723,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1343648723,
+    "wof:lastmodified":1537674461,
+    "wof:name":"Permai Ampang",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7791,
+    3.1272,
+    101.7791,
+    3.1272
+],
+  "geometry": {"coordinates":[101.7791,3.1272],"type":"Point"}
+}

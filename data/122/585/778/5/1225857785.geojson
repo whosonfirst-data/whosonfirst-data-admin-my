@@ -1,0 +1,70 @@
+{
+  "id": 1225857785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38694,5.79652,100.38694,5.79652",
+    "geom:latitude":5.79652,
+    "geom:longitude":100.38694,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Acheh",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804495,
+    "gn:latitude":5.79652,
+    "gn:longitude":100.38694,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Acheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Acheh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804495
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"38a255a2712f1ac82cf730351c1874b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489701,
+            "locality_id":1225857785,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1225857785,
+    "wof:lastmodified":1537674231,
+    "wof:name":"Kampung Acheh",
+    "wof:parent_id":890489701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38694,
+    5.79652,
+    100.38694,
+    5.79652
+],
+  "geometry": {"coordinates":[100.38694,5.79652],"type":"Point"}
+}

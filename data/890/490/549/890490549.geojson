@@ -1,0 +1,71 @@
+{
+  "id": 890490549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.393989,5.38594,100.393989,5.38594",
+    "geom:latitude":5.38594,
+    "geom:longitude":100.393989,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mukim 1",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":543,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014611,
+        "qs:id":427107,
+        "qs_pg:id":1306942
+    },
+    "wof:country":"MY",
+    "wof:created":1469054814,
+    "wof:geomhash":"c265189026d7bc5c3a6669d930fe6cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "localadmin_id":890490549,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":890490549,
+    "wof:lastmodified":1509390574,
+    "wof:name":"Mukim 1",
+    "wof:parent_id":890489737,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.393989,
+    5.38594,
+    100.393989,
+    5.38594
+],
+  "geometry": {"coordinates":[100.393989,5.38594],"type":"Point"}
+}

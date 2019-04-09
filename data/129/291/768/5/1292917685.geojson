@@ -1,0 +1,70 @@
+{
+  "id": 1292917685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.491,1.5527,103.491,1.5527",
+    "geom:latitude":1.5527,
+    "geom:longitude":103.491,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Sawah Batu Empat",
+    "gn:country_code":"MY",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857961,
+    "gn:latitude":1.5527,
+    "gn:longitude":103.491,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sawah Batu Empat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sawah Batu Empat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857961
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"134748fce24b838e0c10af6910a45309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "locality_id":1292917685,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1292917685,
+    "wof:lastmodified":1537674447,
+    "wof:name":"Kampung Sawah Batu Empat",
+    "wof:parent_id":890491001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.491,
+    1.5527,
+    103.491,
+    1.5527
+],
+  "geometry": {"coordinates":[103.491,1.5527],"type":"Point"}
+}

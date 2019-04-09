@@ -1,0 +1,73 @@
+{
+  "id": 1293024763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1697,2.3924,102.1697,2.3924",
+    "geom:latitude":2.3924,
+    "geom:longitude":102.1697,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Ayer Pa'Abas",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771483,
+    "gn:latitude":2.3924,
+    "gn:longitude":102.1697,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kampung Ayer Pa\u2019Abas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ayer Pa\u2019Abas"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ayer Pa\u2019Abas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771483
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"20162acb74ab778fe49276da195602a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1293024763,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1293024763,
+    "wof:lastmodified":1537674204,
+    "wof:name":"Kampung Ayer Pa'Abas",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1697,
+    2.3924,
+    102.1697,
+    2.3924
+],
+  "geometry": {"coordinates":[102.16970000000001,2.3924],"type":"Point"}
+}

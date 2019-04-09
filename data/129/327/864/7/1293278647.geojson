@@ -1,0 +1,73 @@
+{
+  "id": 1293278647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1434,5.2713,103.1434,5.2713",
+    "geom:latitude":5.2713,
+    "geom:longitude":103.1434,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Laut",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767553,
+    "gn:latitude":5.2713,
+    "gn:longitude":103.1434,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Laut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Laut"
+    ],
+    "name:und_x_variant":[
+        "Kampong Laut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767553
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d46756b2e985fe859332b3b5529fae6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1293278647,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1293278647,
+    "wof:lastmodified":1537674042,
+    "wof:name":"Kampung Laut",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1434,
+    5.2713,
+    103.1434,
+    5.2713
+],
+  "geometry": {"coordinates":[103.1434,5.2713],"type":"Point"}
+}

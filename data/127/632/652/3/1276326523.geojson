@@ -1,0 +1,70 @@
+{
+  "id": 1276326523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4302,3.1419,103.4302,3.1419",
+    "geom:latitude":3.1419,
+    "geom:longitude":103.4302,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Sepauk",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697237,
+    "gn:latitude":3.1419,
+    "gn:longitude":103.4302,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sepauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sepauk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697237
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fa70c8d5478905fa61db91cb2b9cefb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1276326523,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276326523,
+    "wof:lastmodified":1537674366,
+    "wof:name":"Kampung Sepauk",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4302,
+    3.1419,
+    103.4302,
+    3.1419
+],
+  "geometry": {"coordinates":[103.4302,3.1419],"type":"Point"}
+}

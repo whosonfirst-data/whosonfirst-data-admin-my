@@ -1,0 +1,74 @@
+{
+  "id": 890488897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.4228,5.36995,100.4228,5.36995",
+    "geom:latitude":5.36995,
+    "geom:longitude":100.4228,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Pauh"
+    ],
+    "qs:name":"Taman Pasu",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kedah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675127,
+        102191569,
+        85632739,
+        102023333,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818876,
+        "gp:id":56016656,
+        "qs:id":1033624
+    },
+    "wof:country":"MY",
+    "wof:created":1469054736,
+    "wof:geomhash":"f3a4ec3963a695499914a67475dab0c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":102023333,
+            "neighbourhood_id":890488897,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":890488897,
+    "wof:lastmodified":1505343784,
+    "wof:name":"Taman Pasu",
+    "wof:parent_id":102023333,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.4228,
+    5.36995,
+    100.4228,
+    5.36995
+],
+  "geometry": {"coordinates":[100.4228,5.36995],"type":"Point"}
+}

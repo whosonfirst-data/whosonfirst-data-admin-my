@@ -1,0 +1,74 @@
+{
+  "id": 1243088957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.99023,5.13079,100.99023,5.13079",
+    "geom:latitude":5.13079,
+    "geom:longitude":100.99023,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Gelok",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769380,
+    "gn:latitude":5.13079,
+    "gn:longitude":100.99023,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Gelok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gelok"
+    ],
+    "name:und_x_variant":[
+        "Kampong Gelok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769380
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"abe459f90e255c7012fdc2e59d1699da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489739,
+            "locality_id":1243088957,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1243088957,
+    "wof:lastmodified":1537674116,
+    "wof:name":"Kampung Gelok",
+    "wof:parent_id":890489739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.99023,
+    5.13079,
+    100.99023,
+    5.13079
+],
+  "geometry": {"coordinates":[100.99023,5.13079],"type":"Point"}
+}

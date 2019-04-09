@@ -1,0 +1,72 @@
+{
+  "id": 1344245027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.13333,1.48333,110.13333,1.48333",
+    "geom:latitude":1.48333,
+    "geom:longitude":110.13333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Addis",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771734,
+    "gn:latitude":1.48333,
+    "gn:longitude":110.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Addis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pelaman Sodoh",
+        "Kampong Addis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771734
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"151051114ec26164c55d589a40b9c1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696381,
+            "locality_id":1344245027,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1344245027,
+    "wof:lastmodified":1537674214,
+    "wof:name":"Kampong Addis",
+    "wof:parent_id":1108696381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.13333,
+    1.48333,
+    110.13333,
+    1.48333
+],
+  "geometry": {"coordinates":[110.13333,1.48333],"type":"Point"}
+}

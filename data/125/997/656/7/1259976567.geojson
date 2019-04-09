@@ -1,0 +1,72 @@
+{
+  "id": 1259976567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.81667,4.93333,100.81667,4.93333",
+    "geom:latitude":4.93333,
+    "geom:longitude":100.81667,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Banggul Ara",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771084,
+    "gn:latitude":4.93333,
+    "gn:longitude":100.81667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Banggul Ara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Bunggul Ara",
+        "Kampong Banggul Ara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771084
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ae9796e2dbc109540a138192a80bc501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490803,
+            "locality_id":1259976567,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1259976567,
+    "wof:lastmodified":1537674188,
+    "wof:name":"Kampong Banggul Ara",
+    "wof:parent_id":890490803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.81667,
+    4.93333,
+    100.81667,
+    4.93333
+],
+  "geometry": {"coordinates":[100.81667,4.93333],"type":"Point"}
+}

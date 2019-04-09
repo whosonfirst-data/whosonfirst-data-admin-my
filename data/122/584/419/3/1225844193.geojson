@@ -1,0 +1,70 @@
+{
+  "id": 1225844193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.331,2.7795,102.331,2.7795",
+    "geom:latitude":2.7795,
+    "geom:longitude":102.331,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Terusan Seberang",
+    "gn:country_code":"MY",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797052,
+    "gn:latitude":2.7795,
+    "gn:longitude":102.331,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Terusan Seberang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Terusan Seberang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797052
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6d39030f26787febaa87a6f4064add49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1225844193,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1225844193,
+    "wof:lastmodified":1537674414,
+    "wof:name":"Kampung Terusan Seberang",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.331,
+    2.7795,
+    102.331,
+    2.7795
+],
+  "geometry": {"coordinates":[102.331,2.7795],"type":"Point"}
+}

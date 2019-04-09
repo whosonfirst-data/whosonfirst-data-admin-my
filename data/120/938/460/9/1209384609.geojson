@@ -1,0 +1,64 @@
+{
+  "id": 1209384609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.7402,4.66979,115.7402,4.66979",
+    "geom:latitude":4.66979,
+    "geom:longitude":115.7402,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Iburu",
+    "gn:country_code":"MY",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1773609,
+    "gn:latitude":4.66979,
+    "gn:longitude":115.7402,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Iburu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Iburu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1773609
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e9c8ba8ac1c99d91f08976518588145b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209384609
+        }
+    ],
+    "wof:id":1209384609,
+    "wof:lastmodified":1537674216,
+    "wof:name":"Iburu",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.7402,
+    4.66979,
+    115.7402,
+    4.66979
+],
+  "geometry": {"coordinates":[115.7402,4.66979],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243141769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.5859,4.4786,117.5859,4.4786",
+    "geom:latitude":4.4786,
+    "geom:longitude":117.5859,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"New Brantian",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7768102,
+    "gn:latitude":4.4786,
+    "gn:longitude":117.5859,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"New Brantian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "New Brantian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7768102
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ad2adfcd77e676cc97c19dc2c7ec1e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696533,
+            "locality_id":1243141769,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1243141769,
+    "wof:lastmodified":1537674376,
+    "wof:name":"New Brantian",
+    "wof:parent_id":1108696533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.5859,
+    4.4786,
+    117.5859,
+    4.4786
+],
+  "geometry": {"coordinates":[117.5859,4.4786],"type":"Point"}
+}

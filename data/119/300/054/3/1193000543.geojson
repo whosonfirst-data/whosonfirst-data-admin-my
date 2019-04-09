@@ -1,0 +1,67 @@
+{
+  "id": 1193000543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.95,5.26667,116.95,5.26667",
+    "geom:latitude":5.26667,
+    "geom:longitude":116.95,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Talibuk",
+    "gn:country_code":"MY",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1742043,
+    "gn:latitude":5.26667,
+    "gn:longitude":116.95,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Talibuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1742043
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8f58e8d5efdd9fe5fee6fcf69f71525c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696539,
+            "locality_id":1193000543,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1193000543,
+    "wof:lastmodified":1536371112,
+    "wof:name":"Talibuk",
+    "wof:parent_id":1108696539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.95,
+    5.26667,
+    116.95,
+    5.26667
+],
+  "geometry": {"coordinates":[116.95,5.26667],"type":"Point"}
+}

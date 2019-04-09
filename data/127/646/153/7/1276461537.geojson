@@ -1,0 +1,77 @@
+{
+  "id": 1276461537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5882,2.0791,102.5882,2.0791",
+    "geom:latitude":2.0791,
+    "geom:longitude":102.5882,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Jalan Kim Kee",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768957,
+    "gn:latitude":2.0791,
+    "gn:longitude":102.5882,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kampung Jalan Kim Kee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Temiang"
+    ],
+    "name:msa_x_variant":[
+        "Kampung Jalan Kim Kee"
+    ],
+    "name:und_x_variant":[
+        "Kampong Temiang",
+        "Kampong Jalan Kimkee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768957
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"240d7c5dbd7689ad337f66e6d839c1fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1276461537,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276461537,
+    "wof:lastmodified":1537674102,
+    "wof:name":"Kampung Jalan Kim Kee",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5882,
+    2.0791,
+    102.5882,
+    2.0791
+],
+  "geometry": {"coordinates":[102.5882,2.0791],"type":"Point"}
+}

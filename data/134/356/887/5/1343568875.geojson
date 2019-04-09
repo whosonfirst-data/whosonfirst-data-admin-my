@@ -1,0 +1,67 @@
+{
+  "id": 1343568875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.16667,5.83333,102.16667,5.83333",
+    "geom:latitude":5.83333,
+    "geom:longitude":102.16667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Batu Maka",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770865,
+    "gn:latitude":5.83333,
+    "gn:longitude":102.16667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Batu Maka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770865
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0188e1cdce99788fdb3af20446ef61ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490497,
+            "locality_id":1343568875,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1343568875,
+    "wof:lastmodified":1537084092,
+    "wof:name":"Kampong Batu Maka",
+    "wof:parent_id":890490497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.16667,
+    5.83333,
+    102.16667,
+    5.83333
+],
+  "geometry": {"coordinates":[102.16667,5.83333],"type":"Point"}
+}

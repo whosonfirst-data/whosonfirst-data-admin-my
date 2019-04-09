@@ -1,0 +1,98 @@
+{
+  "id": 1125941813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7412,3.7126,101.7412,3.7126",
+    "geom:latitude":3.7126,
+    "geom:longitude":101.7412,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":3.7126,
+    "lbl:longitude":101.7412,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:msa_x_preferred":[
+        "Bukit Fraser"
+    ],
+    "name:unk_x_variant":[
+        "Frasers Hill"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1732671,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bukit Fraser",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Selangor",
+    "qs_pg:photos":1494,
+    "qs_pg:photos_1k":303,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1494,
+    "qs_pg:photos_sr":12,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":183648,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1140962,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Selangor",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732671,
+        "gp:id":1140962,
+        "qs_pg:id":183648
+    },
+    "wof:country":"MY",
+    "wof:created":1497297144,
+    "wof:geomhash":"aaf7cc20ec3d6fbe56806cde5bdf7244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1125941813,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1125941813,
+    "wof:lastmodified":1534379384,
+    "wof:name":"Bukit Fraser",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[
+        102022727
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7412,
+    3.7126,
+    101.7412,
+    3.7126
+],
+  "geometry": {"coordinates":[101.74120000000001,3.7126],"type":"Point"}
+}

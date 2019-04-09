@@ -1,0 +1,67 @@
+{
+  "id": 1210030339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.107,2.2926,104.107,2.2926",
+    "geom:latitude":2.2926,
+    "geom:longitude":104.107,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Tanah Tumboh",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763538,
+    "gn:latitude":2.2926,
+    "gn:longitude":104.107,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tanah Tumboh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanah Tumboh"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tanah Tumboh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763538
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"28325c16d5cb26a9b72eba9dc6401dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1210030339,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1210030339,
+    "wof:lastmodified":1537673865,
+    "wof:name":"Kampung Tanah Tumboh",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.107,
+    2.2926,
+    104.107,
+    2.2926
+],
+  "geometry": {"coordinates":[104.107,2.2926],"type":"Point"}
+}

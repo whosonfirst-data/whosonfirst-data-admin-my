@@ -1,0 +1,73 @@
+{
+  "id": 1309910759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1201,2.5674,102.1201,2.5674",
+    "geom:latitude":2.5674,
+    "geom:longitude":102.1201,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Selemak Bongek",
+    "gn:country_code":"MY",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764666,
+    "gn:latitude":2.5674,
+    "gn:longitude":102.1201,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Selemak Bongek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Selemak Bongek"
+    ],
+    "name:und_x_variant":[
+        "Kampong Selemak Bongek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764666
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"24442ebff7e85c6c11c6896d24b49d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1309910759,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1309910759,
+    "wof:lastmodified":1537673920,
+    "wof:name":"Kampung Selemak Bongek",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1201,
+    2.5674,
+    102.1201,
+    2.5674
+],
+  "geometry": {"coordinates":[102.12009999999999,2.5674],"type":"Point"}
+}

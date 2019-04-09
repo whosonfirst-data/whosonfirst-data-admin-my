@@ -1,0 +1,74 @@
+{
+  "id": 1209737735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2043,3.753,103.2043,3.753",
+    "geom:latitude":3.753,
+    "geom:longitude":103.2043,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Taman Sri Gading",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764469,
+    "gn:latitude":3.753,
+    "gn:longitude":103.2043,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Taman Sri Gading",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Sri Gading"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sri Permatang Gading",
+        "Kampong Seri Permatang Gading"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764469
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3835af863a77d886c975562e3a322d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":1209737735,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1209737735,
+    "wof:lastmodified":1537673911,
+    "wof:name":"Taman Sri Gading",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2043,
+    3.753,
+    103.2043,
+    3.753
+],
+  "geometry": {"coordinates":[103.2043,3.753],"type":"Point"}
+}

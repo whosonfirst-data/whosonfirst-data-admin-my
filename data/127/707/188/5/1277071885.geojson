@@ -1,0 +1,67 @@
+{
+  "id": 1277071885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.36667,3.73333,102.36667,3.73333",
+    "geom:latitude":3.73333,
+    "geom:longitude":102.36667,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampong Jebat",
+    "gn:country_code":"MY",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768868,
+    "gn:latitude":3.73333,
+    "gn:longitude":102.36667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Jebat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768868
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"310e53da5307ac5d9a7f82833b1e049e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1277071885,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1277071885,
+    "wof:lastmodified":1536783772,
+    "wof:name":"Kampong Jebat",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.36667,
+    3.73333,
+    102.36667,
+    3.73333
+],
+  "geometry": {"coordinates":[102.36667,3.73333],"type":"Point"}
+}

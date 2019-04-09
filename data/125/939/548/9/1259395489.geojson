@@ -1,0 +1,67 @@
+{
+  "id": 1259395489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.46667,5.86667,100.46667,5.86667",
+    "geom:latitude":5.86667,
+    "geom:longitude":100.46667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Titi Bom",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762630,
+    "gn:latitude":5.86667,
+    "gn:longitude":100.46667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Titi Bom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762630
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5489278e3a8dac3b0a6f826cc833fbf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489109,
+            "locality_id":1259395489,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1259395489,
+    "wof:lastmodified":1536984173,
+    "wof:name":"Kampong Titi Bom",
+    "wof:parent_id":890489109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.46667,
+    5.86667,
+    100.46667,
+    5.86667
+],
+  "geometry": {"coordinates":[100.46666999999999,5.86667],"type":"Point"}
+}

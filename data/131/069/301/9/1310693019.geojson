@@ -1,0 +1,70 @@
+{
+  "id": 1310693019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.06267,5.2576,101.06267,5.2576",
+    "geom:latitude":5.2576,
+    "geom:longitude":101.06267,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Tenaga Baharu Ayer Jada",
+    "gn:country_code":"MY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763183,
+    "gn:latitude":5.2576,
+    "gn:longitude":101.06267,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kampung Tenaga Baharu Ayer Jada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Tehaga Baharu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763183
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0d1557c2380e00d7688f9866442ec945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489739,
+            "locality_id":1310693019,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1310693019,
+    "wof:lastmodified":1537673848,
+    "wof:name":"Kampung Tenaga Baharu Ayer Jada",
+    "wof:parent_id":890489739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.06267,
+    5.2576,
+    101.06267,
+    5.2576
+],
+  "geometry": {"coordinates":[101.06267,5.2576],"type":"Point"}
+}

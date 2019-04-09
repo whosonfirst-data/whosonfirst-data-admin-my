@@ -1,0 +1,70 @@
+{
+  "id": 1343684107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.379,3.5424,103.379,3.5424",
+    "geom:latitude":3.5424,
+    "geom:longitude":103.379,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Perkampungan Dato Shahbandar",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662231,
+    "gn:latitude":3.5424,
+    "gn:longitude":103.379,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Perkampungan Dato Shahbandar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perkampungan Dato Shahbandar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662231
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e49942a482e4a0bd1e3bfcdcf1ebae88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1343684107,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1343684107,
+    "wof:lastmodified":1537674357,
+    "wof:name":"Perkampungan Dato Shahbandar",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.379,
+    3.5424,
+    103.379,
+    3.5424
+],
+  "geometry": {"coordinates":[103.379,3.5424],"type":"Point"}
+}

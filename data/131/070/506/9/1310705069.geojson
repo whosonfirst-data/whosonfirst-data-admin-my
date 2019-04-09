@@ -1,0 +1,74 @@
+{
+  "id": 1310705069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.34783,6.35062,100.34783,6.35062",
+    "geom:latitude":6.35062,
+    "geom:longitude":100.34783,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Melele",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767150,
+    "gn:latitude":6.35062,
+    "gn:longitude":100.34783,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Melele",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Melele"
+    ],
+    "name:und_x_variant":[
+        "Kampong Malele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767150
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"edf14b6844edc54fdeb99d9bc3f8eded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1310705069,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310705069,
+    "wof:lastmodified":1537674025,
+    "wof:name":"Kampung Melele",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.34783,
+    6.35062,
+    100.34783,
+    6.35062
+],
+  "geometry": {"coordinates":[100.34783,6.35062],"type":"Point"}
+}

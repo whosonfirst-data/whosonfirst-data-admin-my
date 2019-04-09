@@ -1,0 +1,70 @@
+{
+  "id": 1242970147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0659,2.5188,102.0659,2.5188",
+    "geom:latitude":2.5188,
+    "geom:longitude":102.0659,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Paya Lebar Luar Pilin",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797356,
+    "gn:latitude":2.5188,
+    "gn:longitude":102.0659,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Paya Lebar Luar Pilin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Paya Lebar Luar Pilin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797356
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"37f81c4ce8dc104194f0e0085493baf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1242970147,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1242970147,
+    "wof:lastmodified":1537674417,
+    "wof:name":"Kampung Paya Lebar Luar Pilin",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0659,
+    2.5188,
+    102.0659,
+    2.5188
+],
+  "geometry": {"coordinates":[102.0659,2.5188],"type":"Point"}
+}

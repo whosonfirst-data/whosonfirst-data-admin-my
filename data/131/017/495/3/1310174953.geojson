@@ -1,0 +1,72 @@
+{
+  "id": 1310174953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.63498,4.45438,118.63498,4.45438",
+    "geom:latitude":4.45438,
+    "geom:longitude":118.63498,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Tampi Tampi",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733698,
+    "gn:latitude":4.45438,
+    "gn:longitude":118.63498,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tampi Tampi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tampi",
+        "Tampi Tampi",
+        "Kampung Tampi Tampi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733698
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dfe37532a2445fa376023b5ad0e4df3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696507,
+            "locality_id":1310174953,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1310174953,
+    "wof:lastmodified":1537673687,
+    "wof:name":"Kampung Tampi Tampi",
+    "wof:parent_id":1108696507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.63498,
+    4.45438,
+    118.63498,
+    4.45438
+],
+  "geometry": {"coordinates":[118.63498,4.45438],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 890488743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5861,2.1637,102.5861,2.1637",
+    "geom:latitude":2.1637,
+    "geom:longitude":102.5861,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Serom"
+    ],
+    "qs:name":"Serom",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1744200,
+        "gp:id":1155112,
+        "qs:id":308404
+    },
+    "wof:country":"MY",
+    "wof:created":1469054730,
+    "wof:geomhash":"b1558fb7694d7b2505a665419bca9b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":890488743,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890488743,
+    "wof:lastmodified":1505343783,
+    "wof:name":"Serom",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5861,
+    2.1637,
+    102.5861,
+    2.1637
+],
+  "geometry": {"coordinates":[102.5861,2.1637],"type":"Point"}
+}

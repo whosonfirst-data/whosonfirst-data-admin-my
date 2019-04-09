@@ -1,0 +1,73 @@
+{
+  "id": 1343234623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4632,5.7598,116.4632,5.7598",
+    "geom:latitude":5.7598,
+    "geom:longitude":116.4632,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tunggaring",
+    "gn:country_code":"MY",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762426,
+    "gn:latitude":5.7598,
+    "gn:longitude":116.4632,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tunggaring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tunggaring"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tungaring"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762426
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b5cdd0dd28ee69137596be2400fa8974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696525,
+            "locality_id":1343234623,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343234623,
+    "wof:lastmodified":1537673815,
+    "wof:name":"Kampung Tunggaring",
+    "wof:parent_id":1108696525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4632,
+    5.7598,
+    116.4632,
+    5.7598
+],
+  "geometry": {"coordinates":[116.4632,5.7598],"type":"Point"}
+}

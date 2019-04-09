@@ -1,0 +1,75 @@
+{
+  "id": 1293474363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.49046,5.25198,100.49046,5.25198",
+    "geom:latitude":5.25198,
+    "geom:longitude":100.49046,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Val Dor",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733331,
+    "gn:latitude":5.25198,
+    "gn:longitude":100.49046,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Val Dor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Val Dor"
+    ],
+    "name:und_x_variant":[
+        "Val d\u2019Or"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733331,
+        "wk:page":"Val_d%27Or%2C_Penang"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"32e7770584456721e139354bb43a37e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1293474363,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1293474363,
+    "wof:lastmodified":1537673675,
+    "wof:name":"Val Dor",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49046,
+    5.25198,
+    100.49046,
+    5.25198
+],
+  "geometry": {"coordinates":[100.49046,5.25198],"type":"Point"}
+}

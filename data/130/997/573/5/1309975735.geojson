@@ -1,0 +1,64 @@
+{
+  "id": 1309975735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.6943,4.5757,118.6943,4.5757",
+    "geom:latitude":4.5757,
+    "geom:longitude":118.6943,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Selakan",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7064105,
+    "gn:latitude":4.5757,
+    "gn:longitude":118.6943,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Selakan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Selakan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7064105
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3603a5b822e1bdfc76985d03db01084d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309975735,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309975735,
+    "wof:lastmodified":1537674273,
+    "wof:name":"Kampung Selakan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.6943,
+    4.5757,
+    118.6943,
+    4.5757
+],
+  "geometry": {"coordinates":[118.6943,4.5757],"type":"Point"}
+}

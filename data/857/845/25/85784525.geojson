@@ -1,0 +1,105 @@
+{
+  "id": 85784525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7125956.360217,
+    "geom:bbox":"101.617079,3.027743,101.617079,3.027743",
+    "geom:latitude":3.027743,
+    "geom:longitude":101.617079,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.027743,
+    "lbl:longitude":101.617079,
+    "mps:latitude":3.028886,
+    "mps:longitude":101.612959,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:und_x_preferred":[
+        "Mutiara Puchong"
+    ],
+    "name:unk_x_variant":[
+        "Mutiara Puchong"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":491,
+    "qs:local_sum":2868,
+    "qs:localhoods":17,
+    "qs:name":"Mutiara Puchong",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:name_adm2":"Petaling",
+    "qs:name_lau":"Petaling",
+    "qs:name_local":"Subang Jaya",
+    "qs:photo_max":25,
+    "qs:photo_sum":130,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346306,
+    "qs:woe_adm2":56013632,
+    "qs:woe_lau":56014451,
+    "qs:woe_local":55862650,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023809,
+        890490605,
+        85675163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56037127,
+        "qs:id":1191316,
+        "qs_pg:id":1191316
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b32a1b8fcf028182cb3711266a4c2b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490605,
+            "locality_id":102023809,
+            "neighbourhood_id":85784525,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":85784525,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860620,
+    "wof:name":"Mutiara Puchong",
+    "wof:parent_id":102023809,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.617079,
+    3.027743,
+    101.617079,
+    3.027743
+],
+  "geometry": {"coordinates":[101.617079,3.027743],"type":"Point"}
+}

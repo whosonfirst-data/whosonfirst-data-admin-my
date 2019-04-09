@@ -1,0 +1,70 @@
+{
+  "id": 1260082007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.985,5.9679,101.985,5.9679",
+    "geom:latitude":5.9679,
+    "geom:longitude":101.985,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gual Badak",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068079,
+    "gn:latitude":5.9679,
+    "gn:longitude":101.985,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gual Badak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Gual Badak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068079
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e63b98ebf41f40d80b2f452bc8a2ab52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1260082007,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1260082007,
+    "wof:lastmodified":1537674277,
+    "wof:name":"Gual Badak",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.985,
+    5.9679,
+    101.985,
+    5.9679
+],
+  "geometry": {"coordinates":[101.985,5.9679],"type":"Point"}
+}

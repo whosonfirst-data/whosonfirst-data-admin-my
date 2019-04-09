@@ -1,0 +1,70 @@
+{
+  "id": 1243044399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4363,4.5067,103.4363,4.5067",
+    "geom:latitude":4.5067,
+    "geom:longitude":103.4363,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Wan Adnan",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7632874,
+    "gn:latitude":4.5067,
+    "gn:longitude":103.4363,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Wan Adnan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Wan Adnan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7632874
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"97eb72a797886ef315edba9fc7c8cbaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "locality_id":1243044399,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1243044399,
+    "wof:lastmodified":1537674339,
+    "wof:name":"Kampung Wan Adnan",
+    "wof:parent_id":890490801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4363,
+    4.5067,
+    103.4363,
+    4.5067
+],
+  "geometry": {"coordinates":[103.4363,4.5067],"type":"Point"}
+}

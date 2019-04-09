@@ -1,0 +1,72 @@
+{
+  "id": 1226630639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.41667,5.38333,100.41667,5.38333",
+    "geom:latitude":5.38333,
+    "geom:longitude":100.41667,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampong Bakar Arang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771262,
+    "gn:latitude":5.38333,
+    "gn:longitude":100.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Bakar Arang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakar Arang",
+        "Kampong Bakar Arang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771262
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"716055cb855d4fa4187d92c9052321a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1226630639,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1226630639,
+    "wof:lastmodified":1537674194,
+    "wof:name":"Kampong Bakar Arang",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.41667,
+    5.38333,
+    100.41667,
+    5.38333
+],
+  "geometry": {"coordinates":[100.41667,5.38333],"type":"Point"}
+}

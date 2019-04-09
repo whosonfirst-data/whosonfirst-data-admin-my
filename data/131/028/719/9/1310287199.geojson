@@ -1,0 +1,72 @@
+{
+  "id": 1310287199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.19618,4.66087,118.19618,4.66087",
+    "geom:latitude":4.66087,
+    "geom:longitude":118.19618,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Mostyn Lama",
+    "gn:country_code":"MY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733636,
+    "gn:latitude":4.66087,
+    "gn:longitude":118.19618,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Mostyn Lama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mostyn Old Village",
+        "Mostyn",
+        "Kampung Mostyn Lama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733636
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3a1b2b92b3b6cec74f0095b672283f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696435,
+            "locality_id":1310287199,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1310287199,
+    "wof:lastmodified":1537673686,
+    "wof:name":"Kampung Mostyn Lama",
+    "wof:parent_id":1108696435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.19618,
+    4.66087,
+    118.19618,
+    4.66087
+],
+  "geometry": {"coordinates":[118.19618,4.66087],"type":"Point"}
+}

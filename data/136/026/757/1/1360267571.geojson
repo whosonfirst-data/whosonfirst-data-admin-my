@@ -1,0 +1,73 @@
+{
+  "id": 1360267571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.6658,5.4294,115.6658,5.4294",
+    "geom:latitude":5.4294,
+    "geom:longitude":115.6658,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Pansong",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766211,
+    "gn:latitude":5.4294,
+    "gn:longitude":115.6658,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pansong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pansong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pansong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766211
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f8e3bcff8440df3cf9fd17d5dc6e78b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696385,
+            "locality_id":1360267571,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1360267571,
+    "wof:lastmodified":1537673987,
+    "wof:name":"Kampung Pansong",
+    "wof:parent_id":1108696385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.6658,
+    5.4294,
+    115.6658,
+    5.4294
+],
+  "geometry": {"coordinates":[115.6658,5.4294],"type":"Point"}
+}

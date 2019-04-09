@@ -1,0 +1,73 @@
+{
+  "id": 1293765859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1603,5.9851,116.1603,5.9851",
+    "geom:latitude":5.9851,
+    "geom:longitude":116.1603,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Pamatadan",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766302,
+    "gn:latitude":5.9851,
+    "gn:longitude":116.1603,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pamatadan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pamatadan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pamatadan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766302
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0e01f1615c21c99123ed2ad63a11d677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1293765859,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293765859,
+    "wof:lastmodified":1537673990,
+    "wof:name":"Kampung Pamatadan",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1603,
+    5.9851,
+    116.1603,
+    5.9851
+],
+  "geometry": {"coordinates":[116.16030000000001,5.9851],"type":"Point"}
+}

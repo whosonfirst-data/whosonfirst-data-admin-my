@@ -1,0 +1,64 @@
+{
+  "id": 1209318649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7929,2.3617,102.7929,2.3617",
+    "geom:latitude":2.3617,
+    "geom:longitude":102.7929,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Simpang Tiga Durian Chondong",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798325,
+    "gn:latitude":2.3617,
+    "gn:longitude":102.7929,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Simpang Tiga Durian Chondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Simpang Tiga Durian Chondong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798325
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5d2ec66d5bbaf92c85eaab98ad12e09b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209318649
+        }
+    ],
+    "wof:id":1209318649,
+    "wof:lastmodified":1537674430,
+    "wof:name":"Kampung Simpang Tiga Durian Chondong",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7929,
+    2.3617,
+    102.7929,
+    2.3617
+],
+  "geometry": {"coordinates":[102.7929,2.3617],"type":"Point"}
+}

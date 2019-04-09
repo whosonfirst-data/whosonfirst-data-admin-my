@@ -1,0 +1,96 @@
+{
+  "id": 1126092607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.29307,5.45768,100.29307,5.45768",
+    "geom:latitude":5.45768,
+    "geom:longitude":100.29307,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:latitude":5.45768,
+    "gn:longitude":100.29307,
+    "iso:country":"MY",
+    "lbl:latitude":5.45768,
+    "lbl:longitude":100.29307,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:und_x_preferred":[
+        "Bandar Tanjung Bungah"
+    ],
+    "name:unk_x_variant":[
+        "Bandar Tanjung Bungah"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6692366,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bandar Tanjung Bungah",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Pulau Pinang",
+    "qs_pg:photos":578,
+    "qs_pg:photos_1k":117,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":578,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":376816,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":56036455,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Pulau Pinang",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102023941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692366,
+        "gp:id":56036455,
+        "qs:id":376816,
+        "qs_pg:id":376816
+    },
+    "wof:country":"MY",
+    "wof:created":1497314275,
+    "wof:geomhash":"eb42495f690e96e73f626e6df346c2ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102023941,
+            "neighbourhood_id":1126092607,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126092607,
+    "wof:lastmodified":1534379384,
+    "wof:name":"Bandar Tanjung Bungah",
+    "wof:parent_id":102023941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85784447
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.29307,
+    5.45768,
+    100.29307,
+    5.45768
+],
+  "geometry": {"coordinates":[100.29307,5.45768],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 85784185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000206,
+    "geom:area_square_m":2545833.893053,
+    "geom:bbox":"101.733398438,3.08100237817,101.753011475,3.09487363453",
+    "geom:latitude":3.087652,
+    "geom:longitude":101.743693,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.089198,
+    "lbl:longitude":101.741484,
+    "mps:latitude":3.08841,
+    "mps:longitude":101.743692,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:und_x_preferred":[
+        "Taman Taynton View"
+    ],
+    "name:unk_x_variant":[
+        "Taman Taynton View"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Taman Taynton View",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Kuala Lumpur",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":39,
+    "qs:photo_sum":86,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56013690,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":117,
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017191,
+        "qs:id":1190998,
+        "wd:id":"Q7680661"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b5c3ecdf61bac58a2e56d5fcc825f2ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85784185,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85784185,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269497,
+    "wof:name":"Taman Taynton View",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7333984378543,
+    3.08100237817112,
+    101.75301147500016,
+    3.09487363452808
+],
+  "geometry": {"coordinates":[[[101.74438476600022,3.09487363452808],[101.75288433020796,3.09122564361323],[101.75287017828396,3.09121402942948],[101.75301147500016,3.08977941979511],[101.75287641408988,3.08840812336004],[101.75301147500016,3.08703682692506],[101.75281932780422,3.08508592370492],[101.75225027032531,3.08320999260158],[101.75132617112308,3.08148112459487],[101.75095023303868,3.08102304271355],[101.75095650155924,3.08100237817112],[101.74163818400024,3.08233549451599],[101.73889160200019,3.08194255734306],[101.73660742662156,3.08292290755527],[101.73613707528875,3.08292290755527],[101.73339843785431,3.08566552459168],[101.73339843787511,3.09115071091496],[101.73752030942728,3.09115071239209],[101.73889160179334,3.09252400357775],[101.74094453470855,3.09457993006308],[101.74163818400024,3.0944806925709],[101.74438476600022,3.09487363452808]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293866047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.07662,7.29547,117.07662,7.29547",
+    "geom:latitude":7.29547,
+    "geom:longitude":117.07662,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Kalang Kaman",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771889,
+    "gn:latitude":7.29547,
+    "gn:longitude":117.07662,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kampung Kalang Kaman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalangkaman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771889
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"021f6790e8294f3424cff72f94491fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1293866047,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293866047,
+    "wof:lastmodified":1537674215,
+    "wof:name":"Kampung Kalang Kaman",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.07662,
+    7.29547,
+    117.07662,
+    7.29547
+],
+  "geometry": {"coordinates":[117.07662000000001,7.29547],"type":"Point"}
+}

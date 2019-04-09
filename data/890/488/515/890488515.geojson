@@ -1,0 +1,70 @@
+{
+  "id": 890488515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.215202,2.477309,102.215202,2.477309",
+    "geom:latitude":2.477309,
+    "geom:longitude":102.215202,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tampin Tengah",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Negeri Sembilan",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":43,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":816,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        1108696529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014575,
+        "qs:id":1306945,
+        "wd:id":"Q2219146",
+        "wk:page":"Tampin District"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054722,
+    "wof:geomhash":"728d1241d0075ca8d3a7de104a6f0e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696529,
+            "localadmin_id":890488515,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":890488515,
+    "wof:lastmodified":1527787082,
+    "wof:name":"Tampin Tengah",
+    "wof:parent_id":1108696529,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.215202,
+    2.477309,
+    102.215202,
+    2.477309
+],
+  "geometry": {"coordinates":[102.21520200000001,2.477309],"type":"Point"}
+}

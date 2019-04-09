@@ -1,0 +1,71 @@
+{
+  "id": 1242759065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.45567,1.0305,110.45567,1.0305",
+    "geom:latitude":1.0305,
+    "geom:longitude":110.45567,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Tembawang Taup",
+    "gn:country_code":"MY",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762934,
+    "gn:latitude":1.0305,
+    "gn:longitude":110.45567,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampong Tembawang Taup",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tembawang Taup",
+        "Kampong Tembawang Taup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762934
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c6ecfaa786177b4e6c47c632f1e21ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696511,
+            "locality_id":1242759065,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1242759065,
+    "wof:lastmodified":1537673837,
+    "wof:name":"Kampong Tembawang Taup",
+    "wof:parent_id":1108696511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.45567,
+    1.0305,
+    110.45567,
+    1.0305
+],
+  "geometry": {"coordinates":[110.45567,1.0305],"type":"Point"}
+}

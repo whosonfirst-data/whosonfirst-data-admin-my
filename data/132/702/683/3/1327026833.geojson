@@ -1,0 +1,67 @@
+{
+  "id": 1327026833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.15,4.26667,101.15,4.26667",
+    "geom:latitude":4.26667,
+    "geom:longitude":101.15,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Memban Di Awan",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1755219,
+    "gn:latitude":4.26667,
+    "gn:longitude":101.15,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Memban Di Awan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1755219
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f494824c818a19691dd9fd8086b6b97d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489741,
+            "locality_id":1327026833,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1327026833,
+    "wof:lastmodified":1536769013,
+    "wof:name":"Memban Di Awan",
+    "wof:parent_id":890489741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.15,
+    4.26667,
+    101.15,
+    4.26667
+],
+  "geometry": {"coordinates":[101.15000000000001,4.26667],"type":"Point"}
+}

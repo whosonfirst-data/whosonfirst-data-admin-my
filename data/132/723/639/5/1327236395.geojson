@@ -1,0 +1,70 @@
+{
+  "id": 1327236395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2133,2.9259,102.2133,2.9259",
+    "geom:latitude":2.9259,
+    "geom:longitude":102.2133,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Kemalau",
+    "gn:country_code":"MY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796665,
+    "gn:latitude":2.9259,
+    "gn:longitude":102.2133,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kemalau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kemalau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796665
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f5984a08a2518e845a96e0520b33da72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1327236395,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1327236395,
+    "wof:lastmodified":1537674408,
+    "wof:name":"Kampung Kemalau",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2133,
+    2.9259,
+    102.2133,
+    2.9259
+],
+  "geometry": {"coordinates":[102.2133,2.9259],"type":"Point"}
+}

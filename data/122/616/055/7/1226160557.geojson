@@ -1,0 +1,78 @@
+{
+  "id": 1226160557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7549,1.532,103.7549,1.532",
+    "geom:latitude":1.532,
+    "geom:longitude":103.7549,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Kangkar Teberau",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762110,
+    "gn:latitude":1.532,
+    "gn:longitude":103.7549,
+    "gn:modification_date":"2018-04-12",
+    "gn:name":"Kampung Kangkar Teberau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kangkar Teberau"
+    ],
+    "name:und_x_variant":[
+        "Tbrau",
+        "Kangkai Tebrau",
+        "Teberau",
+        "Tebrau",
+        "Kangkar Teberau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762110,
+        "wk:page":"Kangkar_Tebrau"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4e078ba332a5efe38c08bf5c5d24482e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1226160557,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1226160557,
+    "wof:lastmodified":1537673804,
+    "wof:name":"Kampung Kangkar Teberau",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7549,
+    1.532,
+    103.7549,
+    1.532
+],
+  "geometry": {"coordinates":[103.75490000000001,1.532],"type":"Point"}
+}

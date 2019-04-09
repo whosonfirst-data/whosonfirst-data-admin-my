@@ -1,0 +1,85 @@
+{
+  "id": 890490185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.423527,4.778139,103.423527,4.778139",
+    "geom:latitude":4.778139,
+    "geom:longitude":103.423527,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u90fd\u5143\u56fd"
+    ],
+    "name:dut_x_preferred":[
+        "Kuala Dungun"
+    ],
+    "name:eng_x_preferred":[
+        "Kuala Dungun"
+    ],
+    "name:ind_x_preferred":[
+        "Kuala Dungun"
+    ],
+    "name:may_x_preferred":[
+        "Kuala Dungun"
+    ],
+    "qs:name":"Kuala Dungun",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Terengganu",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1151797,
+        "qs:id":1175313,
+        "wd:id":"Q5256508",
+        "wk:page":"Kuala Dungun"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054793,
+    "wof:geomhash":"4ca28164b911559a36297b943b471a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":890490185,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":890490185,
+    "wof:lastmodified":1527734160,
+    "wof:name":"Kuala Dungun",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.423527,
+    4.778139,
+    103.423527,
+    4.778139
+],
+  "geometry": {"coordinates":[103.42352700000001,4.778139],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293484505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1078,4.6516,101.1078,4.6516",
+    "geom:latitude":4.6516,
+    "geom:longitude":101.1078,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taman Tasek Jaya",
+    "gn:country_code":"MY",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473364,
+    "gn:latitude":4.6516,
+    "gn:longitude":101.1078,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Tasek Jaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Tasek Jaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473364
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f221f508120c6184c25c28169c24b9aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1293484505,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1293484505,
+    "wof:lastmodified":1537674305,
+    "wof:name":"Taman Tasek Jaya",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1078,
+    4.6516,
+    101.1078,
+    4.6516
+],
+  "geometry": {"coordinates":[101.1078,4.6516],"type":"Point"}
+}

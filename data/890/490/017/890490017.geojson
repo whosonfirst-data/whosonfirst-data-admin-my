@@ -1,0 +1,81 @@
+{
+  "id": 890490017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7747,3.1206,101.7747,3.1206",
+    "geom:latitude":3.1206,
+    "geom:longitude":101.7747,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Melor"
+    ],
+    "qs:name":"Taman Melur",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":646,
+    "wof:belongsto":[
+        85675163,
+        102191569,
+        85632739,
+        102023417,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7688607,
+        "gp:id":55862713,
+        "qs:id":56206,
+        "wd:id":"Q1884699",
+        "wk:page":"Bandar Baharu District"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054785,
+    "wof:geomhash":"f5051358e1e4b9c75d70b4273b798819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":102023417,
+            "neighbourhood_id":890490017,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890490017,
+    "wof:lastmodified":1527734159,
+    "wof:name":"Taman Melur",
+    "wof:parent_id":102023417,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7747,
+    3.1206,
+    101.7747,
+    3.1206
+],
+  "geometry": {"coordinates":[101.7747,3.1206],"type":"Point"}
+}

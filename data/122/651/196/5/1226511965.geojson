@@ -1,0 +1,70 @@
+{
+  "id": 1226511965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.0081,6.5792,117.0081,6.5792",
+    "geom:latitude":6.5792,
+    "geom:longitude":117.0081,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Purupuk",
+    "gn:country_code":"MY",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416341,
+    "gn:latitude":6.5792,
+    "gn:longitude":117.0081,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Purupuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Purupuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416341
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6d83867956b357f77c414b2a81877324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1226511965,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226511965,
+    "wof:lastmodified":1537674282,
+    "wof:name":"Kampung Purupuk",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.0081,
+    6.5792,
+    117.0081,
+    6.5792
+],
+  "geometry": {"coordinates":[117.0081,6.5792],"type":"Point"}
+}

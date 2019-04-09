@@ -1,0 +1,64 @@
+{
+  "id": 1209620091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3663,2.7066,102.3663,2.7066",
+    "geom:latitude":2.7066,
+    "geom:longitude":102.3663,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kepis Batu Sepuloh",
+    "gn:country_code":"MY",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697988,
+    "gn:latitude":2.7066,
+    "gn:longitude":102.3663,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kepis Batu Sepuloh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kepis Batu Sepuloh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697988
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e3b3c7e546bb985f72cd9e93b74f6840",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209620091
+        }
+    ],
+    "wof:id":1209620091,
+    "wof:lastmodified":1537674369,
+    "wof:name":"Kepis Batu Sepuloh",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3663,
+    2.7066,
+    102.3663,
+    2.7066
+],
+  "geometry": {"coordinates":[102.3663,2.7066],"type":"Point"}
+}

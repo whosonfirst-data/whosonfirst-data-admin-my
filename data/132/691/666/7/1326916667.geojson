@@ -1,0 +1,70 @@
+{
+  "id": 1326916667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.25433,4.31731,103.25433,4.31731",
+    "geom:latitude":4.31731,
+    "geom:longitude":103.25433,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Lubuk Batu Kecil",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767336,
+    "gn:latitude":4.31731,
+    "gn:longitude":103.25433,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Lubuk Batu Kecil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Lubok Batu Kechil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767336
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e8f8d6a1df969e508d2e9fc26266d37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "locality_id":1326916667,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1326916667,
+    "wof:lastmodified":1537674033,
+    "wof:name":"Kampung Lubuk Batu Kecil",
+    "wof:parent_id":890490801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.25433,
+    4.31731,
+    103.25433,
+    4.31731
+],
+  "geometry": {"coordinates":[103.25433,4.31731],"type":"Point"}
+}

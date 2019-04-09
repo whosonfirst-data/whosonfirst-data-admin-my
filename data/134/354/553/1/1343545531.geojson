@@ -1,0 +1,74 @@
+{
+  "id": 1343545531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.20921,5.36342,100.20921,5.36342",
+    "geom:latitude":5.36342,
+    "geom:longitude":100.20921,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Bagan Air Hitam",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771413,
+    "gn:latitude":5.36342,
+    "gn:longitude":100.20921,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bagan Air Hitam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bagan Air Hitam"
+    ],
+    "name:und_x_variant":[
+        "Bagan Ayer Itam",
+        "Kampong Bagan Ayer Itam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771413
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b1f91dc5866b08d2b67dabdeffe8e8be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "locality_id":1343545531,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1343545531,
+    "wof:lastmodified":1537674201,
+    "wof:name":"Kampung Bagan Air Hitam",
+    "wof:parent_id":890489155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.20921,
+    5.36342,
+    100.20921,
+    5.36342
+],
+  "geometry": {"coordinates":[100.20921,5.36342],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310580665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.48295,5.52597,102.48295,5.52597",
+    "geom:latitude":5.52597,
+    "geom:longitude":102.48295,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung La",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735563,
+    "gn:latitude":5.52597,
+    "gn:longitude":102.48295,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung La",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung La"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735563
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"507ed2c12a789b11f0cbe54d26f52f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "locality_id":1310580665,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1310580665,
+    "wof:lastmodified":1537673724,
+    "wof:name":"Kampung La",
+    "wof:parent_id":890488399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.48295,
+    5.52597,
+    102.48295,
+    5.52597
+],
+  "geometry": {"coordinates":[102.48295,5.52597],"type":"Point"}
+}

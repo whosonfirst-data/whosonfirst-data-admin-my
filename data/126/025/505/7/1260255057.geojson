@@ -1,0 +1,72 @@
+{
+  "id": 1260255057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.43333,5.85,117.43333,5.85",
+    "geom:latitude":5.85,
+    "geom:longitude":117.43333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Manok Manok",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733548,
+    "gn:latitude":5.85,
+    "gn:longitude":117.43333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Manok Manok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Manok Manok",
+        "Manok Manok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733548
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0cd2ac7d7bf797549147d0c2cfbdfc83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1260255057,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1260255057,
+    "wof:lastmodified":1537673684,
+    "wof:name":"Manok Manok",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.43333,
+    5.85,
+    117.43333,
+    5.85
+],
+  "geometry": {"coordinates":[117.43333,5.85],"type":"Point"}
+}

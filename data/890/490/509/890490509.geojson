@@ -1,0 +1,73 @@
+{
+  "id": 890490509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.91667,4.93333,100.91667,4.93333",
+    "geom:latitude":4.93333,
+    "geom:longitude":100.91667,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Sauk",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":118,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734573,
+        "gp:id":1155074,
+        "qs:id":301286,
+        "wk:page":"Sauk"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054813,
+    "wof:geomhash":"f9ca42d2683285608bf08ec126715e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":890490509,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890490509,
+    "wof:lastmodified":1527734158,
+    "wof:name":"Sauk",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.91667,
+    4.93333,
+    100.91667,
+    4.93333
+],
+  "geometry": {"coordinates":[100.91667,4.93333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326642767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.46729,6.07423,100.46729,6.07423",
+    "geom:latitude":6.07423,
+    "geom:longitude":100.46729,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Kelopak Jantan",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768431,
+    "gn:latitude":6.07423,
+    "gn:longitude":100.46729,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kampung Kelopak Jantan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kelopak Jantan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kelopak Jantan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768431
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ce4b1b82e3fa8beeebe6e81b1a7d9a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1326642767,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1326642767,
+    "wof:lastmodified":1537674077,
+    "wof:name":"Kampung Kelopak Jantan",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.46729,
+    6.07423,
+    100.46729,
+    6.07423
+],
+  "geometry": {"coordinates":[100.46729000000001,6.07423],"type":"Point"}
+}

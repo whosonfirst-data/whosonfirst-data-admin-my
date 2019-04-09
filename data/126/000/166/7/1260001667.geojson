@@ -1,0 +1,70 @@
+{
+  "id": 1260001667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7127,4.4099,101.7127,4.4099",
+    "geom:latitude":4.4099,
+    "geom:longitude":101.7127,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Medang",
+    "gn:country_code":"MY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7792067,
+    "gn:latitude":4.4099,
+    "gn:longitude":101.7127,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Medang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Medang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7792067
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"53d98e7ea62bcb08ae4888c7f7f13f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1260001667,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1260001667,
+    "wof:lastmodified":1537674384,
+    "wof:name":"Kampung Medang",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7127,
+    4.4099,
+    101.7127,
+    4.4099
+],
+  "geometry": {"coordinates":[101.7127,4.4099],"type":"Point"}
+}

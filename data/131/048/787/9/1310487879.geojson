@@ -1,0 +1,70 @@
+{
+  "id": 1310487879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3107,4.5636,103.3107,4.5636",
+    "geom:latitude":4.5636,
+    "geom:longitude":103.3107,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Perkampungan Rasau Kertih Satu",
+    "gn:country_code":"MY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7622195,
+    "gn:latitude":4.5636,
+    "gn:longitude":103.3107,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Perkampungan Rasau Kertih Satu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perkampungan Rasau Kertih Satu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622195
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"525fec4e04ff8b4e77abf9b8240b922e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":1310487879,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1310487879,
+    "wof:lastmodified":1537674338,
+    "wof:name":"Perkampungan Rasau Kertih Satu",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3107,
+    4.5636,
+    103.3107,
+    4.5636
+],
+  "geometry": {"coordinates":[103.3107,4.5636],"type":"Point"}
+}

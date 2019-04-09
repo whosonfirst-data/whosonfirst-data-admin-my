@@ -1,0 +1,70 @@
+{
+  "id": 1226315279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.8129,6.405,116.8129,6.405",
+    "geom:latitude":6.405,
+    "geom:longitude":116.8129,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Pampadan",
+    "gn:country_code":"MY",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7468107,
+    "gn:latitude":6.405,
+    "gn:longitude":116.8129,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pampadan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pampadan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468107
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3a0fb30274e237cb9cd252c6ab435e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696425,
+            "locality_id":1226315279,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226315279,
+    "wof:lastmodified":1537674297,
+    "wof:name":"Kampung Pampadan",
+    "wof:parent_id":1108696425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.8129,
+    6.405,
+    116.8129,
+    6.405
+],
+  "geometry": {"coordinates":[116.8129,6.405],"type":"Point"}
+}

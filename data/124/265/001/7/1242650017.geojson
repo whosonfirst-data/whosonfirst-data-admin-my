@@ -1,0 +1,71 @@
+{
+  "id": 1242650017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.4506,4.5849,118.4506,4.5849",
+    "geom:latitude":4.5849,
+    "geom:longitude":118.4506,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Bako",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771246,
+    "gn:latitude":4.5849,
+    "gn:longitude":118.4506,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bako",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Bako",
+        "Kampung Bako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771246
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"848764460673d648b24369b04c237e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696507,
+            "locality_id":1242650017,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1242650017,
+    "wof:lastmodified":1537674193,
+    "wof:name":"Kampung Bako",
+    "wof:parent_id":1108696507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.4506,
+    4.5849,
+    118.4506,
+    4.5849
+],
+  "geometry": {"coordinates":[118.45059999999999,4.5849],"type":"Point"}
+}

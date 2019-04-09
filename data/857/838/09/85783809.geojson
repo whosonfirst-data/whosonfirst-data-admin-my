@@ -1,0 +1,118 @@
+{
+  "id": 85783809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000358,
+    "geom:area_square_m":4414210.88484,
+    "geom:bbox":"101.700439453,3.08748858629,101.723783391,3.11309116936",
+    "geom:latitude":3.100384,
+    "geom:longitude":101.711848,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.10111,
+    "lbl:longitude":101.715293,
+    "mps:latitude":3.100787,
+    "mps:longitude":101.712792,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Bandar Sri Permaisuri"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Sri Permaisuri"
+    ],
+    "name:may_x_preferred":[
+        "Bandar Sri Permaisuri"
+    ],
+    "name:und_x_preferred":[
+        "Bandar Sri Permaisuri"
+    ],
+    "name:unk_x_variant":[
+        "Bandar Sri Permaisuri"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Bandar Sri Permaisuri",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Kuala Lumpur",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":52,
+    "qs:photo_sum":184,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56013690,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":3.101944,
+    "wd:longitude":101.709722,
+    "wd:wordcount":605,
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56015031,
+        "qs:id":1306977,
+        "qs_pg:id":1306977,
+        "wd:id":"Q4209739"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"43101d50c95cf785a6b080e8914c5fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85783809,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85783809,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269521,
+    "wof:name":"Bandar Sri Permaisuri",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.70043945300012,
+    3.08748858629328,
+    101.72378339093603,
+    3.11309116936484
+],
+  "geometry": {"coordinates":[[[101.71691894500009,3.11309116916659],[101.71965744095303,3.11034862306261],[101.71967361304735,3.11034862306261],[101.72241210900012,3.10760609717097],[101.72241210900012,3.10349428973252],[101.72378339093603,3.10212099606859],[101.72287054176297,3.09937843810288],[101.72241210900012,3.09937843880259],[101.71966552700013,3.09937843876928],[101.71966552700013,3.09663587184008],[101.71966552700013,3.09617944073143],[101.71691894500009,3.09526257582664],[101.71691894500009,3.09115071002874],[101.71142578100006,3.09115071032414],[101.70776898823368,3.08748858629328],[101.70409624892875,3.08932762696875],[101.70227584311561,3.09297374361923],[101.70043945300017,3.09389327895776],[101.70043945300017,3.09663587184008],[101.70043945300017,3.10074770478123],[101.70043945300012,3.10212100080994],[101.70181073138446,3.10212099606859],[101.70593261700003,3.10212099636497],[101.70593261700003,3.10760609687388],[101.71142578100012,3.10760609687388],[101.71142578100006,3.11309116936484],[101.71691894500009,3.11309116916659]]],"type":"Polygon"}
+}

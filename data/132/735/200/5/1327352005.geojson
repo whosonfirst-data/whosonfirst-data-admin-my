@@ -1,0 +1,67 @@
+{
+  "id": 1327352005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.31667,3.31667,101.31667,3.31667",
+    "geom:latitude":3.31667,
+    "geom:longitude":101.31667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Kampong Kuatan",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767920,
+    "gn:latitude":3.31667,
+    "gn:longitude":101.31667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Kuatan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890488801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767920
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8a19715a3d90b68e8b0f09796b45a17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488801,
+            "locality_id":1327352005,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1327352005,
+    "wof:lastmodified":1536797120,
+    "wof:name":"Kampong Kuatan",
+    "wof:parent_id":890488801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.31667,
+    3.31667,
+    101.31667,
+    3.31667
+],
+  "geometry": {"coordinates":[101.31667,3.31667],"type":"Point"}
+}

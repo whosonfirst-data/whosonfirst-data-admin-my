@@ -1,0 +1,73 @@
+{
+  "id": 1225947455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.21012,6.26138,100.21012,6.26138",
+    "geom:latitude":6.26138,
+    "geom:longitude":100.21012,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Permatang Haji Man",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765567,
+    "gn:latitude":6.26138,
+    "gn:longitude":100.21012,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kampung Permatang Haji Man",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Permatang Haji Man"
+    ],
+    "name:und_x_variant":[
+        "Kampong Permatang Haji Man"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765567
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"461ceeb5c879075fd362190733ad8fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1225947455,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1225947455,
+    "wof:lastmodified":1537673959,
+    "wof:name":"Kampung Permatang Haji Man",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.21012,
+    6.26138,
+    100.21012,
+    6.26138
+],
+  "geometry": {"coordinates":[100.21012,6.26138],"type":"Point"}
+}

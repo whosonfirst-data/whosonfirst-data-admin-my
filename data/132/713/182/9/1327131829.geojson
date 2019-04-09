@@ -1,0 +1,70 @@
+{
+  "id": 1327131829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3896,4.1309,102.3896,4.1309",
+    "geom:latitude":4.1309,
+    "geom:longitude":102.3896,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Perkampungan Sungai Retang",
+    "gn:country_code":"MY",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564982,
+    "gn:latitude":4.1309,
+    "gn:longitude":102.3896,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Perkampungan Sungai Retang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perkampungan Sungai Retang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564982
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"168e146367af4339418b042e2269d8af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1327131829,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1327131829,
+    "wof:lastmodified":1537674311,
+    "wof:name":"Perkampungan Sungai Retang",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3896,
+    4.1309,
+    102.3896,
+    4.1309
+],
+  "geometry": {"coordinates":[102.3896,4.1309],"type":"Point"}
+}

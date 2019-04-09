@@ -1,0 +1,64 @@
+{
+  "id": 1209021973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6056,1.9933,102.6056,1.9933",
+    "geom:latitude":1.9933,
+    "geom:longitude":102.6056,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Payong",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856389,
+    "gn:latitude":1.9933,
+    "gn:longitude":102.6056,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Payong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Payong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856389
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cd92fa990d0c8352027e487a3125b71a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209021973
+        }
+    ],
+    "wof:id":1209021973,
+    "wof:lastmodified":1537674439,
+    "wof:name":"Kampung Parit Payong",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6056,
+    1.9933,
+    102.6056,
+    1.9933
+],
+  "geometry": {"coordinates":[102.6056,1.9933],"type":"Point"}
+}

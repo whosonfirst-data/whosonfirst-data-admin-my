@@ -1,0 +1,73 @@
+{
+  "id": 1259689967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3435,2.2506,102.3435,2.2506",
+    "geom:latitude":2.2506,
+    "geom:longitude":102.3435,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Serompong",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764463,
+    "gn:latitude":2.2506,
+    "gn:longitude":102.3435,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Serompong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Serompong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Serompong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764463
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ce115a423b243038dea5a69ce27c3c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489809,
+            "locality_id":1259689967,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1259689967,
+    "wof:lastmodified":1537673910,
+    "wof:name":"Kampung Serompong",
+    "wof:parent_id":890489809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3435,
+    2.2506,
+    102.3435,
+    2.2506
+],
+  "geometry": {"coordinates":[102.34350000000001,2.2506],"type":"Point"}
+}

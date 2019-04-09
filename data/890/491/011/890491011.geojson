@@ -1,0 +1,72 @@
+{
+  "id": 890491011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3,1.8278,103.3,1.8278",
+    "geom:latitude":1.8278,
+    "geom:longitude":103.3,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":17528,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Simpang Renggam"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Simpang Rengam"
+    ],
+    "qs:name":"Kampung Simpang Renggam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764318,
+        "gp:id":91739139,
+        "qs:id":88621
+    },
+    "wof:country":"MY",
+    "wof:created":1469054835,
+    "wof:geomhash":"733639e46545c3a31b3e97a151bd7630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":890491011,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890491011,
+    "wof:lastmodified":1505343790,
+    "wof:name":"Kampung Simpang Renggam",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:population":17528,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3,
+    1.8278,
+    103.3,
+    1.8278
+],
+  "geometry": {"coordinates":[103.3,1.8278],"type":"Point"}
+}

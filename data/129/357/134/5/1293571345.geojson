@@ -1,0 +1,72 @@
+{
+  "id": 1293571345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.59477,5.96477,116.59477,5.96477",
+    "geom:latitude":5.96477,
+    "geom:longitude":116.59477,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Naradaw",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766702,
+    "gn:latitude":5.96477,
+    "gn:longitude":116.59477,
+    "gn:modification_date":"2017-12-01",
+    "gn:name":"Kampong Naradaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naradaw",
+        "Kampong Naradaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766702
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ed9cd7b697814517a3b3cff85f738ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":1293571345,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293571345,
+    "wof:lastmodified":1537674005,
+    "wof:name":"Kampong Naradaw",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.59477,
+    5.96477,
+    116.59477,
+    5.96477
+],
+  "geometry": {"coordinates":[116.59477,5.96477],"type":"Point"}
+}

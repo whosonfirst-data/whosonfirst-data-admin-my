@@ -1,0 +1,73 @@
+{
+  "id": 1326702721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.5553,5.5277,115.5553,5.5277",
+    "geom:latitude":5.5277,
+    "geom:longitude":115.5553,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Kaparing",
+    "gn:country_code":"MY",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768597,
+    "gn:latitude":5.5277,
+    "gn:longitude":115.5553,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kaparing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kaparing"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kaparing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        890490799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768597
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"41c5b782a0239f6327d1269d86b75472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490799,
+            "locality_id":1326702721,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1326702721,
+    "wof:lastmodified":1537674086,
+    "wof:name":"Kampung Kaparing",
+    "wof:parent_id":890490799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.5553,
+    5.5277,
+    115.5553,
+    5.5277
+],
+  "geometry": {"coordinates":[115.5553,5.5277],"type":"Point"}
+}

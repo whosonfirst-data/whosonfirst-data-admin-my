@@ -1,0 +1,70 @@
+{
+  "id": 1260184241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.02,6.0281,102.02,6.0281",
+    "geom:latitude":6.0281,
+    "geom:longitude":102.02,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gual Periuk",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067981,
+    "gn:latitude":6.0281,
+    "gn:longitude":102.02,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gual Periuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Gual Periuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067981
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b85ed23534054f84e37465e8cc08858c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1260184241,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1260184241,
+    "wof:lastmodified":1537674275,
+    "wof:name":"Gual Periuk",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.02,
+    6.0281,
+    102.02,
+    6.0281
+],
+  "geometry": {"coordinates":[102.02,6.0281],"type":"Point"}
+}

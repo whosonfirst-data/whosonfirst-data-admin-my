@@ -1,0 +1,111 @@
+{
+  "id": 85771673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6042882.05965,
+    "geom:bbox":"100.309932,5.318606,100.309932,5.318606",
+    "geom:latitude":5.318606,
+    "geom:longitude":100.309932,
+    "gn:id":"",
+    "gn:latitude":5.40116,
+    "gn:longitude":100.37129,
+    "iso:country":"MY",
+    "lbl:latitude":5.318606,
+    "lbl:longitude":100.309932,
+    "mps:latitude":5.314762,
+    "mps:longitude":100.311153,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Kampong Jawa"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Jawa"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1764027,
+    "qs:gn_nam_loc":"Kampong Sungai Gelugor, Pulau Pinang, MY",
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Kampong Jawa",
+    "qs:local_max":422,
+    "qs:local_sum":2726,
+    "qs:localhoods":18,
+    "qs:name":"Kampong Jawa",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:name_adm2":"Barat Daya",
+    "qs:name_lau":"Mukim 12",
+    "qs:name_local":"Kampong Sungai Gelugor",
+    "qs:photo_max":29,
+    "qs:photo_sum":103,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346304,
+    "qs:woe_adm2":56013634,
+    "qs:woe_lau":56014458,
+    "qs:woe_local":1149014,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023363,
+        890489155,
+        85675127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01e4b2f6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6823185,
+        "gp:id":1144122,
+        "qs:id":1111449
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"478a5e799fdc5602f479069f9df08c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "locality_id":102023363,
+            "neighbourhood_id":85771673,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":85771673,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859440,
+    "wof:name":"Kampong Jawa",
+    "wof:parent_id":102023363,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.309932,
+    5.318606,
+    100.309932,
+    5.318606
+],
+  "geometry": {"coordinates":[100.309932,5.318606],"type":"Point"}
+}

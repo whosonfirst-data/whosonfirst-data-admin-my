@@ -1,0 +1,102 @@
+{
+  "id": 85784439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000289,
+    "geom:area_square_m":3563600.75875,
+    "geom:bbox":"101.707769447,3.20815540797,101.727905273,3.22964211744",
+    "geom:latitude":3.220431,
+    "geom:longitude":101.719627,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.224962,
+    "lbl:longitude":101.719339,
+    "mps:latitude":3.222123,
+    "mps:longitude":101.720826,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "name:und_x_preferred":[
+        "Taman Gombak Setia"
+    ],
+    "name:unk_x_variant":[
+        "Taman Gombak Setia"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Taman Gombak Setia",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Setapak",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":287,
+    "qs:photo_sum":553,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56014237,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56036337,
+        "qs:id":8008
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"840b7cf0290c565665a9cba2d3bc7fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85784439,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85784439,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269419,
+    "wof:name":"Taman Gombak Setia",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7077694472539,
+    3.20815540797354,
+    101.72790527325026,
+    3.22964211743535
+],
+  "geometry": {"coordinates":[[[101.7220216081821,3.22846220285952],[101.72213614538742,3.22827100384769],[101.72241210900012,3.2282710066348],[101.7279052731252,3.22827100754891],[101.72790527316675,3.22278654457341],[101.72790527315016,3.21730205819006],[101.72790527325026,3.21181750053766],[101.72788801491896,3.21181750053766],[101.7205753147079,3.20815540797354],[101.718975641474,3.20975759786398],[101.71829007629447,3.21181753736003],[101.71691894500009,3.21181753736003],[101.71691894473105,3.2173020569991],[101.71142578100006,3.21730205819006],[101.71142578100006,3.2186753472099],[101.70936908175429,3.2193619967949],[101.7077694472539,3.22096415650434],[101.70867919900019,3.22278654211023],[101.70867919900019,3.2255200563928],[101.71142578100006,3.22827100693199],[101.71554783338348,3.22827100909106],[101.71691676562057,3.22964211743535],[101.71691894500009,3.22964211743535],[101.71966552700013,3.22964211743535],[101.7220216081821,3.22846220285952]]],"type":"Polygon"}
+}

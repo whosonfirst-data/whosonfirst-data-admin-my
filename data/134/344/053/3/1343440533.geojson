@@ -1,0 +1,74 @@
+{
+  "id": 1343440533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.104,5.2754,103.104,5.2754",
+    "geom:latitude":5.2754,
+    "geom:longitude":103.104,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Pengadang Baharu",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765760,
+    "gn:latitude":5.2754,
+    "gn:longitude":103.104,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pengadang Baharu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pengadang Baharu"
+    ],
+    "name:und_x_variant":[
+        "Pengadang Baru",
+        "Kampong Pengadang Baharu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765760
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"952a193ad7fd4c3d228853f41767a52f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1343440533,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1343440533,
+    "wof:lastmodified":1537673968,
+    "wof:name":"Kampung Pengadang Baharu",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.104,
+    5.2754,
+    103.104,
+    5.2754
+],
+  "geometry": {"coordinates":[103.104,5.2754],"type":"Point"}
+}

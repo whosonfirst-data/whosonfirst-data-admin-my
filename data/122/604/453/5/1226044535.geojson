@@ -1,0 +1,70 @@
+{
+  "id": 1226044535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9696,5.0828,101.9696,5.0828",
+    "geom:latitude":5.0828,
+    "geom:longitude":101.9696,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Pasir Mayat",
+    "gn:country_code":"MY",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7469655,
+    "gn:latitude":5.0828,
+    "gn:longitude":101.9696,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pasir Mayat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pasir Mayat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7469655
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"02876090bce3d51fa2f9bfa7fe175f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1226044535,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1226044535,
+    "wof:lastmodified":1537674299,
+    "wof:name":"Kampung Pasir Mayat",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9696,
+    5.0828,
+    101.9696,
+    5.0828
+],
+  "geometry": {"coordinates":[101.9696,5.0828],"type":"Point"}
+}

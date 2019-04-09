@@ -1,0 +1,73 @@
+{
+  "id": 1209818557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.52269,6.10702,100.52269,6.10702",
+    "geom:latitude":6.10702,
+    "geom:longitude":100.52269,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Pulau Keramat",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765269,
+    "gn:latitude":6.10702,
+    "gn:longitude":100.52269,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pulau Keramat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pulau Keramat"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pulau Keramat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765269
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6b5f4246a4551d6e5ca6dc650149c1e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1209818557,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1209818557,
+    "wof:lastmodified":1537673947,
+    "wof:name":"Kampung Pulau Keramat",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52269,
+    6.10702,
+    100.52269,
+    6.10702
+],
+  "geometry": {"coordinates":[100.52269,6.10702],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890490495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2851,2.2152,102.2851,2.2152",
+    "geom:latitude":2.2152,
+    "geom:longitude":102.2851,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":55656,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Baharu"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Bukit Baru"
+    ],
+    "qs:name":"Kampung Bukit Baharu",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770351,
+        "gp:id":56558382,
+        "qs:id":136203
+    },
+    "wof:country":"MY",
+    "wof:created":1469054813,
+    "wof:geomhash":"297c8efcd89c8906c463bddb3a3f3609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":890490495,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":890490495,
+    "wof:lastmodified":1505343788,
+    "wof:name":"Kampung Bukit Baharu",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:population":55656,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2851,
+    2.2152,
+    102.2851,
+    2.2152
+],
+  "geometry": {"coordinates":[102.2851,2.2152],"type":"Point"}
+}

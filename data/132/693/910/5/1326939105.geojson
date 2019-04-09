@@ -1,0 +1,70 @@
+{
+  "id": 1326939105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.61899,5.18203,100.61899,5.18203",
+    "geom:latitude":5.18203,
+    "geom:longitude":100.61899,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Ayer Puteh Kuala",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854879,
+    "gn:latitude":5.18203,
+    "gn:longitude":100.61899,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Ayer Puteh Kuala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ayer Puteh Kuala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854879
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"16f1035c6da4534af8c96e3d1a8c7454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490371,
+            "locality_id":1326939105,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1326939105,
+    "wof:lastmodified":1537674261,
+    "wof:name":"Kampung Ayer Puteh Kuala",
+    "wof:parent_id":890490371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.61899,
+    5.18203,
+    100.61899,
+    5.18203
+],
+  "geometry": {"coordinates":[100.61899,5.18203],"type":"Point"}
+}

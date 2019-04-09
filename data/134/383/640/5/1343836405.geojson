@@ -1,0 +1,67 @@
+{
+  "id": 1343836405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.03333,2.01667,113.03333,2.01667",
+    "geom:latitude":2.01667,
+    "geom:longitude":113.03333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Antau",
+    "gn:country_code":"MY",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748174,
+    "gn:latitude":2.01667,
+    "gn:longitude":113.03333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Antau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748174
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"acd384d13e01af10247e825b21c62d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488879,
+            "locality_id":1343836405,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1343836405,
+    "wof:lastmodified":1536701631,
+    "wof:name":"Rumah Antau",
+    "wof:parent_id":890488879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.03333,
+    2.01667,
+    113.03333,
+    2.01667
+],
+  "geometry": {"coordinates":[113.03333000000001,2.01667],"type":"Point"}
+}

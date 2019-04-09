@@ -1,0 +1,85 @@
+{
+  "id": 890489995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.4152,4.5481,101.4152,4.5481",
+    "geom:latitude":4.5481,
+    "geom:longitude":101.4152,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kampung Kuala Terla"
+    ],
+    "name:eng_x_preferred":[
+        "Kampung Kuala Terla"
+    ],
+    "name:msa_x_preferred":[
+        "Kampung Kuala Terla"
+    ],
+    "qs:name":"Kampung Kuala Terla",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos":233,
+    "qs:photos_1k":47,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":233,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":106,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734614,
+        "gp:id":1151179,
+        "qs:id":1117306,
+        "wd:id":"Q6359458",
+        "wk:page":"Kampung Kuala Terla"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054784,
+    "wof:geomhash":"22bc1ac5ee40c9550ee562225e53a672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696393,
+            "locality_id":890489995,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":890489995,
+    "wof:lastmodified":1527792864,
+    "wof:name":"Kampung Kuala Terla",
+    "wof:parent_id":1108696393,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.4152,
+    4.5481,
+    101.4152,
+    4.5481
+],
+  "geometry": {"coordinates":[101.4152,4.5481],"type":"Point"}
+}

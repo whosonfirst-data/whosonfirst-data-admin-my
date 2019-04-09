@@ -1,0 +1,73 @@
+{
+  "id": 1209988959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.2012,5.7634,117.2012,5.7634",
+    "geom:latitude":5.7634,
+    "geom:longitude":117.2012,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Togoron",
+    "gn:country_code":"MY",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762608,
+    "gn:latitude":5.7634,
+    "gn:longitude":117.2012,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Togoron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Togoron"
+    ],
+    "name:und_x_variant":[
+        "Kampong Togoron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762608
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e0fe79c0fe198a28bab2b003989eddba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1209988959,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1209988959,
+    "wof:lastmodified":1537673821,
+    "wof:name":"Kampung Togoron",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.2012,
+    5.7634,
+    117.2012,
+    5.7634
+],
+  "geometry": {"coordinates":[117.2012,5.7634],"type":"Point"}
+}

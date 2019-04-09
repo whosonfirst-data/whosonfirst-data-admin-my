@@ -1,0 +1,65 @@
+{
+  "id": 890490929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.241833,1.369727,104.241833,1.369727",
+    "geom:latitude":1.369727,
+    "geom:longitude":104.241833,
+    "gn:country":"MY",
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "qs:name":"Pantai Timor",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":9,
+    "qs:photos_1k":2,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":342,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013920,
+        "qs:id":239143
+    },
+    "wof:country":"MY",
+    "wof:created":1469054833,
+    "wof:geomhash":"5a961135f69d9fe534e96ef7b0447d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "localadmin_id":890490929,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890490929,
+    "wof:lastmodified":1469054833,
+    "wof:name":"Pantai Timor",
+    "wof:parent_id":85675141,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.241833,
+    1.369727,
+    104.241833,
+    1.369727
+],
+  "geometry": {"coordinates":[104.241833,1.369727],"type":"Point"}
+}

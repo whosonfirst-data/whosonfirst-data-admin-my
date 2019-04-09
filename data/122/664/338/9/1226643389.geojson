@@ -1,0 +1,73 @@
+{
+  "id": 1226643389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9705,3.9475,101.9705,3.9475",
+    "geom:latitude":3.9475,
+    "geom:longitude":101.9705,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Tulang Padang",
+    "gn:country_code":"MY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762432,
+    "gn:latitude":3.9475,
+    "gn:longitude":101.9705,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tulang Padang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tulang Padang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tulang Padong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762432
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e08941aafd29e2b9407142465df13918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1226643389,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226643389,
+    "wof:lastmodified":1537673816,
+    "wof:name":"Kampung Tulang Padang",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9705,
+    3.9475,
+    101.9705,
+    3.9475
+],
+  "geometry": {"coordinates":[101.9705,3.9475],"type":"Point"}
+}

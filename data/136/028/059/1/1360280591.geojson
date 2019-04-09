@@ -1,0 +1,73 @@
+{
+  "id": 1360280591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4297,3.4992,102.4297,3.4992",
+    "geom:latitude":3.4992,
+    "geom:longitude":102.4297,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Paya Banir",
+    "gn:country_code":"MY",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765935,
+    "gn:latitude":3.4992,
+    "gn:longitude":102.4297,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Paya Banir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Paya Banir"
+    ],
+    "name:und_x_variant":[
+        "Kampong Paya Banir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765935
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d4fcc8eba475b15e88147c498a6fc85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1360280591,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1360280591,
+    "wof:lastmodified":1537673976,
+    "wof:name":"Kampung Paya Banir",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4297,
+    3.4992,
+    102.4297,
+    3.4992
+],
+  "geometry": {"coordinates":[102.4297,3.4992],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243062347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.92932,4.30918,100.92932,4.30918",
+    "geom:latitude":4.30918,
+    "geom:longitude":100.92932,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Temboh Hangat",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1740487,
+    "gn:latitude":4.30918,
+    "gn:longitude":100.92932,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Temboh Hangat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Temboh Hangar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1740487
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a94849467fde26a6e6f9696deea169b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489811,
+            "locality_id":1243062347,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1243062347,
+    "wof:lastmodified":1537673758,
+    "wof:name":"Temboh Hangat",
+    "wof:parent_id":890489811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.92932,
+    4.30918,
+    100.92932,
+    4.30918
+],
+  "geometry": {"coordinates":[100.92932,4.30918],"type":"Point"}
+}

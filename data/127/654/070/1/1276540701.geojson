@@ -1,0 +1,75 @@
+{
+  "id": 1276540701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7135,3.9526,100.7135,3.9526",
+    "geom:latitude":3.9526,
+    "geom:longitude":100.7135,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Simpang Empat Rungkup",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735178,
+    "gn:latitude":3.9526,
+    "gn:longitude":100.7135,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Simpang Empat Rungkup",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Simpang Empat Rungkup"
+    ],
+    "name:und_x_variant":[
+        "Rungkup",
+        "Simpang Ampat Rungkup",
+        "Simpang Empat Rungkup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735178
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3ba10bcb586a8e8acb933fe6b5bb3b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1276540701,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1276540701,
+    "wof:lastmodified":1537673718,
+    "wof:name":"Simpang Empat Rungkup",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7135,
+    3.9526,
+    100.7135,
+    3.9526
+],
+  "geometry": {"coordinates":[100.7135,3.9526],"type":"Point"}
+}

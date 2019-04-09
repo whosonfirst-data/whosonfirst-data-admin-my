@@ -1,0 +1,67 @@
+{
+  "id": 890490991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.698036,3.245066,101.698036,3.245066",
+    "geom:latitude":3.245066,
+    "geom:longitude":101.698036,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Sri Gombak",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":54,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":54,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56037410,
+        "qs:id":250534
+    },
+    "wof:country":"MY",
+    "wof:created":1469054835,
+    "wof:geomhash":"8f4932b0845f4cd2f361959d9a2ac084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696399,
+            "locality_id":890490991,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890490991,
+    "wof:lastmodified":1500013484,
+    "wof:name":"Taman Sri Gombak",
+    "wof:parent_id":1108696399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.698036,
+    3.245066,
+    101.698036,
+    3.245066
+],
+  "geometry": {"coordinates":[101.698036,3.245066],"type":"Point"}
+}

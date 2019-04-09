@@ -1,0 +1,72 @@
+{
+  "id": 890488235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.40629,6.16611,100.40629,6.16611",
+    "geom:latitude":6.16611,
+    "geom:longitude":100.40629,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Cahaya"
+    ],
+    "qs:name":"Taman Cahaya",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kedah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807263,
+        "gp:id":56015978,
+        "qs:id":208192
+    },
+    "wof:country":"MY",
+    "wof:created":1469054712,
+    "wof:geomhash":"3108d7eeceb4a4ec254b02f92d0cf085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":890488235,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":890488235,
+    "wof:lastmodified":1505343782,
+    "wof:name":"Taman Cahaya",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.40629,
+    6.16611,
+    100.40629,
+    6.16611
+],
+  "geometry": {"coordinates":[100.40629,6.16611],"type":"Point"}
+}

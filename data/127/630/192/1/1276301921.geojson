@@ -1,0 +1,71 @@
+{
+  "id": 1276301921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.5108,5.3287,118.5108,5.3287",
+    "geom:latitude":5.3287,
+    "geom:longitude":118.5108,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampong Litang",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733967,
+    "gn:latitude":5.3287,
+    "gn:longitude":118.5108,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Litang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Litang",
+        "Kampong Litang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733967
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4c9b37adb44df49a154daefb1f752477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696413,
+            "locality_id":1276301921,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276301921,
+    "wof:lastmodified":1537673694,
+    "wof:name":"Kampong Litang",
+    "wof:parent_id":1108696413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.5108,
+    5.3287,
+    118.5108,
+    5.3287
+],
+  "geometry": {"coordinates":[118.5108,5.3287],"type":"Point"}
+}

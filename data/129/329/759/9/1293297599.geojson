@@ -1,0 +1,73 @@
+{
+  "id": 1293297599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5025,2.8429,102.5025,2.8429",
+    "geom:latitude":2.8429,
+    "geom:longitude":102.5025,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung A",
+    "gn:country_code":"MY",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1782539,
+    "gn:latitude":2.8429,
+    "gn:longitude":102.5025,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung A",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung A"
+    ],
+    "name:und_x_variant":[
+        "A Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1782539
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3b15b2b4c7ea6f3c2cfc19118e2910cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1293297599,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1293297599,
+    "wof:lastmodified":1537674226,
+    "wof:name":"Kampung A",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5025,
+    2.8429,
+    102.5025,
+    2.8429
+],
+  "geometry": {"coordinates":[102.5025,2.8429],"type":"Point"}
+}

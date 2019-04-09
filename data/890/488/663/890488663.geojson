@@ -1,0 +1,75 @@
+{
+  "id": 890488663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.71667,4.83333,100.71667,4.83333",
+    "geom:latitude":4.83333,
+    "geom:longitude":100.71667,
+    "gn:country":"MY",
+    "gn:fcode":"PPLX",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kampong Larut Tin",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675123,
+        102191569,
+        85632739,
+        102023003,
+        890490803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767567,
+        "gp:id":1145464,
+        "qs:id":496818
+    },
+    "wof:country":"MY",
+    "wof:created":1469054728,
+    "wof:geomhash":"372a52adc4b2bff8c567f7d83870d3d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490803,
+            "locality_id":102023003,
+            "neighbourhood_id":890488663,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890488663,
+    "wof:lastmodified":1505343783,
+    "wof:name":"Kampong Larut Tin",
+    "wof:parent_id":102023003,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.71667,
+    4.83333,
+    100.71667,
+    4.83333
+],
+  "geometry": {"coordinates":[100.71666999999999,4.83333],"type":"Point"}
+}

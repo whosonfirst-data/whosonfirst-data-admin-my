@@ -1,0 +1,70 @@
+{
+  "id": 1259807695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3002,2.2222,102.3002,2.2222",
+    "geom:latitude":2.2222,
+    "geom:longitude":102.3002,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Taman Bukit Katil",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797965,
+    "gn:latitude":2.2222,
+    "gn:longitude":102.3002,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Bukit Katil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Bukit Katil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797965
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d9cca19fab8638aad221a32cdba7fa2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":1259807695,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1259807695,
+    "wof:lastmodified":1537674426,
+    "wof:name":"Taman Bukit Katil",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3002,
+    2.2222,
+    102.3002,
+    2.2222
+],
+  "geometry": {"coordinates":[102.3002,2.2222],"type":"Point"}
+}

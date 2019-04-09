@@ -1,0 +1,101 @@
+{
+  "id": 85782667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":374855.110607,
+    "geom:bbox":"101.672973633,3.15697071254,101.678807509,3.16245552661",
+    "geom:latitude":3.15973,
+    "geom:longitude":101.675742,
+    "iso:country":"MY",
+    "lbl:latitude":3.159713,
+    "lbl:longitude":101.67572,
+    "mps:latitude":3.159714,
+    "mps:longitude":101.675742,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Taman Duta"
+    ],
+    "name:unk_x_variant":[
+        "Taman Duta"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:id":0,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Taman Duta",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Kuala Lumpur",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":18,
+    "qs:photo_sum":18,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56013690,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862698
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"af12114f13723379a8644cf35b009a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85782667,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85782667,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269414,
+    "wof:name":"Taman Duta",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.67297363300014,
+    3.15697071253689,
+    101.67880750882301,
+    3.16245552661269
+],
+  "geometry": {"coordinates":[[[101.67709559151609,3.1569707151905],[101.67297363300014,3.15697071253689],[101.67297363300014,3.16245552661269],[101.678466797,3.1624555260082],[101.67880750882301,3.16211429151393],[101.67846679692735,3.16109059848101],[101.678466797,3.15697071706002],[101.67709559151609,3.1569707151905]]],"type":"Polygon"}
+}

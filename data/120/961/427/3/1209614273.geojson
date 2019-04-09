@@ -1,0 +1,64 @@
+{
+  "id": 1209614273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0636,2.9785,102.0636,2.9785",
+    "geom:latitude":2.9785,
+    "geom:longitude":102.0636,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Taman Canabul",
+    "gn:country_code":"MY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796693,
+    "gn:latitude":2.9785,
+    "gn:longitude":102.0636,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Canabul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Canabul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796693
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9c1a1212e1c38a20ff2d394bfc56f7c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209614273
+        }
+    ],
+    "wof:id":1209614273,
+    "wof:lastmodified":1537674409,
+    "wof:name":"Taman Canabul",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0636,
+    2.9785,
+    102.0636,
+    2.9785
+],
+  "geometry": {"coordinates":[102.06359999999999,2.9785],"type":"Point"}
+}

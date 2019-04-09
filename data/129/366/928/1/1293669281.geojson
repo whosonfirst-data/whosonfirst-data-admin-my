@@ -1,0 +1,70 @@
+{
+  "id": 1293669281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5603,3.3594,101.5603,3.3594",
+    "geom:latitude":3.3594,
+    "geom:longitude":101.5603,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kampung Kastam",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795823,
+    "gn:latitude":3.3594,
+    "gn:longitude":101.5603,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kastam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kastam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795823
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a3e4edb3935be22a60865fc067e615e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1293669281,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1293669281,
+    "wof:lastmodified":1537674395,
+    "wof:name":"Kampung Kastam",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5603,
+    3.3594,
+    101.5603,
+    3.3594
+],
+  "geometry": {"coordinates":[101.5603,3.3594],"type":"Point"}
+}

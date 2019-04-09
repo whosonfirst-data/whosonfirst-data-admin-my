@@ -1,0 +1,73 @@
+{
+  "id": 1293482569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1927,3.529,102.1927,3.529",
+    "geom:latitude":3.529,
+    "geom:longitude":102.1927,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Tedung",
+    "gn:country_code":"MY",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763191,
+    "gn:latitude":3.529,
+    "gn:longitude":102.1927,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tedung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tedung"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tedong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763191
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"21e2e86bd9ef574b9a2967869c2422e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1293482569,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293482569,
+    "wof:lastmodified":1537673849,
+    "wof:name":"Kampung Tedung",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1927,
+    3.529,
+    102.1927,
+    3.529
+],
+  "geometry": {"coordinates":[102.1927,3.529],"type":"Point"}
+}

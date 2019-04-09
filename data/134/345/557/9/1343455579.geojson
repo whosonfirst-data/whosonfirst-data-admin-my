@@ -1,0 +1,67 @@
+{
+  "id": 1343455579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7,4.41667,100.7,4.41667",
+    "geom:latitude":4.41667,
+    "geom:longitude":100.7,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Ampat Puloh Rantai",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771616,
+    "gn:latitude":4.41667,
+    "gn:longitude":100.7,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Ampat Puloh Rantai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        1108696459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771616
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3855f5744fed91168adaba42cf3edb80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696459,
+            "locality_id":1343455579,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1343455579,
+    "wof:lastmodified":1536753254,
+    "wof:name":"Kampong Ampat Puloh Rantai",
+    "wof:parent_id":1108696459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7,
+    4.41667,
+    100.7,
+    4.41667
+],
+  "geometry": {"coordinates":[100.7,4.41667],"type":"Point"}
+}

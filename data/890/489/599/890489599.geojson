@@ -1,0 +1,75 @@
+{
+  "id": 890489599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0786,4.6372,101.0786,4.6372",
+    "geom:latitude":4.6372,
+    "geom:longitude":101.0786,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Semarak"
+    ],
+    "qs:name":"Taman Semarak",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":9,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473440,
+        "gp:id":56036287,
+        "qs:id":1062150,
+        "wd:id":"Q7680650",
+        "wk:page":"Taman Semarak"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054763,
+    "wof:geomhash":"7b23cca58051d084594d77b998058a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":890489599,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890489599,
+    "wof:lastmodified":1527792864,
+    "wof:name":"Taman Semarak",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0786,
+    4.6372,
+    101.0786,
+    4.6372
+],
+  "geometry": {"coordinates":[101.07859999999999,4.6372],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193275905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2329,2.2147,102.2329,2.2147",
+    "geom:latitude":2.2147,
+    "geom:longitude":102.2329,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Taman Widuri",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797950,
+    "gn:latitude":2.2147,
+    "gn:longitude":102.2329,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Widuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Widuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797950
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5ec6cbef5389ad853764cb13084faba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":1193275905,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1193275905,
+    "wof:lastmodified":1537674426,
+    "wof:name":"Taman Widuri",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2329,
+    2.2147,
+    102.2329,
+    2.2147
+],
+  "geometry": {"coordinates":[102.2329,2.2147],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 890490955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.238488,6.13298,102.238488,6.13298",
+    "geom:latitude":6.13298,
+    "geom:longitude":102.238488,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kota Bharu",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kelantan",
+    "qs:photos":492,
+    "qs:photos_1k":100,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1201,
+    "qs:photos_sr":7,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":1648,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014198,
+        "qs:id":1306898,
+        "wd:id":"Q651131",
+        "wk:page":"Kota Bharu"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054834,
+    "wof:geomhash":"dc21e3f141fcb25cb0480481f283c047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489783,
+            "localadmin_id":890490955,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":890490955,
+    "wof:lastmodified":1527732952,
+    "wof:name":"Kota Bharu",
+    "wof:parent_id":890489783,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.238488,
+    6.13298,
+    102.238488,
+    6.13298
+],
+  "geometry": {"coordinates":[102.238488,6.13298],"type":"Point"}
+}

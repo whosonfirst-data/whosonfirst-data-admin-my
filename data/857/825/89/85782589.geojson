@@ -1,0 +1,114 @@
+{
+  "id": 85782589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000332,
+    "geom:area_square_m":4100581.225059,
+    "geom:bbox":"101.686706543,3.07743767941,101.7114226,3.09663587184",
+    "geom:latitude":3.085677,
+    "geom:longitude":101.69774,
+    "gn:latitude":3.1,
+    "gn:longitude":101.7,
+    "iso:country":"MY",
+    "lbl:latitude":3.088977,
+    "lbl:longitude":101.690671,
+    "mps:latitude":3.08643,
+    "mps:longitude":101.697505,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Salak South"
+    ],
+    "name:und_x_preferred":[
+        "Taman Salak Selatan"
+    ],
+    "name:unk_x_variant":[
+        "Salak South",
+        "Taman Salak Selatan"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1735161,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Salak Selatan",
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Taman Salak Selatan",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Petaling",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":116,
+    "qs:photo_sum":233,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56013873,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747013,
+        "gp:id":55862665,
+        "qs:id":212914,
+        "qs_pg:id":212914,
+        "wd:id":"Q7403491"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"09c3d2c59583cfc12a7ff29db8f4f8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85782589,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85782589,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1514490845,
+    "wof:name":"Taman Salak Selatan",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.68670654300007,
+    3.07743767940526,
+    101.71142260048163,
+    3.09663587184008
+],
+  "geometry": {"coordinates":[[[101.69700321322949,3.09457593270543],[101.69768487020269,3.09389327895776],[101.70043945300017,3.09389327895776],[101.70227584311561,3.09297374361923],[101.70409624892875,3.08932762696875],[101.70776898823368,3.08748858629328],[101.71142260048163,3.08017075224753],[101.71051289233282,3.07743767940526],[101.70043945300017,3.07743767940526],[101.69769287100013,3.07881295369269],[101.69768734389203,3.07881018614775],[101.6921997070001,3.07802510513226],[101.68953145705564,3.07840683453909],[101.68911029798801,3.08051568461242],[101.68670654300018,3.08292292419911],[101.68670654300018,3.08566552773689],[101.68670654300018,3.0877214780207],[101.68670654300007,3.08840812513009],[101.68670654300007,3.09115071446004],[101.68739219061547,3.0911507134262],[101.68945312500006,3.0911507134262],[101.68945312500011,3.09526458072013],[101.68945312500006,3.09663587184008],[101.69494628900009,3.09663587184008],[101.69494628900009,3.09526257582681],[101.69700321322949,3.09457593270543]]],"type":"Polygon"}
+}

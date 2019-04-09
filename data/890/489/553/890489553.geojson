@@ -1,0 +1,70 @@
+{
+  "id": 890489553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.68927,3.057749,101.68927,3.057749",
+    "geom:latitude":3.057749,
+    "geom:longitude":101.68927,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Bukit Jalil",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:photos":720,
+    "qs:photos_1k":146,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":720,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":343,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675181,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862649,
+        "qs:id":1090104,
+        "wd:id":"Q3436169",
+        "wk:page":"Bukit Jalil"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054761,
+    "wof:geomhash":"fcbc51d0311b8d819636f392ed9713ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":890489553,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":890489553,
+    "wof:lastmodified":1527792864,
+    "wof:name":"Bukit Jalil",
+    "wof:parent_id":890490945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.68927,
+    3.057749,
+    101.68927,
+    3.057749
+],
+  "geometry": {"coordinates":[101.68926999999999,3.057749],"type":"Point"}
+}

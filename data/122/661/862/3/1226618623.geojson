@@ -1,0 +1,70 @@
+{
+  "id": 1226618623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.155,6.1197,117.155,6.1197",
+    "geom:latitude":6.1197,
+    "geom:longitude":117.155,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Ramatai",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418571,
+    "gn:latitude":6.1197,
+    "gn:longitude":117.155,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Ramatai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ramatai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418571
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"49429169ff22a9b1fda51c1864e7b7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1226618623,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226618623,
+    "wof:lastmodified":1537674285,
+    "wof:name":"Kampung Ramatai",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.155,
+    6.1197,
+    117.155,
+    6.1197
+],
+  "geometry": {"coordinates":[117.155,6.1197],"type":"Point"}
+}

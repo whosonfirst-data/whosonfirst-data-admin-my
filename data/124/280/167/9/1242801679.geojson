@@ -1,0 +1,73 @@
+{
+  "id": 1242801679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3501,2.4835,102.3501,2.4835",
+    "geom:latitude":2.4835,
+    "geom:longitude":102.3501,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Solok Bukit Putus",
+    "gn:country_code":"MY",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764228,
+    "gn:latitude":2.4835,
+    "gn:longitude":102.3501,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Solok Bukit Putus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Solok Bukit Putus"
+    ],
+    "name:und_x_variant":[
+        "Kampong Solok Bukit Putus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764228
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0c0e265556b18cf33a2e53788e71cae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1242801679,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1242801679,
+    "wof:lastmodified":1537673898,
+    "wof:name":"Kampung Solok Bukit Putus",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3501,
+    2.4835,
+    102.3501,
+    2.4835
+],
+  "geometry": {"coordinates":[102.3501,2.4835],"type":"Point"}
+}

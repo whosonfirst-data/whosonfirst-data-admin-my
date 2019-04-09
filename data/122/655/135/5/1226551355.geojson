@@ -1,0 +1,67 @@
+{
+  "id": 1226551355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.08333,6.06667,102.08333,6.06667",
+    "geom:latitude":6.06667,
+    "geom:longitude":102.08333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Pohon Tanjong",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765385,
+    "gn:latitude":6.06667,
+    "gn:longitude":102.08333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Pohon Tanjong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765385
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b1858ac04eadff187d0d3902220d8e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1226551355,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1226551355,
+    "wof:lastmodified":1536989100,
+    "wof:name":"Kampong Pohon Tanjong",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.08333,
+    6.06667,
+    102.08333,
+    6.06667
+],
+  "geometry": {"coordinates":[102.08333,6.06667],"type":"Point"}
+}

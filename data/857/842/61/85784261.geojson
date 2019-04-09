@@ -1,0 +1,110 @@
+{
+  "id": 85784261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000339,
+    "geom:area_square_m":4183261.345423,
+    "geom:bbox":"101.727564619,3.18987915539,101.751020562,3.21181753307",
+    "geom:latitude":3.201044,
+    "geom:longitude":101.738258,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.201277,
+    "lbl:longitude":101.738752,
+    "mps:latitude":3.202251,
+    "mps:longitude":101.736136,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:msa_x_preferred":[
+        "Wangsa Maju"
+    ],
+    "name:und_x_preferred":[
+        "Wangsa Maju"
+    ],
+    "name:unk_x_variant":[
+        "Wangsa Maju"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Wangsa Maju",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Setapak",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":126,
+    "qs:photo_sum":480,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56014237,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":480,
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017358,
+        "qs:id":481815,
+        "qs_pg:id":481815,
+        "wd:id":"Q7967900"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1b3812af884288537e70d729ff907615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85784261,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85784261,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269404,
+    "wof:name":"Wangsa Maju",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.72756461862599,
+    3.18987915539164,
+    101.75102056198313,
+    3.21181753306524
+],
+  "geometry": {"coordinates":[[[101.74163818400007,3.20907526482681],[101.74163818400012,3.20633298708006],[101.74438476600011,3.20633298708006],[101.74438476600022,3.20495969072111],[101.74438476600022,3.20222169638693],[101.74575591809599,3.20084840310001],[101.74987793000014,3.20084840330385],[101.74987793000014,3.19536379405451],[101.75102056198313,3.19421937978707],[101.75022284835217,3.19022460623911],[101.74987793000014,3.1898791556945],[101.74438476600011,3.18987915720618],[101.74410883159032,3.18987915539164],[101.74404197488542,3.19021395350495],[101.74163818400007,3.1926214817411],[101.73889160200002,3.19262148172592],[101.73843312841575,3.19262148097762],[101.7375204453279,3.19536379546689],[101.73339843783356,3.19536379344362],[101.72790527314595,3.19536379405451],[101.72756461862599,3.19570497610015],[101.72790527300015,3.1967285320477],[101.72790527300015,3.20084840737997],[101.72790527314595,3.20222169647023],[101.72790527313913,3.20633298708006],[101.72790527325026,3.21181750053766],[101.72792250291593,3.21181750053766],[101.72792256174347,3.21181752999766],[101.73339843799999,3.21181753245169],[101.73889160200002,3.21181753306524],[101.73923223174336,3.2114763643652],[101.73924300308602,3.21147420670803],[101.74163818400007,3.20907526482681]]],"type":"Polygon"}
+}

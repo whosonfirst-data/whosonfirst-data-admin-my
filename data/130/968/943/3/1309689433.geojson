@@ -1,0 +1,70 @@
+{
+  "id": 1309689433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5,2.91667,101.5,2.91667",
+    "geom:latitude":2.91667,
+    "geom:longitude":101.5,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampong Kebun Baharu",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768536,
+    "gn:latitude":2.91667,
+    "gn:longitude":101.5,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Kampong Kebun Baharu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kebun Bahru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768536
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c7bcc35a5c0fc5d51ea5ab48453f8059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696427,
+            "locality_id":1309689433,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1309689433,
+    "wof:lastmodified":1537674082,
+    "wof:name":"Kampong Kebun Baharu",
+    "wof:parent_id":1108696427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5,
+    2.91667,
+    101.5,
+    2.91667
+],
+  "geometry": {"coordinates":[101.5,2.91667],"type":"Point"}
+}

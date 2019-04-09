@@ -1,0 +1,70 @@
+{
+  "id": 1360307463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3022,3.7974,103.3022,3.7974",
+    "geom:latitude":3.7974,
+    "geom:longitude":103.3022,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Perkampungan Chenderawasih",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662117,
+    "gn:latitude":3.7974,
+    "gn:longitude":103.3022,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Perkampungan Chenderawasih",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perkampungan Chenderawasih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662117
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"07a2e150dccd9a2de760a29ae20cfea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":1360307463,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1360307463,
+    "wof:lastmodified":1537674355,
+    "wof:name":"Perkampungan Chenderawasih",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3022,
+    3.7974,
+    103.3022,
+    3.7974
+],
+  "geometry": {"coordinates":[103.3022,3.7974],"type":"Point"}
+}

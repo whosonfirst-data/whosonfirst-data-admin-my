@@ -1,0 +1,76 @@
+{
+  "id": 890489315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3641,3.8837,103.3641,3.8837",
+    "geom:latitude":3.8837,
+    "geom:longitude":103.3641,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pantai Batu Hitam"
+    ],
+    "qs:name":"Kampong Pantai Batu Hitam",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766201,
+        "gp:id":1146835,
+        "qs:id":994445
+    },
+    "wof:country":"MY",
+    "wof:created":1469054753,
+    "wof:geomhash":"6fbe0dda706525adc5951a6759ceca69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":890489315,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":890489315,
+    "wof:lastmodified":1505343785,
+    "wof:name":"Kampong Pantai Batu Hitam",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3641,
+    3.8837,
+    103.3641,
+    3.8837
+],
+  "geometry": {"coordinates":[103.36409999999999,3.8837],"type":"Point"}
+}

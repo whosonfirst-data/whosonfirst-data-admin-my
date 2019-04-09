@@ -1,0 +1,74 @@
+{
+  "id": 1259852055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.5728,5.5034,115.5728,5.5034",
+    "geom:latitude":5.5034,
+    "geom:longitude":115.5728,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Kekansa",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768492,
+    "gn:latitude":5.5034,
+    "gn:longitude":115.5728,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kekansa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kekansa"
+    ],
+    "name:und_x_variant":[
+        "Kial",
+        "Kampong Kekansa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        890490799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768492
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5f981e498a46530e563b13a2f5df526c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490799,
+            "locality_id":1259852055,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259852055,
+    "wof:lastmodified":1537674080,
+    "wof:name":"Kampung Kekansa",
+    "wof:parent_id":890490799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.5728,
+    5.5034,
+    115.5728,
+    5.5034
+],
+  "geometry": {"coordinates":[115.5728,5.5034],"type":"Point"}
+}

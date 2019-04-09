@@ -1,0 +1,70 @@
+{
+  "id": 1327034093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.751,2.7478,102.751,2.7478",
+    "geom:latitude":2.7478,
+    "geom:longitude":102.751,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Desa Palong",
+    "gn:country_code":"MY",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797137,
+    "gn:latitude":2.7478,
+    "gn:longitude":102.751,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Desa Palong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Desa Palong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797137
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5eb747aa6624ddfbe66b258fd0a7ff8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1327034093,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1327034093,
+    "wof:lastmodified":1537674415,
+    "wof:name":"Desa Palong",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.751,
+    2.7478,
+    102.751,
+    2.7478
+],
+  "geometry": {"coordinates":[102.751,2.7478],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226729235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3151,3.8999,103.3151,3.8999",
+    "geom:latitude":3.8999,
+    "geom:longitude":103.3151,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Bukit Rambutan",
+    "gn:country_code":"MY",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7650990,
+    "gn:latitude":3.8999,
+    "gn:longitude":103.3151,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bukit Rambutan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Rambutan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7650990
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a7ceb06fea3f85654fd68d5472d33581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "locality_id":1226729235,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1226729235,
+    "wof:lastmodified":1537674350,
+    "wof:name":"Kampung Bukit Rambutan",
+    "wof:parent_id":890490801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3151,
+    3.8999,
+    103.3151,
+    3.8999
+],
+  "geometry": {"coordinates":[103.3151,3.8999],"type":"Point"}
+}

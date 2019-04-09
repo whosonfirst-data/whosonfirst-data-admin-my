@@ -1,0 +1,70 @@
+{
+  "id": 1210030327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.969,1.96,102.969,1.96",
+    "geom:latitude":1.96,
+    "geom:longitude":102.969,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Seri Ramunia",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857031,
+    "gn:latitude":1.96,
+    "gn:longitude":102.969,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Seri Ramunia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Seri Ramunia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857031
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8ee9a5cd1fb2766fbbbab50e0385e814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1210030327,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1210030327,
+    "wof:lastmodified":1537674441,
+    "wof:name":"Kampung Seri Ramunia",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.969,
+    1.96,
+    102.969,
+    1.96
+],
+  "geometry": {"coordinates":[102.96899999999999,1.96],"type":"Point"}
+}

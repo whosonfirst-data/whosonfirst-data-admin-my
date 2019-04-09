@@ -1,0 +1,67 @@
+{
+  "id": 890488387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.281144,6.598438,100.281144,6.598438",
+    "geom:latitude":6.598438,
+    "geom:longitude":100.281144,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kubang Tiga",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perlis",
+    "qs:photos":5,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1154802,
+        "qs:id":266908
+    },
+    "wof:country":"MY",
+    "wof:created":1469054717,
+    "wof:geomhash":"60127a2007d451adeb89846e94fd1c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":890488387,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":890488387,
+    "wof:lastmodified":1500013329,
+    "wof:name":"Kubang Tiga",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.281144,
+    6.598438,
+    100.281144,
+    6.598438
+],
+  "geometry": {"coordinates":[100.281144,6.598438],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309694515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.7879,6.6852,116.7879,6.6852",
+    "geom:latitude":6.6852,
+    "geom:longitude":116.7879,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Bukah",
+    "gn:country_code":"MY",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7458515,
+    "gn:latitude":6.6852,
+    "gn:longitude":116.7879,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bukah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7458515
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0c1d310040df2c08efbed64b50b28eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1309694515,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309694515,
+    "wof:lastmodified":1537674288,
+    "wof:name":"Kampung Bukah",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.7879,
+    6.6852,
+    116.7879,
+    6.6852
+],
+  "geometry": {"coordinates":[116.78789999999999,6.6852],"type":"Point"}
+}

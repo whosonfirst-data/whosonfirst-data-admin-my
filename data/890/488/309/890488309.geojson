@@ -1,0 +1,81 @@
+{
+  "id": 890488309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.37114,5.39682,100.37114,5.39682",
+    "geom:latitude":5.39682,
+    "geom:longitude":100.37114,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bagan Dalam"
+    ],
+    "name:unk_x_variant":[
+        "Bagan Dalam"
+    ],
+    "qs:name":"Kampong Bagan Dalam",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675127,
+        102191569,
+        85632739,
+        102023321,
+        890490327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771409,
+        "gp:id":1141621,
+        "qs:id":272018
+    },
+    "wof:country":"MY",
+    "wof:created":1469054714,
+    "wof:geomhash":"14737eefa403f1a3fdcf25ceefe81145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490327,
+            "locality_id":102023321,
+            "neighbourhood_id":890488309,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":890488309,
+    "wof:lastmodified":1505343782,
+    "wof:name":"Kampong Bagan Dalam",
+    "wof:parent_id":102023321,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.37114,
+    5.39682,
+    100.37114,
+    5.39682
+],
+  "geometry": {"coordinates":[100.37114,5.39682],"type":"Point"}
+}

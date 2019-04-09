@@ -1,0 +1,70 @@
+{
+  "id": 1293776511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4067,3.8271,102.4067,3.8271",
+    "geom:latitude":3.8271,
+    "geom:longitude":102.4067,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Jerangsang",
+    "gn:country_code":"MY",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536550,
+    "gn:latitude":3.8271,
+    "gn:longitude":102.4067,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Jerangsang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jerangsang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536550
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"078ad356ef42e84d7480bd01c41b1d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1293776511,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293776511,
+    "wof:lastmodified":1537674463,
+    "wof:name":"Kampung Jerangsang",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4067,
+    3.8271,
+    102.4067,
+    3.8271
+],
+  "geometry": {"coordinates":[102.4067,3.8271],"type":"Point"}
+}

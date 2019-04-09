@@ -1,0 +1,69 @@
+{
+  "id": 890488297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.727577,5.355486,115.727577,5.355486",
+    "geom:latitude":5.355486,
+    "geom:longitude":115.727577,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Beaufort",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sabah",
+    "qs:photos":39,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":197,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":347,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014047,
+        "qs:id":1190891,
+        "wk:page":"Beaufort"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054714,
+    "wof:geomhash":"15bf006279dcc853b54c02e068f1b71d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696385,
+            "localadmin_id":890488297,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":890488297,
+    "wof:lastmodified":1527787081,
+    "wof:name":"Beaufort",
+    "wof:parent_id":1108696385,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.727577,
+    5.355486,
+    115.727577,
+    5.355486
+],
+  "geometry": {"coordinates":[115.727577,5.355486],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225832131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5344,2.8946,101.5344,2.8946",
+    "geom:latitude":2.8946,
+    "geom:longitude":101.5344,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Sungai Jenjarom",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764007,
+    "gn:latitude":2.8946,
+    "gn:longitude":101.5344,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Jenjarom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Jenjarom"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Jenjarom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764007
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"303caad61dd346a9d7d07a40f315229e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696427,
+            "locality_id":1225832131,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1225832131,
+    "wof:lastmodified":1537673888,
+    "wof:name":"Kampung Sungai Jenjarom",
+    "wof:parent_id":1108696427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5344,
+    2.8946,
+    101.5344,
+    2.8946
+],
+  "geometry": {"coordinates":[101.53440000000001,2.8946],"type":"Point"}
+}

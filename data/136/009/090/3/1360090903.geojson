@@ -1,0 +1,70 @@
+{
+  "id": 1360090903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4975,2.2967,102.4975,2.2967",
+    "geom:latitude":2.2967,
+    "geom:longitude":102.4975,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Solok Gajah Mati",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798127,
+    "gn:latitude":2.2967,
+    "gn:longitude":102.4975,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Solok Gajah Mati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Solok Gajah Mati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798127
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"50d83c599aad3524472493e6afef1a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489809,
+            "locality_id":1360090903,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1360090903,
+    "wof:lastmodified":1537674429,
+    "wof:name":"Kampung Solok Gajah Mati",
+    "wof:parent_id":890489809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4975,
+    2.2967,
+    102.4975,
+    2.2967
+],
+  "geometry": {"coordinates":[102.4975,2.2967],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276675719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.014,2.174,103.014,2.174",
+    "geom:latitude":2.174,
+    "geom:longitude":103.014,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Kamisan",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7854665,
+    "gn:latitude":2.174,
+    "gn:longitude":103.014,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kamisan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kamisan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854665
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a55f50378b6c8284444584bee9935e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1276675719,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276675719,
+    "wof:lastmodified":1537674432,
+    "wof:name":"Kampung Kamisan",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.014,
+    2.174,
+    103.014,
+    2.174
+],
+  "geometry": {"coordinates":[103.014,2.174],"type":"Point"}
+}

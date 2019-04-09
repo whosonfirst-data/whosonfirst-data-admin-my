@@ -1,0 +1,70 @@
+{
+  "id": 1292973401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.7205,6.8285,116.7205,6.8285",
+    "geom:latitude":6.8285,
+    "geom:longitude":116.7205,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Parapat Darat",
+    "gn:country_code":"MY",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7784999,
+    "gn:latitude":6.8285,
+    "gn:longitude":116.7205,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parapat Darat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parapat Darat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7784999
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"44cb11235f04f7f107fa8acfe83b6998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1292973401,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1292973401,
+    "wof:lastmodified":1537674381,
+    "wof:name":"Kampung Parapat Darat",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.7205,
+    6.8285,
+    116.7205,
+    6.8285
+],
+  "geometry": {"coordinates":[116.7205,6.8285],"type":"Point"}
+}

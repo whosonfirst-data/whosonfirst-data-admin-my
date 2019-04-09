@@ -1,0 +1,67 @@
+{
+  "id": 1259978749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.08333,2.93333,102.08333,2.93333",
+    "geom:latitude":2.93333,
+    "geom:longitude":102.08333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampong Jelebu",
+    "gn:country_code":"MY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768838,
+    "gn:latitude":2.93333,
+    "gn:longitude":102.08333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Jelebu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768838
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"80d0c2ce3ee57dcd284f3055e474c194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1259978749,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1259978749,
+    "wof:lastmodified":1536641128,
+    "wof:name":"Kampong Jelebu",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.08333,
+    2.93333,
+    102.08333,
+    2.93333
+],
+  "geometry": {"coordinates":[102.08333,2.93333],"type":"Point"}
+}

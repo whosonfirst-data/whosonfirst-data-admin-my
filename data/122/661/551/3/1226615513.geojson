@@ -1,0 +1,73 @@
+{
+  "id": 1226615513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5767,5.8978,116.5767,5.8978",
+    "geom:latitude":5.8978,
+    "geom:longitude":116.5767,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Maukab",
+    "gn:country_code":"MY",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766984,
+    "gn:latitude":5.8978,
+    "gn:longitude":116.5767,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Maukab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Maukab"
+    ],
+    "name:und_x_variant":[
+        "Kampong Maukap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766984
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f7c34301c3621207358c5df8d3ef4df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":1226615513,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226615513,
+    "wof:lastmodified":1537674018,
+    "wof:name":"Kampung Maukab",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5767,
+    5.8978,
+    116.5767,
+    5.8978
+],
+  "geometry": {"coordinates":[116.5767,5.8978],"type":"Point"}
+}

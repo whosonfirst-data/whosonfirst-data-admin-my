@@ -1,0 +1,70 @@
+{
+  "id": 1293022785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2369,3.7862,102.2369,3.7862",
+    "geom:latitude":3.7862,
+    "geom:longitude":102.2369,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Kuala Pian",
+    "gn:country_code":"MY",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7656077,
+    "gn:latitude":3.7862,
+    "gn:longitude":102.2369,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kuala Pian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Pian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656077
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a1e13fc2077c01cc5f8b949b870937c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1293022785,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293022785,
+    "wof:lastmodified":1537674352,
+    "wof:name":"Kampung Kuala Pian",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2369,
+    3.7862,
+    102.2369,
+    3.7862
+],
+  "geometry": {"coordinates":[102.23690000000001,3.7862],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293113723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.64092,3.21944,101.64092,3.21944",
+    "geom:latitude":3.21944,
+    "geom:longitude":101.64092,
+    "gn:asciiname":"Fortune Park Kepong",
+    "gn:country_code":"MY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6547223,
+    "gn:latitude":3.21944,
+    "gn:longitude":101.64092,
+    "gn:modification_date":"2008-06-07",
+    "gn:name":"Fortune Park Kepong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675181,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6547223
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d5b118b83c7df17f64ae29a63c1806a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":1293113723,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":1293113723,
+    "wof:lastmodified":1536827919,
+    "wof:name":"Fortune Park Kepong",
+    "wof:parent_id":890490945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.64092,
+    3.21944,
+    101.64092,
+    3.21944
+],
+  "geometry": {"coordinates":[101.64091999999999,3.21944],"type":"Point"}
+}

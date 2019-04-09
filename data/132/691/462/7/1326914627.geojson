@@ -1,0 +1,79 @@
+{
+  "id": 1326914627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.24449,5.46948,100.24449,5.46948",
+    "geom:latitude":5.46948,
+    "geom:longitude":100.24449,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Batu Feringgi",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770925,
+    "gn:latitude":5.46948,
+    "gn:longitude":100.24449,
+    "gn:modification_date":"2016-03-25",
+    "gn:name":"Kampung Batu Feringgi",
+    "gn:population":4000,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Feringgi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0442\u0443-\u0424\u0435\u0440\u0440\u0438\u043d\u0433\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kampong Batu Feringgi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770925
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5e578df69ec70d67f048adba63b478ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696537,
+            "locality_id":1326914627,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1326914627,
+    "wof:lastmodified":1537674181,
+    "wof:name":"Kampung Batu Feringgi",
+    "wof:parent_id":1108696537,
+    "wof:placetype":"locality",
+    "wof:population":4000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.24449,
+    5.46948,
+    100.24449,
+    5.46948
+],
+  "geometry": {"coordinates":[100.24449,5.46948],"type":"Point"}
+}

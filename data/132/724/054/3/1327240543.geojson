@@ -1,0 +1,73 @@
+{
+  "id": 1327240543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.57631,6.08085,100.57631,6.08085",
+    "geom:latitude":6.08085,
+    "geom:longitude":100.57631,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Jangga",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762560,
+    "gn:latitude":6.08085,
+    "gn:longitude":100.57631,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Jangga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jangga"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tok Jangga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762560
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"86388dc88bbde3c5efb3155a0a933d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489109,
+            "locality_id":1327240543,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1327240543,
+    "wof:lastmodified":1537673820,
+    "wof:name":"Kampung Jangga",
+    "wof:parent_id":890489109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.57631,
+    6.08085,
+    100.57631,
+    6.08085
+],
+  "geometry": {"coordinates":[100.57631000000001,6.08085],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293788667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3199,2.7569,102.3199,2.7569",
+    "geom:latitude":2.7569,
+    "geom:longitude":102.3199,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Ayer Melana",
+    "gn:country_code":"MY",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766957,
+    "gn:latitude":2.7569,
+    "gn:longitude":102.3199,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ayer Melana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ayer Melana"
+    ],
+    "name:und_x_variant":[
+        "Kampong Melana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766957
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c287e06c371d84004cd1281d37f69ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1293788667,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1293788667,
+    "wof:lastmodified":1537674017,
+    "wof:name":"Kampung Ayer Melana",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3199,
+    2.7569,
+    102.3199,
+    2.7569
+],
+  "geometry": {"coordinates":[102.3199,2.7569],"type":"Point"}
+}

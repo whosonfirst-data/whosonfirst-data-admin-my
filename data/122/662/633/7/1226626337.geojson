@@ -1,0 +1,74 @@
+{
+  "id": 1226626337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.33413,2.94655,101.33413,2.94655",
+    "geom:latitude":2.94655,
+    "geom:longitude":101.33413,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampong Tanjong Nipah",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763373,
+    "gn:latitude":2.94655,
+    "gn:longitude":101.33413,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Kampong Tanjong Nipah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Nipah"
+    ],
+    "name:und_x_variant":[
+        "Kampong Telok Nipah",
+        "Kampong Tanjong Nipah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763373
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"08e76ab4d20c609c4cbd8fceb997934b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696415,
+            "locality_id":1226626337,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1226626337,
+    "wof:lastmodified":1537673857,
+    "wof:name":"Kampong Tanjong Nipah",
+    "wof:parent_id":1108696415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.33413,
+    2.94655,
+    101.33413,
+    2.94655
+],
+  "geometry": {"coordinates":[101.33413,2.94655],"type":"Point"}
+}

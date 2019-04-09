@@ -1,0 +1,61 @@
+{
+  "id": 1209496431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.05,3.03333,113.05,3.03333",
+    "geom:latitude":3.03333,
+    "geom:longitude":113.05,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rumah Japok",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1737433,
+    "gn:latitude":3.03333,
+    "gn:longitude":113.05,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Rumah Japok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1737433
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4b5dc8fe3965fdf2e90ed1b789c5eb5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209496431
+        }
+    ],
+    "wof:id":1209496431,
+    "wof:lastmodified":1536285321,
+    "wof:name":"Rumah Japok",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.05,
+    3.03333,
+    113.05,
+    3.03333
+],
+  "geometry": {"coordinates":[113.05,3.03333],"type":"Point"}
+}

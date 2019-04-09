@@ -1,0 +1,70 @@
+{
+  "id": 1209911581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1567,3.3926,103.1567,3.3926",
+    "geom:latitude":3.3926,
+    "geom:longitude":103.1567,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Bederah",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7685638,
+    "gn:latitude":3.3926,
+    "gn:longitude":103.1567,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bederah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bederah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685638
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2b6e53e3d7dd3f9b61395b0c31b50d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1209911581,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1209911581,
+    "wof:lastmodified":1537674359,
+    "wof:name":"Kampung Bederah",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1567,
+    3.3926,
+    103.1567,
+    3.3926
+],
+  "geometry": {"coordinates":[103.1567,3.3926],"type":"Point"}
+}

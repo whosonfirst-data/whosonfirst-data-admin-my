@@ -1,0 +1,70 @@
+{
+  "id": 1243472065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8408,1.5855,103.8408,1.5855",
+    "geom:latitude":1.5855,
+    "geom:longitude":103.8408,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Tenang",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7619739,
+    "gn:latitude":1.5855,
+    "gn:longitude":103.8408,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tenang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tenang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619739
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2a22ef81f204455ef0f6e6109a1b799d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1243472065,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1243472065,
+    "wof:lastmodified":1537674334,
+    "wof:name":"Kampung Tenang",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8408,
+    1.5855,
+    103.8408,
+    1.5855
+],
+  "geometry": {"coordinates":[103.8408,1.5855],"type":"Point"}
+}

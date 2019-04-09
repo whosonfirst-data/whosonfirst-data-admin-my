@@ -1,0 +1,70 @@
+{
+  "id": 1327029203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4551,2.7902,102.4551,2.7902",
+    "geom:latitude":2.7902,
+    "geom:longitude":102.4551,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Rompin",
+    "gn:country_code":"MY",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797085,
+    "gn:latitude":2.7902,
+    "gn:longitude":102.4551,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Rompin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rompin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797085
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"35362c8a6e34b48f3bd5b3929bde76a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1327029203,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1327029203,
+    "wof:lastmodified":1537674414,
+    "wof:name":"Kampung Rompin",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4551,
+    2.7902,
+    102.4551,
+    2.7902
+],
+  "geometry": {"coordinates":[102.4551,2.7902],"type":"Point"}
+}

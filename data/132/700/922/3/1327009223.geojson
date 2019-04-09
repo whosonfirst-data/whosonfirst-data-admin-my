@@ -1,0 +1,70 @@
+{
+  "id": 1327009223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0652,5.3408,103.0652,5.3408",
+    "geom:latitude":5.3408,
+    "geom:longitude":103.0652,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Tanjung Sabtu",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7461210,
+    "gn:latitude":5.3408,
+    "gn:longitude":103.0652,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tanjung Sabtu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Sabtu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7461210
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"610afa188663a44b0f9f3047bcc6eecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1327009223,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1327009223,
+    "wof:lastmodified":1537674295,
+    "wof:name":"Kampung Tanjung Sabtu",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0652,
+    5.3408,
+    103.0652,
+    5.3408
+],
+  "geometry": {"coordinates":[103.0652,5.3408],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343583427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3996,3.5636,103.3996,3.5636",
+    "geom:latitude":3.5636,
+    "geom:longitude":103.3996,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Permatang Nangka",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662204,
+    "gn:latitude":3.5636,
+    "gn:longitude":103.3996,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Permatang Nangka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Permatang Nangka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662204
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1995e4ac8ff0c204aa587744e5a24dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1343583427,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1343583427,
+    "wof:lastmodified":1537674357,
+    "wof:name":"Kampung Permatang Nangka",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3996,
+    3.5636,
+    103.3996,
+    3.5636
+],
+  "geometry": {"coordinates":[103.39960000000001,3.5636],"type":"Point"}
+}

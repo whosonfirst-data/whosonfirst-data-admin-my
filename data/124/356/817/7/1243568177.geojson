@@ -1,0 +1,70 @@
+{
+  "id": 1243568177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6636,2.4228,102.6636,2.4228",
+    "geom:latitude":2.4228,
+    "geom:longitude":102.6636,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Ulu Jementah",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536808,
+    "gn:latitude":2.4228,
+    "gn:longitude":102.6636,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Ulu Jementah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ulu Jementah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536808
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f911053707647dad9e7aa09ad709acb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1243568177,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1243568177,
+    "wof:lastmodified":1537674465,
+    "wof:name":"Kampung Ulu Jementah",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6636,
+    2.4228,
+    102.6636,
+    2.4228
+],
+  "geometry": {"coordinates":[102.6636,2.4228],"type":"Point"}
+}

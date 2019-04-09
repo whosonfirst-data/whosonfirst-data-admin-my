@@ -1,0 +1,74 @@
+{
+  "id": 1293116449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5671,2.1059,102.5671,2.1059",
+    "geom:latitude":2.1059,
+    "geom:longitude":102.5671,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Sungai Sendok",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763807,
+    "gn:latitude":2.1059,
+    "gn:longitude":102.5671,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Sendok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Sendok"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sendok",
+        "Kampong Sungai Sendok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763807
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"93ad0615e7f9debd1d7c8ac8cde84195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1293116449,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293116449,
+    "wof:lastmodified":1537673878,
+    "wof:name":"Kampung Sungai Sendok",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5671,
+    2.1059,
+    102.5671,
+    2.1059
+],
+  "geometry": {"coordinates":[102.5671,2.1059],"type":"Point"}
+}

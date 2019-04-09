@@ -1,0 +1,73 @@
+{
+  "id": 1242878195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.64704,2.62359,103.64704,2.62359",
+    "geom:latitude":2.62359,
+    "geom:longitude":103.64704,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Hubong",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734896,
+    "gn:latitude":2.62359,
+    "gn:longitude":103.64704,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kampung Hubong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Hubong"
+    ],
+    "name:und_x_variant":[
+        "Kampung Hubung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734896
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7c12e692cb866bdf3a938e18e1d6172a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488715,
+            "locality_id":1242878195,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1242878195,
+    "wof:lastmodified":1537673713,
+    "wof:name":"Kampung Hubong",
+    "wof:parent_id":890488715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.64704,
+    2.62359,
+    103.64704,
+    2.62359
+],
+  "geometry": {"coordinates":[103.64704,2.62359],"type":"Point"}
+}

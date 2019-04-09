@@ -1,0 +1,73 @@
+{
+  "id": 1326851609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7141,4.1523,100.7141,4.1523",
+    "geom:latitude":4.1523,
+    "geom:longitude":100.7141,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Pasir Pandak",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766032,
+    "gn:latitude":4.1523,
+    "gn:longitude":100.7141,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pasir Pandak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pasir Pandak"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pasir Pandak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        1108696459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766032
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fed45c400691ef1d20a63bd777fa670a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696459,
+            "locality_id":1326851609,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1326851609,
+    "wof:lastmodified":1537673979,
+    "wof:name":"Kampung Pasir Pandak",
+    "wof:parent_id":1108696459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7141,
+    4.1523,
+    100.7141,
+    4.1523
+],
+  "geometry": {"coordinates":[100.7141,4.1523],"type":"Point"}
+}

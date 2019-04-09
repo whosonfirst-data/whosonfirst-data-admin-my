@@ -1,0 +1,67 @@
+{
+  "id": 1276246531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.1003,2.2992,104.1003,2.2992",
+    "geom:latitude":2.2992,
+    "geom:longitude":104.1003,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Teluk Sauk",
+    "gn:country_code":"MY",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762976,
+    "gn:latitude":2.2992,
+    "gn:longitude":104.1003,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Teluk Sauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Teluk Sauk"
+    ],
+    "name:und_x_variant":[
+        "Kampong Telok Sauk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762976
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f05833e667333cc54b57e9396237a0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276246531,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276246531,
+    "wof:lastmodified":1537673839,
+    "wof:name":"Kampung Teluk Sauk",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.1003,
+    2.2992,
+    104.1003,
+    2.2992
+],
+  "geometry": {"coordinates":[104.1003,2.2992],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360280703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.37255,3.93264,103.37255,3.93264",
+    "geom:latitude":3.93264,
+    "geom:longitude":103.37255,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Baluk Baru",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735232,
+    "gn:latitude":3.93264,
+    "gn:longitude":103.37255,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Baluk Baru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baluk"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kuala Baloh",
+        "Kampong Balok",
+        "Kampung Baluk",
+        "Kampung Baluk Baru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735232
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b673b8e24aecae85e98fdb19597eafb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1360280703,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360280703,
+    "wof:lastmodified":1537673720,
+    "wof:name":"Kampung Baluk Baru",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.37255,
+    3.93264,
+    103.37255,
+    3.93264
+],
+  "geometry": {"coordinates":[103.37255,3.93264],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209911677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9009,3.6212,101.9009,3.6212",
+    "geom:latitude":3.6212,
+    "geom:longitude":101.9009,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Asap",
+    "gn:country_code":"MY",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795480,
+    "gn:latitude":3.6212,
+    "gn:longitude":101.9009,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Asap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Asap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795480
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3c3ece8ebd3bde5e1d44e897a98b6edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696389,
+            "locality_id":1209911677,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1209911677,
+    "wof:lastmodified":1537674393,
+    "wof:name":"Kampung Asap",
+    "wof:parent_id":1108696389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9009,
+    3.6212,
+    101.9009,
+    3.6212
+],
+  "geometry": {"coordinates":[101.90089999999999,3.6212],"type":"Point"}
+}

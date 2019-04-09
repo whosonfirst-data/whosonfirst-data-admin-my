@@ -1,0 +1,72 @@
+{
+  "id": 1209785401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.95,5.65,115.95,5.65",
+    "geom:latitude":5.65,
+    "geom:longitude":115.95,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Bumbunnat",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770045,
+    "gn:latitude":5.65,
+    "gn:longitude":115.95,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Bumbunnat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palu",
+        "Kampong Bumbunnat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770045
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8d1dd05b62064bc18305f93f5034bf0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696477,
+            "locality_id":1209785401,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1209785401,
+    "wof:lastmodified":1537674145,
+    "wof:name":"Kampong Bumbunnat",
+    "wof:parent_id":1108696477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.95,
+    5.65,
+    115.95,
+    5.65
+],
+  "geometry": {"coordinates":[115.95,5.65],"type":"Point"}
+}

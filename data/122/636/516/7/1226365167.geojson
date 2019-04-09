@@ -1,0 +1,74 @@
+{
+  "id": 1226365167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.311,2.6271,102.311,2.6271",
+    "geom:latitude":2.6271,
+    "geom:longitude":102.311,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Tulang Rimau",
+    "gn:country_code":"MY",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762431,
+    "gn:latitude":2.6271,
+    "gn:longitude":102.311,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tulang Rimau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tulang Rimau"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tulang Riman",
+        "Kampong Tulang Rimau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762431
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5ec6d21d48e19715c991ea9f4217a4b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1226365167,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1226365167,
+    "wof:lastmodified":1537673816,
+    "wof:name":"Kampung Tulang Rimau",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.311,
+    2.6271,
+    102.311,
+    2.6271
+],
+  "geometry": {"coordinates":[102.31100000000001,2.6271],"type":"Point"}
+}

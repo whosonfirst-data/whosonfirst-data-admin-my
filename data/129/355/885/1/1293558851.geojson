@@ -1,0 +1,70 @@
+{
+  "id": 1293558851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1846,5.4245,116.1846,5.4245",
+    "geom:latitude":5.4245,
+    "geom:longitude":116.1846,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Minansut",
+    "gn:country_code":"MY",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7588790,
+    "gn:latitude":5.4245,
+    "gn:longitude":116.1846,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Minansut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Minansut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7588790
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ada01e95506f82f97186b16dc539db22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1293558851,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293558851,
+    "wof:lastmodified":1537674321,
+    "wof:name":"Kampung Minansut",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1846,
+    5.4245,
+    116.1846,
+    5.4245
+],
+  "geometry": {"coordinates":[116.1846,5.4245],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343647945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2896,4.1931,103.2896,4.1931",
+    "geom:latitude":4.1931,
+    "geom:longitude":103.2896,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Lubuk Batu",
+    "gn:country_code":"MY",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767342,
+    "gn:latitude":4.1931,
+    "gn:longitude":103.2896,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Lubuk Batu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lubuk Batu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Lubok Batu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767342
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bd95d2df53fc713b4aae327a4eefe285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "locality_id":1343647945,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1343647945,
+    "wof:lastmodified":1537674033,
+    "wof:name":"Kampung Lubuk Batu",
+    "wof:parent_id":890490801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2896,
+    4.1931,
+    103.2896,
+    4.1931
+],
+  "geometry": {"coordinates":[103.28959999999999,4.1931],"type":"Point"}
+}

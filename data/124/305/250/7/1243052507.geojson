@@ -1,0 +1,74 @@
+{
+  "id": 1243052507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.21729,5.38193,100.21729,5.38193",
+    "geom:latitude":5.38193,
+    "geom:longitude":100.21729,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kampung Sungai Rusa",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6823181,
+    "gn:latitude":5.38193,
+    "gn:longitude":100.21729,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Sungai Rusa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Rusa"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Rusa",
+        "Sungei Rusa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823181
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9fa0cc09529dd4636c845d1617fc078b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "locality_id":1243052507,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1243052507,
+    "wof:lastmodified":1537674251,
+    "wof:name":"Kampung Sungai Rusa",
+    "wof:parent_id":890489155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.21729,
+    5.38193,
+    100.21729,
+    5.38193
+],
+  "geometry": {"coordinates":[100.21729000000001,5.38193],"type":"Point"}
+}

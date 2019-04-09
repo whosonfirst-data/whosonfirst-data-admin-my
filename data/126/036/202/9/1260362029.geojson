@@ -1,0 +1,70 @@
+{
+  "id": 1260362029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.42691,4.38355,116.42691,4.38355",
+    "geom:latitude":4.38355,
+    "geom:longitude":116.42691,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Lumingi",
+    "gn:country_code":"MY",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733743,
+    "gn:latitude":4.38355,
+    "gn:longitude":116.42691,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Lumingi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Lumingi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733743
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a16075ee21db943daf36f5a8dfb59d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696483,
+            "locality_id":1260362029,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1260362029,
+    "wof:lastmodified":1537673688,
+    "wof:name":"Lumingi",
+    "wof:parent_id":1108696483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.42691,
+    4.38355,
+    116.42691,
+    4.38355
+],
+  "geometry": {"coordinates":[116.42691000000001,4.38355],"type":"Point"}
+}

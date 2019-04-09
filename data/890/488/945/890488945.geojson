@@ -1,0 +1,72 @@
+{
+  "id": 890488945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.42603,5.3877,100.42603,5.3877",
+    "geom:latitude":5.3877,
+    "geom:longitude":100.42603,
+    "gn:country":"MY",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Province Wellesley"
+    ],
+    "name:eng_x_variant":[
+        "Seberang Perai"
+    ],
+    "qs:name":"Seberang Perai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":2497,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133400,
+        "qs:id":1042490,
+        "wd:id":"Q1861984",
+        "wk:page":"Seberang Perai"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054738,
+    "wof:geomhash":"db969bf3cf9429cdbb9da79072eccd8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488945,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":890488945,
+    "wof:lastmodified":1527787082,
+    "wof:name":"Seberang Perai",
+    "wof:parent_id":85675127,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.42603,
+    5.3877,
+    100.42603,
+    5.3877
+],
+  "geometry": {"coordinates":[100.42603,5.3877],"type":"Point"}
+}

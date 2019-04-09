@@ -1,0 +1,64 @@
+{
+  "id": 1209412767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7647,3.4992,102.7647,3.4992",
+    "geom:latitude":3.4992,
+    "geom:longitude":102.7647,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Batu Dinding",
+    "gn:country_code":"MY",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796192,
+    "gn:latitude":3.4992,
+    "gn:longitude":102.7647,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Batu Dinding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Dinding"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796192
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fd85c036899dee48552df5d694258ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209412767
+        }
+    ],
+    "wof:id":1209412767,
+    "wof:lastmodified":1537674401,
+    "wof:name":"Kampung Batu Dinding",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7647,
+    3.4992,
+    102.7647,
+    3.4992
+],
+  "geometry": {"coordinates":[102.7647,3.4992],"type":"Point"}
+}

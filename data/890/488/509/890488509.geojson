@@ -1,0 +1,67 @@
+{
+  "id": 890488509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.4677385,5.970021,100.4677385,5.970021",
+    "geom:latitude":5.970021,
+    "geom:longitude":100.467738,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Bukit Raya",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kedah",
+    "qs:photos":45,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":119,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014485,
+        "qs:id":1306934
+    },
+    "wof:country":"MY",
+    "wof:created":1469054722,
+    "wof:geomhash":"8e5ab4d5745b5a678e544769bef8f456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489109,
+            "localadmin_id":890488509,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":890488509,
+    "wof:lastmodified":1500013299,
+    "wof:name":"Bukit Raya",
+    "wof:parent_id":890489109,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.46773849999998,
+    5.970021,
+    100.46773849999998,
+    5.970021
+],
+  "geometry": {"coordinates":[100.46773849999998,5.970021],"type":"Point"}
+}

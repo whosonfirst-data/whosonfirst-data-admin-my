@@ -1,0 +1,68 @@
+{
+  "id": 1243333181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.8402,4.3361,117.8402,4.3361",
+    "geom:latitude":4.3361,
+    "geom:longitude":117.8402,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Tawar",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763254,
+    "gn:latitude":4.3361,
+    "gn:longitude":117.8402,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Kampong Tawar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763254
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0fe1dd091895aae5cbecd9fba40544cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696533,
+            "locality_id":1243333181,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1243333181,
+    "wof:lastmodified":1536968714,
+    "wof:name":"Kampong Tawar",
+    "wof:parent_id":1108696533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.8402,
+    4.3361,
+    117.8402,
+    4.3361
+],
+  "geometry": {"coordinates":[117.8402,4.3361],"type":"Point"}
+}

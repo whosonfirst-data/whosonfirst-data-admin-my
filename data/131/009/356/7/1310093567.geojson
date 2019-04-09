@@ -1,0 +1,73 @@
+{
+  "id": 1310093567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.432,4.9533,115.432,4.9533",
+    "geom:latitude":4.9533,
+    "geom:longitude":115.432,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampung Kuala Lawas",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768026,
+    "gn:latitude":4.9533,
+    "gn:longitude":115.432,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kuala Lawas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Lawas"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kuala Lawas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768026
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"63bb2ab587eb11a4a772119acc4526de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696445,
+            "locality_id":1310093567,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1310093567,
+    "wof:lastmodified":1537674060,
+    "wof:name":"Kampung Kuala Lawas",
+    "wof:parent_id":1108696445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.432,
+    4.9533,
+    115.432,
+    4.9533
+],
+  "geometry": {"coordinates":[115.432,4.9533],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 85782709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000247,
+    "geom:area_square_m":3046205.448305,
+    "geom:bbox":"101.731638184,3.0509818398,101.751443266,3.06920976666",
+    "geom:latitude":3.060238,
+    "geom:longitude":101.741656,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.060982,
+    "lbl:longitude":101.741638,
+    "mps:latitude":3.059217,
+    "mps:longitude":101.740666,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Tmn-Desa Cheras"
+    ],
+    "name:unk_x_variant":[
+        "Tmn-Desa Cheras"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Tmn-Desa Cheras",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Petaling",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":2,
+    "qs:photo_sum":2,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56013873,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675163,
+        102191569,
+        85632739,
+        102023899,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862723,
+        "qs:id":908497
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"47c9a7d8b7448536627d57bcf641ebcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":102023899,
+            "neighbourhood_id":85782709,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":85782709,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269399,
+    "wof:name":"Tmn-Desa Cheras",
+    "wof:parent_id":102023899,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.73163818400019,
+    3.05098183980019,
+    101.75144326636484,
+    3.06920976666026
+],
+  "geometry": {"coordinates":[[[101.75144326636484,3.06294187593471],[101.74988182829856,3.05825088096944],[101.74273055735495,3.05108942918479],[101.74163818400024,3.05098183980019],[101.73968728078012,3.05117398699612],[101.73781134967641,3.05174304447503],[101.73608248167005,3.05266714367708],[101.73456711618843,3.05391077198809],[101.73332348787716,3.05542613746998],[101.73239938867493,3.05715500547633],[101.73183033119619,3.05903093657977],[101.73163818400019,3.06098183980016],[101.73174437756381,3.06206004114641],[101.73174421712673,3.06206002534465],[101.73339843775022,3.06371661802244],[101.74436900438508,3.06920976666026],[101.74729961498338,3.06920976666026],[101.74870925181204,3.06805290761189],[101.74995288012315,3.06653754213035],[101.7508769793252,3.06480867412381],[101.75144326636484,3.06294187593471]]],"type":"Polygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1292980357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1981,5.2211,103.1981,5.2211",
+    "geom:latitude":5.2211,
+    "geom:longitude":103.1981,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Ru Rendang",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764948,
+    "gn:latitude":5.2211,
+    "gn:longitude":103.1981,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ru Rendang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ru Rendang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ru Rendang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764948
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d5183cbef7c88045f1c7d13476b6ea3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490535,
+            "locality_id":1292980357,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1292980357,
+    "wof:lastmodified":1537673933,
+    "wof:name":"Kampung Ru Rendang",
+    "wof:parent_id":890490535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1981,
+    5.2211,
+    103.1981,
+    5.2211
+],
+  "geometry": {"coordinates":[103.1981,5.2211],"type":"Point"}
+}

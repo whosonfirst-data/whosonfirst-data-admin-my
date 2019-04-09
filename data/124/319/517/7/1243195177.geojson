@@ -1,0 +1,70 @@
+{
+  "id": 1243195177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9566,2.7121,101.9566,2.7121",
+    "geom:latitude":2.7121,
+    "geom:longitude":101.9566,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rumah Rakyat Dusun Nyier",
+    "gn:country_code":"MY",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796591,
+    "gn:latitude":2.7121,
+    "gn:longitude":101.9566,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Rumah Rakyat Dusun Nyier",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Rumah Rakyat Dusun Nyier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796591
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"59355d919b049e09c4b2266719147597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1243195177,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1243195177,
+    "wof:lastmodified":1537674407,
+    "wof:name":"Rumah Rakyat Dusun Nyier",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9566,
+    2.7121,
+    101.9566,
+    2.7121
+],
+  "geometry": {"coordinates":[101.95659999999999,2.7121],"type":"Point"}
+}

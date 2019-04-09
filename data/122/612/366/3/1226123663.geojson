@@ -1,0 +1,68 @@
+{
+  "id": 1226123663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.8,3.1,114.8,3.1",
+    "geom:latitude":3.1,
+    "geom:longitude":114.8,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Long Julan",
+    "gn:country_code":"MY",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1757013,
+    "gn:latitude":3.1,
+    "gn:longitude":114.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Long Julan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1757013,
+        "wk:page":"Long_Julan"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8daa87c046a30f0c055022785a5dc220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696465,
+            "locality_id":1226123663,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1226123663,
+    "wof:lastmodified":1537569850,
+    "wof:name":"Long Julan",
+    "wof:parent_id":1108696465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.8,
+    3.1,
+    114.8,
+    3.1
+],
+  "geometry": {"coordinates":[114.8,3.1],"type":"Point"}
+}

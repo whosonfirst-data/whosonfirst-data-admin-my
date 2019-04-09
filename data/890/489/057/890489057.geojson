@@ -1,0 +1,65 @@
+{
+  "id": 890489057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.248725,2.195805,102.248725,2.195805",
+    "geom:latitude":2.195805,
+    "geom:longitude":102.248725,
+    "gn:country":"MY",
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "qs:name":"Bandar Melaka",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:photos":148,
+    "qs:photos_1k":30,
+    "qs:photos_9k":64,
+    "qs:photos_9r":18,
+    "qs:photos_all":14409,
+    "qs:photos_sr":3,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014534,
+        "qs:id":467964
+    },
+    "wof:country":"MY",
+    "wof:created":1469054743,
+    "wof:geomhash":"f94dae1996eba8f678ea0b0b3ee2cf11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "localadmin_id":890489057,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":890489057,
+    "wof:lastmodified":1469054743,
+    "wof:name":"Bandar Melaka",
+    "wof:parent_id":85675151,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.248725,
+    2.195805,
+    102.248725,
+    2.195805
+],
+  "geometry": {"coordinates":[102.24872499999999,2.195805],"type":"Point"}
+}

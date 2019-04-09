@@ -1,0 +1,70 @@
+{
+  "id": 1309778495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.3076,6.2329,117.3076,6.2329",
+    "geom:latitude":6.2329,
+    "geom:longitude":117.3076,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Tatangi",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7607684,
+    "gn:latitude":6.2329,
+    "gn:longitude":117.3076,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tatangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tatangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7607684
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8e6967641e9d26b10f5b8a6e11b9f21a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1309778495,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309778495,
+    "wof:lastmodified":1537674325,
+    "wof:name":"Kampung Tatangi",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.3076,
+    6.2329,
+    117.3076,
+    6.2329
+],
+  "geometry": {"coordinates":[117.30759999999999,6.2329],"type":"Point"}
+}

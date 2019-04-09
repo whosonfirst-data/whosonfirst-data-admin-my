@@ -1,0 +1,70 @@
+{
+  "id": 1343954613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.50329,5.28198,100.50329,5.28198",
+    "geom:latitude":5.28198,
+    "geom:longitude":100.50329,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kampung Kepala Gajah",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819273,
+    "gn:latitude":5.28198,
+    "gn:longitude":100.50329,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Kepala Gajah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kepala Gajah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819273
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9030d6d2449400671544348dacd19b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1343954613,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1343954613,
+    "wof:lastmodified":1537674249,
+    "wof:name":"Kampung Kepala Gajah",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.50329,
+    5.28198,
+    100.50329,
+    5.28198
+],
+  "geometry": {"coordinates":[100.50329000000001,5.28198],"type":"Point"}
+}

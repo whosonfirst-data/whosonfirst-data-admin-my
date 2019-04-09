@@ -1,0 +1,70 @@
+{
+  "id": 1343632817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7761,5.3553,102.7761,5.3553",
+    "geom:latitude":5.3553,
+    "geom:longitude":102.7761,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Payung Anak",
+    "gn:country_code":"MY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787709,
+    "gn:latitude":5.3553,
+    "gn:longitude":102.7761,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Payung Anak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Payung Anak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        1108696513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787709
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a79a73d972e10354b035b1673e0735cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696513,
+            "locality_id":1343632817,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1343632817,
+    "wof:lastmodified":1537674383,
+    "wof:name":"Payung Anak",
+    "wof:parent_id":1108696513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7761,
+    5.3553,
+    102.7761,
+    5.3553
+],
+  "geometry": {"coordinates":[102.7761,5.3553],"type":"Point"}
+}

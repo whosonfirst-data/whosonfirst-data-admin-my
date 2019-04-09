@@ -1,0 +1,67 @@
+{
+  "id": 890489807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.219173,5.363605,100.219173,5.363605",
+    "geom:latitude":5.363605,
+    "geom:longitude":100.219173,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mukim E Titi Teras",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":276,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013723,
+        "qs:id":1111783
+    },
+    "wof:country":"MY",
+    "wof:created":1469054771,
+    "wof:geomhash":"846d80c3fbeabe5c7161a73376f39f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "localadmin_id":890489807,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":890489807,
+    "wof:lastmodified":1500013258,
+    "wof:name":"Mukim E Titi Teras",
+    "wof:parent_id":890489155,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.219173,
+    5.363605,
+    100.219173,
+    5.363605
+],
+  "geometry": {"coordinates":[100.219173,5.363605],"type":"Point"}
+}

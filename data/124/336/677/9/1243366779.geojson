@@ -1,0 +1,73 @@
+{
+  "id": 1243366779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.3893,6.12092,100.3893,6.12092",
+    "geom:latitude":6.12092,
+    "geom:longitude":100.3893,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Derga",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769646,
+    "gn:latitude":6.12092,
+    "gn:longitude":100.3893,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Derga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Derga"
+    ],
+    "name:und_x_variant":[
+        "Kampong Derga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769646
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"acf8b5a749fddb39299dd69b0411c2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1243366779,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1243366779,
+    "wof:lastmodified":1537674129,
+    "wof:name":"Kampung Derga",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.3893,
+    6.12092,
+    100.3893,
+    6.12092
+],
+  "geometry": {"coordinates":[100.38930000000001,6.12092],"type":"Point"}
+}

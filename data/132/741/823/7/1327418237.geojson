@@ -1,0 +1,70 @@
+{
+  "id": 1327418237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.48211,5.35141,100.48211,5.35141",
+    "geom:latitude":5.35141,
+    "geom:longitude":100.48211,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Taman Bandar Jaya",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819163,
+    "gn:latitude":5.35141,
+    "gn:longitude":100.48211,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taman Bandar Jaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Bandar Jaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819163
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4bf9bd6fd00cda052a63c2e31b769b9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1327418237,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1327418237,
+    "wof:lastmodified":1537674246,
+    "wof:name":"Taman Bandar Jaya",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.48211,
+    5.35141,
+    100.48211,
+    5.35141
+],
+  "geometry": {"coordinates":[100.48211000000001,5.35141],"type":"Point"}
+}

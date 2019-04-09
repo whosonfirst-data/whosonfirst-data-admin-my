@@ -1,0 +1,70 @@
+{
+  "id": 1309786041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.75,2.6831,101.75,2.6831",
+    "geom:latitude":2.6831,
+    "geom:longitude":101.75,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taman Murni",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697998,
+    "gn:latitude":2.6831,
+    "gn:longitude":101.75,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Murni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Murni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697998
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d35e56e17d72e7d210c29224fb479842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489971,
+            "locality_id":1309786041,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1309786041,
+    "wof:lastmodified":1537674369,
+    "wof:name":"Taman Murni",
+    "wof:parent_id":890489971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.75,
+    2.6831,
+    101.75,
+    2.6831
+],
+  "geometry": {"coordinates":[101.75,2.6831],"type":"Point"}
+}

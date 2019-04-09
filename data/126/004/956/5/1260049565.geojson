@@ -1,0 +1,70 @@
+{
+  "id": 1260049565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4222,6.4096,116.4222,6.4096",
+    "geom:latitude":6.4096,
+    "geom:longitude":116.4222,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampong Kotabongan",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417164,
+    "gn:latitude":6.4096,
+    "gn:longitude":116.4222,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampong Kotabongan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampong Kotabongan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417164
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2007178746125fe037258344c7ebd669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1260049565,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1260049565,
+    "wof:lastmodified":1537674282,
+    "wof:name":"Kampong Kotabongan",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4222,
+    6.4096,
+    116.4222,
+    6.4096
+],
+  "geometry": {"coordinates":[116.4222,6.4096],"type":"Point"}
+}

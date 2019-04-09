@@ -1,0 +1,70 @@
+{
+  "id": 1343492969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0568,2.992,102.0568,2.992",
+    "geom:latitude":2.992,
+    "geom:longitude":102.0568,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kemajuan Tanah Titi",
+    "gn:country_code":"MY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535582,
+    "gn:latitude":2.992,
+    "gn:longitude":102.0568,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kemajuan Tanah Titi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Titi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535582
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"83665053b70c6109eafddd97d4a66e54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1343492969,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1343492969,
+    "wof:lastmodified":1537674461,
+    "wof:name":"Kemajuan Tanah Titi",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0568,
+    2.992,
+    102.0568,
+    2.992
+],
+  "geometry": {"coordinates":[102.0568,2.992],"type":"Point"}
+}

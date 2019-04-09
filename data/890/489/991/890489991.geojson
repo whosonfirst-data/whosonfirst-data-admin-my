@@ -1,0 +1,90 @@
+{
+  "id": 890489991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9381,3.9001,100.9381,3.9001",
+    "geom:latitude":3.9001,
+    "geom:longitude":100.9381,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Simpang Empat"
+    ],
+    "name:eng_x_preferred":[
+        "Simpang Empat"
+    ],
+    "name:may_x_preferred":[
+        "Simpang Empat"
+    ],
+    "name:msa_x_preferred":[
+        "Simpang Empat"
+    ],
+    "name:pol_x_preferred":[
+        "Simpang Empat"
+    ],
+    "name:unk_x_variant":[
+        "Simpang Ampat"
+    ],
+    "qs:name":"Simpang Empat",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735185,
+        "gp:id":1155264,
+        "qs:id":1116832,
+        "wd:id":"Q7520576",
+        "wk:page":"Simpang Empat"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054784,
+    "wof:geomhash":"cb12c2b50f2b6366b3ccde1a5a315b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":890489991,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890489991,
+    "wof:lastmodified":1527792860,
+    "wof:name":"Simpang Empat",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9381,
+    3.9001,
+    100.9381,
+    3.9001
+],
+  "geometry": {"coordinates":[100.93810000000001,3.9001],"type":"Point"}
+}

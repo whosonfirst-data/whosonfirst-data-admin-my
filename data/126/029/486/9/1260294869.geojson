@@ -1,0 +1,67 @@
+{
+  "id": 1260294869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.75,3.25,101.75,3.25",
+    "geom:latitude":3.25,
+    "geom:longitude":101.75,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Kampong Sungai Pusu",
+    "gn:country_code":"MY",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763853,
+    "gn:latitude":3.25,
+    "gn:longitude":101.75,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Sungai Pusu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763853
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e48db7b34b213fd37eb8acb901ffe7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696399,
+            "locality_id":1260294869,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1260294869,
+    "wof:lastmodified":1536696778,
+    "wof:name":"Kampong Sungai Pusu",
+    "wof:parent_id":1108696399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.75,
+    3.25,
+    101.75,
+    3.25
+],
+  "geometry": {"coordinates":[101.75,3.25],"type":"Point"}
+}

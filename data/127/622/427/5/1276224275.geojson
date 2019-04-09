@@ -1,0 +1,67 @@
+{
+  "id": 1276224275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.93333,4.58333,100.93333,4.58333",
+    "geom:latitude":4.58333,
+    "geom:longitude":100.93333,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Bekor",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770745,
+    "gn:latitude":4.58333,
+    "gn:longitude":100.93333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Bekor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770745
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ae61cfd11b6f5ee3ede241f37463b153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":1276224275,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1276224275,
+    "wof:lastmodified":1536925727,
+    "wof:name":"Kampong Bekor",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.93333,
+    4.58333,
+    100.93333,
+    4.58333
+],
+  "geometry": {"coordinates":[100.93333,4.58333],"type":"Point"}
+}

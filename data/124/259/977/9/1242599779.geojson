@@ -1,0 +1,70 @@
+{
+  "id": 1242599779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.809,3.7376,101.809,3.7376",
+    "geom:latitude":3.7376,
+    "geom:longitude":101.809,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Teman Seroja",
+    "gn:country_code":"MY",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795467,
+    "gn:latitude":3.7376,
+    "gn:longitude":101.809,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Teman Seroja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Teman Seroja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795467
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9f66d4aff12c2c49b11ceace6cf109d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1242599779,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1242599779,
+    "wof:lastmodified":1537674393,
+    "wof:name":"Teman Seroja",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.809,
+    3.7376,
+    101.809,
+    3.7376
+],
+  "geometry": {"coordinates":[101.809,3.7376],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209797699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.08333,6.11667,117.08333,6.11667",
+    "geom:latitude":6.11667,
+    "geom:longitude":117.08333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Tantagan",
+    "gn:country_code":"MY",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1741530,
+    "gn:latitude":6.11667,
+    "gn:longitude":117.08333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Tantagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1741530
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d45e43ce5deed468a98fa4aed2917be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1209797699,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1209797699,
+    "wof:lastmodified":1536392137,
+    "wof:name":"Tantagan",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.08333,
+    6.11667,
+    117.08333,
+    6.11667
+],
+  "geometry": {"coordinates":[117.08333,6.11667],"type":"Point"}
+}

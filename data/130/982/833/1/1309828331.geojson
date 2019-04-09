@@ -1,0 +1,70 @@
+{
+  "id": 1309828331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4311,3.9561,102.4311,3.9561",
+    "geom:latitude":3.9561,
+    "geom:longitude":102.4311,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mungkin Banjir",
+    "gn:country_code":"MY",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793996,
+    "gn:latitude":3.9561,
+    "gn:longitude":102.4311,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mungkin Banjir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Mungkin Banjir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793996
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"799575f99e06258afd673fdcb5dc9824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1309828331,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1309828331,
+    "wof:lastmodified":1537674390,
+    "wof:name":"Mungkin Banjir",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4311,
+    3.9561,
+    102.4311,
+    3.9561
+],
+  "geometry": {"coordinates":[102.4311,3.9561],"type":"Point"}
+}

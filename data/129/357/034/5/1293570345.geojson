@@ -1,0 +1,73 @@
+{
+  "id": 1293570345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.41209,1.06542,110.41209,1.06542",
+    "geom:latitude":1.06542,
+    "geom:longitude":110.41209,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kampung Tama",
+    "gn:country_code":"MY",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734515,
+    "gn:latitude":1.06542,
+    "gn:longitude":110.41209,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampung Tama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suhu",
+        "Kampong Suhu",
+        "Kampung Tama",
+        "Kampung Tema Mawang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734515
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"74425ae1769af3b525a1e00bed3fd690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696511,
+            "locality_id":1293570345,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1293570345,
+    "wof:lastmodified":1537673707,
+    "wof:name":"Kampung Tama",
+    "wof:parent_id":1108696511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.41209,
+    1.06542,
+    110.41209,
+    1.06542
+],
+  "geometry": {"coordinates":[110.41209000000001,1.06542],"type":"Point"}
+}

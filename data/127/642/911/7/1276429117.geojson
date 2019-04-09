@@ -1,0 +1,73 @@
+{
+  "id": 1276429117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.33333,1.31667,110.33333,1.31667",
+    "geom:latitude":1.31667,
+    "geom:longitude":110.33333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Setaang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764447,
+    "gn:latitude":1.31667,
+    "gn:longitude":110.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Setaang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Staang",
+        "Kampong Stahng",
+        "Kampong Setaang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764447
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"020a4b6f040f276c2b0337d3a04bbca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1276429117,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1276429117,
+    "wof:lastmodified":1537673909,
+    "wof:name":"Kampong Setaang",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.33333,
+    1.31667,
+    110.33333,
+    1.31667
+],
+  "geometry": {"coordinates":[110.33333,1.31667],"type":"Point"}
+}

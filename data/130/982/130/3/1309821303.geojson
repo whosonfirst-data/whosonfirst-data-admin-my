@@ -1,0 +1,70 @@
+{
+  "id": 1309821303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5555,2.0381,102.5555,2.0381",
+    "geom:latitude":2.0381,
+    "geom:longitude":102.5555,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Sri Tanjong",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7855805,
+    "gn:latitude":2.0381,
+    "gn:longitude":102.5555,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Sri Tanjong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Sri Tanjong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855805
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cb97289c2eac50b4e403be768be3a04d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1309821303,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1309821303,
+    "wof:lastmodified":1537674435,
+    "wof:name":"Taman Sri Tanjong",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5555,
+    2.0381,
+    102.5555,
+    2.0381
+],
+  "geometry": {"coordinates":[102.55549999999999,2.0381],"type":"Point"}
+}

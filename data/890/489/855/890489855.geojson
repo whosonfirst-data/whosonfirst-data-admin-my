@@ -1,0 +1,67 @@
+{
+  "id": 890489855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.851058,4.772331,100.851058,4.772331",
+    "geom:latitude":4.772331,
+    "geom:longitude":100.851058,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kampong Buaya",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":94,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014127,
+        "qs:id":1111849
+    },
+    "wof:country":"MY",
+    "wof:created":1469054778,
+    "wof:geomhash":"f28df0653b79d1ec89cd6f6443c78676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "localadmin_id":890489855,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890489855,
+    "wof:lastmodified":1500013217,
+    "wof:name":"Kampong Buaya",
+    "wof:parent_id":890489077,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.851058,
+    4.772331,
+    100.851058,
+    4.772331
+],
+  "geometry": {"coordinates":[100.85105799999999,4.772331],"type":"Point"}
+}

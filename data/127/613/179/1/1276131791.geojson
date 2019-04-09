@@ -1,0 +1,75 @@
+{
+  "id": 1276131791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.85999,6.38669,99.85999,6.38669",
+    "geom:latitude":6.38669,
+    "geom:longitude":99.85999,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Belanga Pechah",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804787,
+    "gn:latitude":6.38669,
+    "gn:longitude":99.85999,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kampung Belanga Pechah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696443,
+        85675137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804787
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dfb431056656229f8f8da52c80c0626c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":1276131791,
+            "region_id":85675133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":1276131791,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1276131791,
+    "wof:lastmodified":1537046672,
+    "wof:name":"Kampung Belanga Pechah",
+    "wof:parent_id":1108696443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.85999,
+    6.38669,
+    99.85999,
+    6.38669
+],
+  "geometry": {"coordinates":[99.85999,6.38669],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293868259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.43721,5.35293,100.43721,5.35293",
+    "geom:latitude":5.35293,
+    "geom:longitude":100.43721,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Taman Limau Manis",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6818860,
+    "gn:latitude":5.35293,
+    "gn:longitude":100.43721,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taman Limau Manis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Limau Manis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818860
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"10a34a8f5326bc87a22d2c20fa3f242d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1293868259,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1293868259,
+    "wof:lastmodified":1537674243,
+    "wof:name":"Taman Limau Manis",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.43721,
+    5.35293,
+    100.43721,
+    5.35293
+],
+  "geometry": {"coordinates":[100.43720999999999,5.35293],"type":"Point"}
+}

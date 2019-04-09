@@ -1,0 +1,70 @@
+{
+  "id": 1293087523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4253,4.7223,103.4253,4.7223",
+    "geom:latitude":4.7223,
+    "geom:longitude":103.4253,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Sura Tengah",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577239,
+    "gn:latitude":4.7223,
+    "gn:longitude":103.4253,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sura Tengah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sura Tengah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577239
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"706a373d2e8f393484783f0375eb89f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":1293087523,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1293087523,
+    "wof:lastmodified":1537674317,
+    "wof:name":"Kampung Sura Tengah",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4253,
+    4.7223,
+    103.4253,
+    4.7223
+],
+  "geometry": {"coordinates":[103.42529999999999,4.7223],"type":"Point"}
+}

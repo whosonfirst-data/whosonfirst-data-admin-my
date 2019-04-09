@@ -1,0 +1,75 @@
+{
+  "id": 1293768185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.46714,5.44573,100.46714,5.44573",
+    "geom:latitude":5.44573,
+    "geom:longitude":100.46714,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Bahru",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771036,
+    "gn:latitude":5.44573,
+    "gn:longitude":100.46714,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bahru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bahru"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bharu",
+        "Kampong Baru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890490327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771036
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2d5bd8620be51dbd6f9c5467beccc556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490327,
+            "locality_id":1293768185,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1293768185,
+    "wof:lastmodified":1537674186,
+    "wof:name":"Kampung Bahru",
+    "wof:parent_id":890490327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.46714,
+    5.44573,
+    100.46714,
+    5.44573
+],
+  "geometry": {"coordinates":[100.46714,5.44573],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360083945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.586,2.8357,102.586,2.8357",
+    "geom:latitude":2.8357,
+    "geom:longitude":102.586,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kemajuan Tanah Palong Tiga Belas",
+    "gn:country_code":"MY",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797144,
+    "gn:latitude":2.8357,
+    "gn:longitude":102.586,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Palong Tiga Belas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Palong Tiga Belas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797144
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"99e06777e41af6d2e557e0cd7b811fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1360083945,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1360083945,
+    "wof:lastmodified":1537674415,
+    "wof:name":"Kemajuan Tanah Palong Tiga Belas",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.586,
+    2.8357,
+    102.586,
+    2.8357
+],
+  "geometry": {"coordinates":[102.586,2.8357],"type":"Point"}
+}

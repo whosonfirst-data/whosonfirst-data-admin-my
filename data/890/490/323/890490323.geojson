@@ -1,0 +1,67 @@
+{
+  "id": 890490323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.172349,5.285152,103.172349,5.285152",
+    "geom:latitude":5.285152,
+    "geom:longitude":103.172349,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Rekreasi Teluk Ibai",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Terengganu",
+    "qs:photos":379,
+    "qs:photos_1k":77,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":379,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56016833,
+        "qs:id":891819
+    },
+    "wof:country":"MY",
+    "wof:created":1469054800,
+    "wof:geomhash":"391db622f25a39ebe25a740b514f55b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":890490323,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":890490323,
+    "wof:lastmodified":1500013524,
+    "wof:name":"Taman Rekreasi Teluk Ibai",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.172349,
+    5.285152,
+    103.172349,
+    5.285152
+],
+  "geometry": {"coordinates":[103.172349,5.285152],"type":"Point"}
+}

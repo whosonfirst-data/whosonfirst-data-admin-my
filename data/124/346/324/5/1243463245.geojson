@@ -1,0 +1,70 @@
+{
+  "id": 1243463245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.56936,6.31028,100.56936,6.31028",
+    "geom:latitude":6.31028,
+    "geom:longitude":100.56936,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Sapi",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6853424,
+    "gn:latitude":6.31028,
+    "gn:longitude":100.56936,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Sapi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sapi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6853424
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fc2c77f61c7b43da15e95dc0f3a429df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696471,
+            "locality_id":1243463245,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1243463245,
+    "wof:lastmodified":1537674257,
+    "wof:name":"Kampung Sapi",
+    "wof:parent_id":1108696471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.56936,
+    6.31028,
+    100.56936,
+    6.31028
+],
+  "geometry": {"coordinates":[100.56936,6.31028],"type":"Point"}
+}

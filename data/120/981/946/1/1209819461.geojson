@@ -1,0 +1,70 @@
+{
+  "id": 1209819461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.0644,1.911,104.0644,1.911",
+    "geom:latitude":1.911,
+    "geom:longitude":104.0644,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kemajuan Tanah Kampung Sungai Gembut",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7578664,
+    "gn:latitude":1.911,
+    "gn:longitude":104.0644,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Kampung Sungai Gembut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Kampung Sungai Gembut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7578664
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"29d99c7eaa9cf259c3bb5a34e56fa299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":1209819461,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1209819461,
+    "wof:lastmodified":1537674318,
+    "wof:name":"Kemajuan Tanah Kampung Sungai Gembut",
+    "wof:parent_id":890491003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.0644,
+    1.911,
+    104.0644,
+    1.911
+],
+  "geometry": {"coordinates":[104.06440000000001,1.911],"type":"Point"}
+}

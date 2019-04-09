@@ -1,0 +1,110 @@
+{
+  "id": 1125832427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0704,2.9395,102.0704,2.9395",
+    "geom:latitude":2.9395,
+    "geom:longitude":102.0704,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":2.9395,
+    "lbl:longitude":102.0704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u74dc\u62c9\u683c\u62c9\u65fa"
+    ],
+    "name:dut_x_preferred":[
+        "Kuala Klawang"
+    ],
+    "name:eng_x_preferred":[
+        "Kuala Klawang"
+    ],
+    "name:epo_x_preferred":[
+        "Kuala Klawang"
+    ],
+    "name:may_x_preferred":[
+        "Kuala Klawang"
+    ],
+    "name:msa_x_preferred":[
+        "Kuala Klawang"
+    ],
+    "name:unk_x_variant":[
+        "Jelebu"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1734800,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kuala Kelawang",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Negeri Sembilan",
+    "qs_pg:photos":57,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":57,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":354035,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1154772,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Negeri Sembilan",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734800,
+        "gp:id":1154772,
+        "qs_pg:id":354035,
+        "wd:id":"Q6440979"
+    },
+    "wof:country":"MY",
+    "wof:created":1497292557,
+    "wof:geomhash":"4f73fc861d8856a3eb6aaa8777bcaff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1125832427,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1125832427,
+    "wof:lastmodified":1514490570,
+    "wof:name":"Kuala Kelawang",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0704,
+    2.9395,
+    102.0704,
+    2.9395
+],
+  "geometry": {"coordinates":[102.07040000000001,2.9395],"type":"Point"}
+}

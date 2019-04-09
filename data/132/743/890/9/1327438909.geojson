@@ -1,0 +1,67 @@
+{
+  "id": 1327438909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5,5.86667,102.5,5.86667",
+    "geom:latitude":5.86667,
+    "geom:longitude":102.5,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Sungai Selok",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763814,
+    "gn:latitude":5.86667,
+    "gn:longitude":102.5,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Sungai Selok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763814
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c9fa4820415dbc4bc3e4fa98570450b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488991,
+            "locality_id":1327438909,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1327438909,
+    "wof:lastmodified":1536671297,
+    "wof:name":"Kampong Sungai Selok",
+    "wof:parent_id":890488991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5,
+    5.86667,
+    102.5,
+    5.86667
+],
+  "geometry": {"coordinates":[102.5,5.86667],"type":"Point"}
+}

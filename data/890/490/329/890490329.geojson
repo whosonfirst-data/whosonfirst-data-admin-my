@@ -1,0 +1,69 @@
+{
+  "id": 890490329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.685161,2.928254,101.685161,2.928254",
+    "geom:latitude":2.928254,
+    "geom:longitude":101.685161,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Putrajaya",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Putrajaya",
+    "qs:photos":60,
+    "qs:photos_1k":12,
+    "qs:photos_9k":13,
+    "qs:photos_9r":11,
+    "qs:photos_all":2843,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":1619,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013562,
+        "qs:id":4742,
+        "wd:id":"Q182378",
+        "wk:page":"Putrajaya"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054800,
+    "wof:geomhash":"7ef715e31daffccd50a57352f3a31636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490329,
+            "region_id":85675187
+        }
+    ],
+    "wof:id":890490329,
+    "wof:lastmodified":1527734160,
+    "wof:name":"Putrajaya",
+    "wof:parent_id":85675187,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.685161,
+    2.928254,
+    101.685161,
+    2.928254
+],
+  "geometry": {"coordinates":[101.68516099999999,2.928254],"type":"Point"}
+}

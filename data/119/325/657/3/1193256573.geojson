@@ -1,0 +1,67 @@
+{
+  "id": 1193256573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.56667,1.4,111.56667,1.4",
+    "geom:latitude":1.4,
+    "geom:longitude":111.56667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Maja",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1756421,
+    "gn:latitude":1.4,
+    "gn:longitude":111.56667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Maja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1756421
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0e88b4a917463ce6887c8d224d2e131c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696391,
+            "locality_id":1193256573,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1193256573,
+    "wof:lastmodified":1536363889,
+    "wof:name":"Maja",
+    "wof:parent_id":1108696391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.56667,
+    1.4,
+    111.56667,
+    1.4
+],
+  "geometry": {"coordinates":[111.56667,1.4],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343550911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.5315,5.20838,100.5315,5.20838",
+    "geom:latitude":5.20838,
+    "geom:longitude":100.5315,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Sungai Duri",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764045,
+    "gn:latitude":5.20838,
+    "gn:longitude":100.5315,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Duri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Duri"
+    ],
+    "name:und_x_variant":[
+        "Sungei Durr",
+        "Kampong Sungai Duri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764045
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8117fb3098d5d0ca634c5476de048cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1343550911,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1343550911,
+    "wof:lastmodified":1537673890,
+    "wof:name":"Kampung Sungai Duri",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.5315,
+    5.20838,
+    100.5315,
+    5.20838
+],
+  "geometry": {"coordinates":[100.53149999999999,5.20838],"type":"Point"}
+}

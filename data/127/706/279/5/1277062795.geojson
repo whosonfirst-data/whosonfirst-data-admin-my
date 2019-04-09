@@ -1,0 +1,70 @@
+{
+  "id": 1277062795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0947,5.3452,103.0947,5.3452",
+    "geom:latitude":5.3452,
+    "geom:longitude":103.0947,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Pak Katak",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7461032,
+    "gn:latitude":5.3452,
+    "gn:longitude":103.0947,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pak Katak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pak Katak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7461032
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8f1b1279b6fae26e2ee153c3aad4a4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1277062795,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1277062795,
+    "wof:lastmodified":1537674292,
+    "wof:name":"Kampung Pak Katak",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0947,
+    5.3452,
+    103.0947,
+    5.3452
+],
+  "geometry": {"coordinates":[103.0947,5.3452],"type":"Point"}
+}

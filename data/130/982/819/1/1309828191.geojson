@@ -1,0 +1,70 @@
+{
+  "id": 1309828191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.912,2.9055,102.912,2.9055",
+    "geom:latitude":2.9055,
+    "geom:longitude":102.912,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Keratung Tiga",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697756,
+    "gn:latitude":2.9055,
+    "gn:longitude":102.912,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Keratung Tiga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Keratung Tiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697756
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f43961e4952d61e0d8ea4e2128cb41c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1309828191,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1309828191,
+    "wof:lastmodified":1537674369,
+    "wof:name":"Keratung Tiga",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.912,
+    2.9055,
+    102.912,
+    2.9055
+],
+  "geometry": {"coordinates":[102.91200000000001,2.9055],"type":"Point"}
+}

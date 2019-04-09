@@ -1,0 +1,67 @@
+{
+  "id": 1309911981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.17396,2.42267,102.17396,2.42267",
+    "geom:latitude":2.42267,
+    "geom:longitude":102.17396,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Solok Ulu Panjang",
+    "gn:country_code":"MY",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1738361,
+    "gn:latitude":2.42267,
+    "gn:longitude":102.17396,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Solok Ulu Panjang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1738361
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c1059bc7844f9d0530273da265240842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1309911981,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1309911981,
+    "wof:lastmodified":1536778494,
+    "wof:name":"Solok Ulu Panjang",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.17396,
+    2.42267,
+    102.17396,
+    2.42267
+],
+  "geometry": {"coordinates":[102.17395999999999,2.42267],"type":"Point"}
+}

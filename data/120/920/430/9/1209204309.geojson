@@ -1,0 +1,68 @@
+{
+  "id": 1209204309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.4545,5.40822,100.4545,5.40822",
+    "geom:latitude":5.40822,
+    "geom:longitude":100.4545,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Petani",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765474,
+    "gn:latitude":5.40822,
+    "gn:longitude":100.4545,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Petani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Petani"
+    ],
+    "name:und_x_variant":[
+        "Kampong Petani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765474
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"40c0b1595108c6b5879530b54c357f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209204309
+        }
+    ],
+    "wof:id":1209204309,
+    "wof:lastmodified":1537673955,
+    "wof:name":"Kampung Petani",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.4545,
+    5.40822,
+    100.4545,
+    5.40822
+],
+  "geometry": {"coordinates":[100.4545,5.40822],"type":"Point"}
+}

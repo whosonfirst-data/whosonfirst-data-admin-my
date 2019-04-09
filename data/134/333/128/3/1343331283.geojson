@@ -1,0 +1,74 @@
+{
+  "id": 1343331283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.6959,5.5268,115.6959,5.5268",
+    "geom:latitude":5.5268,
+    "geom:longitude":115.6959,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Binsuluk",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733374,
+    "gn:latitude":5.5268,
+    "gn:longitude":115.6959,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Binsuluk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Binsuluk"
+    ],
+    "name:und_x_variant":[
+        "Kampong Binsuluk",
+        "Binsulok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733374
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8e1008205d8fe2460693bde5e4434cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696385,
+            "locality_id":1343331283,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343331283,
+    "wof:lastmodified":1537673676,
+    "wof:name":"Kampung Binsuluk",
+    "wof:parent_id":1108696385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.6959,
+    5.5268,
+    115.6959,
+    5.5268
+],
+  "geometry": {"coordinates":[115.69589999999999,5.5268],"type":"Point"}
+}

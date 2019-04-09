@@ -1,0 +1,70 @@
+{
+  "id": 1276871325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2224,2.9307,102.2224,2.9307",
+    "geom:latitude":2.9307,
+    "geom:longitude":102.2224,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Kalu",
+    "gn:country_code":"MY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796666,
+    "gn:latitude":2.9307,
+    "gn:longitude":102.2224,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kalu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796666
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"003c5777204f364657a706900ba1b659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1276871325,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1276871325,
+    "wof:lastmodified":1537674409,
+    "wof:name":"Kampung Kalu",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2224,
+    2.9307,
+    102.2224,
+    2.9307
+],
+  "geometry": {"coordinates":[102.22239999999999,2.9307],"type":"Point"}
+}

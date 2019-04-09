@@ -1,0 +1,70 @@
+{
+  "id": 1276246333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5027,2.2105,102.5027,2.2105",
+    "geom:latitude":2.2105,
+    "geom:longitude":102.5027,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Ban Hap",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798096,
+    "gn:latitude":2.2105,
+    "gn:longitude":102.5027,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Ban Hap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ban Hap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798096
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2b71c13387e3ae6dd1384f619572f2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1276246333,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276246333,
+    "wof:lastmodified":1537674428,
+    "wof:name":"Kampung Ban Hap",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5027,
+    2.2105,
+    102.5027,
+    2.2105
+],
+  "geometry": {"coordinates":[102.5027,2.2105],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259786743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.52891,6.23931,100.52891,6.23931",
+    "geom:latitude":6.23931,
+    "geom:longitude":100.52891,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Paya Kelubi",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765913,
+    "gn:latitude":6.23931,
+    "gn:longitude":100.52891,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Paya Kelubi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Paya Kelubi"
+    ],
+    "name:und_x_variant":[
+        "Kampong Paya Kelubi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765913
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"067253bebaf3b6e70672035c472ab01b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696471,
+            "locality_id":1259786743,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1259786743,
+    "wof:lastmodified":1537673974,
+    "wof:name":"Kampung Paya Kelubi",
+    "wof:parent_id":1108696471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52891,
+    6.23931,
+    100.52891,
+    6.23931
+],
+  "geometry": {"coordinates":[100.52891,6.23931],"type":"Point"}
+}

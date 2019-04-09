@@ -1,0 +1,70 @@
+{
+  "id": 1276958819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7766,3.1362,101.7766,3.1362",
+    "geom:latitude":3.1362,
+    "geom:longitude":101.7766,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taman Halaman",
+    "gn:country_code":"MY",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7688602,
+    "gn:latitude":3.1362,
+    "gn:longitude":101.7766,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Halaman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Halaman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7688602
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e053f6ff740f57e8f8a11b3343918dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":1276958819,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1276958819,
+    "wof:lastmodified":1537674361,
+    "wof:name":"Taman Halaman",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7766,
+    3.1362,
+    101.7766,
+    3.1362
+],
+  "geometry": {"coordinates":[101.7766,3.1362],"type":"Point"}
+}

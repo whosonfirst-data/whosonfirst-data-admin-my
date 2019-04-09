@@ -1,0 +1,67 @@
+{
+  "id": 1327413029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.01667,5.78333,103.01667,5.78333",
+    "geom:latitude":5.78333,
+    "geom:longitude":103.01667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampong Ulu Redang",
+    "gn:country_code":"MY",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762313,
+    "gn:latitude":5.78333,
+    "gn:longitude":103.01667,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Kampong Ulu Redang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762313
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5db8615f25bb013154a71f60c5470740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1327413029,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1327413029,
+    "wof:lastmodified":1536709085,
+    "wof:name":"Kampong Ulu Redang",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.01667,
+    5.78333,
+    103.01667,
+    5.78333
+],
+  "geometry": {"coordinates":[103.01667,5.78333],"type":"Point"}
+}

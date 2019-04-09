@@ -1,0 +1,73 @@
+{
+  "id": 1243278267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7243,2.7778,102.7243,2.7778",
+    "geom:latitude":2.7778,
+    "geom:longitude":102.7243,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Bengkok",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770622,
+    "gn:latitude":2.7778,
+    "gn:longitude":102.7243,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bengkok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bengkok"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bengkok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770622
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f88e162a1ee50ff99c43c21b085c3d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1243278267,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1243278267,
+    "wof:lastmodified":1537674169,
+    "wof:name":"Kampung Bengkok",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7243,
+    2.7778,
+    102.7243,
+    2.7778
+],
+  "geometry": {"coordinates":[102.7243,2.7778],"type":"Point"}
+}

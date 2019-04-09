@@ -1,0 +1,68 @@
+{
+  "id": 1310706011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.043,1.4981,104.043,1.4981",
+    "geom:latitude":1.4981,
+    "geom:longitude":104.043,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Tanjung Buai",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763440,
+    "gn:latitude":1.4981,
+    "gn:longitude":104.043,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tanjung Buai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Buai"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tanjong",
+        "Kampong Tanjong Buai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763440
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"76674b43b5e5ecbddeb7905edde37111",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310706011,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310706011,
+    "wof:lastmodified":1537673860,
+    "wof:name":"Kampung Tanjung Buai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.043,
+    1.4981,
+    104.043,
+    1.4981
+],
+  "geometry": {"coordinates":[104.04300000000001,1.4981],"type":"Point"}
+}

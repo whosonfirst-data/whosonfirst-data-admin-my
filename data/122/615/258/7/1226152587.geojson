@@ -1,0 +1,70 @@
+{
+  "id": 1226152587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5787,2.1846,102.5787,2.1846",
+    "geom:latitude":2.1846,
+    "geom:longitude":102.5787,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Parit Serom Tiga",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536745,
+    "gn:latitude":2.1846,
+    "gn:longitude":102.5787,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Parit Serom Tiga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Parit Serom Tiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536745
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f2a3ba18e5b73d579253335b5350ad5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1226152587,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1226152587,
+    "wof:lastmodified":1537674465,
+    "wof:name":"Parit Serom Tiga",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5787,
+    2.1846,
+    102.5787,
+    2.1846
+],
+  "geometry": {"coordinates":[102.5787,2.1846],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344179207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6289,3.0004,102.6289,3.0004",
+    "geom:latitude":3.0004,
+    "geom:longitude":102.6289,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Pelung",
+    "gn:country_code":"MY",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796482,
+    "gn:latitude":3.0004,
+    "gn:longitude":102.6289,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pelung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pelung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796482
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8062ffe1816133d196cf2c520142e186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1344179207,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1344179207,
+    "wof:lastmodified":1537674405,
+    "wof:name":"Kampung Pelung",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6289,
+    3.0004,
+    102.6289,
+    3.0004
+],
+  "geometry": {"coordinates":[102.6289,3.0004],"type":"Point"}
+}

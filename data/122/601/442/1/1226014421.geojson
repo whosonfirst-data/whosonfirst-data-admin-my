@@ -1,0 +1,74 @@
+{
+  "id": 1226014421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.6343,5.8596,116.6343,5.8596",
+    "geom:latitude":5.8596,
+    "geom:longitude":116.6343,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Niasan",
+    "gn:country_code":"MY",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1753567,
+    "gn:latitude":5.8596,
+    "gn:longitude":116.6343,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Niasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Niasan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Nissan",
+        "Niasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1753567
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"96eb20f2d68605c4bcbf9655adad833f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":1226014421,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226014421,
+    "wof:lastmodified":1537673790,
+    "wof:name":"Kampung Niasan",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.6343,
+    5.8596,
+    116.6343,
+    5.8596
+],
+  "geometry": {"coordinates":[116.6343,5.8596],"type":"Point"}
+}

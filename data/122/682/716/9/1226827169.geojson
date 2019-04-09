@@ -1,0 +1,67 @@
+{
+  "id": 1226827169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.9,4.38333,114.9,4.38333",
+    "geom:latitude":4.38333,
+    "geom:longitude":114.9,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Kuala Medalam",
+    "gn:country_code":"MY",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747819,
+    "gn:latitude":4.38333,
+    "gn:longitude":114.9,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Kuala Medalam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747819
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d5319b613766c32b268e42bfcc575ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696449,
+            "locality_id":1226827169,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1226827169,
+    "wof:lastmodified":1537091896,
+    "wof:name":"Rumah Kuala Medalam",
+    "wof:parent_id":1108696449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.9,
+    4.38333,
+    114.9,
+    4.38333
+],
+  "geometry": {"coordinates":[114.90000000000001,4.38333],"type":"Point"}
+}

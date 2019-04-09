@@ -1,0 +1,72 @@
+{
+  "id": 1309827431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.8,5.15,100.8,5.15",
+    "geom:latitude":5.15,
+    "geom:longitude":100.8,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Ulu Teras",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762289,
+    "gn:latitude":5.15,
+    "gn:longitude":100.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Ulu Teras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Ulu Tras",
+        "Kampong Ulu Teras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762289
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"93ad07bd9f764d54dfbc7205345a393a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489813,
+            "locality_id":1309827431,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1309827431,
+    "wof:lastmodified":1537673808,
+    "wof:name":"Kampong Ulu Teras",
+    "wof:parent_id":890489813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.8,
+    5.15,
+    100.8,
+    5.15
+],
+  "geometry": {"coordinates":[100.8,5.15],"type":"Point"}
+}

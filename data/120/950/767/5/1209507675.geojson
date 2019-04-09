@@ -1,0 +1,64 @@
+{
+  "id": 1209507675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.4874,4.5253,101.4874,4.5253",
+    "geom:latitude":4.5253,
+    "geom:longitude":101.4874,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ladang",
+    "gn:country_code":"MY",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7555017,
+    "gn:latitude":4.5253,
+    "gn:longitude":101.4874,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ladang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ladang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7555017
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2e26280ef5885899a68e79b0021b3701",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209507675
+        }
+    ],
+    "wof:id":1209507675,
+    "wof:lastmodified":1537674310,
+    "wof:name":"Ladang",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.4874,
+    4.5253,
+    101.4874,
+    4.5253
+],
+  "geometry": {"coordinates":[101.48739999999999,4.5253],"type":"Point"}
+}

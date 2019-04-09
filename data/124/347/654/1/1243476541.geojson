@@ -1,0 +1,70 @@
+{
+  "id": 1243476541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9829,2.9618,102.9829,2.9618",
+    "geom:latitude":2.9618,
+    "geom:longitude":102.9829,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Keratung Sembilan",
+    "gn:country_code":"MY",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697739,
+    "gn:latitude":2.9618,
+    "gn:longitude":102.9829,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Keratung Sembilan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Keratung Sembilan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697739
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0f2728386b4b9cd75c39c6062c447a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1243476541,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1243476541,
+    "wof:lastmodified":1537674368,
+    "wof:name":"Keratung Sembilan",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9829,
+    2.9618,
+    102.9829,
+    2.9618
+],
+  "geometry": {"coordinates":[102.9829,2.9618],"type":"Point"}
+}

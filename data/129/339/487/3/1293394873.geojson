@@ -1,0 +1,73 @@
+{
+  "id": 1293394873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1519,2.6741,102.1519,2.6741",
+    "geom:latitude":2.6741,
+    "geom:longitude":102.1519,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Bukit Melintang",
+    "gn:country_code":"MY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770190,
+    "gn:latitude":2.6741,
+    "gn:longitude":102.1519,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bukit Melintang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Melintang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bukit Melintang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770190
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a40670940ddcbc2c07e173b7caa277c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1293394873,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1293394873,
+    "wof:lastmodified":1537674151,
+    "wof:name":"Kampung Bukit Melintang",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1519,
+    2.6741,
+    102.1519,
+    2.6741
+],
+  "geometry": {"coordinates":[102.1519,2.6741],"type":"Point"}
+}

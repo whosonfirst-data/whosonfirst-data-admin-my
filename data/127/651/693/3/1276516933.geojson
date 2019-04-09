@@ -1,0 +1,70 @@
+{
+  "id": 1276516933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.8475,6.3842,116.8475,6.3842",
+    "geom:latitude":6.3842,
+    "geom:longitude":116.8475,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Lambiding",
+    "gn:country_code":"MY",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7468113,
+    "gn:latitude":6.3842,
+    "gn:longitude":116.8475,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Lambiding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lambiding"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468113
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4ff519ba7536c14e891ec90725edac3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696425,
+            "locality_id":1276516933,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276516933,
+    "wof:lastmodified":1537674297,
+    "wof:name":"Kampung Lambiding",
+    "wof:parent_id":1108696425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.8475,
+    6.3842,
+    116.8475,
+    6.3842
+],
+  "geometry": {"coordinates":[116.8475,6.3842],"type":"Point"}
+}

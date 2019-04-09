@@ -1,0 +1,67 @@
+{
+  "id": 1293866059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.5219,4.48188,118.5219,4.48188",
+    "geom:latitude":4.48188,
+    "geom:longitude":118.5219,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Tuhog",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7045406,
+    "gn:latitude":4.48188,
+    "gn:longitude":118.5219,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Tuhog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7045406
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"35e2a25b7753880ad21ede2722228dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696507,
+            "locality_id":1293866059,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293866059,
+    "wof:lastmodified":1536738417,
+    "wof:name":"Kampung Tuhog",
+    "wof:parent_id":1108696507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.5219,
+    4.48188,
+    118.5219,
+    4.48188
+],
+  "geometry": {"coordinates":[118.5219,4.48188],"type":"Point"}
+}

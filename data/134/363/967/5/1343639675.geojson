@@ -1,0 +1,63 @@
+{
+  "id": 1343639675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.21667,2.15,111.21667,2.15",
+    "geom:latitude":2.15,
+    "geom:longitude":111.21667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Barong",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771041,
+    "gn:latitude":2.15,
+    "gn:longitude":111.21667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Barong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771041
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"38f4790570a2d0e7a0c1166990a4ef71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1343639675,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343639675,
+    "wof:lastmodified":1536984278,
+    "wof:name":"Kampong Barong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.21667,
+    2.15,
+    111.21667,
+    2.15
+],
+  "geometry": {"coordinates":[111.21666999999999,2.15],"type":"Point"}
+}

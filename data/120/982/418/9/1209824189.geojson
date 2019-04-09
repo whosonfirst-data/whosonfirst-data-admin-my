@@ -1,0 +1,67 @@
+{
+  "id": 1209824189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.3,6.1,100.3,6.1",
+    "geom:latitude":6.1,
+    "geom:longitude":100.3,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Sematang",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764631,
+    "gn:latitude":6.1,
+    "gn:longitude":100.3,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Sematang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764631
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"11be2ac30c7ba8cacea73fe6214c14d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1209824189,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1209824189,
+    "wof:lastmodified":1536375473,
+    "wof:name":"Kampong Sematang",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.3,
+    6.1,
+    100.3,
+    6.1
+],
+  "geometry": {"coordinates":[100.3,6.1],"type":"Point"}
+}

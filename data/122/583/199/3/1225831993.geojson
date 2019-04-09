@@ -1,0 +1,73 @@
+{
+  "id": 1225831993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8528,3.1828,101.8528,3.1828",
+    "geom:latitude":3.1828,
+    "geom:longitude":101.8528,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Lubok Kelubi",
+    "gn:country_code":"MY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767296,
+    "gn:latitude":3.1828,
+    "gn:longitude":101.8528,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Lubok Kelubi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lubok Kelubi"
+    ],
+    "name:und_x_variant":[
+        "Kampong Lubok Kelubi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767296
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"400da1ab1145fb4772de8ae144f03ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":1225831993,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1225831993,
+    "wof:lastmodified":1537674031,
+    "wof:name":"Kampung Lubok Kelubi",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8528,
+    3.1828,
+    101.8528,
+    3.1828
+],
+  "geometry": {"coordinates":[101.8528,3.1828],"type":"Point"}
+}

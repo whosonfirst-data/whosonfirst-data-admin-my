@@ -1,0 +1,67 @@
+{
+  "id": 1326616419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.18333,5.26667,103.18333,5.26667",
+    "geom:latitude":5.26667,
+    "geom:longitude":103.18333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampong Cherong Baru",
+    "gn:country_code":"MY",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769777,
+    "gn:latitude":5.26667,
+    "gn:longitude":103.18333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Cherong Baru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769777
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"372b7b71b01a55eef067ff17c6f0d7dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1326616419,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1326616419,
+    "wof:lastmodified":1536861271,
+    "wof:name":"Kampong Cherong Baru",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.18333,
+    5.26667,
+    103.18333,
+    5.26667
+],
+  "geometry": {"coordinates":[103.18333,5.26667],"type":"Point"}
+}

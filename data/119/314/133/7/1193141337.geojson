@@ -1,0 +1,70 @@
+{
+  "id": 1193141337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7702,2.5514,102.7702,2.5514",
+    "geom:latitude":2.5514,
+    "geom:longitude":102.7702,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Buloh Kasap",
+    "gn:country_code":"MY",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698825,
+    "gn:latitude":2.5514,
+    "gn:longitude":102.7702,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Buloh Kasap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Buloh Kasap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698825
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e3f6c1f4ecea3797d3470d77269cea6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1193141337,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1193141337,
+    "wof:lastmodified":1537674373,
+    "wof:name":"Taman Buloh Kasap",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7702,
+    2.5514,
+    102.7702,
+    2.5514
+],
+  "geometry": {"coordinates":[102.7702,2.5514],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209101941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36667,5.45,100.36667,5.45",
+    "geom:latitude":5.45,
+    "geom:longitude":100.36667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ajam Bagan",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1782005,
+    "gn:latitude":5.45,
+    "gn:longitude":100.36667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Ajam Bagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1782005
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"120756622cf934d1c34b838ab058d024",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209101941
+        }
+    ],
+    "wof:id":1209101941,
+    "wof:lastmodified":1536297704,
+    "wof:name":"Ajam Bagan",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36667,
+    5.45,
+    100.36667,
+    5.45
+],
+  "geometry": {"coordinates":[100.36667,5.45],"type":"Point"}
+}

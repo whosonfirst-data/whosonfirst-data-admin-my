@@ -1,0 +1,69 @@
+{
+  "id": 890488301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.615973,3.025833,101.615973,3.025833",
+    "geom:latitude":3.025833,
+    "geom:longitude":101.615973,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Sri Puchong",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":45,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":45,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023809,
+        890490605,
+        85675163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56037132,
+        "qs:id":1191317
+    },
+    "wof:country":"MY",
+    "wof:created":1469054714,
+    "wof:geomhash":"8ce5dbcfe8edbdddc4cde17e91a92d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490605,
+            "locality_id":102023809,
+            "neighbourhood_id":890488301,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890488301,
+    "wof:lastmodified":1500013508,
+    "wof:name":"Taman Sri Puchong",
+    "wof:parent_id":102023809,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.615973,
+    3.025833,
+    101.615973,
+    3.025833
+],
+  "geometry": {"coordinates":[101.615973,3.025833],"type":"Point"}
+}

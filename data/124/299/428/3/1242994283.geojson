@@ -1,0 +1,67 @@
+{
+  "id": 1242994283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9,4.65,100.9,4.65",
+    "geom:latitude":4.65,
+    "geom:longitude":100.9,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Lempur",
+    "gn:country_code":"MY",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1757807,
+    "gn:latitude":4.65,
+    "gn:longitude":100.9,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Lempur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1757807
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"978ae6d8ac2c29ec54779cdb8f0f6e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":1242994283,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1242994283,
+    "wof:lastmodified":1536960425,
+    "wof:name":"Lempur",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9,
+    4.65,
+    100.9,
+    4.65
+],
+  "geometry": {"coordinates":[100.90000000000001,4.65],"type":"Point"}
+}

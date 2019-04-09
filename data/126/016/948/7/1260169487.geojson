@@ -1,0 +1,67 @@
+{
+  "id": 1260169487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.35,1.96667,112.35,1.96667",
+    "geom:latitude":1.96667,
+    "geom:longitude":112.35,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Birang",
+    "gn:country_code":"MY",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748078,
+    "gn:latitude":1.96667,
+    "gn:longitude":112.35,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Birang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748078
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d175f5b4521ad898994b26ace93663ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696409,
+            "locality_id":1260169487,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1260169487,
+    "wof:lastmodified":1536865901,
+    "wof:name":"Rumah Birang",
+    "wof:parent_id":1108696409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.35,
+    1.96667,
+    112.35,
+    1.96667
+],
+  "geometry": {"coordinates":[112.34999999999999,1.96667],"type":"Point"}
+}

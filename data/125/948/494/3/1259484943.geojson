@@ -1,0 +1,70 @@
+{
+  "id": 1259484943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.98657,5.40137,101.98657,5.40137",
+    "geom:latitude":5.40137,
+    "geom:longitude":101.98657,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Betong",
+    "gn:country_code":"MY",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770521,
+    "gn:latitude":5.40137,
+    "gn:longitude":101.98657,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Betong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Betong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770521
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"74a2ceee6085640875341f0bdcdbbfda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489265,
+            "locality_id":1259484943,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1259484943,
+    "wof:lastmodified":1537674164,
+    "wof:name":"Kampung Betong",
+    "wof:parent_id":890489265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.98657,
+    5.40137,
+    101.98657,
+    5.40137
+],
+  "geometry": {"coordinates":[101.98657,5.40137],"type":"Point"}
+}

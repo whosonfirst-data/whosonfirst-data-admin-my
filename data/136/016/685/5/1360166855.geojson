@@ -1,0 +1,70 @@
+{
+  "id": 1360166855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.0612,6.4165,117.0612,6.4165",
+    "geom:latitude":6.4165,
+    "geom:longitude":117.0612,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sonsogon Suyad",
+    "gn:country_code":"MY",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7787110,
+    "gn:latitude":6.4165,
+    "gn:longitude":117.0612,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sonsogon Suyad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Sonsogon Suyad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7787110
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2b96389e0492d9b82f69c75b3e661a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696425,
+            "locality_id":1360166855,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1360166855,
+    "wof:lastmodified":1537674382,
+    "wof:name":"Sonsogon Suyad",
+    "wof:parent_id":1108696425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.0612,
+    6.4165,
+    117.0612,
+    6.4165
+],
+  "geometry": {"coordinates":[117.0612,6.4165],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260280533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0917,4.3531,101.0917,4.3531",
+    "geom:latitude":4.3531,
+    "geom:longitude":101.0917,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kmapung Bunga Tanjong",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770025,
+    "gn:latitude":4.3531,
+    "gn:longitude":101.0917,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kmapung Bunga Tanjong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Bunga Tanjong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770025
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"afe5d483b4e0afc4e9552725a78439fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1260280533,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1260280533,
+    "wof:lastmodified":1537674144,
+    "wof:name":"Kmapung Bunga Tanjong",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0917,
+    4.3531,
+    101.0917,
+    4.3531
+],
+  "geometry": {"coordinates":[101.0917,4.3531],"type":"Point"}
+}

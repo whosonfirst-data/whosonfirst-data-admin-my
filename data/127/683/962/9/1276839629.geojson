@@ -1,0 +1,70 @@
+{
+  "id": 1276839629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.22119,4.40444,116.22119,4.40444",
+    "geom:latitude":4.40444,
+    "geom:longitude":116.22119,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Saliliran",
+    "gn:country_code":"MY",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1746978,
+    "gn:latitude":4.40444,
+    "gn:longitude":116.22119,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Saliliran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Saliliran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1746978
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e65f5d5ea3956b718c91eb4fd4560eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696483,
+            "locality_id":1276839629,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276839629,
+    "wof:lastmodified":1537673769,
+    "wof:name":"Saliliran",
+    "wof:parent_id":1108696483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.22119,
+    4.40444,
+    116.22119,
+    4.40444
+],
+  "geometry": {"coordinates":[116.22119000000001,4.40444],"type":"Point"}
+}

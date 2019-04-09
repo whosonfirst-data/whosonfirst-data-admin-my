@@ -1,0 +1,70 @@
+{
+  "id": 890489337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.196376,4.240845,101.196376,4.240845",
+    "geom:latitude":4.240845,
+    "geom:longitude":101.196376,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Chenderiang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos":34,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":35,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013931,
+        "qs:id":996348,
+        "wd:id":"Q5091154",
+        "wk:page":"Chenderiang"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054753,
+    "wof:geomhash":"5aa6373d4dceb29aba50e632ca8606d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489741,
+            "localadmin_id":890489337,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890489337,
+    "wof:lastmodified":1527792861,
+    "wof:name":"Chenderiang",
+    "wof:parent_id":890489741,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.196376,
+    4.240845,
+    101.196376,
+    4.240845
+],
+  "geometry": {"coordinates":[101.196376,4.240845],"type":"Point"}
+}

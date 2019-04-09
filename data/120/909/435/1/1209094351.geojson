@@ -1,0 +1,61 @@
+{
+  "id": 1209094351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.05,1.93333,112.05,1.93333",
+    "geom:latitude":1.93333,
+    "geom:longitude":112.05,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Banyan",
+    "gn:country_code":"MY",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748124,
+    "gn:latitude":1.93333,
+    "gn:longitude":112.05,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Banyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748124
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cd26db9b728e77090849896b658433c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209094351
+        }
+    ],
+    "wof:id":1209094351,
+    "wof:lastmodified":1536297935,
+    "wof:name":"Rumah Banyan",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.05,
+    1.93333,
+    112.05,
+    1.93333
+],
+  "geometry": {"coordinates":[112.05,1.93333],"type":"Point"}
+}

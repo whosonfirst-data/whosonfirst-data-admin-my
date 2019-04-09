@@ -1,0 +1,74 @@
+{
+  "id": 1326943227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.52126,5.80087,100.52126,5.80087",
+    "geom:latitude":5.80087,
+    "geom:longitude":100.52126,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Bongkok",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770432,
+    "gn:latitude":5.80087,
+    "gn:longitude":100.52126,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bongkok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bongkok"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bongkok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770432
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d2995e42c518f6aba7b3c3df173bcce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "locality_id":1326943227,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1326943227,
+    "wof:lastmodified":1537674160,
+    "wof:name":"Kampung Bongkok",
+    "wof:parent_id":890490355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52126,
+    5.80087,
+    100.52126,
+    5.80087
+],
+  "geometry": {"coordinates":[100.52126,5.80087],"type":"Point"}
+}

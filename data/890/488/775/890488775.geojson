@@ -1,0 +1,77 @@
+{
+  "id": 890488775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2502,2.411,102.2502,2.411",
+    "geom:latitude":2.411,
+    "geom:longitude":102.2502,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gadek"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Gadek"
+    ],
+    "qs:name":"Kampung Gadik",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734743,
+        "gp:id":1150994,
+        "qs:id":342089
+    },
+    "wof:country":"MY",
+    "wof:created":1469054732,
+    "wof:geomhash":"9190df36d895f033fc75a966395f109d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":890488775,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":890488775,
+    "wof:lastmodified":1505343783,
+    "wof:name":"Kampung Gadik",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2502,
+    2.411,
+    102.2502,
+    2.411
+],
+  "geometry": {"coordinates":[102.25020000000001,2.411],"type":"Point"}
+}

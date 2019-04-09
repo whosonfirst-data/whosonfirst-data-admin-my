@@ -1,0 +1,67 @@
+{
+  "id": 1209307081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4199,3.8842,102.4199,3.8842",
+    "geom:latitude":3.8842,
+    "geom:longitude":102.4199,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Kedondong",
+    "gn:country_code":"MY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768506,
+    "gn:latitude":3.8842,
+    "gn:longitude":102.4199,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kedondong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kedondong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kedondong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768506
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d2b143dcb834b76176227e8b9b859b84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209307081
+        }
+    ],
+    "wof:id":1209307081,
+    "wof:lastmodified":1537674081,
+    "wof:name":"Kampung Kedondong",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4199,
+    3.8842,
+    102.4199,
+    3.8842
+],
+  "geometry": {"coordinates":[102.4199,3.8842],"type":"Point"}
+}

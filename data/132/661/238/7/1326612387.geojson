@@ -1,0 +1,67 @@
+{
+  "id": 1326612387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.23333,6.86667,117.23333,6.86667",
+    "geom:latitude":6.86667,
+    "geom:longitude":117.23333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Taburan",
+    "gn:country_code":"MY",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1742287,
+    "gn:latitude":6.86667,
+    "gn:longitude":117.23333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Taburan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1742287
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ee49e715d53b44b742858837bd5782f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1326612387,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1326612387,
+    "wof:lastmodified":1536867249,
+    "wof:name":"Taburan",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.23333,
+    6.86667,
+    117.23333,
+    6.86667
+],
+  "geometry": {"coordinates":[117.23333,6.86667],"type":"Point"}
+}

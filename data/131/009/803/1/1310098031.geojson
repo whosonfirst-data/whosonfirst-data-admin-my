@@ -1,0 +1,70 @@
+{
+  "id": 1310098031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3535,3.9342,102.3535,3.9342",
+    "geom:latitude":3.9342,
+    "geom:longitude":102.3535,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Melayu",
+    "gn:country_code":"MY",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793971,
+    "gn:latitude":3.9342,
+    "gn:longitude":102.3535,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Melayu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Melayu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793971
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b44a7793c39dd9f3e9b2bf862f7d6084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1310098031,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1310098031,
+    "wof:lastmodified":1537674390,
+    "wof:name":"Kampung Melayu",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3535,
+    3.9342,
+    102.3535,
+    3.9342
+],
+  "geometry": {"coordinates":[102.3535,3.9342],"type":"Point"}
+}

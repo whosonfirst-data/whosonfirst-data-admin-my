@@ -1,0 +1,74 @@
+{
+  "id": 1276241431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.34463,6.0005,100.34463,6.0005",
+    "geom:latitude":6.0005,
+    "geom:longitude":100.34463,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Kuala Kangkong",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736316,
+    "gn:latitude":6.0005,
+    "gn:longitude":100.34463,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kuala Kangkong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Kangkong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kuala Kangkong",
+        "Kampung Kuala Kang Kung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736316
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"74e56241ac1d6512be555004a8e8d1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1276241431,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1276241431,
+    "wof:lastmodified":1537673735,
+    "wof:name":"Kampung Kuala Kangkong",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.34463,
+    6.0005,
+    100.34463,
+    6.0005
+],
+  "geometry": {"coordinates":[100.34463,6.0005],"type":"Point"}
+}

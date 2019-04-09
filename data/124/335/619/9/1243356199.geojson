@@ -1,0 +1,70 @@
+{
+  "id": 1243356199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9433,3.9641,101.9433,3.9641",
+    "geom:latitude":3.9641,
+    "geom:longitude":101.9433,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Felcra Teridi",
+    "gn:country_code":"MY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638941,
+    "gn:latitude":3.9641,
+    "gn:longitude":101.9433,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Felcra Teridi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Felcra Teridi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638941
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"69444630ba8df35a9434848f70c0891b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1243356199,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1243356199,
+    "wof:lastmodified":1537674346,
+    "wof:name":"Felcra Teridi",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9433,
+    3.9641,
+    101.9433,
+    3.9641
+],
+  "geometry": {"coordinates":[101.94329999999999,3.9641],"type":"Point"}
+}

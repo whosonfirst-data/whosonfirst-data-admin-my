@@ -1,0 +1,70 @@
+{
+  "id": 1226140451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0807,3.5316,103.0807,3.5316",
+    "geom:latitude":3.5316,
+    "geom:longitude":103.0807,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Pengkalan Ara",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795581,
+    "gn:latitude":3.5316,
+    "gn:longitude":103.0807,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pengkalan Ara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pengkalan Ara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795581
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0d70e668f1dd688a7e7e7b45bd6925b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1226140451,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226140451,
+    "wof:lastmodified":1537674394,
+    "wof:name":"Kampung Pengkalan Ara",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0807,
+    3.5316,
+    103.0807,
+    3.5316
+],
+  "geometry": {"coordinates":[103.08069999999999,3.5316],"type":"Point"}
+}

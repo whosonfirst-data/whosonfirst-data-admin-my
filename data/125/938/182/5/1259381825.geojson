@@ -1,0 +1,73 @@
+{
+  "id": 1259381825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2134,2.9509,102.2134,2.9509",
+    "geom:latitude":2.9509,
+    "geom:longitude":102.2134,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Geylang",
+    "gn:country_code":"MY",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769391,
+    "gn:latitude":2.9509,
+    "gn:longitude":102.2134,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Geylang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Geylang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Gelang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769391
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dfb04d91a7e2fdc8fb49d7131f0538ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1259381825,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1259381825,
+    "wof:lastmodified":1537674116,
+    "wof:name":"Kampung Geylang",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2134,
+    2.9509,
+    102.2134,
+    2.9509
+],
+  "geometry": {"coordinates":[102.21339999999999,2.9509],"type":"Point"}
+}

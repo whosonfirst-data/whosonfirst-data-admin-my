@@ -1,0 +1,67 @@
+{
+  "id": 1293862079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.4,2.46667,112.4,2.46667",
+    "geom:latitude":2.46667,
+    "geom:longitude":112.4,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rumah Anchai",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736948,
+    "gn:latitude":2.46667,
+    "gn:longitude":112.4,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Anchai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736948
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8ba73fc8d02592b308d41cc0bcb2d50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696505,
+            "locality_id":1293862079,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1293862079,
+    "wof:lastmodified":1536743943,
+    "wof:name":"Rumah Anchai",
+    "wof:parent_id":1108696505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.4,
+    2.46667,
+    112.4,
+    2.46667
+],
+  "geometry": {"coordinates":[112.40000000000001,2.46667],"type":"Point"}
+}

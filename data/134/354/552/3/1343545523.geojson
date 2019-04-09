@@ -1,0 +1,75 @@
+{
+  "id": 1343545523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.47059,5.13283,100.47059,5.13283",
+    "geom:latitude":5.13283,
+    "geom:longitude":100.47059,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Permatang Keling",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1750510,
+    "gn:latitude":5.13283,
+    "gn:longitude":100.47059,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Permatang Keling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Permatang Keling"
+    ],
+    "name:und_x_variant":[
+        "Permatang Kling",
+        "Permatang Keling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1750510
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"817f4764e3b3a826b1ad972dea7cc4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489801,
+            "locality_id":1343545523,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1343545523,
+    "wof:lastmodified":1537673783,
+    "wof:name":"Kampung Permatang Keling",
+    "wof:parent_id":890489801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.47059,
+    5.13283,
+    100.47059,
+    5.13283
+],
+  "geometry": {"coordinates":[100.47059,5.13283],"type":"Point"}
+}

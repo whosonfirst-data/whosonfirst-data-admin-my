@@ -1,0 +1,74 @@
+{
+  "id": 1293013493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.88494,5.83561,100.88494,5.83561",
+    "geom:latitude":5.83561,
+    "geom:longitude":100.88494,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Charok Semerliang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769894,
+    "gn:latitude":5.83561,
+    "gn:longitude":100.88494,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Charok Semerliang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Charok Semerliang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Charok Semerliang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769894
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"98e9cac8665a2b646d220a0df2821f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696379,
+            "locality_id":1293013493,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1293013493,
+    "wof:lastmodified":1537674139,
+    "wof:name":"Kampung Charok Semerliang",
+    "wof:parent_id":1108696379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.88494,
+    5.83561,
+    100.88494,
+    5.83561
+],
+  "geometry": {"coordinates":[100.88494,5.83561],"type":"Point"}
+}

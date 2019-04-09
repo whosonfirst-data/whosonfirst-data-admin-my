@@ -1,0 +1,64 @@
+{
+  "id": 1209637537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9474,4.4873,101.9474,4.4873",
+    "geom:latitude":4.4873,
+    "geom:longitude":101.9474,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Perumahan Sungai Temau",
+    "gn:country_code":"MY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7621970,
+    "gn:latitude":4.4873,
+    "gn:longitude":101.9474,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Perumahan Sungai Temau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perumahan Sungai Temau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7621970
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"922e2c180d40e4ecf3060ca6cbe8919f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209637537
+        }
+    ],
+    "wof:id":1209637537,
+    "wof:lastmodified":1537674338,
+    "wof:name":"Perumahan Sungai Temau",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9474,
+    4.4873,
+    101.9474,
+    4.4873
+],
+  "geometry": {"coordinates":[101.9474,4.4873],"type":"Point"}
+}

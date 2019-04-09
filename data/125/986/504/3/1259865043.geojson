@@ -1,0 +1,70 @@
+{
+  "id": 1259865043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.2333,6.45435,100.2333,6.45435",
+    "geom:latitude":6.45435,
+    "geom:longitude":100.2333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Jejawi Dalam",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819109,
+    "gn:latitude":6.45435,
+    "gn:longitude":100.2333,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Jejawi Dalam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jejawi Dalam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819109
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a16aa2161d2bc373af34c4c88ba0b3f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1259865043,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1259865043,
+    "wof:lastmodified":1537674245,
+    "wof:name":"Kampung Jejawi Dalam",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.2333,
+    6.45435,
+    100.2333,
+    6.45435
+],
+  "geometry": {"coordinates":[100.2333,6.45435],"type":"Point"}
+}

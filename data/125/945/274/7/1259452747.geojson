@@ -1,0 +1,73 @@
+{
+  "id": 1259452747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1637,6.0431,116.1637,6.0431",
+    "geom:latitude":6.0431,
+    "geom:longitude":116.1637,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Ladoh",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767690,
+    "gn:latitude":6.0431,
+    "gn:longitude":116.1637,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ladoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ladoh"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ladoh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767690
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"34613fcf8afa5dd0924df46a3ff129ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1259452747,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259452747,
+    "wof:lastmodified":1537674048,
+    "wof:name":"Kampung Ladoh",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1637,
+    6.0431,
+    116.1637,
+    6.0431
+],
+  "geometry": {"coordinates":[116.16370000000001,6.0431],"type":"Point"}
+}

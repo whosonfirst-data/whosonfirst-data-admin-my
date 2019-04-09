@@ -1,0 +1,73 @@
+{
+  "id": 1209714737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2373,2.5526,102.2373,2.5526",
+    "geom:latitude":2.5526,
+    "geom:longitude":102.2373,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Tanggai",
+    "gn:country_code":"MY",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763521,
+    "gn:latitude":2.5526,
+    "gn:longitude":102.2373,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tanggai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanggai"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tanggai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763521
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"33ef8e49dd8534afd6b37f466889be1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1209714737,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1209714737,
+    "wof:lastmodified":1537673864,
+    "wof:name":"Kampung Tanggai",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2373,
+    2.5526,
+    102.2373,
+    2.5526
+],
+  "geometry": {"coordinates":[102.2373,2.5526],"type":"Point"}
+}

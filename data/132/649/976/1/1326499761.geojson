@@ -1,0 +1,70 @@
+{
+  "id": 1326499761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5769,6.3097,116.5769,6.3097",
+    "geom:latitude":6.3097,
+    "geom:longitude":116.5769,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Tindakan",
+    "gn:country_code":"MY",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7458566,
+    "gn:latitude":6.3097,
+    "gn:longitude":116.5769,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tindakan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tindakan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7458566
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"941d008f2a33b3722824b23f161cf5d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1326499761,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1326499761,
+    "wof:lastmodified":1537674289,
+    "wof:name":"Kampung Tindakan",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5769,
+    6.3097,
+    116.5769,
+    6.3097
+],
+  "geometry": {"coordinates":[116.57689999999999,6.3097],"type":"Point"}
+}

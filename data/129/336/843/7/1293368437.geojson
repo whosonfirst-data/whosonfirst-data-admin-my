@@ -1,0 +1,67 @@
+{
+  "id": 1293368437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.46667,2.25,111.46667,2.25",
+    "geom:latitude":2.25,
+    "geom:longitude":111.46667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Beyang",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748084,
+    "gn:latitude":2.25,
+    "gn:longitude":111.46667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Beyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748084
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"74328a52d53a14a69b3f4ddb36e5bdde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696397,
+            "locality_id":1293368437,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1293368437,
+    "wof:lastmodified":1536958702,
+    "wof:name":"Rumah Beyang",
+    "wof:parent_id":1108696397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.46667,
+    2.25,
+    111.46667,
+    2.25
+],
+  "geometry": {"coordinates":[111.46666999999999,2.25],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 890489679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1051225,5.3699495,103.1051225,5.3699495",
+    "geom:latitude":5.369949,
+    "geom:longitude":103.105122,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Lapangan Terbang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Terengganu",
+    "qs:photos":26,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":26,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":19,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56016433,
+        "qs:id":5714,
+        "wd:id":"Q17051864",
+        "wk:page":"Jalan Lapangan Terbang Baru"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054765,
+    "wof:geomhash":"205a599d843f9083bdde0afa4a2dc97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":890489679,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":890489679,
+    "wof:lastmodified":1527792865,
+    "wof:name":"Taman Lapangan Terbang",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1051225,
+    5.3699495,
+    103.1051225,
+    5.3699495
+],
+  "geometry": {"coordinates":[103.10512249999999,5.3699495],"type":"Point"}
+}

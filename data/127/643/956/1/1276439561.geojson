@@ -1,0 +1,70 @@
+{
+  "id": 1276439561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4703,3.4645,102.4703,3.4645",
+    "geom:latitude":3.4645,
+    "geom:longitude":102.4703,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Tanjung Besar",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795947,
+    "gn:latitude":3.4645,
+    "gn:longitude":102.4703,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tanjung Besar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Besar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795947
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"013143f76d716e354bdaa83db8c14c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1276439561,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276439561,
+    "wof:lastmodified":1537674398,
+    "wof:name":"Kampung Tanjung Besar",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4703,
+    3.4645,
+    102.4703,
+    3.4645
+],
+  "geometry": {"coordinates":[102.47029999999999,3.4645],"type":"Point"}
+}

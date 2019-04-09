@@ -1,0 +1,70 @@
+{
+  "id": 1259894139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7735,2.5505,102.7735,2.5505",
+    "geom:latitude":2.5505,
+    "geom:longitude":102.7735,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Bukit Makmur",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698826,
+    "gn:latitude":2.5505,
+    "gn:longitude":102.7735,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Bukit Makmur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Bukit Makmur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698826
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"09d64bcd05331814707e457c56583af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1259894139,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1259894139,
+    "wof:lastmodified":1537674373,
+    "wof:name":"Taman Bukit Makmur",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7735,
+    2.5505,
+    102.7735,
+    2.5505
+],
+  "geometry": {"coordinates":[102.7735,2.5505],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1260362021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.3238,6.3716,116.3238,6.3716",
+    "geom:latitude":6.3716,
+    "geom:longitude":116.3238,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampong Buah Pandai",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417178,
+    "gn:latitude":6.3716,
+    "gn:longitude":116.3238,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampong Buah Pandai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampong Buah Pandai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417178
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"79ecca252e73642bf0d97b3e4b57f0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260362021,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260362021,
+    "wof:lastmodified":1537674283,
+    "wof:name":"Kampong Buah Pandai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.3238,
+    6.3716,
+    116.3238,
+    6.3716
+],
+  "geometry": {"coordinates":[116.32380000000001,6.3716],"type":"Point"}
+}

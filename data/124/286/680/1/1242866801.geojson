@@ -1,0 +1,70 @@
+{
+  "id": 1242866801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.679,3.5647,102.679,3.5647",
+    "geom:latitude":3.5647,
+    "geom:longitude":102.679,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Baharu Pertanian Sungai Jempul",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662014,
+    "gn:latitude":3.5647,
+    "gn:longitude":102.679,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Baharu Pertanian Sungai Jempul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Pertanian Sungai Jempul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662014
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"90a883b47f3af749b5159c2b04bdbb2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1242866801,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1242866801,
+    "wof:lastmodified":1537674354,
+    "wof:name":"Kampung Baharu Pertanian Sungai Jempul",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.679,
+    3.5647,
+    102.679,
+    3.5647
+],
+  "geometry": {"coordinates":[102.679,3.5647],"type":"Point"}
+}

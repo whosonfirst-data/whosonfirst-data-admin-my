@@ -1,0 +1,70 @@
+{
+  "id": 890490927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.036109,3.9168,103.036109,3.9168",
+    "geom:latitude":3.9168,
+    "geom:longitude":103.036109,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Hulu Kuantan",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":413,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":572,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013911,
+        "qs:id":239142,
+        "wd:id":"Q6461244",
+        "wk:page":"Districts of Riau"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054833,
+    "wof:geomhash":"c0d7e761a47312b707146af6b943c3c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "localadmin_id":890490927,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":890490927,
+    "wof:lastmodified":1527734160,
+    "wof:name":"Hulu Kuantan",
+    "wof:parent_id":890490895,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.036109,
+    3.9168,
+    103.036109,
+    3.9168
+],
+  "geometry": {"coordinates":[103.036109,3.9168],"type":"Point"}
+}

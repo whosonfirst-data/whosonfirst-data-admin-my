@@ -1,0 +1,70 @@
+{
+  "id": 1326627861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.93281,3.71279,102.93281,3.71279",
+    "geom:latitude":3.71279,
+    "geom:longitude":102.93281,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Paya Sasak",
+    "gn:country_code":"MY",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765862,
+    "gn:latitude":3.71279,
+    "gn:longitude":102.93281,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Paya Sasak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Paya Sasak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765862
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a2dc22c32fb4f5cdc0e9863053064c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":1326627861,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1326627861,
+    "wof:lastmodified":1537673972,
+    "wof:name":"Kampung Paya Sasak",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.93281,
+    3.71279,
+    102.93281,
+    3.71279
+],
+  "geometry": {"coordinates":[102.93281,3.71279],"type":"Point"}
+}

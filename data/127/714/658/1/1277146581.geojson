@@ -1,0 +1,73 @@
+{
+  "id": 1277146581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1798,5.8343,116.1798,5.8343",
+    "geom:latitude":5.8343,
+    "geom:longitude":116.1798,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Mantisun",
+    "gn:country_code":"MY",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767078,
+    "gn:latitude":5.8343,
+    "gn:longitude":116.1798,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Mantisun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mantisun"
+    ],
+    "name:und_x_variant":[
+        "Kampong Mantisun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767078
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"70bfa939fc92fbf2812f5b0c52796ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1277146581,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1277146581,
+    "wof:lastmodified":1537674022,
+    "wof:name":"Kampung Mantisun",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1798,
+    5.8343,
+    116.1798,
+    5.8343
+],
+  "geometry": {"coordinates":[116.1798,5.8343],"type":"Point"}
+}

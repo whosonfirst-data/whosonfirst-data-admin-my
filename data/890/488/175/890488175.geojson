@@ -1,0 +1,73 @@
+{
+  "id": 890488175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.0724,4.9555,117.0724,4.9555",
+    "geom:latitude":4.9555,
+    "geom:longitude":117.0724,
+    "gn:country":"MY",
+    "gn:fcode":"MT",
+    "gn:pop":4549,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:msa_x_preferred":[
+        "Gunong Kuli"
+    ],
+    "name:unk_x_variant":[
+        "Gunung Kuli"
+    ],
+    "qs:name":"Gunong Kuli",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733567,
+        "gp:id":1154678,
+        "qs:id":558784
+    },
+    "wof:country":"MY",
+    "wof:created":1469054709,
+    "wof:geomhash":"93816dc245759eb1f39589b1e5adcc43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696539,
+            "locality_id":890488175,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":890488175,
+    "wof:lastmodified":1505343781,
+    "wof:name":"Gunong Kuli",
+    "wof:parent_id":1108696539,
+    "wof:placetype":"locality",
+    "wof:population":4549,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.0724,
+    4.9555,
+    117.0724,
+    4.9555
+],
+  "geometry": {"coordinates":[117.0724,4.9555],"type":"Point"}
+}

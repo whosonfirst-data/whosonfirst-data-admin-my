@@ -1,0 +1,73 @@
+{
+  "id": 1293521251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0929,2.569,102.0929,2.569",
+    "geom:latitude":2.569,
+    "geom:longitude":102.0929,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Solok Batu Hampar",
+    "gn:country_code":"MY",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764230,
+    "gn:latitude":2.569,
+    "gn:longitude":102.0929,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Solok Batu Hampar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Solok Batu Hampar"
+    ],
+    "name:und_x_variant":[
+        "Kampong Solok Batu Hampar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764230
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c3db5439c46c8cf14496aa1e9564ab62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1293521251,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1293521251,
+    "wof:lastmodified":1537673898,
+    "wof:name":"Kampung Solok Batu Hampar",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0929,
+    2.569,
+    102.0929,
+    2.569
+],
+  "geometry": {"coordinates":[102.0929,2.569],"type":"Point"}
+}

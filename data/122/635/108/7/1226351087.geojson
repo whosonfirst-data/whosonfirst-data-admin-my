@@ -1,0 +1,70 @@
+{
+  "id": 1226351087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.49921,5.62483,100.49921,5.62483",
+    "geom:latitude":5.62483,
+    "geom:longitude":100.49921,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Sungai Gelugor",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847552,
+    "gn:latitude":5.62483,
+    "gn:longitude":100.49921,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Sungai Gelugor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Gelugor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847552
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0095dafc9f476f341b2b7db8190bee40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "locality_id":1226351087,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1226351087,
+    "wof:lastmodified":1537674256,
+    "wof:name":"Kampung Sungai Gelugor",
+    "wof:parent_id":890490355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49921,
+    5.62483,
+    100.49921,
+    5.62483
+],
+  "geometry": {"coordinates":[100.49921000000001,5.62483],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209195579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.53078,3.80859,115.53078,3.80859",
+    "geom:latitude":3.80859,
+    "geom:longitude":115.53078,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Pa Lungan",
+    "gn:country_code":"MY",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1737570,
+    "gn:latitude":3.80859,
+    "gn:longitude":115.53078,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Pa Lungan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pa Lungan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1737570
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"51edc3da95b00e4f1150bee2ac666fa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209195579
+        }
+    ],
+    "wof:id":1209195579,
+    "wof:lastmodified":1537673750,
+    "wof:name":"Pa Lungan",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.53078,
+    3.80859,
+    115.53078,
+    3.80859
+],
+  "geometry": {"coordinates":[115.53077999999999,3.80859],"type":"Point"}
+}

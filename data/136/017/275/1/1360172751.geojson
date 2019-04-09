@@ -1,0 +1,67 @@
+{
+  "id": 1360172751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.9,4.46667,114.9,4.46667",
+    "geom:latitude":4.46667,
+    "geom:longitude":114.9,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Tanah Merah",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747508,
+    "gn:latitude":4.46667,
+    "gn:longitude":114.9,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Tanah Merah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747508
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d32316adf033b09e545f89be4ae48b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696449,
+            "locality_id":1360172751,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1360172751,
+    "wof:lastmodified":1536818340,
+    "wof:name":"Rumah Tanah Merah",
+    "wof:parent_id":1108696449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.9,
+    4.46667,
+    114.9,
+    4.46667
+],
+  "geometry": {"coordinates":[114.90000000000001,4.46667],"type":"Point"}
+}

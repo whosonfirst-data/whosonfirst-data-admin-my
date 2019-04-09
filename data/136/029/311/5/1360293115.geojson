@@ -1,0 +1,72 @@
+{
+  "id": 1360293115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.76667,4.8,101.76667,4.8",
+    "geom:latitude":4.8,
+    "geom:longitude":101.76667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Ladang Penghulu Setia",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1758881,
+    "gn:latitude":4.8,
+    "gn:longitude":101.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ladang Penghulu Setia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ladang Penghulu Stia",
+        "Ladang Penghulu Setia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1758881
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d51505f61103d44517e202267918db86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1360293115,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1360293115,
+    "wof:lastmodified":1537673798,
+    "wof:name":"Ladang Penghulu Setia",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.76667,
+    4.8,
+    101.76667,
+    4.8
+],
+  "geometry": {"coordinates":[101.76667,4.8],"type":"Point"}
+}

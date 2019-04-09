@@ -1,0 +1,72 @@
+{
+  "id": 1260150225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.58754,5.17769,115.58754,5.17769",
+    "geom:latitude":5.17769,
+    "geom:longitude":115.58754,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Lubok",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767355,
+    "gn:latitude":5.17769,
+    "gn:longitude":115.58754,
+    "gn:modification_date":"2017-09-14",
+    "gn:name":"Kampong Lubok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lubok",
+        "Kampong Lubok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767355
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b33683f7dbf011a9c1cad6c41158481a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696385,
+            "locality_id":1260150225,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1260150225,
+    "wof:lastmodified":1537674033,
+    "wof:name":"Kampong Lubok",
+    "wof:parent_id":1108696385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.58754,
+    5.17769,
+    115.58754,
+    5.17769
+],
+  "geometry": {"coordinates":[115.58754,5.17769],"type":"Point"}
+}

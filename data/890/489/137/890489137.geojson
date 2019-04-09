@@ -1,0 +1,75 @@
+{
+  "id": 890489137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.849555,6.3233,99.849555,6.3233",
+    "geom:latitude":6.3233,
+    "geom:longitude":99.849555,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tunggang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kedah",
+    "qs:photos":209,
+    "qs:photos_1k":42,
+    "qs:photos_9k":13,
+    "qs:photos_9r":11,
+    "qs:photos_all":2864,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696443,
+        85675137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013811,
+        "qs:id":893813
+    },
+    "wof:country":"MY",
+    "wof:created":1469054746,
+    "wof:geomhash":"6ac4c064b0ea3b71b9d4c0a0711de58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "localadmin_id":890489137,
+            "region_id":85675133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "localadmin_id":890489137,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":890489137,
+    "wof:lastmodified":1500013300,
+    "wof:name":"Tunggang",
+    "wof:parent_id":1108696443,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.849555,
+    6.3233,
+    99.849555,
+    6.3233
+],
+  "geometry": {"coordinates":[99.849555,6.3233],"type":"Point"}
+}

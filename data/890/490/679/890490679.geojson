@@ -1,0 +1,91 @@
+{
+  "id": 890490679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2822145,2.278272,102.2822145,2.278272",
+    "geom:latitude":2.278272,
+    "geom:longitude":102.282214,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5cc7\u682a\u5b89\u5357"
+    ],
+    "name:dut_x_preferred":[
+        "Batu Berendam"
+    ],
+    "name:eng_x_preferred":[
+        "Batu Berendam"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30c8\u30a5\u30fb\u30d6\u30ec\u30f3\u30c0\u30e0"
+    ],
+    "name:may_x_preferred":[
+        "Batu Berendam"
+    ],
+    "name:spa_x_preferred":[
+        "Batu Berendam"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bbf\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd"
+    ],
+    "qs:name":"Batu Berendam",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:photos":18,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":173,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":131,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1154578,
+        "qs:id":527380,
+        "wd:id":"Q2621054",
+        "wk:page":"Batu Berendam"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054820,
+    "wof:geomhash":"af4f1bb7ea13b432488ace3b3db9fc12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":890490679,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":890490679,
+    "wof:lastmodified":1527734159,
+    "wof:name":"Batu Berendam",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2822145,
+    2.278272,
+    102.2822145,
+    2.278272
+],
+  "geometry": {"coordinates":[102.28221449999999,2.278272],"type":"Point"}
+}

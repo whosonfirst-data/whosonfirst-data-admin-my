@@ -1,0 +1,96 @@
+{
+  "id": 1125826951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4619,3.5321,103.4619,3.5321",
+    "geom:latitude":3.5321,
+    "geom:longitude":103.4619,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":3.5321,
+    "lbl:longitude":103.4619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kuala Pahang"
+    ],
+    "name:eng_x_preferred":[
+        "Kuala Pahang"
+    ],
+    "name:may_x_preferred":[
+        "Kuala Pahang"
+    ],
+    "name:msa_x_preferred":[
+        "Kuala Pahang"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Pahang"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1735244,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kuala Pahang",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Pahang",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1072842,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1151813,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Pahang",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735244,
+        "gp:id":1151813,
+        "qs_pg:id":1072842,
+        "wd:id":"Q6441048"
+    },
+    "wof:country":"MY",
+    "wof:created":1497292317,
+    "wof:geomhash":"dd7fc93d643a7cb168560ff6094fecd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125826951,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125826951,
+    "wof:lastmodified":1514490583,
+    "wof:name":"Kuala Pahang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4619,
+    3.5321,
+    103.4619,
+    3.5321
+],
+  "geometry": {"coordinates":[103.4619,3.5321],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209528307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.51489,6.16324,100.51489,6.16324",
+    "geom:latitude":6.16324,
+    "geom:longitude":100.51489,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Kiyu",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6853435,
+    "gn:latitude":6.16324,
+    "gn:longitude":100.51489,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Kiyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kiyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6853435
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4f9534fc9199e548ebdaed5191bcca51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209528307
+        }
+    ],
+    "wof:id":1209528307,
+    "wof:lastmodified":1537674258,
+    "wof:name":"Kampung Kiyu",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51489,
+    6.16324,
+    100.51489,
+    6.16324
+],
+  "geometry": {"coordinates":[100.51488999999999,6.16324],"type":"Point"}
+}

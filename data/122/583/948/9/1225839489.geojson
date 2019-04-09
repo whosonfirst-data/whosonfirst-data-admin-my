@@ -1,0 +1,74 @@
+{
+  "id": 1225839489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1228,4.7105,101.1228,4.7105",
+    "geom:latitude":4.7105,
+    "geom:longitude":101.1228,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Dusun Gilap",
+    "gn:country_code":"MY",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769562,
+    "gn:latitude":4.7105,
+    "gn:longitude":101.1228,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Dusun Gilap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Dusun Gilap"
+    ],
+    "name:und_x_variant":[
+        "Kampong Dusun Gilip",
+        "Kampong Duson Gilap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769562
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1c5b3b562e30fdfe2f55e3fb2ec2f552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1225839489,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1225839489,
+    "wof:lastmodified":1537674124,
+    "wof:name":"Kampung Dusun Gilap",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1228,
+    4.7105,
+    101.1228,
+    4.7105
+],
+  "geometry": {"coordinates":[101.1228,4.7105],"type":"Point"}
+}

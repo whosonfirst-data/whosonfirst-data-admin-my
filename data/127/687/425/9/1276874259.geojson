@@ -1,0 +1,70 @@
+{
+  "id": 1276874259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0083,5.1715,102.0083,5.1715",
+    "geom:latitude":5.1715,
+    "geom:longitude":102.0083,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Jerek Luar",
+    "gn:country_code":"MY",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7459985,
+    "gn:latitude":5.1715,
+    "gn:longitude":102.0083,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Jerek Luar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jerek Luar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7459985
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"62a2706ab9b60f1b4e24be4de4f3613c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1276874259,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1276874259,
+    "wof:lastmodified":1537674290,
+    "wof:name":"Kampung Jerek Luar",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0083,
+    5.1715,
+    102.0083,
+    5.1715
+],
+  "geometry": {"coordinates":[102.00830000000001,5.1715],"type":"Point"}
+}

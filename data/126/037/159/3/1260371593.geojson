@@ -1,0 +1,67 @@
+{
+  "id": 1260371593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.23333,1.98333,113.23333,1.98333",
+    "geom:latitude":1.98333,
+    "geom:longitude":113.23333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Dilang",
+    "gn:country_code":"MY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748031,
+    "gn:latitude":1.98333,
+    "gn:longitude":113.23333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Dilang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748031
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"261b9bebb238aecc1f6526d34691d65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488879,
+            "locality_id":1260371593,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1260371593,
+    "wof:lastmodified":1537087671,
+    "wof:name":"Rumah Dilang",
+    "wof:parent_id":890488879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.23333,
+    1.98333,
+    113.23333,
+    1.98333
+],
+  "geometry": {"coordinates":[113.23333,1.98333],"type":"Point"}
+}

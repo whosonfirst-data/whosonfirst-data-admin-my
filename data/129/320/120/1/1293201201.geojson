@@ -1,0 +1,70 @@
+{
+  "id": 1293201201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.246,2.3491,102.246,2.3491",
+    "geom:latitude":2.3491,
+    "geom:longitude":102.246,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Panchor",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797813,
+    "gn:latitude":2.3491,
+    "gn:longitude":102.246,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Panchor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Panchor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797813
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fc8c31da4b58a90c5511868920d8a4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1293201201,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1293201201,
+    "wof:lastmodified":1537674424,
+    "wof:name":"Kampung Panchor",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.246,
+    2.3491,
+    102.246,
+    2.3491
+],
+  "geometry": {"coordinates":[102.246,2.3491],"type":"Point"}
+}

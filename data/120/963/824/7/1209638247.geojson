@@ -1,0 +1,68 @@
+{
+  "id": 1209638247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0858,2.6244,102.0858,2.6244",
+    "geom:latitude":2.6244,
+    "geom:longitude":102.0858,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Tengah Sepri",
+    "gn:country_code":"MY",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762812,
+    "gn:latitude":2.6244,
+    "gn:longitude":102.0858,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tengah Sepri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tengah Sepri"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tengah",
+        "Kampong Tengah Seperi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762812
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"767b0ff0172fba3dee8dcc0945778626",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209638247
+        }
+    ],
+    "wof:id":1209638247,
+    "wof:lastmodified":1537673831,
+    "wof:name":"Kampung Tengah Sepri",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0858,
+    2.6244,
+    102.0858,
+    2.6244
+],
+  "geometry": {"coordinates":[102.08580000000001,2.6244],"type":"Point"}
+}

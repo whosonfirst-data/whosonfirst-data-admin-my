@@ -1,0 +1,74 @@
+{
+  "id": 1309896623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.2254,6.36862,100.2254,6.36862",
+    "geom:latitude":6.36862,
+    "geom:longitude":100.2254,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Tambun Tulang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736155,
+    "gn:latitude":6.36862,
+    "gn:longitude":100.2254,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tambun Tulang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tambun Tulang"
+    ],
+    "name:und_x_variant":[
+        "Tambun Tulang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736155
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"726c61ff7a8abe0c9ce49869fbc1acc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1309896623,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1309896623,
+    "wof:lastmodified":1537673733,
+    "wof:name":"Kampung Tambun Tulang",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.2254,
+    6.36862,
+    100.2254,
+    6.36862
+],
+  "geometry": {"coordinates":[100.22539999999999,6.36862],"type":"Point"}
+}

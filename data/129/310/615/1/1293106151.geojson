@@ -1,0 +1,67 @@
+{
+  "id": 1293106151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3,5.85,102.3,5.85",
+    "geom:latitude":5.85,
+    "geom:longitude":102.3,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Sungai Durian",
+    "gn:country_code":"MY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764041,
+    "gn:latitude":5.85,
+    "gn:longitude":102.3,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Sungai Durian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764041
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7af2d1749407379377458a3b48386c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488991,
+            "locality_id":1293106151,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1293106151,
+    "wof:lastmodified":1536838759,
+    "wof:name":"Kampong Sungai Durian",
+    "wof:parent_id":890488991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3,
+    5.85,
+    102.3,
+    5.85
+],
+  "geometry": {"coordinates":[102.3,5.85],"type":"Point"}
+}

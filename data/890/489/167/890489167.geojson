@@ -1,0 +1,65 @@
+{
+  "id": 890489167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.14215,2.800398,104.14215,2.800398",
+    "geom:latitude":2.800398,
+    "geom:longitude":104.14215,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Rompin",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos":202,
+    "qs:photos_1k":41,
+    "qs:photos_9k":20,
+    "qs:photos_9r":13,
+    "qs:photos_all":4561,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":321,
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013560,
+        "qs:id":4735,
+        "wd:id":"Q1884739",
+        "wk:page":"Rompin District"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054747,
+    "wof:geomhash":"2a513701c3b7ea847907112296f11524",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "county_id":890489167
+        }
+    ],
+    "wof:id":890489167,
+    "wof:lastmodified":1527792861,
+    "wof:name":"Rompin",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.14215,
+    2.800398,
+    104.14215,
+    2.800398
+],
+  "geometry": {"coordinates":[104.14215,2.800398],"type":"Point"}
+}

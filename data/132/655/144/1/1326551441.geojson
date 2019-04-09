@@ -1,0 +1,73 @@
+{
+  "id": 1326551441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1086,4.5742,101.1086,4.5742",
+    "geom:latitude":4.5742,
+    "geom:longitude":101.1086,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Sungai Rapat",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763835,
+    "gn:latitude":4.5742,
+    "gn:longitude":101.1086,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Rapat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Rapat"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Rapat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763835
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c8a864c7a72e826890cc26324d701224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1326551441,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1326551441,
+    "wof:lastmodified":1537673880,
+    "wof:name":"Kampung Sungai Rapat",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1086,
+    4.5742,
+    101.1086,
+    4.5742
+],
+  "geometry": {"coordinates":[101.1086,4.5742],"type":"Point"}
+}

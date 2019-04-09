@@ -1,0 +1,73 @@
+{
+  "id": 1343438137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.579,3.6254,101.579,3.6254",
+    "geom:latitude":3.6254,
+    "geom:longitude":101.579,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Gumut",
+    "gn:country_code":"MY",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769126,
+    "gn:latitude":3.6254,
+    "gn:longitude":101.579,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Gumut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gumut"
+    ],
+    "name:und_x_variant":[
+        "Kampong Gumut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769126
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f0d34b18b6faf0a2a115647280fc3369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1343438137,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1343438137,
+    "wof:lastmodified":1537674108,
+    "wof:name":"Kampung Gumut",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.579,
+    3.6254,
+    101.579,
+    3.6254
+],
+  "geometry": {"coordinates":[101.57899999999999,3.6254],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276848905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.41667,4.85,115.41667,4.85",
+    "geom:latitude":4.85,
+    "geom:longitude":115.41667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Lawas",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767546,
+    "gn:latitude":4.85,
+    "gn:longitude":115.41667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Lawas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767546
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"013c7df7ff3b6fbf1dcbc775e103a077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696445,
+            "locality_id":1276848905,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1276848905,
+    "wof:lastmodified":1537079474,
+    "wof:name":"Kampong Lawas",
+    "wof:parent_id":1108696445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.41667,
+    4.85,
+    115.41667,
+    4.85
+],
+  "geometry": {"coordinates":[115.41667,4.85],"type":"Point"}
+}

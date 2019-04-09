@@ -1,0 +1,70 @@
+{
+  "id": 1226246663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.014,2.255,103.014,2.255",
+    "geom:latitude":2.255,
+    "geom:longitude":103.014,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ladang Claire Bahagian Dua",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7854743,
+    "gn:latitude":2.255,
+    "gn:longitude":103.014,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ladang Claire Bahagian Dua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ladang Claire Bahagian Dua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7854743
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a64a1ac4db77585b3c96491484421f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1226246663,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1226246663,
+    "wof:lastmodified":1537674433,
+    "wof:name":"Ladang Claire Bahagian Dua",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.014,
+    2.255,
+    103.014,
+    2.255
+],
+  "geometry": {"coordinates":[103.014,2.255],"type":"Point"}
+}

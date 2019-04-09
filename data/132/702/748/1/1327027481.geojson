@@ -1,0 +1,70 @@
+{
+  "id": 1327027481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.78433,3.52703,102.78433,3.52703",
+    "geom:latitude":3.52703,
+    "geom:longitude":102.78433,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Legor",
+    "gn:country_code":"MY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767520,
+    "gn:latitude":3.52703,
+    "gn:longitude":102.78433,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Legor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Legor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767520
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"32132c45f66ab0f513d552f720231bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1327027481,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1327027481,
+    "wof:lastmodified":1537674041,
+    "wof:name":"Kampung Legor",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.78433,
+    3.52703,
+    102.78433,
+    3.52703
+],
+  "geometry": {"coordinates":[102.78433,3.52703],"type":"Point"}
+}

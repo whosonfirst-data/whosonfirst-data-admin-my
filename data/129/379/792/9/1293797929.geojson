@@ -1,0 +1,70 @@
+{
+  "id": 1293797929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8541,1.4991,103.8541,1.4991",
+    "geom:latitude":1.4991,
+    "geom:longitude":103.8541,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Megahria",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7619733,
+    "gn:latitude":1.4991,
+    "gn:longitude":103.8541,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Megahria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Megahria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619733
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1b91b151d7bf5f1e38f0729bf73373d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1293797929,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293797929,
+    "wof:lastmodified":1537674334,
+    "wof:name":"Taman Megahria",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8541,
+    1.4991,
+    103.8541,
+    1.4991
+],
+  "geometry": {"coordinates":[103.8541,1.4991],"type":"Point"}
+}

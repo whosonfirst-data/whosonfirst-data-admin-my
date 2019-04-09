@@ -1,0 +1,70 @@
+{
+  "id": 1276344015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.37332,6.06781,100.37332,6.06781",
+    "geom:latitude":6.06781,
+    "geom:longitude":100.37332,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Selarong Lalang Kiri",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807175,
+    "gn:latitude":6.06781,
+    "gn:longitude":100.37332,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Selarong Lalang Kiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Selarong Lalang Kiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807175
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e4728b3b0911aa3668a53191dd4f186b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1276344015,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1276344015,
+    "wof:lastmodified":1537674238,
+    "wof:name":"Kampung Selarong Lalang Kiri",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.37332,
+    6.06781,
+    100.37332,
+    6.06781
+],
+  "geometry": {"coordinates":[100.37332000000001,6.06781],"type":"Point"}
+}

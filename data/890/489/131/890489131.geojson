@@ -1,0 +1,80 @@
+{
+  "id": 890489131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3806,2.3891,102.3806,2.3891",
+    "geom:latitude":2.3891,
+    "geom:longitude":102.3806,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Selandar"
+    ],
+    "name:unk_x_variant":[
+        "Salandau"
+    ],
+    "qs:name":"Selandar",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":2147,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734742,
+        "gp:id":1153925,
+        "qs:id":887338,
+        "wd:id":"Q12708711",
+        "wk:page":"Selandar"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054745,
+    "wof:geomhash":"66a06af306ec673ead8bb2c57a493862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489809,
+            "locality_id":890489131,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":890489131,
+    "wof:lastmodified":1527792864,
+    "wof:name":"Selandar",
+    "wof:parent_id":890489809,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3806,
+    2.3891,
+    102.3806,
+    2.3891
+],
+  "geometry": {"coordinates":[102.3806,2.3891],"type":"Point"}
+}

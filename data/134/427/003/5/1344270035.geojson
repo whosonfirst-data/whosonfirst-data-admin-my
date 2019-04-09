@@ -1,0 +1,71 @@
+{
+  "id": 1344270035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.53056,5.96584,100.53056,5.96584",
+    "geom:latitude":5.96584,
+    "geom:longitude":100.53056,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Chelong",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855474,
+    "gn:latitude":5.96584,
+    "gn:longitude":100.53056,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Chelong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Chelong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855474
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c8b34f6675c88cd8d7b5a5101d172c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489109,
+            "locality_id":1344270035,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1344270035,
+    "wof:lastmodified":1537674263,
+    "wof:name":"Kampung Chelong",
+    "wof:parent_id":890489109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.53056,
+    5.96584,
+    100.53056,
+    5.96584
+],
+  "geometry": {"coordinates":[100.53055999999999,5.96584],"type":"Point"}
+}

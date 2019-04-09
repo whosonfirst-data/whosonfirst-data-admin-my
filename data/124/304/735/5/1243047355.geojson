@@ -1,0 +1,73 @@
+{
+  "id": 1243047355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.35,4.68333,103.35,4.68333",
+    "geom:latitude":4.68333,
+    "geom:longitude":103.35,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampong Durian Mentangau",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769576,
+    "gn:latitude":4.68333,
+    "gn:longitude":103.35,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Durian Mentangau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Durian Mentangoh",
+        "Kampong Durian Mentangor",
+        "Kampong Durian Mentangau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769576
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"16a3a71b49efbb266218a4950bcb34a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":1243047355,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1243047355,
+    "wof:lastmodified":1537674125,
+    "wof:name":"Kampong Durian Mentangau",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.35,
+    4.68333,
+    103.35,
+    4.68333
+],
+  "geometry": {"coordinates":[103.34999999999999,4.68333],"type":"Point"}
+}

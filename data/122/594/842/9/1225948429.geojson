@@ -1,0 +1,73 @@
+{
+  "id": 1225948429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8038,2.5087,102.8038,2.5087",
+    "geom:latitude":2.5087,
+    "geom:longitude":102.8038,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Berata",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770589,
+    "gn:latitude":2.5087,
+    "gn:longitude":102.8038,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Berata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Berata"
+    ],
+    "name:und_x_variant":[
+        "Kampong Berata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770589
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"085d5d6bfa6da6d4fbb9a28f7ac005ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1225948429,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1225948429,
+    "wof:lastmodified":1537674166,
+    "wof:name":"Kampung Berata",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8038,
+    2.5087,
+    102.8038,
+    2.5087
+],
+  "geometry": {"coordinates":[102.8038,2.5087],"type":"Point"}
+}

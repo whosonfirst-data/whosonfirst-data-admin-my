@@ -1,0 +1,73 @@
+{
+  "id": 1293482459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0084,3.0621,103.0084,3.0621",
+    "geom:latitude":3.0621,
+    "geom:longitude":103.0084,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Padang",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766584,
+    "gn:latitude":3.0621,
+    "gn:longitude":103.0084,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Padang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Padang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Padang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766584
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cc1bc832584fd05d29704e3711ac8282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1293482459,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293482459,
+    "wof:lastmodified":1537673999,
+    "wof:name":"Kampung Padang",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0084,
+    3.0621,
+    103.0084,
+    3.0621
+],
+  "geometry": {"coordinates":[103.00839999999999,3.0621],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 890490335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.316902,5.4241355,100.316902,5.4241355",
+    "geom:latitude":5.424136,
+    "geom:longitude":100.316902,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Lalu Lintas",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:photos":222,
+    "qs:photos_1k":45,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":222,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023367,
+        1108696537,
+        85675127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56016430,
+        "qs:id":5718
+    },
+    "wof:country":"MY",
+    "wof:created":1469054800,
+    "wof:geomhash":"fe222977637050d68c690ad5ee982bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696537,
+            "locality_id":102023367,
+            "neighbourhood_id":890490335,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":890490335,
+    "wof:lastmodified":1500013278,
+    "wof:name":"Taman Lalu Lintas",
+    "wof:parent_id":102023367,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.316902,
+    5.4241355,
+    100.316902,
+    5.4241355
+],
+  "geometry": {"coordinates":[100.316902,5.4241355],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259971477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.99796,5.1101,100.99796,5.1101",
+    "geom:latitude":5.1101,
+    "geom:longitude":100.99796,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Temelong",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762923,
+    "gn:latitude":5.1101,
+    "gn:longitude":100.99796,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Temelong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Temelong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Temelong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762923
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1d9e6e4d67cfe5dc5d778b524ee000d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489739,
+            "locality_id":1259971477,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1259971477,
+    "wof:lastmodified":1537673836,
+    "wof:name":"Kampung Temelong",
+    "wof:parent_id":890489739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.99796,
+    5.1101,
+    100.99796,
+    5.1101
+],
+  "geometry": {"coordinates":[100.99796000000001,5.1101],"type":"Point"}
+}

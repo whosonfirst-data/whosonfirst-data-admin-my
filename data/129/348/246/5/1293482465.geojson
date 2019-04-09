@@ -1,0 +1,70 @@
+{
+  "id": 1293482465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4225,3.0054,103.4225,3.0054",
+    "geom:latitude":3.0054,
+    "geom:longitude":103.4225,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Permatang Durian",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697314,
+    "gn:latitude":3.0054,
+    "gn:longitude":103.4225,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Permatang Durian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Permatang Durian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697314
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4fc29722c5511752caabe3a03ad785f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1293482465,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293482465,
+    "wof:lastmodified":1537674367,
+    "wof:name":"Permatang Durian",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4225,
+    3.0054,
+    103.4225,
+    3.0054
+],
+  "geometry": {"coordinates":[103.4225,3.0054],"type":"Point"}
+}

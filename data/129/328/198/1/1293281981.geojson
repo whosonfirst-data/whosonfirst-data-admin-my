@@ -1,0 +1,70 @@
+{
+  "id": 1293281981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.48287,5.33992,100.48287,5.33992",
+    "geom:latitude":5.33992,
+    "geom:longitude":100.48287,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Taman Permata",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819138,
+    "gn:latitude":5.33992,
+    "gn:longitude":100.48287,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taman Permata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Permata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819138
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2fae364f591f97f705eb1f07f1709c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1293281981,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1293281981,
+    "wof:lastmodified":1537674245,
+    "wof:name":"Taman Permata",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.48287,
+    5.33992,
+    100.48287,
+    5.33992
+],
+  "geometry": {"coordinates":[100.48287000000001,5.33992],"type":"Point"}
+}

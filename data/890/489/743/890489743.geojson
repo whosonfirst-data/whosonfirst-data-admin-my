@@ -1,0 +1,75 @@
+{
+  "id": 890489743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.857884,6.318707,99.857884,6.318707",
+    "geom:latitude":6.318707,
+    "geom:longitude":99.857884,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Sri Negeri",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kedah",
+    "qs:photos":39,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":39,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696443,
+        85675137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56035337,
+        "qs:id":1092119
+    },
+    "wof:country":"MY",
+    "wof:created":1469054769,
+    "wof:geomhash":"2e6ed6fdf90cd91b685f6008e93dded0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":890489743,
+            "region_id":85675133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":890489743,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":890489743,
+    "wof:lastmodified":1500013305,
+    "wof:name":"Taman Sri Negeri",
+    "wof:parent_id":1108696443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.857884,
+    6.318707,
+    99.857884,
+    6.318707
+],
+  "geometry": {"coordinates":[99.857884,6.318707],"type":"Point"}
+}

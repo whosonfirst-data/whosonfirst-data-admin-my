@@ -1,0 +1,70 @@
+{
+  "id": 1293221779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9071,3.8907,100.9071,3.8907",
+    "geom:latitude":3.8907,
+    "geom:longitude":100.9071,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Parit Dua Puluh Satu",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7565973,
+    "gn:latitude":3.8907,
+    "gn:longitude":100.9071,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Parit Dua Puluh Satu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Parit Dua Puluh Satu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7565973
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ed7ca0ae10f903bfa9e18362eaedc024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1293221779,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1293221779,
+    "wof:lastmodified":1537674314,
+    "wof:name":"Parit Dua Puluh Satu",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9071,
+    3.8907,
+    100.9071,
+    3.8907
+],
+  "geometry": {"coordinates":[100.9071,3.8907],"type":"Point"}
+}

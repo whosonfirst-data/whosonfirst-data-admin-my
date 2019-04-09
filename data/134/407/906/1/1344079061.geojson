@@ -1,0 +1,73 @@
+{
+  "id": 1344079061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8936,3.863,101.8936,3.863",
+    "geom:latitude":3.863,
+    "geom:longitude":101.8936,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Gali Lurus",
+    "gn:country_code":"MY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769469,
+    "gn:latitude":3.863,
+    "gn:longitude":101.8936,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Gali Lurus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gali Lurus"
+    ],
+    "name:und_x_variant":[
+        "Kampong Gali Lurus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769469
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f375014884aea79d6685ef75aee68f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1344079061,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1344079061,
+    "wof:lastmodified":1537674120,
+    "wof:name":"Kampung Gali Lurus",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8936,
+    3.863,
+    101.8936,
+    3.863
+],
+  "geometry": {"coordinates":[101.89360000000001,3.863],"type":"Point"}
+}

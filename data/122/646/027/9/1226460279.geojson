@@ -1,0 +1,70 @@
+{
+  "id": 1226460279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3725,1.5288,103.3725,1.5288",
+    "geom:latitude":1.5288,
+    "geom:longitude":103.3725,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Api-Api",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732717,
+    "gn:latitude":1.5288,
+    "gn:longitude":103.3725,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Api-Api",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Api-Api"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732717
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ccf3a55c6fc0b27596a64306bf5a2b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "locality_id":1226460279,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1226460279,
+    "wof:lastmodified":1537673668,
+    "wof:name":"Kampung Api-Api",
+    "wof:parent_id":890491001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3725,
+    1.5288,
+    103.3725,
+    1.5288
+],
+  "geometry": {"coordinates":[103.3725,1.5288],"type":"Point"}
+}

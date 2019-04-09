@@ -1,0 +1,105 @@
+{
+  "id": 1126023051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.88333,5.61667,115.88333,5.61667",
+    "geom:latitude":5.61667,
+    "geom:longitude":115.88333,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":5.61667,
+    "lbl:longitude":115.88333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u91d1\u9a6c\u5c3c\u58eb"
+    ],
+    "name:dut_x_preferred":[
+        "Kimanis"
+    ],
+    "name:eng_x_preferred":[
+        "Kimanis"
+    ],
+    "name:fre_x_preferred":[
+        "Kimanis"
+    ],
+    "name:ger_x_preferred":[
+        "Kimanis"
+    ],
+    "name:may_x_preferred":[
+        "Kimanis"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1733363,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kimanis",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Sabah",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":313694,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1151754,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Sabah",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733363,
+        "gp:id":1151754,
+        "qs_pg:id":313694,
+        "wd:id":"Q989233"
+    },
+    "wof:country":"MY",
+    "wof:created":1497300949,
+    "wof:geomhash":"16e456f3cbb4ebe087c19dd4f9c10a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696477,
+            "locality_id":1126023051,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1126023051,
+    "wof:lastmodified":1514490549,
+    "wof:name":"Kimanis",
+    "wof:parent_id":1108696477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.88333,
+    5.61667,
+    115.88333,
+    5.61667
+],
+  "geometry": {"coordinates":[115.88333,5.61667],"type":"Point"}
+}

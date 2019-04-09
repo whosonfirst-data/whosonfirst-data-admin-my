@@ -1,0 +1,67 @@
+{
+  "id": 1310213837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.4,6.45,100.4,6.45",
+    "geom:latitude":6.45,
+    "geom:longitude":100.4,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Kubu",
+    "gn:country_code":"MY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767778,
+    "gn:latitude":6.45,
+    "gn:longitude":100.4,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Kubu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767778
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5bf2b9c2698dd988f2ce180c825d6caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1310213837,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310213837,
+    "wof:lastmodified":1536839109,
+    "wof:name":"Kampong Kubu",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.4,
+    6.45,
+    100.4,
+    6.45
+],
+  "geometry": {"coordinates":[100.40000000000001,6.45],"type":"Point"}
+}

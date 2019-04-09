@@ -1,0 +1,105 @@
+{
+  "id": 1125801451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.00968,5.37676,102.00968,5.37676",
+    "geom:latitude":5.37676,
+    "geom:longitude":102.00968,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":5.37676,
+    "lbl:longitude":102.00968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dabong"
+    ],
+    "name:eng_x_preferred":[
+        "Dabong"
+    ],
+    "name:epo_x_preferred":[
+        "Dabong"
+    ],
+    "name:may_x_preferred":[
+        "Dabong"
+    ],
+    "name:msa_x_preferred":[
+        "Dabong"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Dabong"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1735121,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dabung",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Kelantan",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":136153,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1141041,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Kelantan",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735121,
+        "gp:id":1141041,
+        "qs_pg:id":136153,
+        "wd:id":"Q5207534"
+    },
+    "wof:country":"MY",
+    "wof:created":1497291278,
+    "wof:geomhash":"6c61ffd1b7e7be929d9b226c4a8a3a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489265,
+            "locality_id":1125801451,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1125801451,
+    "wof:lastmodified":1514490482,
+    "wof:name":"Dabung",
+    "wof:parent_id":890489265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.00968,
+    5.37676,
+    102.00968,
+    5.37676
+],
+  "geometry": {"coordinates":[102.00968,5.37676],"type":"Point"}
+}

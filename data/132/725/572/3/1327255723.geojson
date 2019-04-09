@@ -1,0 +1,70 @@
+{
+  "id": 1327255723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9451,4.0374,101.9451,4.0374",
+    "geom:latitude":4.0374,
+    "geom:longitude":101.9451,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Jerkuh Melayu",
+    "gn:country_code":"MY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638934,
+    "gn:latitude":4.0374,
+    "gn:longitude":101.9451,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Jerkuh Melayu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jerkuh Melayu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638934
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7512b6b4f449dc8e5a0796294ae4ef13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1327255723,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1327255723,
+    "wof:lastmodified":1537674346,
+    "wof:name":"Kampung Jerkuh Melayu",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9451,
+    4.0374,
+    101.9451,
+    4.0374
+],
+  "geometry": {"coordinates":[101.9451,4.0374],"type":"Point"}
+}

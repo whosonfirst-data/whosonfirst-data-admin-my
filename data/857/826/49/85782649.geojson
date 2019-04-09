@@ -1,0 +1,104 @@
+{
+  "id": 85782649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":1092782.423357,
+    "geom:bbox":"101.675720215,3.22414677108,101.689101632,3.23855538652",
+    "geom:latitude":3.23176,
+    "geom:longitude":101.681867,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.234476,
+    "lbl:longitude":101.682253,
+    "mps:latitude":3.2306,
+    "mps:longitude":101.682982,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:und_x_preferred":[
+        "Taman Batu Muda"
+    ],
+    "name:unk_x_variant":[
+        "Taman Batu Muda"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1735161,
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Taman Tunku Muda",
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Taman Batu Muda",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Setapak",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":422,
+    "qs:photo_sum":648,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56014237,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675163,
+        102191569,
+        85632739,
+        102023411,
+        1108696399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862692,
+        "qs:id":891887
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9b536683aae4c20144c70b1c937dd600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696399,
+            "locality_id":102023411,
+            "neighbourhood_id":85782649,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":85782649,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1507659359,
+    "wof:name":"Taman Batu Muda",
+    "wof:parent_id":102023411,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.67572021500013,
+    3.22414677108387,
+    101.68910163199575,
+    3.23855538652278
+],
+  "geometry": {"coordinates":[[[101.67846679700006,3.23718429379569],[101.67984008800011,3.23672579852487],[101.68121337900004,3.23718429379595],[101.68189893064778,3.23649764726521],[101.6839599610002,3.23649764718776],[101.6839599610002,3.23375544223407],[101.68670654300018,3.23375544236251],[101.68670654300018,3.2310132299482],[101.68910163199575,3.2286143269167],[101.68807331802088,3.22827101125004],[101.6839599610002,3.2268977148228],[101.68121337900004,3.22414677108387],[101.67984008800011,3.22643922419991],[101.67984008800011,3.22963775173466],[101.678466797,3.2310132299482],[101.678466797,3.23306879609564],[101.67778124458118,3.23375544261937],[101.67572021500013,3.23375544223407],[101.67572021500013,3.23649764835002],[101.67572021500013,3.23841674023943],[101.6764123390343,3.23855538652278],[101.67743846848219,3.2375276177979],[101.67846679700006,3.23718429379569]]],"type":"Polygon"}
+}

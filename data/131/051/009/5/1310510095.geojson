@@ -1,0 +1,70 @@
+{
+  "id": 1310510095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.39591,6.02844,100.39591,6.02844",
+    "geom:latitude":6.02844,
+    "geom:longitude":100.39591,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Kepala Parit Luar",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807192,
+    "gn:latitude":6.02844,
+    "gn:longitude":100.39591,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Kepala Parit Luar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kepala Parit Luar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807192
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c7fe3132565ba64d677f938f0e855e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489109,
+            "locality_id":1310510095,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310510095,
+    "wof:lastmodified":1537674239,
+    "wof:name":"Kampung Kepala Parit Luar",
+    "wof:parent_id":890489109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.39591,
+    6.02844,
+    100.39591,
+    6.02844
+],
+  "geometry": {"coordinates":[100.39591,6.02844],"type":"Point"}
+}

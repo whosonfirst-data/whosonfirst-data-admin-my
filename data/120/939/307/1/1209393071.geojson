@@ -1,0 +1,61 @@
+{
+  "id": 1209393071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.28333,1.36667,111.28333,1.36667",
+    "geom:latitude":1.36667,
+    "geom:longitude":111.28333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Pulau Seduku",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765219,
+    "gn:latitude":1.36667,
+    "gn:longitude":111.28333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Pulau Seduku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765219
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"afaaf3e52a4958d5d5cd0f90e97438f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209393071
+        }
+    ],
+    "wof:id":1209393071,
+    "wof:lastmodified":1536288394,
+    "wof:name":"Kampong Pulau Seduku",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.28333,
+    1.36667,
+    111.28333,
+    1.36667
+],
+  "geometry": {"coordinates":[111.28333000000001,1.36667],"type":"Point"}
+}

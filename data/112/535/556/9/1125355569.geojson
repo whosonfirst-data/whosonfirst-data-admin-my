@@ -1,0 +1,77 @@
+{
+  "id": 1125355569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.65761,5.38949,100.65761,5.38949",
+    "geom:latitude":5.38949,
+    "geom:longitude":100.65761,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":5.38949,
+    "lbl:longitude":100.65761,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:msa_x_preferred":[
+        "Karangan"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6818740,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Karangan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1063566,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818740,
+        "qs_pg:id":1063566
+    },
+    "wof:country":"MY",
+    "wof:created":1497046451,
+    "wof:geomhash":"fda1091d857068461b28ed81993250b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490359,
+            "localadmin_id":1125355569,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1125355569,
+    "wof:lastmodified":1509388934,
+    "wof:name":"Karangan",
+    "wof:parent_id":890490359,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.65761,
+    5.38949,
+    100.65761,
+    5.38949
+],
+  "geometry": {"coordinates":[100.65761000000001,5.38949],"type":"Point"}
+}

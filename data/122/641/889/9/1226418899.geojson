@@ -1,0 +1,73 @@
+{
+  "id": 1226418899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0811,4.7082,103.0811,4.7082",
+    "geom:latitude":4.7082,
+    "geom:longitude":103.0811,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Pelambuh",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765812,
+    "gn:latitude":4.7082,
+    "gn:longitude":103.0811,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pelambuh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pelambuh"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pelamboh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765812
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f76e4ae218e32e871771287c40ad757c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":1226418899,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1226418899,
+    "wof:lastmodified":1537673970,
+    "wof:name":"Kampung Pelambuh",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0811,
+    4.7082,
+    103.0811,
+    4.7082
+],
+  "geometry": {"coordinates":[103.08110000000001,4.7082],"type":"Point"}
+}

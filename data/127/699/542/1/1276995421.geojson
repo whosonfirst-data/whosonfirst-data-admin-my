@@ -1,0 +1,74 @@
+{
+  "id": 1276995421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.64036,2.65827,103.64036,2.65827",
+    "geom:latitude":2.65827,
+    "geom:longitude":103.64036,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Semanyir Laut",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764639,
+    "gn:latitude":2.65827,
+    "gn:longitude":103.64036,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Semanyir Laut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Semanyir Laut"
+    ],
+    "name:und_x_variant":[
+        "Kampong Semanyit",
+        "Kampong Semanyir Laut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764639
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c887812218d0a0751be40ca36832020b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488715,
+            "locality_id":1276995421,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276995421,
+    "wof:lastmodified":1537673918,
+    "wof:name":"Kampung Semanyir Laut",
+    "wof:parent_id":890488715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.64036,
+    2.65827,
+    103.64036,
+    2.65827
+],
+  "geometry": {"coordinates":[103.64036,2.65827],"type":"Point"}
+}

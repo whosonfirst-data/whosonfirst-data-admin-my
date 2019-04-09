@@ -1,0 +1,73 @@
+{
+  "id": 1326530219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2873,2.3143,102.2873,2.3143",
+    "geom:latitude":2.3143,
+    "geom:longitude":102.2873,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Padang Keladi",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766513,
+    "gn:latitude":2.3143,
+    "gn:longitude":102.2873,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Padang Keladi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Padang Keladi"
+    ],
+    "name:und_x_variant":[
+        "Kampong Padang Keladi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766513
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a87dd0206c190213601b2ba640671a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1326530219,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1326530219,
+    "wof:lastmodified":1537673997,
+    "wof:name":"Kampung Padang Keladi",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2873,
+    2.3143,
+    102.2873,
+    2.3143
+],
+  "geometry": {"coordinates":[102.2873,2.3143],"type":"Point"}
+}

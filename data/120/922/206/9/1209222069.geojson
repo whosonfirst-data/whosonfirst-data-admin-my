@@ -1,0 +1,61 @@
+{
+  "id": 1209222069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4,5.8,102.4,5.8",
+    "geom:latitude":5.8,
+    "geom:longitude":102.4,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Batas Besar",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770996,
+    "gn:latitude":5.8,
+    "gn:longitude":102.4,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Batas Besar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770996
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f46873a15760fcc94d843b3e8fc69044",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209222069
+        }
+    ],
+    "wof:id":1209222069,
+    "wof:lastmodified":1536293928,
+    "wof:name":"Kampong Batas Besar",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4,
+    5.8,
+    102.4,
+    5.8
+],
+  "geometry": {"coordinates":[102.40000000000001,5.8],"type":"Point"}
+}

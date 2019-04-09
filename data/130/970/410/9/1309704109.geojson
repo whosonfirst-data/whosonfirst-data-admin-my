@@ -1,0 +1,70 @@
+{
+  "id": 1309704109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9694,3.9614,100.9694,3.9614",
+    "geom:latitude":3.9614,
+    "geom:longitude":100.9694,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taman Muhibbah",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793774,
+    "gn:latitude":3.9614,
+    "gn:longitude":100.9694,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Muhibbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Muhibbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793774
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9c6582cc0e2cdadc84df8828b17e0822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1309704109,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1309704109,
+    "wof:lastmodified":1537674387,
+    "wof:name":"Taman Muhibbah",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9694,
+    3.9614,
+    100.9694,
+    3.9614
+],
+  "geometry": {"coordinates":[100.96939999999999,3.9614],"type":"Point"}
+}

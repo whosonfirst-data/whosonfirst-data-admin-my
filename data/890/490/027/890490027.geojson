@@ -1,0 +1,81 @@
+{
+  "id": 890490027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.9004,1.7244,103.9004,1.7244",
+    "geom:latitude":1.7244,
+    "geom:longitude":103.9004,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Seri Lalang"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Sri Lalang"
+    ],
+    "qs:name":"Kampong Seri Lalang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":7,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675141,
+        102191569,
+        85632739,
+        102022769,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764479,
+        "gp:id":1148557,
+        "qs:id":58707
+    },
+    "wof:country":"MY",
+    "wof:created":1469054785,
+    "wof:geomhash":"de40fd25b560129f30fbd26e63bb1244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":102022769,
+            "neighbourhood_id":890490027,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890490027,
+    "wof:lastmodified":1505343787,
+    "wof:name":"Kampong Seri Lalang",
+    "wof:parent_id":102022769,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9004,
+    1.7244,
+    103.9004,
+    1.7244
+],
+  "geometry": {"coordinates":[103.9004,1.7244],"type":"Point"}
+}

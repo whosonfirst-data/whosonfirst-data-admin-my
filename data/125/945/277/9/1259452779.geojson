@@ -1,0 +1,72 @@
+{
+  "id": 1259452779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.66667,6.1,116.66667,6.1",
+    "geom:latitude":6.1,
+    "geom:longitude":116.66667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Nalumad",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766731,
+    "gn:latitude":6.1,
+    "gn:longitude":116.66667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Nalumad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nelumad",
+        "Kampong Nalumad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766731
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0558c4fd87ee47acfeb3f925ca4f550d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":1259452779,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259452779,
+    "wof:lastmodified":1537674006,
+    "wof:name":"Kampong Nalumad",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.66667,
+    6.1,
+    116.66667,
+    6.1
+],
+  "geometry": {"coordinates":[116.66667,6.1],"type":"Point"}
+}

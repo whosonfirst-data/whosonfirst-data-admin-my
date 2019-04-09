@@ -1,0 +1,70 @@
+{
+  "id": 1260362083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.13769,6.96127,117.13769,6.96127",
+    "geom:latitude":6.96127,
+    "geom:longitude":117.13769,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Mangkubau Darat",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7786843,
+    "gn:latitude":6.96127,
+    "gn:longitude":117.13769,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Kampung Mangkubau Darat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Suanbat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7786843
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a607f86d9c95910ebd17e58f140dfcad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1260362083,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1260362083,
+    "wof:lastmodified":1537674381,
+    "wof:name":"Kampung Mangkubau Darat",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.13769,
+    6.96127,
+    117.13769,
+    6.96127
+],
+  "geometry": {"coordinates":[117.13769000000001,6.96127],"type":"Point"}
+}

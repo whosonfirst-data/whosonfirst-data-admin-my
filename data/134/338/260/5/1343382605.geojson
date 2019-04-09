@@ -1,0 +1,70 @@
+{
+  "id": 1343382605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.2107,4.8433,101.2107,4.8433",
+    "geom:latitude":4.8433,
+    "geom:longitude":101.2107,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Lengkar",
+    "gn:country_code":"MY",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473225,
+    "gn:latitude":4.8433,
+    "gn:longitude":101.2107,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Lengkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lengkar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473225
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fe7f07eaf5ad7c26c5b655cfde35772d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":1343382605,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1343382605,
+    "wof:lastmodified":1537674302,
+    "wof:name":"Kampung Lengkar",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.2107,
+    4.8433,
+    101.2107,
+    4.8433
+],
+  "geometry": {"coordinates":[101.2107,4.8433],"type":"Point"}
+}

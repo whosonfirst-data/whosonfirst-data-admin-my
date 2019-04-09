@@ -1,0 +1,92 @@
+{
+  "id": 890490815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.36667,1.01667,110.36667,1.01667",
+    "geom:latitude":1.01667,
+    "geom:longitude":110.36667,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6253\u5fc5\u5f8b\u526f\u53bf"
+    ],
+    "name:dut_x_preferred":[
+        "Tebedu"
+    ],
+    "name:eng_x_preferred":[
+        "Tebedu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30d9\u30c9\u30a5"
+    ],
+    "name:may_x_preferred":[
+        "Tebedu"
+    ],
+    "name:unk_x_variant":[
+        "Tepedu"
+    ],
+    "qs:name":"Tebedu",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sarawak",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":248,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734537,
+        "gp:id":1155196,
+        "qs:id":29015,
+        "wd:id":"Q7447739",
+        "wk:page":"Tebedu"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054825,
+    "wof:geomhash":"f3ff30b40fc709e52a91fd5e015d9638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696511,
+            "locality_id":890490815,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":890490815,
+    "wof:lastmodified":1527734158,
+    "wof:name":"Tebedu",
+    "wof:parent_id":1108696511,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.36667,
+    1.01667,
+    110.36667,
+    1.01667
+],
+  "geometry": {"coordinates":[110.36667,1.01667],"type":"Point"}
+}

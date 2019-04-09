@@ -1,0 +1,67 @@
+{
+  "id": 1344160913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.1203,2.2842,104.1203,2.2842",
+    "geom:latitude":2.2842,
+    "geom:longitude":104.1203,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Tanjung Balang",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763464,
+    "gn:latitude":2.2842,
+    "gn:longitude":104.1203,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tanjung Balang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Balang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tanjong Balang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763464
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3490d18df0e38fca453bf792d8277c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344160913,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344160913,
+    "wof:lastmodified":1537673862,
+    "wof:name":"Kampung Tanjung Balang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.1203,
+    2.2842,
+    104.1203,
+    2.2842
+],
+  "geometry": {"coordinates":[104.1203,2.2842],"type":"Point"}
+}

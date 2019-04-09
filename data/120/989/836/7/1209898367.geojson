@@ -1,0 +1,67 @@
+{
+  "id": 1209898367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.23333,6.9,117.23333,6.9",
+    "geom:latitude":6.9,
+    "geom:longitude":117.23333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Pagasan",
+    "gn:country_code":"MY",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736524,
+    "gn:latitude":6.9,
+    "gn:longitude":117.23333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Pagasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736524
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d3a4face83d7413d160a7a5b5cc25125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696485,
+            "locality_id":1209898367,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1209898367,
+    "wof:lastmodified":1536387571,
+    "wof:name":"Pagasan",
+    "wof:parent_id":1108696485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.23333,
+    6.9,
+    117.23333,
+    6.9
+],
+  "geometry": {"coordinates":[117.23333,6.9],"type":"Point"}
+}

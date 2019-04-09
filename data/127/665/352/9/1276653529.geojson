@@ -1,0 +1,70 @@
+{
+  "id": 1276653529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1288,4.5712,101.1288,4.5712",
+    "geom:latitude":4.5712,
+    "geom:longitude":101.1288,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Rapat Setia",
+    "gn:country_code":"MY",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7612480,
+    "gn:latitude":4.5712,
+    "gn:longitude":101.1288,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Rapat Setia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rapat Setia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7612480
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e40ef896e993a1044f04e9c1956adc9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1276653529,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1276653529,
+    "wof:lastmodified":1537674327,
+    "wof:name":"Kampung Rapat Setia",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1288,
+    4.5712,
+    101.1288,
+    4.5712
+],
+  "geometry": {"coordinates":[101.1288,4.5712],"type":"Point"}
+}

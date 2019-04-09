@@ -1,0 +1,67 @@
+{
+  "id": 1343639609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.36667,1.55917,110.36667,1.55917",
+    "geom:latitude":1.55917,
+    "geom:longitude":110.36667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kampung Pulau Ulu",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1903351,
+    "gn:latitude":1.55917,
+    "gn:longitude":110.36667,
+    "gn:modification_date":"1997-12-22",
+    "gn:name":"Kampung Pulau Ulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1903351
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a6dbd3eca6768cbd39a94b0d4b5fe452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1343639609,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1343639609,
+    "wof:lastmodified":1536984363,
+    "wof:name":"Kampung Pulau Ulu",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.36667,
+    1.55917,
+    110.36667,
+    1.55917
+],
+  "geometry": {"coordinates":[110.36667,1.55917],"type":"Point"}
+}

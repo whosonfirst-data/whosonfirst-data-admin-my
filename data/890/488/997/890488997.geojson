@@ -1,0 +1,73 @@
+{
+  "id": 890488997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.38333,3.7,102.38333,3.7",
+    "geom:latitude":3.7,
+    "geom:longitude":102.38333,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kampong Chebong",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769826,
+        "gp:id":1143160,
+        "qs:id":40347
+    },
+    "wof:country":"MY",
+    "wof:created":1469054740,
+    "wof:geomhash":"37ceb9f1f508f2182665837acb3edea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":890488997,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":890488997,
+    "wof:lastmodified":1505343784,
+    "wof:name":"Kampong Chebong",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.38333,
+    3.7,
+    102.38333,
+    3.7
+],
+  "geometry": {"coordinates":[102.38333,3.7],"type":"Point"}
+}

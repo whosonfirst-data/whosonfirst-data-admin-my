@@ -1,0 +1,70 @@
+{
+  "id": 1276662307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7599,2.6597,101.7599,2.6597",
+    "geom:latitude":2.6597,
+    "geom:longitude":101.7599,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Sungai Atas",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698004,
+    "gn:latitude":2.6597,
+    "gn:longitude":101.7599,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sungai Atas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Atas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698004
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ca9a4b7a14cb6102ba36de20b3302de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490331,
+            "locality_id":1276662307,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1276662307,
+    "wof:lastmodified":1537674369,
+    "wof:name":"Kampung Sungai Atas",
+    "wof:parent_id":890490331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7599,
+    2.6597,
+    101.7599,
+    2.6597
+],
+  "geometry": {"coordinates":[101.7599,2.6597],"type":"Point"}
+}

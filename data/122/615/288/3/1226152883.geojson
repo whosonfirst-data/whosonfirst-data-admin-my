@@ -1,0 +1,70 @@
+{
+  "id": 1226152883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.23953,5.38195,101.23953,5.38195",
+    "geom:latitude":5.38195,
+    "geom:longitude":101.23953,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Jeram Tangkal Padi",
+    "gn:country_code":"MY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734362,
+    "gn:latitude":5.38195,
+    "gn:longitude":101.23953,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Jeram Tangkal Padi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jeram Tangkai Padi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734362
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2b1963bdc03e4d59767eac35030e80dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489739,
+            "locality_id":1226152883,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1226152883,
+    "wof:lastmodified":1537673703,
+    "wof:name":"Jeram Tangkal Padi",
+    "wof:parent_id":890489739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.23953,
+    5.38195,
+    101.23953,
+    5.38195
+],
+  "geometry": {"coordinates":[101.23953,5.38195],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343460497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5323,4.997,101.5323,4.997",
+    "geom:latitude":4.997,
+    "geom:longitude":101.5323,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Kuala Chachu",
+    "gn:country_code":"MY",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7462025,
+    "gn:latitude":4.997,
+    "gn:longitude":101.5323,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kuala Chachu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Chachu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7462025
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fd3c139a84d6afd9c109a650a2aa6609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1343460497,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1343460497,
+    "wof:lastmodified":1537674296,
+    "wof:name":"Kampung Kuala Chachu",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5323,
+    4.997,
+    101.5323,
+    4.997
+],
+  "geometry": {"coordinates":[101.53230000000001,4.997],"type":"Point"}
+}

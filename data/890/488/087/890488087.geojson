@@ -1,0 +1,90 @@
+{
+  "id": 890488087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.10146,5.90702,116.10146,5.90702",
+    "geom:latitude":5.90702,
+    "geom:longitude":116.10146,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":71585,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043d\u0433\u043e\u043d\u0433\u043e\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Donggongon"
+    ],
+    "name:eng_x_preferred":[
+        "Donggongon"
+    ],
+    "name:ger_x_preferred":[
+        "Donggongon"
+    ],
+    "name:ind_x_preferred":[
+        "Donggongon"
+    ],
+    "name:may_x_preferred":[
+        "Donggongon"
+    ],
+    "name:pol_x_preferred":[
+        "Donggongon"
+    ],
+    "qs:name":"Donggongon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":194,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733438,
+        "gp:id":56015149,
+        "qs:id":136137,
+        "wd:id":"Q989415",
+        "wk:page":"Donggongon"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054706,
+    "wof:geomhash":"d4a161d2ad30f164fa3c57ba87e7f469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":890488087,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":890488087,
+    "wof:lastmodified":1527787079,
+    "wof:name":"Donggongon",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:population":71585,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.10146,
+    5.90702,
+    116.10146,
+    5.90702
+],
+  "geometry": {"coordinates":[116.10146,5.90702],"type":"Point"}
+}

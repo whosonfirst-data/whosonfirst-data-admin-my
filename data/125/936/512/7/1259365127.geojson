@@ -1,0 +1,63 @@
+{
+  "id": 1259365127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.58259,4.42549,118.58259,4.42549",
+    "geom:latitude":4.42549,
+    "geom:longitude":118.58259,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Sen Buligisan",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764578,
+    "gn:latitude":4.42549,
+    "gn:longitude":118.58259,
+    "gn:modification_date":"2009-06-25",
+    "gn:name":"Kampong Sen Buligisan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764578
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"13c1b561d6e789c35af672febda760be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1259365127,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259365127,
+    "wof:lastmodified":1537027533,
+    "wof:name":"Kampong Sen Buligisan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.58259,
+    4.42549,
+    118.58259,
+    4.42549
+],
+  "geometry": {"coordinates":[118.58259,4.42549],"type":"Point"}
+}

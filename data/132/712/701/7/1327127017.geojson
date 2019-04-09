@@ -1,0 +1,70 @@
+{
+  "id": 1327127017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4186,3.4701,102.4186,3.4701",
+    "geom:latitude":3.4701,
+    "geom:longitude":102.4186,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Kenalau",
+    "gn:country_code":"MY",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795925,
+    "gn:latitude":3.4701,
+    "gn:longitude":102.4186,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kenalau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kenalau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795925
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4ec4b37f07e031105d1393baae039451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1327127017,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1327127017,
+    "wof:lastmodified":1537674397,
+    "wof:name":"Kampung Kenalau",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4186,
+    3.4701,
+    102.4186,
+    3.4701
+],
+  "geometry": {"coordinates":[102.4186,3.4701],"type":"Point"}
+}

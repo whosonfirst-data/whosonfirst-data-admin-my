@@ -1,0 +1,70 @@
+{
+  "id": 1343261089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.258,3.1031,102.258,3.1031",
+    "geom:latitude":3.1031,
+    "geom:longitude":102.258,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Kerdau",
+    "gn:country_code":"MY",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7691749,
+    "gn:latitude":3.1031,
+    "gn:longitude":102.258,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kerdau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kerdau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7691749
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a1f0efb48f65f052d9604d0715b6a18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1343261089,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1343261089,
+    "wof:lastmodified":1537674362,
+    "wof:name":"Kampung Kerdau",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.258,
+    3.1031,
+    102.258,
+    3.1031
+],
+  "geometry": {"coordinates":[102.258,3.1031],"type":"Point"}
+}

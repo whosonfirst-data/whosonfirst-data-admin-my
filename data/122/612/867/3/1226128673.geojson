@@ -1,0 +1,70 @@
+{
+  "id": 1226128673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3219,4.5777,103.3219,4.5777",
+    "geom:latitude":4.5777,
+    "geom:longitude":103.3219,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Perkampungan Kertih Lima",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7622194,
+    "gn:latitude":4.5777,
+    "gn:longitude":103.3219,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Perkampungan Kertih Lima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perkampungan Kertih Lima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622194
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"190d9bae18f5f94af24d7e4d217c005c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":1226128673,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1226128673,
+    "wof:lastmodified":1537674338,
+    "wof:name":"Perkampungan Kertih Lima",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3219,
+    4.5777,
+    103.3219,
+    4.5777
+],
+  "geometry": {"coordinates":[103.3219,4.5777],"type":"Point"}
+}

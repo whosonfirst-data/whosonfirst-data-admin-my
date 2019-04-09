@@ -1,0 +1,70 @@
+{
+  "id": 1243560563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4629,2.2118,102.4629,2.2118",
+    "geom:latitude":2.2118,
+    "geom:longitude":102.4629,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Kepok",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798106,
+    "gn:latitude":2.2118,
+    "gn:longitude":102.4629,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kepok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kepok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798106
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"07b1c1f568e8ac0d899f386a7dbc6357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489809,
+            "locality_id":1243560563,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1243560563,
+    "wof:lastmodified":1537674428,
+    "wof:name":"Kampung Kepok",
+    "wof:parent_id":890489809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4629,
+    2.2118,
+    102.4629,
+    2.2118
+],
+  "geometry": {"coordinates":[102.4629,2.2118],"type":"Point"}
+}

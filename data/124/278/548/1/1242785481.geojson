@@ -1,0 +1,75 @@
+{
+  "id": 1242785481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9918,5.3067,101.9918,5.3067",
+    "geom:latitude":5.3067,
+    "geom:longitude":101.9918,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Setong",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767962,
+    "gn:latitude":5.3067,
+    "gn:longitude":101.9918,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kampung Setong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Setong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kuala Stong",
+        "Kampong Kuala Setong",
+        "Kampung Kuala Satong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767962
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9a358f5af2885f5552ad457a20e739b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489265,
+            "locality_id":1242785481,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1242785481,
+    "wof:lastmodified":1537674057,
+    "wof:name":"Kampung Setong",
+    "wof:parent_id":890489265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9918,
+    5.3067,
+    101.9918,
+    5.3067
+],
+  "geometry": {"coordinates":[101.9918,5.3067],"type":"Point"}
+}

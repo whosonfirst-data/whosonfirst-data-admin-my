@@ -1,0 +1,66 @@
+{
+  "id": 1209084359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.53333,0.9,110.53333,0.9",
+    "geom:latitude":0.9,
+    "geom:longitude":110.53333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Bunan Gega",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770044,
+    "gn:latitude":0.9,
+    "gn:longitude":110.53333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Bunan Gega",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gunan Gajak",
+        "Kampong Bunan Gega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770044
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"72f76dde1210314cccc04496190076fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209084359
+        }
+    ],
+    "wof:id":1209084359,
+    "wof:lastmodified":1537674145,
+    "wof:name":"Kampong Bunan Gega",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.53333,
+    0.9,
+    110.53333,
+    0.9
+],
+  "geometry": {"coordinates":[110.53333000000001,0.9],"type":"Point"}
+}

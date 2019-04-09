@@ -1,0 +1,67 @@
+{
+  "id": 1260184309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.24188,5.62313,102.24188,5.62313",
+    "geom:latitude":5.62313,
+    "geom:longitude":102.24188,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Muka Ayer",
+    "gn:country_code":"MY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1754252,
+    "gn:latitude":5.62313,
+    "gn:longitude":102.24188,
+    "gn:modification_date":"2009-08-11",
+    "gn:name":"Muka Ayer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1754252
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"82f1a380797b371cf7fab08d6e70aeb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489265,
+            "locality_id":1260184309,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1260184309,
+    "wof:lastmodified":1536845678,
+    "wof:name":"Muka Ayer",
+    "wof:parent_id":890489265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.24188,
+    5.62313,
+    102.24188,
+    5.62313
+],
+  "geometry": {"coordinates":[102.24187999999999,5.62313],"type":"Point"}
+}

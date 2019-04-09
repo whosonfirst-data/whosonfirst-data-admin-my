@@ -1,0 +1,70 @@
+{
+  "id": 1243385749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9186,3.4843,102.9186,3.4843",
+    "geom:latitude":3.4843,
+    "geom:longitude":102.9186,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kubang Sembilang",
+    "gn:country_code":"MY",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796385,
+    "gn:latitude":3.4843,
+    "gn:longitude":102.9186,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kubang Sembilang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kubang Sembilang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796385
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"77b279a29bb4a938e851a55a4b0fb62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1243385749,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1243385749,
+    "wof:lastmodified":1537674404,
+    "wof:name":"Kubang Sembilang",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9186,
+    3.4843,
+    102.9186,
+    3.4843
+],
+  "geometry": {"coordinates":[102.9186,3.4843],"type":"Point"}
+}

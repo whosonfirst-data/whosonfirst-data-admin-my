@@ -1,0 +1,73 @@
+{
+  "id": 1310524273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8341,2.8059,101.8341,2.8059",
+    "geom:latitude":2.8059,
+    "geom:longitude":101.8341,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Batang Benar",
+    "gn:country_code":"MY",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771013,
+    "gn:latitude":2.8059,
+    "gn:longitude":101.8341,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Batang Benar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batang Benar"
+    ],
+    "name:und_x_variant":[
+        "Kampong Batang Benar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771013
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ca4d83bbf30442bc6258d7bc5b002bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1310524273,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1310524273,
+    "wof:lastmodified":1537674184,
+    "wof:name":"Kampung Batang Benar",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8341,
+    2.8059,
+    101.8341,
+    2.8059
+],
+  "geometry": {"coordinates":[101.83410000000001,2.8059],"type":"Point"}
+}

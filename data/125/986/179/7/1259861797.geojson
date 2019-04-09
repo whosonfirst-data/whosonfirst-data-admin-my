@@ -1,0 +1,73 @@
+{
+  "id": 1259861797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4774,5.9722,116.4774,5.9722",
+    "geom:latitude":5.9722,
+    "geom:longitude":116.4774,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tiong Tambinong",
+    "gn:country_code":"MY",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762649,
+    "gn:latitude":5.9722,
+    "gn:longitude":116.4774,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tiong Tambinong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tiong Tambinong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tiong Tambinong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762649
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b7b71e4585b31c9ae8cb1bb82dd21e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1259861797,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259861797,
+    "wof:lastmodified":1537673823,
+    "wof:name":"Kampung Tiong Tambinong",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4774,
+    5.9722,
+    116.4774,
+    5.9722
+],
+  "geometry": {"coordinates":[116.4774,5.9722],"type":"Point"}
+}

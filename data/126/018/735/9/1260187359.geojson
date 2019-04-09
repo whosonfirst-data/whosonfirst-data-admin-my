@@ -1,0 +1,70 @@
+{
+  "id": 1260187359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.309,2.8385,102.309,2.8385",
+    "geom:latitude":2.8385,
+    "geom:longitude":102.309,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Anak Ayer Dedali",
+    "gn:country_code":"MY",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796779,
+    "gn:latitude":2.8385,
+    "gn:longitude":102.309,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Anak Ayer Dedali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Anak Ayer Dedali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796779
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8705fe7f8974eb2c2bf7b291725de612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1260187359,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1260187359,
+    "wof:lastmodified":1537674411,
+    "wof:name":"Kampung Anak Ayer Dedali",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.309,
+    2.8385,
+    102.309,
+    2.8385
+],
+  "geometry": {"coordinates":[102.309,2.8385],"type":"Point"}
+}

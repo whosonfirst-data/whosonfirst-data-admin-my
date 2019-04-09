@@ -1,0 +1,67 @@
+{
+  "id": 1259958057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.85,2.08333,111.85,2.08333",
+    "geom:latitude":2.08333,
+    "geom:longitude":111.85,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Atan",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748161,
+    "gn:latitude":2.08333,
+    "gn:longitude":111.85,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Atan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748161
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ab456d94bed8356b930c7b8fe675d1bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488423,
+            "locality_id":1259958057,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1259958057,
+    "wof:lastmodified":1536671735,
+    "wof:name":"Rumah Atan",
+    "wof:parent_id":890488423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.85,
+    2.08333,
+    111.85,
+    2.08333
+],
+  "geometry": {"coordinates":[111.84999999999999,2.08333],"type":"Point"}
+}

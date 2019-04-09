@@ -1,0 +1,70 @@
+{
+  "id": 1209713101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4352,3.0873,103.4352,3.0873",
+    "geom:latitude":3.0873,
+    "geom:longitude":103.4352,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Merawan",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697269,
+    "gn:latitude":3.0873,
+    "gn:longitude":103.4352,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Merawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Merawan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697269
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"95eac6041d76fe46cc9bf324127247a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1209713101,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1209713101,
+    "wof:lastmodified":1537674366,
+    "wof:name":"Kampung Merawan",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4352,
+    3.0873,
+    103.4352,
+    3.0873
+],
+  "geometry": {"coordinates":[103.43519999999999,3.0873],"type":"Point"}
+}

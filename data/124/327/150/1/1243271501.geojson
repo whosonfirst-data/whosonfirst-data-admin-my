@@ -1,0 +1,72 @@
+{
+  "id": 1243271501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.31434,4.81357,102.31434,4.81357",
+    "geom:latitude":4.81357,
+    "geom:longitude":102.31434,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Limau",
+    "gn:country_code":"MY",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767448,
+    "gn:latitude":4.81357,
+    "gn:longitude":102.31434,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Limau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Liman",
+        "Kampong Limau",
+        "Kampung Limau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767448
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8b8b089f5801ad7ea1ae40f07f3edc30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1243271501,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1243271501,
+    "wof:lastmodified":1537674038,
+    "wof:name":"Kampung Limau",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.31434,
+    4.81357,
+    102.31434,
+    4.81357
+],
+  "geometry": {"coordinates":[102.31434,4.81357],"type":"Point"}
+}

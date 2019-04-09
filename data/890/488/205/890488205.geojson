@@ -1,0 +1,75 @@
+{
+  "id": 890488205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.436367,6.375971,116.436367,6.375971",
+    "geom:latitude":6.375971,
+    "geom:longitude":116.436367,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kota Belud",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sabah",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":183,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":173,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1966748,
+        "gp:id":56014107,
+        "qs:id":1204930,
+        "qs_pg:id":1031905,
+        "wd:id":"Q1785358",
+        "wk:page":"Kota Belud"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054710,
+    "wof:geomhash":"e24ffafb8d285334774836a0d9889c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "localadmin_id":890488205,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":890488205,
+    "wof:lastmodified":1527787077,
+    "wof:name":"Kota Belud",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.436367,
+    6.375971,
+    116.436367,
+    6.375971
+],
+  "geometry": {"coordinates":[116.436367,6.375971],"type":"Point"}
+}

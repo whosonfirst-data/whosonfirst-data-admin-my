@@ -1,0 +1,73 @@
+{
+  "id": 1327104133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.853,6.788,116.853,6.788",
+    "geom:latitude":6.788,
+    "geom:longitude":116.853,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Parapat",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736464,
+    "gn:latitude":6.788,
+    "gn:longitude":116.853,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Parapat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parapat"
+    ],
+    "name:und_x_variant":[
+        "Parapat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736464
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"923911fe1a9224ca5502c958a47f7f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1327104133,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327104133,
+    "wof:lastmodified":1537673738,
+    "wof:name":"Kampung Parapat",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.853,
+    6.788,
+    116.853,
+    6.788
+],
+  "geometry": {"coordinates":[116.85299999999999,6.788],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 85784471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5760834.372091,
+    "geom:bbox":"103.336853,3.795743,103.336853,3.795743",
+    "geom:latitude":3.795743,
+    "geom:longitude":103.336853,
+    "gn:latitude":3.7947,
+    "gn:longitude":103.3379,
+    "iso:country":"MY",
+    "lbl:latitude":3.795743,
+    "lbl:longitude":103.336853,
+    "mps:latitude":3.793595,
+    "mps:longitude":103.340291,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:msa_x_preferred":[
+        "Kampung Teluk Baharu"
+    ],
+    "name:und_x_preferred":[
+        "Kampung Teluk Baru"
+    ],
+    "name:unk_x_variant":[
+        "Telok Baru",
+        "Kampung Teluk Baru"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1735227,
+    "qs:gn_nam_loc":"Kuantan, Kuala Kuantan, Kuantan, Pahang, MY",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Kampung Teluk Baharu",
+    "qs:local_max":328,
+    "qs:local_sum":845,
+    "qs:localhoods":9,
+    "qs:name":"Kampung Teluk Baru",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:name_adm2":"Kuantan",
+    "qs:name_lau":"Kuala Kuantan",
+    "qs:name_local":"Kuantan",
+    "qs:photo_max":3,
+    "qs:photo_sum":9,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346301,
+    "qs:woe_adm2":56013625,
+    "qs:woe_lau":56014360,
+    "qs:woe_local":1154799,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023459,
+        890490895,
+        85675159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732543,
+        "gp:id":56036513,
+        "qs:id":1105197,
+        "qs_pg:id":1105197
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"55ef5cf4607af6631d64b847e16f0bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":102023459,
+            "neighbourhood_id":85784471,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":85784471,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860613,
+    "wof:name":"Kampung Teluk Baru",
+    "wof:parent_id":102023459,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.336853,
+    3.795743,
+    103.336853,
+    3.795743
+],
+  "geometry": {"coordinates":[103.336853,3.795743],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344041911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.50439,5.15018,100.50439,5.15018",
+    "geom:latitude":5.15018,
+    "geom:longitude":100.50439,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Teluk",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763115,
+    "gn:latitude":5.15018,
+    "gn:longitude":100.50439,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Teluk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Teluk"
+    ],
+    "name:und_x_variant":[
+        "Kampong Telok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763115
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0877ae19019d956478a54f97c19ef15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1344041911,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1344041911,
+    "wof:lastmodified":1537673845,
+    "wof:name":"Kampung Teluk",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.50439,
+    5.15018,
+    100.50439,
+    5.15018
+],
+  "geometry": {"coordinates":[100.50439,5.15018],"type":"Point"}
+}

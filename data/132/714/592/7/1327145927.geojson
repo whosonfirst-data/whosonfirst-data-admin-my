@@ -1,0 +1,67 @@
+{
+  "id": 1327145927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.28333,6.0,102.28333,6.0",
+    "geom:latitude":6.0,
+    "geom:longitude":102.28333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Pangkal Pisang",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766232,
+    "gn:latitude":6.0,
+    "gn:longitude":102.28333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Pangkal Pisang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766232
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"647ba8471461d47f0051a3f7421b873f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489783,
+            "locality_id":1327145927,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1327145927,
+    "wof:lastmodified":1537091187,
+    "wof:name":"Kampong Pangkal Pisang",
+    "wof:parent_id":890489783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.28333,
+    6.0,
+    102.28333,
+    6.0
+],
+  "geometry": {"coordinates":[102.28333000000001,6.0],"type":"Point"}
+}

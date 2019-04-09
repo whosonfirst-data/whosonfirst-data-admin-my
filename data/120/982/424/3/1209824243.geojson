@@ -1,0 +1,67 @@
+{
+  "id": 1209824243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.4,6.11667,100.4,6.11667",
+    "geom:latitude":6.11667,
+    "geom:longitude":100.4,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Balek Hutan",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771224,
+    "gn:latitude":6.11667,
+    "gn:longitude":100.4,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Balek Hutan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771224
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"945a56e6e4d3e72fc3d42632df76f116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1209824243,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1209824243,
+    "wof:lastmodified":1536375418,
+    "wof:name":"Kampong Balek Hutan",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.4,
+    6.11667,
+    100.4,
+    6.11667
+],
+  "geometry": {"coordinates":[100.40000000000001,6.11667],"type":"Point"}
+}

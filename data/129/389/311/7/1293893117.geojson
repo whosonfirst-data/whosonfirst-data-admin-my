@@ -1,0 +1,74 @@
+{
+  "id": 1293893117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0853,1.8935,103.0853,1.8935",
+    "geom:latitude":1.8935,
+    "geom:longitude":103.0853,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Buih",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770453,
+    "gn:latitude":1.8935,
+    "gn:longitude":103.0853,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kampung Buih",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Buih"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungei Biuh",
+        "Kampong Buih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770453
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"261d262c77717850d5ac62f443b3532e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1293893117,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293893117,
+    "wof:lastmodified":1537674162,
+    "wof:name":"Kampung Buih",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0853,
+    1.8935,
+    103.0853,
+    1.8935
+],
+  "geometry": {"coordinates":[103.0853,1.8935],"type":"Point"}
+}

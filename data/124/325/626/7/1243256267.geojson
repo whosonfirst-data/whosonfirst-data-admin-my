@@ -1,0 +1,73 @@
+{
+  "id": 1243256267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6383,3.5351,102.6383,3.5351",
+    "geom:latitude":3.5351,
+    "geom:longitude":102.6383,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Paya Pasir",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765875,
+    "gn:latitude":3.5351,
+    "gn:longitude":102.6383,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Paya Pasir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Paya Pasir"
+    ],
+    "name:und_x_variant":[
+        "Kampong Paya Pasir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765875
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5833de6cd5db278b9d977e454032d026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1243256267,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1243256267,
+    "wof:lastmodified":1537673973,
+    "wof:name":"Kampung Paya Pasir",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6383,
+    3.5351,
+    102.6383,
+    3.5351
+],
+  "geometry": {"coordinates":[102.6383,3.5351],"type":"Point"}
+}

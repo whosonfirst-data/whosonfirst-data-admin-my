@@ -1,0 +1,67 @@
+{
+  "id": 890489635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.740379,7.010686,116.740379,7.010686",
+    "geom:latitude":7.010686,
+    "geom:longitude":116.740379,
+    "gn:country":"MY",
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kudat",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sabah",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":215,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:latitude":"6.883333333",
+    "wd:longitude":"116.833333333",
+    "wd:wordcount":2122,
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013846,
+        "qs:id":1070930,
+        "wd:id":"Q23041",
+        "wk:page":"Kudat"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054764,
+    "wof:geomhash":"18d6fe3b5e1752ebed2a2d2da3a8c105",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "localadmin_id":890489635
+        }
+    ],
+    "wof:id":890489635,
+    "wof:lastmodified":1527792862,
+    "wof:name":"Kudat",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.740379,
+    7.010686,
+    116.740379,
+    7.010686
+],
+  "geometry": {"coordinates":[116.740379,7.010686],"type":"Point"}
+}

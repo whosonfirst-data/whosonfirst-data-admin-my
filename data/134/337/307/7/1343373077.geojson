@@ -1,0 +1,73 @@
+{
+  "id": 1343373077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5739,2.1194,102.5739,2.1194",
+    "geom:latitude":2.1194,
+    "geom:longitude":102.5739,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Pantai Layang",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766186,
+    "gn:latitude":2.1194,
+    "gn:longitude":102.5739,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pantai Layang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pantai Layang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pantai Layang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766186
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5c299fe9c79af8ab9b2861d4217513dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1343373077,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1343373077,
+    "wof:lastmodified":1537673987,
+    "wof:name":"Kampung Pantai Layang",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5739,
+    2.1194,
+    102.5739,
+    2.1194
+],
+  "geometry": {"coordinates":[102.57389999999999,2.1194],"type":"Point"}
+}

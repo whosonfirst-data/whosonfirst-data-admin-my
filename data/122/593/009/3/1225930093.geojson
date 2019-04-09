@@ -1,0 +1,73 @@
+{
+  "id": 1225930093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2736,4.2641,103.2736,4.2641",
+    "geom:latitude":4.2641,
+    "geom:longitude":103.2736,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Macang Setahun",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767196,
+    "gn:latitude":4.2641,
+    "gn:longitude":103.2736,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Macang Setahun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Macang Setahun"
+    ],
+    "name:und_x_variant":[
+        "Kampong Machang Satahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767196
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"31bb09f340d8ca0f2913abb4d9c27bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "locality_id":1225930093,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1225930093,
+    "wof:lastmodified":1537674026,
+    "wof:name":"Kampung Macang Setahun",
+    "wof:parent_id":890490801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2736,
+    4.2641,
+    103.2736,
+    4.2641
+],
+  "geometry": {"coordinates":[103.2736,4.2641],"type":"Point"}
+}

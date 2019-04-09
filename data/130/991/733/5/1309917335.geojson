@@ -1,0 +1,70 @@
+{
+  "id": 1309917335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6235,4.6983,101.6235,4.6983",
+    "geom:latitude":4.6983,
+    "geom:longitude":101.6235,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pos Mering",
+    "gn:country_code":"MY",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473521,
+    "gn:latitude":4.6983,
+    "gn:longitude":101.6235,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pos Mering",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pos Mering"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473521
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b1b68922e6999aebb146c73a4c732a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1309917335,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1309917335,
+    "wof:lastmodified":1537674307,
+    "wof:name":"Pos Mering",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6235,
+    4.6983,
+    101.6235,
+    4.6983
+],
+  "geometry": {"coordinates":[101.62350000000001,4.6983],"type":"Point"}
+}

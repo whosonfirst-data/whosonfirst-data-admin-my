@@ -1,0 +1,70 @@
+{
+  "id": 1292991533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.21849,6.56334,100.21849,6.56334",
+    "geom:latitude":6.56334,
+    "geom:longitude":100.21849,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Guar Jentik",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798662,
+    "gn:latitude":6.56334,
+    "gn:longitude":100.21849,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Guar Jentik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Guar Jentik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798662
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4119ab5c2c135b8d7266ab5e8aac567e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1292991533,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1292991533,
+    "wof:lastmodified":1537674229,
+    "wof:name":"Kampung Guar Jentik",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.21849,
+    6.56334,
+    100.21849,
+    6.56334
+],
+  "geometry": {"coordinates":[100.21849,6.56334],"type":"Point"}
+}

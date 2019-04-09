@@ -1,0 +1,70 @@
+{
+  "id": 1226336667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7899,4.1022,100.7899,4.1022",
+    "geom:latitude":4.1022,
+    "geom:longitude":100.7899,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Batu Empat Belas Lekir",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535211,
+    "gn:latitude":4.1022,
+    "gn:longitude":100.7899,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Batu Empat Belas Lekir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Empat Belas Lekir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535211
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cb194de4c65c3031afa8979716f97c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489811,
+            "locality_id":1226336667,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1226336667,
+    "wof:lastmodified":1537674460,
+    "wof:name":"Kampung Batu Empat Belas Lekir",
+    "wof:parent_id":890489811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7899,
+    4.1022,
+    100.7899,
+    4.1022
+],
+  "geometry": {"coordinates":[100.7899,4.1022],"type":"Point"}
+}

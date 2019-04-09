@@ -1,0 +1,112 @@
+{
+  "id": 85782599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000166,
+    "geom:area_square_m":2052945.067061,
+    "geom:bbox":"101.683959961,3.06646715428,101.700439453,3.07881295369",
+    "geom:latitude":3.072687,
+    "geom:longitude":101.692393,
+    "gn:latitude":3.6904,
+    "gn:longitude":101.5137,
+    "iso:country":"MY",
+    "lbl:latitude":3.069969,
+    "lbl:longitude":101.69163,
+    "mps:latitude":3.072291,
+    "mps:longitude":101.691569,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Taman Sri Petaling"
+    ],
+    "name:msa_x_preferred":[
+        "Taman Sri Malin"
+    ],
+    "name:unk_x_variant":[
+        "Taman Sri Petaling"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1735161,
+    "qs:gn_namadm1":"07",
+    "qs:gn_name":"Taman Sri Malin",
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Taman Sri Petaling",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Petaling",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":38,
+    "qs:photo_sum":155,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56013873,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794690,
+        "gp:id":55862669,
+        "qs:id":1182572,
+        "qs_pg:id":1182572
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"09a38cc3747708c4a0782fdb1d445b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85782599,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85782599,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497315454,
+    "wof:name":"Taman Sri Petaling",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.68395996100003,
+    3.06646715428271,
+    101.70043945300017,
+    3.07881295369269
+],
+  "geometry": {"coordinates":[[[101.69769287100013,3.07881295369269],[101.70043945300017,3.07743767940526],[101.70043945300017,3.07469507237],[101.70043945300017,3.06920979794901],[101.69631761031491,3.06920979993517],[101.69540470764179,3.06646715428271],[101.69494628900009,3.06646715498562],[101.6921997070001,3.06646715486846],[101.68945312500006,3.06646715486846],[101.68670654300018,3.06646715506369],[101.68670654300024,3.06920980186003],[101.68395996100003,3.06920980186003],[101.6839599610002,3.07058309075577],[101.6839599610002,3.07469506884394],[101.68601297408622,3.07675103804611],[101.68733453553654,3.07694010501957],[101.68953145705564,3.07840683453909],[101.6921997070001,3.07802510513226],[101.69768734389203,3.07881018614775],[101.69769287100013,3.07881295369269]]],"type":"Polygon"}
+}

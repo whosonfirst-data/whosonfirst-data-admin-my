@@ -1,0 +1,67 @@
+{
+  "id": 1309920395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.45,2.85,101.45,2.85",
+    "geom:latitude":2.85,
+    "geom:longitude":101.45,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Kampong Tanah Raja",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763541,
+    "gn:latitude":2.85,
+    "gn:longitude":101.45,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Tanah Raja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763541
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a61824076d38d993dfc0550d38967f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696427,
+            "locality_id":1309920395,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1309920395,
+    "wof:lastmodified":1536766209,
+    "wof:name":"Kampong Tanah Raja",
+    "wof:parent_id":1108696427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.45,
+    2.85,
+    101.45,
+    2.85
+],
+  "geometry": {"coordinates":[101.45,2.85],"type":"Point"}
+}

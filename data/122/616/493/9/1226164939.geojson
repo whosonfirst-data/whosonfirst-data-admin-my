@@ -1,0 +1,70 @@
+{
+  "id": 1226164939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.367,3.866,103.367,3.866",
+    "geom:latitude":3.866,
+    "geom:longitude":103.367,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Kubur",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7651032,
+    "gn:latitude":3.866,
+    "gn:longitude":103.367,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kubur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kubur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7651032
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f406ca476210745c779ddf524f49c00a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":1226164939,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226164939,
+    "wof:lastmodified":1537674351,
+    "wof:name":"Kampung Kubur",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.367,
+    3.866,
+    103.367,
+    3.866
+],
+  "geometry": {"coordinates":[103.367,3.866],"type":"Point"}
+}

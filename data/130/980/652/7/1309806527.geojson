@@ -1,0 +1,73 @@
+{
+  "id": 1309806527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.30053,6.11344,100.30053,6.11344",
+    "geom:latitude":6.11344,
+    "geom:longitude":100.30053,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Ulu",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762391,
+    "gn:latitude":6.11344,
+    "gn:longitude":100.30053,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ulu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762391
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2e1b01acd780fd0c0af87a07a10469e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1309806527,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1309806527,
+    "wof:lastmodified":1537673814,
+    "wof:name":"Kampung Ulu",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.30053,
+    6.11344,
+    100.30053,
+    6.11344
+],
+  "geometry": {"coordinates":[100.30052999999999,6.11344],"type":"Point"}
+}

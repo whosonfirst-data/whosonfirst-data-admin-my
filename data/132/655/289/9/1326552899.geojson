@@ -1,0 +1,70 @@
+{
+  "id": 1326552899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.50974,2.67146,102.50974,2.67146",
+    "geom:latitude":2.67146,
+    "geom:longitude":102.50974,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Panjis",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766214,
+    "gn:latitude":2.67146,
+    "gn:longitude":102.50974,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Panjis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Panjis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        1108696529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766214
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e8f8016095ddbf9e86d3d7d4aeb0626e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696529,
+            "locality_id":1326552899,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1326552899,
+    "wof:lastmodified":1537673988,
+    "wof:name":"Kampung Panjis",
+    "wof:parent_id":1108696529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.50974,
+    2.67146,
+    102.50974,
+    2.67146
+],
+  "geometry": {"coordinates":[102.50973999999999,2.67146],"type":"Point"}
+}

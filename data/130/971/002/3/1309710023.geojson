@@ -1,0 +1,70 @@
+{
+  "id": 1309710023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9935,3.8829,101.9935,3.8829",
+    "geom:latitude":3.8829,
+    "geom:longitude":101.9935,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Perdak",
+    "gn:country_code":"MY",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638971,
+    "gn:latitude":3.8829,
+    "gn:longitude":101.9935,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Perdak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Perdak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638971
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c987bfcdf5a170e9e57032c47a6dd854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1309710023,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1309710023,
+    "wof:lastmodified":1537674347,
+    "wof:name":"Kampung Perdak",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9935,
+    3.8829,
+    101.9935,
+    3.8829
+],
+  "geometry": {"coordinates":[101.9935,3.8829],"type":"Point"}
+}

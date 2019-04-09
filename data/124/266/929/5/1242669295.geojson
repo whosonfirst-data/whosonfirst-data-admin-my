@@ -1,0 +1,72 @@
+{
+  "id": 1242669295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.75,5.3,100.75,5.3",
+    "geom:latitude":5.3,
+    "geom:longitude":100.75,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Rantau Panjang Ulu Kerian",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765063,
+    "gn:latitude":5.3,
+    "gn:longitude":100.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Rantau Panjang Ulu Kerian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Rantau Panjang Ulu Krian",
+        "Kampong Rantau Panjang Ulu Kerian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765063
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4894b888c7542e73531875bdfda156cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489813,
+            "locality_id":1242669295,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1242669295,
+    "wof:lastmodified":1537673938,
+    "wof:name":"Kampong Rantau Panjang Ulu Kerian",
+    "wof:parent_id":890489813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.75,
+    5.3,
+    100.75,
+    5.3
+],
+  "geometry": {"coordinates":[100.75,5.3],"type":"Point"}
+}

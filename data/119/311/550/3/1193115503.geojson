@@ -1,0 +1,70 @@
+{
+  "id": 1193115503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.86506,1.07726,111.86506,1.07726",
+    "geom:latitude":1.07726,
+    "geom:longitude":111.86506,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kampung Ensawang",
+    "gn:country_code":"MY",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1775479,
+    "gn:latitude":1.07726,
+    "gn:longitude":111.86506,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kampung Ensawang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ensawang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1775479
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5ff5e44a7703aac589a09b16d880bd09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696451,
+            "locality_id":1193115503,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1193115503,
+    "wof:lastmodified":1537674218,
+    "wof:name":"Kampung Ensawang",
+    "wof:parent_id":1108696451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.86506,
+    1.07726,
+    111.86506,
+    1.07726
+],
+  "geometry": {"coordinates":[111.86506,1.07726],"type":"Point"}
+}

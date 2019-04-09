@@ -1,0 +1,70 @@
+{
+  "id": 1243072487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4064,3.0691,102.4064,3.0691",
+    "geom:latitude":3.0691,
+    "geom:longitude":102.4064,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kemajuan Tanah Lui Timor",
+    "gn:country_code":"MY",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697124,
+    "gn:latitude":3.0691,
+    "gn:longitude":102.4064,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Lui Timor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Lui Timor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697124
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e001040becb57a07e472e66597a64419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1243072487,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1243072487,
+    "wof:lastmodified":1537674364,
+    "wof:name":"Kemajuan Tanah Lui Timor",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4064,
+    3.0691,
+    102.4064,
+    3.0691
+],
+  "geometry": {"coordinates":[102.4064,3.0691],"type":"Point"}
+}

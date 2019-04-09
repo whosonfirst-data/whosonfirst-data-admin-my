@@ -1,0 +1,67 @@
+{
+  "id": 1276732129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.85,6.81667,116.85,6.81667",
+    "geom:latitude":6.81667,
+    "geom:longitude":116.85,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Setangan",
+    "gn:country_code":"MY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764439,
+    "gn:latitude":6.81667,
+    "gn:longitude":116.85,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Setangan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764439
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5521101f641776bd4fb855648b1978e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1276732129,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276732129,
+    "wof:lastmodified":1536741398,
+    "wof:name":"Kampong Setangan",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.85,
+    6.81667,
+    116.85,
+    6.81667
+],
+  "geometry": {"coordinates":[116.84999999999999,6.81667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242599969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.133,3.4456,103.133,3.4456",
+    "geom:latitude":3.4456,
+    "geom:longitude":103.133,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Bangkung",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7685632,
+    "gn:latitude":3.4456,
+    "gn:longitude":103.133,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bangkung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bangkung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685632
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1eefd785c8a2d7fb4ffee9199342e826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1242599969,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1242599969,
+    "wof:lastmodified":1537674359,
+    "wof:name":"Kampung Bangkung",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.133,
+    3.4456,
+    103.133,
+    3.4456
+],
+  "geometry": {"coordinates":[103.133,3.4456],"type":"Point"}
+}

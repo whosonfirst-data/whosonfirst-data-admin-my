@@ -1,0 +1,64 @@
+{
+  "id": 1327303631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.5376,4.5355,118.5376,4.5355",
+    "geom:latitude":4.5355,
+    "geom:longitude":118.5376,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Bait",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7064112,
+    "gn:latitude":4.5355,
+    "gn:longitude":118.5376,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Bait",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bait"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7064112
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a9b44876e5348004fba18b026b6d1d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327303631,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327303631,
+    "wof:lastmodified":1537674273,
+    "wof:name":"Kampung Bait",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.5376,
+    4.5355,
+    118.5376,
+    4.5355
+],
+  "geometry": {"coordinates":[118.5376,4.5355],"type":"Point"}
+}

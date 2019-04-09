@@ -1,0 +1,67 @@
+{
+  "id": 1310306819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.23333,5.4,102.23333,5.4",
+    "geom:latitude":5.4,
+    "geom:longitude":102.23333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Manek Urai",
+    "gn:country_code":"MY",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767123,
+    "gn:latitude":5.4,
+    "gn:longitude":102.23333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Manek Urai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767123
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e7a112c466537c1f30de8aac5d207402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489265,
+            "locality_id":1310306819,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1310306819,
+    "wof:lastmodified":1536706269,
+    "wof:name":"Kampong Manek Urai",
+    "wof:parent_id":890489265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.23333,
+    5.4,
+    102.23333,
+    5.4
+],
+  "geometry": {"coordinates":[102.23333,5.4],"type":"Point"}
+}

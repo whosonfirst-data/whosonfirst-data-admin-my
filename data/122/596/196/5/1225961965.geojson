@@ -1,0 +1,72 @@
+{
+  "id": 1225961965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.78333,1.75,103.78333,1.75",
+    "geom:latitude":1.75,
+    "geom:longitude":103.78333,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampong Kempas Menang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768398,
+    "gn:latitude":1.75,
+    "gn:longitude":103.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Kempas Menang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakai Ladang",
+        "Kampong Kempas Menang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768398
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d55a2e87f384f4b3945f462f75faa0e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":1225961965,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1225961965,
+    "wof:lastmodified":1537674076,
+    "wof:name":"Kampong Kempas Menang",
+    "wof:parent_id":890491003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.78333,
+    1.75,
+    103.78333,
+    1.75
+],
+  "geometry": {"coordinates":[103.78333000000001,1.75],"type":"Point"}
+}

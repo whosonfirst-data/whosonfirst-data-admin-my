@@ -1,0 +1,70 @@
+{
+  "id": 1293290371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9008,3.9238,101.9008,3.9238",
+    "geom:latitude":3.9238,
+    "geom:longitude":101.9008,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Hulu Tema",
+    "gn:country_code":"MY",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638921,
+    "gn:latitude":3.9238,
+    "gn:longitude":101.9008,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Hulu Tema",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Hulu Tema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638921
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6db784e032996cb08bb9182b5c7440c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1293290371,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293290371,
+    "wof:lastmodified":1537674345,
+    "wof:name":"Kampung Hulu Tema",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9008,
+    3.9238,
+    101.9008,
+    3.9238
+],
+  "geometry": {"coordinates":[101.9008,3.9238],"type":"Point"}
+}

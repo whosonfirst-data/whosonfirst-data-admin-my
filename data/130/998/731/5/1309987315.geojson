@@ -1,0 +1,67 @@
+{
+  "id": 1309987315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.39503,1.28447,110.39503,1.28447",
+    "geom:latitude":1.28447,
+    "geom:longitude":110.39503,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kuram Musang",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1759069,
+    "gn:latitude":1.28447,
+    "gn:longitude":110.39503,
+    "gn:modification_date":"2011-08-22",
+    "gn:name":"Kuram Musang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1759069
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"faac068d61362b21248480941d5489d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1309987315,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1309987315,
+    "wof:lastmodified":1536669528,
+    "wof:name":"Kuram Musang",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.39503,
+    1.28447,
+    110.39503,
+    1.28447
+],
+  "geometry": {"coordinates":[110.39503000000001,1.28447],"type":"Point"}
+}

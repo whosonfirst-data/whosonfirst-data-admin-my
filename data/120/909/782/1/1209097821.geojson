@@ -1,0 +1,64 @@
+{
+  "id": 1209097821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1198,4.4953,101.1198,4.4953",
+    "geom:latitude":4.4953,
+    "geom:longitude":101.1198,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pengkalan Baharu S.C.",
+    "gn:country_code":"MY",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7612538,
+    "gn:latitude":4.4953,
+    "gn:longitude":101.1198,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pengkalan Baharu S.C.",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pengkalan Baharu S.C."
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7612538
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b9b41218535743da6776cd5e2bf88626",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209097821
+        }
+    ],
+    "wof:id":1209097821,
+    "wof:lastmodified":1537674328,
+    "wof:name":"Pengkalan Baharu S.C.",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1198,
+    4.4953,
+    101.1198,
+    4.4953
+],
+  "geometry": {"coordinates":[101.1198,4.4953],"type":"Point"}
+}

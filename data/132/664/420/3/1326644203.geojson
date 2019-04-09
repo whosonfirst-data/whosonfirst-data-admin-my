@@ -1,0 +1,73 @@
+{
+  "id": 1326644203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.879,2.337,102.879,2.337",
+    "geom:latitude":2.337,
+    "geom:longitude":102.879,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Laku",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767659,
+    "gn:latitude":2.337,
+    "gn:longitude":102.879,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Laku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Laku"
+    ],
+    "name:und_x_variant":[
+        "Kampong Laku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767659
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"88f9f4ebaaf72762494480e3226f65ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1326644203,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1326644203,
+    "wof:lastmodified":1537674046,
+    "wof:name":"Kampung Laku",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.879,
+    2.337,
+    102.879,
+    2.337
+],
+  "geometry": {"coordinates":[102.879,2.337],"type":"Point"}
+}

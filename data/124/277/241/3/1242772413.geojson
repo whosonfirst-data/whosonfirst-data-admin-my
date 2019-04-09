@@ -1,0 +1,70 @@
+{
+  "id": 1242772413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.6792,4.4591,100.6792,4.4591",
+    "geom:latitude":4.4591,
+    "geom:longitude":100.6792,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Desa Permai",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7791972,
+    "gn:latitude":4.4591,
+    "gn:longitude":100.6792,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Desa Permai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Desa Permai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        1108696459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7791972
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ebb4830433c94d0ff87156f9a371fef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696459,
+            "locality_id":1242772413,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1242772413,
+    "wof:lastmodified":1537674383,
+    "wof:name":"Kampung Desa Permai",
+    "wof:parent_id":1108696459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.6792,
+    4.4591,
+    100.6792,
+    4.4591
+],
+  "geometry": {"coordinates":[100.67919999999999,4.4591],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226147137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2481,1.7726,103.2481,1.7726",
+    "geom:latitude":1.7726,
+    "geom:longitude":103.2481,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kawasan Penempatan Sungai Benut",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7620423,
+    "gn:latitude":1.7726,
+    "gn:longitude":103.2481,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Kawasan Penempatan Sungai Benut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kawasan Penempatan Sungai Benut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7620423
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a5622a8c4a5587a1a4d70c1c541eb3e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1226147137,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1226147137,
+    "wof:lastmodified":1537674335,
+    "wof:name":"Kawasan Penempatan Sungai Benut",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2481,
+    1.7726,
+    103.2481,
+    1.7726
+],
+  "geometry": {"coordinates":[103.24809999999999,1.7726],"type":"Point"}
+}

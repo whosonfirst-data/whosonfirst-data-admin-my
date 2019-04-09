@@ -1,0 +1,71 @@
+{
+  "id": 1327213129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.94588,5.52229,102.94588,5.52229",
+    "geom:latitude":5.52229,
+    "geom:longitude":102.94588,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Gong Pok Wil",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6874103,
+    "gn:latitude":5.52229,
+    "gn:longitude":102.94588,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Gong Pok Wil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gong Pok Wil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        1108696513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6874103
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4a7a6ffc292c3fcffa9e7ca3a6d1632d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696513,
+            "locality_id":1327213129,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1327213129,
+    "wof:lastmodified":1537674270,
+    "wof:name":"Kampung Gong Pok Wil",
+    "wof:parent_id":1108696513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.94588,
+    5.52229,
+    102.94588,
+    5.52229
+],
+  "geometry": {"coordinates":[102.94588,5.52229],"type":"Point"}
+}

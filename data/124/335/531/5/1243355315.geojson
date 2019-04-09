@@ -1,0 +1,70 @@
+{
+  "id": 1243355315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1285,4.3583,101.1285,4.3583",
+    "geom:latitude":4.3583,
+    "geom:longitude":101.1285,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Cangkat Tualang",
+    "gn:country_code":"MY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7612615,
+    "gn:latitude":4.3583,
+    "gn:longitude":101.1285,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Cangkat Tualang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Cangkat Tualang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7612615
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0defd5f9ff27d1762e1ca9bb238e525f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1243355315,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1243355315,
+    "wof:lastmodified":1537674329,
+    "wof:name":"Kampung Cangkat Tualang",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1285,
+    4.3583,
+    101.1285,
+    4.3583
+],
+  "geometry": {"coordinates":[101.1285,4.3583],"type":"Point"}
+}

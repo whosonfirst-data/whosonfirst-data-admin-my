@@ -1,0 +1,74 @@
+{
+  "id": 1259591995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.55393,5.24313,100.55393,5.24313",
+    "geom:latitude":5.24313,
+    "geom:longitude":100.55393,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Hulu",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762393,
+    "gn:latitude":5.24313,
+    "gn:longitude":100.55393,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Hulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Hulu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762393
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"83ac8265de4e7bfdb359fc4f2cb4e513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490371,
+            "locality_id":1259591995,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1259591995,
+    "wof:lastmodified":1537673814,
+    "wof:name":"Kampung Hulu",
+    "wof:parent_id":890490371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.55393,
+    5.24313,
+    100.55393,
+    5.24313
+],
+  "geometry": {"coordinates":[100.55392999999999,5.24313],"type":"Point"}
+}

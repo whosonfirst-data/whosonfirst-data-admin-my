@@ -1,0 +1,75 @@
+{
+  "id": 1293282093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38969,5.38136,100.38969,5.38136",
+    "geom:latitude":5.38136,
+    "geom:longitude":100.38969,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Taman Prai",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6823175,
+    "gn:latitude":5.38136,
+    "gn:longitude":100.38969,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taman Prai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Prai"
+    ],
+    "name:und_x_variant":[
+        "Perai",
+        "Prai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823175,
+        "wk:page":"Perai"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"94b33d92ff2fe9ba63a5317d2ead3e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1293282093,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1293282093,
+    "wof:lastmodified":1537674251,
+    "wof:name":"Taman Prai",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38969,
+    5.38136,
+    100.38969,
+    5.38136
+],
+  "geometry": {"coordinates":[100.38969,5.38136],"type":"Point"}
+}

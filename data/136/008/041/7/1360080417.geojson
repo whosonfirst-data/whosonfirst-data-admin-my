@@ -1,0 +1,71 @@
+{
+  "id": 1360080417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4212,3.3291,102.4212,3.3291",
+    "geom:latitude":3.3291,
+    "geom:longitude":102.4212,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mengkarak",
+    "gn:country_code":"MY",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356557,
+    "gn:latitude":3.3291,
+    "gn:longitude":102.4212,
+    "gn:modification_date":"2018-04-11",
+    "gn:name":"Mengkarak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Mengkarak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356557,
+        "wk:page":"Mengkarak"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c08cf9ec995b71c94fecdab73998b900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1360080417,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1360080417,
+    "wof:lastmodified":1537674453,
+    "wof:name":"Mengkarak",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4212,
+    3.3291,
+    102.4212,
+    3.3291
+],
+  "geometry": {"coordinates":[102.4212,3.3291],"type":"Point"}
+}

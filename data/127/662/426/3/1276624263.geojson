@@ -1,0 +1,74 @@
+{
+  "id": 1276624263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.73058,4.40623,115.73058,4.40623",
+    "geom:latitude":4.40623,
+    "geom:longitude":115.73058,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Long Pasia",
+    "gn:country_code":"MY",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733756,
+    "gn:latitude":4.40623,
+    "gn:longitude":115.73058,
+    "gn:modification_date":"2017-08-24",
+    "gn:name":"Long Pasia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Long Pasia"
+    ],
+    "name:msa_x_preferred":[
+        "Long Pa Sia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733756,
+        "wk:page":"Long_Pasia"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"90448076c27958011341e42e60bacf15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696519,
+            "locality_id":1276624263,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276624263,
+    "wof:lastmodified":1537673688,
+    "wof:name":"Long Pasia",
+    "wof:parent_id":1108696519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.73058,
+    4.40623,
+    115.73058,
+    4.40623
+],
+  "geometry": {"coordinates":[115.73058,4.40623],"type":"Point"}
+}

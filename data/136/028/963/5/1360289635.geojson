@@ -1,0 +1,66 @@
+{
+  "id": 1360289635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5473,2.067,102.5473,2.067",
+    "geom:latitude":2.067,
+    "geom:longitude":102.5473,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Kenangan Tun Syed Nasir",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7855779,
+    "gn:latitude":2.067,
+    "gn:longitude":102.5473,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kenangan Tun Syed Nasir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kenangan Tun Syed Nasir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855779
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"75299b5978785b3cebf522cd752a5310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1360289635,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360289635,
+    "wof:lastmodified":1537674434,
+    "wof:name":"Kampung Kenangan Tun Syed Nasir",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5473,
+    2.067,
+    102.5473,
+    2.067
+],
+  "geometry": {"coordinates":[102.54730000000001,2.067],"type":"Point"}
+}

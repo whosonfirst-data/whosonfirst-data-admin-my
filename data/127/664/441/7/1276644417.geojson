@@ -1,0 +1,68 @@
+{
+  "id": 1276644417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.55,1.1,111.55,1.1",
+    "geom:latitude":1.1,
+    "geom:longitude":111.55,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Guntong",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1774099,
+    "gn:latitude":1.1,
+    "gn:longitude":111.55,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Guntong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1774099,
+        "wk:page":"Guntong"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2e7b07e4377d598b1a3b08ab8de8fef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696523,
+            "locality_id":1276644417,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1276644417,
+    "wof:lastmodified":1537569889,
+    "wof:name":"Guntong",
+    "wof:parent_id":1108696523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.55,
+    1.1,
+    111.55,
+    1.1
+],
+  "geometry": {"coordinates":[111.55,1.1],"type":"Point"}
+}

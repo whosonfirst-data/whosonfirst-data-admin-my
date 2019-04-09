@@ -1,0 +1,70 @@
+{
+  "id": 1259681639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8743,3.6741,102.8743,3.6741",
+    "geom:latitude":3.6741,
+    "geom:longitude":102.8743,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Seri Jaya",
+    "gn:country_code":"MY",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732622,
+    "gn:latitude":3.6741,
+    "gn:longitude":102.8743,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Seri Jaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Seri Jaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732622
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"94845d1af9275be4395eda4c482bf5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1259681639,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1259681639,
+    "wof:lastmodified":1537673665,
+    "wof:name":"Kampung Seri Jaya",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8743,
+    3.6741,
+    102.8743,
+    3.6741
+],
+  "geometry": {"coordinates":[102.87430000000001,3.6741],"type":"Point"}
+}

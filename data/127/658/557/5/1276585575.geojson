@@ -1,0 +1,64 @@
+{
+  "id": 1276585575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9689,2.3868,101.9689,2.3868",
+    "geom:latitude":2.3868,
+    "geom:longitude":101.9689,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kota Bukit Supai",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7567385,
+    "gn:latitude":2.3868,
+    "gn:longitude":101.9689,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kota Bukit Supai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kota Bukit Supai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7567385
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0491641b6220e42d4d1fa883755beecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276585575,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276585575,
+    "wof:lastmodified":1537674316,
+    "wof:name":"Kota Bukit Supai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9689,
+    2.3868,
+    101.9689,
+    2.3868
+],
+  "geometry": {"coordinates":[101.9689,2.3868],"type":"Point"}
+}

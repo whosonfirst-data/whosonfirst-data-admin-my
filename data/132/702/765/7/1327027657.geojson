@@ -1,0 +1,70 @@
+{
+  "id": 1327027657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3165,3.6346,103.3165,3.6346",
+    "geom:latitude":3.6346,
+    "geom:longitude":103.3165,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Semangat",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662185,
+    "gn:latitude":3.6346,
+    "gn:longitude":103.3165,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Semangat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Semangat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662185
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"350e21c5feac7e6aa6cb02d6256f4684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":1327027657,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1327027657,
+    "wof:lastmodified":1537674356,
+    "wof:name":"Kampung Semangat",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3165,
+    3.6346,
+    103.3165,
+    3.6346
+],
+  "geometry": {"coordinates":[103.3165,3.6346],"type":"Point"}
+}

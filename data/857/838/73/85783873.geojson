@@ -1,0 +1,108 @@
+{
+  "id": 85783873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3849029.809648,
+    "geom:bbox":"103.42804,4.266985,103.42804,4.266985",
+    "geom:latitude":4.266985,
+    "geom:longitude":103.42804,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":4.266985,
+    "lbl:longitude":103.42804,
+    "mps:latitude":4.266985,
+    "mps:longitude":103.42804,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:und_x_preferred":[
+        "Desa Solehah"
+    ],
+    "name:unk_x_variant":[
+        "Desa Solehah"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1732945,
+    "qs:gn_nam_loc":"cukai",
+    "qs:gn_namadm1":"13",
+    "qs:local_max":81,
+    "qs:local_sum":87,
+    "qs:localhoods":2,
+    "qs:name":"Desa Solehah",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Terengganu",
+    "qs:name_adm2":"Kemaman",
+    "qs:name_lau":"Cukai",
+    "qs:name_local":"Cukai",
+    "qs:photo_max":6,
+    "qs:photo_sum":6,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346307,
+    "qs:woe_adm2":56013617,
+    "qs:woe_lau":56013754,
+    "qs:woe_local":1141037,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023873,
+        890490801,
+        85675169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56015143,
+        "qs:id":1294729,
+        "qs_pg:id":1294729
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f56e7fc7701eb5bbfe27f92b38d1d9bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "locality_id":102023873,
+            "neighbourhood_id":85783873,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":85783873,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860556,
+    "wof:name":"Desa Solehah",
+    "wof:parent_id":102023873,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.42804,
+    4.266985,
+    103.42804,
+    4.266985
+],
+  "geometry": {"coordinates":[103.42804,4.266985],"type":"Point"}
+}

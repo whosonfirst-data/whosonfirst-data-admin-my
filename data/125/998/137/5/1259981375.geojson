@@ -1,0 +1,70 @@
+{
+  "id": 1259981375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1603,5.78777,102.1603,5.78777",
+    "geom:latitude":5.78777,
+    "geom:longitude":102.1603,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Tok Cuba",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068029,
+    "gn:latitude":5.78777,
+    "gn:longitude":102.1603,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Tok Cuba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tok Cuba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068029
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"45a23e2cf9164ce3b06dfd61c4ef0cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696457,
+            "locality_id":1259981375,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1259981375,
+    "wof:lastmodified":1537674276,
+    "wof:name":"Kampung Tok Cuba",
+    "wof:parent_id":1108696457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1603,
+    5.78777,
+    102.1603,
+    5.78777
+],
+  "geometry": {"coordinates":[102.16030000000001,5.78777],"type":"Point"}
+}

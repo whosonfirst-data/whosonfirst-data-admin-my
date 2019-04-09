@@ -1,0 +1,70 @@
+{
+  "id": 1309804041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0424,2.3697,102.0424,2.3697",
+    "geom:latitude":2.3697,
+    "geom:longitude":102.0424,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Man Lok",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7567395,
+    "gn:latitude":2.3697,
+    "gn:longitude":102.0424,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Man Lok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Man Lok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7567395
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9da195cb6e1b0145b92fef54efef1e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1309804041,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1309804041,
+    "wof:lastmodified":1537674316,
+    "wof:name":"Kampung Man Lok",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0424,
+    2.3697,
+    102.0424,
+    2.3697
+],
+  "geometry": {"coordinates":[102.0424,2.3697],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 890490461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.467135,4.329636,103.467135,4.329636",
+    "geom:latitude":4.329636,
+    "geom:longitude":103.467135,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kijal",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Terengganu",
+    "qs:photos":98,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":144,
+    "qs:photos_sr":3,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":91,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014184,
+        "qs:id":1264267,
+        "wd:id":"Q4204552",
+        "wk:page":"Kijal"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054811,
+    "wof:geomhash":"d6c6cd690fcdcf9e138560537523defe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "localadmin_id":890490461,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":890490461,
+    "wof:lastmodified":1527734159,
+    "wof:name":"Kijal",
+    "wof:parent_id":890490801,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.467135,
+    4.329636,
+    103.467135,
+    4.329636
+],
+  "geometry": {"coordinates":[103.467135,4.329636],"type":"Point"}
+}

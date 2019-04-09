@@ -1,0 +1,70 @@
+{
+  "id": 890490477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.784065,1.560273,103.784065,1.560273",
+    "geom:latitude":1.560273,
+    "geom:longitude":103.784065,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tebrau",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":8,
+    "qs:photos_9r":8,
+    "qs:photos_all":1724,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013764,
+        "qs:id":1313665,
+        "wd:id":"Q7692083",
+        "wk:page":"Tebrau"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054812,
+    "wof:geomhash":"c6f3664abfde937cac1e4b0982fb0be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "localadmin_id":890490477,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890490477,
+    "wof:lastmodified":1527732952,
+    "wof:name":"Tebrau",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.784065,
+    1.560273,
+    103.784065,
+    1.560273
+],
+  "geometry": {"coordinates":[103.784065,1.560273],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344271517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8,2.28333,102.8,2.28333",
+    "geom:latitude":2.28333,
+    "geom:longitude":102.8,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampong Bugis",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770401,
+    "gn:latitude":2.28333,
+    "gn:longitude":102.8,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Bugis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770401
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c5832e07a1be457c3694f8ab4604ef2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1344271517,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1344271517,
+    "wof:lastmodified":1537065195,
+    "wof:name":"Kampong Bugis",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8,
+    2.28333,
+    102.8,
+    2.28333
+],
+  "geometry": {"coordinates":[102.8,2.28333],"type":"Point"}
+}

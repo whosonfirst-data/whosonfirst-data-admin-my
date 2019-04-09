@@ -1,0 +1,67 @@
+{
+  "id": 1242846969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.45,6.1,116.45,6.1",
+    "geom:latitude":6.1,
+    "geom:longitude":116.45,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Labau",
+    "gn:country_code":"MY",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1758984,
+    "gn:latitude":6.1,
+    "gn:longitude":116.45,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Labau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1758984
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b5fb713a20c5a3c2276dbeb009a1c314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1242846969,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1242846969,
+    "wof:lastmodified":1536675735,
+    "wof:name":"Labau",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.45,
+    6.1,
+    116.45,
+    6.1
+],
+  "geometry": {"coordinates":[116.45,6.1],"type":"Point"}
+}

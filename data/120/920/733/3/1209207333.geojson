@@ -1,0 +1,64 @@
+{
+  "id": 1209207333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1511,3.3994,103.1511,3.3994",
+    "geom:latitude":3.3994,
+    "geom:longitude":103.1511,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Tekeruh",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7685637,
+    "gn:latitude":3.3994,
+    "gn:longitude":103.1511,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tekeruh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tekeruh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685637
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c993b0e44d5d65a15d854c2b5f15a248",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209207333
+        }
+    ],
+    "wof:id":1209207333,
+    "wof:lastmodified":1537674359,
+    "wof:name":"Kampung Tekeruh",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1511,
+    3.3994,
+    103.1511,
+    3.3994
+],
+  "geometry": {"coordinates":[103.1511,3.3994],"type":"Point"}
+}

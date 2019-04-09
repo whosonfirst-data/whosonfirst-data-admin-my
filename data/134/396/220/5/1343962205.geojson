@@ -1,0 +1,73 @@
+{
+  "id": 1343962205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5449,2.2802,102.5449,2.2802",
+    "geom:latitude":2.2802,
+    "geom:longitude":102.5449,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Tangkak Dua",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536748,
+    "gn:latitude":2.2802,
+    "gn:longitude":102.5449,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Taman Tangkak Dua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Tangkak Dua"
+    ],
+    "name:und_x_variant":[
+        "Taman Tangkak 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536748
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"06b4370f19ba2e5fd44d222d1df6a795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1343962205,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1343962205,
+    "wof:lastmodified":1537674465,
+    "wof:name":"Taman Tangkak Dua",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5449,
+    2.2802,
+    102.5449,
+    2.2802
+],
+  "geometry": {"coordinates":[102.5449,2.2802],"type":"Point"}
+}

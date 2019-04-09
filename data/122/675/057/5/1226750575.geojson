@@ -1,0 +1,70 @@
+{
+  "id": 1226750575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.40591,6.10004,100.40591,6.10004",
+    "geom:latitude":6.10004,
+    "geom:longitude":100.40591,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Alor Kelompang",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807171,
+    "gn:latitude":6.10004,
+    "gn:longitude":100.40591,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Alor Kelompang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Alor Kelompang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807171
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"942fa41a284e97356eab42c0ac42b400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1226750575,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1226750575,
+    "wof:lastmodified":1537674238,
+    "wof:name":"Kampung Alor Kelompang",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.40591,
+    6.10004,
+    100.40591,
+    6.10004
+],
+  "geometry": {"coordinates":[100.40591000000001,6.10004],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309694569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.8207,5.4763,117.8207,5.4763",
+    "geom:latitude":5.4763,
+    "geom:longitude":117.8207,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Lamag",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733920,
+    "gn:latitude":5.4763,
+    "gn:longitude":117.8207,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lamag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Lamag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733920
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ea12aa4d6427b43827fff166389fa5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696413,
+            "locality_id":1309694569,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309694569,
+    "wof:lastmodified":1537673693,
+    "wof:name":"Lamag",
+    "wof:parent_id":1108696413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.8207,
+    5.4763,
+    117.8207,
+    5.4763
+],
+  "geometry": {"coordinates":[117.8207,5.4763],"type":"Point"}
+}

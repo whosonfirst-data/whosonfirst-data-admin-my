@@ -1,0 +1,70 @@
+{
+  "id": 1276958839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8087,2.9896,101.8087,2.9896",
+    "geom:latitude":2.9896,
+    "geom:longitude":101.8087,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taman Restu",
+    "gn:country_code":"MY",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7688620,
+    "gn:latitude":2.9896,
+    "gn:longitude":101.8087,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Restu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Restu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7688620
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5f731226c75c3c640ed06bc39368a84a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":1276958839,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1276958839,
+    "wof:lastmodified":1537674361,
+    "wof:name":"Taman Restu",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8087,
+    2.9896,
+    101.8087,
+    2.9896
+],
+  "geometry": {"coordinates":[101.8087,2.9896],"type":"Point"}
+}

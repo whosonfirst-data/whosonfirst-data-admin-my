@@ -1,0 +1,70 @@
+{
+  "id": 1327009961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.8705,3.8511,100.8705,3.8511",
+    "geom:latitude":3.8511,
+    "geom:longitude":100.8705,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bagan Sungai Tengar Kechil",
+    "gn:country_code":"MY",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7566007,
+    "gn:latitude":3.8511,
+    "gn:longitude":100.8705,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bagan Sungai Tengar Kechil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bagan Sungai Tengar Kechil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890490813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7566007
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dafdd4490d0a5d0736d6cf3a87cd3720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490813,
+            "locality_id":1327009961,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1327009961,
+    "wof:lastmodified":1537674314,
+    "wof:name":"Bagan Sungai Tengar Kechil",
+    "wof:parent_id":890490813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.8705,
+    3.8511,
+    100.8705,
+    3.8511
+],
+  "geometry": {"coordinates":[100.87050000000001,3.8511],"type":"Point"}
+}

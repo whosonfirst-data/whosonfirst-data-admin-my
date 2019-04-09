@@ -1,0 +1,70 @@
+{
+  "id": 1276788953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0594,3.4334,102.0594,3.4334",
+    "geom:latitude":3.4334,
+    "geom:longitude":102.0594,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Karak Setia",
+    "gn:country_code":"MY",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535485,
+    "gn:latitude":3.4334,
+    "gn:longitude":102.0594,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Karak Setia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Karak Setia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535485
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"64c05eb66de7606d0b5f09ce6eec5f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696389,
+            "locality_id":1276788953,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276788953,
+    "wof:lastmodified":1537674461,
+    "wof:name":"Kampung Karak Setia",
+    "wof:parent_id":1108696389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0594,
+    3.4334,
+    102.0594,
+    3.4334
+],
+  "geometry": {"coordinates":[102.0594,3.4334],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226229301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5581,2.9678,101.5581,2.9678",
+    "geom:latitude":2.9678,
+    "geom:longitude":101.5581,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Lombong",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767384,
+    "gn:latitude":2.9678,
+    "gn:longitude":101.5581,
+    "gn:modification_date":"2018-04-11",
+    "gn:name":"Kampung Lombong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lombong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Lombong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767384,
+        "wk:page":"Kampung_Lombong"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e586e5f5c78979eff46677870665df8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696415,
+            "locality_id":1226229301,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1226229301,
+    "wof:lastmodified":1537674035,
+    "wof:name":"Kampung Lombong",
+    "wof:parent_id":1108696415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5581,
+    2.9678,
+    101.5581,
+    2.9678
+],
+  "geometry": {"coordinates":[101.5581,2.9678],"type":"Point"}
+}

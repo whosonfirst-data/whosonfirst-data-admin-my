@@ -1,0 +1,74 @@
+{
+  "id": 890488803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.23333,1.58333,110.23333,1.58333",
+    "geom:latitude":1.58333,
+    "geom:longitude":110.23333,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Matang"
+    ],
+    "qs:name":"Kampung Matang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sarawak",
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":186,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735590,
+        "gp:id":1151254,
+        "qs:id":943304
+    },
+    "wof:country":"MY",
+    "wof:created":1469054733,
+    "wof:geomhash":"46d210939a28f9e3c14030a5f982e81b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":890488803,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":890488803,
+    "wof:lastmodified":1505343783,
+    "wof:name":"Kampung Matang",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.23333,
+    1.58333,
+    110.23333,
+    1.58333
+],
+  "geometry": {"coordinates":[110.23333,1.58333],"type":"Point"}
+}

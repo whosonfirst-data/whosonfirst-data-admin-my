@@ -1,0 +1,70 @@
+{
+  "id": 1343876059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5404,2.2256,102.5404,2.2256",
+    "geom:latitude":2.2256,
+    "geom:longitude":102.5404,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Serom Estate",
+    "gn:country_code":"MY",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536747,
+    "gn:latitude":2.2256,
+    "gn:longitude":102.5404,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Serom Estate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Serom Estate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536747
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bbce98ef32ddb5bf037fef787b86d7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1343876059,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1343876059,
+    "wof:lastmodified":1537674465,
+    "wof:name":"Serom Estate",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5404,
+    2.2256,
+    102.5404,
+    2.2256
+],
+  "geometry": {"coordinates":[102.54040000000001,2.2256],"type":"Point"}
+}

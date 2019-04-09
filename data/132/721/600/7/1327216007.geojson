@@ -1,0 +1,73 @@
+{
+  "id": 1327216007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1844,5.9751,116.1844,5.9751",
+    "geom:latitude":5.9751,
+    "geom:longitude":116.1844,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Ulu Kiansam",
+    "gn:country_code":"MY",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762343,
+    "gn:latitude":5.9751,
+    "gn:longitude":116.1844,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ulu Kiansam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ulu Kiansam"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ulu Kiansam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762343
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9e4407b84a87709c41b4844144800b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1327216007,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327216007,
+    "wof:lastmodified":1537673811,
+    "wof:name":"Kampung Ulu Kiansam",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1844,
+    5.9751,
+    116.1844,
+    5.9751
+],
+  "geometry": {"coordinates":[116.1844,5.9751],"type":"Point"}
+}

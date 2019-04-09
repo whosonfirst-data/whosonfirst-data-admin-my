@@ -1,0 +1,70 @@
+{
+  "id": 1276246371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7559,2.5741,102.7559,2.5741",
+    "geom:latitude":2.5741,
+    "geom:longitude":102.7559,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ladang Muar River",
+    "gn:country_code":"MY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698789,
+    "gn:latitude":2.5741,
+    "gn:longitude":102.7559,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ladang Muar River",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ladang Muar River"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698789
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1a39d1bc6c6cd3533d15d653400d651e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1276246371,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276246371,
+    "wof:lastmodified":1537674372,
+    "wof:name":"Ladang Muar River",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7559,
+    2.5741,
+    102.7559,
+    2.5741
+],
+  "geometry": {"coordinates":[102.7559,2.5741],"type":"Point"}
+}

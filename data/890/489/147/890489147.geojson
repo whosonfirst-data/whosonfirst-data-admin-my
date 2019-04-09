@@ -1,0 +1,67 @@
+{
+  "id": 890489147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.2187,6.175883,116.2187,6.175883",
+    "geom:latitude":6.175883,
+    "geom:longitude":116.2187,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tuaban",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sabah",
+    "qs:photos":75,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":75,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017334,
+        "qs:id":897506
+    },
+    "wof:country":"MY",
+    "wof:created":1469054746,
+    "wof:geomhash":"c27c70a5ec3a4208ce035aaec8d1e4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":890489147,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":890489147,
+    "wof:lastmodified":1500013600,
+    "wof:name":"Tuaban",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.2187,
+    6.175883,
+    116.2187,
+    6.175883
+],
+  "geometry": {"coordinates":[116.2187,6.175883],"type":"Point"}
+}

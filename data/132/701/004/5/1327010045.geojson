@@ -1,0 +1,73 @@
+{
+  "id": 1327010045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.174,3.4707,101.174,3.4707",
+    "geom:latitude":3.4707,
+    "geom:longitude":101.174,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Sungai Sireh",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763785,
+    "gn:latitude":3.4707,
+    "gn:longitude":101.174,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Sireh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Sireh"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Sireh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890488801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763785
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2e8e70a752fd8a3a37afbaf2627b475f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488801,
+            "locality_id":1327010045,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1327010045,
+    "wof:lastmodified":1537673877,
+    "wof:name":"Kampung Sungai Sireh",
+    "wof:parent_id":890488801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.174,
+    3.4707,
+    101.174,
+    3.4707
+],
+  "geometry": {"coordinates":[101.17400000000001,3.4707],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327455341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.91667,4.81667,100.91667,4.81667",
+    "geom:latitude":4.81667,
+    "geom:longitude":100.91667,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Kekabu Hutan",
+    "gn:country_code":"MY",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768493,
+    "gn:latitude":4.81667,
+    "gn:longitude":100.91667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Kekabu Hutan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768493
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a117a6c7cfd5ab680bf7e758631ddbba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":1327455341,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1327455341,
+    "wof:lastmodified":1536647333,
+    "wof:name":"Kampong Kekabu Hutan",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.91667,
+    4.81667,
+    100.91667,
+    4.81667
+],
+  "geometry": {"coordinates":[100.91667,4.81667],"type":"Point"}
+}

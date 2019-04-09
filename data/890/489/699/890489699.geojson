@@ -1,0 +1,67 @@
+{
+  "id": 890489699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.6315895,4.235438,100.6315895,4.235438",
+    "geom:latitude":4.235438,
+    "geom:longitude":100.63159,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Samudera Baru",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos":54,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":54,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        1108696459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56037231,
+        "qs:id":8275
+    },
+    "wof:country":"MY",
+    "wof:created":1469054766,
+    "wof:geomhash":"28c0bb2eb109495fd45416071618de72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696459,
+            "locality_id":890489699,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890489699,
+    "wof:lastmodified":1500013235,
+    "wof:name":"Taman Samudera Baru",
+    "wof:parent_id":1108696459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.6315895,
+    4.235438,
+    100.6315895,
+    4.235438
+],
+  "geometry": {"coordinates":[100.6315895,4.235438],"type":"Point"}
+}

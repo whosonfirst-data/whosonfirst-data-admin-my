@@ -1,0 +1,70 @@
+{
+  "id": 1309887913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.9631,5.7888,117.9631,5.7888",
+    "geom:latitude":5.7888,
+    "geom:longitude":117.9631,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Orang Tua",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783216,
+    "gn:latitude":5.7888,
+    "gn:longitude":117.9631,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Orang Tua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Orang Tua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        890490007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783216
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aa90c7e70f231900c7678fddf2423ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490007,
+            "locality_id":1309887913,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309887913,
+    "wof:lastmodified":1537674380,
+    "wof:name":"Orang Tua",
+    "wof:parent_id":890490007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.9631,
+    5.7888,
+    117.9631,
+    5.7888
+],
+  "geometry": {"coordinates":[117.9631,5.7888],"type":"Point"}
+}

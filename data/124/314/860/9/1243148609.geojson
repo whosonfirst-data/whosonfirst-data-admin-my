@@ -1,0 +1,70 @@
+{
+  "id": 1243148609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4526,4.4307,103.4526,4.4307",
+    "geom:latitude":4.4307,
+    "geom:longitude":103.4526,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Kuala Ibai",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7632891,
+    "gn:latitude":4.4307,
+    "gn:longitude":103.4526,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kuala Ibai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Ibai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7632891
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bc75f7fda54966f1ea7f1efd7d92c396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "locality_id":1243148609,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1243148609,
+    "wof:lastmodified":1537674339,
+    "wof:name":"Kampung Kuala Ibai",
+    "wof:parent_id":890490801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4526,
+    4.4307,
+    103.4526,
+    4.4307
+],
+  "geometry": {"coordinates":[103.4526,4.4307],"type":"Point"}
+}

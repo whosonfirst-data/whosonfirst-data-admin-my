@@ -1,0 +1,70 @@
+{
+  "id": 1327465787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9977,3.159,101.9977,3.159",
+    "geom:latitude":3.159,
+    "geom:longitude":101.9977,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Teking",
+    "gn:country_code":"MY",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7688567,
+    "gn:latitude":3.159,
+    "gn:longitude":101.9977,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Teking",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Teking"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7688567
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e95ce7049c4e11502cec29b0bb5f8725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1327465787,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1327465787,
+    "wof:lastmodified":1537674360,
+    "wof:name":"Kampung Teking",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9977,
+    3.159,
+    101.9977,
+    3.159
+],
+  "geometry": {"coordinates":[101.99769999999999,3.159],"type":"Point"}
+}

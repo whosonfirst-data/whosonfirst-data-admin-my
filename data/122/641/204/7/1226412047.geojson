@@ -1,0 +1,70 @@
+{
+  "id": 1226412047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.4961,4.965,115.4961,4.965",
+    "geom:latitude":4.965,
+    "geom:longitude":115.4961,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Paya B",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7767642,
+    "gn:latitude":4.965,
+    "gn:longitude":115.4961,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Paya B",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Paya B"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7767642
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1b11d27fbfdf0e6e8c3638cef49c3a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696519,
+            "locality_id":1226412047,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226412047,
+    "wof:lastmodified":1537674374,
+    "wof:name":"Kampung Paya B",
+    "wof:parent_id":1108696519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.4961,
+    4.965,
+    115.4961,
+    4.965
+],
+  "geometry": {"coordinates":[115.4961,4.965],"type":"Point"}
+}

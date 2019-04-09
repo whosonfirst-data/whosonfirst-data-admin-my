@@ -1,0 +1,64 @@
+{
+  "id": 1209306989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.507,3.9221,102.507,3.9221",
+    "geom:latitude":3.9221,
+    "geom:longitude":102.507,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kemajuan Tanah Kota Gelanggi Satu",
+    "gn:country_code":"MY",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536553,
+    "gn:latitude":3.9221,
+    "gn:longitude":102.507,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kemajuan Tanah Kota Gelanggi Satu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Kota Gelanggi Satu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536553
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4e285ff38ed6a33d4343a95d602f2352",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209306989
+        }
+    ],
+    "wof:id":1209306989,
+    "wof:lastmodified":1537674463,
+    "wof:name":"Kemajuan Tanah Kota Gelanggi Satu",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.507,
+    3.9221,
+    102.507,
+    3.9221
+],
+  "geometry": {"coordinates":[102.50700000000001,3.9221],"type":"Point"}
+}

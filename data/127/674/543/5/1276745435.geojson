@@ -1,0 +1,70 @@
+{
+  "id": 1276745435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4223,6.2836,116.4223,6.2836",
+    "geom:latitude":6.2836,
+    "geom:longitude":116.4223,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Kayangat",
+    "gn:country_code":"MY",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1768549,
+    "gn:latitude":6.2836,
+    "gn:longitude":116.4223,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Kayangat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:msa_x_preferred":[
+        "Kampong Kayangat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768549
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6e948247b535c5d84d68344e94725207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1276745435,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276745435,
+    "wof:lastmodified":1537674083,
+    "wof:name":"Kampong Kayangat",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4223,
+    6.2836,
+    116.4223,
+    6.2836
+],
+  "geometry": {"coordinates":[116.42230000000001,6.2836],"type":"Point"}
+}

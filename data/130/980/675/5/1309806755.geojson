@@ -1,0 +1,73 @@
+{
+  "id": 1309806755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.37364,6.32349,100.37364,6.32349",
+    "geom:latitude":6.32349,
+    "geom:longitude":100.37364,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Belukar",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770688,
+    "gn:latitude":6.32349,
+    "gn:longitude":100.37364,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Belukar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Belukar"
+    ],
+    "name:und_x_variant":[
+        "Kampong Belukar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770688
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e1dae76315369079217adf2320f6a01f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1309806755,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1309806755,
+    "wof:lastmodified":1537674171,
+    "wof:name":"Kampung Belukar",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.37364,
+    6.32349,
+    100.37364,
+    6.32349
+],
+  "geometry": {"coordinates":[100.37363999999999,6.32349],"type":"Point"}
+}

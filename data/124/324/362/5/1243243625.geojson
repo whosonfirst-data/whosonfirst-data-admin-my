@@ -1,0 +1,70 @@
+{
+  "id": 1243243625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6232,3.5672,101.6232,3.5672",
+    "geom:latitude":3.5672,
+    "geom:longitude":101.6232,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kampung Kuala Kubu Road",
+    "gn:country_code":"MY",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7794717,
+    "gn:latitude":3.5672,
+    "gn:longitude":101.6232,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kuala Kubu Road",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Kubu Road"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7794717
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"856b3fed6d9ad5e802d07a928f1df804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1243243625,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1243243625,
+    "wof:lastmodified":1537674392,
+    "wof:name":"Kampung Kuala Kubu Road",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6232,
+    3.5672,
+    101.6232,
+    3.5672
+],
+  "geometry": {"coordinates":[101.6232,3.5672],"type":"Point"}
+}

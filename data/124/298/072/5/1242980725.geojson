@@ -1,0 +1,67 @@
+{
+  "id": 1242980725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.78333,5.28333,116.78333,5.28333",
+    "geom:latitude":5.28333,
+    "geom:longitude":116.78333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kandangan",
+    "gn:country_code":"MY",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733827,
+    "gn:latitude":5.28333,
+    "gn:longitude":116.78333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kandangan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733827
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"88241409d630a9ffffac51dd3ff693a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696539,
+            "locality_id":1242980725,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1242980725,
+    "wof:lastmodified":1536979261,
+    "wof:name":"Kandangan",
+    "wof:parent_id":1108696539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.78333,
+    5.28333,
+    116.78333,
+    5.28333
+],
+  "geometry": {"coordinates":[116.78333000000001,5.28333],"type":"Point"}
+}

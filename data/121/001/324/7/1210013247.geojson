@@ -1,0 +1,70 @@
+{
+  "id": 1210013247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1519,4.7513,101.1519,4.7513",
+    "geom:latitude":4.7513,
+    "geom:longitude":101.1519,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ulu Chemor",
+    "gn:country_code":"MY",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534463,
+    "gn:latitude":4.7513,
+    "gn:longitude":101.1519,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ulu Chemor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ulu Chemor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534463
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"91e34ae53decfece61b6d3daf6ce7140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1210013247,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1210013247,
+    "wof:lastmodified":1537674459,
+    "wof:name":"Ulu Chemor",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1519,
+    4.7513,
+    101.1519,
+    4.7513
+],
+  "geometry": {"coordinates":[101.1519,4.7513],"type":"Point"}
+}

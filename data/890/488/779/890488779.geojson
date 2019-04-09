@@ -1,0 +1,78 @@
+{
+  "id": 890488779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.44713,5.34552,100.44713,5.34552",
+    "geom:latitude":5.34552,
+    "geom:longitude":100.44713,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Sri Rambai"
+    ],
+    "qs:name":"Taman Sri Rokam",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675127,
+        102191569,
+        85632739,
+        102023333,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6818856,
+        "gp:id":56037649,
+        "qs:id":343079
+    },
+    "wof:country":"MY",
+    "wof:created":1469054732,
+    "wof:geomhash":"08610c2708eb0ea80f7fdeb24f7a8a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":102023333,
+            "neighbourhood_id":890488779,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":890488779,
+    "wof:lastmodified":1505343783,
+    "wof:name":"Taman Sri Rokam",
+    "wof:parent_id":102023333,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.44713,
+    5.34552,
+    100.44713,
+    5.34552
+],
+  "geometry": {"coordinates":[100.44713,5.34552],"type":"Point"}
+}

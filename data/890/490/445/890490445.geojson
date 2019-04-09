@@ -1,0 +1,80 @@
+{
+  "id": 890490445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0542,4.5964,101.0542,4.5964",
+    "geom:latitude":4.5964,
+    "geom:longitude":101.0542,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:msa_x_preferred":[
+        "Guntong"
+    ],
+    "qs:name":"Guntung",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos":13,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":13,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        85675123,
+        102191569,
+        85632739,
+        102023021,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7612470,
+        "gp:id":56037722,
+        "qs:id":1207328,
+        "wk:page":"Setiu District"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054805,
+    "wof:geomhash":"a993fe5391e53d25fd2701abaf59780b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":102023021,
+            "neighbourhood_id":890490445,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890490445,
+    "wof:lastmodified":1527734159,
+    "wof:name":"Guntung",
+    "wof:parent_id":102023021,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0542,
+    4.5964,
+    101.0542,
+    4.5964
+],
+  "geometry": {"coordinates":[101.05419999999999,4.5964],"type":"Point"}
+}

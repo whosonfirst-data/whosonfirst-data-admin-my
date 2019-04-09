@@ -1,0 +1,70 @@
+{
+  "id": 1310075287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.7348,6.7465,116.7348,6.7465",
+    "geom:latitude":6.7465,
+    "geom:longitude":116.7348,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Pinawantai",
+    "gn:country_code":"MY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7785411,
+    "gn:latitude":6.7465,
+    "gn:longitude":116.7348,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pinawantai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pinawantai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7785411
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6350c4b8405e090e25f9ee4028566189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1310075287,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1310075287,
+    "wof:lastmodified":1537674381,
+    "wof:name":"Kampung Pinawantai",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.7348,
+    6.7465,
+    116.7348,
+    6.7465
+],
+  "geometry": {"coordinates":[116.73480000000001,6.7465],"type":"Point"}
+}

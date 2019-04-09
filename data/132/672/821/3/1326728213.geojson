@@ -1,0 +1,73 @@
+{
+  "id": 1326728213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.128,3.8838,103.128,3.8838",
+    "geom:latitude":3.8838,
+    "geom:longitude":103.128,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Sungai Batu",
+    "gn:country_code":"MY",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764127,
+    "gn:latitude":3.8838,
+    "gn:longitude":103.128,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Batu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Batu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Batu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764127
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"30b83e7ae28b959ba5c75119ffecff64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":1326728213,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1326728213,
+    "wof:lastmodified":1537673893,
+    "wof:name":"Kampung Sungai Batu",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.128,
+    3.8838,
+    103.128,
+    3.8838
+],
+  "geometry": {"coordinates":[103.128,3.8838],"type":"Point"}
+}

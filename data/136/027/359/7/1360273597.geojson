@@ -1,0 +1,72 @@
+{
+  "id": 1360273597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.0,3.9,114.0,3.9",
+    "geom:latitude":3.9,
+    "geom:longitude":114.0,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Umgon",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747462,
+    "gn:latitude":3.9,
+    "gn:longitude":114.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rumah Umgon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rumah Lutin",
+        "Rumah Umgon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747462
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cc009b89634b076e5d51b8e479350668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488483,
+            "locality_id":1360273597,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1360273597,
+    "wof:lastmodified":1537673770,
+    "wof:name":"Rumah Umgon",
+    "wof:parent_id":890488483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.0,
+    3.9,
+    114.0,
+    3.9
+],
+  "geometry": {"coordinates":[114.0,3.9],"type":"Point"}
+}

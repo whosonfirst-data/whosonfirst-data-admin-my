@@ -1,0 +1,73 @@
+{
+  "id": 1276659007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0296,6.0508,102.0296,6.0508",
+    "geom:latitude":6.0508,
+    "geom:longitude":102.0296,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Bangor",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770427,
+    "gn:latitude":6.0508,
+    "gn:longitude":102.0296,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bangor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bangor"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bongor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770427
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3981488b2efa79968cbfe394b0d37f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1276659007,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1276659007,
+    "wof:lastmodified":1537674160,
+    "wof:name":"Kampung Bangor",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0296,
+    6.0508,
+    102.0296,
+    6.0508
+],
+  "geometry": {"coordinates":[102.0296,6.0508],"type":"Point"}
+}

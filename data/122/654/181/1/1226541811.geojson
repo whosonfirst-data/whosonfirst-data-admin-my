@@ -1,0 +1,67 @@
+{
+  "id": 1226541811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4,5.8,102.4,5.8",
+    "geom:latitude":5.8,
+    "geom:longitude":102.4,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Kemal",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768411,
+    "gn:latitude":5.8,
+    "gn:longitude":102.4,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Kemal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768411
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f46873a15760fcc94d843b3e8fc69044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488991,
+            "locality_id":1226541811,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1226541811,
+    "wof:lastmodified":1537002943,
+    "wof:name":"Kampong Kemal",
+    "wof:parent_id":890488991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4,
+    5.8,
+    102.4,
+    5.8
+],
+  "geometry": {"coordinates":[102.40000000000001,5.8],"type":"Point"}
+}

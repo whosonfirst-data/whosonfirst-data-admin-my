@@ -1,0 +1,70 @@
+{
+  "id": 1309892059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2896,4.2216,103.2896,4.2216",
+    "geom:latitude":4.2216,
+    "geom:longitude":103.2896,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Lubuk Leban",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7792606,
+    "gn:latitude":4.2216,
+    "gn:longitude":103.2896,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Lubuk Leban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lubuk Leban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7792606
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"db3fd40b17c5d825dc80ed5c99486e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "locality_id":1309892059,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1309892059,
+    "wof:lastmodified":1537674387,
+    "wof:name":"Kampung Lubuk Leban",
+    "wof:parent_id":890490801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2896,
+    4.2216,
+    103.2896,
+    4.2216
+],
+  "geometry": {"coordinates":[103.28959999999999,4.2216],"type":"Point"}
+}

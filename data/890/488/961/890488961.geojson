@@ -1,0 +1,67 @@
+{
+  "id": 890488961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.61831,3.107873,101.61831,3.107873",
+    "geom:latitude":3.107873,
+    "geom:longitude":101.61831,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Seri Setia",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":383,
+    "qs:photos_1k":78,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":383,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890490605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862647,
+        "qs:id":1090096
+    },
+    "wof:country":"MY",
+    "wof:created":1469054739,
+    "wof:geomhash":"185689a9770613eb60c2865cacf064b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490605,
+            "locality_id":890488961,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890488961,
+    "wof:lastmodified":1500013480,
+    "wof:name":"Seri Setia",
+    "wof:parent_id":890490605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.61831,
+    3.107873,
+    101.61831,
+    3.107873
+],
+  "geometry": {"coordinates":[101.61830999999999,3.107873],"type":"Point"}
+}

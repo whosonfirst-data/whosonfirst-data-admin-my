@@ -1,0 +1,67 @@
+{
+  "id": 1226134397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0,4.21667,101.0,4.21667",
+    "geom:latitude":4.21667,
+    "geom:longitude":101.0,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Balun Bidai",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771207,
+    "gn:latitude":4.21667,
+    "gn:longitude":101.0,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Balun Bidai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771207
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0b1659574eefa785b37e6349ce7d5ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489811,
+            "locality_id":1226134397,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1226134397,
+    "wof:lastmodified":1537090895,
+    "wof:name":"Kampong Balun Bidai",
+    "wof:parent_id":890489811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0,
+    4.21667,
+    101.0,
+    4.21667
+],
+  "geometry": {"coordinates":[101.0,4.21667],"type":"Point"}
+}

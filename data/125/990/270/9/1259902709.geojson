@@ -1,0 +1,66 @@
+{
+  "id": 1259902709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8897,2.4213,101.8897,2.4213",
+    "geom:latitude":2.4213,
+    "geom:longitude":101.8897,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Tanjung Pelandok",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7567379,
+    "gn:latitude":2.4213,
+    "gn:longitude":101.8897,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tanjung Pelandok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Pelandok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7567379
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"84f8777ef62880e18ba667cd0777fbd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1259902709,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259902709,
+    "wof:lastmodified":1537674316,
+    "wof:name":"Kampung Tanjung Pelandok",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8897,
+    2.4213,
+    101.8897,
+    2.4213
+],
+  "geometry": {"coordinates":[101.8897,2.4213],"type":"Point"}
+}

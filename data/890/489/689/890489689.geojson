@@ -1,0 +1,67 @@
+{
+  "id": 890489689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.747933,4.857252,100.747933,4.857252",
+    "geom:latitude":4.857252,
+    "geom:longitude":100.747933,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Tasik Taiping",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos":340,
+    "qs:photos_1k":69,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":340,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56035490,
+        "qs:id":7794
+    },
+    "wof:country":"MY",
+    "wof:created":1469054766,
+    "wof:geomhash":"0200dbedacbf4d492e8e7c8d78cac1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490803,
+            "locality_id":890489689,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890489689,
+    "wof:lastmodified":1500013222,
+    "wof:name":"Taman Tasik Taiping",
+    "wof:parent_id":890490803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.747933,
+    4.857252,
+    100.747933,
+    4.857252
+],
+  "geometry": {"coordinates":[100.747933,4.857252],"type":"Point"}
+}

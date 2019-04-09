@@ -1,0 +1,70 @@
+{
+  "id": 1326927135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.2207,3.8108,101.2207,3.8108",
+    "geom:latitude":3.8108,
+    "geom:longitude":101.2207,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bukit Cowling",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793874,
+    "gn:latitude":3.8108,
+    "gn:longitude":101.2207,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bukit Cowling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bukit Cowling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793874
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"354ffeb4af66516cd50c2a66e54dec32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1326927135,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1326927135,
+    "wof:lastmodified":1537674389,
+    "wof:name":"Bukit Cowling",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.2207,
+    3.8108,
+    101.2207,
+    3.8108
+],
+  "geometry": {"coordinates":[101.22069999999999,3.8108],"type":"Point"}
+}

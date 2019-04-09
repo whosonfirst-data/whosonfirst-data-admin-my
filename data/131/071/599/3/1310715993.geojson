@@ -1,0 +1,70 @@
+{
+  "id": 1310715993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6558,2.1531,102.6558,2.1531",
+    "geom:latitude":2.1531,
+    "geom:longitude":102.6558,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ladang Tanjung Olak Baru",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7856219,
+    "gn:latitude":2.1531,
+    "gn:longitude":102.6558,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ladang Tanjung Olak Baru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ladang Tanjung Olak Baru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7856219
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"38aebef33ab3514dc73be32cce5a9b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1310715993,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1310715993,
+    "wof:lastmodified":1537674436,
+    "wof:name":"Ladang Tanjung Olak Baru",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6558,
+    2.1531,
+    102.6558,
+    2.1531
+],
+  "geometry": {"coordinates":[102.6558,2.1531],"type":"Point"}
+}

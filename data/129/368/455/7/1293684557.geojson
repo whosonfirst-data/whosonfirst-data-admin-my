@@ -1,0 +1,73 @@
+{
+  "id": 1293684557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3942,4.3642,102.3942,4.3642",
+    "geom:latitude":4.3642,
+    "geom:longitude":102.3942,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Tuit",
+    "gn:country_code":"MY",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762439,
+    "gn:latitude":4.3642,
+    "gn:longitude":102.3942,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tuit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tuit"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tuit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762439
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4440ff5c9726e09932e6980ff5cad95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1293684557,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293684557,
+    "wof:lastmodified":1537673816,
+    "wof:name":"Kampung Tuit",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3942,
+    4.3642,
+    102.3942,
+    4.3642
+],
+  "geometry": {"coordinates":[102.3942,4.3642],"type":"Point"}
+}

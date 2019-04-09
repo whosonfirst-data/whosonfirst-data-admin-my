@@ -1,0 +1,70 @@
+{
+  "id": 1260308039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5876,3.4843,102.5876,3.4843",
+    "geom:latitude":3.4843,
+    "geom:longitude":102.5876,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Bukit Bota",
+    "gn:country_code":"MY",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796226,
+    "gn:latitude":3.4843,
+    "gn:longitude":102.5876,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bukit Bota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Bota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796226
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"15b6e0b23e5286a562e11d346d5e310f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1260308039,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1260308039,
+    "wof:lastmodified":1537674402,
+    "wof:name":"Kampung Bukit Bota",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5876,
+    3.4843,
+    102.5876,
+    3.4843
+],
+  "geometry": {"coordinates":[102.58759999999999,3.4843],"type":"Point"}
+}

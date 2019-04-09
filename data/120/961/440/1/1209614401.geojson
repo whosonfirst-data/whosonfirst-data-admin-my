@@ -1,0 +1,67 @@
+{
+  "id": 1209614401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2307,2.6238,102.2307,2.6238",
+    "geom:latitude":2.6238,
+    "geom:longitude":102.2307,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Dingkir",
+    "gn:country_code":"MY",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769639,
+    "gn:latitude":2.6238,
+    "gn:longitude":102.2307,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Dingkir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Dingkir"
+    ],
+    "name:und_x_variant":[
+        "Kampong Dingkir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769639
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d73bae4815694afd37dbf766a5822ccf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209614401
+        }
+    ],
+    "wof:id":1209614401,
+    "wof:lastmodified":1537674128,
+    "wof:name":"Kampung Dingkir",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2307,
+    2.6238,
+    102.2307,
+    2.6238
+],
+  "geometry": {"coordinates":[102.2307,2.6238],"type":"Point"}
+}

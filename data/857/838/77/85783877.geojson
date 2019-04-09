@@ -1,0 +1,106 @@
+{
+  "id": 85783877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":815182.978267,
+    "geom:bbox":"101.674351035,3.1343445281,101.689453125,3.14051610398",
+    "geom:latitude":3.137773,
+    "geom:longitude":101.68219,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.138777,
+    "lbl:longitude":101.687632,
+    "mps:latitude":3.137773,
+    "mps:longitude":101.68219,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:und_x_preferred":[
+        "Federal Hill"
+    ],
+    "name:unk_x_variant":[
+        "Federal Hill"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Federal Hill",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Bandar Kuala Lumpur",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":455,
+    "qs:photo_sum":597,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56014567,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":156,
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56015156,
+        "qs:id":1291226,
+        "qs_pg:id":1291226
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5d0858cf1f2754cc93025879adcaabd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85783877,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85783877,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269521,
+    "wof:name":"Federal Hill",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.67435103496649,
+    3.13434452810425,
+    101.68945312500011,
+    3.14051610398002
+],
+  "geometry": {"coordinates":[[[101.68945312500006,3.14051610398002],[101.68945312500011,3.13982945680695],[101.68945312500011,3.13846028860209],[101.68945312500006,3.13777364323006],[101.68807983400012,3.13777364323006],[101.68807983400012,3.13640240986898],[101.68704935182524,3.13640240988764],[101.68670654300007,3.13640241015],[101.68533325200013,3.13640241015],[101.68533325200013,3.13503117527004],[101.68499044276535,3.13503117527004],[101.684862145686,3.13464570687071],[101.6839599610002,3.13434452810425],[101.6832743410003,3.13503117527004],[101.67984626522178,3.13503117527004],[101.67984008800011,3.13502911310725],[101.67983803071849,3.13503117377435],[101.67846679700006,3.13503117411089],[101.67572021500013,3.13503117437263],[101.67435103496649,3.13640240565289],[101.67572021533806,3.13777364244207],[101.67754852463332,3.13960469615775],[101.678466797,3.1391448700053],[101.678466797,3.14051610398002],[101.6839599610002,3.14051610293153],[101.68670654300018,3.14051610278169],[101.68876751053546,3.14051610323121],[101.68945312500006,3.14051610398002]]],"type":"Polygon"}
+}

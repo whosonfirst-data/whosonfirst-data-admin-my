@@ -1,0 +1,72 @@
+{
+  "id": 1310710529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.46667,6.08333,100.46667,6.08333",
+    "geom:latitude":6.08333,
+    "geom:longitude":100.46667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Titi Haji Idris",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762627,
+    "gn:latitude":6.08333,
+    "gn:longitude":100.46667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Titi Haji Idris",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Titi",
+        "Kampong Titi Haji Idris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762627
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f8db6a90472d15700c1156ddbeba6175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1310710529,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310710529,
+    "wof:lastmodified":1537673823,
+    "wof:name":"Kampong Titi Haji Idris",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.46667,
+    6.08333,
+    100.46667,
+    6.08333
+],
+  "geometry": {"coordinates":[100.46666999999999,6.08333],"type":"Point"}
+}

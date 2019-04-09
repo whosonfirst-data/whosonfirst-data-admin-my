@@ -1,0 +1,123 @@
+{
+  "id": 102023789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000295,
+    "geom:area_square_m":3630801.738085,
+    "geom:bbox":"100.302429199,5.44922486828,100.326415147,5.4705726053",
+    "geom:latitude":5.458404,
+    "geom:longitude":100.31282,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":24071,
+    "gn:latitude":5.46061,
+    "gn:longitude":100.30742,
+    "gn:population":24071,
+    "iso:country":"MY",
+    "lbl:latitude":5.457698,
+    "lbl:longitude":100.311639,
+    "mps:latitude":5.457698,
+    "mps:longitude":100.311639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4e39\u5bb9\u9053\u5149"
+    ],
+    "name:dut_x_preferred":[
+        "Tanjung Tokong"
+    ],
+    "name:eng_x_preferred":[
+        "Tanjung Tokong"
+    ],
+    "name:may_x_preferred":[
+        "Tanjung Tokong"
+    ],
+    "name:msa_x_preferred":[
+        "Tanjung Tokong"
+    ],
+    "name:unk_x_variant":[
+        "Tanjong Tokong"
+    ],
+    "qs:a0":"Malaysia",
+    "qs:a1":"*Pulau Pinang",
+    "qs:a1r":"*",
+    "qs:a2":"Timur Laut",
+    "qs:id":0,
+    "qs:la":"Bandar Tanjung Tokong",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tanjung Tokong",
+    "qs:loc_alt":"Tanjung Tokong",
+    "qs:loc_lc":"1741550",
+    "qs:pop":0,
+    "qs:source":"Squattroshapes",
+    "qs:type":"Town",
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1741550,
+    "qs_pg:gn_pop":24071,
+    "qs_pg:name":"Tanjung Tokong",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Pulau Pinang",
+    "qs_pg:photos":212,
+    "qs_pg:photos_1k":43,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1067,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":136174,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1154312,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":44,
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1741550,
+        "gp:id":1154312,
+        "qs:id":136174,
+        "qs_pg:id":136174,
+        "wd:id":"Q7683443",
+        "wk:page":"Tanjung Tokong"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"67e9a448e520c2f6ce0db4499cc9a35b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102023789,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102023789,
+    "wof:lastmodified":1534379384,
+    "wof:name":"Tanjung Tokong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":24071,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126013073
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.302429199,
+    5.44922486828,
+    100.32641514748777,
+    5.47057260529768
+],
+  "geometry": {"coordinates":[[[100.3129088822556,5.47048713996801],[100.31341552700015,5.46977459614264],[100.3161621090001,5.46701546354123],[100.3161621090001,5.46289556021003],[100.32165527300005,5.46289556021003],[100.32436440379034,5.46289556020994],[100.32641514748777,5.46220885689627],[100.32165527300013,5.45742731459754],[100.32165527300005,5.45195903158998],[100.31616210900002,5.45195903158998],[100.31616210900002,5.44922486828],[100.31341552700006,5.44922486828],[100.31066894499999,5.44922486828],[100.30792236300003,5.44922486828],[100.30517578100007,5.44922486828],[100.30517578100007,5.45059195149001],[100.30380249000002,5.45059195149001],[100.30380249000002,5.45195903158998],[100.302429199,5.45195903158998],[100.302429199,5.45332610857004],[100.302429199,5.45469318243997],[100.30380249000002,5.45469318243997],[100.30380249025013,5.4560602528],[100.3044891360001,5.45675002296835],[100.3044891360001,5.45949663644768],[100.3044891360001,5.46084496965996],[100.30518510584015,5.46154411257739],[100.30680880054338,5.46426261147502],[100.30753532429237,5.46517490871571],[100.30859967702641,5.46838253631257],[100.30948512836081,5.47016152305743],[100.30948646630672,5.47015706827821],[100.31030081646345,5.47040267539418],[100.3120619262818,5.47057260529768],[100.3129088822556,5.47048713996801]]],"type":"Polygon"}
+}

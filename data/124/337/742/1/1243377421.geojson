@@ -1,0 +1,70 @@
+{
+  "id": 1243377421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7423,2.231,102.7423,2.231",
+    "geom:latitude":2.231,
+    "geom:longitude":102.7423,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bukit Rahmat",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798385,
+    "gn:latitude":2.231,
+    "gn:longitude":102.7423,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bukit Rahmat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bukit Rahmat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798385
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fa173006d7b0b93148a3193f0550dcc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1243377421,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1243377421,
+    "wof:lastmodified":1537674431,
+    "wof:name":"Bukit Rahmat",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7423,
+    2.231,
+    102.7423,
+    2.231
+],
+  "geometry": {"coordinates":[102.7423,2.231],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209087439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.5627,2.30466,112.5627,2.30466",
+    "geom:latitude":2.30466,
+    "geom:longitude":112.5627,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rumah Nyalang",
+    "gn:country_code":"MY",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8431313,
+    "gn:latitude":2.30466,
+    "gn:longitude":112.5627,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Rumah Nyalang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Rumah Nyalang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8431313
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"67e353e66b7c06d6d5bd2259807f2f05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209087439
+        }
+    ],
+    "wof:id":1209087439,
+    "wof:lastmodified":1537674456,
+    "wof:name":"Rumah Nyalang",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.5627,
+    2.30466,
+    112.5627,
+    2.30466
+],
+  "geometry": {"coordinates":[112.56270000000001,2.30466],"type":"Point"}
+}

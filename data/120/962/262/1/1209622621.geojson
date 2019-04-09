@@ -1,0 +1,64 @@
+{
+  "id": 1209622621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8812,5.6175,101.8812,5.6175",
+    "geom:latitude":5.6175,
+    "geom:longitude":101.8812,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Chegar Bedil",
+    "gn:country_code":"MY",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068162,
+    "gn:latitude":5.6175,
+    "gn:longitude":101.8812,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Chegar Bedil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Chegar Bedil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068162
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9273f2f88ef80ed86de19ca467fe1879",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209622621
+        }
+    ],
+    "wof:id":1209622621,
+    "wof:lastmodified":1537674278,
+    "wof:name":"Kampung Chegar Bedil",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8812,
+    5.6175,
+    101.8812,
+    5.6175
+],
+  "geometry": {"coordinates":[101.88120000000001,5.6175],"type":"Point"}
+}

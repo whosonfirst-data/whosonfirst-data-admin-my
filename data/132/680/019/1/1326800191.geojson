@@ -1,0 +1,73 @@
+{
+  "id": 1326800191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.9233,5.2933,116.9233,5.2933",
+    "geom:latitude":5.2933,
+    "geom:longitude":116.9233,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tagiar",
+    "gn:country_code":"MY",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763667,
+    "gn:latitude":5.2933,
+    "gn:longitude":116.9233,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tagiar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tagiar"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tagiar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763667
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8d694afc410cac6d8f6873d6e25b5015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696539,
+            "locality_id":1326800191,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1326800191,
+    "wof:lastmodified":1537673871,
+    "wof:name":"Kampung Tagiar",
+    "wof:parent_id":1108696539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.9233,
+    5.2933,
+    116.9233,
+    5.2933
+],
+  "geometry": {"coordinates":[116.9233,5.2933],"type":"Point"}
+}

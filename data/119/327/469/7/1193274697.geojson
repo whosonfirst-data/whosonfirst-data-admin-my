@@ -1,0 +1,70 @@
+{
+  "id": 1193274697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7479,2.6479,101.7479,2.6479",
+    "geom:latitude":2.6479,
+    "geom:longitude":101.7479,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Bahru Cina",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698005,
+    "gn:latitude":2.6479,
+    "gn:longitude":101.7479,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bahru Cina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bahru Cina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698005
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"19074472115c49f0f831e3c2d9fbfd3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490331,
+            "locality_id":1193274697,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1193274697,
+    "wof:lastmodified":1537674369,
+    "wof:name":"Kampung Bahru Cina",
+    "wof:parent_id":890490331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7479,
+    2.6479,
+    101.7479,
+    2.6479
+],
+  "geometry": {"coordinates":[101.7479,2.6479],"type":"Point"}
+}

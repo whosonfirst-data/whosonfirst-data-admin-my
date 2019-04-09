@@ -1,0 +1,67 @@
+{
+  "id": 890488949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.101799,5.911799,116.101799,5.911799",
+    "geom:latitude":5.911799,
+    "geom:longitude":116.101799,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Donggugon Square",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sabah",
+    "qs:photos":67,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":67,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56015149,
+        "qs:id":987017
+    },
+    "wof:country":"MY",
+    "wof:created":1469054738,
+    "wof:geomhash":"d84eeec20148d9922598ee2d569ea892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":890488949,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":890488949,
+    "wof:lastmodified":1500013597,
+    "wof:name":"Donggugon Square",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.101799,
+    5.911799,
+    116.101799,
+    5.911799
+],
+  "geometry": {"coordinates":[116.101799,5.911799],"type":"Point"}
+}

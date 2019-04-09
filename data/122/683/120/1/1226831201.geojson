@@ -1,0 +1,72 @@
+{
+  "id": 1226831201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.8855,4.3083,117.8855,4.3083",
+    "geom:latitude":4.3083,
+    "geom:longitude":117.8855,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Jambatan Puteh",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768948,
+    "gn:latitude":4.3083,
+    "gn:longitude":117.8855,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Jambatan Puteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Jambutan Puteh",
+        "Kampong Jambatan Puteh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768948
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"deec29d582fb9c01ff793d6ed165aa57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696533,
+            "locality_id":1226831201,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226831201,
+    "wof:lastmodified":1537674101,
+    "wof:name":"Kampong Jambatan Puteh",
+    "wof:parent_id":1108696533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.8855,
+    4.3083,
+    117.8855,
+    4.3083
+],
+  "geometry": {"coordinates":[117.88549999999999,4.3083],"type":"Point"}
+}

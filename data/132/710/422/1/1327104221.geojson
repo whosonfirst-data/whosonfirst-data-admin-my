@@ -1,0 +1,70 @@
+{
+  "id": 1327104221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.59936,5.96759,116.59936,5.96759",
+    "geom:latitude":5.96759,
+    "geom:longitude":116.59936,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Pinousok",
+    "gn:country_code":"MY",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7771801,
+    "gn:latitude":5.96759,
+    "gn:longitude":116.59936,
+    "gn:modification_date":"2017-12-01",
+    "gn:name":"Kampung Pinousok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pinousok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771801
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a5d27ea850b0b5e1136a52fc429ff561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":1327104221,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327104221,
+    "wof:lastmodified":1537674378,
+    "wof:name":"Kampung Pinousok",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.59936,
+    5.96759,
+    116.59936,
+    5.96759
+],
+  "geometry": {"coordinates":[116.59936,5.96759],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360280841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.38385,3.39571,102.38385,3.39571",
+    "geom:latitude":3.39571,
+    "geom:longitude":102.38385,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Paya Kundang",
+    "gn:country_code":"MY",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765903,
+    "gn:latitude":3.39571,
+    "gn:longitude":102.38385,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Paya Kundang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Paya Kundang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765903
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"200cee86a81e48e8432b6d6d043abbe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1360280841,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1360280841,
+    "wof:lastmodified":1537673974,
+    "wof:name":"Kampung Paya Kundang",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.38385,
+    3.39571,
+    102.38385,
+    3.39571
+],
+  "geometry": {"coordinates":[102.38385,3.39571],"type":"Point"}
+}

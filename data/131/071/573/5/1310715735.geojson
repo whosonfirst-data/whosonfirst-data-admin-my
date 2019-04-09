@@ -1,0 +1,70 @@
+{
+  "id": 1310715735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8233,1.5981,103.8233,1.5981",
+    "geom:latitude":1.5981,
+    "geom:longitude":103.8233,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Tiram Baru",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7619723,
+    "gn:latitude":1.5981,
+    "gn:longitude":103.8233,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Tiram Baru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Tiram Baru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619723
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8dff77f5452bf96ff31b6ec269aef860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1310715735,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1310715735,
+    "wof:lastmodified":1537674334,
+    "wof:name":"Taman Tiram Baru",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8233,
+    1.5981,
+    103.8233,
+    1.5981
+],
+  "geometry": {"coordinates":[103.8233,1.5981],"type":"Point"}
+}

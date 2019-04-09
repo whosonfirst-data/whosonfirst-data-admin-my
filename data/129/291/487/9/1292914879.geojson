@@ -1,0 +1,70 @@
+{
+  "id": 1292914879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9289,5.82727,101.9289,5.82727",
+    "geom:latitude":5.82727,
+    "geom:longitude":101.9289,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Batu Besar",
+    "gn:country_code":"MY",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068018,
+    "gn:latitude":5.82727,
+    "gn:longitude":101.9289,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Batu Besar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Besar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068018
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3b6bfd0462cd80c72f78b32e908d6f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490497,
+            "locality_id":1292914879,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1292914879,
+    "wof:lastmodified":1537674276,
+    "wof:name":"Kampung Batu Besar",
+    "wof:parent_id":890490497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9289,
+    5.82727,
+    101.9289,
+    5.82727
+],
+  "geometry": {"coordinates":[101.9289,5.82727],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276140885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.42876,5.25822,100.42876,5.25822",
+    "geom:latitude":5.25822,
+    "geom:longitude":100.42876,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Batu Kawan",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1780777,
+    "gn:latitude":5.25822,
+    "gn:longitude":100.42876,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Batu Kawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1780777,
+        "wk:page":"Batu_Kawan"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5eedebe50c86442753a85ae323405066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1276140885,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1276140885,
+    "wof:lastmodified":1537569890,
+    "wof:name":"Batu Kawan",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.42876,
+    5.25822,
+    100.42876,
+    5.25822
+],
+  "geometry": {"coordinates":[100.42876,5.25822],"type":"Point"}
+}

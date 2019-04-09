@@ -1,0 +1,70 @@
+{
+  "id": 1309898469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0392,3.4367,103.0392,3.4367",
+    "geom:latitude":3.4367,
+    "geom:longitude":103.0392,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Belukar Nangka",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796355,
+    "gn:latitude":3.4367,
+    "gn:longitude":103.0392,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Belukar Nangka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Belukar Nangka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796355
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c436ed0d81dfd8adb078db84644e7c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1309898469,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1309898469,
+    "wof:lastmodified":1537674404,
+    "wof:name":"Kampung Belukar Nangka",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0392,
+    3.4367,
+    103.0392,
+    3.4367
+],
+  "geometry": {"coordinates":[103.03919999999999,3.4367],"type":"Point"}
+}

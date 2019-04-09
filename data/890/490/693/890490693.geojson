@@ -1,0 +1,74 @@
+{
+  "id": 890490693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3137,2.8174,102.3137,2.8174",
+    "geom:latitude":2.8174,
+    "geom:longitude":102.3137,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Anggerik"
+    ],
+    "qs:name":"Taman Bukit Anggerik",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675155,
+        102191569,
+        85632739,
+        102023203,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796778,
+        "gp:id":56015910,
+        "qs:id":208190
+    },
+    "wof:country":"MY",
+    "wof:created":1469054820,
+    "wof:geomhash":"58c16004797ad71a95f6a7939a0d1c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":102023203,
+            "neighbourhood_id":890490693,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":890490693,
+    "wof:lastmodified":1505343789,
+    "wof:name":"Taman Bukit Anggerik",
+    "wof:parent_id":102023203,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3137,
+    2.8174,
+    102.3137,
+    2.8174
+],
+  "geometry": {"coordinates":[102.3137,2.8174],"type":"Point"}
+}

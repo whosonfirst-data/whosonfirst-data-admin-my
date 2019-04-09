@@ -1,0 +1,71 @@
+{
+  "id": 1293764771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.34574,1.06559,110.34574,1.06559",
+    "geom:latitude":1.06559,
+    "geom:longitude":110.34574,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Sejijak",
+    "gn:country_code":"MY",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764365,
+    "gn:latitude":1.06559,
+    "gn:longitude":110.34574,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampong Sejijak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Sijijak",
+        "Kampung Sejijak Mawang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764365
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fe929e35b540a78ecf8775e07e39a5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696511,
+            "locality_id":1293764771,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1293764771,
+    "wof:lastmodified":1537673905,
+    "wof:name":"Kampong Sejijak",
+    "wof:parent_id":1108696511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.34574,
+    1.06559,
+    110.34574,
+    1.06559
+],
+  "geometry": {"coordinates":[110.34574000000001,1.06559],"type":"Point"}
+}

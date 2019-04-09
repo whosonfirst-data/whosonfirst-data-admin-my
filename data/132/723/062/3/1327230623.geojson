@@ -1,0 +1,70 @@
+{
+  "id": 1327230623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4833,2.6428,102.4833,2.6428",
+    "geom:latitude":2.6428,
+    "geom:longitude":102.4833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kemajuan Tanah Jelai Satu, Dua, Tiga, Empat",
+    "gn:country_code":"MY",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698153,
+    "gn:latitude":2.6428,
+    "gn:longitude":102.4833,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Kemajuan Tanah Jelai Satu, Dua, Tiga, Empat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Jelai Satu, Dua, Tiga, Empat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        1108696529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698153
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"48a879d84fecad581526a1f7a55ee0f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696529,
+            "locality_id":1327230623,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1327230623,
+    "wof:lastmodified":1537674370,
+    "wof:name":"Kemajuan Tanah Jelai Satu, Dua, Tiga, Empat",
+    "wof:parent_id":1108696529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4833,
+    2.6428,
+    102.4833,
+    2.6428
+],
+  "geometry": {"coordinates":[102.4833,2.6428],"type":"Point"}
+}

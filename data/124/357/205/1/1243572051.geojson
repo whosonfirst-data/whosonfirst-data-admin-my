@@ -1,0 +1,64 @@
+{
+  "id": 1243572051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.26083,1.46962,103.26083,1.46962",
+    "geom:latitude":1.46962,
+    "geom:longitude":103.26083,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pulau Pisang",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8307889,
+    "gn:latitude":1.46962,
+    "gn:longitude":103.26083,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Pulau Pisang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:msa_x_preferred":[
+        "Pulau Pisang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307889
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3454537c3d86bd7913ef6a9eb9bf19e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243572051,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243572051,
+    "wof:lastmodified":1537556843,
+    "wof:name":"Pulau Pisang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.26083,
+    1.46962,
+    103.26083,
+    1.46962
+],
+  "geometry": {"coordinates":[103.26083,1.46962],"type":"Point"}
+}

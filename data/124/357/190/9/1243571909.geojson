@@ -1,0 +1,73 @@
+{
+  "id": 1243571909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9053,1.7888,102.9053,1.7888",
+    "geom:latitude":1.7888,
+    "geom:longitude":102.9053,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Teluk Buloh",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763078,
+    "gn:latitude":1.7888,
+    "gn:longitude":102.9053,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Teluk Buloh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Teluk Buloh"
+    ],
+    "name:und_x_variant":[
+        "Kampong Telok Buloh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763078
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"89bb019782cf28204e6d8c466c51685c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1243571909,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1243571909,
+    "wof:lastmodified":1537673843,
+    "wof:name":"Kampung Teluk Buloh",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9053,
+    1.7888,
+    102.9053,
+    1.7888
+],
+  "geometry": {"coordinates":[102.9053,1.7888],"type":"Point"}
+}

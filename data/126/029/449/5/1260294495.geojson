@@ -1,0 +1,70 @@
+{
+  "id": 1260294495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.0777,1.7486,104.0777,1.7486",
+    "geom:latitude":1.7486,
+    "geom:longitude":104.0777,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kemajuan Tanah Bukit Easter",
+    "gn:country_code":"MY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857579,
+    "gn:latitude":1.7486,
+    "gn:longitude":104.0777,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Bukit Easter",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Bukit Easter"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857579
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0f36d0b3ffd6a5a0b2582c898ef1aa8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":1260294495,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1260294495,
+    "wof:lastmodified":1537674445,
+    "wof:name":"Kemajuan Tanah Bukit Easter",
+    "wof:parent_id":890491003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.0777,
+    1.7486,
+    104.0777,
+    1.7486
+],
+  "geometry": {"coordinates":[104.07769999999999,1.7486],"type":"Point"}
+}

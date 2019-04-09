@@ -1,0 +1,70 @@
+{
+  "id": 1310498903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9023,4.0264,101.9023,4.0264",
+    "geom:latitude":4.0264,
+    "geom:longitude":101.9023,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Temalir",
+    "gn:country_code":"MY",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638903,
+    "gn:latitude":4.0264,
+    "gn:longitude":101.9023,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Temalir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Temalir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638903
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9c07c66e3f072a5fb2ef89c0b51f17ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1310498903,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1310498903,
+    "wof:lastmodified":1537674344,
+    "wof:name":"Kampung Temalir",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9023,
+    4.0264,
+    101.9023,
+    4.0264
+],
+  "geometry": {"coordinates":[101.9023,4.0264],"type":"Point"}
+}

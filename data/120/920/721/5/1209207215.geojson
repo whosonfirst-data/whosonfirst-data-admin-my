@@ -1,0 +1,64 @@
+{
+  "id": 1209207215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3938,3.4059,102.3938,3.4059",
+    "geom:latitude":3.4059,
+    "geom:longitude":102.3938,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Baharu Belengu",
+    "gn:country_code":"MY",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796056,
+    "gn:latitude":3.4059,
+    "gn:longitude":102.3938,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Baharu Belengu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Belengu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796056
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c567079efdc5e108e3b35421e646433c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209207215
+        }
+    ],
+    "wof:id":1209207215,
+    "wof:lastmodified":1537674400,
+    "wof:name":"Kampung Baharu Belengu",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3938,
+    3.4059,
+    102.3938,
+    3.4059
+],
+  "geometry": {"coordinates":[102.3938,3.4059],"type":"Point"}
+}

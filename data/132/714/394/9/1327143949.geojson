@@ -1,0 +1,74 @@
+{
+  "id": 1327143949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.068,2.425,103.068,2.425",
+    "geom:latitude":2.425,
+    "geom:longitude":103.068,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Temayor",
+    "gn:country_code":"MY",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762941,
+    "gn:latitude":2.425,
+    "gn:longitude":103.068,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Temayor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Temayor"
+    ],
+    "name:und_x_variant":[
+        "Kampong Temayu",
+        "Kampong Temayor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762941
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ae446423653296c0e0f52494b3d445a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1327143949,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1327143949,
+    "wof:lastmodified":1537673837,
+    "wof:name":"Kampung Temayor",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.068,
+    2.425,
+    103.068,
+    2.425
+],
+  "geometry": {"coordinates":[103.068,2.425],"type":"Point"}
+}

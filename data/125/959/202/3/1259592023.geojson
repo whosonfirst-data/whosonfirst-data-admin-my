@@ -1,0 +1,78 @@
+{
+  "id": 1259592023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.54861,5.17397,100.54861,5.17397",
+    "geom:latitude":5.17397,
+    "geom:longitude":100.54861,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Sungai Kecil Hilir",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1742758,
+    "gn:latitude":5.17397,
+    "gn:longitude":100.54861,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Kecil Hilir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Sungai Hilir Kechil"
+    ],
+    "name:msa_x_variant":[
+        "Kampung Sungai Kecil Hilir"
+    ],
+    "name:und_x_variant":[
+        "Kampung Sungai Kechil Hilir",
+        "Sungai Kechil Ilin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1742758
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b8acd65f15e2cd103e1db89d269ff1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490371,
+            "locality_id":1259592023,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1259592023,
+    "wof:lastmodified":1537673762,
+    "wof:name":"Kampung Sungai Kecil Hilir",
+    "wof:parent_id":890490371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.54861,
+    5.17397,
+    100.54861,
+    5.17397
+],
+  "geometry": {"coordinates":[100.54861,5.17397],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209412729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.33333,3.8,103.33333,3.8",
+    "geom:latitude":3.8,
+    "geom:longitude":103.33333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Telok Baharu",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735237,
+    "gn:latitude":3.8,
+    "gn:longitude":103.33333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Telok Baharu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735237
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fa320cbb6a6f73a36352ef458b391655",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209412729
+        }
+    ],
+    "wof:id":1209412729,
+    "wof:lastmodified":1536287786,
+    "wof:name":"Telok Baharu",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.33333,
+    3.8,
+    103.33333,
+    3.8
+],
+  "geometry": {"coordinates":[103.33333,3.8],"type":"Point"}
+}

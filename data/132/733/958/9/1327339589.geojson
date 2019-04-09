@@ -1,0 +1,73 @@
+{
+  "id": 1327339589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4525,2.1294,102.4525,2.1294",
+    "geom:latitude":2.1294,
+    "geom:longitude":102.4525,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Ayer Tawar",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771459,
+    "gn:latitude":2.1294,
+    "gn:longitude":102.4525,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ayer Tawar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ayer Tawar"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ayer Tawar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771459
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e4f4c11b6312a14ac65999a24da9e1b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489809,
+            "locality_id":1327339589,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1327339589,
+    "wof:lastmodified":1537674203,
+    "wof:name":"Kampung Ayer Tawar",
+    "wof:parent_id":890489809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4525,
+    2.1294,
+    102.4525,
+    2.1294
+],
+  "geometry": {"coordinates":[102.4525,2.1294],"type":"Point"}
+}

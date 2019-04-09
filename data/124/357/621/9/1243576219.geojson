@@ -1,0 +1,70 @@
+{
+  "id": 1243576219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.37011,3.20188,103.37011,3.20188",
+    "geom:latitude":3.20188,
+    "geom:longitude":103.37011,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Mempelam",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766924,
+    "gn:latitude":3.20188,
+    "gn:longitude":103.37011,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Mempelam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Mempelam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766924
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3c8f5e08365dd0e73ce653acac43975c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1243576219,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1243576219,
+    "wof:lastmodified":1537674015,
+    "wof:name":"Kampung Mempelam",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.37011,
+    3.20188,
+    103.37011,
+    3.20188
+],
+  "geometry": {"coordinates":[103.37011,3.20188],"type":"Point"}
+}

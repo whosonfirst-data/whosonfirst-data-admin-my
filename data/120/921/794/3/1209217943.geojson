@@ -1,0 +1,61 @@
+{
+  "id": 1209217943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.45,6.3,100.45,6.3",
+    "geom:latitude":6.3,
+    "geom:longitude":100.45,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Pina",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765453,
+    "gn:latitude":6.3,
+    "gn:longitude":100.45,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Pina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765453
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"469a4083b22482f78b6e77254c83dd46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209217943
+        }
+    ],
+    "wof:id":1209217943,
+    "wof:lastmodified":1536294065,
+    "wof:name":"Kampong Pina",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.45,
+    6.3,
+    100.45,
+    6.3
+],
+  "geometry": {"coordinates":[100.45,6.3],"type":"Point"}
+}

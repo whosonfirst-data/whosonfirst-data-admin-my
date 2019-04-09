@@ -1,0 +1,73 @@
+{
+  "id": 1260253961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.46712,5.71764,102.46712,5.71764",
+    "geom:latitude":5.71764,
+    "geom:longitude":102.46712,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Padang Tapang",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068021,
+    "gn:latitude":5.71764,
+    "gn:longitude":102.46712,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Padang Tapang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Padang Tapang"
+    ],
+    "name:und_x_variant":[
+        "Kampung Padang Tapung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068021
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"df55210a584653bac4703c0330bc4483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "locality_id":1260253961,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1260253961,
+    "wof:lastmodified":1537674276,
+    "wof:name":"Kampung Padang Tapang",
+    "wof:parent_id":890488399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.46712,
+    5.71764,
+    102.46712,
+    5.71764
+],
+  "geometry": {"coordinates":[102.46711999999999,5.71764],"type":"Point"}
+}

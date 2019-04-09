@@ -1,0 +1,70 @@
+{
+  "id": 1326812431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.5048,5.5093,115.5048,5.5093",
+    "geom:latitude":5.5093,
+    "geom:longitude":115.5048,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Wangkang",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536147,
+    "gn:latitude":5.5093,
+    "gn:longitude":115.5048,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Wangkang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Wangkang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        890490799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536147
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cd48f130bc69007d6f471256a69c4367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490799,
+            "locality_id":1326812431,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1326812431,
+    "wof:lastmodified":1537674462,
+    "wof:name":"Kampung Wangkang",
+    "wof:parent_id":890490799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.5048,
+    5.5093,
+    115.5048,
+    5.5093
+],
+  "geometry": {"coordinates":[115.5048,5.5093],"type":"Point"}
+}

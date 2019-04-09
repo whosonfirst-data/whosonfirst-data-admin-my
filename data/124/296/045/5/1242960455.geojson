@@ -1,0 +1,74 @@
+{
+  "id": 1242960455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.61963,2.80209,101.61963,2.80209",
+    "geom:latitude":2.80209,
+    "geom:longitude":101.61963,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Labohan Dagang",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767716,
+    "gn:latitude":2.80209,
+    "gn:longitude":101.61963,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Kampung Labohan Dagang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Labohan Dagang"
+    ],
+    "name:und_x_variant":[
+        "Labohan Dagang",
+        "Kampong Labohan Dagang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767716
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e715a1d15cb38ec61beecfffbca0d267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696427,
+            "locality_id":1242960455,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1242960455,
+    "wof:lastmodified":1537674049,
+    "wof:name":"Kampung Labohan Dagang",
+    "wof:parent_id":1108696427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.61963,
+    2.80209,
+    101.61963,
+    2.80209
+],
+  "geometry": {"coordinates":[101.61963,2.80209],"type":"Point"}
+}

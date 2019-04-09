@@ -1,0 +1,74 @@
+{
+  "id": 1226138791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.49832,5.40013,100.49832,5.40013",
+    "geom:latitude":5.40013,
+    "geom:longitude":100.49832,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Mengkuang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766901,
+    "gn:latitude":5.40013,
+    "gn:longitude":100.49832,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Mengkuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mengkuang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Mengkuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766901
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8d6414023936abeea65a7677fb5ea002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1226138791,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1226138791,
+    "wof:lastmodified":1537674014,
+    "wof:name":"Kampung Mengkuang",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49832,
+    5.40013,
+    100.49832,
+    5.40013
+],
+  "geometry": {"coordinates":[100.49832000000001,5.40013],"type":"Point"}
+}

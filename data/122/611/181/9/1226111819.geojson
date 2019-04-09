@@ -1,0 +1,64 @@
+{
+  "id": 1226111819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.8452,6.8476,116.8452,6.8476",
+    "geom:latitude":6.8476,
+    "geom:longitude":116.8452,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Timbul",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7603946,
+    "gn:latitude":6.8476,
+    "gn:longitude":116.8452,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Timbul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Timbul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7603946
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d1e17d99bd2f011f307e5679a0aa866b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226111819,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226111819,
+    "wof:lastmodified":1537674324,
+    "wof:name":"Kampung Timbul",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.8452,
+    6.8476,
+    116.8452,
+    6.8476
+],
+  "geometry": {"coordinates":[116.84520000000001,6.8476],"type":"Point"}
+}

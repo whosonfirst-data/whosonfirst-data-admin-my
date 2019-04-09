@@ -1,0 +1,74 @@
+{
+  "id": 1293073581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.472,5.8118,116.472,5.8118",
+    "geom:latitude":5.8118,
+    "geom:longitude":116.472,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tenop",
+    "gn:country_code":"MY",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762789,
+    "gn:latitude":5.8118,
+    "gn:longitude":116.472,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tenop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tenop"
+    ],
+    "name:und_x_variant":[
+        "Tenop",
+        "Kampong Tenop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762789
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0f7773c67b5e51f3b27952a71456a94f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696525,
+            "locality_id":1293073581,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293073581,
+    "wof:lastmodified":1537673830,
+    "wof:name":"Kampung Tenop",
+    "wof:parent_id":1108696525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.472,
+    5.8118,
+    116.472,
+    5.8118
+],
+  "geometry": {"coordinates":[116.47199999999999,5.8118],"type":"Point"}
+}

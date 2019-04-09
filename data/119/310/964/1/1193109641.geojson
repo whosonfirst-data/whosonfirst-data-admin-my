@@ -1,0 +1,73 @@
+{
+  "id": 1193109641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1646,6.06,116.1646,6.06",
+    "geom:latitude":6.06,
+    "geom:longitude":116.1646,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Bendolan",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770626,
+    "gn:latitude":6.06,
+    "gn:longitude":116.1646,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bendolan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bendolan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bendolan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770626
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"24c89b097569df5daa40f8a760757ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1193109641,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1193109641,
+    "wof:lastmodified":1537674169,
+    "wof:name":"Kampung Bendolan",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1646,
+    6.06,
+    116.1646,
+    6.06
+],
+  "geometry": {"coordinates":[116.16459999999999,6.06],"type":"Point"}
+}

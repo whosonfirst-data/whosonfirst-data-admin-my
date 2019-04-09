@@ -1,0 +1,67 @@
+{
+  "id": 1209988879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5,4.48333,116.5,4.48333",
+    "geom:latitude":4.48333,
+    "geom:longitude":116.5,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Sondokon",
+    "gn:country_code":"MY",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1743159,
+    "gn:latitude":4.48333,
+    "gn:longitude":116.5,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Sondokon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1743159
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ed56e1cb1cc1c96bfc54c245d6530756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696483,
+            "locality_id":1209988879,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1209988879,
+    "wof:lastmodified":1536387336,
+    "wof:name":"Sondokon",
+    "wof:parent_id":1108696483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5,
+    4.48333,
+    116.5,
+    4.48333
+],
+  "geometry": {"coordinates":[116.5,4.48333],"type":"Point"}
+}

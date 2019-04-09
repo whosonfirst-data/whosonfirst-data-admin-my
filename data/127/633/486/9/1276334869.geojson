@@ -1,0 +1,70 @@
+{
+  "id": 1276334869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1959,2.2534,102.1959,2.2534",
+    "geom:latitude":2.2534,
+    "geom:longitude":102.1959,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Taman Tanjung Minyak",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797913,
+    "gn:latitude":2.2534,
+    "gn:longitude":102.1959,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Tanjung Minyak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Tanjung Minyak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797913
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4fc765dc1c28970cbc6373adc8084369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":1276334869,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1276334869,
+    "wof:lastmodified":1537674425,
+    "wof:name":"Taman Tanjung Minyak",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1959,
+    2.2534,
+    102.1959,
+    2.2534
+],
+  "geometry": {"coordinates":[102.19589999999999,2.2534],"type":"Point"}
+}

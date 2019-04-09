@@ -1,0 +1,70 @@
+{
+  "id": 1310209801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9058,2.9152,101.9058,2.9152",
+    "geom:latitude":2.9152,
+    "geom:longitude":101.9058,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Tarun",
+    "gn:country_code":"MY",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796517,
+    "gn:latitude":2.9152,
+    "gn:longitude":101.9058,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tarun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tarun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796517
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"23316d019967c78f02c911200bc543db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1310209801,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1310209801,
+    "wof:lastmodified":1537674406,
+    "wof:name":"Kampung Tarun",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9058,
+    2.9152,
+    101.9058,
+    2.9152
+],
+  "geometry": {"coordinates":[101.9058,2.9152],"type":"Point"}
+}

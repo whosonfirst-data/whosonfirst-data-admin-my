@@ -1,0 +1,70 @@
+{
+  "id": 1276232795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5052,2.6942,102.5052,2.6942",
+    "geom:latitude":2.6942,
+    "geom:longitude":102.5052,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Danau Pauh",
+    "gn:country_code":"MY",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698138,
+    "gn:latitude":2.6942,
+    "gn:longitude":102.5052,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Danau Pauh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Danau Pauh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698138
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b2850f28151c3b30e2739873704810ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1276232795,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1276232795,
+    "wof:lastmodified":1537674370,
+    "wof:name":"Kampung Danau Pauh",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5052,
+    2.6942,
+    102.5052,
+    2.6942
+],
+  "geometry": {"coordinates":[102.5052,2.6942],"type":"Point"}
+}

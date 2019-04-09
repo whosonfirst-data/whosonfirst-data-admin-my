@@ -1,0 +1,70 @@
+{
+  "id": 1242967667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0786,4.0588,101.0786,4.0588",
+    "geom:latitude":4.0588,
+    "geom:longitude":101.0786,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Permatang",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793811,
+    "gn:latitude":4.0588,
+    "gn:longitude":101.0786,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Permatang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Permatang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793811
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"82ebe7046c494383d6de2b9784ccc15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1242967667,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1242967667,
+    "wof:lastmodified":1537674388,
+    "wof:name":"Kampung Permatang",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0786,
+    4.0588,
+    101.0786,
+    4.0588
+],
+  "geometry": {"coordinates":[101.07859999999999,4.0588],"type":"Point"}
+}

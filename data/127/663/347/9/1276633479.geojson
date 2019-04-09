@@ -1,0 +1,70 @@
+{
+  "id": 1276633479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.87828,1.65617,109.87828,1.65617",
+    "geom:latitude":1.65617,
+    "geom:longitude":109.87828,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Klaoh",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768478,
+    "gn:latitude":1.65617,
+    "gn:longitude":109.87828,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampong Klaoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Kelaoh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768478
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"22a9b9dab18f46e5bfd04f4a37f48f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696453,
+            "locality_id":1276633479,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1276633479,
+    "wof:lastmodified":1537674080,
+    "wof:name":"Kampong Klaoh",
+    "wof:parent_id":1108696453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.87828,
+    1.65617,
+    109.87828,
+    1.65617
+],
+  "geometry": {"coordinates":[109.87828,1.65617],"type":"Point"}
+}

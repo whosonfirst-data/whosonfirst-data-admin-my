@@ -1,0 +1,67 @@
+{
+  "id": 1225842069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.16667,6.41667,100.16667,6.41667",
+    "geom:latitude":6.41667,
+    "geom:longitude":100.16667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Kayang",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736173,
+    "gn:latitude":6.41667,
+    "gn:longitude":100.16667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampung Kayang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736173
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"06e8d9be78cd8e4229f3989cf32880f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1225842069,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1225842069,
+    "wof:lastmodified":1537018249,
+    "wof:name":"Kampung Kayang",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.16667,
+    6.41667,
+    100.16667,
+    6.41667
+],
+  "geometry": {"coordinates":[100.16667,6.41667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 890490923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.31353,5.36966,100.31353,5.36966",
+    "geom:latitude":5.36966,
+    "geom:longitude":100.31353,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Glugur"
+    ],
+    "name:unk_x_variant":[
+        "Glugor"
+    ],
+    "qs:name":"Kampong Sungai Gelugor",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:photos":23,
+    "qs:photos_1k":5,
+    "qs:photos_9k":15,
+    "qs:photos_9r":11,
+    "qs:photos_all":3451,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764027,
+        "gp:id":1149014,
+        "qs:id":1187770
+    },
+    "wof:country":"MY",
+    "wof:created":1469054832,
+    "wof:geomhash":"f59901caa1ee0664df085c0a3fbc8a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696537,
+            "locality_id":890490923,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":890490923,
+    "wof:lastmodified":1505343790,
+    "wof:name":"Kampong Sungai Gelugor",
+    "wof:parent_id":1108696537,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.31353,
+    5.36966,
+    100.31353,
+    5.36966
+],
+  "geometry": {"coordinates":[100.31353,5.36966],"type":"Point"}
+}

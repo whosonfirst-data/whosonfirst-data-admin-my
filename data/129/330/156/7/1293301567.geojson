@@ -1,0 +1,70 @@
+{
+  "id": 1293301567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.67565,6.1789,100.67565,6.1789",
+    "geom:latitude":6.1789,
+    "geom:longitude":100.67565,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Tandor Pak Mayu",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6853523,
+    "gn:latitude":6.1789,
+    "gn:longitude":100.67565,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Tandor Pak Mayu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tandor Pak Mayu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6853523
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"76c079d3f3e989510384d2926cf9b2ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696471,
+            "locality_id":1293301567,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1293301567,
+    "wof:lastmodified":1537674259,
+    "wof:name":"Kampung Tandor Pak Mayu",
+    "wof:parent_id":1108696471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.67565,
+    6.1789,
+    100.67565,
+    6.1789
+],
+  "geometry": {"coordinates":[100.67565,6.1789],"type":"Point"}
+}

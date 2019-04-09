@@ -1,0 +1,72 @@
+{
+  "id": 890488817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0806,4.8107,101.0806,4.8107",
+    "geom:latitude":4.8107,
+    "geom:longitude":101.0806,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Heawood"
+    ],
+    "qs:name":"Taman Heawood",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473250,
+        "gp:id":56117470,
+        "qs:id":368454
+    },
+    "wof:country":"MY",
+    "wof:created":1469054733,
+    "wof:geomhash":"2fa6d390696294882c587e67b435345e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":890488817,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890488817,
+    "wof:lastmodified":1505343783,
+    "wof:name":"Taman Heawood",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0806,
+    4.8107,
+    101.0806,
+    4.8107
+],
+  "geometry": {"coordinates":[101.0806,4.8107],"type":"Point"}
+}

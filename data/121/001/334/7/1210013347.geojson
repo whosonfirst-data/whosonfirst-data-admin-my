@@ -1,0 +1,74 @@
+{
+  "id": 1210013347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.68226,5.22935,100.68226,5.22935",
+    "geom:latitude":5.22935,
+    "geom:longitude":100.68226,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Gudang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769135,
+    "gn:latitude":5.22935,
+    "gn:longitude":100.68226,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Gudang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gudang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Gudang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769135
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"240c774671f747e642730c73cc9c3f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490371,
+            "locality_id":1210013347,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1210013347,
+    "wof:lastmodified":1537674108,
+    "wof:name":"Kampung Gudang",
+    "wof:parent_id":890490371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.68226,
+    5.22935,
+    100.68226,
+    5.22935
+],
+  "geometry": {"coordinates":[100.68226,5.22935],"type":"Point"}
+}

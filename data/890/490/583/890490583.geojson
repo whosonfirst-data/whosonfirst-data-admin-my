@@ -1,0 +1,76 @@
+{
+  "id": 890490583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.0599,6.0047,116.0599,6.0047",
+    "geom:latitude":6.0047,
+    "geom:longitude":116.0599,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gaya"
+    ],
+    "qs:name":"Kampong Gaya",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sabah",
+    "qs:photos":757,
+    "qs:photos_1k":153,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":757,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769424,
+        "gp:id":1143602,
+        "qs:id":188359
+    },
+    "wof:country":"MY",
+    "wof:created":1469054816,
+    "wof:geomhash":"a9ebb64a215dbc611ef12969364affc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":890490583,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":890490583,
+    "wof:lastmodified":1505343789,
+    "wof:name":"Kampong Gaya",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.0599,
+    6.0047,
+    116.0599,
+    6.0047
+],
+  "geometry": {"coordinates":[116.0599,6.0047],"type":"Point"}
+}

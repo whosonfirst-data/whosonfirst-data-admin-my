@@ -1,0 +1,70 @@
+{
+  "id": 1243348895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.1902,6.38,100.1902,6.38",
+    "geom:latitude":6.38,
+    "geom:longitude":100.1902,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Behor Lalang",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819184,
+    "gn:latitude":6.38,
+    "gn:longitude":100.1902,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Behor Lalang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Behor Lalang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819184
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bfbafb7c9abb9bf0127f3111f9e4b287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1243348895,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1243348895,
+    "wof:lastmodified":1537674247,
+    "wof:name":"Kampung Behor Lalang",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.1902,
+    6.38,
+    100.1902,
+    6.38
+],
+  "geometry": {"coordinates":[100.1902,6.38],"type":"Point"}
+}

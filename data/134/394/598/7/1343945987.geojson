@@ -1,0 +1,67 @@
+{
+  "id": 1343945987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.5,1.43333,110.5,1.43333",
+    "geom:latitude":1.43333,
+    "geom:longitude":110.5,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Empila",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769520,
+    "gn:latitude":1.43333,
+    "gn:longitude":110.5,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Empila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769520
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a5b08a0ba802d07d08bb1b8798aa7329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696499,
+            "locality_id":1343945987,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1343945987,
+    "wof:lastmodified":1537039251,
+    "wof:name":"Kampong Empila",
+    "wof:parent_id":1108696499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.5,
+    1.43333,
+    110.5,
+    1.43333
+],
+  "geometry": {"coordinates":[110.5,1.43333],"type":"Point"}
+}

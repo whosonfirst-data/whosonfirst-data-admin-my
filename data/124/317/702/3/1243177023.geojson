@@ -1,0 +1,70 @@
+{
+  "id": 1243177023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2578,2.572,102.2578,2.572",
+    "geom:latitude":2.572,
+    "geom:longitude":102.2578,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Renggoh",
+    "gn:country_code":"MY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797494,
+    "gn:latitude":2.572,
+    "gn:longitude":102.2578,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Renggoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Renggoh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797494
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bf1bf17643081eb8052e9ebd303ac380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1243177023,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1243177023,
+    "wof:lastmodified":1537674420,
+    "wof:name":"Renggoh",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2578,
+    2.572,
+    102.2578,
+    2.572
+],
+  "geometry": {"coordinates":[102.2578,2.572],"type":"Point"}
+}

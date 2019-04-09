@@ -1,0 +1,61 @@
+{
+  "id": 1344271981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.55,5.13333,115.55,5.13333",
+    "geom:latitude":5.13333,
+    "geom:longitude":115.55,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Napas",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734243,
+    "gn:latitude":5.13333,
+    "gn:longitude":115.55,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Napas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734243
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"327bdbe66f4b354b6d90de931856a6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344271981,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344271981,
+    "wof:lastmodified":1537064560,
+    "wof:name":"Napas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.55,
+    5.13333,
+    115.55,
+    5.13333
+],
+  "geometry": {"coordinates":[115.55,5.13333],"type":"Point"}
+}

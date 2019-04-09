@@ -1,0 +1,81 @@
+{
+  "id": 890490841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1627,2.3863,102.1627,2.3863",
+    "geom:latitude":2.3863,
+    "geom:longitude":102.1627,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Padang Lalang"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Padang Lalang"
+    ],
+    "qs:name":"Taman Padang Balang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:photos":136,
+    "qs:photos_1k":28,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":136,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675151,
+        102191569,
+        85632739,
+        102023061,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766493,
+        "gp:id":56035376,
+        "qs:id":228071
+    },
+    "wof:country":"MY",
+    "wof:created":1469054828,
+    "wof:geomhash":"6b2ba585f1dfe642f0adc7a66fdf94f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":102023061,
+            "neighbourhood_id":890490841,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":890490841,
+    "wof:lastmodified":1505343790,
+    "wof:name":"Taman Padang Balang",
+    "wof:parent_id":102023061,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1627,
+    2.3863,
+    102.1627,
+    2.3863
+],
+  "geometry": {"coordinates":[102.1627,2.3863],"type":"Point"}
+}

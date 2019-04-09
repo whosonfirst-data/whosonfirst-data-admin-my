@@ -1,0 +1,68 @@
+{
+  "id": 1209885763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.86667,5.21667,117.86667,5.21667",
+    "geom:latitude":5.21667,
+    "geom:longitude":117.86667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Buttock Batu",
+    "gn:country_code":"MY",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1777751,
+    "gn:latitude":5.21667,
+    "gn:longitude":117.86667,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Buttock Batu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1777751,
+        "wk:page":"Buttock_Batu"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"42d9f5b098bf515a3a95280f9acf1133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696413,
+            "locality_id":1209885763,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1209885763,
+    "wof:lastmodified":1537569890,
+    "wof:name":"Buttock Batu",
+    "wof:parent_id":1108696413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.86667,
+    5.21667,
+    117.86667,
+    5.21667
+],
+  "geometry": {"coordinates":[117.86667,5.21667],"type":"Point"}
+}

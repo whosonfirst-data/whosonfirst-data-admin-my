@@ -1,0 +1,105 @@
+{
+  "id": 85784281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":184865.375485,
+    "geom:bbox":"101.622506737,3.14325855574,101.628677246,3.14703096982",
+    "geom:latitude":3.144957,
+    "geom:longitude":101.625264,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.14463,
+    "lbl:longitude":101.624908,
+    "mps:latitude":3.145028,
+    "mps:longitude":101.625264,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:und_x_preferred":[
+        "Taman Rimba"
+    ],
+    "name:unk_x_variant":[
+        "Taman Rimba"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Taman Rimba",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Kuala Lumpur",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":3,
+    "qs:photo_sum":3,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56013690,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56035017,
+        "qs:id":482540,
+        "qs_pg:id":482540
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2944f1ae96fa6355286ba4abe5427e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85784281,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85784281,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269404,
+    "wof:name":"Taman Rimba",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.62250673711645,
+    3.14325855573762,
+    101.62867724637226,
+    3.14703096981607
+],
+  "geometry": {"coordinates":[[[101.62867724637226,3.14565767341867],[101.62628173800005,3.14325855648866],[101.623535156,3.14325855652962],[101.62307670417738,3.14325855573762],[101.62250673711645,3.14497103097479],[101.62353515625568,3.14600100333384],[101.62456357150921,3.14703096981607],[101.62764880856952,3.14600100388992],[101.62867724637226,3.14565767341867]]],"type":"Polygon"}
+}

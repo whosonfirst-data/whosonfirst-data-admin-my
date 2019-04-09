@@ -1,0 +1,64 @@
+{
+  "id": 1209497311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1891,5.3483,116.1891,5.3483",
+    "geom:latitude":5.3483,
+    "geom:longitude":116.1891,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Toboh Laut",
+    "gn:country_code":"MY",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7588818,
+    "gn:latitude":5.3483,
+    "gn:longitude":116.1891,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Toboh Laut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Toboh Laut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7588818
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a98f48e25f5b7bd2a51da4cbed9f7bca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209497311
+        }
+    ],
+    "wof:id":1209497311,
+    "wof:lastmodified":1537674322,
+    "wof:name":"Kampung Toboh Laut",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1891,
+    5.3483,
+    116.1891,
+    5.3483
+],
+  "geometry": {"coordinates":[116.1891,5.3483],"type":"Point"}
+}

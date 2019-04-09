@@ -1,0 +1,73 @@
+{
+  "id": 1293765875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1126,5.8179,116.1126,5.8179",
+    "geom:latitude":5.8179,
+    "geom:longitude":116.1126,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Himpangno Ulu",
+    "gn:country_code":"MY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769057,
+    "gn:latitude":5.8179,
+    "gn:longitude":116.1126,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Himpangno Ulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Himpangno Ulu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Himpangno Ulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769057
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4bd717e6d4e8e08c15419b0df8b1611e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1293765875,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293765875,
+    "wof:lastmodified":1537674105,
+    "wof:name":"Kampung Himpangno Ulu",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1126,
+    5.8179,
+    116.1126,
+    5.8179
+],
+  "geometry": {"coordinates":[116.1126,5.8179],"type":"Point"}
+}

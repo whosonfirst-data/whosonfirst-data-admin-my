@@ -1,0 +1,68 @@
+{
+  "id": 1327002549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.1,5.55,118.1,5.55",
+    "geom:latitude":5.55,
+    "geom:longitude":118.1,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gomantong Caves",
+    "gn:country_code":"MY",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734069,
+    "gn:latitude":5.55,
+    "gn:longitude":118.1,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Gomantong Caves",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        890490007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734069,
+        "wk:page":"Gomantong_Caves"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ec26933415856e1bbfc1380ae9861ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490007,
+            "locality_id":1327002549,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327002549,
+    "wof:lastmodified":1537569835,
+    "wof:name":"Gomantong Caves",
+    "wof:parent_id":890490007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.1,
+    5.55,
+    118.1,
+    5.55
+],
+  "geometry": {"coordinates":[118.09999999999999,5.55],"type":"Point"}
+}

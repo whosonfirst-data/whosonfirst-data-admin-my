@@ -1,0 +1,70 @@
+{
+  "id": 1293905721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.17781,3.48169,102.17781,3.48169",
+    "geom:latitude":3.48169,
+    "geom:longitude":102.17781,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lanehang",
+    "gn:country_code":"MY",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8432940,
+    "gn:latitude":3.48169,
+    "gn:longitude":102.17781,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Lanehang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Lanehang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8432940
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ef344a8f0dc62acdf4bab51afbf3f8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1293905721,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293905721,
+    "wof:lastmodified":1537674459,
+    "wof:name":"Lanehang",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.17781,
+    3.48169,
+    102.17781,
+    3.48169
+],
+  "geometry": {"coordinates":[102.17780999999999,3.48169],"type":"Point"}
+}

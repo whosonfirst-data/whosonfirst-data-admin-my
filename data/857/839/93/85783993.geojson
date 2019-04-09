@@ -1,0 +1,107 @@
+{
+  "id": 85783993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5251116.705947,
+    "geom:bbox":"101.601613,3.116425,101.601613,3.116425",
+    "geom:latitude":3.116425,
+    "geom:longitude":101.601613,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.116425,
+    "lbl:longitude":101.601613,
+    "mps:latitude":3.118576,
+    "mps:longitude":101.599718,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:und_x_preferred":[
+        "Pusat Perdagangan Sungai Mas"
+    ],
+    "name:unk_x_variant":[
+        "Pusat Perdagangan Sungai Mas"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735158,
+    "qs:gn_namadm1":"12",
+    "qs:local_max":2115,
+    "qs:local_sum":11887,
+    "qs:localhoods":21,
+    "qs:name":"Pusat Perdagangan Sungai Mas",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:name_adm2":"Petaling",
+    "qs:name_lau":"Sungai Buloh",
+    "qs:name_local":"Petaling Jaya",
+    "qs:photo_max":47,
+    "qs:photo_sum":344,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":27,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346306,
+    "qs:woe_adm2":56013632,
+    "qs:woe_lau":56013919,
+    "qs:woe_local":1155026,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023395,
+        890490605,
+        85675163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56015678,
+        "qs:id":115550,
+        "qs_pg:id":115550
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"65f5ab5a3bb720cf1da8c49e4493e36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490605,
+            "locality_id":102023395,
+            "neighbourhood_id":85783993,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":85783993,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860568,
+    "wof:name":"Pusat Perdagangan Sungai Mas",
+    "wof:parent_id":102023395,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.601613,
+    3.116425,
+    101.601613,
+    3.116425
+],
+  "geometry": {"coordinates":[101.601613,3.116425],"type":"Point"}
+}

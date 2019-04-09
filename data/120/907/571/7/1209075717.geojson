@@ -1,0 +1,61 @@
+{
+  "id": 1209075717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.63069,4.24631,118.63069,4.24631",
+    "geom:latitude":4.24631,
+    "geom:longitude":118.63069,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mabul",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7536133,
+    "gn:latitude":4.24631,
+    "gn:longitude":118.63069,
+    "gn:modification_date":"2010-10-06",
+    "gn:name":"Mabul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7536133
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0568cc8ea973b2f2debdb7504be65d26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209075717
+        }
+    ],
+    "wof:id":1209075717,
+    "wof:lastmodified":1536298500,
+    "wof:name":"Mabul",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.63069,
+    4.24631,
+    118.63069,
+    4.24631
+],
+  "geometry": {"coordinates":[118.63069,4.24631],"type":"Point"}
+}

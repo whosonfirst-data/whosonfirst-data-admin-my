@@ -1,0 +1,70 @@
+{
+  "id": 1310702105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1183,2.4528,102.1183,2.4528",
+    "geom:latitude":2.4528,
+    "geom:longitude":102.1183,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Sungai Siput Hulu",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797369,
+    "gn:latitude":2.4528,
+    "gn:longitude":102.1183,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sungai Siput Hulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Siput Hulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797369
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d3d52c203a88a0d61a14af3d677ea83d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1310702105,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1310702105,
+    "wof:lastmodified":1537674418,
+    "wof:name":"Kampung Sungai Siput Hulu",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1183,
+    2.4528,
+    102.1183,
+    2.4528
+],
+  "geometry": {"coordinates":[102.1183,2.4528],"type":"Point"}
+}

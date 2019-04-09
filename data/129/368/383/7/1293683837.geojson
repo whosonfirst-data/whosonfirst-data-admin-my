@@ -1,0 +1,70 @@
+{
+  "id": 1293683837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7151,4.3317,100.7151,4.3317",
+    "geom:latitude":4.3317,
+    "geom:longitude":100.7151,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rumah Pekerja Ladang Ulu Ayer Tawar",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535212,
+    "gn:latitude":4.3317,
+    "gn:longitude":100.7151,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Rumah Pekerja Ladang Ulu Ayer Tawar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Rumah Pekerja Ladang Ulu Ayer Tawar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        1108696459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535212
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a8d2e1441e0c4e8a54ae918aea26bbff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696459,
+            "locality_id":1293683837,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1293683837,
+    "wof:lastmodified":1537674460,
+    "wof:name":"Rumah Pekerja Ladang Ulu Ayer Tawar",
+    "wof:parent_id":1108696459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7151,
+    4.3317,
+    100.7151,
+    4.3317
+],
+  "geometry": {"coordinates":[100.71510000000001,4.3317],"type":"Point"}
+}

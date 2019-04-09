@@ -1,0 +1,70 @@
+{
+  "id": 1326702775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.7677,5.3332,115.7677,5.3332",
+    "geom:latitude":5.3332,
+    "geom:longitude":115.7677,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Binonok",
+    "gn:country_code":"MY",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418726,
+    "gn:latitude":5.3332,
+    "gn:longitude":115.7677,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Binonok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Binonok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418726
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2fb8e1ab5f4948fe2bf813d4666e6938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696385,
+            "locality_id":1326702775,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1326702775,
+    "wof:lastmodified":1537674288,
+    "wof:name":"Kampung Binonok",
+    "wof:parent_id":1108696385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.7677,
+    5.3332,
+    115.7677,
+    5.3332
+],
+  "geometry": {"coordinates":[115.7677,5.3332],"type":"Point"}
+}

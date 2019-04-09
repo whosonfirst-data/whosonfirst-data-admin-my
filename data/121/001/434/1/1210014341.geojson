@@ -1,0 +1,74 @@
+{
+  "id": 1210014341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8703,3.7786,101.8703,3.7786",
+    "geom:latitude":3.7786,
+    "geom:longitude":101.8703,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Sempalit Hulu",
+    "gn:country_code":"MY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764606,
+    "gn:latitude":3.7786,
+    "gn:longitude":101.8703,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sempalit Hulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sempalit Hulu"
+    ],
+    "name:und_x_variant":[
+        "Sempalit Ulu",
+        "Kampong Sempalit Ulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764606
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"53addc687710e2290fe1e542adc989af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1210014341,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1210014341,
+    "wof:lastmodified":1537673917,
+    "wof:name":"Kampung Sempalit Hulu",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8703,
+    3.7786,
+    101.8703,
+    3.7786
+],
+  "geometry": {"coordinates":[101.8703,3.7786],"type":"Point"}
+}

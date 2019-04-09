@@ -1,0 +1,70 @@
+{
+  "id": 890488373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.269325,3.943549,102.269325,3.943549",
+    "geom:latitude":3.943549,
+    "geom:longitude":102.269325,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kuala Tembeling",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos":51,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56015531,
+        "qs:id":1211123,
+        "wd:id":"Q6441062",
+        "wk:page":"Kuala Tembeling"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054717,
+    "wof:geomhash":"13432dd70a97e5a42654ef1044c73075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":890488373,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":890488373,
+    "wof:lastmodified":1527787082,
+    "wof:name":"Kuala Tembeling",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.269325,
+    3.943549,
+    102.269325,
+    3.943549
+],
+  "geometry": {"coordinates":[102.26932499999999,3.943549],"type":"Point"}
+}

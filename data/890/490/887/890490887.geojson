@@ -1,0 +1,69 @@
+{
+  "id": 890490887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.018908,4.7619845,115.018908,4.7619845",
+    "geom:latitude":4.761984,
+    "geom:longitude":115.018908,
+    "gp:adm0":23424773,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Bangar",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Temburong",
+    "qs:photos":58,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":127,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049550,
+        "qs:id":233906,
+        "wd:id":"Q4855101",
+        "wk:page":"Bangar"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054831,
+    "wof:geomhash":"62a98b59474cf988d209d15e524b1926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490887,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":890490887,
+    "wof:lastmodified":1527732952,
+    "wof:name":"Bangar",
+    "wof:parent_id":85675177,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.018908,
+    4.7619845,
+    115.018908,
+    4.7619845
+],
+  "geometry": {"coordinates":[115.018908,4.7619845],"type":"Point"}
+}

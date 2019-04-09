@@ -1,0 +1,67 @@
+{
+  "id": 1276665233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.25,6.01667,102.25,6.01667",
+    "geom:latitude":6.01667,
+    "geom:longitude":102.25,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Tukai",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762436,
+    "gn:latitude":6.01667,
+    "gn:longitude":102.25,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Tukai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762436
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9a5e6e9ed2deaadb1d30d613fcef4570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489783,
+            "locality_id":1276665233,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1276665233,
+    "wof:lastmodified":1536829999,
+    "wof:name":"Kampong Tukai",
+    "wof:parent_id":890489783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.25,
+    6.01667,
+    102.25,
+    6.01667
+],
+  "geometry": {"coordinates":[102.25,6.01667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242682523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3663,2.5827,102.3663,2.5827",
+    "geom:latitude":2.5827,
+    "geom:longitude":102.3663,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Hulu Rokan",
+    "gn:country_code":"MY",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535637,
+    "gn:latitude":2.5827,
+    "gn:longitude":102.3663,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Hulu Rokan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Hulu Rokan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        1108696529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535637
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ad35d98d2459d336a1075e4f8e290c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696529,
+            "locality_id":1242682523,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1242682523,
+    "wof:lastmodified":1537674461,
+    "wof:name":"Kampung Hulu Rokan",
+    "wof:parent_id":1108696529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3663,
+    2.5827,
+    102.3663,
+    2.5827
+],
+  "geometry": {"coordinates":[102.3663,2.5827],"type":"Point"}
+}

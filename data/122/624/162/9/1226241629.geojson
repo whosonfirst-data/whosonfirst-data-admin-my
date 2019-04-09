@@ -1,0 +1,70 @@
+{
+  "id": 1226241629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2388,3.0251,102.2388,3.0251",
+    "geom:latitude":3.0251,
+    "geom:longitude":102.2388,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Putra",
+    "gn:country_code":"MY",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7691800,
+    "gn:latitude":3.0251,
+    "gn:longitude":102.2388,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Putra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Putra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7691800
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"091edc3c4e2091a4e313199c7106e218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1226241629,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1226241629,
+    "wof:lastmodified":1537674363,
+    "wof:name":"Kampung Putra",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2388,
+    3.0251,
+    102.2388,
+    3.0251
+],
+  "geometry": {"coordinates":[102.2388,3.0251],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276669565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.14126,6.03021,102.14126,6.03021",
+    "geom:latitude":6.03021,
+    "geom:longitude":102.14126,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Lemal",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":7068135,
+    "gn:latitude":6.03021,
+    "gn:longitude":102.14126,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Lemal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lemal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068135
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"10f97bb3e20e7e6ce17661417c4233bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1276669565,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1276669565,
+    "wof:lastmodified":1537674278,
+    "wof:name":"Kampung Lemal",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.14126,
+    6.03021,
+    102.14126,
+    6.03021
+],
+  "geometry": {"coordinates":[102.14126,6.03021],"type":"Point"}
+}

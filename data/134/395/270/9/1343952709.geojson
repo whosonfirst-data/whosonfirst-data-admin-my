@@ -1,0 +1,71 @@
+{
+  "id": 1343952709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.51074,5.00503,100.51074,5.00503",
+    "geom:latitude":5.00503,
+    "geom:longitude":100.51074,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Teluk Pulai",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6873052,
+    "gn:latitude":5.00503,
+    "gn:longitude":100.51074,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Teluk Pulai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Teluk Pulai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6873052
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dbc5e5467b3f8e24a945bc4f66c5ca03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489801,
+            "locality_id":1343952709,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1343952709,
+    "wof:lastmodified":1537674270,
+    "wof:name":"Kampung Teluk Pulai",
+    "wof:parent_id":890489801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51074,
+    5.00503,
+    100.51074,
+    5.00503
+],
+  "geometry": {"coordinates":[100.51074,5.00503],"type":"Point"}
+}

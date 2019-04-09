@@ -1,0 +1,70 @@
+{
+  "id": 890490871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.757606,2.6865,101.757606,2.6865",
+    "geom:latitude":2.6865,
+    "geom:longitude":101.757606,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Sepang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Negeri Sembilan",
+    "qs:photos":170,
+    "qs:photos_1k":34,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":170,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":755,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1155104,
+        "qs:id":231747,
+        "wd:id":"Q911008",
+        "wk:page":"Sepang District"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054829,
+    "wof:geomhash":"f7928033f396ff4e625b0e2ed4c5a163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490331,
+            "locality_id":890490871,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":890490871,
+    "wof:lastmodified":1527734158,
+    "wof:name":"Sepang",
+    "wof:parent_id":890490331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.757606,
+    2.6865,
+    101.757606,
+    2.6865
+],
+  "geometry": {"coordinates":[101.757606,2.6865],"type":"Point"}
+}

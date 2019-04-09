@@ -1,0 +1,68 @@
+{
+  "id": 1209628111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.74581,5.4111,100.74581,5.4111",
+    "geom:latitude":5.4111,
+    "geom:longitude":100.74581,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Hulu Sedim",
+    "gn:country_code":"MY",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762308,
+    "gn:latitude":5.4111,
+    "gn:longitude":100.74581,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Hulu Sedim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ulu Sedim"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ulu Sedim",
+        "Kampung Hulu Sedim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762308
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2a4c9ccc4538cbccb0da0093ebb26e64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209628111
+        }
+    ],
+    "wof:id":1209628111,
+    "wof:lastmodified":1537673809,
+    "wof:name":"Kampung Hulu Sedim",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.74581,
+    5.4111,
+    100.74581,
+    5.4111
+],
+  "geometry": {"coordinates":[100.74581000000001,5.4111],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209082601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.71907,5.91814,102.71907,5.91814",
+    "geom:latitude":5.91814,
+    "geom:longitude":102.71907,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Pasir Panjang",
+    "gn:country_code":"MY",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766025,
+    "gn:latitude":5.91814,
+    "gn:longitude":102.71907,
+    "gn:modification_date":"2016-10-25",
+    "gn:name":"Kampung Pasir Panjang",
+    "gn:population":250,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Long Beach (Small Perhentian Island)"
+    ],
+    "name:msa_x_preferred":[
+        "Kampung Pasir Panjang"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0445\u0435\u043d\u0442\u0438\u0430\u043d\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766025
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7f504da7e62117077634692bc7428770",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209082601
+        }
+    ],
+    "wof:id":1209082601,
+    "wof:lastmodified":1537673979,
+    "wof:name":"Kampung Pasir Panjang",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.71907,
+    5.91814,
+    102.71907,
+    5.91814
+],
+  "geometry": {"coordinates":[102.71907,5.91814],"type":"Point"}
+}

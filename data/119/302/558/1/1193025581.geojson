@@ -1,0 +1,70 @@
+{
+  "id": 1193025581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8463,2.2734,102.8463,2.2734",
+    "geom:latitude":2.2734,
+    "geom:longitude":102.8463,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Tulang Gajah",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798371,
+    "gn:latitude":2.2734,
+    "gn:longitude":102.8463,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tulang Gajah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tulang Gajah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798371
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ef20160dac650f71cc3f8a2f23ef8fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1193025581,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1193025581,
+    "wof:lastmodified":1537674430,
+    "wof:name":"Kampung Tulang Gajah",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8463,
+    2.2734,
+    102.8463,
+    2.2734
+],
+  "geometry": {"coordinates":[102.8463,2.2734],"type":"Point"}
+}

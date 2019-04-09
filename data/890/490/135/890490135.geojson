@@ -1,0 +1,89 @@
+{
+  "id": 890490135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.39547,5.97256,100.39547,5.97256",
+    "geom:latitude":5.97256,
+    "geom:longitude":100.39547,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kota Sarang Semut"
+    ],
+    "name:eng_x_preferred":[
+        "Kota Sarang Semut"
+    ],
+    "name:epo_x_preferred":[
+        "Kota Sarang Semut"
+    ],
+    "name:may_x_preferred":[
+        "Kota Sarang Semut"
+    ],
+    "name:msa_x_preferred":[
+        "Kota Sarang Semut"
+    ],
+    "qs:name":"Kota Sarang Semut",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kedah",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":208,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807198,
+        "gp:id":1151789,
+        "qs:id":1166433,
+        "wd:id":"Q6433816",
+        "wk:page":"Kota Sarang Semut"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054790,
+    "wof:geomhash":"312593520f8d1da572b79eb47b5e6d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489701,
+            "locality_id":890490135,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":890490135,
+    "wof:lastmodified":1527732951,
+    "wof:name":"Kota Sarang Semut",
+    "wof:parent_id":890489701,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.39547,
+    5.97256,
+    100.39547,
+    5.97256
+],
+  "geometry": {"coordinates":[100.39547,5.97256],"type":"Point"}
+}

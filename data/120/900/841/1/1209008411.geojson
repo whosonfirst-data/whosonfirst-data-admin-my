@@ -1,0 +1,64 @@
+{
+  "id": 1209008411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3428,1.7076,103.3428,1.7076",
+    "geom:latitude":1.7076,
+    "geom:longitude":103.3428,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kawasan Penempatan Parit Selangor",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7620498,
+    "gn:latitude":1.7076,
+    "gn:longitude":103.3428,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Kawasan Penempatan Parit Selangor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kawasan Penempatan Parit Selangor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7620498
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b78ab6f1441b8f07aeb913235d5e1ee3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209008411
+        }
+    ],
+    "wof:id":1209008411,
+    "wof:lastmodified":1537674337,
+    "wof:name":"Kawasan Penempatan Parit Selangor",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3428,
+    1.7076,
+    103.3428,
+    1.7076
+],
+  "geometry": {"coordinates":[103.3428,1.7076],"type":"Point"}
+}

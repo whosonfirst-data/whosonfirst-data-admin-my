@@ -1,0 +1,73 @@
+{
+  "id": 1193150999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6893,2.1724,102.6893,2.1724",
+    "geom:latitude":2.1724,
+    "geom:longitude":102.6893,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Sungai Alai",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764166,
+    "gn:latitude":2.1724,
+    "gn:longitude":102.6893,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Alai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Alai"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Alai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764166
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"739059e0a17e750ff1ad5ccf740556e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1193150999,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1193150999,
+    "wof:lastmodified":1537673895,
+    "wof:name":"Kampung Sungai Alai",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6893,
+    2.1724,
+    102.6893,
+    2.1724
+],
+  "geometry": {"coordinates":[102.6893,2.1724],"type":"Point"}
+}

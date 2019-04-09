@@ -1,0 +1,81 @@
+{
+  "id": 890490877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.7779,6.35298,99.7779,6.35298",
+    "geom:latitude":6.35298,
+    "geom:longitude":99.7779,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ulu Melaka",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kedah",
+    "qs:photos":158,
+    "qs:photos_1k":32,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":158,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696443,
+        85675137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804850,
+        "gp:id":56017343,
+        "qs:id":232921
+    },
+    "wof:country":"MY",
+    "wof:created":1469054830,
+    "wof:geomhash":"ee9327c3fce5a2288722509b21de0e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":890490877,
+            "region_id":85675133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":890490877,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":890490877,
+    "wof:lastmodified":1505343790,
+    "wof:name":"Ulu Melaka",
+    "wof:parent_id":1108696443,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.7779,
+    6.35298,
+    99.7779,
+    6.35298
+],
+  "geometry": {"coordinates":[99.7779,6.35298],"type":"Point"}
+}

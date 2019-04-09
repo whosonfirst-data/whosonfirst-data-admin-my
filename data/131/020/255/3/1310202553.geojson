@@ -1,0 +1,70 @@
+{
+  "id": 1310202553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3757,3.4601,102.3757,3.4601",
+    "geom:latitude":3.4601,
+    "geom:longitude":102.3757,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Perumahan Awam Sri Kemuning",
+    "gn:country_code":"MY",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795903,
+    "gn:latitude":3.4601,
+    "gn:longitude":102.3757,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Perumahan Awam Sri Kemuning",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Perumahan Awam Sri Kemuning"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795903
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"794848b9f5b1f39d51cd36a7b530a07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1310202553,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1310202553,
+    "wof:lastmodified":1537674396,
+    "wof:name":"Perumahan Awam Sri Kemuning",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3757,
+    3.4601,
+    102.3757,
+    3.4601
+],
+  "geometry": {"coordinates":[102.37569999999999,3.4601],"type":"Point"}
+}

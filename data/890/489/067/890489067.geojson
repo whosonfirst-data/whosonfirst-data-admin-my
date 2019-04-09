@@ -1,0 +1,104 @@
+{
+  "id": 890489067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6527,2.0441,102.6527,2.0441",
+    "geom:latitude":2.0441,
+    "geom:longitude":102.6527,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":30280,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5df4\u53e3"
+    ],
+    "name:dut_x_preferred":[
+        "Bukit Bakri"
+    ],
+    "name:eng_x_preferred":[
+        "Bukit Bakri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30af\u30ea"
+    ],
+    "name:may_x_preferred":[
+        "Bakri"
+    ],
+    "name:msa_x_preferred":[
+        "Bakri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043a\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Bukit Bakri"
+    ],
+    "name:unk_x_variant":[
+        "Bukit Bakri"
+    ],
+    "qs:name":"Bakri",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732871,
+        "gp:id":1140759,
+        "qs:id":471972,
+        "wd:id":"Q2251637",
+        "wk:page":"Bakri"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054743,
+    "wof:geomhash":"bdf1f8703d47fce3bb47f68e9288f6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":890489067,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890489067,
+    "wof:lastmodified":1527792866,
+    "wof:name":"Bakri",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:population":30280,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6527,
+    2.0441,
+    102.6527,
+    2.0441
+],
+  "geometry": {"coordinates":[102.6527,2.0441],"type":"Point"}
+}

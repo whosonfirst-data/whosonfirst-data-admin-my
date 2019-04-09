@@ -1,0 +1,70 @@
+{
+  "id": 1343440481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1915,5.1716,103.1915,5.1716",
+    "geom:latitude":5.1716,
+    "geom:longitude":103.1915,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pengkalan Kuin",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7608694,
+    "gn:latitude":5.1716,
+    "gn:longitude":103.1915,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pengkalan Kuin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pengkalan Kuin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7608694
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b066d6c4f5fd32f4560825f5f7a63868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490535,
+            "locality_id":1343440481,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1343440481,
+    "wof:lastmodified":1537674325,
+    "wof:name":"Pengkalan Kuin",
+    "wof:parent_id":890490535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1915,
+    5.1716,
+    103.1915,
+    5.1716
+],
+  "geometry": {"coordinates":[103.1915,5.1716],"type":"Point"}
+}

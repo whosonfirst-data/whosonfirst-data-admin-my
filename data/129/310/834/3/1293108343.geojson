@@ -1,0 +1,73 @@
+{
+  "id": 1293108343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7613,2.1305,102.7613,2.1305",
+    "geom:latitude":2.1305,
+    "geom:longitude":102.7613,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Sari Baharu",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764853,
+    "gn:latitude":2.1305,
+    "gn:longitude":102.7613,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sari Baharu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sari Baharu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sari Baharu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764853
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dbd237d825f5965bff4d7ef91bbf112b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1293108343,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293108343,
+    "wof:lastmodified":1537673929,
+    "wof:name":"Kampung Sari Baharu",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7613,
+    2.1305,
+    102.7613,
+    2.1305
+],
+  "geometry": {"coordinates":[102.76130000000001,2.1305],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276540663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0495,4.4091,101.0495,4.4091",
+    "geom:latitude":4.4091,
+    "geom:longitude":101.0495,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chenderong",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1777206,
+    "gn:latitude":4.4091,
+    "gn:longitude":101.0495,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chenderong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Chenderong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Chenderong",
+        "Chendrong",
+        "Kampong Chendrong",
+        "Chenderong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1777206
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"67e8ca810693844b4a358e9244d30f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1276540663,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1276540663,
+    "wof:lastmodified":1537674219,
+    "wof:name":"Chenderong",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0495,
+    4.4091,
+    101.0495,
+    4.4091
+],
+  "geometry": {"coordinates":[101.04949999999999,4.4091],"type":"Point"}
+}

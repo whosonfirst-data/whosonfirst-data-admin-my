@@ -1,0 +1,96 @@
+{
+  "id": 102023017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":741301.9927,
+    "geom:bbox":"101.156616211,4.65855495641,101.162109375,4.66950490473",
+    "geom:latitude":4.66403,
+    "geom:longitude":101.159363,
+    "gn:latitude":4.6706,
+    "gn:longitude":101.1546,
+    "iso:country":"MY",
+    "lbl:latitude":4.66403,
+    "lbl:longitude":101.159362,
+    "mps:latitude":4.66403,
+    "mps:longitude":101.159362,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Tanjung Rambutan"
+    ],
+    "name:eng_x_preferred":[
+        "Tanjung Rambutan"
+    ],
+    "name:epo_x_preferred":[
+        "Tanjung Rambutan"
+    ],
+    "name:may_x_preferred":[
+        "Tanjung Rambutan"
+    ],
+    "name:msa_x_preferred":[
+        "Tanjung Rambutan"
+    ],
+    "qs:a0":"Malaysia",
+    "qs:a1":"*Perak",
+    "qs:a1r":"*",
+    "qs:a2":"Kinta",
+    "qs:id":0,
+    "qs:la":"Hulu Kinta",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tanjung Rambutan",
+    "qs:loc_alt":"Tanjung Rambutan",
+    "qs:loc_lc":"1734629",
+    "qs:pop":0,
+    "qs:source":"Squattroshapes",
+    "qs:type":"Suburb",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":86,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734629,
+        "gp:id":1154322,
+        "qs:id":889507,
+        "wd:id":"Q7683432",
+        "wk:page":"Tanjung Rambutan"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c8813082dbf3c5da07df882724adcb6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":102023017,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":102023017,
+    "wof:lastmodified":1527636459,
+    "wof:name":"Tanjung Rambutan",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.15661621099999,
+    4.65855495641,
+    101.16210937499999,
+    4.66950490473
+],
+  "geometry": {"coordinates":[[[101.15661621099999,4.65855495641],[101.15661621099999,4.65992370928],[101.15661621099999,4.66129245949],[101.15661621099999,4.66402995191],[101.15661621099999,4.66676743366],[101.15661621099999,4.66950490473],[101.15936279299999,4.66950490473],[101.16210937499999,4.66950490473],[101.16210937499999,4.66676743366],[101.16210937499999,4.66402995191],[101.16210937499999,4.66129245949],[101.16210937499999,4.65855495641],[101.15936279299999,4.65855495641],[101.15798950200001,4.65855495641],[101.15661621099999,4.65855495641]]],"type":"Polygon"}
+}

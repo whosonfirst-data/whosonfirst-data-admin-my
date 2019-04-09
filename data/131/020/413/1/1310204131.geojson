@@ -1,0 +1,70 @@
+{
+  "id": 1310204131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0688,3.0999,102.0688,3.0999",
+    "geom:latitude":3.0999,
+    "geom:longitude":102.0688,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Sungai Chua Lebu",
+    "gn:country_code":"MY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7691763,
+    "gn:latitude":3.0999,
+    "gn:longitude":102.0688,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sungai Chua Lebu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Chua Lebu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7691763
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"27aef8dec3122d2a73bb26ea8ac5e064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1310204131,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1310204131,
+    "wof:lastmodified":1537674363,
+    "wof:name":"Kampung Sungai Chua Lebu",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0688,
+    3.0999,
+    102.0688,
+    3.0999
+],
+  "geometry": {"coordinates":[102.0688,3.0999],"type":"Point"}
+}

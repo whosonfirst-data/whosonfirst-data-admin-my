@@ -1,0 +1,70 @@
+{
+  "id": 1326829179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6514,2.7438,102.6514,2.7438",
+    "geom:latitude":2.7438,
+    "geom:longitude":102.6514,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kemajuan Tanah Palong Enam",
+    "gn:country_code":"MY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536713,
+    "gn:latitude":2.7438,
+    "gn:longitude":102.6514,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kemajuan Tanah Palong Enam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Palong Enam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536713
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"89ae44508f37f80f2449df87426d64df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1326829179,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1326829179,
+    "wof:lastmodified":1537674464,
+    "wof:name":"Kemajuan Tanah Palong Enam",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6514,
+    2.7438,
+    102.6514,
+    2.7438
+],
+  "geometry": {"coordinates":[102.6514,2.7438],"type":"Point"}
+}

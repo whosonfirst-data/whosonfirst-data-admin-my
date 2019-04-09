@@ -1,0 +1,70 @@
+{
+  "id": 1193273313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8818,4.009,101.8818,4.009",
+    "geom:latitude":4.009,
+    "geom:longitude":101.8818,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Orang Asli Hulu Renggul",
+    "gn:country_code":"MY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638891,
+    "gn:latitude":4.009,
+    "gn:longitude":101.8818,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Orang Asli Hulu Renggul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Orang Asli Hulu Renggul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638891
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f521c6809a9a4019eaf5772014b791a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1193273313,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1193273313,
+    "wof:lastmodified":1537674344,
+    "wof:name":"Kampung Orang Asli Hulu Renggul",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8818,
+    4.009,
+    101.8818,
+    4.009
+],
+  "geometry": {"coordinates":[101.8818,4.009],"type":"Point"}
+}

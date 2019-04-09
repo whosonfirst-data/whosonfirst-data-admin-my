@@ -1,0 +1,67 @@
+{
+  "id": 1209932659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.63333,3.16667,101.63333,3.16667",
+    "geom:latitude":3.16667,
+    "geom:longitude":101.63333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Kampong Pelimbaian",
+    "gn:country_code":"MY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765793,
+    "gn:latitude":3.16667,
+    "gn:longitude":101.63333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Pelimbaian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675181,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765793
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"78a21a29ad57d4aaba8bdd14c07be430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":1209932659,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":1209932659,
+    "wof:lastmodified":1536392040,
+    "wof:name":"Kampong Pelimbaian",
+    "wof:parent_id":890490945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.63333,
+    3.16667,
+    101.63333,
+    3.16667
+],
+  "geometry": {"coordinates":[101.63333,3.16667],"type":"Point"}
+}

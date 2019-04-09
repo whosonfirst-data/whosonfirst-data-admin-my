@@ -1,0 +1,72 @@
+{
+  "id": 1259664011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.4,3.03333,101.4,3.03333",
+    "geom:latitude":3.03333,
+    "geom:longitude":101.4,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Teluk Gadong Kecil",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763065,
+    "gn:latitude":3.03333,
+    "gn:longitude":101.4,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Teluk Gadong Kecil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Telok Gadong Kechil",
+        "Kampung Teluk Gadong Kecil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763065
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ce40e446d8a8565da0ff6c96a00c7669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696415,
+            "locality_id":1259664011,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1259664011,
+    "wof:lastmodified":1537673843,
+    "wof:name":"Kampung Teluk Gadong Kecil",
+    "wof:parent_id":1108696415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.4,
+    3.03333,
+    101.4,
+    3.03333
+],
+  "geometry": {"coordinates":[101.40000000000001,3.03333],"type":"Point"}
+}

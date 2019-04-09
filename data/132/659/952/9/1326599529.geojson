@@ -1,0 +1,68 @@
+{
+  "id": 1326599529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.8975,4.2835,117.8975,4.2835",
+    "geom:latitude":4.2835,
+    "geom:longitude":117.8975,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Chinese Kabun",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7768778,
+    "gn:latitude":4.2835,
+    "gn:longitude":117.8975,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chinese Kabun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7768778
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"79024748a07ab7eba27ab4b48be7ef54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696533,
+            "locality_id":1326599529,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1326599529,
+    "wof:lastmodified":1536886636,
+    "wof:name":"Chinese Kabun",
+    "wof:parent_id":1108696533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.8975,
+    4.2835,
+    117.8975,
+    4.2835
+],
+  "geometry": {"coordinates":[117.89749999999999,4.2835],"type":"Point"}
+}

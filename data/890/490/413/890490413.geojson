@@ -1,0 +1,79 @@
+{
+  "id": 890490413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.0057,4.4715,114.0057,4.4715",
+    "geom:latitude":4.4715,
+    "geom:longitude":114.0057,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Lutong"
+    ],
+    "qs:name":"Lutong",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sarawak",
+    "qs:photos":28,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":28,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":93,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1738049,
+        "gp:id":1154881,
+        "qs:id":1090042,
+        "wd:id":"Q17053256",
+        "wk:page":"Lutong"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054804,
+    "wof:geomhash":"5928d45c9634fce5e53f1ce84f1d4b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488483,
+            "locality_id":890490413,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":890490413,
+    "wof:lastmodified":1527732952,
+    "wof:name":"Lutong",
+    "wof:parent_id":890488483,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.0057,
+    4.4715,
+    114.0057,
+    4.4715
+],
+  "geometry": {"coordinates":[114.0057,4.4715],"type":"Point"}
+}

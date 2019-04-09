@@ -1,0 +1,70 @@
+{
+  "id": 1344271363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9406,1.8444,102.9406,1.8444",
+    "geom:latitude":1.8444,
+    "geom:longitude":102.9406,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Bahagia",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857509,
+    "gn:latitude":1.8444,
+    "gn:longitude":102.9406,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bahagia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bahagia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857509
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"65278099f063b520b5c0e229467d873b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1344271363,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1344271363,
+    "wof:lastmodified":1537674444,
+    "wof:name":"Kampung Bahagia",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9406,
+    1.8444,
+    102.9406,
+    1.8444
+],
+  "geometry": {"coordinates":[102.9406,1.8444],"type":"Point"}
+}

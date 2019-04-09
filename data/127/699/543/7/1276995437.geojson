@@ -1,0 +1,70 @@
+{
+  "id": 1276995437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9953,2.0028,102.9953,2.0028",
+    "geom:latitude":2.0028,
+    "geom:longitude":102.9953,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Haji Khalid",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857004,
+    "gn:latitude":2.0028,
+    "gn:longitude":102.9953,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Haji Khalid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Haji Khalid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857004
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"999a3279a424ee7e2401aa181624006d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1276995437,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276995437,
+    "wof:lastmodified":1537674441,
+    "wof:name":"Kampung Parit Haji Khalid",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9953,
+    2.0028,
+    102.9953,
+    2.0028
+],
+  "geometry": {"coordinates":[102.9953,2.0028],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209997625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.83333,4.73333,114.83333,4.73333",
+    "geom:latitude":4.73333,
+    "geom:longitude":114.83333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Ipai",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768997,
+    "gn:latitude":4.73333,
+    "gn:longitude":114.83333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Ipai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Epai",
+        "Kampong Ipai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768997
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ca3a2bc0554ced18c8df387da42d90ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696449,
+            "locality_id":1209997625,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1209997625,
+    "wof:lastmodified":1537674103,
+    "wof:name":"Kampong Ipai",
+    "wof:parent_id":1108696449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.83333,
+    4.73333,
+    114.83333,
+    4.73333
+],
+  "geometry": {"coordinates":[114.83333,4.73333],"type":"Point"}
+}

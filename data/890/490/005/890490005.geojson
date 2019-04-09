@@ -1,0 +1,66 @@
+{
+  "id": 890490005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.367614,1.509072,103.367614,1.509072",
+    "geom:latitude":1.509072,
+    "geom:longitude":103.367614,
+    "gn:country":"MY",
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Pontian",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":63,
+    "qs:photos_1k":13,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":869,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":183,
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013609,
+        "qs:id":1120008,
+        "wd:id":"Q2103838",
+        "wk:page":"Pontian"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054784,
+    "wof:geomhash":"030353aa389d7cfc58465d94b7c718d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "county_id":890490005
+        }
+    ],
+    "wof:id":890490005,
+    "wof:lastmodified":1527734159,
+    "wof:name":"Pontian",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.367614,
+    1.509072,
+    103.367614,
+    1.509072
+],
+  "geometry": {"coordinates":[103.367614,1.509072],"type":"Point"}
+}

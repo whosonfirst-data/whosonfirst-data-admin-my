@@ -1,0 +1,70 @@
+{
+  "id": 1259505697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3072,3.9171,103.3072,3.9171",
+    "geom:latitude":3.9171,
+    "geom:longitude":103.3072,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Alur Batu",
+    "gn:country_code":"MY",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7650947,
+    "gn:latitude":3.9171,
+    "gn:longitude":103.3072,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Alur Batu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Alur Batu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7650947
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"38242849282eb4d3909341ab3cb7f933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":1259505697,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1259505697,
+    "wof:lastmodified":1537674349,
+    "wof:name":"Kampung Alur Batu",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3072,
+    3.9171,
+    103.3072,
+    3.9171
+],
+  "geometry": {"coordinates":[103.30719999999999,3.9171],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242700657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0633,2.9462,102.0633,2.9462",
+    "geom:latitude":2.9462,
+    "geom:longitude":102.0633,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Mengkan",
+    "gn:country_code":"MY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796684,
+    "gn:latitude":2.9462,
+    "gn:longitude":102.0633,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Mengkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mengkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796684
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4e56e4202b20d96c4aa7f1442358e5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1242700657,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1242700657,
+    "wof:lastmodified":1537674409,
+    "wof:name":"Kampung Mengkan",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0633,
+    2.9462,
+    102.0633,
+    2.9462
+],
+  "geometry": {"coordinates":[102.0633,2.9462],"type":"Point"}
+}

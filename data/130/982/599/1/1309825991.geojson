@@ -1,0 +1,72 @@
+{
+  "id": 1309825991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.16667,6.4,100.16667,6.4",
+    "geom:latitude":6.4,
+    "geom:longitude":100.16667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Titi Serong",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736150,
+    "gn:latitude":6.4,
+    "gn:longitude":100.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Titi Serong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Titi Serong",
+        "Kampung Titi Serong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736150
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3f5609b66a6981b799f6c34e7a5406a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1309825991,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1309825991,
+    "wof:lastmodified":1537673733,
+    "wof:name":"Kampung Titi Serong",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.16667,
+    6.4,
+    100.16667,
+    6.4
+],
+  "geometry": {"coordinates":[100.16667,6.4],"type":"Point"}
+}

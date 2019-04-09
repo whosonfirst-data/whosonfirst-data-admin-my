@@ -1,0 +1,70 @@
+{
+  "id": 1293469115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0933,5.0895,103.0933,5.0895",
+    "geom:latitude":5.0895,
+    "geom:longitude":103.0933,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Ajil",
+    "gn:country_code":"MY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7470308,
+    "gn:latitude":5.0895,
+    "gn:longitude":103.0933,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Ajil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ajil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7470308
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"32d0b80c2455026ba4589ff7b8485e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1293469115,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1293469115,
+    "wof:lastmodified":1537674301,
+    "wof:name":"Kampung Ajil",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0933,
+    5.0895,
+    103.0933,
+    5.0895
+],
+  "geometry": {"coordinates":[103.0933,5.0895],"type":"Point"}
+}

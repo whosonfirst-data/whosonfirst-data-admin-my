@@ -1,0 +1,70 @@
+{
+  "id": 1292912155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.91426,5.70397,100.91426,5.70397",
+    "geom:latitude":5.70397,
+    "geom:longitude":100.91426,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Bongor",
+    "gn:country_code":"MY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805036,
+    "gn:latitude":5.70397,
+    "gn:longitude":100.91426,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Bongor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bongor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805036
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b14f7cef2ad8decf2abf19eae02022f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696379,
+            "locality_id":1292912155,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1292912155,
+    "wof:lastmodified":1537674233,
+    "wof:name":"Kampung Bongor",
+    "wof:parent_id":1108696379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.91426,
+    5.70397,
+    100.91426,
+    5.70397
+],
+  "geometry": {"coordinates":[100.91426,5.70397],"type":"Point"}
+}

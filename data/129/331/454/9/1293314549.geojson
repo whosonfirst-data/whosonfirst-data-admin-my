@@ -1,0 +1,70 @@
+{
+  "id": 1293314549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7348,3.5009,102.7348,3.5009",
+    "geom:latitude":3.5009,
+    "geom:longitude":102.7348,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Lotong",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796183,
+    "gn:latitude":3.5009,
+    "gn:longitude":102.7348,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Lotong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lotong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796183
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"318b04de120605d985f73a758292d033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1293314549,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293314549,
+    "wof:lastmodified":1537674401,
+    "wof:name":"Kampung Lotong",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7348,
+    3.5009,
+    102.7348,
+    3.5009
+],
+  "geometry": {"coordinates":[102.73480000000001,3.5009],"type":"Point"}
+}

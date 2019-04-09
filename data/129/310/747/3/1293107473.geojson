@@ -1,0 +1,67 @@
+{
+  "id": 1293107473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.41667,5.61667,100.41667,5.61667",
+    "geom:latitude":5.61667,
+    "geom:longitude":100.41667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Perlis Bukit Kechik",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765606,
+    "gn:latitude":5.61667,
+    "gn:longitude":100.41667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Perlis Bukit Kechik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765606
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"03ca9f43d16a072cfc7fb7d9c8fa13c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "locality_id":1293107473,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1293107473,
+    "wof:lastmodified":1536836810,
+    "wof:name":"Kampong Perlis Bukit Kechik",
+    "wof:parent_id":890490355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.41667,
+    5.61667,
+    100.41667,
+    5.61667
+],
+  "geometry": {"coordinates":[100.41667,5.61667],"type":"Point"}
+}

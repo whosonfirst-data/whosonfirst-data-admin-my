@@ -1,0 +1,69 @@
+{
+  "id": 1260153257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.0397,6.0195,118.0397,6.0195",
+    "geom:latitude":6.0195,
+    "geom:longitude":118.0397,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tabanka",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763690,
+    "gn:latitude":6.0195,
+    "gn:longitude":118.0397,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tabanka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tabanka"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tabanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763690
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8e87bb6dfe6cd03213c1a3b896fc20e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1260153257,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260153257,
+    "wof:lastmodified":1537673873,
+    "wof:name":"Kampung Tabanka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.0397,
+    6.0195,
+    118.0397,
+    6.0195
+],
+  "geometry": {"coordinates":[118.0397,6.0195],"type":"Point"}
+}

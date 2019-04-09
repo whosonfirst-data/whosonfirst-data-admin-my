@@ -1,0 +1,73 @@
+{
+  "id": 1310506307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0825,2.6181,102.0825,2.6181",
+    "geom:latitude":2.6181,
+    "geom:longitude":102.0825,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Mungkal Sepri",
+    "gn:country_code":"MY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766759,
+    "gn:latitude":2.6181,
+    "gn:longitude":102.0825,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Mungkal Sepri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mungkal Sepri"
+    ],
+    "name:und_x_variant":[
+        "Kampong Mungkal Seperi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766759
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d2edd94b4eedd08620857914f3c5f7f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1310506307,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1310506307,
+    "wof:lastmodified":1537674008,
+    "wof:name":"Kampung Mungkal Sepri",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0825,
+    2.6181,
+    102.0825,
+    2.6181
+],
+  "geometry": {"coordinates":[102.0825,2.6181],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276516929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.38333,6.23333,116.38333,6.23333",
+    "geom:latitude":6.23333,
+    "geom:longitude":116.38333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Kaboran",
+    "gn:country_code":"MY",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768673,
+    "gn:latitude":6.23333,
+    "gn:longitude":116.38333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Kaboran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768673
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d5b03adf2db0059b5bf4ecc482e3e782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1276516929,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276516929,
+    "wof:lastmodified":1537028899,
+    "wof:name":"Kampong Kaboran",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.38333,
+    6.23333,
+    116.38333,
+    6.23333
+],
+  "geometry": {"coordinates":[116.38333,6.23333],"type":"Point"}
+}

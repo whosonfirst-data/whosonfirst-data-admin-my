@@ -1,0 +1,70 @@
+{
+  "id": 1293385389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.2029,6.49762,100.2029,6.49762",
+    "geom:latitude":6.49762,
+    "geom:longitude":100.2029,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Tengahi",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819139,
+    "gn:latitude":6.49762,
+    "gn:longitude":100.2029,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Tengahi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tengahi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819139
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c2f75b1b006798ef7de87ee28f4d2816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1293385389,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1293385389,
+    "wof:lastmodified":1537674245,
+    "wof:name":"Kampung Tengahi",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.2029,
+    6.49762,
+    100.2029,
+    6.49762
+],
+  "geometry": {"coordinates":[100.2029,6.49762],"type":"Point"}
+}

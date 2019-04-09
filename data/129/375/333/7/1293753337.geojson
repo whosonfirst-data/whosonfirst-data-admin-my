@@ -1,0 +1,70 @@
+{
+  "id": 1293753337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.5686,4.5202,118.5686,4.5202",
+    "geom:latitude":4.5202,
+    "geom:longitude":118.5686,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Sakong Kecil",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7064121,
+    "gn:latitude":4.5202,
+    "gn:longitude":118.5686,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Sakong Kecil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sakong Kecil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7064121
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"68ab900f2bee78f43cb07456bca7b912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696507,
+            "locality_id":1293753337,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293753337,
+    "wof:lastmodified":1537674273,
+    "wof:name":"Kampung Sakong Kecil",
+    "wof:parent_id":1108696507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.5686,
+    4.5202,
+    118.5686,
+    4.5202
+],
+  "geometry": {"coordinates":[118.5686,4.5202],"type":"Point"}
+}

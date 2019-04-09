@@ -1,0 +1,70 @@
+{
+  "id": 1225867133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3865,3.4928,103.3865,3.4928",
+    "geom:latitude":3.4928,
+    "geom:longitude":103.3865,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Pancur",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7685696,
+    "gn:latitude":3.4928,
+    "gn:longitude":103.3865,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pancur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pancur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685696
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5a46fd2b278fa1f32b2bfc41a3ac71c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1225867133,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1225867133,
+    "wof:lastmodified":1537674359,
+    "wof:name":"Kampung Pancur",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3865,
+    3.4928,
+    103.3865,
+    3.4928
+],
+  "geometry": {"coordinates":[103.3865,3.4928],"type":"Point"}
+}

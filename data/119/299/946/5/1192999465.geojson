@@ -1,0 +1,67 @@
+{
+  "id": 1192999465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.48333,1.48333,110.48333,1.48333",
+    "geom:latitude":1.48333,
+    "geom:longitude":110.48333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Rembus",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765014,
+    "gn:latitude":1.48333,
+    "gn:longitude":110.48333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Rembus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765014
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"23bc595e2ea4fd456937c4135eb2ef1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696499,
+            "locality_id":1192999465,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1192999465,
+    "wof:lastmodified":1536372224,
+    "wof:name":"Kampong Rembus",
+    "wof:parent_id":1108696499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.48333,
+    1.48333,
+    110.48333,
+    1.48333
+],
+  "geometry": {"coordinates":[110.48333,1.48333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226245641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.3135,6.21765,100.3135,6.21765",
+    "geom:latitude":6.21765,
+    "geom:longitude":100.3135,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Telok Junus",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763051,
+    "gn:latitude":6.21765,
+    "gn:longitude":100.3135,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Telok Junus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Telok Junus"
+    ],
+    "name:und_x_variant":[
+        "Kampong Telok Junus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763051
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"66dec5c9916a6c1e12a93498a6060b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1226245641,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1226245641,
+    "wof:lastmodified":1537673842,
+    "wof:name":"Kampung Telok Junus",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.3135,
+    6.21765,
+    100.3135,
+    6.21765
+],
+  "geometry": {"coordinates":[100.3135,6.21765],"type":"Point"}
+}

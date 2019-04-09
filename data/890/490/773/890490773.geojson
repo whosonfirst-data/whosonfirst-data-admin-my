@@ -1,0 +1,81 @@
+{
+  "id": 890490773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.557323,5.830101,102.557323,5.830101",
+    "geom:latitude":5.830101,
+    "geom:longitude":102.557323,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Daerah Besut"
+    ],
+    "name:msa_x_variant":[
+        "Besut"
+    ],
+    "name:unk_x_variant":[
+        "Daerah Besut"
+    ],
+    "qs:name":"K. Besut",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Terengganu",
+    "qs:photos":99,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":131,
+    "qs:photos_sr":3,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736419,
+        "gp:id":56014419,
+        "qs:id":214918,
+        "qs_pg:id":351025
+    },
+    "wof:country":"MY",
+    "wof:created":1469054824,
+    "wof:geomhash":"a730a233c8389e1479956086849bcd8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "localadmin_id":890490773,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":890490773,
+    "wof:lastmodified":1509390574,
+    "wof:name":"K. Besut",
+    "wof:parent_id":890488399,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.557323,
+    5.830101,
+    102.557323,
+    5.830101
+],
+  "geometry": {"coordinates":[102.557323,5.830101],"type":"Point"}
+}

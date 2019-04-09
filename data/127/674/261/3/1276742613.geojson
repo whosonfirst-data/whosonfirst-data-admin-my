@@ -1,0 +1,70 @@
+{
+  "id": 1276742613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.29031,4.19065,103.29031,4.19065",
+    "geom:latitude":4.19065,
+    "geom:longitude":103.29031,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Alur Panjang",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771662,
+    "gn:latitude":4.19065,
+    "gn:longitude":103.29031,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Alur Panjang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Alor Panjang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771662
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5317b34776fc526900e9a6daf02c113e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "locality_id":1276742613,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1276742613,
+    "wof:lastmodified":1537674212,
+    "wof:name":"Kampung Alur Panjang",
+    "wof:parent_id":890490801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.29031,
+    4.19065,
+    103.29031,
+    4.19065
+],
+  "geometry": {"coordinates":[103.29031000000001,4.19065],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226736121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.48333,5.73333,102.48333,5.73333",
+    "geom:latitude":5.73333,
+    "geom:longitude":102.48333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampong Pengkalan Tapang",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765683,
+    "gn:latitude":5.73333,
+    "gn:longitude":102.48333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Pengkalan Tapang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765683
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b556242dff1d96e2f579d22f3d2bfa9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "locality_id":1226736121,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1226736121,
+    "wof:lastmodified":1536729817,
+    "wof:name":"Kampong Pengkalan Tapang",
+    "wof:parent_id":890488399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.48333,
+    5.73333,
+    102.48333,
+    5.73333
+],
+  "geometry": {"coordinates":[102.48333,5.73333],"type":"Point"}
+}

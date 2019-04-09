@@ -1,0 +1,70 @@
+{
+  "id": 1226659115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.72433,5.91953,100.72433,5.91953",
+    "geom:latitude":5.91953,
+    "geom:longitude":100.72433,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Sungai Senam",
+    "gn:country_code":"MY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805133,
+    "gn:latitude":5.91953,
+    "gn:longitude":100.72433,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Sungai Senam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Senam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805133
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"81682cb90d0c94626bf4c7fc793b72d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696515,
+            "locality_id":1226659115,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1226659115,
+    "wof:lastmodified":1537674235,
+    "wof:name":"Kampung Sungai Senam",
+    "wof:parent_id":1108696515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.72433,
+    5.91953,
+    100.72433,
+    5.91953
+],
+  "geometry": {"coordinates":[100.72432999999999,5.91953],"type":"Point"}
+}

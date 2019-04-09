@@ -1,0 +1,67 @@
+{
+  "id": 1343575965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.71667,5.38333,116.71667,5.38333",
+    "geom:latitude":5.38333,
+    "geom:longitude":116.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kiatinu",
+    "gn:country_code":"MY",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733819,
+    "gn:latitude":5.38333,
+    "gn:longitude":116.71667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kiatinu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733819
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d01e28b089a676b654431e02979c91e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696539,
+            "locality_id":1343575965,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343575965,
+    "wof:lastmodified":1537073945,
+    "wof:name":"Kiatinu",
+    "wof:parent_id":1108696539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.71667,
+    5.38333,
+    116.71667,
+    5.38333
+],
+  "geometry": {"coordinates":[116.71666999999999,5.38333],"type":"Point"}
+}

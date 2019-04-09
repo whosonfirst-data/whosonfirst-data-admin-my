@@ -1,0 +1,67 @@
+{
+  "id": 1226549893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1,4.43333,116.1,4.43333",
+    "geom:latitude":4.43333,
+    "geom:longitude":116.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Babantul",
+    "gn:country_code":"MY",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733741,
+    "gn:latitude":4.43333,
+    "gn:longitude":116.1,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Babantul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733741
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4a4d441425faecf1034e93a2d35b5ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696483,
+            "locality_id":1226549893,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226549893,
+    "wof:lastmodified":1536991156,
+    "wof:name":"Babantul",
+    "wof:parent_id":1108696483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1,
+    4.43333,
+    116.1,
+    4.43333
+],
+  "geometry": {"coordinates":[116.09999999999999,4.43333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276778019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.13333,4.38333,118.13333,4.38333",
+    "geom:latitude":4.38333,
+    "geom:longitude":118.13333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Balung",
+    "gn:country_code":"MY",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733731,
+    "gn:latitude":4.38333,
+    "gn:longitude":118.13333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Balung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733731
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f0009e637737d767530531dcc0d2a573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696533,
+            "locality_id":1276778019,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276778019,
+    "wof:lastmodified":1536679942,
+    "wof:name":"Balung",
+    "wof:parent_id":1108696533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.13333,
+    4.38333,
+    118.13333,
+    4.38333
+],
+  "geometry": {"coordinates":[118.13333,4.38333],"type":"Point"}
+}

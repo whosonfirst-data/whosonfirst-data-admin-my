@@ -1,0 +1,70 @@
+{
+  "id": 1309915443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4041,1.4901,103.4041,1.4901",
+    "geom:latitude":1.4901,
+    "geom:longitude":103.4041,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Persisir",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857995,
+    "gn:latitude":1.4901,
+    "gn:longitude":103.4041,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Persisir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Persisir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857995
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d985b2648ea727d4ffea8ceb615ad370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "locality_id":1309915443,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1309915443,
+    "wof:lastmodified":1537674448,
+    "wof:name":"Kampung Persisir",
+    "wof:parent_id":890491001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4041,
+    1.4901,
+    103.4041,
+    1.4901
+],
+  "geometry": {"coordinates":[103.4041,1.4901],"type":"Point"}
+}

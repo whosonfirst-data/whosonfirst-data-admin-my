@@ -1,0 +1,71 @@
+{
+  "id": 1310393441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.44454,0.94704,110.44454,0.94704",
+    "geom:latitude":0.94704,
+    "geom:longitude":110.44454,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kampong Sain",
+    "gn:country_code":"MY",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732560,
+    "gn:latitude":0.94704,
+    "gn:longitude":110.44454,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampong Sain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Kujang Sain",
+        "Kampong Sain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732560
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7bb164fce1246d609ad10070902ad818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696511,
+            "locality_id":1310393441,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1310393441,
+    "wof:lastmodified":1537673664,
+    "wof:name":"Kampong Sain",
+    "wof:parent_id":1108696511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.44454,
+    0.94704,
+    110.44454,
+    0.94704
+],
+  "geometry": {"coordinates":[110.44454,0.94704],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 85782657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000306,
+    "geom:area_square_m":3782362.136563,
+    "geom:bbox":"101.618842047,3.17068267741,101.646285875,3.18713681153",
+    "geom:latitude":3.178806,
+    "geom:longitude":101.631875,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.178477,
+    "lbl:longitude":101.631194,
+    "mps:latitude":3.177538,
+    "mps:longitude":101.631608,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:und_x_preferred":[
+        "Segambut Jaya"
+    ],
+    "name:unk_x_variant":[
+        "Segambut Jaya"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Segambut Jaya",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Batu",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":10,
+    "qs:photo_sum":19,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56014045,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862696,
+        "qs:id":1031218,
+        "qs_pg:id":1031218
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c0a365529eccaa86a5c8d8508ebbaeca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85782657,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85782657,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269414,
+    "wof:name":"Segambut Jaya",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.61884204730785,
+    3.17068267741287,
+    101.64628587479501,
+    3.18713681153261
+],
+  "geometry": {"coordinates":[[[101.6456207309709,3.18713681153261],[101.64625021758519,3.18595912491044],[101.64628587479501,3.18596994140675],[101.64185132245376,3.17708716798718],[101.63817797068299,3.17524766645404],[101.63635813869115,3.17160241268409],[101.63452148400006,3.17068267741287],[101.6290283200002,3.17068267741287],[101.62215766376454,3.17068267741287],[101.61884204730785,3.17732409455621],[101.61972163245008,3.17890978821278],[101.61982663394326,3.179856259283],[101.62044365768719,3.18129820588423],[101.6235351574129,3.1843944891033],[101.62387582899169,3.18473568485948],[101.62388642871156,3.18473780808232],[101.6249147870098,3.18439449234],[101.62902832000003,3.18439449234009],[101.63039949037,3.18439448807896],[101.63452148400006,3.18439448807896],[101.63725957618345,3.18713681153261],[101.6456207309709,3.18713681153261]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293110355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1,6.11667,102.1,6.11667",
+    "geom:latitude":6.11667,
+    "geom:longitude":102.1,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Tok Rusa",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762508,
+    "gn:latitude":6.11667,
+    "gn:longitude":102.1,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Tok Rusa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762508
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"41d0db7d52906cd0cb8b5be569482465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1293110355,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1293110355,
+    "wof:lastmodified":1536832724,
+    "wof:name":"Kampong Tok Rusa",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1,
+    6.11667,
+    102.1,
+    6.11667
+],
+  "geometry": {"coordinates":[102.09999999999999,6.11667],"type":"Point"}
+}

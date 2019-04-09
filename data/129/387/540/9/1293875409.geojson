@@ -1,0 +1,67 @@
+{
+  "id": 1293875409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.96667,5.08333,100.96667,5.08333",
+    "geom:latitude":5.08333,
+    "geom:longitude":100.96667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Batu Pembunoh",
+    "gn:country_code":"MY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1780680,
+    "gn:latitude":5.08333,
+    "gn:longitude":100.96667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Batu Pembunoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1780680
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f07848fb21f5244ea9849d0bf1ef721b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489739,
+            "locality_id":1293875409,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1293875409,
+    "wof:lastmodified":1536725392,
+    "wof:name":"Batu Pembunoh",
+    "wof:parent_id":890489739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.96667,
+    5.08333,
+    100.96667,
+    5.08333
+],
+  "geometry": {"coordinates":[100.96666999999999,5.08333],"type":"Point"}
+}

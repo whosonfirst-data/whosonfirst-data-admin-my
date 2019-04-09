@@ -1,0 +1,67 @@
+{
+  "id": 1293077469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0,5.03333,103.0,5.03333",
+    "geom:latitude":5.03333,
+    "geom:longitude":103.0,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampong Tepas",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762788,
+    "gn:latitude":5.03333,
+    "gn:longitude":103.0,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Tepas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762788
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"de199e92bfb17b0b6e1f66380357c726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1293077469,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1293077469,
+    "wof:lastmodified":1536880541,
+    "wof:name":"Kampong Tepas",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0,
+    5.03333,
+    103.0,
+    5.03333
+],
+  "geometry": {"coordinates":[103.0,5.03333],"type":"Point"}
+}

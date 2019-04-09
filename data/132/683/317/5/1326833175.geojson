@@ -1,0 +1,73 @@
+{
+  "id": 1326833175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38304,6.19346,100.38304,6.19346",
+    "geom:latitude":6.19346,
+    "geom:longitude":100.38304,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Pengkalan Gelong",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765725,
+    "gn:latitude":6.19346,
+    "gn:longitude":100.38304,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pengkalan Gelong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pengkalan Gelong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pengkalan Gelong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765725
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c9521d614bd7995cb0329f678a720c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1326833175,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1326833175,
+    "wof:lastmodified":1537673966,
+    "wof:name":"Kampung Pengkalan Gelong",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38304,
+    6.19346,
+    100.38304,
+    6.19346
+],
+  "geometry": {"coordinates":[100.38303999999999,6.19346],"type":"Point"}
+}

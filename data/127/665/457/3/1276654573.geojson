@@ -1,0 +1,74 @@
+{
+  "id": 1276654573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3594,3.9024,103.3594,3.9024",
+    "geom:latitude":3.9024,
+    "geom:longitude":103.3594,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Sungai Karang Darat",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735219,
+    "gn:latitude":3.9024,
+    "gn:longitude":103.3594,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Karang Darat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Karang Darat"
+    ],
+    "name:und_x_variant":[
+        "Kampong Darat Sungei Karang",
+        "Kampung Sungai Karang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735219
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8d2b7f4e871e71e3baf71527f43e273b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":1276654573,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276654573,
+    "wof:lastmodified":1537673720,
+    "wof:name":"Kampung Sungai Karang Darat",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3594,
+    3.9024,
+    103.3594,
+    3.9024
+],
+  "geometry": {"coordinates":[103.35939999999999,3.9024],"type":"Point"}
+}

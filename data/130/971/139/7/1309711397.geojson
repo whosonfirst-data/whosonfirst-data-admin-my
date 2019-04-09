@@ -1,0 +1,73 @@
+{
+  "id": 1309711397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7966,2.5302,101.7966,2.5302",
+    "geom:latitude":2.5302,
+    "geom:longitude":101.7966,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Dhobi",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769641,
+    "gn:latitude":2.5302,
+    "gn:longitude":101.7966,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Dhobi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Dhobi"
+    ],
+    "name:und_x_variant":[
+        "Kampong Dhobi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769641
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"da4f76aa936e5c5bbeacf4228f9af1db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490331,
+            "locality_id":1309711397,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1309711397,
+    "wof:lastmodified":1537674128,
+    "wof:name":"Kampung Dhobi",
+    "wof:parent_id":890490331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7966,
+    2.5302,
+    101.7966,
+    2.5302
+],
+  "geometry": {"coordinates":[101.7966,2.5302],"type":"Point"}
+}

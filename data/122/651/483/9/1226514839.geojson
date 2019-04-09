@@ -1,0 +1,70 @@
+{
+  "id": 1226514839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.9448,6.3222,116.9448,6.3222",
+    "geom:latitude":6.3222,
+    "geom:longitude":116.9448,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Sugut",
+    "gn:country_code":"MY",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7468134,
+    "gn:latitude":6.3222,
+    "gn:longitude":116.9448,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sugut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sugut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468134
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b7b1e82841351f386406939e650e0ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696425,
+            "locality_id":1226514839,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226514839,
+    "wof:lastmodified":1537674298,
+    "wof:name":"Kampung Sugut",
+    "wof:parent_id":1108696425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.9448,
+    6.3222,
+    116.9448,
+    6.3222
+],
+  "geometry": {"coordinates":[116.9448,6.3222],"type":"Point"}
+}

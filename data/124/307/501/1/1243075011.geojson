@@ -1,0 +1,70 @@
+{
+  "id": 1243075011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1969,4.9344,102.1969,4.9344",
+    "geom:latitude":4.9344,
+    "geom:longitude":102.1969,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kemajuan Tanah Chiku Dua",
+    "gn:country_code":"MY",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7469873,
+    "gn:latitude":4.9344,
+    "gn:longitude":102.1969,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Chiku Dua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Chiku Dua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7469873
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"229ed9946fcda773d023346fd975975f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1243075011,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1243075011,
+    "wof:lastmodified":1537674300,
+    "wof:name":"Kemajuan Tanah Chiku Dua",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1969,
+    4.9344,
+    102.1969,
+    4.9344
+],
+  "geometry": {"coordinates":[102.1969,4.9344],"type":"Point"}
+}

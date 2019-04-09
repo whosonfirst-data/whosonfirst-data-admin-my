@@ -1,0 +1,73 @@
+{
+  "id": 1310706637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2947,2.8541,102.2947,2.8541",
+    "geom:latitude":2.8541,
+    "geom:longitude":102.2947,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Terentang",
+    "gn:country_code":"MY",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762747,
+    "gn:latitude":2.8541,
+    "gn:longitude":102.2947,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Terentang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Terentang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Terentang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762747
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aea32b6f091fcdd219fa0fe8f197b221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1310706637,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1310706637,
+    "wof:lastmodified":1537673829,
+    "wof:name":"Kampung Terentang",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2947,
+    2.8541,
+    102.2947,
+    2.8541
+],
+  "geometry": {"coordinates":[102.29470000000001,2.8541],"type":"Point"}
+}

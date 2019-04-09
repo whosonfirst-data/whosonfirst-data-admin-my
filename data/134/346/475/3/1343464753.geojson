@@ -1,0 +1,63 @@
+{
+  "id": 1343464753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.23333,2.2,102.23333,2.2",
+    "geom:latitude":2.2,
+    "geom:longitude":102.23333,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampong Pulau",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765318,
+    "gn:latitude":2.2,
+    "gn:longitude":102.23333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Pulau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765318
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f7939f11fb9537b23c23087431f325f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1343464753,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343464753,
+    "wof:lastmodified":1536739766,
+    "wof:name":"Kampong Pulau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.23333,
+    2.2,
+    102.23333,
+    2.2
+],
+  "geometry": {"coordinates":[102.23333,2.2],"type":"Point"}
+}

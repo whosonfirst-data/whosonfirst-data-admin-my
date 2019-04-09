@@ -1,0 +1,76 @@
+{
+  "id": 890490889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.519,3.2856,101.519,3.2856",
+    "geom:latitude":3.2856,
+    "geom:longitude":101.519,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":23307,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ladang Seri Kundang"
+    ],
+    "name:unk_x_variant":[
+        "Pengkalan Kundang"
+    ],
+    "qs:name":"Taman Sri Kundang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1750974,
+        "gp:id":56037561,
+        "qs:id":78249
+    },
+    "wof:country":"MY",
+    "wof:created":1469054831,
+    "wof:geomhash":"c8142af4990b7764aa272bc8620c2e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696399,
+            "locality_id":890490889,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890490889,
+    "wof:lastmodified":1505343790,
+    "wof:name":"Taman Sri Kundang",
+    "wof:parent_id":1108696399,
+    "wof:placetype":"locality",
+    "wof:population":23307,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.519,
+    3.2856,
+    101.519,
+    3.2856
+],
+  "geometry": {"coordinates":[101.51900000000001,3.2856],"type":"Point"}
+}

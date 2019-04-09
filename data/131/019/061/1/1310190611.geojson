@@ -1,0 +1,70 @@
+{
+  "id": 1310190611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.2061,6.44067,100.2061,6.44067",
+    "geom:latitude":6.44067,
+    "geom:longitude":100.2061,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Tok Paduka",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819131,
+    "gn:latitude":6.44067,
+    "gn:longitude":100.2061,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Tok Paduka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tok Paduka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819131
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"517dedccf8b3a4e46eee922475d1178a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1310190611,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1310190611,
+    "wof:lastmodified":1537674245,
+    "wof:name":"Kampung Tok Paduka",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.2061,
+    6.44067,
+    100.2061,
+    6.44067
+],
+  "geometry": {"coordinates":[100.20610000000001,6.44067],"type":"Point"}
+}

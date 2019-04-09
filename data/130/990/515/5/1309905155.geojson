@@ -1,0 +1,70 @@
+{
+  "id": 1309905155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3943,2.5631,102.3943,2.5631",
+    "geom:latitude":2.5631,
+    "geom:longitude":102.3943,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Batang Rokan",
+    "gn:country_code":"MY",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535639,
+    "gn:latitude":2.5631,
+    "gn:longitude":102.3943,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Batang Rokan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batang Rokan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        1108696529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535639
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"354dd5b095ac2b27970360b7261e3299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696529,
+            "locality_id":1309905155,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1309905155,
+    "wof:lastmodified":1537674461,
+    "wof:name":"Kampung Batang Rokan",
+    "wof:parent_id":1108696529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3943,
+    2.5631,
+    102.3943,
+    2.5631
+],
+  "geometry": {"coordinates":[102.3943,2.5631],"type":"Point"}
+}

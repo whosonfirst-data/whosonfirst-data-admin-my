@@ -1,0 +1,70 @@
+{
+  "id": 1226655457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.929,1.8473,102.929,1.8473",
+    "geom:latitude":1.8473,
+    "geom:longitude":102.929,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Sateh",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857493,
+    "gn:latitude":1.8473,
+    "gn:longitude":102.929,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sateh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sateh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857493
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b3828595d3c73fe91a5f87434d5aa996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1226655457,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1226655457,
+    "wof:lastmodified":1537674443,
+    "wof:name":"Kampung Sateh",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.929,
+    1.8473,
+    102.929,
+    1.8473
+],
+  "geometry": {"coordinates":[102.929,1.8473],"type":"Point"}
+}

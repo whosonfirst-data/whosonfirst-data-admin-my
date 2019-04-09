@@ -1,0 +1,70 @@
+{
+  "id": 1309805475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0951,6.15167,102.0951,6.15167",
+    "geom:latitude":6.15167,
+    "geom:longitude":102.0951,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Kuala Jambu",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736354,
+    "gn:latitude":6.15167,
+    "gn:longitude":102.0951,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kuala Jambu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Jambu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736354
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f1b4b4809eefe2f5b151deaf2695f53d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1309805475,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1309805475,
+    "wof:lastmodified":1537673736,
+    "wof:name":"Kampung Kuala Jambu",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0951,
+    6.15167,
+    102.0951,
+    6.15167
+],
+  "geometry": {"coordinates":[102.0951,6.15167],"type":"Point"}
+}

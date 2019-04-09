@@ -1,0 +1,70 @@
+{
+  "id": 1326852505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4535,3.4359,102.4535,3.4359",
+    "geom:latitude":3.4359,
+    "geom:longitude":102.4535,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Baharu Bukit Tok Mahadi",
+    "gn:country_code":"MY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795967,
+    "gn:latitude":3.4359,
+    "gn:longitude":102.4535,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Baharu Bukit Tok Mahadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Bukit Tok Mahadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795967
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d1984a345618ca6f2fdf12ccba47bba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1326852505,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1326852505,
+    "wof:lastmodified":1537674398,
+    "wof:name":"Kampung Baharu Bukit Tok Mahadi",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4535,
+    3.4359,
+    102.4535,
+    3.4359
+],
+  "geometry": {"coordinates":[102.45350000000001,3.4359],"type":"Point"}
+}

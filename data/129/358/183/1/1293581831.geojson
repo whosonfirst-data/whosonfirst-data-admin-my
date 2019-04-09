@@ -1,0 +1,74 @@
+{
+  "id": 1293581831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3953,3.8219,102.3953,3.8219",
+    "geom:latitude":3.8219,
+    "geom:longitude":102.3953,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Teluk Temperah",
+    "gn:country_code":"MY",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762962,
+    "gn:latitude":3.8219,
+    "gn:longitude":102.3953,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Teluk Temperah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Teluk Temperah"
+    ],
+    "name:und_x_variant":[
+        "Kampong Lubok Pelang",
+        "Kampong Telok Temperah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762962
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"830423e2f89f2c565ed0f04b91ae271a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1293581831,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293581831,
+    "wof:lastmodified":1537673838,
+    "wof:name":"Kampung Teluk Temperah",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3953,
+    3.8219,
+    102.3953,
+    3.8219
+],
+  "geometry": {"coordinates":[102.39530000000001,3.8219],"type":"Point"}
+}

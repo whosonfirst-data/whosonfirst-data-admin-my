@@ -1,0 +1,73 @@
+{
+  "id": 1344065549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36887,6.00135,100.36887,6.00135",
+    "geom:latitude":6.00135,
+    "geom:longitude":100.36887,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Lahar Kelambu",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767675,
+    "gn:latitude":6.00135,
+    "gn:longitude":100.36887,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Lahar Kelambu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lahar Kelambu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Lahar Kelambu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767675
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"95af1bf026fb5fb7aa92f824bd2d7e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1344065549,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1344065549,
+    "wof:lastmodified":1537674047,
+    "wof:name":"Kampung Lahar Kelambu",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36887,
+    6.00135,
+    100.36887,
+    6.00135
+],
+  "geometry": {"coordinates":[100.36887,6.00135],"type":"Point"}
+}

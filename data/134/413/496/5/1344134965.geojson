@@ -1,0 +1,72 @@
+{
+  "id": 1344134965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.3325,1.55917,110.3325,1.55917",
+    "geom:latitude":1.55917,
+    "geom:longitude":110.3325,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kampung Nombor Satu",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1903367,
+    "gn:latitude":1.55917,
+    "gn:longitude":110.3325,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kampung Nombor Satu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampung No 1",
+        "Kampung Nombor Satu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1903367
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1c7e8cce45d5e46623a654982ba4cdc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1344134965,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1344134965,
+    "wof:lastmodified":1537674228,
+    "wof:name":"Kampung Nombor Satu",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.3325,
+    1.55917,
+    110.3325,
+    1.55917
+],
+  "geometry": {"coordinates":[110.3325,1.55917],"type":"Point"}
+}

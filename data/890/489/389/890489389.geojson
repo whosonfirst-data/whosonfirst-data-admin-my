@@ -1,0 +1,71 @@
+{
+  "id": 890489389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.46667,2.78333,101.46667,2.78333",
+    "geom:latitude":2.78333,
+    "geom:longitude":101.46667,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kg. Kanchong Darat",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762163,
+        "gp:id":56036410,
+        "qs:id":1012912
+    },
+    "wof:country":"MY",
+    "wof:created":1469054755,
+    "wof:geomhash":"fa7870997802ceb069ac1c60c99c1062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696427,
+            "locality_id":890489389,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890489389,
+    "wof:lastmodified":1505343785,
+    "wof:name":"Kg. Kanchong Darat",
+    "wof:parent_id":1108696427,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.46667,
+    2.78333,
+    101.46667,
+    2.78333
+],
+  "geometry": {"coordinates":[101.46666999999999,2.78333],"type":"Point"}
+}

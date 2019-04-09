@@ -1,0 +1,75 @@
+{
+  "id": 890490079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.47732,5.90322,100.47732,5.90322",
+    "geom:latitude":5.90322,
+    "geom:longitude":100.47732,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bukit Jenun"
+    ],
+    "name:unk_x_variant":[
+        "Jenun"
+    ],
+    "qs:name":"Bukij Jenun",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kedah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735475,
+        "gp:id":1140951,
+        "qs:id":1158051
+    },
+    "wof:country":"MY",
+    "wof:created":1469054787,
+    "wof:geomhash":"6d9120a459fa2c2e0aeea610a58ac89a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489109,
+            "locality_id":890490079,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":890490079,
+    "wof:lastmodified":1505343787,
+    "wof:name":"Bukij Jenun",
+    "wof:parent_id":890489109,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.47732,
+    5.90322,
+    100.47732,
+    5.90322
+],
+  "geometry": {"coordinates":[100.47732000000001,5.90322],"type":"Point"}
+}

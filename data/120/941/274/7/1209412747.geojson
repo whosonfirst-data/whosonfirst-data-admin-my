@@ -1,0 +1,64 @@
+{
+  "id": 1209412747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9417,4.0498,101.9417,4.0498",
+    "geom:latitude":4.0498,
+    "geom:longitude":101.9417,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Tualang",
+    "gn:country_code":"MY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638932,
+    "gn:latitude":4.0498,
+    "gn:longitude":101.9417,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tualang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tualang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638932
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"17622ee948d35c6a235e608dd30196dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209412747
+        }
+    ],
+    "wof:id":1209412747,
+    "wof:lastmodified":1537674345,
+    "wof:name":"Kampung Tualang",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9417,
+    4.0498,
+    101.9417,
+    4.0498
+],
+  "geometry": {"coordinates":[101.9417,4.0498],"type":"Point"}
+}

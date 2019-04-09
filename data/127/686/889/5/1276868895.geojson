@@ -1,0 +1,70 @@
+{
+  "id": 1276868895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1569,4.6394,101.1569,4.6394",
+    "geom:latitude":4.6394,
+    "geom:longitude":101.1569,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taman Mewah",
+    "gn:country_code":"MY",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473393,
+    "gn:latitude":4.6394,
+    "gn:longitude":101.1569,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Mewah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Mewah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473393
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4b8e6b95d30611f94728263db24fb84e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1276868895,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1276868895,
+    "wof:lastmodified":1537674306,
+    "wof:name":"Taman Mewah",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1569,
+    4.6394,
+    101.1569,
+    4.6394
+],
+  "geometry": {"coordinates":[101.15689999999999,4.6394],"type":"Point"}
+}

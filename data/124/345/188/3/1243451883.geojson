@@ -1,0 +1,70 @@
+{
+  "id": 1243451883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1329,3.25,103.1329,3.25",
+    "geom:latitude":3.25,
+    "geom:longitude":103.1329,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Cawai",
+    "gn:country_code":"MY",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697207,
+    "gn:latitude":3.25,
+    "gn:longitude":103.1329,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Cawai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Cawai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697207
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3c3438a7ea8c20ff283673522196ea16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1243451883,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1243451883,
+    "wof:lastmodified":1537674365,
+    "wof:name":"Kampung Cawai",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1329,
+    3.25,
+    103.1329,
+    3.25
+],
+  "geometry": {"coordinates":[103.13290000000001,3.25],"type":"Point"}
+}

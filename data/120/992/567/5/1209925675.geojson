@@ -1,0 +1,67 @@
+{
+  "id": 1209925675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.33333,5.76667,102.33333,5.76667",
+    "geom:latitude":5.76667,
+    "geom:longitude":102.33333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Gong Anak Nyur",
+    "gn:country_code":"MY",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769277,
+    "gn:latitude":5.76667,
+    "gn:longitude":102.33333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Gong Anak Nyur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769277
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cf2d0b849a1e86eb7aa18934bca44e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488991,
+            "locality_id":1209925675,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1209925675,
+    "wof:lastmodified":1536395024,
+    "wof:name":"Kampong Gong Anak Nyur",
+    "wof:parent_id":890488991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.33333,
+    5.76667,
+    102.33333,
+    5.76667
+],
+  "geometry": {"coordinates":[102.33333,5.76667],"type":"Point"}
+}

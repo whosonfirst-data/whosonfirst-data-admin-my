@@ -1,0 +1,73 @@
+{
+  "id": 1309694561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.917,6.1718,116.917,6.1718",
+    "geom:latitude":6.1718,
+    "geom:longitude":116.917,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Menedai",
+    "gn:country_code":"MY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766909,
+    "gn:latitude":6.1718,
+    "gn:longitude":116.917,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Menedai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Menedai"
+    ],
+    "name:und_x_variant":[
+        "Kampong Menedai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766909
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6d296b8de68c850fa758d2f5ca7d87ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1309694561,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309694561,
+    "wof:lastmodified":1537674014,
+    "wof:name":"Kampung Menedai",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.917,
+    6.1718,
+    116.917,
+    6.1718
+],
+  "geometry": {"coordinates":[116.917,6.1718],"type":"Point"}
+}

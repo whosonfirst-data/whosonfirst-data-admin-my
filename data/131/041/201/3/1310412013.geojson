@@ -1,0 +1,70 @@
+{
+  "id": 1310412013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1937,2.4197,102.1937,2.4197",
+    "geom:latitude":2.4197,
+    "geom:longitude":102.1937,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Taman Koperasi Naning",
+    "gn:country_code":"MY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797719,
+    "gn:latitude":2.4197,
+    "gn:longitude":102.1937,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Koperasi Naning",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Koperasi Naning"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797719
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5268306a5cabd24975bec68f510659f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1310412013,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1310412013,
+    "wof:lastmodified":1537674423,
+    "wof:name":"Taman Koperasi Naning",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1937,
+    2.4197,
+    102.1937,
+    2.4197
+],
+  "geometry": {"coordinates":[102.19370000000001,2.4197],"type":"Point"}
+}

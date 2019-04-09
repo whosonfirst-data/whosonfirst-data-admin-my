@@ -1,0 +1,70 @@
+{
+  "id": 1243169835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2747,3.1802,102.2747,3.1802",
+    "geom:latitude":3.1802,
+    "geom:longitude":102.2747,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kemajuan Tanah Sungai Kemahal",
+    "gn:country_code":"MY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7691730,
+    "gn:latitude":3.1802,
+    "gn:longitude":102.2747,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Sungai Kemahal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Sungai Kemahal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7691730
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e3a9161c01ee3ace0aea6d57b1495090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696389,
+            "locality_id":1243169835,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1243169835,
+    "wof:lastmodified":1537674362,
+    "wof:name":"Kemajuan Tanah Sungai Kemahal",
+    "wof:parent_id":1108696389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2747,
+    3.1802,
+    102.2747,
+    3.1802
+],
+  "geometry": {"coordinates":[102.2747,3.1802],"type":"Point"}
+}

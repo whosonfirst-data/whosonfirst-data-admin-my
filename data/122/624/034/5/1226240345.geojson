@@ -1,0 +1,70 @@
+{
+  "id": 1226240345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4266,3.5114,102.4266,3.5114",
+    "geom:latitude":3.5114,
+    "geom:longitude":102.4266,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Belangka",
+    "gn:country_code":"MY",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795923,
+    "gn:latitude":3.5114,
+    "gn:longitude":102.4266,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Belangka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Belangka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795923
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f77d2c60ab999df444ee8ee59fa8926c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1226240345,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226240345,
+    "wof:lastmodified":1537674397,
+    "wof:name":"Kampung Belangka",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4266,
+    3.5114,
+    102.4266,
+    3.5114
+],
+  "geometry": {"coordinates":[102.42659999999999,3.5114],"type":"Point"}
+}

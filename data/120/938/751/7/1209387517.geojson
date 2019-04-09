@@ -1,0 +1,67 @@
+{
+  "id": 1209387517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5561,6.5724,116.5561,6.5724",
+    "geom:latitude":6.5724,
+    "geom:longitude":116.5561,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Kaid",
+    "gn:country_code":"MY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768655,
+    "gn:latitude":6.5724,
+    "gn:longitude":116.5561,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kaid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kaid"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kaid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768655
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"96dca156c21a63c0ce72e898e31c1e46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209387517
+        }
+    ],
+    "wof:id":1209387517,
+    "wof:lastmodified":1537674089,
+    "wof:name":"Kampung Kaid",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5561,
+    6.5724,
+    116.5561,
+    6.5724
+],
+  "geometry": {"coordinates":[116.5561,6.5724],"type":"Point"}
+}

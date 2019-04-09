@@ -1,0 +1,71 @@
+{
+  "id": 1293780689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.44838,5.10335,100.44838,5.10335",
+    "geom:latitude":5.10335,
+    "geom:longitude":100.44838,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tembok Haji Musa",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6862273,
+    "gn:latitude":5.10335,
+    "gn:longitude":100.44838,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tembok Haji Musa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Tembok Haji Musa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6862273
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"25795217413a1d0ef57f9a6931640827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489801,
+            "locality_id":1293780689,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1293780689,
+    "wof:lastmodified":1537674269,
+    "wof:name":"Tembok Haji Musa",
+    "wof:parent_id":890489801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.44838,
+    5.10335,
+    100.44838,
+    5.10335
+],
+  "geometry": {"coordinates":[100.44838,5.10335],"type":"Point"}
+}

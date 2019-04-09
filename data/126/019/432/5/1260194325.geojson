@@ -1,0 +1,73 @@
+{
+  "id": 1260194325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0271,6.0149,102.0271,6.0149",
+    "geom:latitude":6.0149,
+    "geom:longitude":102.0271,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Gua",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769178,
+    "gn:latitude":6.0149,
+    "gn:longitude":102.0271,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Gua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gua"
+    ],
+    "name:und_x_variant":[
+        "Kampong Gua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769178
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"edff752bf5be0ebba20382ad7942a7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1260194325,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1260194325,
+    "wof:lastmodified":1537674110,
+    "wof:name":"Kampung Gua",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0271,
+    6.0149,
+    102.0271,
+    6.0149
+],
+  "geometry": {"coordinates":[102.0271,6.0149],"type":"Point"}
+}

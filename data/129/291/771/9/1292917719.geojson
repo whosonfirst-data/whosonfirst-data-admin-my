@@ -1,0 +1,73 @@
+{
+  "id": 1292917719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7566,2.1145,102.7566,2.1145",
+    "geom:latitude":2.1145,
+    "geom:longitude":102.7566,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Panjang Sari",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766216,
+    "gn:latitude":2.1145,
+    "gn:longitude":102.7566,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Panjang Sari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Panjang Sari"
+    ],
+    "name:und_x_variant":[
+        "Kampong Panjang Sari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766216
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"148e97d3387422a64393f5b635317409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1292917719,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1292917719,
+    "wof:lastmodified":1537673988,
+    "wof:name":"Kampung Panjang Sari",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7566,
+    2.1145,
+    102.7566,
+    2.1145
+],
+  "geometry": {"coordinates":[102.75660000000001,2.1145],"type":"Point"}
+}

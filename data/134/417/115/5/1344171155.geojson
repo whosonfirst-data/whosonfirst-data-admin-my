@@ -1,0 +1,72 @@
+{
+  "id": 1344171155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.77828,2.41451,103.77828,2.41451",
+    "geom:latitude":2.41451,
+    "geom:longitude":103.77828,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Melikai",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766933,
+    "gn:latitude":2.41451,
+    "gn:longitude":103.77828,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kampung Melikai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Malikai",
+        "Kampong Melikai",
+        "Kampung Melikai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766933
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dad7bd7a1c9e02c941cf2a6bc218e3b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488715,
+            "locality_id":1344171155,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1344171155,
+    "wof:lastmodified":1537674015,
+    "wof:name":"Kampung Melikai",
+    "wof:parent_id":890488715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.77828,
+    2.41451,
+    103.77828,
+    2.41451
+],
+  "geometry": {"coordinates":[103.77828,2.41451],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276560841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.50243,5.65573,100.50243,5.65573",
+    "geom:latitude":5.65573,
+    "geom:longitude":100.50243,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Ayer Mendidih",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847554,
+    "gn:latitude":5.65573,
+    "gn:longitude":100.50243,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Ayer Mendidih",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ayer Mendidih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847554
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4d3e2dbf8458bbb7cfeba1aa92b439d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "locality_id":1276560841,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1276560841,
+    "wof:lastmodified":1537674256,
+    "wof:name":"Kampung Ayer Mendidih",
+    "wof:parent_id":890490355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.50243,
+    5.65573,
+    100.50243,
+    5.65573
+],
+  "geometry": {"coordinates":[100.50243,5.65573],"type":"Point"}
+}

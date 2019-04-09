@@ -1,0 +1,69 @@
+{
+  "id": 890488199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.565368,2.45778,103.565368,2.45778",
+    "geom:latitude":2.45778,
+    "geom:longitude":103.565368,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Mersing",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":148,
+    "qs:photos_1k":30,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1078,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":603,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013579,
+        "qs:id":1249061,
+        "wd:id":"Q1344433",
+        "wk:page":"Mersing"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054710,
+    "wof:geomhash":"e145fc5f4999eab5ce556600d0ccdee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488199,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890488199,
+    "wof:lastmodified":1527787078,
+    "wof:name":"Mersing",
+    "wof:parent_id":85675141,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.565368,
+    2.45778,
+    103.565368,
+    2.45778
+],
+  "geometry": {"coordinates":[103.56536800000001,2.45778],"type":"Point"}
+}

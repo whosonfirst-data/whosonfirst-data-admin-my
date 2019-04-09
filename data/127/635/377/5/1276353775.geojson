@@ -1,0 +1,70 @@
+{
+  "id": 1276353775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.977,1.9556,102.977,1.9556",
+    "geom:latitude":1.9556,
+    "geom:longitude":102.977,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Seri Jasa",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857032,
+    "gn:latitude":1.9556,
+    "gn:longitude":102.977,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Seri Jasa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Seri Jasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857032
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ec57fb990e94d91d45b73bc633a74523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1276353775,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276353775,
+    "wof:lastmodified":1537674441,
+    "wof:name":"Kampung Seri Jasa",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.977,
+    1.9556,
+    102.977,
+    1.9556
+],
+  "geometry": {"coordinates":[102.977,1.9556],"type":"Point"}
+}

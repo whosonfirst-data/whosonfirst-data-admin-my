@@ -1,0 +1,70 @@
+{
+  "id": 1310026853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0086,4.8357,101.0086,4.8357",
+    "geom:latitude":4.8357,
+    "geom:longitude":101.0086,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Salak Utara",
+    "gn:country_code":"MY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473260,
+    "gn:latitude":4.8357,
+    "gn:longitude":101.0086,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Salak Utara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Salak Utara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473260
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5a6647c5b8f115d507288dbe1554eefc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":1310026853,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1310026853,
+    "wof:lastmodified":1537674303,
+    "wof:name":"Salak Utara",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0086,
+    4.8357,
+    101.0086,
+    4.8357
+],
+  "geometry": {"coordinates":[101.0086,4.8357],"type":"Point"}
+}

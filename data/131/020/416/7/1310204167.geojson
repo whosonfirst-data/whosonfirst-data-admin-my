@@ -1,0 +1,70 @@
+{
+  "id": 1310204167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2731,2.8469,102.2731,2.8469",
+    "geom:latitude":2.8469,
+    "geom:longitude":102.2731,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Tengah Sungai Talan",
+    "gn:country_code":"MY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796769,
+    "gn:latitude":2.8469,
+    "gn:longitude":102.2731,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tengah Sungai Talan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tengah Sungai Talan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796769
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d021417a58af2cb67f979884afcb489a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1310204167,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1310204167,
+    "wof:lastmodified":1537674411,
+    "wof:name":"Kampung Tengah Sungai Talan",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2731,
+    2.8469,
+    102.2731,
+    2.8469
+],
+  "geometry": {"coordinates":[102.2731,2.8469],"type":"Point"}
+}

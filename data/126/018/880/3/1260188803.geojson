@@ -1,0 +1,73 @@
+{
+  "id": 1260188803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5026,2.1415,102.5026,2.1415",
+    "geom:latitude":2.1415,
+    "geom:longitude":102.5026,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Parit Penghulu",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766117,
+    "gn:latitude":2.1415,
+    "gn:longitude":102.5026,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Parit Penghulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Penghulu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Parit Penghulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766117
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"afd007cdf8deab493d005fe1e4e66294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489809,
+            "locality_id":1260188803,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1260188803,
+    "wof:lastmodified":1537673983,
+    "wof:name":"Kampung Parit Penghulu",
+    "wof:parent_id":890489809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5026,
+    2.1415,
+    102.5026,
+    2.1415
+],
+  "geometry": {"coordinates":[102.5026,2.1415],"type":"Point"}
+}

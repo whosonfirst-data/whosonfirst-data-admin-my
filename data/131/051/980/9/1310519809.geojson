@@ -1,0 +1,61 @@
+{
+  "id": 1310519809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.9,6.0,117.9,6.0",
+    "geom:latitude":6.0,
+    "geom:longitude":117.9,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dandulit",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734000,
+    "gn:latitude":6.0,
+    "gn:longitude":117.9,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Dandulit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734000
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"00d00e3e9b6082a248a82939882513f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310519809,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310519809,
+    "wof:lastmodified":1536896084,
+    "wof:name":"Dandulit",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.9,
+    6.0,
+    117.9,
+    6.0
+],
+  "geometry": {"coordinates":[117.90000000000001,6.0],"type":"Point"}
+}

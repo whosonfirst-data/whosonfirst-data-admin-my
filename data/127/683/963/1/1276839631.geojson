@@ -1,0 +1,73 @@
+{
+  "id": 1276839631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4515,5.8628,116.4515,5.8628",
+    "geom:latitude":5.8628,
+    "geom:longitude":116.4515,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Kimwarnan",
+    "gn:country_code":"MY",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768238,
+    "gn:latitude":5.8628,
+    "gn:longitude":116.4515,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kimwarnan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kimwarnan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kimwarnan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768238
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d0feb1bfe948c3b6e59176f598624ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696525,
+            "locality_id":1276839631,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276839631,
+    "wof:lastmodified":1537674069,
+    "wof:name":"Kampung Kimwarnan",
+    "wof:parent_id":1108696525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4515,
+    5.8628,
+    116.4515,
+    5.8628
+],
+  "geometry": {"coordinates":[116.4515,5.8628],"type":"Point"}
+}

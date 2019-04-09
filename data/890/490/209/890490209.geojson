@@ -1,0 +1,78 @@
+{
+  "id": 890490209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.775,3.167,101.775,3.167",
+    "geom:latitude":3.167,
+    "geom:longitude":101.775,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Tun Abdul Razak"
+    ],
+    "qs:name":"Taman Tun Abdul Razak",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":58,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":58,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675163,
+        102191569,
+        85632739,
+        102023417,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7688593,
+        "gp:id":56036482,
+        "qs:id":1182990
+    },
+    "wof:country":"MY",
+    "wof:created":1469054794,
+    "wof:geomhash":"ebf70ba915e07f1c2ae77140c0e25a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":102023417,
+            "neighbourhood_id":890490209,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890490209,
+    "wof:lastmodified":1505343787,
+    "wof:name":"Taman Tun Abdul Razak",
+    "wof:parent_id":102023417,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.775,
+    3.167,
+    101.775,
+    3.167
+],
+  "geometry": {"coordinates":[101.77500000000001,3.167],"type":"Point"}
+}

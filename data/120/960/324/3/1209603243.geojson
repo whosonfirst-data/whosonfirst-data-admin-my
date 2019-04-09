@@ -1,0 +1,61 @@
+{
+  "id": 1209603243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.18333,1.5,110.18333,1.5",
+    "geom:latitude":1.5,
+    "geom:longitude":110.18333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Daun",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769670,
+    "gn:latitude":1.5,
+    "gn:longitude":110.18333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Daun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769670
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1f95d9237d8f5feaf43e13d877f8d24f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209603243
+        }
+    ],
+    "wof:id":1209603243,
+    "wof:lastmodified":1536282097,
+    "wof:name":"Kampong Daun",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.18333,
+    1.5,
+    110.18333,
+    1.5
+],
+  "geometry": {"coordinates":[110.18333,1.5],"type":"Point"}
+}

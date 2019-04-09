@@ -1,0 +1,74 @@
+{
+  "id": 1210039131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2874,2.7546,102.2874,2.7546",
+    "geom:latitude":2.7546,
+    "geom:longitude":102.2874,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Sungkak",
+    "gn:country_code":"MY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763721,
+    "gn:latitude":2.7546,
+    "gn:longitude":102.2874,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungkak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungkak"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sunkak",
+        "Kampong Sungkak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763721
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9e9e48664a5daa05e7055eede71d78e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1210039131,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1210039131,
+    "wof:lastmodified":1537673874,
+    "wof:name":"Kampung Sungkak",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2874,
+    2.7546,
+    102.2874,
+    2.7546
+],
+  "geometry": {"coordinates":[102.28740000000001,2.7546],"type":"Point"}
+}

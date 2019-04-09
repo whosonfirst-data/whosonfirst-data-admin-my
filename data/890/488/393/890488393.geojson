@@ -1,0 +1,75 @@
+{
+  "id": 890488393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.46985,5.15602,100.46985,5.15602",
+    "geom:latitude":5.15602,
+    "geom:longitude":100.46985,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Rantau Panjang"
+    ],
+    "qs:name":"Rantau Panjang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1749036,
+        "gp:id":56118258,
+        "qs:id":1242575,
+        "wd:id":"Q4209077",
+        "wk:page":"Rantau Panjang"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054718,
+    "wof:geomhash":"72ab09d755e66d16ca0f39767ebb6fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":890488393,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":890488393,
+    "wof:lastmodified":1527787078,
+    "wof:name":"Rantau Panjang",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.46985,
+    5.15602,
+    100.46985,
+    5.15602
+],
+  "geometry": {"coordinates":[100.46984999999999,5.15602],"type":"Point"}
+}

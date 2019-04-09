@@ -1,0 +1,74 @@
+{
+  "id": 1309778565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.1185,6.1086,117.1185,6.1086",
+    "geom:latitude":6.1086,
+    "geom:longitude":117.1185,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Ogan",
+    "gn:country_code":"MY",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1753149,
+    "gn:latitude":6.1086,
+    "gn:longitude":117.1185,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ogan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ogan"
+    ],
+    "name:und_x_variant":[
+        "Agan",
+        "Kampung Ogan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1753149
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"13dd75dcf6f855e34d9ca747387979d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1309778565,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309778565,
+    "wof:lastmodified":1537673790,
+    "wof:name":"Kampung Ogan",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.1185,
+    6.1086,
+    117.1185,
+    6.1086
+],
+  "geometry": {"coordinates":[117.1185,6.1086],"type":"Point"}
+}

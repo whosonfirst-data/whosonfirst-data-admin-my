@@ -1,0 +1,74 @@
+{
+  "id": 1277154273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9313,3.7763,100.9313,3.7763",
+    "geom:latitude":3.7763,
+    "geom:longitude":100.9313,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Tebok Berihon",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763209,
+    "gn:latitude":3.7763,
+    "gn:longitude":100.9313,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tebok Berihon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tebok Berihon"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tengah",
+        "Kampong Tebok Berihon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890490813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763209
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"85c6f5a029de0f01ec8f216f4918fd6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490813,
+            "locality_id":1277154273,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1277154273,
+    "wof:lastmodified":1537673850,
+    "wof:name":"Kampung Tebok Berihon",
+    "wof:parent_id":890490813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9313,
+    3.7763,
+    100.9313,
+    3.7763
+],
+  "geometry": {"coordinates":[100.93129999999999,3.7763],"type":"Point"}
+}

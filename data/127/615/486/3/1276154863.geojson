@@ -1,0 +1,70 @@
+{
+  "id": 1276154863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2815,2.6727,102.2815,2.6727",
+    "geom:latitude":2.6727,
+    "geom:longitude":102.2815,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Selaru",
+    "gn:country_code":"MY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356579,
+    "gn:latitude":2.6727,
+    "gn:longitude":102.2815,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Selaru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Selaru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356579
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"212d8728fcc91bc09c21f788ba37c7c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1276154863,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1276154863,
+    "wof:lastmodified":1537674454,
+    "wof:name":"Selaru",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2815,
+    2.6727,
+    102.2815,
+    2.6727
+],
+  "geometry": {"coordinates":[102.28149999999999,2.6727],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242591895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.6003,1.3521,103.6003,1.3521",
+    "geom:latitude":1.3521,
+    "geom:longitude":103.6003,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Tanjung Kupang",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763402,
+    "gn:latitude":1.3521,
+    "gn:longitude":103.6003,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tanjung Kupang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Kupang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tanjong Kupang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763402
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e995e1898aecb7188ff0106521ba1dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1242591895,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1242591895,
+    "wof:lastmodified":1537673858,
+    "wof:name":"Kampung Tanjung Kupang",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.6003,
+    1.3521,
+    103.6003,
+    1.3521
+],
+  "geometry": {"coordinates":[103.6003,1.3521],"type":"Point"}
+}

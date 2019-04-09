@@ -1,0 +1,71 @@
+{
+  "id": 1276224665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.01667,3.46667,103.01667,3.46667",
+    "geom:latitude":3.46667,
+    "geom:longitude":103.01667,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampong Penyor",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765661,
+    "gn:latitude":3.46667,
+    "gn:longitude":103.01667,
+    "gn:modification_date":"2013-10-05",
+    "gn:name":"Kampong Penyor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Penyu",
+        "Kampong Penyor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765661
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a48b7bf5c81216a7d61af3eba0136d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1276224665,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276224665,
+    "wof:lastmodified":1537673963,
+    "wof:name":"Kampong Penyor",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.01667,
+    3.46667,
+    103.01667,
+    3.46667
+],
+  "geometry": {"coordinates":[103.01667,3.46667],"type":"Point"}
+}

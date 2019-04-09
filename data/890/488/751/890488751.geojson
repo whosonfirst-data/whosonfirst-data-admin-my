@@ -1,0 +1,73 @@
+{
+  "id": 890488751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.76667,2.98333,101.76667,2.98333",
+    "geom:latitude":2.98333,
+    "geom:longitude":101.76667,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Sungai Chua",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1742822,
+        "gp:id":1154135,
+        "qs:id":326804
+    },
+    "wof:country":"MY",
+    "wof:created":1469054731,
+    "wof:geomhash":"38c643c22014838acc13e466a8233b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":890488751,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890488751,
+    "wof:lastmodified":1505343783,
+    "wof:name":"Sungai Chua",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.76667,
+    2.98333,
+    101.76667,
+    2.98333
+],
+  "geometry": {"coordinates":[101.76667,2.98333],"type":"Point"}
+}

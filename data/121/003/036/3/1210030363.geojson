@@ -1,0 +1,70 @@
+{
+  "id": 1210030363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.5684,1.4125,103.5684,1.4125",
+    "geom:latitude":1.4125,
+    "geom:longitude":103.5684,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Simpang Arang",
+    "gn:country_code":"MY",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7858079,
+    "gn:latitude":1.4125,
+    "gn:longitude":103.5684,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Simpang Arang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Simpang Arang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858079
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b19c494f7c23db4a1e48747031285c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1210030363,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1210030363,
+    "wof:lastmodified":1537674450,
+    "wof:name":"Kampung Simpang Arang",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.5684,
+    1.4125,
+    103.5684,
+    1.4125
+],
+  "geometry": {"coordinates":[103.5684,1.4125],"type":"Point"}
+}

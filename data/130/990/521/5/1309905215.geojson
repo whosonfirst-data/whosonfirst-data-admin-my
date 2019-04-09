@@ -1,0 +1,70 @@
+{
+  "id": 1309905215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2236,2.7338,102.2236,2.7338",
+    "geom:latitude":2.7338,
+    "geom:longitude":102.2236,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Taman Desa Aman",
+    "gn:country_code":"MY",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796815,
+    "gn:latitude":2.7338,
+    "gn:longitude":102.2236,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Desa Aman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Desa Aman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796815
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ce7b8ca6425cad0b4c5932964789389a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1309905215,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1309905215,
+    "wof:lastmodified":1537674412,
+    "wof:name":"Taman Desa Aman",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2236,
+    2.7338,
+    102.2236,
+    2.7338
+],
+  "geometry": {"coordinates":[102.2236,2.7338],"type":"Point"}
+}

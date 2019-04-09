@@ -1,0 +1,64 @@
+{
+  "id": 1209386473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.425,4.668,103.425,4.668",
+    "geom:latitude":4.668,
+    "geom:longitude":103.425,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Nik",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7554928,
+    "gn:latitude":4.668,
+    "gn:longitude":103.425,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Nik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Nik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7554928
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"94789069759022b36a61b491646c84eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209386473
+        }
+    ],
+    "wof:id":1209386473,
+    "wof:lastmodified":1537674309,
+    "wof:name":"Kampung Nik",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.425,
+    4.668,
+    103.425,
+    4.668
+],
+  "geometry": {"coordinates":[103.425,4.668],"type":"Point"}
+}

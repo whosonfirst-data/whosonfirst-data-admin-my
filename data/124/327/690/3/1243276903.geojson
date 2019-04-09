@@ -1,0 +1,70 @@
+{
+  "id": 1243276903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.57209,5.45947,100.57209,5.45947",
+    "geom:latitude":5.45947,
+    "geom:longitude":100.57209,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Bukit Sarang Ayam",
+    "gn:country_code":"MY",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858997,
+    "gn:latitude":5.45947,
+    "gn:longitude":100.57209,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Bukit Sarang Ayam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Sarang Ayam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858997
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0d17c70025d9728e9d92fb1910875e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490359,
+            "locality_id":1243276903,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1243276903,
+    "wof:lastmodified":1537674267,
+    "wof:name":"Kampung Bukit Sarang Ayam",
+    "wof:parent_id":890490359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.57209,
+    5.45947,
+    100.57209,
+    5.45947
+],
+  "geometry": {"coordinates":[100.57209,5.45947],"type":"Point"}
+}

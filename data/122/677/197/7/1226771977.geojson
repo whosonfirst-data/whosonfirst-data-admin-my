@@ -1,0 +1,70 @@
+{
+  "id": 1226771977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1979,3.2318,103.1979,3.2318",
+    "geom:latitude":3.2318,
+    "geom:longitude":103.1979,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Sohon Luar",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697211,
+    "gn:latitude":3.2318,
+    "gn:longitude":103.1979,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sohon Luar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sohon Luar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697211
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f3d84a687e3ce81f44c418d188024ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1226771977,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226771977,
+    "wof:lastmodified":1537674365,
+    "wof:name":"Kampung Sohon Luar",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1979,
+    3.2318,
+    103.1979,
+    3.2318
+],
+  "geometry": {"coordinates":[103.1979,3.2318],"type":"Point"}
+}

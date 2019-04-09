@@ -1,0 +1,67 @@
+{
+  "id": 1259962033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.4,5.4,115.4,5.4",
+    "geom:latitude":5.4,
+    "geom:longitude":115.4,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Tindak",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762666,
+    "gn:latitude":5.4,
+    "gn:longitude":115.4,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Tindak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        890490799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762666
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9ea1adfae14ce03ad0b699409edcbea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490799,
+            "locality_id":1259962033,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259962033,
+    "wof:lastmodified":1536666091,
+    "wof:name":"Kampong Tindak",
+    "wof:parent_id":890490799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.4,
+    5.4,
+    115.4,
+    5.4
+],
+  "geometry": {"coordinates":[115.40000000000001,5.4],"type":"Point"}
+}

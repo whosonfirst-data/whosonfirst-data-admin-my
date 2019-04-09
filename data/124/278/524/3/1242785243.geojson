@@ -1,0 +1,70 @@
+{
+  "id": 1242785243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.24739,5.92879,102.24739,5.92879",
+    "geom:latitude":5.92879,
+    "geom:longitude":102.24739,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Lubok Bakap",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067971,
+    "gn:latitude":5.92879,
+    "gn:longitude":102.24739,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Lubok Bakap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lubok Bakap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067971
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c7a2e2e59304d350203028bdf30258be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489783,
+            "locality_id":1242785243,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1242785243,
+    "wof:lastmodified":1537674274,
+    "wof:name":"Kampung Lubok Bakap",
+    "wof:parent_id":890489783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.24739,
+    5.92879,
+    102.24739,
+    5.92879
+],
+  "geometry": {"coordinates":[102.24739,5.92879],"type":"Point"}
+}

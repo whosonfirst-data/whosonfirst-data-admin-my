@@ -1,0 +1,74 @@
+{
+  "id": 1276875483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.76467,5.71281,100.76467,5.71281",
+    "geom:latitude":5.71281,
+    "geom:longitude":100.76467,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Sungai Tembak",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763612,
+    "gn:latitude":5.71281,
+    "gn:longitude":100.76467,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Tembak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Tembak"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tambak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763612
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"98e3c8972413e7d9060455f10642b546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696379,
+            "locality_id":1276875483,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1276875483,
+    "wof:lastmodified":1537673869,
+    "wof:name":"Kampung Sungai Tembak",
+    "wof:parent_id":1108696379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.76467,
+    5.71281,
+    100.76467,
+    5.71281
+],
+  "geometry": {"coordinates":[100.76467,5.71281],"type":"Point"}
+}

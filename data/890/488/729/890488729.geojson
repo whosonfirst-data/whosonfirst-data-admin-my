@@ -1,0 +1,79 @@
+{
+  "id": 890488729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7095,2.2097,102.7095,2.2097",
+    "geom:latitude":2.2097,
+    "geom:longitude":102.7095,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:msa_x_preferred":[
+        "Gerisek"
+    ],
+    "name:unk_x_variant":[
+        "Grisek"
+    ],
+    "qs:name":"Gerisik",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732858,
+        "gp:id":1141155,
+        "qs:id":308306,
+        "wk:page":"Gerisek"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054730,
+    "wof:geomhash":"d220a3fdf23bdf2f28922d3f3e31ba55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":890488729,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890488729,
+    "wof:lastmodified":1527787082,
+    "wof:name":"Gerisik",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7095,
+    2.2097,
+    102.7095,
+    2.2097
+],
+  "geometry": {"coordinates":[102.70950000000001,2.2097],"type":"Point"}
+}

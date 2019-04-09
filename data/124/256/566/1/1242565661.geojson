@@ -1,0 +1,83 @@
+{
+  "id": 1242565661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.38354,1.29836,110.38354,1.29836",
+    "geom:latitude":1.29836,
+    "geom:longitude":110.38354,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Pelaman Sedaun",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765815,
+    "gn:latitude":1.29836,
+    "gn:longitude":110.38354,
+    "gn:modification_date":"2012-11-27",
+    "gn:name":"Kampong Pelaman Sedaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bth_x_historical":[
+        "Sijueq"
+    ],
+    "name:bth_x_preferred":[
+        "Sijueq"
+    ],
+    "name:msa_x_preferred":[
+        "Kampong Plaman Sedaun"
+    ],
+    "name:msa_x_variant":[
+        "Sidaun"
+    ],
+    "name:und_x_variant":[
+        "Plaman Sedauh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765815
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"435b2463dc76cb37790df8b15e0946d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1242565661,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1242565661,
+    "wof:lastmodified":1537673970,
+    "wof:name":"Kampong Pelaman Sedaun",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.38354,
+    1.29836,
+    110.38354,
+    1.29836
+],
+  "geometry": {"coordinates":[110.38354,1.29836],"type":"Point"}
+}

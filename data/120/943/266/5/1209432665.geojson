@@ -1,0 +1,64 @@
+{
+  "id": 1209432665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.5538,2.2324,103.5538,2.2324",
+    "geom:latitude":2.2324,
+    "geom:longitude":103.5538,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Baru Kahang Batu Dua Puluh Empat",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7567436,
+    "gn:latitude":2.2324,
+    "gn:longitude":103.5538,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Baru Kahang Batu Dua Puluh Empat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baru Kahang Batu Dua Puluh Empat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7567436
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cd536587ae56f2b0e6456946c88ddfdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209432665
+        }
+    ],
+    "wof:id":1209432665,
+    "wof:lastmodified":1537674316,
+    "wof:name":"Kampung Baru Kahang Batu Dua Puluh Empat",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.5538,
+    2.2324,
+    103.5538,
+    2.2324
+],
+  "geometry": {"coordinates":[103.5538,2.2324],"type":"Point"}
+}

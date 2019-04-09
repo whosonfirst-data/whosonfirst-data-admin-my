@@ -1,0 +1,73 @@
+{
+  "id": 1343468427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4989,2.2254,102.4989,2.2254",
+    "geom:latitude":2.2254,
+    "geom:longitude":102.4989,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Peng Besar",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765737,
+    "gn:latitude":2.2254,
+    "gn:longitude":102.4989,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Peng Besar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Peng Besar"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pengkalan Besar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765737
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c85c9734637d013b7d77114d10f193b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1343468427,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1343468427,
+    "wof:lastmodified":1537673966,
+    "wof:name":"Kampung Peng Besar",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4989,
+    2.2254,
+    102.4989,
+    2.2254
+],
+  "geometry": {"coordinates":[102.49890000000001,2.2254],"type":"Point"}
+}

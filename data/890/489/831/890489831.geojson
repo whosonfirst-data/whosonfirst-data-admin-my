@@ -1,0 +1,70 @@
+{
+  "id": 890489831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.325393,1.4016095,110.325393,1.4016095",
+    "geom:latitude":1.401609,
+    "geom:longitude":110.325393,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Siburan",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sarawak",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":597,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":165,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014033,
+        "qs:id":1111824,
+        "wd:id":"Q7507309",
+        "wk:page":"Siburan"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054772,
+    "wof:geomhash":"0e4dc0a188d41db504ae480adc397b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "localadmin_id":890489831,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":890489831,
+    "wof:lastmodified":1527792865,
+    "wof:name":"Siburan",
+    "wof:parent_id":890488875,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.325393,
+    1.4016095,
+    110.325393,
+    1.4016095
+],
+  "geometry": {"coordinates":[110.32539300000001,1.4016095],"type":"Point"}
+}

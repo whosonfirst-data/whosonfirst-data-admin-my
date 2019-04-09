@@ -1,0 +1,75 @@
+{
+  "id": 1293671225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5712,5.9824,116.5712,5.9824",
+    "geom:latitude":5.9824,
+    "geom:longitude":116.5712,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Kundassang",
+    "gn:country_code":"MY",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736633,
+    "gn:latitude":5.9824,
+    "gn:longitude":116.5712,
+    "gn:modification_date":"2018-04-11",
+    "gn:name":"Kampung Kundassang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kundassang"
+    ],
+    "name:und_x_variant":[
+        "Kundassan",
+        "Kampong Kundassan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736633,
+        "wk:page":"Kundasang"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4e064a8a9d6fe161169d05b0bafbab1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":1293671225,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1293671225,
+    "wof:lastmodified":1537673744,
+    "wof:name":"Kampung Kundassang",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5712,
+    5.9824,
+    116.5712,
+    5.9824
+],
+  "geometry": {"coordinates":[116.5712,5.9824],"type":"Point"}
+}

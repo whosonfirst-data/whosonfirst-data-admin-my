@@ -1,0 +1,73 @@
+{
+  "id": 1193258485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.53436,2.67678,101.53436,2.67678",
+    "geom:latitude":2.67678,
+    "geom:longitude":101.53436,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Kundang",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767746,
+    "gn:latitude":2.67678,
+    "gn:longitude":101.53436,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Kampung Kundang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kundang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kundang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767746
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6c9d10c51378c80fe9218f146f9a7dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696427,
+            "locality_id":1193258485,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1193258485,
+    "wof:lastmodified":1537674051,
+    "wof:name":"Kampung Kundang",
+    "wof:parent_id":1108696427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.53436,
+    2.67678,
+    101.53436,
+    2.67678
+],
+  "geometry": {"coordinates":[101.53436000000001,2.67678],"type":"Point"}
+}

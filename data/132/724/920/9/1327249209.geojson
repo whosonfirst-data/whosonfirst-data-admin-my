@@ -1,0 +1,70 @@
+{
+  "id": 1327249209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7314,2.2257,102.7314,2.2257",
+    "geom:latitude":2.2257,
+    "geom:longitude":102.7314,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Pelampong",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798387,
+    "gn:latitude":2.2257,
+    "gn:longitude":102.7314,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Pelampong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Pelampong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798387
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"28bf083e82f8b6490ecf9815aa63c092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1327249209,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1327249209,
+    "wof:lastmodified":1537674431,
+    "wof:name":"Kampung Parit Pelampong",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7314,
+    2.2257,
+    102.7314,
+    2.2257
+],
+  "geometry": {"coordinates":[102.73139999999999,2.2257],"type":"Point"}
+}

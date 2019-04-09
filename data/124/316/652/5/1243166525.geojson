@@ -1,0 +1,68 @@
+{
+  "id": 1243166525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.37357,5.41992,100.37357,5.41992",
+    "geom:latitude":5.41992,
+    "geom:longitude":100.37357,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kampung Bagan Tuan Kechil",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1781951,
+    "gn:latitude":5.41992,
+    "gn:longitude":100.37357,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bagan Tuan Kechil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bagan Tuan Kechil"
+    ],
+    "name:und_x_variant":[
+        "Bagan Tuan Kechil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1781951
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"338cef0fcb43e615789e59b938075a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243166525,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243166525,
+    "wof:lastmodified":1537674224,
+    "wof:name":"Kampung Bagan Tuan Kechil",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.37357,
+    5.41992,
+    100.37357,
+    5.41992
+],
+  "geometry": {"coordinates":[100.37357,5.41992],"type":"Point"}
+}

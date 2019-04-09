@@ -1,0 +1,67 @@
+{
+  "id": 1343342725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.26667,3.1,113.26667,3.1",
+    "geom:latitude":3.1,
+    "geom:longitude":113.26667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Ruma",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747588,
+    "gn:latitude":3.1,
+    "gn:longitude":113.26667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Ruma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747588
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0d2ea13738f8ea3597af492bc8312ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488209,
+            "locality_id":1343342725,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1343342725,
+    "wof:lastmodified":1536916767,
+    "wof:name":"Rumah Ruma",
+    "wof:parent_id":890488209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.26667,
+    3.1,
+    113.26667,
+    3.1
+],
+  "geometry": {"coordinates":[113.26667,3.1],"type":"Point"}
+}

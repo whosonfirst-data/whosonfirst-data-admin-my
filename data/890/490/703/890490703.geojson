@@ -1,0 +1,72 @@
+{
+  "id": 890490703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0715,2.9929,102.0715,2.9929",
+    "geom:latitude":2.9929,
+    "geom:longitude":102.0715,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Desa"
+    ],
+    "qs:name":"Taman Mesra",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7691817,
+        "gp:id":56035138,
+        "qs:id":208218
+    },
+    "wof:country":"MY",
+    "wof:created":1469054821,
+    "wof:geomhash":"27a0ee9e37e9a017c345bcbb3b6245f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":890490703,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":890490703,
+    "wof:lastmodified":1505343789,
+    "wof:name":"Taman Mesra",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0715,
+    2.9929,
+    102.0715,
+    2.9929
+],
+  "geometry": {"coordinates":[102.0715,2.9929],"type":"Point"}
+}

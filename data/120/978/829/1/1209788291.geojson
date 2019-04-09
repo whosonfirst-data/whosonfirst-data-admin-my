@@ -1,0 +1,70 @@
+{
+  "id": 1209788291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.5399,4.5073,118.5399,4.5073",
+    "geom:latitude":4.5073,
+    "geom:longitude":118.5399,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Sungai Gajah",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7064119,
+    "gn:latitude":4.5073,
+    "gn:longitude":118.5399,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Sungai Gajah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Gajah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7064119
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4afc44371b03252d07618602a5f09044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696507,
+            "locality_id":1209788291,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1209788291,
+    "wof:lastmodified":1537674273,
+    "wof:name":"Kampung Sungai Gajah",
+    "wof:parent_id":1108696507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.5399,
+    4.5073,
+    118.5399,
+    4.5073
+],
+  "geometry": {"coordinates":[118.5399,4.5073],"type":"Point"}
+}

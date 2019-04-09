@@ -1,0 +1,70 @@
+{
+  "id": 1259480611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0254,3.6819,103.0254,3.6819",
+    "geom:latitude":3.6819,
+    "geom:longitude":103.0254,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kemajuan Tanah Lepar Hilir Dua",
+    "gn:country_code":"MY",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795544,
+    "gn:latitude":3.6819,
+    "gn:longitude":103.0254,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Lepar Hilir Dua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Lepar Hilir Dua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795544
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"542945dcf93c4717b04a9c649f208e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":1259480611,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1259480611,
+    "wof:lastmodified":1537674393,
+    "wof:name":"Kemajuan Tanah Lepar Hilir Dua",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0254,
+    3.6819,
+    103.0254,
+    3.6819
+],
+  "geometry": {"coordinates":[103.0254,3.6819],"type":"Point"}
+}

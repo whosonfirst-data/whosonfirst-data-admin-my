@@ -1,0 +1,70 @@
+{
+  "id": 1226451263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.75738,5.78024,100.75738,5.78024",
+    "geom:latitude":5.78024,
+    "geom:longitude":100.75738,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Nangka Pipit",
+    "gn:country_code":"MY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805100,
+    "gn:latitude":5.78024,
+    "gn:longitude":100.75738,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Nangka Pipit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Nangka Pipit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805100
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"31884f76ffef82bc85551675941b277a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696515,
+            "locality_id":1226451263,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1226451263,
+    "wof:lastmodified":1537674235,
+    "wof:name":"Kampung Nangka Pipit",
+    "wof:parent_id":1108696515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.75738,
+    5.78024,
+    100.75738,
+    5.78024
+],
+  "geometry": {"coordinates":[100.75738,5.78024],"type":"Point"}
+}

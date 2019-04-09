@@ -1,0 +1,67 @@
+{
+  "id": 1259596001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.56331,6.28658,100.56331,6.28658",
+    "geom:latitude":6.28658,
+    "geom:longitude":100.56331,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Malau",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767152,
+    "gn:latitude":6.28658,
+    "gn:longitude":100.56331,
+    "gn:modification_date":"2009-02-05",
+    "gn:name":"Kampong Malau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767152
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1f307253af64cea2960215a421cde0a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696471,
+            "locality_id":1259596001,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1259596001,
+    "wof:lastmodified":1536696899,
+    "wof:name":"Kampong Malau",
+    "wof:parent_id":1108696471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.56331,
+    6.28658,
+    100.56331,
+    6.28658
+],
+  "geometry": {"coordinates":[100.56331,6.28658],"type":"Point"}
+}

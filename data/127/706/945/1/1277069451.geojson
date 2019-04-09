@@ -1,0 +1,70 @@
+{
+  "id": 1277069451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3849,4.2053,102.3849,4.2053",
+    "geom:latitude":4.2053,
+    "geom:longitude":102.3849,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Ranggul",
+    "gn:country_code":"MY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564938,
+    "gn:latitude":4.2053,
+    "gn:longitude":102.3849,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Ranggul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ranggul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564938
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"53f8212ddd692d9845b433d27d035b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1277069451,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1277069451,
+    "wof:lastmodified":1537674310,
+    "wof:name":"Kampung Ranggul",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3849,
+    4.2053,
+    102.3849,
+    4.2053
+],
+  "geometry": {"coordinates":[102.3849,4.2053],"type":"Point"}
+}

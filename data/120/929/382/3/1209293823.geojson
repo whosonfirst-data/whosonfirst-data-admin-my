@@ -1,0 +1,64 @@
+{
+  "id": 1209293823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.14467,5.2847,103.14467,5.2847",
+    "geom:latitude":5.2847,
+    "geom:longitude":103.14467,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Bukit Depu",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770288,
+    "gn:latitude":5.2847,
+    "gn:longitude":103.14467,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bukit Depu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Bukit Depu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770288
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bd14e7899f07000052727dc702da7d84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209293823
+        }
+    ],
+    "wof:id":1209293823,
+    "wof:lastmodified":1537674155,
+    "wof:name":"Kampung Bukit Depu",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.14467,
+    5.2847,
+    103.14467,
+    5.2847
+],
+  "geometry": {"coordinates":[103.14467,5.2847],"type":"Point"}
+}

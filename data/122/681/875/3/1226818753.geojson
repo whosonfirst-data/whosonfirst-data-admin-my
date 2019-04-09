@@ -1,0 +1,70 @@
+{
+  "id": 1226818753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.2953,6.3775,117.2953,6.3775",
+    "geom:latitude":6.3775,
+    "geom:longitude":117.2953,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Pondu",
+    "gn:country_code":"MY",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7607465,
+    "gn:latitude":6.3775,
+    "gn:longitude":117.2953,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pondu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pondu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7607465
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e4e4fc5eb8a767a65f43df81c0f85cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1226818753,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226818753,
+    "wof:lastmodified":1537674324,
+    "wof:name":"Kampung Pondu",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.2953,
+    6.3775,
+    117.2953,
+    6.3775
+],
+  "geometry": {"coordinates":[117.2953,6.3775],"type":"Point"}
+}

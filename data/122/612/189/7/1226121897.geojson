@@ -1,0 +1,70 @@
+{
+  "id": 1226121897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.70882,5.58631,102.70882,5.58631",
+    "geom:latitude":5.58631,
+    "geom:longitude":102.70882,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Guntung Luar",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6862352,
+    "gn:latitude":5.58631,
+    "gn:longitude":102.70882,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Guntung Luar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Guntung Luar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        1108696513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6862352
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1a4a1cb177e4de1d3cfc7b6bd5db17d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696513,
+            "locality_id":1226121897,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1226121897,
+    "wof:lastmodified":1537674269,
+    "wof:name":"Kampung Guntung Luar",
+    "wof:parent_id":1108696513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.70882,
+    5.58631,
+    102.70882,
+    5.58631
+],
+  "geometry": {"coordinates":[102.70882,5.58631],"type":"Point"}
+}

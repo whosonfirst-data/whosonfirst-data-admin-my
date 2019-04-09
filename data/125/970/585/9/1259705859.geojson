@@ -1,0 +1,75 @@
+{
+  "id": 1259705859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.852,3.8157,101.852,3.8157",
+    "geom:latitude":3.8157,
+    "geom:longitude":101.852,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Bukit Koman",
+    "gn:country_code":"MY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732650,
+    "gn:latitude":3.8157,
+    "gn:longitude":101.852,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bukit Koman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Koman"
+    ],
+    "name:und_x_variant":[
+        "Bukit Koman Village",
+        "Bukit Koman",
+        "Kampung Bukit Koman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732650
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3826ed5244c8368eeb9e15a25c62f421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1259705859,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1259705859,
+    "wof:lastmodified":1537673666,
+    "wof:name":"Kampung Bukit Koman",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.852,
+    3.8157,
+    101.852,
+    3.8157
+],
+  "geometry": {"coordinates":[101.852,3.8157],"type":"Point"}
+}

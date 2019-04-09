@@ -1,0 +1,73 @@
+{
+  "id": 1326722093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9047,4.2731,100.9047,4.2731",
+    "geom:latitude":4.2731,
+    "geom:longitude":100.9047,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Talang",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763632,
+    "gn:latitude":4.2731,
+    "gn:longitude":100.9047,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Talang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Talang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Talang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763632
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b6aa95f77abb4a4c16d52b2d2f798a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489811,
+            "locality_id":1326722093,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1326722093,
+    "wof:lastmodified":1537673870,
+    "wof:name":"Kampung Talang",
+    "wof:parent_id":890489811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9047,
+    4.2731,
+    100.9047,
+    4.2731
+],
+  "geometry": {"coordinates":[100.90470000000001,4.2731],"type":"Point"}
+}

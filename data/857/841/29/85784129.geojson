@@ -1,0 +1,105 @@
+{
+  "id": 85784129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10142107.646456,
+    "geom:bbox":"101.575969,3.046208,101.575969,3.046208",
+    "geom:latitude":3.046208,
+    "geom:longitude":101.575969,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.046208,
+    "lbl:longitude":101.575969,
+    "mps:latitude":3.049096,
+    "mps:longitude":101.571383,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:und_x_preferred":[
+        "Taman Perindustrian"
+    ],
+    "name:unk_x_variant":[
+        "Taman Perindustrian"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":491,
+    "qs:local_sum":2868,
+    "qs:localhoods":17,
+    "qs:name":"Taman Perindustrian",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:name_adm2":"Petaling",
+    "qs:name_lau":"Damansara",
+    "qs:name_local":"Subang Jaya",
+    "qs:photo_max":69,
+    "qs:photo_sum":235,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346306,
+    "qs:woe_adm2":56013632,
+    "qs:woe_lau":56014224,
+    "qs:woe_local":55862650,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102022703,
+        890490605,
+        85675163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56016695,
+        "qs:id":183184,
+        "qs_pg:id":183184
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e2f841b34fa1a222e7323357c2d7d544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490605,
+            "locality_id":102022703,
+            "neighbourhood_id":85784129,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":85784129,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860581,
+    "wof:name":"Taman Perindustrian",
+    "wof:parent_id":102022703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.575969,
+    3.046208,
+    101.575969,
+    3.046208
+],
+  "geometry": {"coordinates":[101.575969,3.046208],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 890489347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3273,2.1674,102.3273,2.1674",
+    "geom:latitude":2.1674,
+    "geom:longitude":102.3273,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Melaka Tengah"
+    ],
+    "qs:name":"Melaka Tengah",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":193,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855817,
+        "gp:id":56037789,
+        "qs:id":1001105,
+        "wd:id":"Q25238447",
+        "wk:page":"Melaka Tengah FC"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054754,
+    "wof:geomhash":"e700b41ed4d0137c3b082475e1514e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":890489347,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":890489347,
+    "wof:lastmodified":1527792863,
+    "wof:name":"Melaka Tengah",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3273,
+    2.1674,
+    102.3273,
+    2.1674
+],
+  "geometry": {"coordinates":[102.32729999999999,2.1674],"type":"Point"}
+}

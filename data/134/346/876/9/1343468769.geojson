@@ -1,0 +1,67 @@
+{
+  "id": 1343468769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.91667,5.96667,116.91667,5.96667",
+    "geom:latitude":5.96667,
+    "geom:longitude":116.91667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Naki",
+    "gn:country_code":"MY",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733490,
+    "gn:latitude":5.96667,
+    "gn:longitude":116.91667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Naki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733490
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c6b93708e5039159a7b04ecacf4d44b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696439,
+            "locality_id":1343468769,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343468769,
+    "wof:lastmodified":1536734216,
+    "wof:name":"Naki",
+    "wof:parent_id":1108696439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.91667,
+    5.96667,
+    116.91667,
+    5.96667
+],
+  "geometry": {"coordinates":[116.91667,5.96667],"type":"Point"}
+}

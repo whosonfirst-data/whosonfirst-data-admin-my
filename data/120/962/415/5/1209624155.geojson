@@ -1,0 +1,64 @@
+{
+  "id": 1209624155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.39143,5.7938,100.39143,5.7938",
+    "geom:latitude":5.7938,
+    "geom:longitude":100.39143,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Padang China",
+    "gn:country_code":"MY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804502,
+    "gn:latitude":5.7938,
+    "gn:longitude":100.39143,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Padang China",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Padang China"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804502
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5b1de2f90edc1434598f6f0e06a35fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209624155
+        }
+    ],
+    "wof:id":1209624155,
+    "wof:lastmodified":1537674232,
+    "wof:name":"Kampung Padang China",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.39143,
+    5.7938,
+    100.39143,
+    5.7938
+],
+  "geometry": {"coordinates":[100.39143,5.7938],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1327009259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1368,5.3466,103.1368,5.3466",
+    "geom:latitude":5.3466,
+    "geom:longitude":103.1368,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Tanjung Seberang Takir",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763494,
+    "gn:latitude":5.3466,
+    "gn:longitude":103.1368,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tanjung Seberang Takir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Seberang Takir"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tanjong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763494
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e88c2f181f8ce11148024bea8075e75f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1327009259,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327009259,
+    "wof:lastmodified":1537673863,
+    "wof:name":"Kampung Tanjung Seberang Takir",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1368,
+    5.3466,
+    103.1368,
+    5.3466
+],
+  "geometry": {"coordinates":[103.13679999999999,5.3466],"type":"Point"}
+}

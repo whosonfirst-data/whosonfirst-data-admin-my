@@ -1,0 +1,73 @@
+{
+  "id": 1259469321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8749,5.1339,102.8749,5.1339",
+    "geom:latitude":5.1339,
+    "geom:longitude":102.8749,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Payang Kayu",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765883,
+    "gn:latitude":5.1339,
+    "gn:longitude":102.8749,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Payang Kayu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Payang Kayu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Payang Kayu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765883
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0c8a5a0afa8dfb3132376400aca77137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1259469321,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1259469321,
+    "wof:lastmodified":1537673973,
+    "wof:name":"Kampung Payang Kayu",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8749,
+    5.1339,
+    102.8749,
+    5.1339
+],
+  "geometry": {"coordinates":[102.8749,5.1339],"type":"Point"}
+}

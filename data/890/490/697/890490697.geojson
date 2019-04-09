@@ -1,0 +1,74 @@
+{
+  "id": 890490697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0272,1.8597,103.0272,1.8597",
+    "geom:latitude":1.8597,
+    "geom:longitude":103.0272,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Permata"
+    ],
+    "qs:name":"Taman Teratai",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675141,
+        102191569,
+        85632739,
+        102022741,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857503,
+        "gp:id":56017201,
+        "qs:id":208198
+    },
+    "wof:country":"MY",
+    "wof:created":1469054821,
+    "wof:geomhash":"ad3d74a02c13b14d45ea3df2d534b236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":102022741,
+            "neighbourhood_id":890490697,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890490697,
+    "wof:lastmodified":1505343789,
+    "wof:name":"Taman Teratai",
+    "wof:parent_id":102022741,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0272,
+    1.8597,
+    103.0272,
+    1.8597
+],
+  "geometry": {"coordinates":[103.02719999999999,1.8597],"type":"Point"}
+}

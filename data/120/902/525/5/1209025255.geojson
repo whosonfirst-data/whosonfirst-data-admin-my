@@ -1,0 +1,64 @@
+{
+  "id": 1209025255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.37317,5.40707,100.37317,5.40707",
+    "geom:latitude":5.40707,
+    "geom:longitude":100.37317,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kampung Benggali",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6823218,
+    "gn:latitude":5.40707,
+    "gn:longitude":100.37317,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Benggali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Benggali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823218
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0a8e7105f714a327eb027ebbe85c067b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209025255
+        }
+    ],
+    "wof:id":1209025255,
+    "wof:lastmodified":1537674252,
+    "wof:name":"Kampung Benggali",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.37317,
+    5.40707,
+    100.37317,
+    5.40707
+],
+  "geometry": {"coordinates":[100.37317,5.40707],"type":"Point"}
+}

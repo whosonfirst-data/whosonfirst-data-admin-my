@@ -1,0 +1,67 @@
+{
+  "id": 1327330613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.33333,4.0,101.33333,4.0",
+    "geom:latitude":4.0,
+    "geom:longitude":101.33333,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Guntong",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769105,
+    "gn:latitude":4.0,
+    "gn:longitude":101.33333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Guntong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769105
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f90820eb81b4517fff51aca289d07973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489741,
+            "locality_id":1327330613,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1327330613,
+    "wof:lastmodified":1536826894,
+    "wof:name":"Kampong Guntong",
+    "wof:parent_id":890489741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.33333,
+    4.0,
+    101.33333,
+    4.0
+],
+  "geometry": {"coordinates":[101.33333,4.0],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343865745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0293,6.0177,102.0293,6.0177",
+    "geom:latitude":6.0177,
+    "geom:longitude":102.0293,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Banggul Bubus",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771161,
+    "gn:latitude":6.0177,
+    "gn:longitude":102.0293,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Banggul Bubus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Banggul Bubus"
+    ],
+    "name:und_x_variant":[
+        "Kampong Banggol Bubus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771161
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6d7987533ee471c492e2b1d6697f357b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1343865745,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1343865745,
+    "wof:lastmodified":1537674190,
+    "wof:name":"Kampung Banggul Bubus",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0293,
+    6.0177,
+    102.0293,
+    6.0177
+],
+  "geometry": {"coordinates":[102.02930000000001,6.0177],"type":"Point"}
+}

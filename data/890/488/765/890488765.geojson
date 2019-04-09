@@ -1,0 +1,74 @@
+{
+  "id": 890488765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.6456,1.505,103.6456,1.505",
+    "geom:latitude":1.505,
+    "geom:longitude":103.6456,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Selesa Jaya"
+    ],
+    "qs:name":"Taman Kelisa Jaya",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858008,
+        "gp:id":56035965,
+        "qs:id":338567
+    },
+    "wof:country":"MY",
+    "wof:created":1469054732,
+    "wof:geomhash":"d822ce668c79d2d0c358008ed2e7e8d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":890488765,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890488765,
+    "wof:lastmodified":1505343783,
+    "wof:name":"Taman Kelisa Jaya",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.6456,
+    1.505,
+    103.6456,
+    1.505
+],
+  "geometry": {"coordinates":[103.6456,1.505],"type":"Point"}
+}

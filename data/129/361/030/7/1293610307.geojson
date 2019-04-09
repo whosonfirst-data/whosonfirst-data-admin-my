@@ -1,0 +1,73 @@
+{
+  "id": 1293610307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9728,4.4593,100.9728,4.4593",
+    "geom:latitude":4.4593,
+    "geom:longitude":100.9728,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Piandang",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765461,
+    "gn:latitude":4.4593,
+    "gn:longitude":100.9728,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Piandang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Piandang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Piandang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765461
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f1762b46f865da9af21626db69ffbc03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1293610307,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1293610307,
+    "wof:lastmodified":1537673954,
+    "wof:name":"Kampung Piandang",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9728,
+    4.4593,
+    100.9728,
+    4.4593
+],
+  "geometry": {"coordinates":[100.97280000000001,4.4593],"type":"Point"}
+}

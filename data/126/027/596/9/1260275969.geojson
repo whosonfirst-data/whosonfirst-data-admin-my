@@ -1,0 +1,70 @@
+{
+  "id": 1260275969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7837,3.9773,101.7837,3.9773",
+    "geom:latitude":3.9773,
+    "geom:longitude":101.7837,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Batu Malim",
+    "gn:country_code":"MY",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638819,
+    "gn:latitude":3.9773,
+    "gn:longitude":101.7837,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Batu Malim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Malim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638819
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9003ee6f7bd15395e7a6a989da38a8af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1260275969,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1260275969,
+    "wof:lastmodified":1537674343,
+    "wof:name":"Kampung Batu Malim",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7837,
+    3.9773,
+    101.7837,
+    3.9773
+],
+  "geometry": {"coordinates":[101.7837,3.9773],"type":"Point"}
+}

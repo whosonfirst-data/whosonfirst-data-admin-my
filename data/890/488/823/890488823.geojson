@@ -1,0 +1,72 @@
+{
+  "id": 890488823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3216,3.7227,103.3216,3.7227",
+    "geom:latitude":3.7227,
+    "geom:longitude":103.3216,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Cempaka"
+    ],
+    "qs:name":"Kampung Sri Cempaka",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662154,
+        "gp:id":56118928,
+        "qs:id":368489
+    },
+    "wof:country":"MY",
+    "wof:created":1469054734,
+    "wof:geomhash":"55d6bf4ec02da060f5ca39a1bd33326d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490895,
+            "locality_id":890488823,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":890488823,
+    "wof:lastmodified":1505343783,
+    "wof:name":"Kampung Sri Cempaka",
+    "wof:parent_id":890490895,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3216,
+    3.7227,
+    103.3216,
+    3.7227
+],
+  "geometry": {"coordinates":[103.3216,3.7227],"type":"Point"}
+}

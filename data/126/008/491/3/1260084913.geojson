@@ -1,0 +1,74 @@
+{
+  "id": 1260084913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0243,2.9432,102.0243,2.9432",
+    "geom:latitude":2.9432,
+    "geom:longitude":102.0243,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Gagu",
+    "gn:country_code":"MY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769491,
+    "gn:latitude":2.9432,
+    "gn:longitude":102.0243,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Gagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gagu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Gagau",
+        "Kampong Gagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769491
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ce9d23606ec06eb3f59e5147ef3ad4fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1260084913,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1260084913,
+    "wof:lastmodified":1537674121,
+    "wof:name":"Kampung Gagu",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0243,
+    2.9432,
+    102.0243,
+    2.9432
+],
+  "geometry": {"coordinates":[102.0243,2.9432],"type":"Point"}
+}

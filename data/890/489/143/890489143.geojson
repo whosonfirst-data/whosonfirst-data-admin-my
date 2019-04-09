@@ -1,0 +1,84 @@
+{
+  "id": 890489143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.49316,5.33951,100.49316,5.33951",
+    "geom:latitude":5.33951,
+    "geom:longitude":100.49316,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pisang"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Pisang"
+    ],
+    "qs:name":"Kampung Pisang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":395,
+    "wof:belongsto":[
+        85675127,
+        102191569,
+        85632739,
+        102023333,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765405,
+        "gp:id":56035741,
+        "qs:id":894548,
+        "wd:id":"Q15040634",
+        "wk:page":"Zombi Kampung Pisang"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054746,
+    "wof:geomhash":"6d263a957ce22b150faeebd3fcb5c4e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":102023333,
+            "neighbourhood_id":890489143,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":890489143,
+    "wof:lastmodified":1527792863,
+    "wof:name":"Kampung Pisang",
+    "wof:parent_id":102023333,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49316,
+    5.33951,
+    100.49316,
+    5.33951
+],
+  "geometry": {"coordinates":[100.49316,5.33951],"type":"Point"}
+}

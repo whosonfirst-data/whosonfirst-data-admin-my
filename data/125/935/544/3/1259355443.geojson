@@ -1,0 +1,73 @@
+{
+  "id": 1259355443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.99696,5.73298,116.99696,5.73298",
+    "geom:latitude":5.73298,
+    "geom:longitude":116.99696,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Mengkadait",
+    "gn:country_code":"MY",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766894,
+    "gn:latitude":5.73298,
+    "gn:longitude":116.99696,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Mengkadait",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mengkadait"
+    ],
+    "name:und_x_variant":[
+        "Kampong Menkadait"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766894
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c1ed3b484868a606e615392c2a35b9cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":1259355443,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1259355443,
+    "wof:lastmodified":1537674013,
+    "wof:name":"Kampung Mengkadait",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.99696000000002,
+    5.73298,
+    116.99696000000002,
+    5.73298
+],
+  "geometry": {"coordinates":[116.99696000000002,5.73298],"type":"Point"}
+}

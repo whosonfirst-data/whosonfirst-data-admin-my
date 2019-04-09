@@ -1,0 +1,74 @@
+{
+  "id": 1276774725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.36667,6.06667,102.36667,6.06667",
+    "geom:latitude":6.06667,
+    "geom:longitude":102.36667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Pak Pura",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766341,
+    "gn:latitude":6.06667,
+    "gn:longitude":102.36667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Pak Pura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Beris Pak Pura",
+        "Kampong Beris",
+        "Kampong Beris Pa Pura",
+        "Kampong Pak Pura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766341
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e23665f2c729b3e10e2ad21dde00515a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696377,
+            "locality_id":1276774725,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1276774725,
+    "wof:lastmodified":1537673991,
+    "wof:name":"Kampong Pak Pura",
+    "wof:parent_id":1108696377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.36667,
+    6.06667,
+    102.36667,
+    6.06667
+],
+  "geometry": {"coordinates":[102.36667,6.06667],"type":"Point"}
+}

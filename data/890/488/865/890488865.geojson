@@ -1,0 +1,74 @@
+{
+  "id": 890488865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.822,1.5909,103.822,1.5909",
+    "geom:latitude":1.5909,
+    "geom:longitude":103.822,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Maju Jaya"
+    ],
+    "qs:name":"Taman Maju Jaya",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675141,
+        102191569,
+        85632739,
+        102023781,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619724,
+        "gp:id":56016457,
+        "qs:id":384807
+    },
+    "wof:country":"MY",
+    "wof:created":1469054735,
+    "wof:geomhash":"a2960e32d67f86c2e3bfde9d4ffffcfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":102023781,
+            "neighbourhood_id":890488865,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890488865,
+    "wof:lastmodified":1505343783,
+    "wof:name":"Taman Maju Jaya",
+    "wof:parent_id":102023781,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.822,
+    1.5909,
+    103.822,
+    1.5909
+],
+  "geometry": {"coordinates":[103.822,1.5909],"type":"Point"}
+}

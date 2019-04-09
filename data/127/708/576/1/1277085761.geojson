@@ -1,0 +1,67 @@
+{
+  "id": 1277085761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.35,6.11667,102.35,6.11667",
+    "geom:latitude":6.11667,
+    "geom:longitude":102.35,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Gong Serdang",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769198,
+    "gn:latitude":6.11667,
+    "gn:longitude":102.35,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Gong Serdang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769198
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3e27f17ff86d7533e7fa9e49f19481f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696377,
+            "locality_id":1277085761,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1277085761,
+    "wof:lastmodified":1536763532,
+    "wof:name":"Kampong Gong Serdang",
+    "wof:parent_id":1108696377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.35,
+    6.11667,
+    102.35,
+    6.11667
+],
+  "geometry": {"coordinates":[102.34999999999999,6.11667],"type":"Point"}
+}

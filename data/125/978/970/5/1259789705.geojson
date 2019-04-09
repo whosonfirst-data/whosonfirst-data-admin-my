@@ -1,0 +1,73 @@
+{
+  "id": 1259789705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2388,2.4017,102.2388,2.4017",
+    "geom:latitude":2.4017,
+    "geom:longitude":102.2388,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Ganun",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769448,
+    "gn:latitude":2.4017,
+    "gn:longitude":102.2388,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ganun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ganun"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ganun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769448
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"38b2e00f7cf4bfde02f9c655bf7058d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1259789705,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1259789705,
+    "wof:lastmodified":1537674119,
+    "wof:name":"Kampung Ganun",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2388,
+    2.4017,
+    102.2388,
+    2.4017
+],
+  "geometry": {"coordinates":[102.2388,2.4017],"type":"Point"}
+}

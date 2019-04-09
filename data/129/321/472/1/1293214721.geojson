@@ -1,0 +1,73 @@
+{
+  "id": 1293214721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.0661,1.9318,104.0661,1.9318",
+    "geom:latitude":1.9318,
+    "geom:longitude":104.0661,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Telok",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763128,
+    "gn:latitude":1.9318,
+    "gn:longitude":104.0661,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Telok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Telok"
+    ],
+    "name:und_x_variant":[
+        "Kampong Telok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763128
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"32a14341563162b854f6a3114875ee96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":1293214721,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293214721,
+    "wof:lastmodified":1537673846,
+    "wof:name":"Kampung Telok",
+    "wof:parent_id":890491003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.0661,
+    1.9318,
+    104.0661,
+    1.9318
+],
+  "geometry": {"coordinates":[104.06610000000001,1.9318],"type":"Point"}
+}

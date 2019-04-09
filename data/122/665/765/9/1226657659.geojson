@@ -1,0 +1,64 @@
+{
+  "id": 1226657659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.17623,6.20147,102.17623,6.20147",
+    "geom:latitude":6.20147,
+    "geom:longitude":102.17623,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Bharu Tanjung Duff",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068196,
+    "gn:latitude":6.20147,
+    "gn:longitude":102.17623,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Bharu Tanjung Duff",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bharu Tanjung Duff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068196
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6333b91e433b3d65b31ec3d1dacc4ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226657659,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226657659,
+    "wof:lastmodified":1537674279,
+    "wof:name":"Kampung Bharu Tanjung Duff",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.17623,
+    6.20147,
+    102.17623,
+    6.20147
+],
+  "geometry": {"coordinates":[102.17623,6.20147],"type":"Point"}
+}

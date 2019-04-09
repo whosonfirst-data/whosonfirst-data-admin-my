@@ -1,0 +1,73 @@
+{
+  "id": 1293696285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.251,2.1517,103.251,2.1517",
+    "geom:latitude":2.1517,
+    "geom:longitude":103.251,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Ladang Chamek",
+    "gn:country_code":"MY",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1777610,
+    "gn:latitude":2.1517,
+    "gn:longitude":103.251,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Ladang Chamek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ladang Chamek"
+    ],
+    "name:und_x_variant":[
+        "Chamek Estate Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1777610
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"564bbd96c83a7e58760e931b5335f7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1293696285,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293696285,
+    "wof:lastmodified":1537674220,
+    "wof:name":"Kampung Ladang Chamek",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.251,
+    2.1517,
+    103.251,
+    2.1517
+],
+  "geometry": {"coordinates":[103.251,2.1517],"type":"Point"}
+}

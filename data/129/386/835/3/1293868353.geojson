@@ -1,0 +1,70 @@
+{
+  "id": 1293868353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.47058,5.15901,100.47058,5.15901",
+    "geom:latitude":5.15901,
+    "geom:longitude":100.47058,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kampung Che Isa",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847219,
+    "gn:latitude":5.15901,
+    "gn:longitude":100.47058,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Che Isa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Che Isa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847219
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"016eaf3ade2ba92a7feacab4426fb6bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1293868353,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1293868353,
+    "wof:lastmodified":1537674254,
+    "wof:name":"Kampung Che Isa",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.47058,
+    5.15901,
+    100.47058,
+    5.15901
+],
+  "geometry": {"coordinates":[100.47058,5.15901],"type":"Point"}
+}

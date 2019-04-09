@@ -1,0 +1,89 @@
+{
+  "id": 890489659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.28802,6.17471,102.28802,6.17471",
+    "geom:latitude":6.17471,
+    "geom:longitude":102.28802,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Pengkalan Chepa"
+    ],
+    "name:eng_x_preferred":[
+        "Pengkalan Chepa"
+    ],
+    "name:epo_x_preferred":[
+        "Pengkalan Chepa"
+    ],
+    "name:may_x_preferred":[
+        "Pengkalan Chepa"
+    ],
+    "name:unk_x_variant":[
+        "Pengkalan Chepa"
+    ],
+    "qs:name":"Pengkalan Cepa",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kelantan",
+    "qs:photos":260,
+    "qs:photos_1k":53,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":260,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736363,
+        "gp:id":1152561,
+        "qs:id":1075458,
+        "wd:id":"Q7162721"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054765,
+    "wof:geomhash":"64688b31b415d4cac60820e0c89dad3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489783,
+            "locality_id":890489659,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":890489659,
+    "wof:lastmodified":1514490660,
+    "wof:name":"Pengkalan Cepa",
+    "wof:parent_id":890489783,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.28802,
+    6.17471,
+    102.28802,
+    6.17471
+],
+  "geometry": {"coordinates":[102.28802,6.17471],"type":"Point"}
+}

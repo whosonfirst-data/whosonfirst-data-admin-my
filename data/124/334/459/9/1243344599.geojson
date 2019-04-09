@@ -1,0 +1,67 @@
+{
+  "id": 1243344599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.88333,1.21667,111.88333,1.21667",
+    "geom:latitude":1.21667,
+    "geom:longitude":111.88333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Langkau Bala",
+    "gn:country_code":"MY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1758460,
+    "gn:latitude":1.21667,
+    "gn:longitude":111.88333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Langkau Bala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1758460
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3c903eb6cc89d0612fad78136e4a95a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696451,
+            "locality_id":1243344599,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1243344599,
+    "wof:lastmodified":1536952576,
+    "wof:name":"Langkau Bala",
+    "wof:parent_id":1108696451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.88333,
+    1.21667,
+    111.88333,
+    1.21667
+],
+  "geometry": {"coordinates":[111.88333,1.21667],"type":"Point"}
+}

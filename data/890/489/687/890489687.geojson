@@ -1,0 +1,67 @@
+{
+  "id": 890489687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.737194,2.760299,101.737194,2.760299",
+    "geom:latitude":2.760299,
+    "geom:longitude":101.737194,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Klia",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":4437,
+    "qs:photos_1k":899,
+    "qs:photos_9k":20,
+    "qs:photos_9r":13,
+    "qs:photos_all":4437,
+    "qs:photos_sr":23,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56035480,
+        "qs:id":7793
+    },
+    "wof:country":"MY",
+    "wof:created":1469054766,
+    "wof:geomhash":"90d92946cffc05767f24f6569c887d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489971,
+            "locality_id":890489687,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890489687,
+    "wof:lastmodified":1500013491,
+    "wof:name":"Klia",
+    "wof:parent_id":890489971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.737194,
+    2.760299,
+    101.737194,
+    2.760299
+],
+  "geometry": {"coordinates":[101.737194,2.760299],"type":"Point"}
+}

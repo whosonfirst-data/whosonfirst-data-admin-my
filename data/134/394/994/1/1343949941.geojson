@@ -1,0 +1,71 @@
+{
+  "id": 1343949941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0647,4.5821,101.0647,4.5821",
+    "geom:latitude":4.5821,
+    "geom:longitude":101.0647,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Falim",
+    "gn:country_code":"MY",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7612487,
+    "gn:latitude":4.5821,
+    "gn:longitude":101.0647,
+    "gn:modification_date":"2018-04-11",
+    "gn:name":"Falim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Falim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7612487,
+        "wk:page":"Falim"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3a1d1264d2750bd634d79d387c4c1a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1343949941,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1343949941,
+    "wof:lastmodified":1537674327,
+    "wof:name":"Falim",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0647,
+    4.5821,
+    101.0647,
+    4.5821
+],
+  "geometry": {"coordinates":[101.0647,4.5821],"type":"Point"}
+}

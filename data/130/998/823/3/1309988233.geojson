@@ -1,0 +1,73 @@
+{
+  "id": 1309988233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.4979,5.4496,118.4979,5.4496",
+    "geom:latitude":5.4496,
+    "geom:longitude":118.4979,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Balukong",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7064262,
+    "gn:latitude":5.4496,
+    "gn:longitude":118.4979,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Balukong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Balukong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Balukong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7064262
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f16c1bbb9eaac89e5e6e839215d6d947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696413,
+            "locality_id":1309988233,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309988233,
+    "wof:lastmodified":1537674274,
+    "wof:name":"Kampung Balukong",
+    "wof:parent_id":1108696413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.4979,
+    5.4496,
+    118.4979,
+    5.4496
+],
+  "geometry": {"coordinates":[118.4979,5.4496],"type":"Point"}
+}

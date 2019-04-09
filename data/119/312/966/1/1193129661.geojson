@@ -1,0 +1,70 @@
+{
+  "id": 1193129661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5159,3.4429,102.5159,3.4429",
+    "geom:latitude":3.4429,
+    "geom:longitude":102.5159,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rancangan Pemuda Batu Empat",
+    "gn:country_code":"MY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795973,
+    "gn:latitude":3.4429,
+    "gn:longitude":102.5159,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Rancangan Pemuda Batu Empat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Rancangan Pemuda Batu Empat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795973
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"645a1669ec367f99cd396ca3ad7eb0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1193129661,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1193129661,
+    "wof:lastmodified":1537674398,
+    "wof:name":"Rancangan Pemuda Batu Empat",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5159,
+    3.4429,
+    102.5159,
+    3.4429
+],
+  "geometry": {"coordinates":[102.5159,3.4429],"type":"Point"}
+}

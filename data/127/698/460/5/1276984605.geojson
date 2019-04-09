@@ -1,0 +1,73 @@
+{
+  "id": 1276984605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8089,2.5507,102.8089,2.5507",
+    "geom:latitude":2.5507,
+    "geom:longitude":102.8089,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampung Kolam",
+    "gn:country_code":"MY",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768170,
+    "gn:latitude":2.5507,
+    "gn:longitude":102.8089,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kolam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kolam"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kolam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768170
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"23906681a7136f9b9cc362ff8689c6a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1276984605,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276984605,
+    "wof:lastmodified":1537674067,
+    "wof:name":"Kampung Kolam",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8089,
+    2.5507,
+    102.8089,
+    2.5507
+],
+  "geometry": {"coordinates":[102.80889999999999,2.5507],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276667407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3263,2.0461,103.3263,2.0461",
+    "geom:latitude":2.0461,
+    "geom:longitude":103.3263,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Dato Amar Diraja",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7614287,
+    "gn:latitude":2.0461,
+    "gn:longitude":103.3263,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Dato Amar Diraja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Dato Amar Diraja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7614287
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1654d1931092a1876f0cd49f86ce0356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1276667407,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276667407,
+    "wof:lastmodified":1537674331,
+    "wof:name":"Taman Dato Amar Diraja",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3263,
+    2.0461,
+    103.3263,
+    2.0461
+],
+  "geometry": {"coordinates":[103.3263,2.0461],"type":"Point"}
+}

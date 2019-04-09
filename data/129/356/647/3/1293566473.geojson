@@ -1,0 +1,61 @@
+{
+  "id": 1293566473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.28333,3.15,101.28333,3.15",
+    "geom:latitude":3.15,
+    "geom:longitude":101.28333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kampung Pauh",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735134,
+    "gn:latitude":3.15,
+    "gn:longitude":101.28333,
+    "gn:modification_date":"2004-03-04",
+    "gn:name":"Kampung Pauh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735134
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"afcdc910d9fd194718fe8138f92797ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293566473,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293566473,
+    "wof:lastmodified":1536673242,
+    "wof:name":"Kampung Pauh",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.28333,
+    3.15,
+    101.28333,
+    3.15
+],
+  "geometry": {"coordinates":[101.28333000000001,3.15],"type":"Point"}
+}

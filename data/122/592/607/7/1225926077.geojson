@@ -1,0 +1,70 @@
+{
+  "id": 1225926077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.6055,5.3312,115.6055,5.3312",
+    "geom:latitude":5.3312,
+    "geom:longitude":115.6055,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Baingking",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580713,
+    "gn:latitude":5.3312,
+    "gn:longitude":115.6055,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Baingking",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baingking"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580713
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b764187b1a5008c18bda28a0b9e5c7d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696385,
+            "locality_id":1225926077,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1225926077,
+    "wof:lastmodified":1537674320,
+    "wof:name":"Kampung Baingking",
+    "wof:parent_id":1108696385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.6055,
+    5.3312,
+    115.6055,
+    5.3312
+],
+  "geometry": {"coordinates":[115.60550000000001,5.3312],"type":"Point"}
+}

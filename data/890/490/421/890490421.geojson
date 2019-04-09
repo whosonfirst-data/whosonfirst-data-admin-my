@@ -1,0 +1,78 @@
+{
+  "id": 890490421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0709,4.606,101.0709,4.606",
+    "geom:latitude":4.606,
+    "geom:longitude":101.0709,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Cherry"
+    ],
+    "qs:name":"Taman Cherry",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos":88,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":88,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675123,
+        102191569,
+        85632739,
+        102023021,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7612471,
+        "gp:id":56037705,
+        "qs:id":774083
+    },
+    "wof:country":"MY",
+    "wof:created":1469054804,
+    "wof:geomhash":"65a2260fc3d34f30ecfb50bf556b32ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":102023021,
+            "neighbourhood_id":890490421,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890490421,
+    "wof:lastmodified":1505343788,
+    "wof:name":"Taman Cherry",
+    "wof:parent_id":102023021,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0709,
+    4.606,
+    101.0709,
+    4.606
+],
+  "geometry": {"coordinates":[101.07089999999999,4.606],"type":"Point"}
+}

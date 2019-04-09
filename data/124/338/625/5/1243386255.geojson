@@ -1,0 +1,73 @@
+{
+  "id": 1243386255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2535,2.5677,102.2535,2.5677",
+    "geom:latitude":2.5677,
+    "geom:longitude":102.2535,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Masjid Tua",
+    "gn:country_code":"MY",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767047,
+    "gn:latitude":2.5677,
+    "gn:longitude":102.2535,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Masjid Tua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Masjid Tua"
+    ],
+    "name:und_x_variant":[
+        "Kampong Masjid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767047
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2a175147612a6e23c1c6962549901476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1243386255,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1243386255,
+    "wof:lastmodified":1537674020,
+    "wof:name":"Kampung Masjid Tua",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2535,
+    2.5677,
+    102.2535,
+    2.5677
+],
+  "geometry": {"coordinates":[102.2535,2.5677],"type":"Point"}
+}

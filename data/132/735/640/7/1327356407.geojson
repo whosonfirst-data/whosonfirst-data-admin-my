@@ -1,0 +1,73 @@
+{
+  "id": 1327356407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.053,2.8974,102.053,2.8974",
+    "geom:latitude":2.8974,
+    "geom:longitude":102.053,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Tanjung Melintang",
+    "gn:country_code":"MY",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1755260,
+    "gn:latitude":2.8974,
+    "gn:longitude":102.053,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tanjung Melintang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Tanjung Melintang"
+    ],
+    "name:und_x_variant":[
+        "Tanjong Melintang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890488317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1755260
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2b46393c678c423743b475ef680db20f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488317,
+            "locality_id":1327356407,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1327356407,
+    "wof:lastmodified":1537673792,
+    "wof:name":"Tanjung Melintang",
+    "wof:parent_id":890488317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.053,
+    2.8974,
+    102.053,
+    2.8974
+],
+  "geometry": {"coordinates":[102.053,2.8974],"type":"Point"}
+}

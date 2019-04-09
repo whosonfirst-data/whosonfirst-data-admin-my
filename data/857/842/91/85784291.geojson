@@ -1,0 +1,410 @@
+{
+  "id": 85784291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000092,
+    "geom:area_square_m":1139440.577839,
+    "geom:bbox":"101.692199707,3.09389327896,101.701810731,3.11034863978",
+    "geom:latitude":3.102342,
+    "geom:longitude":101.69672,
+    "gn:latitude":3.1412,
+    "gn:longitude":101.68653,
+    "gn:population":1453975,
+    "iso:country":"MY",
+    "lbl:latitude":3.104244,
+    "lbl:longitude":101.695232,
+    "mps:latitude":3.102,
+    "mps:longitude":101.697849,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":4.0,
+    "mz:tier_locality":4,
+    "name:amh_x_preferred":[
+        "\u12a9\u12cb\u120b \u1209\u121d\u1351\u122d"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0627\u0644\u0627\u0644\u0645\u0628\u0648\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0627\u0644\u0627 \u0644\u0627\u0645\u0628\u0648\u0631"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041a\u0443\u0430\u043b\u0430-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c1\u09af\u09bc\u09be\u09b2\u09be\u09b2\u09be\u09ae\u09aa\u09c1\u09b0"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f41\u0f63\u0f0b\u0f63\u0f74\u0f44\u0f0b\u0f55\u0f74\u0f0d"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430 \u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:ces_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:chi_x_preferred":[
+        "\u5409\u9686\u5761"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u0648\u0627\u0644\u0627\u0644\u0648\u0645\u067e\u0648\u0631"
+    ],
+    "name:dan_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:deu_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03ac\u03bb\u03b1 \u039b\u03bf\u03c5\u03bc\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:epo_x_preferred":[
+        "Kuala-Lumpuro"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0627\u0644\u0627\u0644\u0627\u0645\u067e\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:fra_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:hat_x_preferred":[
+        "Kouala Loumpou"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d0\u05dc\u05d4 \u05dc\u05d5\u05de\u05e4\u05d5\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0941\u0906 \u0932\u093e\u0932\u092e\u094d\u092a\u0941\u0930"
+    ],
+    "name:hin_x_variant":[
+        "\u0915\u0941\u0906\u0932\u093e\u0932\u092e\u094d\u092a\u0941\u0930"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0561\u056c\u0561 \u053c\u0578\u0582\u0574\u057a\u0578\u0582\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:ind_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:isl_x_preferred":[
+        "K\u00faala L\u00famp\u00far"
+    ],
+    "name:ita_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30a2\u30e9\u30eb\u30f3\u30d7\u30fc\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccc\u0cb2\u0cbe\u0cb2\u0c82\u0caa\u0cc1\u0cb0\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10d0\u10da\u10d0-\u10da\u10e3\u10db\u10de\u10e3\u10e0\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430 \u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\uc54c\ub77c\ub8f8\ud478\ub974"
+    ],
+    "name:lav_x_preferred":[
+        "Kualalump\u016bra"
+    ],
+    "name:lit_x_preferred":[
+        "Kvala Lump\u016bras"
+    ],
+    "name:ltz_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d4b\u0d32\u0d3e\u0d32\u0d2e\u0d4d\u0d2a\u0d42\u0d7c"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094d\u0935\u093e\u0932\u093e\u0932\u0902\u092a\u0942\u0930"
+    ],
+    "name:may_x_preferred":[
+        "Bukit Damansara"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430 \u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:mon_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430 \u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u103d\u102c\u101c\u102c\u101c\u1019\u103a\u1015\u1030\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nld_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:nno_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:nor_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b15\u0b41\u0b06\u0b32\u0b3e\u0b32\u0b41\u0b2e\u0b4d\u0b2a\u0b41\u0b30"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u00e6-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a41\u0a06\u0a32\u0a3e \u0a32\u0a41\u0a70\u0a2a\u0a41\u0a30"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0648\u0627\u0644\u0627 \u0644\u0645\u067e\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:por_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:pus_x_preferred":[
+        "\u06a9\u0648\u0627\u0644\u0627\u0644\u0627\u0645\u067e\u0648\u0631"
+    ],
+    "name:ron_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:sah_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430 \u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:spa_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430 \u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bb2\u0bbe\u0bb2\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e31\u0e27\u0e25\u0e32\u0e25\u0e31\u0e21\u0e40\u0e1b\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:uig_x_preferred":[
+        "\u0643\u06c7\u0626\u0627\u0644\u0627\u0644\u06c7\u0645\u067e\u06c7\u0631"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:und_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:unk_x_variant":[
+        "Kuala Lumpor",
+        "Kuala Lumpur"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0627\u0644\u0627\u0644\u0645\u067e\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:vol_x_preferred":[
+        "Kuala Lumpur"
+    ],
+    "name:zha_x_preferred":[
+        "Gizlungzpoh"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u9686\u5761"
+    ],
+    "ne:ADM0CAP":1.0,
+    "ne:ADM0NAME":"Malaysia",
+    "ne:ADM0_A3":"MYS",
+    "ne:ADM1NAME":"Selangor",
+    "ne:ADMIN1_COD":14,
+    "ne:CAPALT":0,
+    "ne:CAPIN":"Official and le",
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-0 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLC",
+    "ne:GEONAMEID":1735161,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Kuala Lumpur",
+    "ne:GN_POP":1453975,
+    "ne:GTOPO30":62.0,
+    "ne:ISO_A2":"MY",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":3.166666,
+    "ne:LONGITUDE":101.699983,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Kuala Lumpur",
+    "ne:MAX_AREAKM":1700.0,
+    "ne:MAX_AREAMI":657.0,
+    "ne:MAX_BBXMAX":101.891667,
+    "ne:MAX_BBXMIN":101.491667,
+    "ne:MAX_BBYMAX":3.475,
+    "ne:MAX_BBYMIN":3.040173,
+    "ne:MAX_NATSCA":300.0,
+    "ne:MAX_PERKM":1111.0,
+    "ne:MAX_PERMI":690.0,
+    "ne:MAX_POP10":2750755,
+    "ne:MAX_POP20":2750755,
+    "ne:MAX_POP300":4983714,
+    "ne:MAX_POP310":4983714,
+    "ne:MAX_POP50":3468789,
+    "ne:MEAN_BBXC":101.644598,
+    "ne:MEAN_BBYC":3.131431,
+    "ne:MEGACITY":1,
+    "ne:MEGANAME":"Kuala Lumpur",
+    "ne:MIN_AREAKM":666.0,
+    "ne:MIN_AREAMI":257.0,
+    "ne:MIN_BBXMAX":101.841667,
+    "ne:MIN_BBXMIN":101.358333,
+    "ne:MIN_BBYMAX":3.475,
+    "ne:MIN_BBYMIN":2.7,
+    "ne:MIN_PERKM":350.0,
+    "ne:MIN_PERMI":217.0,
+    "ne:NAME":"Kuala Lumpur",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Kuala Lumpur",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":200,
+    "ne:NOTE":null,
+    "ne:POP1950":208,
+    "ne:POP1955":281,
+    "ne:POP1960":344,
+    "ne:POP1965":394,
+    "ne:POP1970":451,
+    "ne:POP1975":645,
+    "ne:POP1980":921,
+    "ne:POP1985":1016,
+    "ne:POP1990":1120,
+    "ne:POP1995":1213,
+    "ne:POP2000":1306,
+    "ne:POP2005":1405,
+    "ne:POP2010":1448,
+    "ne:POP2015":1519,
+    "ne:POP2020":1670,
+    "ne:POP2025":1820,
+    "ne:POP2050":1938,
+    "ne:POP_MAX":1448000,
+    "ne:POP_MIN":1448000,
+    "ne:POP_OTHER":2667990,
+    "ne:RANK_MAX":12,
+    "ne:RANK_MIN":12,
+    "ne:SCALERANK":2,
+    "ne:SOV0NAME":"Malaysia",
+    "ne:SOV_A3":"MYS",
+    "ne:TIMEZONE":"Asia/Kuala_Lumpur",
+    "ne:UN_ADM0":"Malaysia",
+    "ne:UN_FID":348,
+    "ne:UN_LAT":3.14,
+    "ne:UN_LONG":101.7,
+    "ne:WORLDCITY":1,
+    "qs:id":0,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Kuala Lumpur",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Kuala Lumpur",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":333,
+    "qs:photo_sum":724,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56013690,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735161,
+        "gp:id":56035029,
+        "loc:id":"n79011077",
+        "wd:id":"Q4986889"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b3ca2a25173f60ed5caa23cd0339ae27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85784291,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85784291,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1514490583,
+    "wof:name":"Kuala Lumpur",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:population":1453975,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6921997070001,
+    3.09389327895776,
+    101.70181073138446,
+    3.11034863978433
+],
+  "geometry": {"coordinates":[[[101.70089788813038,3.10486355285035],[101.70181073138446,3.10212099606859],[101.70043945300017,3.10074770478123],[101.70043945300017,3.09663587184008],[101.70043945300017,3.09389327895776],[101.69768487020269,3.09389327895776],[101.69700321322949,3.09457593270543],[101.69631757212011,3.09663587184008],[101.69494628900009,3.09663587184008],[101.69494628900009,3.10212099977336],[101.6921997070001,3.10212099969937],[101.6921997070001,3.10486355344365],[101.6921997070001,3.10760610033982],[101.6921997070001,3.11034863978433],[101.69494628900009,3.110348639772],[101.6954047265034,3.110348639115],[101.6959747421206,3.10863606724189],[101.69769287100013,3.10806251345574],[101.69769287100013,3.10760610133005],[101.69769287100013,3.10486355351782],[101.70043945300017,3.10486355335199],[101.70089788813038,3.10486355285035]]],"type":"Polygon"}
+}

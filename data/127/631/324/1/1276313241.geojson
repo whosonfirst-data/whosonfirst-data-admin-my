@@ -1,0 +1,70 @@
+{
+  "id": 1276313241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7783,3.1437,101.7783,3.1437",
+    "geom:latitude":3.1437,
+    "geom:longitude":101.7783,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taman Sri Ampang",
+    "gn:country_code":"MY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535552,
+    "gn:latitude":3.1437,
+    "gn:longitude":101.7783,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Taman Sri Ampang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Sri Ampang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535552
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e5d2ac78804cc690915accdc72830fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":1276313241,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1276313241,
+    "wof:lastmodified":1537674461,
+    "wof:name":"Taman Sri Ampang",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7783,
+    3.1437,
+    101.7783,
+    3.1437
+],
+  "geometry": {"coordinates":[101.7783,3.1437],"type":"Point"}
+}

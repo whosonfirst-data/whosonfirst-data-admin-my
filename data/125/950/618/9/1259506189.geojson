@@ -1,0 +1,66 @@
+{
+  "id": 1259506189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8942,2.421,101.8942,2.421",
+    "geom:latitude":2.421,
+    "geom:longitude":101.8942,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Taman Pantai Dickson",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7567358,
+    "gn:latitude":2.421,
+    "gn:longitude":101.8942,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Pantai Dickson",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Pantai Dickson"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7567358
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d9b110c5db3e4441a02cde425a45c929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1259506189,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259506189,
+    "wof:lastmodified":1537674316,
+    "wof:name":"Taman Pantai Dickson",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8942,
+    2.421,
+    101.8942,
+    2.421
+],
+  "geometry": {"coordinates":[101.8942,2.421],"type":"Point"}
+}

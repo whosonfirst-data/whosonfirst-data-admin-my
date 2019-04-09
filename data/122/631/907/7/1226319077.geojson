@@ -1,0 +1,73 @@
+{
+  "id": 1226319077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4266,4.6472,103.4266,4.6472",
+    "geom:latitude":4.6472,
+    "geom:longitude":103.4266,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Cerung Melintang",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769776,
+    "gn:latitude":4.6472,
+    "gn:longitude":103.4266,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Cerung Melintang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Cerung Melintang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Cherong Melintang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769776
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8ed2bce91456ae3b3e60f72171f10c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":1226319077,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1226319077,
+    "wof:lastmodified":1537674134,
+    "wof:name":"Kampung Cerung Melintang",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4266,
+    4.6472,
+    103.4266,
+    4.6472
+],
+  "geometry": {"coordinates":[103.42659999999999,4.6472],"type":"Point"}
+}

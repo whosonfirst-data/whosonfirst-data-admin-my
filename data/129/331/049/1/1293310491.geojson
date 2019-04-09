@@ -1,0 +1,70 @@
+{
+  "id": 1293310491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5294,2.274,102.5294,2.274",
+    "geom:latitude":2.274,
+    "geom:longitude":102.5294,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Ladang",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798111,
+    "gn:latitude":2.274,
+    "gn:longitude":102.5294,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Ladang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Ladang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798111
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"90abd74f88f06f30bcdc426ed59a86da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1293310491,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293310491,
+    "wof:lastmodified":1537674428,
+    "wof:name":"Taman Ladang",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5294,
+    2.274,
+    102.5294,
+    2.274
+],
+  "geometry": {"coordinates":[102.5294,2.274],"type":"Point"}
+}

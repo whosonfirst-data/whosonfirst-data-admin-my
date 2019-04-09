@@ -1,0 +1,70 @@
+{
+  "id": 1243271623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8699,5.6944,101.8699,5.6944",
+    "geom:latitude":5.6944,
+    "geom:longitude":101.8699,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Baru Jalan Malaysia",
+    "gn:country_code":"MY",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067982,
+    "gn:latitude":5.6944,
+    "gn:longitude":101.8699,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Baru Jalan Malaysia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baru Jalan Malaysia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067982
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d44cc8975e6833d5f1c3276b91c96406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490101,
+            "locality_id":1243271623,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1243271623,
+    "wof:lastmodified":1537674275,
+    "wof:name":"Kampung Baru Jalan Malaysia",
+    "wof:parent_id":890490101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8699,
+    5.6944,
+    101.8699,
+    5.6944
+],
+  "geometry": {"coordinates":[101.8699,5.6944],"type":"Point"}
+}

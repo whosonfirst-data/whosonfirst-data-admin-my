@@ -1,0 +1,70 @@
+{
+  "id": 1309898397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9921,4.0409,101.9921,4.0409",
+    "geom:latitude":4.0409,
+    "geom:longitude":101.9921,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ladang Budu",
+    "gn:country_code":"MY",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638964,
+    "gn:latitude":4.0409,
+    "gn:longitude":101.9921,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ladang Budu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ladang Budu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638964
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8620dab3d47997813fa1993df48c9271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1309898397,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1309898397,
+    "wof:lastmodified":1537674346,
+    "wof:name":"Ladang Budu",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9921,
+    4.0409,
+    101.9921,
+    4.0409
+],
+  "geometry": {"coordinates":[101.99209999999999,4.0409],"type":"Point"}
+}

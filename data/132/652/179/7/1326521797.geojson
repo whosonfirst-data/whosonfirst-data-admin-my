@@ -1,0 +1,67 @@
+{
+  "id": 1326521797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.81667,5.01667,100.81667,5.01667",
+    "geom:latitude":5.01667,
+    "geom:longitude":100.81667,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Jelai",
+    "gn:country_code":"MY",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1772909,
+    "gn:latitude":5.01667,
+    "gn:longitude":100.81667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Jelai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1772909
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"261221295fd2df904f0e461d11cc5bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490803,
+            "locality_id":1326521797,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1326521797,
+    "wof:lastmodified":1536998380,
+    "wof:name":"Jelai",
+    "wof:parent_id":890490803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.81667,
+    5.01667,
+    100.81667,
+    5.01667
+],
+  "geometry": {"coordinates":[100.81667,5.01667],"type":"Point"}
+}

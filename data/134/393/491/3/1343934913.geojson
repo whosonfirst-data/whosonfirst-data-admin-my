@@ -1,0 +1,73 @@
+{
+  "id": 1343934913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7759,3.0616,101.7759,3.0616",
+    "geom:latitude":3.0616,
+    "geom:longitude":101.7759,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Perimbun",
+    "gn:country_code":"MY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765615,
+    "gn:latitude":3.0616,
+    "gn:longitude":101.7759,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Perimbun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Perimbun"
+    ],
+    "name:und_x_variant":[
+        "Kampong Perimbun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765615
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dd18e0392d9aa821d3f1abcc10792e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":1343934913,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1343934913,
+    "wof:lastmodified":1537673961,
+    "wof:name":"Kampung Perimbun",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7759,
+    3.0616,
+    101.7759,
+    3.0616
+],
+  "geometry": {"coordinates":[101.77589999999999,3.0616],"type":"Point"}
+}

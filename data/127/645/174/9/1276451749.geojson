@@ -1,0 +1,74 @@
+{
+  "id": 1276451749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9117,5.54564,100.9117,5.54564",
+    "geom:latitude":5.54564,
+    "geom:longitude":100.9117,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Charok Pendiat",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769899,
+    "gn:latitude":5.54564,
+    "gn:longitude":100.9117,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Charok Pendiat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Charok Pendiat"
+    ],
+    "name:und_x_variant":[
+        "Kampong Charok Pendiat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769899
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"24c21549386beaf15aa2b4bd05e29fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696379,
+            "locality_id":1276451749,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1276451749,
+    "wof:lastmodified":1537674139,
+    "wof:name":"Kampung Charok Pendiat",
+    "wof:parent_id":1108696379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9117,
+    5.54564,
+    100.9117,
+    5.54564
+],
+  "geometry": {"coordinates":[100.9117,5.54564],"type":"Point"}
+}

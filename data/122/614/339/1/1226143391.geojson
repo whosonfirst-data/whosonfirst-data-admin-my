@@ -1,0 +1,73 @@
+{
+  "id": 1226143391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4968,2.1406,102.4968,2.1406",
+    "geom:latitude":2.1406,
+    "geom:longitude":102.4968,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Parit Sidang Seman",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766107,
+    "gn:latitude":2.1406,
+    "gn:longitude":102.4968,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Parit Sidang Seman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Sidang Seman"
+    ],
+    "name:und_x_variant":[
+        "Kampong Parit Sidang Seman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766107
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"de2606b9106b721c87ecd4d48ee139d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489809,
+            "locality_id":1226143391,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1226143391,
+    "wof:lastmodified":1537673983,
+    "wof:name":"Kampung Parit Sidang Seman",
+    "wof:parent_id":890489809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4968,
+    2.1406,
+    102.4968,
+    2.1406
+],
+  "geometry": {"coordinates":[102.49679999999999,2.1406],"type":"Point"}
+}

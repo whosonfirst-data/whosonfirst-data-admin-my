@@ -1,0 +1,104 @@
+{
+  "id": 1125962801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.23333,4.26667,101.23333,4.26667",
+    "geom:latitude":4.26667,
+    "geom:longitude":101.23333,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":4.26667,
+    "lbl:longitude":101.23333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Chenderiang"
+    ],
+    "name:eng_x_preferred":[
+        "Chenderiang"
+    ],
+    "name:epo_x_preferred":[
+        "Chenderiang"
+    ],
+    "name:may_x_preferred":[
+        "Chenderiang"
+    ],
+    "name:unk_x_variant":[
+        "Cenderiang"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1735276,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Chenderiang",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Perak",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1251719,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1154638,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Perak",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735276,
+        "gp:id":1154638,
+        "qs_pg:id":1251719,
+        "wd:id":"Q5091154"
+    },
+    "wof:country":"MY",
+    "wof:created":1497297865,
+    "wof:geomhash":"d44469bc97b9b70d5246868e6b452dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489741,
+            "locality_id":1125962801,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1125962801,
+    "wof:lastmodified":1514490481,
+    "wof:name":"Chenderiang",
+    "wof:parent_id":890489741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.23333,
+    4.26667,
+    101.23333,
+    4.26667
+],
+  "geometry": {"coordinates":[101.23333,4.26667],"type":"Point"}
+}

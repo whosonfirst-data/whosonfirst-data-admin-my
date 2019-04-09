@@ -1,0 +1,73 @@
+{
+  "id": 1259959103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0931,5.0783,103.0931,5.0783",
+    "geom:latitude":5.0783,
+    "geom:longitude":103.0931,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Bukit Kolam",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770219,
+    "gn:latitude":5.0783,
+    "gn:longitude":103.0931,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bukit Kolam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Kolam"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bukit Kolam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770219
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"44eda6f1c07ebce873dfeb0295833550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1259959103,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1259959103,
+    "wof:lastmodified":1537674152,
+    "wof:name":"Kampung Bukit Kolam",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0931,
+    5.0783,
+    103.0931,
+    5.0783
+],
+  "geometry": {"coordinates":[103.09310000000001,5.0783],"type":"Point"}
+}

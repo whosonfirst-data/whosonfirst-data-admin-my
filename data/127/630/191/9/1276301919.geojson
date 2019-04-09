@@ -1,0 +1,70 @@
+{
+  "id": 1276301919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4243,6.3564,116.4243,6.3564",
+    "geom:latitude":6.3564,
+    "geom:longitude":116.4243,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampong Lebak Moyoh",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417188,
+    "gn:latitude":6.3564,
+    "gn:longitude":116.4243,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampong Lebak Moyoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampong Lebak Moyoh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417188
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1d992e25414e572792e762ff9fc94d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1276301919,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276301919,
+    "wof:lastmodified":1537674283,
+    "wof:name":"Kampong Lebak Moyoh",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4243,
+    6.3564,
+    116.4243,
+    6.3564
+],
+  "geometry": {"coordinates":[116.4243,6.3564],"type":"Point"}
+}

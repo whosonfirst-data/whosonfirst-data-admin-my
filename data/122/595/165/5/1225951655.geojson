@@ -1,0 +1,70 @@
+{
+  "id": 1225951655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.682,5.0319,101.682,5.0319",
+    "geom:latitude":5.0319,
+    "geom:longitude":101.682,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Kuala Yai",
+    "gn:country_code":"MY",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7462004,
+    "gn:latitude":5.0319,
+    "gn:longitude":101.682,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kuala Yai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Yai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7462004
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0507f76dad59dc9ee7019bf47eba80d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1225951655,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1225951655,
+    "wof:lastmodified":1537674296,
+    "wof:name":"Kampung Kuala Yai",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.682,
+    5.0319,
+    101.682,
+    5.0319
+],
+  "geometry": {"coordinates":[101.682,5.0319],"type":"Point"}
+}

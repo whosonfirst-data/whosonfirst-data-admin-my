@@ -1,0 +1,73 @@
+{
+  "id": 1242772267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9,4.73333,100.9,4.73333",
+    "geom:latitude":4.73333,
+    "geom:longitude":100.9,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Jerlun",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1772489,
+    "gn:latitude":4.73333,
+    "gn:longitude":100.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Jerlun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Jerlun",
+        "Jerlun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1772489,
+        "wk:page":"Jerlun"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4f044704db50e0725a08976f61904799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":1242772267,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1242772267,
+    "wof:lastmodified":1537674215,
+    "wof:name":"Jerlun",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9,
+    4.73333,
+    100.9,
+    4.73333
+],
+  "geometry": {"coordinates":[100.90000000000001,4.73333],"type":"Point"}
+}

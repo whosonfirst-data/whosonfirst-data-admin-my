@@ -1,0 +1,70 @@
+{
+  "id": 1293796703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.74748,5.77174,100.74748,5.77174",
+    "geom:latitude":5.77174,
+    "geom:longitude":100.74748,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Charok Kechil",
+    "gn:country_code":"MY",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805051,
+    "gn:latitude":5.77174,
+    "gn:longitude":100.74748,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Charok Kechil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Charok Kechil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805051
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7b3c11223411e1ecc353ed39b0b79f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696515,
+            "locality_id":1293796703,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1293796703,
+    "wof:lastmodified":1537674233,
+    "wof:name":"Kampung Charok Kechil",
+    "wof:parent_id":1108696515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.74748,
+    5.77174,
+    100.74748,
+    5.77174
+],
+  "geometry": {"coordinates":[100.74748,5.77174],"type":"Point"}
+}

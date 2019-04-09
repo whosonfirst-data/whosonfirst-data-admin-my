@@ -1,0 +1,70 @@
+{
+  "id": 1293511055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.2023,4.8276,101.2023,4.8276",
+    "geom:latitude":4.8276,
+    "geom:longitude":101.2023,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Awal",
+    "gn:country_code":"MY",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473227,
+    "gn:latitude":4.8276,
+    "gn:longitude":101.2023,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Awal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Awal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473227
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9d855ec36b8f05a9fdeed5733decde17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489077,
+            "locality_id":1293511055,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1293511055,
+    "wof:lastmodified":1537674302,
+    "wof:name":"Kampung Awal",
+    "wof:parent_id":890489077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.2023,
+    4.8276,
+    101.2023,
+    4.8276
+],
+  "geometry": {"coordinates":[101.20229999999999,4.8276],"type":"Point"}
+}

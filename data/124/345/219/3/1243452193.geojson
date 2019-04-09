@@ -1,0 +1,70 @@
+{
+  "id": 1243452193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3519,4.0164,102.3519,4.0164",
+    "geom:latitude":4.0164,
+    "geom:longitude":102.3519,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Sungai Yap",
+    "gn:country_code":"MY",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793964,
+    "gn:latitude":4.0164,
+    "gn:longitude":102.3519,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sungai Yap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Yap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793964
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"93e051ce0a7f35cfc9e43e6fd263bd6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1243452193,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1243452193,
+    "wof:lastmodified":1537674389,
+    "wof:name":"Kampung Sungai Yap",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3519,
+    4.0164,
+    102.3519,
+    4.0164
+],
+  "geometry": {"coordinates":[102.3519,4.0164],"type":"Point"}
+}

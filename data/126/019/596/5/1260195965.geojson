@@ -1,0 +1,70 @@
+{
+  "id": 1260195965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.53512,5.36519,100.53512,5.36519",
+    "geom:latitude":5.36519,
+    "geom:longitude":100.53512,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Taman Jati",
+    "gn:country_code":"MY",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819263,
+    "gn:latitude":5.36519,
+    "gn:longitude":100.53512,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taman Jati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Jati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819263
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"55a8b8fd7b402df282a6ed25253ba691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490359,
+            "locality_id":1260195965,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1260195965,
+    "wof:lastmodified":1537674249,
+    "wof:name":"Taman Jati",
+    "wof:parent_id":890490359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.53512,
+    5.36519,
+    100.53512,
+    5.36519
+],
+  "geometry": {"coordinates":[100.53512000000001,5.36519],"type":"Point"}
+}

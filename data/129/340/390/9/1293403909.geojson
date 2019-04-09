@@ -1,0 +1,70 @@
+{
+  "id": 1293403909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.1427,1.3473,104.1427,1.3473",
+    "geom:latitude":1.3473,
+    "geom:longitude":104.1427,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Langkah Baik",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732784,
+    "gn:latitude":1.3473,
+    "gn:longitude":104.1427,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Langkah Baik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Langkah Baik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732784
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3683f2bdc325e6919a2b66efb5124ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":1293403909,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293403909,
+    "wof:lastmodified":1537673669,
+    "wof:name":"Kampung Langkah Baik",
+    "wof:parent_id":890491003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.1427,
+    1.3473,
+    104.1427,
+    1.3473
+],
+  "geometry": {"coordinates":[104.1427,1.3473],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 890488911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1041,3.5074,101.1041,3.5074",
+    "geom:latitude":3.5074,
+    "geom:longitude":101.1041,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u9002\u8015\u5e84"
+    ],
+    "name:dut_x_preferred":[
+        "Sekinchan"
+    ],
+    "name:eng_x_preferred":[
+        "Sekinchan"
+    ],
+    "name:epo_x_preferred":[
+        "Sekinchan"
+    ],
+    "name:ind_x_preferred":[
+        "Sekinchan"
+    ],
+    "name:may_x_preferred":[
+        "Sekinchan"
+    ],
+    "name:msa_x_preferred":[
+        "Sekincan"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Sekinchang"
+    ],
+    "qs:name":"Sekincan",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":246,
+    "qs:photos_1k":50,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":246,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890490813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732938,
+        "gp:id":1153920,
+        "qs:id":385712,
+        "wd:id":"Q2571745"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054737,
+    "wof:geomhash":"d3bf5d560e95408d633168e6c6cb81ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490813,
+            "locality_id":890488911,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890488911,
+    "wof:lastmodified":1514490813,
+    "wof:name":"Sekincan",
+    "wof:parent_id":890490813,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1041,
+    3.5074,
+    101.1041,
+    3.5074
+],
+  "geometry": {"coordinates":[101.1041,3.5074],"type":"Point"}
+}

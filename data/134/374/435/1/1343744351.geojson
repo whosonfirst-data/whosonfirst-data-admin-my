@@ -1,0 +1,70 @@
+{
+  "id": 1343744351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.7799,5.4648,115.7799,5.4648",
+    "geom:latitude":5.4648,
+    "geom:longitude":115.7799,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Rumpun",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418711,
+    "gn:latitude":5.4648,
+    "gn:longitude":115.7799,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Rumpun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rumpun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418711
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"70833b534b5b3ba02fe0125ee76179c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696385,
+            "locality_id":1343744351,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343744351,
+    "wof:lastmodified":1537674287,
+    "wof:name":"Kampung Rumpun",
+    "wof:parent_id":1108696385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.7799,
+    5.4648,
+    115.7799,
+    5.4648
+],
+  "geometry": {"coordinates":[115.7799,5.4648],"type":"Point"}
+}

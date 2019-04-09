@@ -1,0 +1,73 @@
+{
+  "id": 1293475485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.26667,6.45,100.26667,6.45",
+    "geom:latitude":6.45,
+    "geom:longitude":100.26667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Kuan Pelik",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736285,
+    "gn:latitude":6.45,
+    "gn:longitude":100.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kuan Pelik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Kuan Plek",
+        "Kampong Kuan Pelek",
+        "Kampung Kuan Pelik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736285
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3c79f4d930aa4cdccb9c5ab181f2425f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1293475485,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1293475485,
+    "wof:lastmodified":1537673735,
+    "wof:name":"Kampung Kuan Pelik",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.26667,
+    6.45,
+    100.26667,
+    6.45
+],
+  "geometry": {"coordinates":[100.26667,6.45],"type":"Point"}
+}

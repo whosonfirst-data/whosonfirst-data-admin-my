@@ -1,0 +1,73 @@
+{
+  "id": 1210009101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1402,3.4322,103.1402,3.4322",
+    "geom:latitude":3.4322,
+    "geom:longitude":103.1402,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Buluh Semerah",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7685633,
+    "gn:latitude":3.4322,
+    "gn:longitude":103.1402,
+    "gn:modification_date":"2013-10-10",
+    "gn:name":"Kampung Buluh Semerah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Buluh Semerah"
+    ],
+    "name:und_x_variant":[
+        "Kampong Buloh Semerah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685633
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7ea465ba1e81617b1d4e01fac5f8066e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1210009101,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1210009101,
+    "wof:lastmodified":1537674359,
+    "wof:name":"Kampung Buluh Semerah",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1402,
+    3.4322,
+    103.1402,
+    3.4322
+],
+  "geometry": {"coordinates":[103.14019999999999,3.4322],"type":"Point"}
+}

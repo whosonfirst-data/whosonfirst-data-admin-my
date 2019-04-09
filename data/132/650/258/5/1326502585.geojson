@@ -1,0 +1,74 @@
+{
+  "id": 1326502585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.5312,6.4899,116.5312,6.4899",
+    "geom:latitude":6.4899,
+    "geom:longitude":116.5312,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tambilaung",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763599,
+    "gn:latitude":6.4899,
+    "gn:longitude":116.5312,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tambilaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tambilaung"
+    ],
+    "name:und_x_variant":[
+        "Tambilaung",
+        "Kampong Tambilaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763599
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1e6b0a6791b5975056539f1038368e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1326502585,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1326502585,
+    "wof:lastmodified":1537673868,
+    "wof:name":"Kampung Tambilaung",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5312,
+    6.4899,
+    116.5312,
+    6.4899
+],
+  "geometry": {"coordinates":[116.5312,6.4899],"type":"Point"}
+}

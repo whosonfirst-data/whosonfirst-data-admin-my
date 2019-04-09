@@ -1,0 +1,123 @@
+{
+  "id": 85783855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3291519.454322,
+    "geom:bbox":"101.584935,3.051543,101.584935,3.051543",
+    "geom:latitude":3.051543,
+    "geom:longitude":101.584935,
+    "gn:latitude":3.13333,
+    "gn:longitude":101.63333,
+    "iso:country":"MY",
+    "lbl:latitude":3.051543,
+    "lbl:longitude":101.584935,
+    "mps:latitude":3.049598,
+    "mps:longitude":101.585739,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Damansara"
+    ],
+    "name:ger_x_preferred":[
+        "Kuala Lumpur/Damansara und Hartamas"
+    ],
+    "name:ind_x_preferred":[
+        "Damansara"
+    ],
+    "name:may_x_preferred":[
+        "Damansara"
+    ],
+    "name:und_x_preferred":[
+        "Damansara"
+    ],
+    "name:unk_x_variant":[
+        "Sungei Penchala",
+        "Damansara"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Damansara",
+    "qs:local_max":491,
+    "qs:local_sum":2868,
+    "qs:localhoods":17,
+    "qs:name":"Damansara",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:name_adm2":"Petaling",
+    "qs:name_lau":"Damansara",
+    "qs:name_local":"Subang Jaya",
+    "qs:photo_max":183,
+    "qs:photo_sum":482,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346306,
+    "qs:woe_adm2":56013632,
+    "qs:woe_lau":56014224,
+    "qs:woe_local":55862650,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102022833,
+        890490605,
+        85675163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1776582,
+        "gp:id":56015119,
+        "qs:id":1152554,
+        "wd:id":"Q5211973"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"42668650717b557bb123756a00f0203e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490605,
+            "locality_id":102022833,
+            "neighbourhood_id":85783855,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":85783855,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860554,
+    "wof:name":"Damansara",
+    "wof:parent_id":102022833,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.584935,
+    3.051543,
+    101.584935,
+    3.051543
+],
+  "geometry": {"coordinates":[101.584935,3.051543],"type":"Point"}
+}

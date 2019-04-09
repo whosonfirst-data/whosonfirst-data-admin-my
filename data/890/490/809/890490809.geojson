@@ -1,0 +1,78 @@
+{
+  "id": 890490809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.26858,5.34194,100.26858,5.34194",
+    "geom:latitude":5.34194,
+    "geom:longitude":100.26858,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kampung Darat"
+    ],
+    "qs:name":"Kampong Darai",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:photos":66,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":66,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675127,
+        102191569,
+        85632739,
+        102023363,
+        890489155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769697,
+        "gp:id":1143332,
+        "qs:id":222646
+    },
+    "wof:country":"MY",
+    "wof:created":1469054825,
+    "wof:geomhash":"4ae5fb6022e8ae357e2e50ead79aa153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "locality_id":102023363,
+            "neighbourhood_id":890490809,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":890490809,
+    "wof:lastmodified":1505343789,
+    "wof:name":"Kampong Darai",
+    "wof:parent_id":102023363,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.26858,
+    5.34194,
+    100.26858,
+    5.34194
+],
+  "geometry": {"coordinates":[100.26858,5.34194],"type":"Point"}
+}

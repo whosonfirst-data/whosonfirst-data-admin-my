@@ -1,0 +1,74 @@
+{
+  "id": 1293565665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4145,4.4103,103.4145,4.4103",
+    "geom:latitude":4.4103,
+    "geom:longitude":103.4145,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Penghulu Setapa",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765752,
+    "gn:latitude":4.4103,
+    "gn:longitude":103.4145,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Penghulu Setapa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Penghulu Setapa"
+    ],
+    "name:und_x_variant":[
+        "Kampong Penghula Setapa",
+        "Kampong Penghulu Setapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765752
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ae5ea41b02bc3ce0265f35cb2a55ad2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "locality_id":1293565665,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1293565665,
+    "wof:lastmodified":1537673967,
+    "wof:name":"Kampung Penghulu Setapa",
+    "wof:parent_id":890490801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4145,
+    4.4103,
+    103.4145,
+    4.4103
+],
+  "geometry": {"coordinates":[103.4145,4.4103],"type":"Point"}
+}

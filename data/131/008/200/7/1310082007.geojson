@@ -1,0 +1,70 @@
+{
+  "id": 1310082007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.12861,5.26283,103.12861,5.26283",
+    "geom:latitude":5.26283,
+    "geom:longitude":103.12861,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Bawah",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770795,
+    "gn:latitude":5.26283,
+    "gn:longitude":103.12861,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bawah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Bawah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770795
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"040a039bc6ba7fe2635e50799d535ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1310082007,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1310082007,
+    "wof:lastmodified":1537674175,
+    "wof:name":"Kampung Bawah",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.12861,
+    5.26283,
+    103.12861,
+    5.26283
+],
+  "geometry": {"coordinates":[103.12860999999999,5.26283],"type":"Point"}
+}

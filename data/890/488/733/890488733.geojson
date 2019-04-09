@@ -1,0 +1,77 @@
+{
+  "id": 890488733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1716,2.5219,102.1716,2.5219",
+    "geom:latitude":2.5219,
+    "geom:longitude":102.1716,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gadong"
+    ],
+    "name:unk_x_variant":[
+        "Gadong"
+    ],
+    "qs:name":"Kampong Gadong",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Negeri Sembilan",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769496,
+        "gp:id":1143536,
+        "qs:id":308349
+    },
+    "wof:country":"MY",
+    "wof:created":1469054730,
+    "wof:geomhash":"342c5ca6944b49bf601f28b6ee6d24ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":890488733,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":890488733,
+    "wof:lastmodified":1505343783,
+    "wof:name":"Kampong Gadong",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1716,
+    2.5219,
+    102.1716,
+    2.5219
+],
+  "geometry": {"coordinates":[102.1716,2.5219],"type":"Point"}
+}

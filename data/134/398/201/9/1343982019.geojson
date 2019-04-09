@@ -1,0 +1,66 @@
+{
+  "id": 1343982019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.218,2.2107,102.218,2.2107",
+    "geom:latitude":2.2107,
+    "geom:longitude":102.218,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Pulau Limbungan",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797951,
+    "gn:latitude":2.2107,
+    "gn:longitude":102.218,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pulau Limbungan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pulau Limbungan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797951
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aec9bfeaf4733ae5465b7b8271be4b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1343982019,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343982019,
+    "wof:lastmodified":1537674426,
+    "wof:name":"Kampung Pulau Limbungan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.218,
+    2.2107,
+    102.218,
+    2.2107
+],
+  "geometry": {"coordinates":[102.218,2.2107],"type":"Point"}
+}

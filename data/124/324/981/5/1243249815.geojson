@@ -1,0 +1,73 @@
+{
+  "id": 1243249815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0913,5.2636,103.0913,5.2636",
+    "geom:latitude":5.2636,
+    "geom:longitude":103.0913,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Tok Hakim",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762571,
+    "gn:latitude":5.2636,
+    "gn:longitude":103.0913,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tok Hakim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tok Hakim"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tok Hakim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762571
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f85f0bfa2426524d9affb0a6cee6b0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490535,
+            "locality_id":1243249815,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1243249815,
+    "wof:lastmodified":1537673820,
+    "wof:name":"Kampung Tok Hakim",
+    "wof:parent_id":890490535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0913,
+    5.2636,
+    103.0913,
+    5.2636
+],
+  "geometry": {"coordinates":[103.0913,5.2636],"type":"Point"}
+}

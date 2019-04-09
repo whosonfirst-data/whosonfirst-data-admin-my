@@ -1,0 +1,62 @@
+{
+  "id": 890489707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.750598,1.474236,110.750598,1.474236",
+    "geom:latitude":1.474236,
+    "geom:longitude":110.750598,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Division Samarahan",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sarawak",
+    "qs:photos":112,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":226,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013569,
+        "qs:id":1090849
+    },
+    "wof:country":"MY",
+    "wof:created":1469054767,
+    "wof:geomhash":"5593c19bdd5323c14e93047d10a690a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "county_id":890489707
+        }
+    ],
+    "wof:id":890489707,
+    "wof:lastmodified":1474500889,
+    "wof:name":"Division Samarahan",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.750598,
+    1.474236,
+    110.750598,
+    1.474236
+],
+  "geometry": {"coordinates":[110.750598,1.474236],"type":"Point"}
+}

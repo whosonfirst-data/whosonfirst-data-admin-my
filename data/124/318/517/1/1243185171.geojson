@@ -1,0 +1,74 @@
+{
+  "id": 1243185171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.83495,5.69938,100.83495,5.69938",
+    "geom:latitude":5.69938,
+    "geom:longitude":100.83495,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Charok Sik",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769893,
+    "gn:latitude":5.69938,
+    "gn:longitude":100.83495,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Charok Sik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Charok Sik"
+    ],
+    "name:und_x_variant":[
+        "Kampong Charok Sik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769893
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8f9fa9c7bae031e5e0798816eabd0db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696379,
+            "locality_id":1243185171,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1243185171,
+    "wof:lastmodified":1537674139,
+    "wof:name":"Kampung Charok Sik",
+    "wof:parent_id":1108696379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.83495,
+    5.69938,
+    100.83495,
+    5.69938
+],
+  "geometry": {"coordinates":[100.83495000000001,5.69938],"type":"Point"}
+}

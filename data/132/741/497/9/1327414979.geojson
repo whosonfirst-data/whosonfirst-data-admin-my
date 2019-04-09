@@ -1,0 +1,74 @@
+{
+  "id": 1327414979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.49507,1.21963,110.49507,1.21963",
+    "geom:latitude":1.21963,
+    "geom:longitude":110.49507,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Baru",
+    "gn:country_code":"MY",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771384,
+    "gn:latitude":1.21963,
+    "gn:longitude":110.49507,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampong Baru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baru\u2019D",
+        "Kampong Baru\u2019d",
+        "Kampong Baru",
+        "Kampong Baharu",
+        "Kampung Baru Mawang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771384
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f2f7574effe1f6d97427f822e2bb79aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696511,
+            "locality_id":1327414979,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1327414979,
+    "wof:lastmodified":1537674200,
+    "wof:name":"Kampong Baru",
+    "wof:parent_id":1108696511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.49507,
+    1.21963,
+    110.49507,
+    1.21963
+],
+  "geometry": {"coordinates":[110.49507,1.21963],"type":"Point"}
+}

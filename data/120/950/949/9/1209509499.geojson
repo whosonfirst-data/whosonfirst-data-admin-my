@@ -1,0 +1,64 @@
+{
+  "id": 1209509499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1279,4.5275,101.1279,4.5275",
+    "geom:latitude":4.5275,
+    "geom:longitude":101.1279,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taman Pulai Jaya",
+    "gn:country_code":"MY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7612520,
+    "gn:latitude":4.5275,
+    "gn:longitude":101.1279,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Pulai Jaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Pulai Jaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7612520
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"17d78b0e8c74ecb6fa5430d925ee1043",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209509499
+        }
+    ],
+    "wof:id":1209509499,
+    "wof:lastmodified":1537674328,
+    "wof:name":"Taman Pulai Jaya",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1279,
+    4.5275,
+    101.1279,
+    4.5275
+],
+  "geometry": {"coordinates":[101.1279,4.5275],"type":"Point"}
+}

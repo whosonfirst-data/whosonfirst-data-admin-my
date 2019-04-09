@@ -1,0 +1,71 @@
+{
+  "id": 1276431861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.29536,6.42922,100.29536,6.42922",
+    "geom:latitude":6.42922,
+    "geom:longitude":100.29536,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Guar Paya",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1736067,
+    "gn:latitude":6.42922,
+    "gn:longitude":100.29536,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Guar Paya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Guar Paya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736067
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6d5905f10311f4cca13281ebdf1e1b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1276431861,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1276431861,
+    "wof:lastmodified":1537673730,
+    "wof:name":"Kampung Guar Paya",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.29536,
+    6.42922,
+    100.29536,
+    6.42922
+],
+  "geometry": {"coordinates":[100.29536,6.42922],"type":"Point"}
+}

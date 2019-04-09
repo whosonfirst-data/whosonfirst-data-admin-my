@@ -1,0 +1,106 @@
+{
+  "id": 85784257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":879550.795203,
+    "geom:bbox":"103.756131,1.473691,103.756131,1.473691",
+    "geom:latitude":1.473691,
+    "geom:longitude":103.756131,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":1.473691,
+    "lbl:longitude":103.756131,
+    "mps:latitude":1.474751,
+    "mps:longitude":103.753823,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:und_x_preferred":[
+        "Wadi Hana"
+    ],
+    "name:unk_x_variant":[
+        "Wadi Hana"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1732752,
+    "qs:local_max":681,
+    "qs:local_sum":3607,
+    "qs:localhoods":29,
+    "qs:name":"Wadi Hana",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:name_adm2":"Johor Bahru",
+    "qs:name_lau":"Plentong",
+    "qs:name_local":"Johor Baharu",
+    "qs:photo_max":16,
+    "qs:photo_sum":26,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346296,
+    "qs:woe_adm2":56013565,
+    "qs:woe_lau":56014160,
+    "qs:woe_local":1154698,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102022781,
+        1108696403,
+        85675141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017356,
+        "qs:id":987018,
+        "qs_pg:id":987018
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"19bef834bcbb3bf8669a58815c3b2778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":102022781,
+            "neighbourhood_id":85784257,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":85784257,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860590,
+    "wof:name":"Wadi Hana",
+    "wof:parent_id":102022781,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.756131,
+    1.473691,
+    103.756131,
+    1.473691
+],
+  "geometry": {"coordinates":[103.756131,1.473691],"type":"Point"}
+}

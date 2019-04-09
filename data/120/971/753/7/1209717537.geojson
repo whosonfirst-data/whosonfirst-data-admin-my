@@ -1,0 +1,67 @@
+{
+  "id": 1209717537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.06667,5.71667,102.06667,5.71667",
+    "geom:latitude":5.71667,
+    "geom:longitude":102.06667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Bukit Merbau",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770184,
+    "gn:latitude":5.71667,
+    "gn:longitude":102.06667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Bukit Merbau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770184
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5347f7cf0d847ff6b2939cf173e6665b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490497,
+            "locality_id":1209717537,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1209717537,
+    "wof:lastmodified":1536387879,
+    "wof:name":"Kampong Bukit Merbau",
+    "wof:parent_id":890490497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.06667,
+    5.71667,
+    102.06667,
+    5.71667
+],
+  "geometry": {"coordinates":[102.06667,5.71667],"type":"Point"}
+}

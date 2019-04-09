@@ -1,0 +1,74 @@
+{
+  "id": 1310613879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.60071,5.19988,100.60071,5.19988",
+    "geom:latitude":5.19988,
+    "geom:longitude":100.60071,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Batu Hampar",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770907,
+    "gn:latitude":5.19988,
+    "gn:longitude":100.60071,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Batu Hampar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Hampar"
+    ],
+    "name:und_x_variant":[
+        "Kampong Batu Hampar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770907
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"481e77b2c53552c5ab4fe342a1ebe896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490371,
+            "locality_id":1310613879,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310613879,
+    "wof:lastmodified":1537674180,
+    "wof:name":"Kampung Batu Hampar",
+    "wof:parent_id":890490371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.60071,
+    5.19988,
+    100.60071,
+    5.19988
+],
+  "geometry": {"coordinates":[100.60071000000001,5.19988],"type":"Point"}
+}

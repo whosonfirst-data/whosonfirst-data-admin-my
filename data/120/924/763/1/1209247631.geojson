@@ -1,0 +1,67 @@
+{
+  "id": 1209247631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1779,2.4766,102.1779,2.4766",
+    "geom:latitude":2.4766,
+    "geom:longitude":102.1779,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Cherana Puteh",
+    "gn:country_code":"MY",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769805,
+    "gn:latitude":2.4766,
+    "gn:longitude":102.1779,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Cherana Puteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Cherana Puteh"
+    ],
+    "name:und_x_variant":[
+        "Kampong Cherana Puteh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769805
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fa62aa6fbb2347f5a3ed3a28130c2361",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209247631
+        }
+    ],
+    "wof:id":1209247631,
+    "wof:lastmodified":1537674135,
+    "wof:name":"Kampung Cherana Puteh",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1779,
+    2.4766,
+    102.1779,
+    2.4766
+],
+  "geometry": {"coordinates":[102.17789999999999,2.4766],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276418877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.38333,2.01667,111.38333,2.01667",
+    "geom:latitude":2.01667,
+    "geom:longitude":111.38333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Jilan",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747872,
+    "gn:latitude":2.01667,
+    "gn:longitude":111.38333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Jilan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747872
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b6626129160a6c33efe59afc1176ef4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488261,
+            "locality_id":1276418877,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1276418877,
+    "wof:lastmodified":1536664104,
+    "wof:name":"Rumah Jilan",
+    "wof:parent_id":890488261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.38333,
+    2.01667,
+    111.38333,
+    2.01667
+],
+  "geometry": {"coordinates":[111.38333,2.01667],"type":"Point"}
+}

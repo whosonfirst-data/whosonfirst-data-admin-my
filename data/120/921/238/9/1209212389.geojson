@@ -1,0 +1,68 @@
+{
+  "id": 1209212389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8072,3.5727,102.8072,3.5727",
+    "geom:latitude":3.5727,
+    "geom:longitude":102.8072,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Subuh",
+    "gn:country_code":"MY",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764192,
+    "gn:latitude":3.5727,
+    "gn:longitude":102.8072,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Subuh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Subuh"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sabak",
+        "Kampong Suboh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764192
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c70a4fd0ae2a24355fb74a9af82b6587",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209212389
+        }
+    ],
+    "wof:id":1209212389,
+    "wof:lastmodified":1537673896,
+    "wof:name":"Kampung Subuh",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8072,
+    3.5727,
+    102.8072,
+    3.5727
+],
+  "geometry": {"coordinates":[102.80719999999999,3.5727],"type":"Point"}
+}

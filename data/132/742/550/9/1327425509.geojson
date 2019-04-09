@@ -1,0 +1,70 @@
+{
+  "id": 1327425509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7799,3.9366,100.7799,3.9366",
+    "geom:latitude":3.9366,
+    "geom:longitude":100.7799,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Simpang Tiga Bagan Datuk",
+    "gn:country_code":"MY",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534815,
+    "gn:latitude":3.9366,
+    "gn:longitude":100.7799,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Simpang Tiga Bagan Datuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Simpang Tiga Bagan Datuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534815
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"25b11829bf5b9156bb7f686bb74c85b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1327425509,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1327425509,
+    "wof:lastmodified":1537674459,
+    "wof:name":"Simpang Tiga Bagan Datuk",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7799,
+    3.9366,
+    100.7799,
+    3.9366
+],
+  "geometry": {"coordinates":[100.7799,3.9366],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226364771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4171,3.4872,102.4171,3.4872",
+    "geom:latitude":3.4872,
+    "geom:longitude":102.4171,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Baharu Lubuk Kawah",
+    "gn:country_code":"MY",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795920,
+    "gn:latitude":3.4872,
+    "gn:longitude":102.4171,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Baharu Lubuk Kawah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Lubuk Kawah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795920
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f81e2248072584a43c864e98ecd82e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1226364771,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226364771,
+    "wof:lastmodified":1537674397,
+    "wof:name":"Kampung Baharu Lubuk Kawah",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4171,
+    3.4872,
+    102.4171,
+    3.4872
+],
+  "geometry": {"coordinates":[102.4171,3.4872],"type":"Point"}
+}

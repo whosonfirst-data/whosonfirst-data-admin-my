@@ -1,0 +1,70 @@
+{
+  "id": 1310194663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.5298,5.25107,100.5298,5.25107",
+    "geom:latitude":5.25107,
+    "geom:longitude":100.5298,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kampung Sepuluh Kongsi",
+    "gn:country_code":"MY",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819939,
+    "gn:latitude":5.25107,
+    "gn:longitude":100.5298,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Sepuluh Kongsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sepuluh Kongsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819939
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3e308c790a8fa9e5fb5d2d0b0ede9fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1310194663,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1310194663,
+    "wof:lastmodified":1537674250,
+    "wof:name":"Kampung Sepuluh Kongsi",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.5298,
+    5.25107,
+    100.5298,
+    5.25107
+],
+  "geometry": {"coordinates":[100.52979999999999,5.25107],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310471519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.43333,4.46667,116.43333,4.46667",
+    "geom:latitude":4.46667,
+    "geom:longitude":116.43333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kuala Sementalun",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1759518,
+    "gn:latitude":4.46667,
+    "gn:longitude":116.43333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kuala Sementalun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuala Sumatalun",
+        "Kuala Sementalun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1759518
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"02b047ea05ab5efdbb4b0018ae6bf392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696483,
+            "locality_id":1310471519,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1310471519,
+    "wof:lastmodified":1537673800,
+    "wof:name":"Kuala Sementalun",
+    "wof:parent_id":1108696483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.43333,
+    4.46667,
+    116.43333,
+    4.46667
+],
+  "geometry": {"coordinates":[116.43333,4.46667],"type":"Point"}
+}

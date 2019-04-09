@@ -1,0 +1,73 @@
+{
+  "id": 1344161875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3925,2.5399,102.3925,2.5399",
+    "geom:latitude":2.5399,
+    "geom:longitude":102.3925,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Masjid Lama",
+    "gn:country_code":"MY",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767025,
+    "gn:latitude":2.5399,
+    "gn:longitude":102.3925,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Masjid Lama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Masjid Lama"
+    ],
+    "name:und_x_variant":[
+        "Kampong Masjid Lama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        1108696529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767025
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ab5fe88e8b23ce9fc36e5eac0e448a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696529,
+            "locality_id":1344161875,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1344161875,
+    "wof:lastmodified":1537674019,
+    "wof:name":"Kampung Masjid Lama",
+    "wof:parent_id":1108696529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3925,
+    2.5399,
+    102.3925,
+    2.5399
+],
+  "geometry": {"coordinates":[102.3925,2.5399],"type":"Point"}
+}

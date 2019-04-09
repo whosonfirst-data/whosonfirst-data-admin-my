@@ -1,0 +1,76 @@
+{
+  "id": 890488311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.37169,5.41324,100.37169,5.41324",
+    "geom:latitude":5.41324,
+    "geom:longitude":100.37169,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gajah"
+    ],
+    "qs:name":"Kampong Gajah",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:photos":7,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        102023321,
+        85632739,
+        85675127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769485,
+        "gp:id":1143543,
+        "qs:id":272019
+    },
+    "wof:country":"MY",
+    "wof:created":1469054714,
+    "wof:geomhash":"c04b7f93b7fc0de75179004be39472c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "locality_id":102023321,
+            "neighbourhood_id":890488311,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":890488311,
+    "wof:lastmodified":1505343782,
+    "wof:name":"Kampong Gajah",
+    "wof:parent_id":102023321,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.37169,
+    5.41324,
+    100.37169,
+    5.41324
+],
+  "geometry": {"coordinates":[100.37169,5.41324],"type":"Point"}
+}

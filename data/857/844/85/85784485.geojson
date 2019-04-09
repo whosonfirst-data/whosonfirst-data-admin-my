@@ -1,0 +1,116 @@
+{
+  "id": 85784485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5834681.23366,
+    "geom:bbox":"101.721313,3.007087,101.721313,3.007087",
+    "geom:latitude":3.007087,
+    "geom:longitude":101.721313,
+    "gn:latitude":2.7615,
+    "gn:longitude":101.9348,
+    "iso:country":"MY",
+    "lbl:latitude":3.007087,
+    "lbl:longitude":101.721313,
+    "mps:latitude":3.005838,
+    "mps:longitude":101.720109,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:msa_x_preferred":[
+        "Taman Desa Temiang"
+    ],
+    "name:und_x_preferred":[
+        "Taman Desa Serdang"
+    ],
+    "name:unk_x_variant":[
+        "Taman Desa Serdang"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1744246,
+    "qs:gn_nam_loc":"seri kembangan",
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Taman Desa Temiang",
+    "qs:local_max":217,
+    "qs:local_sum":426,
+    "qs:localhoods":5,
+    "qs:name":"Taman Desa Serdang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:name_adm2":"Hulu Langat",
+    "qs:name_lau":"Kajang",
+    "qs:name_local":"Seri Kembangan",
+    "qs:photo_max":18,
+    "qs:photo_sum":38,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346306,
+    "qs:woe_adm2":56013645,
+    "qs:woe_lau":56014377,
+    "qs:woe_local":1153971,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":473,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023799,
+        890490605,
+        85675163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796614,
+        "gp:id":56036734,
+        "qs:id":1206030,
+        "qs_pg:id":1206030,
+        "wd:id":"Q6359423"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a39ceb3355c086e4fb94109e60f0c26d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490605,
+            "locality_id":102023799,
+            "neighbourhood_id":85784485,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":85784485,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860615,
+    "wof:name":"Taman Desa Serdang",
+    "wof:parent_id":102023799,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.721313,
+    3.007087,
+    101.721313,
+    3.007087
+],
+  "geometry": {"coordinates":[101.72131299999999,3.007087],"type":"Point"}
+}

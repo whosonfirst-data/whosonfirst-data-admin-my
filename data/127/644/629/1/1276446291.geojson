@@ -1,0 +1,61 @@
+{
+  "id": 1276446291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.51667,2.43333,104.51667,2.43333",
+    "geom:latitude":2.43333,
+    "geom:longitude":104.51667,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kampong Telok Meriam",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763013,
+    "gn:latitude":2.43333,
+    "gn:longitude":104.51667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Telok Meriam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763013
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6399ac90754d2b7d9046924871aad704",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276446291,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276446291,
+    "wof:lastmodified":1536625276,
+    "wof:name":"Kampong Telok Meriam",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.51667,
+    2.43333,
+    104.51667,
+    2.43333
+],
+  "geometry": {"coordinates":[104.51667,2.43333],"type":"Point"}
+}

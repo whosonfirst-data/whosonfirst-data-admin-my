@@ -1,0 +1,70 @@
+{
+  "id": 1343440337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.07364,5.35503,103.07364,5.35503",
+    "geom:latitude":5.35503,
+    "geom:longitude":103.07364,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bukit Durian",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1775961,
+    "gn:latitude":5.35503,
+    "gn:longitude":103.07364,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bukit Durian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bukit Durian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1775961
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fbc3e6a609f3b780ae2914b3124635c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1343440337,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1343440337,
+    "wof:lastmodified":1537674218,
+    "wof:name":"Bukit Durian",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.07364,
+    5.35503,
+    103.07364,
+    5.35503
+],
+  "geometry": {"coordinates":[103.07364,5.35503],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293223537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9175,2.6684,101.9175,2.6684",
+    "geom:latitude":2.6684,
+    "geom:longitude":101.9175,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Baharu Mambau",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734792,
+    "gn:latitude":2.6684,
+    "gn:longitude":101.9175,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Kampung Baharu Mambau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Mambau"
+    ],
+    "name:und_x_variant":[
+        "Kampong Mambau New Village",
+        "Kampung Baharu Mambau",
+        "Mambau New Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734792
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"36893d349b89bb498093e83ae6d7d461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1293223537,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1293223537,
+    "wof:lastmodified":1537673710,
+    "wof:name":"Kampung Baharu Mambau",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9175,
+    2.6684,
+    101.9175,
+    2.6684
+],
+  "geometry": {"coordinates":[101.9175,2.6684],"type":"Point"}
+}

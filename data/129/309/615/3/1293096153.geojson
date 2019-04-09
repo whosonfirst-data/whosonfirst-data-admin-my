@@ -1,0 +1,70 @@
+{
+  "id": 1293096153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3833,3.4734,102.3833,3.4734",
+    "geom:latitude":3.4734,
+    "geom:longitude":102.3833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Taman Sri Semantan",
+    "gn:country_code":"MY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795906,
+    "gn:latitude":3.4734,
+    "gn:longitude":102.3833,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Sri Semantan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Sri Semantan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795906
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"80b427e1a99fa9d148a4f727d5458670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1293096153,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293096153,
+    "wof:lastmodified":1537674396,
+    "wof:name":"Taman Sri Semantan",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3833,
+    3.4734,
+    102.3833,
+    3.4734
+],
+  "geometry": {"coordinates":[102.38330000000001,3.4734],"type":"Point"}
+}

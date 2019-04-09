@@ -1,0 +1,70 @@
+{
+  "id": 1260296581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7567,4.7603,101.7567,4.7603",
+    "geom:latitude":4.7603,
+    "geom:longitude":101.7567,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pos Belau",
+    "gn:country_code":"MY",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473478,
+    "gn:latitude":4.7603,
+    "gn:longitude":101.7567,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pos Belau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pos Belau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473478
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"13830153ee253c255795119e4e0a70e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1260296581,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1260296581,
+    "wof:lastmodified":1537674307,
+    "wof:name":"Pos Belau",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7567,
+    4.7603,
+    101.7567,
+    4.7603
+],
+  "geometry": {"coordinates":[101.7567,4.7603],"type":"Point"}
+}

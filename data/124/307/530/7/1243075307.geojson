@@ -1,0 +1,72 @@
+{
+  "id": 1243075307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9,5.75,101.9,5.75",
+    "geom:latitude":5.75,
+    "geom:longitude":101.9,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Legeh",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767523,
+    "gn:latitude":5.75,
+    "gn:longitude":101.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Legeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Leggeh",
+        "Kampong Legeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767523
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a60c0631de50ec82d489e37c6ac33e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490101,
+            "locality_id":1243075307,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1243075307,
+    "wof:lastmodified":1537674041,
+    "wof:name":"Kampong Legeh",
+    "wof:parent_id":890490101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9,
+    5.75,
+    101.9,
+    5.75
+],
+  "geometry": {"coordinates":[101.90000000000001,5.75],"type":"Point"}
+}

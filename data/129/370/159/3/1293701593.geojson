@@ -1,0 +1,67 @@
+{
+  "id": 1293701593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.48333,3.03333,101.48333,3.03333",
+    "geom:latitude":3.03333,
+    "geom:longitude":101.48333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Kampong Sungai Kandis",
+    "gn:country_code":"MY",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763998,
+    "gn:latitude":3.03333,
+    "gn:longitude":101.48333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Sungai Kandis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763998
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"38d7be1a26169570276ff9e4b4cf8374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696415,
+            "locality_id":1293701593,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1293701593,
+    "wof:lastmodified":1536975119,
+    "wof:name":"Kampong Sungai Kandis",
+    "wof:parent_id":1108696415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.48333,
+    3.03333,
+    101.48333,
+    3.03333
+],
+  "geometry": {"coordinates":[101.48333,3.03333],"type":"Point"}
+}

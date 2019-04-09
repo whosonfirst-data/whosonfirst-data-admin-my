@@ -1,0 +1,70 @@
+{
+  "id": 1242885779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.21598,5.67896,102.21598,5.67896",
+    "geom:latitude":5.67896,
+    "geom:longitude":102.21598,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lubok Batu",
+    "gn:country_code":"MY",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067980,
+    "gn:latitude":5.67896,
+    "gn:longitude":102.21598,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Lubok Batu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Lubok Batu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067980
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"94c45da509985ca0b8b93ddbc7a2f0dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696457,
+            "locality_id":1242885779,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1242885779,
+    "wof:lastmodified":1537674275,
+    "wof:name":"Lubok Batu",
+    "wof:parent_id":1108696457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.21598,
+    5.67896,
+    102.21598,
+    5.67896
+],
+  "geometry": {"coordinates":[102.21598,5.67896],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344064399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.11667,5.68333,102.11667,5.68333",
+    "geom:latitude":5.68333,
+    "geom:longitude":102.11667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Pasir Senor",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765999,
+    "gn:latitude":5.68333,
+    "gn:longitude":102.11667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Pasir Senor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765999
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aaedb15a1e56ab46893f5e85362d890d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696457,
+            "locality_id":1344064399,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1344064399,
+    "wof:lastmodified":1536868648,
+    "wof:name":"Kampong Pasir Senor",
+    "wof:parent_id":1108696457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.11667,
+    5.68333,
+    102.11667,
+    5.68333
+],
+  "geometry": {"coordinates":[102.11667,5.68333],"type":"Point"}
+}

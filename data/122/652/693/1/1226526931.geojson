@@ -1,0 +1,74 @@
+{
+  "id": 1226526931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38712,5.47506,100.38712,5.47506",
+    "geom:latitude":5.47506,
+    "geom:longitude":100.38712,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Satol",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764421,
+    "gn:latitude":5.47506,
+    "gn:longitude":100.38712,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Satol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Satol"
+    ],
+    "name:und_x_variant":[
+        "Kampong Setol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890490327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764421
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"51f3e34ce9b811064c6399e54a22c556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490327,
+            "locality_id":1226526931,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1226526931,
+    "wof:lastmodified":1537673908,
+    "wof:name":"Kampung Satol",
+    "wof:parent_id":890490327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38712,
+    5.47506,
+    100.38712,
+    5.47506
+],
+  "geometry": {"coordinates":[100.38712,5.47506],"type":"Point"}
+}

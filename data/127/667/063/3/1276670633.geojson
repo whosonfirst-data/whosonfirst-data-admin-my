@@ -1,0 +1,74 @@
+{
+  "id": 1276670633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.80334,5.70931,100.80334,5.70931",
+    "geom:latitude":5.70931,
+    "geom:longitude":100.80334,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Charok Gorok",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769914,
+    "gn:latitude":5.70931,
+    "gn:longitude":100.80334,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Charok Gorok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Charok Gorok"
+    ],
+    "name:und_x_variant":[
+        "Kampong Charok Gorok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769914
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b402efe5bdc7e673833d8a4809a1b122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696379,
+            "locality_id":1276670633,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1276670633,
+    "wof:lastmodified":1537674140,
+    "wof:name":"Kampung Charok Gorok",
+    "wof:parent_id":1108696379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.80334,
+    5.70931,
+    100.80334,
+    5.70931
+],
+  "geometry": {"coordinates":[100.80334000000001,5.70931],"type":"Point"}
+}

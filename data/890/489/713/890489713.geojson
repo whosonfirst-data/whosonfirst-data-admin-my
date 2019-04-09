@@ -1,0 +1,68 @@
+{
+  "id": 890489713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8894905,1.763237,102.8894905,1.763237",
+    "geom:latitude":1.763237,
+    "geom:longitude":102.88949,
+    "gn:country":"MY",
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Batu Pahat",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":26,
+    "qs:photos_1k":5,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":855,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:latitude":"1.85",
+    "wd:longitude":"102.933333333",
+    "wd:wordcount":1881,
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013574,
+        "qs:id":1090854,
+        "wd:id":"Q2306850",
+        "wk:page":"Batu Pahat District"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054767,
+    "wof:geomhash":"fcb0cd8ab45940cd87036cb0ae276a56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "county_id":890489713
+        }
+    ],
+    "wof:id":890489713,
+    "wof:lastmodified":1527792863,
+    "wof:name":"Batu Pahat",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8894905,
+    1.763237,
+    102.8894905,
+    1.763237
+],
+  "geometry": {"coordinates":[102.88949049999999,1.763237],"type":"Point"}
+}

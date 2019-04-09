@@ -1,0 +1,70 @@
+{
+  "id": 1226761849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2772,2.0915,103.2772,2.0915",
+    "geom:latitude":2.0915,
+    "geom:longitude":103.2772,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Melayu Niyor",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7614272,
+    "gn:latitude":2.0915,
+    "gn:longitude":103.2772,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Melayu Niyor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Melayu Niyor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7614272
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"08f6218be52162b2f78c0cde2c95ecd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1226761849,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1226761849,
+    "wof:lastmodified":1537674331,
+    "wof:name":"Kampung Melayu Niyor",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2772,
+    2.0915,
+    103.2772,
+    2.0915
+],
+  "geometry": {"coordinates":[103.27719999999999,2.0915],"type":"Point"}
+}

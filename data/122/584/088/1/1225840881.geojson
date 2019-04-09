@@ -1,0 +1,73 @@
+{
+  "id": 1225840881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.22185,5.3375,100.22185,5.3375",
+    "geom:latitude":5.3375,
+    "geom:longitude":100.22185,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Paya Simpang Empat Genting",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765949,
+    "gn:latitude":5.3375,
+    "gn:longitude":100.22185,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Paya Simpang Empat Genting",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Genting",
+        "Simpang Empat",
+        "Kampong Paya",
+        "Kampung Paya Simpang Empat Genting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765949
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0429854bc31351765dfb41ecf3b65ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "locality_id":1225840881,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1225840881,
+    "wof:lastmodified":1537673976,
+    "wof:name":"Kampung Paya Simpang Empat Genting",
+    "wof:parent_id":890489155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.22185,
+    5.3375,
+    100.22185,
+    5.3375
+],
+  "geometry": {"coordinates":[100.22185,5.3375],"type":"Point"}
+}

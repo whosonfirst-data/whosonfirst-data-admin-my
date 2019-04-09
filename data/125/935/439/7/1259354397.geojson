@@ -1,0 +1,70 @@
+{
+  "id": 1259354397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.01163,5.16613,103.01163,5.16613",
+    "geom:latitude":5.16613,
+    "geom:longitude":103.01163,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bukit Embur",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7461126,
+    "gn:latitude":5.16613,
+    "gn:longitude":103.01163,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bukit Embur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bukit Embur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7461126
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"98c21fe96fe7d1469c7d40936a82bc6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1259354397,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1259354397,
+    "wof:lastmodified":1537674293,
+    "wof:name":"Bukit Embur",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.01163,
+    5.16613,
+    103.01163,
+    5.16613
+],
+  "geometry": {"coordinates":[103.01163,5.16613],"type":"Point"}
+}

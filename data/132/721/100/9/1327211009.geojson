@@ -1,0 +1,70 @@
+{
+  "id": 1327211009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6595,3.4261,101.6595,3.4261",
+    "geom:latitude":3.4261,
+    "geom:longitude":101.6595,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kampung Pasir",
+    "gn:country_code":"MY",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795799,
+    "gn:latitude":3.4261,
+    "gn:longitude":101.6595,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pasir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pasir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795799
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3337103395f8ce6b5b83790f8689c370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1327211009,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1327211009,
+    "wof:lastmodified":1537674394,
+    "wof:name":"Kampung Pasir",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6595,
+    3.4261,
+    101.6595,
+    3.4261
+],
+  "geometry": {"coordinates":[101.65949999999999,3.4261],"type":"Point"}
+}

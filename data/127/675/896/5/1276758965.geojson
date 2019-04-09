@@ -1,0 +1,70 @@
+{
+  "id": 1276758965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9275,4.0613,100.9275,4.0613",
+    "geom:latitude":4.0613,
+    "geom:longitude":100.9275,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Sungai Jejawi",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7565865,
+    "gn:latitude":4.0613,
+    "gn:longitude":100.9275,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sungai Jejawi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Jejawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7565865
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ca51da840de395f45608b610ae3c3577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489811,
+            "locality_id":1276758965,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1276758965,
+    "wof:lastmodified":1537674311,
+    "wof:name":"Kampung Sungai Jejawi",
+    "wof:parent_id":890489811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9275,
+    4.0613,
+    100.9275,
+    4.0613
+],
+  "geometry": {"coordinates":[100.92749999999999,4.0613],"type":"Point"}
+}

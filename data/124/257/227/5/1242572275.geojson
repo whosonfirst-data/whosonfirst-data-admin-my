@@ -1,0 +1,71 @@
+{
+  "id": 1242572275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9164,4.2069,100.9164,4.2069",
+    "geom:latitude":4.2069,
+    "geom:longitude":100.9164,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tanjung Bidara",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7633309,
+    "gn:latitude":4.2069,
+    "gn:longitude":100.9164,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tanjung Bidara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Tanjung Bidara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7633309,
+        "wk:page":"Tanjung_Bidara"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a9e46546a94ddb1a0cc447e3f4437725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489811,
+            "locality_id":1242572275,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1242572275,
+    "wof:lastmodified":1537674342,
+    "wof:name":"Tanjung Bidara",
+    "wof:parent_id":890489811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9164,
+    4.2069,
+    100.9164,
+    4.2069
+],
+  "geometry": {"coordinates":[100.9164,4.2069],"type":"Point"}
+}

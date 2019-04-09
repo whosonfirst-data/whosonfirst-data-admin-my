@@ -1,0 +1,64 @@
+{
+  "id": 1209201641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1676,3.4971,101.1676,3.4971",
+    "geom:latitude":3.4971,
+    "geom:longitude":101.1676,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Sungai Burong Tali Ayer Dua",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764076,
+    "gn:latitude":3.4971,
+    "gn:longitude":101.1676,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Burong Tali Ayer Dua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Burong Tali Ayer Dua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764076
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7a3292bae4d9a7a53b5dd72b938a8eaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209201641
+        }
+    ],
+    "wof:id":1209201641,
+    "wof:lastmodified":1537673891,
+    "wof:name":"Kampung Sungai Burong Tali Ayer Dua",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1676,
+    3.4971,
+    101.1676,
+    3.4971
+],
+  "geometry": {"coordinates":[101.16759999999999,3.4971],"type":"Point"}
+}

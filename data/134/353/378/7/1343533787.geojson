@@ -1,0 +1,73 @@
+{
+  "id": 1343533787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.7414,6.8357,116.7414,6.8357",
+    "geom:latitude":6.8357,
+    "geom:longitude":116.7414,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Kumbatang",
+    "gn:country_code":"MY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1759195,
+    "gn:latitude":6.8357,
+    "gn:longitude":116.7414,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kumbatang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kumbatang"
+    ],
+    "name:und_x_variant":[
+        "Kumbatang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1759195
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5e12534d611a4170796e8b16c4cb9492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1343533787,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1343533787,
+    "wof:lastmodified":1537673799,
+    "wof:name":"Kampung Kumbatang",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.7414,
+    6.8357,
+    116.7414,
+    6.8357
+],
+  "geometry": {"coordinates":[116.7414,6.8357],"type":"Point"}
+}

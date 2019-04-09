@@ -1,0 +1,70 @@
+{
+  "id": 1344049835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8781,3.6127,101.8781,3.6127",
+    "geom:latitude":3.6127,
+    "geom:longitude":101.8781,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Baharu Penjuring",
+    "gn:country_code":"MY",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795465,
+    "gn:latitude":3.6127,
+    "gn:longitude":101.8781,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Baharu Penjuring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Baharu Penjuring"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795465
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"09bd87ddda61c343b5e0583e7c7812c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696389,
+            "locality_id":1344049835,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1344049835,
+    "wof:lastmodified":1537674392,
+    "wof:name":"Kampung Baharu Penjuring",
+    "wof:parent_id":1108696389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8781,
+    3.6127,
+    101.8781,
+    3.6127
+],
+  "geometry": {"coordinates":[101.8781,3.6127],"type":"Point"}
+}

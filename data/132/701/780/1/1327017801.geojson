@@ -1,0 +1,67 @@
+{
+  "id": 1327017801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.01667,1.61667,111.01667,1.61667",
+    "geom:latitude":1.61667,
+    "geom:longitude":111.01667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sungai Pedada",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1735726,
+    "gn:latitude":1.61667,
+    "gn:longitude":111.01667,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Sungai Pedada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735726
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"547214c6505e8d86f1f5db5c5c9d52a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696391,
+            "locality_id":1327017801,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1327017801,
+    "wof:lastmodified":1536782051,
+    "wof:name":"Sungai Pedada",
+    "wof:parent_id":1108696391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.01667,
+    1.61667,
+    111.01667,
+    1.61667
+],
+  "geometry": {"coordinates":[111.01667,1.61667],"type":"Point"}
+}

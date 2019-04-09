@@ -1,0 +1,67 @@
+{
+  "id": 1209537763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7804,3.5216,102.7804,3.5216",
+    "geom:latitude":3.5216,
+    "geom:longitude":102.7804,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Bukit Batu",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770346,
+    "gn:latitude":3.5216,
+    "gn:longitude":102.7804,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bukit Batu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Batu"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bukit Batu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770346
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"86a84c9f6275feaf7d74ade7c08cfdb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209537763
+        }
+    ],
+    "wof:id":1209537763,
+    "wof:lastmodified":1537674158,
+    "wof:name":"Kampung Bukit Batu",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7804,
+    3.5216,
+    102.7804,
+    3.5216
+],
+  "geometry": {"coordinates":[102.7804,3.5216],"type":"Point"}
+}

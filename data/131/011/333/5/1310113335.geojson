@@ -1,0 +1,70 @@
+{
+  "id": 1310113335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0127,5.2137,102.0127,5.2137",
+    "geom:latitude":5.2137,
+    "geom:longitude":102.0127,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Tosin",
+    "gn:country_code":"MY",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7459983,
+    "gn:latitude":5.2137,
+    "gn:longitude":102.0127,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tosin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tosin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7459983
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c5bc8a021a27fd89fd9c7a96b71c7b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489265,
+            "locality_id":1310113335,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1310113335,
+    "wof:lastmodified":1537674290,
+    "wof:name":"Kampung Tosin",
+    "wof:parent_id":890489265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0127,
+    5.2137,
+    102.0127,
+    5.2137
+],
+  "geometry": {"coordinates":[102.0127,5.2137],"type":"Point"}
+}

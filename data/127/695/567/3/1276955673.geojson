@@ -1,0 +1,70 @@
+{
+  "id": 1276955673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.8328,3.8003,100.8328,3.8003",
+    "geom:latitude":3.8003,
+    "geom:longitude":100.8328,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tebok Haji Sarman",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7566018,
+    "gn:latitude":3.8003,
+    "gn:longitude":100.8328,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tebok Haji Sarman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Tebok Haji Sarman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890490813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7566018
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"39486c0788514bb4d94a6352a9c44993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490813,
+            "locality_id":1276955673,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1276955673,
+    "wof:lastmodified":1537674314,
+    "wof:name":"Tebok Haji Sarman",
+    "wof:parent_id":890490813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.8328,
+    3.8003,
+    100.8328,
+    3.8003
+],
+  "geometry": {"coordinates":[100.83280000000001,3.8003],"type":"Point"}
+}

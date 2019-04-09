@@ -1,0 +1,70 @@
+{
+  "id": 1226319161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.49527,5.72738,102.49527,5.72738",
+    "geom:latitude":5.72738,
+    "geom:longitude":102.49527,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Cerung Meliling",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068171,
+    "gn:latitude":5.72738,
+    "gn:longitude":102.49527,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Cerung Meliling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Cerung Meliling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068171
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fb2470ef993a24dd5a238acb87a16013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "locality_id":1226319161,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1226319161,
+    "wof:lastmodified":1537674279,
+    "wof:name":"Kampung Cerung Meliling",
+    "wof:parent_id":890488399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.49527,
+    5.72738,
+    102.49527,
+    5.72738
+],
+  "geometry": {"coordinates":[102.49527,5.72738],"type":"Point"}
+}

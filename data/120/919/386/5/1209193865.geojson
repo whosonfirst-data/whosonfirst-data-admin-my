@@ -1,0 +1,64 @@
+{
+  "id": 1209193865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1791,5.2655,103.1791,5.2655",
+    "geom:latitude":5.2655,
+    "geom:longitude":103.1791,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Simpang Empat",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7608726,
+    "gn:latitude":5.2655,
+    "gn:longitude":103.1791,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Simpang Empat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Simpang Empat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7608726
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1f3a63664eebbb32a883ff951ad3f2c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209193865
+        }
+    ],
+    "wof:id":1209193865,
+    "wof:lastmodified":1537674326,
+    "wof:name":"Kampung Simpang Empat",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1791,
+    5.2655,
+    103.1791,
+    5.2655
+],
+  "geometry": {"coordinates":[103.17910000000001,5.2655],"type":"Point"}
+}

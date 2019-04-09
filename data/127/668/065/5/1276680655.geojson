@@ -1,0 +1,70 @@
+{
+  "id": 1276680655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4724,3.191,102.4724,3.191",
+    "geom:latitude":3.191,
+    "geom:longitude":102.4724,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kemajuan Tanah Teriang Satu",
+    "gn:country_code":"MY",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535628,
+    "gn:latitude":3.191,
+    "gn:longitude":102.4724,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kemajuan Tanah Teriang Satu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Teriang Satu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535628
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"15bad5a6d7376608465ebdbd32708b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1276680655,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276680655,
+    "wof:lastmodified":1537674461,
+    "wof:name":"Kemajuan Tanah Teriang Satu",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4724,
+    3.191,
+    102.4724,
+    3.191
+],
+  "geometry": {"coordinates":[102.47239999999999,3.191],"type":"Point"}
+}

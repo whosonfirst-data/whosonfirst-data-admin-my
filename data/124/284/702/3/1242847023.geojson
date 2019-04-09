@@ -1,0 +1,70 @@
+{
+  "id": 1242847023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.0654,7.12683,117.0654,7.12683",
+    "geom:latitude":7.12683,
+    "geom:longitude":117.0654,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Kubong",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1759368,
+    "gn:latitude":7.12683,
+    "gn:longitude":117.0654,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Kampung Kubong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kubong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1759368
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6e5e9c7646eacf0306a0635403d40a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696431,
+            "locality_id":1242847023,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1242847023,
+    "wof:lastmodified":1537673799,
+    "wof:name":"Kampung Kubong",
+    "wof:parent_id":1108696431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.0654,
+    7.12683,
+    117.0654,
+    7.12683
+],
+  "geometry": {"coordinates":[117.0654,7.12683],"type":"Point"}
+}

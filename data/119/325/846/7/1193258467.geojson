@@ -1,0 +1,70 @@
+{
+  "id": 1193258467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.526,2.9744,101.526,2.9744",
+    "geom:latitude":2.9744,
+    "geom:longitude":101.526,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bukit Puloh Pening",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697628,
+    "gn:latitude":2.9744,
+    "gn:longitude":101.526,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bukit Puloh Pening",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bukit Puloh Pening"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697628
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"caf5dbb9ebeaf3269f5264e77caef71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696415,
+            "locality_id":1193258467,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1193258467,
+    "wof:lastmodified":1537674367,
+    "wof:name":"Bukit Puloh Pening",
+    "wof:parent_id":1108696415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.526,
+    2.9744,
+    101.526,
+    2.9744
+],
+  "geometry": {"coordinates":[101.526,2.9744],"type":"Point"}
+}

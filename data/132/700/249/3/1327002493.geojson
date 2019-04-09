@@ -1,0 +1,67 @@
+{
+  "id": 1327002493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.37453,5.25896,116.37453,5.25896",
+    "geom:latitude":5.25896,
+    "geom:longitude":116.37453,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kg. Kipaliu Baru",
+    "gn:country_code":"MY",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9613559,
+    "gn:latitude":5.25896,
+    "gn:longitude":116.37453,
+    "gn:modification_date":"2014-10-03",
+    "gn:name":"Kg. Kipaliu Baru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9613559
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ab45fa1796b5d78562e530b055f170dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1327002493,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327002493,
+    "wof:lastmodified":1536803638,
+    "wof:name":"Kg. Kipaliu Baru",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.37453,
+    5.25896,
+    116.37453,
+    5.25896
+],
+  "geometry": {"coordinates":[116.37452999999999,5.25896],"type":"Point"}
+}

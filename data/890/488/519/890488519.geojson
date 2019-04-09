@@ -1,0 +1,70 @@
+{
+  "id": 890488519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.613204,4.421978,118.613204,4.421978",
+    "geom:latitude":4.421978,
+    "geom:longitude":118.613204,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Semporna",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sabah",
+    "qs:photos":190,
+    "qs:photos_1k":39,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":739,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":844,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014629,
+        "qs:id":1306975,
+        "wd:id":"Q2140804",
+        "wk:page":"Semporna"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054722,
+    "wof:geomhash":"cdfab501ed32e66cf21717356eb9a05a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696507,
+            "localadmin_id":890488519,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":890488519,
+    "wof:lastmodified":1527787077,
+    "wof:name":"Semporna",
+    "wof:parent_id":1108696507,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.613204,
+    4.421978,
+    118.613204,
+    4.421978
+],
+  "geometry": {"coordinates":[118.613204,4.421978],"type":"Point"}
+}

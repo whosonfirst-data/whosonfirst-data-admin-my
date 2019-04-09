@@ -1,0 +1,68 @@
+{
+  "id": 1344148701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.98491,4.35993,100.98491,4.35993",
+    "geom:latitude":4.35993,
+    "geom:longitude":100.98491,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Seri Iskandar",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11184859,
+    "gn:latitude":4.35993,
+    "gn:longitude":100.98491,
+    "gn:modification_date":"2018-04-11",
+    "gn:name":"Seri Iskandar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11184859,
+        "wk:page":"Seri_Iskandar"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"685c2c8a24975187abf15987a8ba3c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489811,
+            "locality_id":1344148701,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1344148701,
+    "wof:lastmodified":1537569922,
+    "wof:name":"Seri Iskandar",
+    "wof:parent_id":890489811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.98491,
+    4.35993,
+    100.98491,
+    4.35993
+],
+  "geometry": {"coordinates":[100.98491,4.35993],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293201237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3571,2.2082,102.3571,2.2082",
+    "geom:latitude":2.2082,
+    "geom:longitude":102.3571,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Solok Paya Meranti",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798000,
+    "gn:latitude":2.2082,
+    "gn:longitude":102.3571,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Solok Paya Meranti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Solok Paya Meranti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798000
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6c6dde75eb0d1f1ec693c231e19079fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":1293201237,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1293201237,
+    "wof:lastmodified":1537674427,
+    "wof:name":"Solok Paya Meranti",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3571,
+    2.2082,
+    102.3571,
+    2.2082
+],
+  "geometry": {"coordinates":[102.3571,2.2082],"type":"Point"}
+}

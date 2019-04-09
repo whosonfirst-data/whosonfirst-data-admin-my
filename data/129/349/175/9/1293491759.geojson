@@ -1,0 +1,70 @@
+{
+  "id": 1293491759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8671,1.8359,102.8671,1.8359",
+    "geom:latitude":1.8359,
+    "geom:longitude":102.8671,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Bagan Laut",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857504,
+    "gn:latitude":1.8359,
+    "gn:longitude":102.8671,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Bagan Laut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bagan Laut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857504
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ee3ac952ddc09e9edf22aedfeb984e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1293491759,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293491759,
+    "wof:lastmodified":1537674443,
+    "wof:name":"Kampung Bagan Laut",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8671,
+    1.8359,
+    102.8671,
+    1.8359
+],
+  "geometry": {"coordinates":[102.86709999999999,1.8359],"type":"Point"}
+}

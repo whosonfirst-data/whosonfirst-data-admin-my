@@ -1,0 +1,70 @@
+{
+  "id": 1226356489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.676,2.4255,102.676,2.4255",
+    "geom:latitude":2.4255,
+    "geom:longitude":102.676,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Jementah Baru",
+    "gn:country_code":"MY",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536814,
+    "gn:latitude":2.4255,
+    "gn:longitude":102.676,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Taman Jementah Baru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Jementah Baru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536814
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b3888ad93d26fdf9e8d892b46a784a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":1226356489,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1226356489,
+    "wof:lastmodified":1537674465,
+    "wof:name":"Taman Jementah Baru",
+    "wof:parent_id":890488717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.676,
+    2.4255,
+    102.676,
+    2.4255
+],
+  "geometry": {"coordinates":[102.676,2.4255],"type":"Point"}
+}

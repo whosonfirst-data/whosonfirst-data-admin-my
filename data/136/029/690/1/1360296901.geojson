@@ -1,0 +1,70 @@
+{
+  "id": 1360296901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2678,5.85724,102.2678,5.85724",
+    "geom:latitude":5.85724,
+    "geom:longitude":102.2678,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Durian Telok",
+    "gn:country_code":"MY",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068050,
+    "gn:latitude":5.85724,
+    "gn:longitude":102.2678,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Durian Telok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Durian Telok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068050
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c8fa4e802560c99e140a6d69796a753e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696457,
+            "locality_id":1360296901,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1360296901,
+    "wof:lastmodified":1537674277,
+    "wof:name":"Kampung Durian Telok",
+    "wof:parent_id":1108696457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2678,
+    5.85724,
+    102.2678,
+    5.85724
+],
+  "geometry": {"coordinates":[102.26779999999999,5.85724],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326510203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5318,3.322,101.5318,3.322",
+    "geom:latitude":3.322,
+    "geom:longitude":101.5318,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kampung Sungai Bakau",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795874,
+    "gn:latitude":3.322,
+    "gn:longitude":101.5318,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sungai Bakau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Bakau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795874
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cc1aec9468b09bdb4a206b3f9bb7ec53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696399,
+            "locality_id":1326510203,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1326510203,
+    "wof:lastmodified":1537674396,
+    "wof:name":"Kampung Sungai Bakau",
+    "wof:parent_id":1108696399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5318,
+    3.322,
+    101.5318,
+    3.322
+],
+  "geometry": {"coordinates":[101.5318,3.322],"type":"Point"}
+}

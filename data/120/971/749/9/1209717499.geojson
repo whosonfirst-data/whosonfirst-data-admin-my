@@ -1,0 +1,67 @@
+{
+  "id": 1209717499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.41667,5.8,102.41667,5.8",
+    "geom:latitude":5.8,
+    "geom:longitude":102.41667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Simpang Tiga Gaal",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1743513,
+    "gn:latitude":5.8,
+    "gn:longitude":102.41667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Simpang Tiga Gaal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1743513
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"37280eec7e341c06b665b42052ea2895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488991,
+            "locality_id":1209717499,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1209717499,
+    "wof:lastmodified":1536387895,
+    "wof:name":"Simpang Tiga Gaal",
+    "wof:parent_id":890488991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.41667,
+    5.8,
+    102.41667,
+    5.8
+],
+  "geometry": {"coordinates":[102.41667,5.8],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260385981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.6666,4.3217,100.6666,4.3217",
+    "geom:latitude":4.3217,
+    "geom:longitude":100.6666,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Telaga Nenas",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762209,
+    "gn:latitude":4.3217,
+    "gn:longitude":100.6666,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Telaga Nenas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Telaga Nenas"
+    ],
+    "name:und_x_variant":[
+        "Kampong Telaga Nanas",
+        "Kampung Telaga Nanas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        1108696459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762209
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2374f8eb65aea82f822c734758460088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696459,
+            "locality_id":1260385981,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1260385981,
+    "wof:lastmodified":1537673804,
+    "wof:name":"Kampung Telaga Nenas",
+    "wof:parent_id":1108696459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.6666,
+    4.3217,
+    100.6666,
+    4.3217
+],
+  "geometry": {"coordinates":[100.6666,4.3217],"type":"Point"}
+}

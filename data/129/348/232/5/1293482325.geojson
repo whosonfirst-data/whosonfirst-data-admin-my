@@ -1,0 +1,70 @@
+{
+  "id": 1293482325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3857,3.4119,102.3857,3.4119",
+    "geom:latitude":3.4119,
+    "geom:longitude":102.3857,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Jeram Tualang",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536635,
+    "gn:latitude":3.4119,
+    "gn:longitude":102.3857,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Jeram Tualang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jeram Tualang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536635
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a7d7bfa553b470056b477aed4af0edba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1293482325,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293482325,
+    "wof:lastmodified":1537674463,
+    "wof:name":"Kampung Jeram Tualang",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3857,
+    3.4119,
+    102.3857,
+    3.4119
+],
+  "geometry": {"coordinates":[102.3857,3.4119],"type":"Point"}
+}

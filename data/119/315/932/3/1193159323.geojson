@@ -1,0 +1,70 @@
+{
+  "id": 1193159323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.01511,4.01048,102.01511,4.01048",
+    "geom:latitude":4.01048,
+    "geom:longitude":102.01511,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Seniam",
+    "gn:country_code":"MY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638978,
+    "gn:latitude":4.01048,
+    "gn:longitude":102.01511,
+    "gn:modification_date":"2017-01-16",
+    "gn:name":"Kampung Seniam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Seniam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638978
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ca5835a360e7a39c5668442342143d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1193159323,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1193159323,
+    "wof:lastmodified":1537674347,
+    "wof:name":"Kampung Seniam",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.01511,
+    4.01048,
+    102.01511,
+    4.01048
+],
+  "geometry": {"coordinates":[102.01511000000001,4.01048],"type":"Point"}
+}

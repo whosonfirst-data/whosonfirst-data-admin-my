@@ -1,0 +1,70 @@
+{
+  "id": 1326827875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6637,3.3681,102.6637,3.3681",
+    "geom:latitude":3.3681,
+    "geom:longitude":102.6637,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kemajuan Tanah Mayam",
+    "gn:country_code":"MY",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796269,
+    "gn:latitude":3.3681,
+    "gn:longitude":102.6637,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Mayam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Mayam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796269
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d02e19d8b14671b13e4678d54bd27f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1326827875,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1326827875,
+    "wof:lastmodified":1537674403,
+    "wof:name":"Kemajuan Tanah Mayam",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6637,
+    3.3681,
+    102.6637,
+    3.3681
+],
+  "geometry": {"coordinates":[102.66370000000001,3.3681],"type":"Point"}
+}

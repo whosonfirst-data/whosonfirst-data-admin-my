@@ -1,0 +1,73 @@
+{
+  "id": 1327120565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4,4.28333,103.4,4.28333",
+    "geom:latitude":4.28333,
+    "geom:longitude":103.4,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampong Bukit Takar",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770107,
+    "gn:latitude":4.28333,
+    "gn:longitude":103.4,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Bukit Takar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Bukit Takai",
+        "Kampong Bukit Takal",
+        "Kampong Bukit Takar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770107
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"865e5a0f6064571c75e6aeb38b3df9b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490801,
+            "locality_id":1327120565,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1327120565,
+    "wof:lastmodified":1537674148,
+    "wof:name":"Kampong Bukit Takar",
+    "wof:parent_id":890490801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4,
+    4.28333,
+    103.4,
+    4.28333
+],
+  "geometry": {"coordinates":[103.40000000000001,4.28333],"type":"Point"}
+}

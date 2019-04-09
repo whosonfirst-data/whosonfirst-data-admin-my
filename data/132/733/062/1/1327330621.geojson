@@ -1,0 +1,70 @@
+{
+  "id": 1327330621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1393,4.6411,101.1393,4.6411",
+    "geom:latitude":4.6411,
+    "geom:longitude":101.1393,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taman Bercham Aman",
+    "gn:country_code":"MY",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473418,
+    "gn:latitude":4.6411,
+    "gn:longitude":101.1393,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Bercham Aman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Bercham Aman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473418
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f3915b232f38d96e1592df005c133d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1327330621,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1327330621,
+    "wof:lastmodified":1537674307,
+    "wof:name":"Taman Bercham Aman",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1393,
+    4.6411,
+    101.1393,
+    4.6411
+],
+  "geometry": {"coordinates":[101.13930000000001,4.6411],"type":"Point"}
+}

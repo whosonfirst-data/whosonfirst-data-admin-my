@@ -1,0 +1,64 @@
+{
+  "id": 1209213839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0335,2.5284,102.0335,2.5284",
+    "geom:latitude":2.5284,
+    "geom:longitude":102.0335,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kundor Tengah",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356575,
+    "gn:latitude":2.5284,
+    "gn:longitude":102.0335,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Kundor Tengah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kundor Tengah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356575
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4d59158bbd237a00e6154266be8389e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209213839
+        }
+    ],
+    "wof:id":1209213839,
+    "wof:lastmodified":1537674454,
+    "wof:name":"Kundor Tengah",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0335,
+    2.5284,
+    102.0335,
+    2.5284
+],
+  "geometry": {"coordinates":[102.0335,2.5284],"type":"Point"}
+}

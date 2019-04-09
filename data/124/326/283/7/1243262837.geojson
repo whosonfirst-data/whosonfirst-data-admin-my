@@ -1,0 +1,70 @@
+{
+  "id": 1243262837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3321,2.8467,102.3321,2.8467",
+    "geom:latitude":2.8467,
+    "geom:longitude":102.3321,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Ayer Sonsang",
+    "gn:country_code":"MY",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797018,
+    "gn:latitude":2.8467,
+    "gn:longitude":102.3321,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Ayer Sonsang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Ayer Sonsang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797018
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"70519e474e5fac7f887c45254c7f0fb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490279,
+            "locality_id":1243262837,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1243262837,
+    "wof:lastmodified":1537674413,
+    "wof:name":"Kampung Ayer Sonsang",
+    "wof:parent_id":890490279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3321,
+    2.8467,
+    102.3321,
+    2.8467
+],
+  "geometry": {"coordinates":[102.3321,2.8467],"type":"Point"}
+}

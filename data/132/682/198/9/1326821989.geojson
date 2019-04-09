@@ -1,0 +1,72 @@
+{
+  "id": 1326821989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.68333,4.8,100.68333,4.8",
+    "geom:latitude":4.8,
+    "geom:longitude":100.68333,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Sungai Lang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763955,
+    "gn:latitude":4.8,
+    "gn:longitude":100.68333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Sungai Lang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Sungei Hilang",
+        "Kampong Sungai Lang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763955
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0f033d216e700fa18a088c275f3fbfd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490803,
+            "locality_id":1326821989,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1326821989,
+    "wof:lastmodified":1537673885,
+    "wof:name":"Kampong Sungai Lang",
+    "wof:parent_id":890490803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.68333,
+    4.8,
+    100.68333,
+    4.8
+],
+  "geometry": {"coordinates":[100.68333,4.8],"type":"Point"}
+}

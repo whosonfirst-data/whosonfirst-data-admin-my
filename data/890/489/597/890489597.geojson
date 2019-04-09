@@ -1,0 +1,72 @@
+{
+  "id": 890489597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1018,4.6514,101.1018,4.6514",
+    "geom:latitude":4.6514,
+    "geom:longitude":101.1018,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Ehsan"
+    ],
+    "qs:name":"Taman Ehsan",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473353,
+        "gp:id":56036196,
+        "qs:id":1062149
+    },
+    "wof:country":"MY",
+    "wof:created":1469054763,
+    "wof:geomhash":"75e28ff85755bb2cc04c235d7575c12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":890489597,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":890489597,
+    "wof:lastmodified":1505343786,
+    "wof:name":"Taman Ehsan",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1018,
+    4.6514,
+    101.1018,
+    4.6514
+],
+  "geometry": {"coordinates":[101.1018,4.6514],"type":"Point"}
+}

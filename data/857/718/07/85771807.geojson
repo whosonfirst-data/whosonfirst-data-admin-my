@@ -1,0 +1,119 @@
+{
+  "id": 85771807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":18892493.735523,
+    "geom:bbox":"101.583455,3.211353,101.583455,3.211353",
+    "geom:latitude":3.211353,
+    "geom:longitude":101.583455,
+    "gn:latitude":3.2,
+    "gn:longitude":101.58333,
+    "iso:country":"MY",
+    "lbl:latitude":3.211353,
+    "lbl:longitude":101.583455,
+    "mps:latitude":3.207447,
+    "mps:longitude":101.580284,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Sungai Buluh"
+    ],
+    "name:ind_x_preferred":[
+        "Sungai Buloh"
+    ],
+    "name:msa_x_preferred":[
+        "Sungai Buloh"
+    ],
+    "name:unk_x_variant":[
+        "Sungai Buloh",
+        "Sungai Buluh"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1735158,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Sungai Buluh",
+    "qs:local_max":2115,
+    "qs:local_sum":11887,
+    "qs:localhoods":21,
+    "qs:name":"Sungai Buluh",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:name_adm2":"Petaling",
+    "qs:name_lau":"Sungai Buloh",
+    "qs:name_local":"Petaling Jaya",
+    "qs:photo_max":84,
+    "qs:photo_sum":307,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346306,
+    "qs:woe_adm2":56013632,
+    "qs:woe_lau":56013919,
+    "qs:woe_local":1155026,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023385,
+        890490605,
+        85675163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735153,
+        "gp:id":1154134,
+        "qs:id":1145960,
+        "qs_pg:id":1145960,
+        "wd:id":"Q7640137",
+        "wk:page":"Sungai Buloh"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2e1d479c7bc7c237b765921d10e9df07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490605,
+            "locality_id":102023385,
+            "neighbourhood_id":85771807,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":85771807,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859459,
+    "wof:name":"Sungai Buluh",
+    "wof:parent_id":102023385,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.583455,
+    3.211353,
+    101.583455,
+    3.211353
+],
+  "geometry": {"coordinates":[101.583455,3.211353],"type":"Point"}
+}

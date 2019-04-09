@@ -1,0 +1,75 @@
+{
+  "id": 890488589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.807766,6.429942,99.807766,6.429942",
+    "geom:latitude":6.429942,
+    "geom:longitude":99.807766,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ayer Hangat",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kedah",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":576,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696443,
+        85675137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014274,
+        "qs:id":1313712
+    },
+    "wof:country":"MY",
+    "wof:created":1469054725,
+    "wof:geomhash":"56cdb361491188d867b52aadd45af3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "localadmin_id":890488589,
+            "region_id":85675133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "localadmin_id":890488589,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":890488589,
+    "wof:lastmodified":1500013297,
+    "wof:name":"Ayer Hangat",
+    "wof:parent_id":1108696443,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.807766,
+    6.429942,
+    99.807766,
+    6.429942
+],
+  "geometry": {"coordinates":[99.807766,6.429942],"type":"Point"}
+}

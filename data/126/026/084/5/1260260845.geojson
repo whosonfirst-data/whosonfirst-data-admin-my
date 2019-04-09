@@ -1,0 +1,70 @@
+{
+  "id": 1260260845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.04784,2.60812,112.04784,2.60812",
+    "geom:latitude":2.60812,
+    "geom:longitude":112.04784,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rumag Narang",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8431447,
+    "gn:latitude":2.60812,
+    "gn:longitude":112.04784,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Rumag Narang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Rumag Narang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8431447
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"52bacb8481abef92b9cecfe6cb6d5cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696395,
+            "locality_id":1260260845,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1260260845,
+    "wof:lastmodified":1537674457,
+    "wof:name":"Rumag Narang",
+    "wof:parent_id":1108696395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.04784,
+    2.60812,
+    112.04784,
+    2.60812
+],
+  "geometry": {"coordinates":[112.04783999999999,2.60812],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327337553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.772,1.5052,103.772,1.5052",
+    "geom:latitude":1.5052,
+    "geom:longitude":103.772,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Tok Siak",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7619664,
+    "gn:latitude":1.5052,
+    "gn:longitude":103.772,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tok Siak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tok Siak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619664
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1aa9890c67f3e7241af533a328b4eb93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1327337553,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1327337553,
+    "wof:lastmodified":1537674333,
+    "wof:name":"Kampung Tok Siak",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.772,
+    1.5052,
+    103.772,
+    1.5052
+],
+  "geometry": {"coordinates":[103.77200000000001,1.5052],"type":"Point"}
+}

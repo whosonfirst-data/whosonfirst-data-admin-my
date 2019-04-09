@@ -1,0 +1,71 @@
+{
+  "id": 1226330683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.43004,1.23505,110.43004,1.23505",
+    "geom:latitude":1.23505,
+    "geom:longitude":110.43004,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Chupak",
+    "gn:country_code":"MY",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769739,
+    "gn:latitude":1.23505,
+    "gn:longitude":110.43004,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampong Chupak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chupak",
+        "Kampong Chupak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769739
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fa0b6cf5733b3f8700d26de9486cd68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1226330683,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1226330683,
+    "wof:lastmodified":1537674132,
+    "wof:name":"Kampong Chupak",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.43004,
+    1.23505,
+    110.43004,
+    1.23505
+],
+  "geometry": {"coordinates":[110.43004000000001,1.23505],"type":"Point"}
+}

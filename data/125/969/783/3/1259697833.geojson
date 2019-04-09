@@ -1,0 +1,78 @@
+{
+  "id": 1259697833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.6957,1.63,103.6957,1.63",
+    "geom:latitude":1.63,
+    "geom:longitude":103.6957,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Seelong",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732740,
+    "gn:latitude":1.63,
+    "gn:longitude":103.6957,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Seelong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Seelong"
+    ],
+    "name:und_x_variant":[
+        "Selong Village",
+        "Kampong Selong",
+        "Seelong",
+        "Selong",
+        "Kampung Seelung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732740,
+        "wk:page":"Seelong"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2571f1d91099b3e62729f62b5e42d8c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696433,
+            "locality_id":1259697833,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1259697833,
+    "wof:lastmodified":1537673668,
+    "wof:name":"Kampung Seelong",
+    "wof:parent_id":1108696433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.6957,
+    1.63,
+    103.6957,
+    1.63
+],
+  "geometry": {"coordinates":[103.6957,1.63],"type":"Point"}
+}

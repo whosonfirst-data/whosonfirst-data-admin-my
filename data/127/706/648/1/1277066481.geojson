@@ -1,0 +1,71 @@
+{
+  "id": 1277066481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.46616,5.15017,100.46616,5.15017",
+    "geom:latitude":5.15017,
+    "geom:longitude":100.46616,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Telok Ipil",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1740710,
+    "gn:latitude":5.15017,
+    "gn:longitude":100.46616,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Telok Ipil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Telok Ipil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        1108696503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1740710
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"293e8dd5de0fbaf4a76782619f620808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696503,
+            "locality_id":1277066481,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1277066481,
+    "wof:lastmodified":1537673758,
+    "wof:name":"Telok Ipil",
+    "wof:parent_id":1108696503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.46616,
+    5.15017,
+    100.46616,
+    5.15017
+],
+  "geometry": {"coordinates":[100.46616,5.15017],"type":"Point"}
+}

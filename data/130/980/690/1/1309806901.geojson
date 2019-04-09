@@ -1,0 +1,70 @@
+{
+  "id": 1309806901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.79514,5.81406,100.79514,5.81406",
+    "geom:latitude":5.81406,
+    "geom:longitude":100.79514,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Charok Tok Pong",
+    "gn:country_code":"MY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6805059,
+    "gn:latitude":5.81406,
+    "gn:longitude":100.79514,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Charok Tok Pong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Charok Tok Pong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6805059
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e1c1b18ce312ca0d572b650a285f40fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696515,
+            "locality_id":1309806901,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1309806901,
+    "wof:lastmodified":1537674234,
+    "wof:name":"Kampung Charok Tok Pong",
+    "wof:parent_id":1108696515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.79514,
+    5.81406,
+    100.79514,
+    5.81406
+],
+  "geometry": {"coordinates":[100.79514,5.81406],"type":"Point"}
+}

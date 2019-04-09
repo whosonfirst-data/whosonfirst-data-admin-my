@@ -1,0 +1,70 @@
+{
+  "id": 1310429431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3558,2.1483,102.3558,2.1483",
+    "geom:latitude":2.1483,
+    "geom:longitude":102.3558,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Solok Minyak",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1743182,
+    "gn:latitude":2.1483,
+    "gn:longitude":102.3558,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Solok Minyak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Solok Minyak"
+    ],
+    "name:und_x_variant":[
+        "Kampong Minyak",
+        "Solok Minyak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1743182
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e730a8b4eabdc66b5b4b6be33c4f4177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1310429431,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310429431,
+    "wof:lastmodified":1537673763,
+    "wof:name":"Solok Minyak",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3558,
+    2.1483,
+    102.3558,
+    2.1483
+],
+  "geometry": {"coordinates":[102.3558,2.1483],"type":"Point"}
+}

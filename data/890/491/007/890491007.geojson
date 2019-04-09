@@ -1,0 +1,67 @@
+{
+  "id": 890491007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.6,1.65,103.6,1.65",
+    "geom:latitude":1.65,
+    "geom:longitude":103.6,
+    "gn:country":"MY",
+    "gn:fcode":"ADM2",
+    "gn:pop":2374778,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Johore Bahru"
+    ],
+    "qs:name":"Daerah Johor Baharu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732751,
+        "qs:id":88606
+    },
+    "wof:country":"MY",
+    "wof:created":1469054835,
+    "wof:geomhash":"0a6544f6dd80d5ae477df1e3d0fd711d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491007,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890491007,
+    "wof:lastmodified":1505343790,
+    "wof:name":"Daerah Johor Baharu",
+    "wof:parent_id":85675141,
+    "wof:placetype":"county",
+    "wof:population":2374778,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.6,
+    1.65,
+    103.6,
+    1.65
+],
+  "geometry": {"coordinates":[103.59999999999999,1.65],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327265395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4743,2.4995,102.4743,2.4995",
+    "geom:latitude":2.4995,
+    "geom:longitude":102.4743,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Tengah Ayer Kuning",
+    "gn:country_code":"MY",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698184,
+    "gn:latitude":2.4995,
+    "gn:longitude":102.4743,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tengah Ayer Kuning",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tengah Ayer Kuning"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        1108696529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698184
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"429b38d008ba5278cee2d5b66cf913f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696529,
+            "locality_id":1327265395,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1327265395,
+    "wof:lastmodified":1537674371,
+    "wof:name":"Kampung Tengah Ayer Kuning",
+    "wof:parent_id":1108696529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4743,
+    2.4995,
+    102.4743,
+    2.4995
+],
+  "geometry": {"coordinates":[102.4743,2.4995],"type":"Point"}
+}

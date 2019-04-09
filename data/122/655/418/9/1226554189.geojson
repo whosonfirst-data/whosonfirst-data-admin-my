@@ -1,0 +1,70 @@
+{
+  "id": 1226554189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3099,1.6197,103.3099,1.6197",
+    "geom:latitude":1.6197,
+    "geom:longitude":103.3099,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Daing Perandang",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857599,
+    "gn:latitude":1.6197,
+    "gn:longitude":103.3099,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Daing Perandang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Daing Perandang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857599
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8aba1f133d64ca1faa96b4906d9e06d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "locality_id":1226554189,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1226554189,
+    "wof:lastmodified":1537674445,
+    "wof:name":"Kampung Parit Daing Perandang",
+    "wof:parent_id":890491001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3099,
+    1.6197,
+    103.3099,
+    1.6197
+],
+  "geometry": {"coordinates":[103.3099,1.6197],"type":"Point"}
+}

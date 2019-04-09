@@ -1,0 +1,73 @@
+{
+  "id": 1260102967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.144,2.6676,102.144,2.6676",
+    "geom:latitude":2.6676,
+    "geom:longitude":102.144,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Mertang",
+    "gn:country_code":"MY",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1766821,
+    "gn:latitude":2.6676,
+    "gn:longitude":102.144,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Mertang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mertang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Mertang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1766821
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"163c9917030047d456bb853b8713d79d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1260102967,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1260102967,
+    "wof:lastmodified":1537674010,
+    "wof:name":"Kampung Mertang",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.144,
+    2.6676,
+    102.144,
+    2.6676
+],
+  "geometry": {"coordinates":[102.14400000000001,2.6676],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276864201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5964,3.8933,102.5964,3.8933",
+    "geom:latitude":3.8933,
+    "geom:longitude":102.5964,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kemajuan Tanah Sungai Tekam Utara",
+    "gn:country_code":"MY",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7566097,
+    "gn:latitude":3.8933,
+    "gn:longitude":102.5964,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Sungai Tekam Utara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Sungai Tekam Utara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7566097
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7c9fa7e9af1fc18fb505705f6fdfdad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1276864201,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276864201,
+    "wof:lastmodified":1537674315,
+    "wof:name":"Kemajuan Tanah Sungai Tekam Utara",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5964,
+    3.8933,
+    102.5964,
+    3.8933
+],
+  "geometry": {"coordinates":[102.5964,3.8933],"type":"Point"}
+}

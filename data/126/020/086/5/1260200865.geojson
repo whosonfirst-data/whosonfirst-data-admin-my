@@ -1,0 +1,70 @@
+{
+  "id": 1260200865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.074,1.7615,104.074,1.7615",
+    "geom:latitude":1.7615,
+    "geom:longitude":104.074,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kemajuan Tanah Simpang Waha",
+    "gn:country_code":"MY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857577,
+    "gn:latitude":1.7615,
+    "gn:longitude":104.074,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kemajuan Tanah Simpang Waha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Simpang Waha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857577
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cf785372e3fc9bdbaadab0fc0e45472f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491003,
+            "locality_id":1260200865,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1260200865,
+    "wof:lastmodified":1537674444,
+    "wof:name":"Kemajuan Tanah Simpang Waha",
+    "wof:parent_id":890491003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.074,
+    1.7615,
+    104.074,
+    1.7615
+],
+  "geometry": {"coordinates":[104.074,1.7615],"type":"Point"}
+}

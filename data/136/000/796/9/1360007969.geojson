@@ -1,0 +1,70 @@
+{
+  "id": 1360007969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6795,4.0476,101.6795,4.0476",
+    "geom:latitude":4.0476,
+    "geom:longitude":101.6795,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ruai",
+    "gn:country_code":"MY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638833,
+    "gn:latitude":4.0476,
+    "gn:longitude":101.6795,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ruai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ruai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638833
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"14eb96f711b89e58b11e944e6e02082f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1360007969,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1360007969,
+    "wof:lastmodified":1537674343,
+    "wof:name":"Ruai",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6795,
+    4.0476,
+    101.6795,
+    4.0476
+],
+  "geometry": {"coordinates":[101.6795,4.0476],"type":"Point"}
+}

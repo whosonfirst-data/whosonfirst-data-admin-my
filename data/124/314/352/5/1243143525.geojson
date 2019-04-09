@@ -1,0 +1,73 @@
+{
+  "id": 1243143525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9285,5.1608,102.9285,5.1608",
+    "geom:latitude":5.1608,
+    "geom:longitude":102.9285,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Tengkawang",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762801,
+    "gn:latitude":5.1608,
+    "gn:longitude":102.9285,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tengkawang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tengkawang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tengkawang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762801
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4af6fa9b180496ffdae989afafe30f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1243143525,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1243143525,
+    "wof:lastmodified":1537673831,
+    "wof:name":"Kampung Tengkawang",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9285,
+    5.1608,
+    102.9285,
+    5.1608
+],
+  "geometry": {"coordinates":[102.9285,5.1608],"type":"Point"}
+}

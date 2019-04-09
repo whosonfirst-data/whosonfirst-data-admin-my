@@ -1,0 +1,70 @@
+{
+  "id": 1276891555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.5923,1.4417,103.5923,1.4417",
+    "geom:latitude":1.4417,
+    "geom:longitude":103.5923,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Dato Syed Mohammad Idrus",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7858070,
+    "gn:latitude":1.4417,
+    "gn:longitude":103.5923,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Dato Syed Mohammad Idrus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Dato Syed Mohammad Idrus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7858070
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ebfb8ec8d8e0398ead3bea3f2f23aa9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1276891555,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276891555,
+    "wof:lastmodified":1537674450,
+    "wof:name":"Taman Dato Syed Mohammad Idrus",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.5923,
+    1.4417,
+    103.5923,
+    1.4417
+],
+  "geometry": {"coordinates":[103.59229999999999,1.4417],"type":"Point"}
+}

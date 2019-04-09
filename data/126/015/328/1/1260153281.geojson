@@ -1,0 +1,70 @@
+{
+  "id": 1260153281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.22299,4.42506,116.22299,4.42506",
+    "geom:latitude":4.42506,
+    "geom:longitude":116.22299,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Talingbakas",
+    "gn:country_code":"MY",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733746,
+    "gn:latitude":4.42506,
+    "gn:longitude":116.22299,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Talingbakas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Talingbakas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733746
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ab6f017c4d94993a567058e153dfa144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696483,
+            "locality_id":1260153281,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1260153281,
+    "wof:lastmodified":1537673688,
+    "wof:name":"Talingbakas",
+    "wof:parent_id":1108696483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.22299,
+    4.42506,
+    116.22299,
+    4.42506
+],
+  "geometry": {"coordinates":[116.22299,4.42506],"type":"Point"}
+}

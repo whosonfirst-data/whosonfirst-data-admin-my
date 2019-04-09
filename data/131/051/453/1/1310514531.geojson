@@ -1,0 +1,81 @@
+{
+  "id": 1310514531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.8502,6.4055,99.8502,6.4055",
+    "geom:latitude":6.4055,
+    "geom:longitude":99.8502,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Kilim",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6804784,
+    "gn:latitude":6.4055,
+    "gn:longitude":99.8502,
+    "gn:modification_date":"2016-08-29",
+    "gn:name":"Kampung Kilim",
+    "gn:population":5000,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilim"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696443,
+        85675137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6804784
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5ba8a8b60ea6b95f4ebe38f52a6423dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":1310514531,
+            "region_id":85675133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696443,
+            "locality_id":1310514531,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1310514531,
+    "wof:lastmodified":1537674232,
+    "wof:name":"Kampung Kilim",
+    "wof:parent_id":1108696443,
+    "wof:placetype":"locality",
+    "wof:population":5000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.8502,
+    6.4055,
+    99.8502,
+    6.4055
+],
+  "geometry": {"coordinates":[99.8502,6.4055],"type":"Point"}
+}

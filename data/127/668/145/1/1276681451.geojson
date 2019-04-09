@@ -1,0 +1,73 @@
+{
+  "id": 1276681451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2136,2.7397,102.2136,2.7397",
+    "geom:latitude":2.7397,
+    "geom:longitude":102.2136,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Kayu Ara",
+    "gn:country_code":"MY",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768547,
+    "gn:latitude":2.7397,
+    "gn:longitude":102.2136,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kayu Ara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kayu Ara"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kayu Ara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768547
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cd402bf217ba5e8e10d102c8ec295a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1276681451,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1276681451,
+    "wof:lastmodified":1537674083,
+    "wof:name":"Kampung Kayu Ara",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2136,
+    2.7397,
+    102.2136,
+    2.7397
+],
+  "geometry": {"coordinates":[102.2136,2.7397],"type":"Point"}
+}

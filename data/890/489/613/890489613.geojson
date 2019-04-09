@@ -1,0 +1,72 @@
+{
+  "id": 890489613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.4064,4.5684,101.4064,4.5684",
+    "geom:latitude":4.5684,
+    "geom:longitude":101.4064,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Raja"
+    ],
+    "qs:name":"Kampung Rasau",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Perak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7554998,
+        "gp:id":56116614,
+        "qs:id":1062178
+    },
+    "wof:country":"MY",
+    "wof:created":1469054763,
+    "wof:geomhash":"eb2d647126f060f408101a40c33e2c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696393,
+            "locality_id":890489613,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":890489613,
+    "wof:lastmodified":1505343786,
+    "wof:name":"Kampung Rasau",
+    "wof:parent_id":1108696393,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.4064,
+    4.5684,
+    101.4064,
+    4.5684
+],
+  "geometry": {"coordinates":[101.4064,4.5684],"type":"Point"}
+}

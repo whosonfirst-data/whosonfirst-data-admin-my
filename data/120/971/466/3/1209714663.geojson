@@ -1,0 +1,70 @@
+{
+  "id": 1209714663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2379,2.8618,102.2379,2.8618",
+    "geom:latitude":2.8618,
+    "geom:longitude":102.2379,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Tapak Sekolah",
+    "gn:country_code":"MY",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796728,
+    "gn:latitude":2.8618,
+    "gn:longitude":102.2379,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tapak Sekolah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tapak Sekolah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796728
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"de66f2f0f683657256b4328c2ebc4ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1209714663,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1209714663,
+    "wof:lastmodified":1537674410,
+    "wof:name":"Kampung Tapak Sekolah",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2379,
+    2.8618,
+    102.2379,
+    2.8618
+],
+  "geometry": {"coordinates":[102.2379,2.8618],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242670299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3856,3.8932,102.3856,3.8932",
+    "geom:latitude":3.8932,
+    "geom:longitude":102.3856,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Temin",
+    "gn:country_code":"MY",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793975,
+    "gn:latitude":3.8932,
+    "gn:longitude":102.3856,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Temin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Temin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793975
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"93a5a6bc4b17708c179928878cc9dc4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1242670299,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1242670299,
+    "wof:lastmodified":1537674390,
+    "wof:name":"Kampung Temin",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3856,
+    3.8932,
+    102.3856,
+    3.8932
+],
+  "geometry": {"coordinates":[102.3856,3.8932],"type":"Point"}
+}

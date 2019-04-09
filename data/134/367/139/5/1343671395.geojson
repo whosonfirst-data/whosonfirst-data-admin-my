@@ -1,0 +1,67 @@
+{
+  "id": 1343671395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.85109,2.24167,102.85109,2.24167",
+    "geom:latitude":2.24167,
+    "geom:longitude":102.85109,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Felda Batu 27 (Felda Lenga)",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7778975,
+    "gn:latitude":2.24167,
+    "gn:longitude":102.85109,
+    "gn:modification_date":"2011-05-03",
+    "gn:name":"Felda Batu 27 (Felda Lenga)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7778975
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"73863b8854e800f829940b5368001600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1343671395,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1343671395,
+    "wof:lastmodified":1536939891,
+    "wof:name":"Felda Batu 27 (Felda Lenga)",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.85109,
+    2.24167,
+    102.85109,
+    2.24167
+],
+  "geometry": {"coordinates":[102.85109,2.24167],"type":"Point"}
+}

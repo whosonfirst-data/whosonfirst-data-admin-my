@@ -1,0 +1,101 @@
+{
+  "id": 85784037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":1014243.922244,
+    "geom:bbox":"101.660616054,3.11583369744,101.670227051,3.1268037273",
+    "geom:latitude":3.121458,
+    "geom:longitude":101.665727,
+    "iso:country":"MY",
+    "lbl:latitude":3.120117,
+    "lbl:longitude":101.666802,
+    "mps:latitude":3.121868,
+    "mps:longitude":101.665154,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:und_x_preferred":[
+        "Taman Bukit Pantai"
+    ],
+    "name:unk_x_variant":[
+        "Taman Bukit Pantai"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:id":0,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Taman Bukit Pantai",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Kuala Lumpur",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":110,
+    "qs:photo_sum":330,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56013690,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56015935
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"eb5eef6872f02330396e6c21c869b9a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85784037,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85784037,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269512,
+    "wof:name":"Taman Bukit Pantai",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.66061605449994,
+    3.11583369743863,
+    101.6702270510001,
+    3.12680372730296
+],
+  "geometry": {"coordinates":[[[101.66748046900011,3.12680372717834],[101.66748046900011,3.12406123050148],[101.6702270510001,3.12406123062574],[101.6702270510001,3.12131872658685],[101.6702270510001,3.11857621558855],[101.6702270510001,3.11583369763723],[101.66748046900011,3.11583369743863],[101.66473388700007,3.11583369763723],[101.66473388700007,3.11857621566298],[101.6619873050002,3.11857621573749],[101.66095886257847,3.11960618269792],[101.66152886274057,3.12131872599016],[101.66061605449994,3.12406122900836],[101.66152886035582,3.12680372650529],[101.66198730500008,3.12680372702344],[101.66473388700007,3.12680372730296],[101.66748046900011,3.12680372717834]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225837707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.95,4.25,101.95,4.25",
+    "geom:latitude":4.25,
+    "geom:longitude":101.95,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampong Kuala Tui",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767934,
+    "gn:latitude":4.25,
+    "gn:longitude":101.95,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Kuala Tui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Tui",
+        "Kampong Kuala Tui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767934
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fbb6ad234805b16691dfcc7f47506498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1225837707,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1225837707,
+    "wof:lastmodified":1537674056,
+    "wof:name":"Kampong Kuala Tui",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.95,
+    4.25,
+    101.95,
+    4.25
+],
+  "geometry": {"coordinates":[101.95,4.25],"type":"Point"}
+}

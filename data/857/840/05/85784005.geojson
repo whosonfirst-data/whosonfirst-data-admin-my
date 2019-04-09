@@ -1,0 +1,113 @@
+{
+  "id": 85784005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000169,
+    "geom:area_square_m":2092453.642241,
+    "geom:bbox":"101.727905273,3.1295462171,101.738891602,3.15148587091",
+    "geom:latitude":3.140709,
+    "geom:longitude":101.732735,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.138776,
+    "lbl:longitude":101.73269,
+    "mps:latitude":3.141041,
+    "mps:longitude":101.733938,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:nld_x_preferred":[
+        "Royal Selangor Golf Club"
+    ],
+    "name:swe_x_preferred":[
+        "Royal Selangor Golf Club"
+    ],
+    "name:und_x_preferred":[
+        "Royal Selangor Golf Club"
+    ],
+    "name:unk_x_variant":[
+        "Royal Selangor Golf Club"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Royal Selangor Golf Club",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Bandar Kuala Lumpur",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":37,
+    "qs:photo_sum":80,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56014567,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":245,
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56015687,
+        "qs:id":212962,
+        "qs_pg:id":212962,
+        "wd:id":"Q1822228"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bf39fac8510007577fa49b8864f71417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85784005,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85784005,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269511,
+    "wof:name":"Royal Selangor Golf Club",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.72790527300015,
+    3.1295462171031,
+    101.73889160200008,
+    3.15148587091494
+],
+  "geometry": {"coordinates":[[[101.73339843786124,3.15148587091494],[101.73339843784385,3.14600099937923],[101.73752038147427,3.1460010008829],[101.73889160200002,3.14600100388992],[101.73889160200008,3.14462770772283],[101.73889160200002,3.14051609918013],[101.73889160200002,3.13503117127564],[101.73476967318112,3.13503117107589],[101.73339843785431,3.13365787905765],[101.73339843784385,3.13091950682752],[101.73339843799999,3.12954621780005],[101.73065185513343,3.12954621780005],[101.72790527300015,3.1295462171031],[101.72790527300015,3.13503117527004],[101.73065185514594,3.13503117527004],[101.73065185514594,3.13777364217854],[101.72927856425019,3.13914899459184],[101.72927856425019,3.14051403452146],[101.72927649790256,3.14051610398002],[101.72790527300015,3.14051610398002],[101.72790527316687,3.14188939301913],[101.72790527316675,3.14600099907848],[101.72790527313902,3.15148587091494],[101.73339843786124,3.15148587091494]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293772177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.31667,1.71667,111.31667,1.71667",
+    "geom:latitude":1.71667,
+    "geom:longitude":111.31667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Bawang",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748114,
+    "gn:latitude":1.71667,
+    "gn:longitude":111.31667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Bawang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748114
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"159a82a23aed0ebad1dcdcf15cf79125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696501,
+            "locality_id":1293772177,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1293772177,
+    "wof:lastmodified":1536872741,
+    "wof:name":"Rumah Bawang",
+    "wof:parent_id":1108696501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.31667,
+    1.71667,
+    111.31667,
+    1.71667
+],
+  "geometry": {"coordinates":[111.31667,1.71667],"type":"Point"}
+}

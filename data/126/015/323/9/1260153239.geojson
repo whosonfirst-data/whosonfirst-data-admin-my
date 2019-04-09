@@ -1,0 +1,66 @@
+{
+  "id": 1260153239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.55,6.61667,116.55,6.61667",
+    "geom:latitude":6.61667,
+    "geom:longitude":116.55,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Dudar",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769625,
+    "gn:latitude":6.61667,
+    "gn:longitude":116.55,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Kampong Dudar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peladok Dudar",
+        "Kampong Dudar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769625
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d3d31b20ce8ccb144924495308f63ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260153239,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260153239,
+    "wof:lastmodified":1537674128,
+    "wof:name":"Kampong Dudar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.55,
+    6.61667,
+    116.55,
+    6.61667
+],
+  "geometry": {"coordinates":[116.55,6.61667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259979913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3481,2.2092,102.3481,2.2092",
+    "geom:latitude":2.2092,
+    "geom:longitude":102.3481,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Solok Tanjong Mak Midah",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798020,
+    "gn:latitude":2.2092,
+    "gn:longitude":102.3481,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Solok Tanjong Mak Midah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Solok Tanjong Mak Midah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798020
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e2492a35b55a99ca8a423a88d6a8ca94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":1259979913,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1259979913,
+    "wof:lastmodified":1537674427,
+    "wof:name":"Solok Tanjong Mak Midah",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3481,
+    2.2092,
+    102.3481,
+    2.2092
+],
+  "geometry": {"coordinates":[102.3481,2.2092],"type":"Point"}
+}

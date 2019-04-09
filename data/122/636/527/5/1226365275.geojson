@@ -1,0 +1,73 @@
+{
+  "id": 1226365275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2983,2.709,102.2983,2.709",
+    "geom:latitude":2.709,
+    "geom:longitude":102.2983,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Batang Kepis",
+    "gn:country_code":"MY",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771010,
+    "gn:latitude":2.709,
+    "gn:longitude":102.2983,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Batang Kepis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batang Kepis"
+    ],
+    "name:und_x_variant":[
+        "Kampong Batang Kepis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771010
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e603bc8ca79f3ecd5a4699b02eda346e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1226365275,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1226365275,
+    "wof:lastmodified":1537674184,
+    "wof:name":"Kampung Batang Kepis",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2983,
+    2.709,
+    102.2983,
+    2.709
+],
+  "geometry": {"coordinates":[102.2983,2.709],"type":"Point"}
+}

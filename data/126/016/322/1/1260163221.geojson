@@ -1,0 +1,70 @@
+{
+  "id": 1260163221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1989,5.0639,116.1989,5.0639",
+    "geom:latitude":5.0639,
+    "geom:longitude":116.1989,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Angkawangan",
+    "gn:country_code":"MY",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7782273,
+    "gn:latitude":5.0639,
+    "gn:longitude":116.1989,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Angkawangan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Angkawangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7782273
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b37a2e54c24ac49953f5e2b6a1a44393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1260163221,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1260163221,
+    "wof:lastmodified":1537674379,
+    "wof:name":"Kampung Angkawangan",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1989,
+    5.0639,
+    116.1989,
+    5.0639
+],
+  "geometry": {"coordinates":[116.19889999999999,5.0639],"type":"Point"}
+}

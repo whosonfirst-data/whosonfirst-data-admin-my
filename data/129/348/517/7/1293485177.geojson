@@ -1,0 +1,70 @@
+{
+  "id": 1293485177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7603,3.978,101.7603,3.978",
+    "geom:latitude":3.978,
+    "geom:longitude":101.7603,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Batu Papan",
+    "gn:country_code":"MY",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638824,
+    "gn:latitude":3.978,
+    "gn:longitude":101.7603,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Batu Papan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Batu Papan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638824
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9e21c9a6a0e5582a605099a29c78e37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1293485177,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293485177,
+    "wof:lastmodified":1537674343,
+    "wof:name":"Batu Papan",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7603,
+    3.978,
+    101.7603,
+    3.978
+],
+  "geometry": {"coordinates":[101.7603,3.978],"type":"Point"}
+}

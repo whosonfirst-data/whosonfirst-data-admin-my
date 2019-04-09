@@ -1,0 +1,66 @@
+{
+  "id": 1209493465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.58333,1.56667,110.58333,1.56667",
+    "geom:latitude":1.56667,
+    "geom:longitude":110.58333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Serepan",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764492,
+    "gn:latitude":1.56667,
+    "gn:longitude":110.58333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Serepan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Serpan",
+        "Kampong Serepan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764492
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b0356f2e20832093bca4c79f8de755e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209493465
+        }
+    ],
+    "wof:id":1209493465,
+    "wof:lastmodified":1537673912,
+    "wof:name":"Kampong Serepan",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.58333,
+    1.56667,
+    110.58333,
+    1.56667
+],
+  "geometry": {"coordinates":[110.58333,1.56667],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1125912757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.76667,3.15,101.76667,3.15",
+    "geom:latitude":3.15,
+    "geom:longitude":101.76667,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":3.15,
+    "lbl:longitude":101.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ampangan"
+    ],
+    "name:eng_x_preferred":[
+        "Ampangan"
+    ],
+    "name:ind_x_preferred":[
+        "Ampangan"
+    ],
+    "name:may_x_preferred":[
+        "Ampangan"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1735168,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ampangan",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Negeri Sembilan",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":46,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":390502,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1140658,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Negeri Sembilan",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735168,
+        "gp:id":1140658,
+        "qs_pg:id":390502,
+        "wd:id":"Q4251727"
+    },
+    "wof:country":"MY",
+    "wof:created":1497296195,
+    "wof:geomhash":"e608d6cdb8f47a45cbba6a6f2e9e03e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":1125912757,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1125912757,
+    "wof:lastmodified":1514490455,
+    "wof:name":"Ampangan",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.76667,
+    3.15,
+    101.76667,
+    3.15
+],
+  "geometry": {"coordinates":[101.76667,3.15],"type":"Point"}
+}

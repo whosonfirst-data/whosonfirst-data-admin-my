@@ -1,0 +1,72 @@
+{
+  "id": 1326608231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.33333,1.91667,112.33333,1.91667",
+    "geom:latitude":1.91667,
+    "geom:longitude":112.33333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Beriak",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1748087,
+    "gn:latitude":1.91667,
+    "gn:longitude":112.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rumah Beriak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rumah Briak",
+        "Rumah Beriak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1748087
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b5ed6b249f4f939bb3b50b27b128be99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696409,
+            "locality_id":1326608231,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1326608231,
+    "wof:lastmodified":1537673778,
+    "wof:name":"Rumah Beriak",
+    "wof:parent_id":1108696409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.33333,
+    1.91667,
+    112.33333,
+    1.91667
+],
+  "geometry": {"coordinates":[112.33333,1.91667],"type":"Point"}
+}

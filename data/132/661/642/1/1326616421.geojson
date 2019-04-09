@@ -1,0 +1,70 @@
+{
+  "id": 1326616421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.84772,5.21395,102.84772,5.21395",
+    "geom:latitude":5.21395,
+    "geom:longitude":102.84772,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Gerdung",
+    "gn:country_code":"MY",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769333,
+    "gn:latitude":5.21395,
+    "gn:longitude":102.84772,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Gerdung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Gerdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769333
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9dfd5669c409ec1ebb24b8c39c7cd37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1326616421,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1326616421,
+    "wof:lastmodified":1537674114,
+    "wof:name":"Kampung Gerdung",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.84772,
+    5.21395,
+    102.84772,
+    5.21395
+],
+  "geometry": {"coordinates":[102.84772,5.21395],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 890490317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.905789,3.150714,101.905789,3.150714",
+    "geom:latitude":3.150714,
+    "geom:longitude":101.905789,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Hulu Lui",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1154675,
+        "qs:id":1112212
+    },
+    "wof:country":"MY",
+    "wof:created":1469054800,
+    "wof:geomhash":"9357233d9947e3a4a2f5f6c2355c926a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":890490317,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890490317,
+    "wof:lastmodified":1500013492,
+    "wof:name":"Hulu Lui",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.905789,
+    3.150714,
+    101.905789,
+    3.150714
+],
+  "geometry": {"coordinates":[101.905789,3.150714],"type":"Point"}
+}

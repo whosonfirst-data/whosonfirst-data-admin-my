@@ -1,0 +1,74 @@
+{
+  "id": 1343970799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.71014,5.80061,100.71014,5.80061",
+    "geom:latitude":5.80061,
+    "geom:longitude":100.71014,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Charok Padang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769902,
+    "gn:latitude":5.80061,
+    "gn:longitude":100.71014,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Charok Padang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Charok Padang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Charok Padang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769902
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"01102fbd9a5d4c30be6a6438ec9e9beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696515,
+            "locality_id":1343970799,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1343970799,
+    "wof:lastmodified":1537674139,
+    "wof:name":"Kampung Charok Padang",
+    "wof:parent_id":1108696515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.71014,
+    5.80061,
+    100.71014,
+    5.80061
+],
+  "geometry": {"coordinates":[100.71014,5.80061],"type":"Point"}
+}

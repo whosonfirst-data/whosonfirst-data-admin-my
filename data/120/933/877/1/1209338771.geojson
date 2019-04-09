@@ -1,0 +1,64 @@
+{
+  "id": 1209338771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.437,2.3143,102.437,2.3143",
+    "geom:latitude":2.3143,
+    "geom:longitude":102.437,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Rim",
+    "gn:country_code":"MY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7798243,
+    "gn:latitude":2.3143,
+    "gn:longitude":102.437,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Rim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798243
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"212bc1f93c4673ef7e76372a420cdb7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209338771
+        }
+    ],
+    "wof:id":1209338771,
+    "wof:lastmodified":1537674429,
+    "wof:name":"Kampung Rim",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.437,
+    2.3143,
+    102.437,
+    2.3143
+],
+  "geometry": {"coordinates":[102.437,2.3143],"type":"Point"}
+}

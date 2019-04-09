@@ -1,0 +1,61 @@
+{
+  "id": 1259858819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.5,4.0,103.5,4.0",
+    "geom:latitude":4.0,
+    "geom:longitude":103.5,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Karteh",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1905147,
+    "gn:latitude":4.0,
+    "gn:longitude":103.5,
+    "gn:modification_date":"1998-11-02",
+    "gn:name":"Karteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1905147
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bd8b918787b8d2356cb1c6f1ce12c93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259858819,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259858819,
+    "wof:lastmodified":1536814057,
+    "wof:name":"Karteh",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.5,
+    4.0,
+    103.5,
+    4.0
+],
+  "geometry": {"coordinates":[103.5,4.0],"type":"Point"}
+}

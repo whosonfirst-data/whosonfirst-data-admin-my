@@ -1,0 +1,70 @@
+{
+  "id": 1242860667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.47166,5.76503,102.47166,5.76503",
+    "geom:latitude":5.76503,
+    "geom:longitude":102.47166,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Gong Penaga",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068172,
+    "gn:latitude":5.76503,
+    "gn:longitude":102.47166,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Gong Penaga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gong Penaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068172
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5d1ae1a93b844a415f839d4140cc5561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488399,
+            "locality_id":1242860667,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1242860667,
+    "wof:lastmodified":1537674279,
+    "wof:name":"Kampung Gong Penaga",
+    "wof:parent_id":890488399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.47166,
+    5.76503,
+    102.47166,
+    5.76503
+],
+  "geometry": {"coordinates":[102.47166,5.76503],"type":"Point"}
+}

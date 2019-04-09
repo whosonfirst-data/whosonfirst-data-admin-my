@@ -1,0 +1,73 @@
+{
+  "id": 1293482589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0257,3.9398,102.0257,3.9398",
+    "geom:latitude":3.9398,
+    "geom:longitude":102.0257,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Hulu Dong",
+    "gn:country_code":"MY",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762371,
+    "gn:latitude":3.9398,
+    "gn:longitude":102.0257,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Hulu Dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Hulu Dong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Ulu Dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762371
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5419e09ea14c32b265a7317056be65fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1293482589,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293482589,
+    "wof:lastmodified":1537673813,
+    "wof:name":"Kampung Hulu Dong",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0257,
+    3.9398,
+    102.0257,
+    3.9398
+],
+  "geometry": {"coordinates":[102.0257,3.9398],"type":"Point"}
+}

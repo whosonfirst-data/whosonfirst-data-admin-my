@@ -1,0 +1,67 @@
+{
+  "id": 1226146209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.58953,6.31966,100.58953,6.31966",
+    "geom:latitude":6.31966,
+    "geom:longitude":100.58953,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Labi",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767719,
+    "gn:latitude":6.31966,
+    "gn:longitude":100.58953,
+    "gn:modification_date":"2009-02-05",
+    "gn:name":"Kampong Labi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767719
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"84b786849e618dbf59db1d4c2cd4ec5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696471,
+            "locality_id":1226146209,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1226146209,
+    "wof:lastmodified":1537073941,
+    "wof:name":"Kampong Labi",
+    "wof:parent_id":1108696471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.58953,
+    6.31966,
+    100.58953,
+    6.31966
+],
+  "geometry": {"coordinates":[100.58953,6.31966],"type":"Point"}
+}

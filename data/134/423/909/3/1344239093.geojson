@@ -1,0 +1,74 @@
+{
+  "id": 1344239093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.6,4.63333,116.6,4.63333",
+    "geom:latitude":4.63333,
+    "geom:longitude":116.6,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Batu Punggul",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734266,
+    "gn:latitude":4.63333,
+    "gn:longitude":116.6,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Batu Punggul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batu Pungul",
+        "Batu Ponggul",
+        "Batu Pungal",
+        "Batu Punggul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734266
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f32992ad88c63f1b561c9b384f4c5bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696483,
+            "locality_id":1344239093,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1344239093,
+    "wof:lastmodified":1537673701,
+    "wof:name":"Batu Punggul",
+    "wof:parent_id":1108696483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.6,
+    4.63333,
+    116.6,
+    4.63333
+],
+  "geometry": {"coordinates":[116.59999999999999,4.63333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276772775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1732,2.2117,103.1732,2.2117",
+    "geom:latitude":2.2117,
+    "geom:longitude":103.1732,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Beradin",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732804,
+    "gn:latitude":2.2117,
+    "gn:longitude":103.1732,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Beradin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Beradin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732804
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d54e462f7a5406cdd6eabdc789509ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696417,
+            "locality_id":1276772775,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1276772775,
+    "wof:lastmodified":1537673669,
+    "wof:name":"Beradin",
+    "wof:parent_id":1108696417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1732,
+    2.2117,
+    103.1732,
+    2.2117
+],
+  "geometry": {"coordinates":[103.17319999999999,2.2117],"type":"Point"}
+}

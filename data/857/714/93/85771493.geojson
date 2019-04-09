@@ -1,0 +1,105 @@
+{
+  "id": 85771493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9765427.600866,
+    "geom:bbox":"114.004877,4.373549,114.004877,4.373549",
+    "geom:latitude":4.373549,
+    "geom:longitude":114.004877,
+    "iso:country":"MY",
+    "lbl:latitude":4.373549,
+    "lbl:longitude":114.004877,
+    "mps:latitude":4.372598,
+    "mps:longitude":114.00267,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Brighton"
+    ],
+    "name:unk_x_variant":[
+        "Brighton"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1738050,
+    "qs:gn_nam_loc":"miri",
+    "qs:gn_namadm1":"11",
+    "qs:id":0,
+    "qs:local_max":22,
+    "qs:local_sum":37,
+    "qs:localhoods":2,
+    "qs:name":"Brighton",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sarawak",
+    "qs:name_adm2":"Division Miri",
+    "qs:name_lau":"Miri",
+    "qs:name_local":"Miri",
+    "qs:photo_max":7,
+    "qs:photo_sum":22,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346305,
+    "qs:woe_adm2":56013598,
+    "qs:woe_lau":56014633,
+    "qs:woe_local":1154932,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023773,
+        890488483,
+        85675177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1140935
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"41da9c6986f7cd94146d87704e48ef5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488483,
+            "locality_id":102023773,
+            "neighbourhood_id":85771493,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":85771493,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859425,
+    "wof:name":"Brighton",
+    "wof:parent_id":102023773,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.004877,
+    4.373549,
+    114.004877,
+    4.373549
+],
+  "geometry": {"coordinates":[114.00487699999999,4.373549],"type":"Point"}
+}

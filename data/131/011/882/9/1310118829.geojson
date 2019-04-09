@@ -1,0 +1,74 @@
+{
+  "id": 1310118829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.69105,5.25113,100.69105,5.25113",
+    "geom:latitude":5.25113,
+    "geom:longitude":100.69105,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Kuala Dingin",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768081,
+    "gn:latitude":5.25113,
+    "gn:longitude":100.69105,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kuala Dingin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Dingin"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kuala Dingin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768081
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a91fd896c784f4ffdc50cf007c8d9cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490371,
+            "locality_id":1310118829,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310118829,
+    "wof:lastmodified":1537674063,
+    "wof:name":"Kampung Kuala Dingin",
+    "wof:parent_id":890490371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.69105,
+    5.25113,
+    100.69105,
+    5.25113
+],
+  "geometry": {"coordinates":[100.69105,5.25113],"type":"Point"}
+}

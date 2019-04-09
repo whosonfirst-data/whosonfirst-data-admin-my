@@ -1,0 +1,74 @@
+{
+  "id": 1292985463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.49015,5.43494,100.49015,5.43494",
+    "geom:latitude":5.43494,
+    "geom:longitude":100.49015,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampung Sungai Kulim",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763963,
+    "gn:latitude":5.43494,
+    "gn:longitude":100.49015,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Kulim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Kulim"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Kulim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890490327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763963
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"343ae30176c804a8221879540864afe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490327,
+            "locality_id":1292985463,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1292985463,
+    "wof:lastmodified":1537673886,
+    "wof:name":"Kampung Sungai Kulim",
+    "wof:parent_id":890490327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.49015,
+    5.43494,
+    100.49015,
+    5.43494
+],
+  "geometry": {"coordinates":[100.49015,5.43494],"type":"Point"}
+}

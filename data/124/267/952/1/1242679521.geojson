@@ -1,0 +1,70 @@
+{
+  "id": 1242679521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.29717,4.78619,102.29717,4.78619",
+    "geom:latitude":4.78619,
+    "geom:longitude":102.29717,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Hantu",
+    "gn:country_code":"MY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769065,
+    "gn:latitude":4.78619,
+    "gn:longitude":102.29717,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Hantu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Hantu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769065
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"49d4ec542df060b6c5fee52618fd569e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1242679521,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1242679521,
+    "wof:lastmodified":1537674105,
+    "wof:name":"Kampung Hantu",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.29717,
+    4.78619,
+    102.29717,
+    4.78619
+],
+  "geometry": {"coordinates":[102.29716999999999,4.78619],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309892837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1979,3.4406,101.1979,3.4406",
+    "geom:latitude":3.4406,
+    "geom:longitude":101.1979,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampung Sungai Tengi Kanan",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763760,
+    "gn:latitude":3.4406,
+    "gn:longitude":101.1979,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Tengi Kanan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Tengi Kanan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Tengi Kanan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890488801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763760
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4a18c81c43adce4bc6554898d3e77cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488801,
+            "locality_id":1309892837,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1309892837,
+    "wof:lastmodified":1537673876,
+    "wof:name":"Kampung Sungai Tengi Kanan",
+    "wof:parent_id":890488801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1979,
+    3.4406,
+    101.1979,
+    3.4406
+],
+  "geometry": {"coordinates":[101.1979,3.4406],"type":"Point"}
+}

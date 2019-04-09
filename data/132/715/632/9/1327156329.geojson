@@ -1,0 +1,70 @@
+{
+  "id": 1327156329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7829,2.9806,102.7829,2.9806",
+    "geom:latitude":2.9806,
+    "geom:longitude":102.7829,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bandar Melati",
+    "gn:country_code":"MY",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797002,
+    "gn:latitude":2.9806,
+    "gn:longitude":102.7829,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bandar Melati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bandar Melati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797002
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c77b14a95cfd6727cb22e3ff94b747d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1327156329,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1327156329,
+    "wof:lastmodified":1537674413,
+    "wof:name":"Bandar Melati",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7829,
+    2.9806,
+    102.7829,
+    2.9806
+],
+  "geometry": {"coordinates":[102.7829,2.9806],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209092631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1682,5.2865,103.1682,5.2865",
+    "geom:latitude":5.2865,
+    "geom:longitude":103.1682,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pengkalan Tangkul",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7608738,
+    "gn:latitude":5.2865,
+    "gn:longitude":103.1682,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pengkalan Tangkul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pengkalan Tangkul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7608738
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8beb84e8fa244909a10e367597ec16cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209092631
+        }
+    ],
+    "wof:id":1209092631,
+    "wof:lastmodified":1537674327,
+    "wof:name":"Pengkalan Tangkul",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1682,
+    5.2865,
+    103.1682,
+    5.2865
+],
+  "geometry": {"coordinates":[103.1682,5.2865],"type":"Point"}
+}

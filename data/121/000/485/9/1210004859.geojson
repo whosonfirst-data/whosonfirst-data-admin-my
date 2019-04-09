@@ -1,0 +1,67 @@
+{
+  "id": 1210004859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.68333,3.85,113.68333,3.85",
+    "geom:latitude":3.85,
+    "geom:longitude":113.68333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rumah Unting",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1737211,
+    "gn:latitude":3.85,
+    "gn:longitude":113.68333,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Rumah Unting",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1737211
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3f6cf7a087929b317c267f76a9a2e4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488483,
+            "locality_id":1210004859,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1210004859,
+    "wof:lastmodified":1536374792,
+    "wof:name":"Rumah Unting",
+    "wof:parent_id":890488483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.68333,
+    3.85,
+    113.68333,
+    3.85
+],
+  "geometry": {"coordinates":[113.68333,3.85],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242994385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0953,4.6559,101.0953,4.6559",
+    "geom:latitude":4.6559,
+    "geom:longitude":101.0953,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taman Tasek Permai",
+    "gn:country_code":"MY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7473354,
+    "gn:latitude":4.6559,
+    "gn:longitude":101.0953,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Tasek Permai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Tasek Permai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7473354
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"34a3a01627bf9ae968cd457731612dfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":1242994385,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1242994385,
+    "wof:lastmodified":1537674305,
+    "wof:name":"Taman Tasek Permai",
+    "wof:parent_id":890490953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0953,
+    4.6559,
+    101.0953,
+    4.6559
+],
+  "geometry": {"coordinates":[101.09529999999999,4.6559],"type":"Point"}
+}

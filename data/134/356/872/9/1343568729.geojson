@@ -1,0 +1,70 @@
+{
+  "id": 1343568729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0242,5.1276,102.0242,5.1276",
+    "geom:latitude":5.1276,
+    "geom:longitude":102.0242,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Pasir Tumboh",
+    "gn:country_code":"MY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7469626,
+    "gn:latitude":5.1276,
+    "gn:longitude":102.0242,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pasir Tumboh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pasir Tumboh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7469626
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5866d08660a85a8be62da196fdd75bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1343568729,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1343568729,
+    "wof:lastmodified":1537674299,
+    "wof:name":"Kampung Pasir Tumboh",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0242,
+    5.1276,
+    102.0242,
+    5.1276
+],
+  "geometry": {"coordinates":[102.02419999999999,5.1276],"type":"Point"}
+}

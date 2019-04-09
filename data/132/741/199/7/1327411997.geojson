@@ -1,0 +1,67 @@
+{
+  "id": 1327411997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.15,2.2,113.15,2.2",
+    "geom:latitude":2.2,
+    "geom:longitude":113.15,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Gerimang",
+    "gn:country_code":"MY",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747953,
+    "gn:latitude":2.2,
+    "gn:longitude":113.15,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Gerimang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747953
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"eab9f5e5799ac789e958f47472c0d1b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488879,
+            "locality_id":1327411997,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1327411997,
+    "wof:lastmodified":1536710585,
+    "wof:name":"Rumah Gerimang",
+    "wof:parent_id":890488879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.15,
+    2.2,
+    113.15,
+    2.2
+],
+  "geometry": {"coordinates":[113.15000000000001,2.2],"type":"Point"}
+}

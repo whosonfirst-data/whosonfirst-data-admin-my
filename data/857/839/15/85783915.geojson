@@ -1,0 +1,114 @@
+{
+  "id": 85783915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3133243.934518,
+    "geom:bbox":"103.711853,1.493514,103.711853,1.493514",
+    "geom:latitude":1.493514,
+    "geom:longitude":103.711853,
+    "gn:latitude":1.5011,
+    "gn:longitude":104.0444,
+    "iso:country":"MY",
+    "lbl:latitude":1.493514,
+    "lbl:longitude":103.711853,
+    "mps:latitude":1.496113,
+    "mps:longitude":103.70907,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:msa_x_preferred":[
+        "Kampung Kudi Kain"
+    ],
+    "name:und_x_preferred":[
+        "Kampung Skudai Kiri"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Kudi Kain",
+        "Kampung Skudai Kiri"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1732752,
+    "qs:gn_namadm1":"01",
+    "qs:gn_name":"Kampung Kudi Kain",
+    "qs:local_max":681,
+    "qs:local_sum":3607,
+    "qs:localhoods":29,
+    "qs:name":"Kampung Skudai Kiri",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:name_adm2":"Johor Bahru",
+    "qs:name_lau":"Plentong",
+    "qs:name_local":"Johor Baharu",
+    "qs:photo_max":8,
+    "qs:photo_sum":22,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346296,
+    "qs:woe_adm2":56013565,
+    "qs:woe_lau":56014160,
+    "qs:woe_local":1154698,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102022781,
+        1108696403,
+        85675141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767765,
+        "gp:id":56015321,
+        "qs:id":773779,
+        "qs_pg:id":773779
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d3595e69a3001729c111e62abcd99ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":102022781,
+            "neighbourhood_id":85783915,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":85783915,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860560,
+    "wof:name":"Kampung Skudai Kiri",
+    "wof:parent_id":102022781,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.711853,
+    1.493514,
+    103.711853,
+    1.493514
+],
+  "geometry": {"coordinates":[103.711853,1.493514],"type":"Point"}
+}

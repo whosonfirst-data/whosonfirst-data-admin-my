@@ -1,0 +1,70 @@
+{
+  "id": 1193017997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.57589,4.70573,101.57589,4.70573",
+    "geom:latitude":4.70573,
+    "geom:longitude":101.57589,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Ladang Pandrak",
+    "gn:country_code":"MY",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1758883,
+    "gn:latitude":4.70573,
+    "gn:longitude":101.57589,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ladang Pandrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ladang Panderak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1758883
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"079b0784eb5a169375b706be984e7ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488877,
+            "locality_id":1193017997,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1193017997,
+    "wof:lastmodified":1537673798,
+    "wof:name":"Ladang Pandrak",
+    "wof:parent_id":890488877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.57589,
+    4.70573,
+    101.57589,
+    4.70573
+],
+  "geometry": {"coordinates":[101.57589,4.70573],"type":"Point"}
+}

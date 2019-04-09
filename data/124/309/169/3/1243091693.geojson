@@ -1,0 +1,66 @@
+{
+  "id": 1243091693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2411,2.1985,102.2411,2.1985",
+    "geom:latitude":2.1985,
+    "geom:longitude":102.2411,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Empat",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797982,
+    "gn:latitude":2.1985,
+    "gn:longitude":102.2411,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Empat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Empat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797982
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3e102fec9abc1af631a09f3f739b6280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1243091693,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243091693,
+    "wof:lastmodified":1537674427,
+    "wof:name":"Kampung Empat",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2411,
+    2.1985,
+    102.2411,
+    2.1985
+],
+  "geometry": {"coordinates":[102.2411,2.1985],"type":"Point"}
+}

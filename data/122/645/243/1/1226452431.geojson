@@ -1,0 +1,72 @@
+{
+  "id": 1226452431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.35,2.95,101.35,2.95",
+    "geom:latitude":2.95,
+    "geom:longitude":101.35,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Kampong Pinang Laut",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765434,
+    "gn:latitude":2.95,
+    "gn:longitude":101.35,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Pinang Laut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Sungei Pinang Laut",
+        "Kampong Pinang Laut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765434
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fe6cbd87b5b5aa0f0a0286a1f298d2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696415,
+            "locality_id":1226452431,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1226452431,
+    "wof:lastmodified":1537673953,
+    "wof:name":"Kampong Pinang Laut",
+    "wof:parent_id":1108696415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.35,
+    2.95,
+    101.35,
+    2.95
+],
+  "geometry": {"coordinates":[101.34999999999999,2.95],"type":"Point"}
+}

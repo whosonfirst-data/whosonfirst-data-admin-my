@@ -1,0 +1,70 @@
+{
+  "id": 1226427931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.20377,6.57085,100.20377,6.57085",
+    "geom:latitude":6.57085,
+    "geom:longitude":100.20377,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Alor Kangar",
+    "gn:country_code":"MY",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798669,
+    "gn:latitude":6.57085,
+    "gn:longitude":100.20377,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Alor Kangar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Alor Kangar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798669
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"710390f32fe157eec17495c6c908f385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1226427931,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1226427931,
+    "wof:lastmodified":1537674229,
+    "wof:name":"Kampung Alor Kangar",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.20377,
+    6.57085,
+    100.20377,
+    6.57085
+],
+  "geometry": {"coordinates":[100.20377000000001,6.57085],"type":"Point"}
+}

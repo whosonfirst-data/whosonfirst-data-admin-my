@@ -1,0 +1,70 @@
+{
+  "id": 1326927817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3827,3.8033,102.3827,3.8033",
+    "geom:latitude":3.8033,
+    "geom:longitude":102.3827,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rancangan Tanah Pemuda Kampung Bukit Ketupat",
+    "gn:country_code":"MY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793978,
+    "gn:latitude":3.8033,
+    "gn:longitude":102.3827,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Rancangan Tanah Pemuda Kampung Bukit Ketupat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Rancangan Tanah Pemuda Kampung Bukit Ketupat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793978
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f928a038b9876de411f526ef54a20122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1326927817,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1326927817,
+    "wof:lastmodified":1537674390,
+    "wof:name":"Rancangan Tanah Pemuda Kampung Bukit Ketupat",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3827,
+    3.8033,
+    102.3827,
+    3.8033
+],
+  "geometry": {"coordinates":[102.3827,3.8033],"type":"Point"}
+}

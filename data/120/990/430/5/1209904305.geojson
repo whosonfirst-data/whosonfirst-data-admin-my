@@ -1,0 +1,61 @@
+{
+  "id": 1209904305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.71667,1.46667,110.71667,1.46667",
+    "geom:latitude":1.46667,
+    "geom:longitude":110.71667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Terasi",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762763,
+    "gn:latitude":1.46667,
+    "gn:longitude":110.71667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Terasi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762763
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c228f723ff984ea810acf695d97e965f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209904305,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209904305,
+    "wof:lastmodified":1536385014,
+    "wof:name":"Kampong Terasi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.71667,
+    1.46667,
+    110.71667,
+    1.46667
+],
+  "geometry": {"coordinates":[110.71666999999999,1.46667],"type":"Point"}
+}

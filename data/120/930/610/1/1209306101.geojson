@@ -1,0 +1,64 @@
+{
+  "id": 1209306101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0968,4.8688,101.0968,4.8688",
+    "geom:latitude":4.8688,
+    "geom:longitude":101.0968,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Batu Tujoh",
+    "gn:country_code":"MY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355685,
+    "gn:latitude":4.8688,
+    "gn:longitude":101.0968,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Kampung Batu Tujoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Tujoh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355685
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b248b665daf35252bbeb4669170fd6de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209306101
+        }
+    ],
+    "wof:id":1209306101,
+    "wof:lastmodified":1537674453,
+    "wof:name":"Kampung Batu Tujoh",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0968,
+    4.8688,
+    101.0968,
+    4.8688
+],
+  "geometry": {"coordinates":[101.0968,4.8688],"type":"Point"}
+}

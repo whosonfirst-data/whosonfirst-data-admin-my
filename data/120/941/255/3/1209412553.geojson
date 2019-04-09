@@ -1,0 +1,67 @@
+{
+  "id": 1209412553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1383,4.1926,102.1383,4.1926",
+    "geom:latitude":4.1926,
+    "geom:longitude":102.1383,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Kuala Lar",
+    "gn:country_code":"MY",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768027,
+    "gn:latitude":4.1926,
+    "gn:longitude":102.1383,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kuala Lar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Lar"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kuala Lau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768027
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"de5d61778b58ce070b88bd4c377cbe9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209412553
+        }
+    ],
+    "wof:id":1209412553,
+    "wof:lastmodified":1537674060,
+    "wof:name":"Kampung Kuala Lar",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1383,
+    4.1926,
+    102.1383,
+    4.1926
+],
+  "geometry": {"coordinates":[102.1383,4.1926],"type":"Point"}
+}

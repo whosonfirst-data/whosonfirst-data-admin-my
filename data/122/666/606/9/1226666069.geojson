@@ -1,0 +1,70 @@
+{
+  "id": 1226666069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.20066,6.52073,100.20066,6.52073",
+    "geom:latitude":6.52073,
+    "geom:longitude":100.20066,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Padang Lahim",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798599,
+    "gn:latitude":6.52073,
+    "gn:longitude":100.20066,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Padang Lahim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Padang Lahim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798599
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ac5b57189a6e8c837b0962dfcef8057c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1226666069,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1226666069,
+    "wof:lastmodified":1537674229,
+    "wof:name":"Kampung Padang Lahim",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.20066,
+    6.52073,
+    100.20066,
+    6.52073
+],
+  "geometry": {"coordinates":[100.20066,6.52073],"type":"Point"}
+}

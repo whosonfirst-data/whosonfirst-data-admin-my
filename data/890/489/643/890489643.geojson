@@ -1,0 +1,70 @@
+{
+  "id": 890489643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4010535,6.050259,102.4010535,6.050259",
+    "geom:latitude":6.050259,
+    "geom:longitude":102.401054,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Perupok",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kelantan",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":150,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":15,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013848,
+        "qs:id":1070934,
+        "wd:id":"Q7171111",
+        "wk:page":"Perupok"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054764,
+    "wof:geomhash":"18e4fec5329ccbb91646e8eb3a796f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696377,
+            "localadmin_id":890489643,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":890489643,
+    "wof:lastmodified":1527792861,
+    "wof:name":"Perupok",
+    "wof:parent_id":1108696377,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4010535,
+    6.050259,
+    102.4010535,
+    6.050259
+],
+  "geometry": {"coordinates":[102.4010535,6.050259],"type":"Point"}
+}

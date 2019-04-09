@@ -1,0 +1,78 @@
+{
+  "id": 890488445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.75,3.16667,101.75,3.16667",
+    "geom:latitude":3.16667,
+    "geom:longitude":101.75,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Batu Ampat"
+    ],
+    "qs:name":"Batu Empat",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1780846,
+        "gp:id":1140818,
+        "qs:id":1293752
+    },
+    "wof:country":"MY",
+    "wof:created":1469054719,
+    "wof:geomhash":"99d4bb9925d42978fca5d9b3e3248bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":890488445,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":890488445,
+    "wof:lastmodified":1505343782,
+    "wof:name":"Batu Empat",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.75,
+    3.16667,
+    101.75,
+    3.16667
+],
+  "geometry": {"coordinates":[101.75,3.16667],"type":"Point"}
+}

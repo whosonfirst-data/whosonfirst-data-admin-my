@@ -1,0 +1,67 @@
+{
+  "id": 1327131029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.23333,4.3,101.23333,4.3",
+    "geom:latitude":4.3,
+    "geom:longitude":101.23333,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Kinjang New Village",
+    "gn:country_code":"MY",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768230,
+    "gn:latitude":4.3,
+    "gn:longitude":101.23333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Kinjang New Village",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768230
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9d75cf937d9419a8e9f41d411cf07054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489741,
+            "locality_id":1327131029,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1327131029,
+    "wof:lastmodified":1536615808,
+    "wof:name":"Kampong Kinjang New Village",
+    "wof:parent_id":890489741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.23333,
+    4.3,
+    101.23333,
+    4.3
+],
+  "geometry": {"coordinates":[101.23333,4.3],"type":"Point"}
+}

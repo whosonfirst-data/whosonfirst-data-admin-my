@@ -1,0 +1,70 @@
+{
+  "id": 1309892063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0707,5.3263,103.0707,5.3263",
+    "geom:latitude":5.3263,
+    "geom:longitude":103.0707,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kampung Banggul Donas",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7461216,
+    "gn:latitude":5.3263,
+    "gn:longitude":103.0707,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Banggul Donas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Banggul Donas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7461216
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"19d0e9bd49e46368c689b5fbbcaf89e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1309892063,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1309892063,
+    "wof:lastmodified":1537674295,
+    "wof:name":"Kampung Banggul Donas",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0707,
+    5.3263,
+    103.0707,
+    5.3263
+],
+  "geometry": {"coordinates":[103.0707,5.3263],"type":"Point"}
+}

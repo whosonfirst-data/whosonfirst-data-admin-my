@@ -1,0 +1,70 @@
+{
+  "id": 1193119279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.3724,5.1538,116.3724,5.1538",
+    "geom:latitude":5.1538,
+    "geom:longitude":116.3724,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Binuou Tengah",
+    "gn:country_code":"MY",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783173,
+    "gn:latitude":5.1538,
+    "gn:longitude":116.3724,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Binuou Tengah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Binuou Tengah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783173
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2a74c6121161a35e8ea88cd0ee094e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1193119279,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1193119279,
+    "wof:lastmodified":1537674379,
+    "wof:name":"Kampung Binuou Tengah",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.3724,
+    5.1538,
+    116.3724,
+    5.1538
+],
+  "geometry": {"coordinates":[116.3724,5.1538],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 890489075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.831758,2.505719,101.831758,2.505719",
+    "geom:latitude":2.505719,
+    "geom:longitude":101.831758,
+    "gn:country":"MY",
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "qs:name":"Kg Teck Lin",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Negeri Sembilan",
+    "qs:photos":212,
+    "qs:photos_1k":43,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":212,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56015458,
+        "qs:id":481676
+    },
+    "wof:country":"MY",
+    "wof:created":1469054743,
+    "wof:geomhash":"45a8a2e38a672a6b00d03cf779f9b499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "locality_id":890489075,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":890489075,
+    "wof:lastmodified":1469054743,
+    "wof:name":"Kg Teck Lin",
+    "wof:parent_id":85675155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.831758,
+    2.505719,
+    101.831758,
+    2.505719
+],
+  "geometry": {"coordinates":[101.83175799999999,2.505719],"type":"Point"}
+}

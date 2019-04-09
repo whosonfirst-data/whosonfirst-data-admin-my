@@ -1,0 +1,67 @@
+{
+  "id": 1343846139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.35,3.08333,113.35,3.08333",
+    "geom:latitude":3.08333,
+    "geom:longitude":113.35,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rumah Jalai",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1737451,
+    "gn:latitude":3.08333,
+    "gn:longitude":113.35,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Jalai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1737451
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"eab9eff9b3c3b779fa8e8db61e31c492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488209,
+            "locality_id":1343846139,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1343846139,
+    "wof:lastmodified":1536687305,
+    "wof:name":"Rumah Jalai",
+    "wof:parent_id":890488209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.35,
+    3.08333,
+    113.35,
+    3.08333
+],
+  "geometry": {"coordinates":[113.34999999999999,3.08333],"type":"Point"}
+}

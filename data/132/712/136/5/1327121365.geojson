@@ -1,0 +1,73 @@
+{
+  "id": 1327121365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7785,2.9804,101.7785,2.9804",
+    "geom:latitude":2.9804,
+    "geom:longitude":101.7785,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taman Koperasi Lembaga Letrik Negara",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796488,
+    "gn:latitude":2.9804,
+    "gn:longitude":101.7785,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Koperasi Lembaga Letrik Negara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Koperasi Lembaga Letrik Negara"
+    ],
+    "name:und_x_variant":[
+        "Taman Koperasi LLN"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796488
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e100604e815e9f773d916b4fd1eb4b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":1327121365,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1327121365,
+    "wof:lastmodified":1537674405,
+    "wof:name":"Taman Koperasi Lembaga Letrik Negara",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7785,
+    2.9804,
+    101.7785,
+    2.9804
+],
+  "geometry": {"coordinates":[101.77849999999999,2.9804],"type":"Point"}
+}

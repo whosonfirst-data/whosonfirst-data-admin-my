@@ -1,0 +1,70 @@
+{
+  "id": 890489557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.44595,5.39881,100.44595,5.39881",
+    "geom:latitude":5.39881,
+    "geom:longitude":100.44595,
+    "gn:country":"MY",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Mukim 5"
+    ],
+    "name:msa_x_variant":[
+        "Mukim Lima"
+    ],
+    "qs:name":"Mukim Lima",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819353,
+        "qs:id":904076
+    },
+    "wof:country":"MY",
+    "wof:created":1469054761,
+    "wof:geomhash":"178b7b4633a6ccffeec3f75bc1805ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "localadmin_id":890489557,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":890489557,
+    "wof:lastmodified":1505343786,
+    "wof:name":"Mukim Lima",
+    "wof:parent_id":890489737,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.44595,
+    5.39881,
+    100.44595,
+    5.39881
+],
+  "geometry": {"coordinates":[100.44595,5.39881],"type":"Point"}
+}

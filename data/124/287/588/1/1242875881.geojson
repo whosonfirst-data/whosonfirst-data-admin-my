@@ -1,0 +1,67 @@
+{
+  "id": 1242875881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.94643,5.96239,101.94643,5.96239",
+    "geom:latitude":5.96239,
+    "geom:longitude":101.94643,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Tanjong Erat",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763429,
+    "gn:latitude":5.96239,
+    "gn:longitude":101.94643,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Kampong Tanjong Erat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763429
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c713dc2331d06079130dd1d4151f0a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1242875881,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1242875881,
+    "wof:lastmodified":1536632609,
+    "wof:name":"Kampong Tanjong Erat",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.94643,
+    5.96239,
+    101.94643,
+    5.96239
+],
+  "geometry": {"coordinates":[101.94643000000001,5.96239],"type":"Point"}
+}

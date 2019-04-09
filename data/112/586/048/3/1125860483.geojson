@@ -1,0 +1,119 @@
+{
+  "id": 1125860483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9767,6.0219,101.9767,6.0219",
+    "geom:latitude":6.0219,
+    "geom:longitude":101.9767,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":500,
+    "iso:country":"MY",
+    "lbl:latitude":6.0219,
+    "lbl:longitude":101.9767,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Rantau Panjang"
+    ],
+    "name:eng_x_preferred":[
+        "Rantau Panjang"
+    ],
+    "name:epo_x_preferred":[
+        "Rantau Panjang"
+    ],
+    "name:ger_x_preferred":[
+        "Rantau Panjang"
+    ],
+    "name:ind_x_preferred":[
+        "Rantau Panjang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30bf\u30a6\u30fb\u30d1\u30f3\u30b8\u30e3\u30f3"
+    ],
+    "name:may_x_preferred":[
+        "Rantau Panjang"
+    ],
+    "name:msa_x_preferred":[
+        "Rantau Panjang"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043d\u0442\u0430\u0443-\u041f\u0430\u043d\u0434\u0436\u0430\u043d\u0433"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e31\u0e19\u0e40\u0e15\u0e32\u0e1b\u0e31\u0e19\u0e08\u0e31\u0e07"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1736370,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rata Panyang",
+    "qs_pg:name_adm0":"Thailand",
+    "qs_pg:name_adm1":"Pattani",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":207903,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424960,
+    "qs_pg:woe_id":55946894,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424960,
+    "woe:name_adm0":"Thailand",
+    "woe:name_adm1":"Pattani",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1736370,
+        "gp:id":55946894,
+        "qs_pg:id":207903,
+        "wd:id":"Q4209077"
+    },
+    "wof:country":"MY",
+    "wof:created":1497293807,
+    "wof:geomhash":"8479d6ac702d29cbb9b3e03374c7e34f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1125860483,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1125860483,
+    "wof:lastmodified":1514490693,
+    "wof:name":"Rata Panyang",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9767,
+    6.0219,
+    101.9767,
+    6.0219
+],
+  "geometry": {"coordinates":[101.97669999999999,6.0219],"type":"Point"}
+}

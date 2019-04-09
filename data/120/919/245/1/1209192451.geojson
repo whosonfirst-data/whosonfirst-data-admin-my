@@ -1,0 +1,67 @@
+{
+  "id": 1209192451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.08631,1.22568,110.08631,1.22568",
+    "geom:latitude":1.22568,
+    "geom:longitude":110.08631,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Raya",
+    "gn:country_code":"MY",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765040,
+    "gn:latitude":1.22568,
+    "gn:longitude":110.08631,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kampong Raya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tringgus",
+        "Kampong Rayah",
+        "Kampong Tringgus",
+        "Kampong Raya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765040
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"12eba90a45c0138d74a33c35a2737496",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209192451
+        }
+    ],
+    "wof:id":1209192451,
+    "wof:lastmodified":1537673937,
+    "wof:name":"Kampong Raya",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.08631,
+    1.22568,
+    110.08631,
+    1.22568
+],
+  "geometry": {"coordinates":[110.08631,1.22568],"type":"Point"}
+}

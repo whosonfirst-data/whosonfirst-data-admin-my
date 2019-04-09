@@ -1,0 +1,73 @@
+{
+  "id": 1360307417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.61322,2.66968,103.61322,2.66968",
+    "geom:latitude":2.66968,
+    "geom:longitude":103.61322,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Selancur",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764688,
+    "gn:latitude":2.66968,
+    "gn:longitude":103.61322,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Selancur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Selancur"
+    ],
+    "name:und_x_variant":[
+        "Kampong Selanchor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764688
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"346cda6df93933d515a21e21b11b861e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1360307417,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1360307417,
+    "wof:lastmodified":1537673921,
+    "wof:name":"Kampung Selancur",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.61322,
+    2.66968,
+    103.61322,
+    2.66968
+],
+  "geometry": {"coordinates":[103.61322,2.66968],"type":"Point"}
+}

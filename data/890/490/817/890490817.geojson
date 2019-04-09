@@ -1,0 +1,66 @@
+{
+  "id": 890490817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.181533,1.427388,112.181533,1.427388",
+    "geom:latitude":1.427388,
+    "geom:longitude":112.181533,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Division Sri Aman",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sarawak",
+    "qs:photos":162,
+    "qs:photos_1k":33,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":238,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013548,
+        "qs:id":225314
+    },
+    "wof:country":"MY",
+    "wof:created":1469054825,
+    "wof:geomhash":"dd46d50e9d65f183eeade334f28ab4e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":890490817,
+            "region_id":85672005
+        }
+    ],
+    "wof:id":890490817,
+    "wof:lastmodified":1474500893,
+    "wof:name":"Division Sri Aman",
+    "wof:parent_id":85672005,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.181533,
+    1.427388,
+    112.181533,
+    1.427388
+],
+  "geometry": {"coordinates":[112.181533,1.427388],"type":"Point"}
+}

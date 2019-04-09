@@ -1,0 +1,70 @@
+{
+  "id": 1276644057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.12621,2.6252,114.12621,2.6252",
+    "geom:latitude":2.6252,
+    "geom:longitude":114.12621,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kelian",
+    "gn:country_code":"MY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425462,
+    "gn:latitude":2.6252,
+    "gn:longitude":114.12621,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Kelian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kelian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425462
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e555fe299d00f1b13a9821550c7eac20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696387,
+            "locality_id":1276644057,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1276644057,
+    "wof:lastmodified":1537674454,
+    "wof:name":"Kelian",
+    "wof:parent_id":1108696387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.12621,
+    2.6252,
+    114.12621,
+    2.6252
+],
+  "geometry": {"coordinates":[114.12621,2.6252],"type":"Point"}
+}

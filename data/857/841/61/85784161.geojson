@@ -1,0 +1,113 @@
+{
+  "id": 85784161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4793695.351748,
+    "geom:bbox":"100.296466,5.433779,100.296466,5.433779",
+    "geom:latitude":5.433779,
+    "geom:longitude":100.296466,
+    "gn:latitude":5.32813,
+    "gn:longitude":100.48904,
+    "iso:country":"MY",
+    "lbl:latitude":5.433779,
+    "lbl:longitude":100.296466,
+    "mps:latitude":5.434596,
+    "mps:longitude":100.298394,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:msa_x_preferred":[
+        "Taman Selamat"
+    ],
+    "name:und_x_preferred":[
+        "Taman Selamat"
+    ],
+    "name:unk_x_variant":[
+        "Taman Selamat"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1735106,
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Taman Selamat",
+    "qs:local_max":5776,
+    "qs:local_sum":22216,
+    "qs:localhoods":25,
+    "qs:name":"Taman Selamat",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:name_adm2":"Timur Laut",
+    "qs:name_lau":"George Town",
+    "qs:name_local":"George Town",
+    "qs:photo_max":218,
+    "qs:photo_sum":932,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346304,
+    "qs:woe_adm2":56013581,
+    "qs:woe_lau":56013803,
+    "qs:woe_local":1141153,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023367,
+        1108696537,
+        85675127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819134,
+        "gp:id":56016899,
+        "qs:id":1117077,
+        "qs_pg:id":1117077
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"28eb177fbffa1bb547da38cf1710d45b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696537,
+            "locality_id":102023367,
+            "neighbourhood_id":85784161,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":85784161,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860584,
+    "wof:name":"Taman Selamat",
+    "wof:parent_id":102023367,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.296466,
+    5.433779,
+    100.296466,
+    5.433779
+],
+  "geometry": {"coordinates":[100.296466,5.433779],"type":"Point"}
+}

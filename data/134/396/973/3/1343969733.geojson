@@ -1,0 +1,67 @@
+{
+  "id": 1343969733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.00928,5.38815,102.00928,5.38815",
+    "geom:latitude":5.38815,
+    "geom:longitude":102.00928,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Batu Sawa",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770838,
+    "gn:latitude":5.38815,
+    "gn:longitude":102.00928,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kampung Batu Sawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770838
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f0843e0f1c850851256e9b74298e9270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489265,
+            "locality_id":1343969733,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1343969733,
+    "wof:lastmodified":1537005842,
+    "wof:name":"Kampung Batu Sawa",
+    "wof:parent_id":890489265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.00928,
+    5.38815,
+    102.00928,
+    5.38815
+],
+  "geometry": {"coordinates":[102.00928,5.38815],"type":"Point"}
+}

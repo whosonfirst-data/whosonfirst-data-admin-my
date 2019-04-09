@@ -1,0 +1,67 @@
+{
+  "id": 1360267433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.35,5.21667,116.35,5.21667",
+    "geom:latitude":5.21667,
+    "geom:longitude":116.35,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Jelayan",
+    "gn:country_code":"MY",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1772863,
+    "gn:latitude":5.21667,
+    "gn:longitude":116.35,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Jelayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1772863
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"33242cda6384c80ed895dec987da1f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1360267433,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1360267433,
+    "wof:lastmodified":1536682574,
+    "wof:name":"Jelayan",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.35,
+    5.21667,
+    116.35,
+    5.21667
+],
+  "geometry": {"coordinates":[116.34999999999999,5.21667],"type":"Point"}
+}

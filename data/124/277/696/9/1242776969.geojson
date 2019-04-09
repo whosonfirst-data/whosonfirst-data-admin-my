@@ -1,0 +1,73 @@
+{
+  "id": 1242776969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8328,2.5142,101.8328,2.5142",
+    "geom:latitude":2.5142,
+    "geom:longitude":101.8328,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Bagan Pinang",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771400,
+    "gn:latitude":2.5142,
+    "gn:longitude":101.8328,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bagan Pinang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bagan Pinang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bagan Pinang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771400
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0274f836b7ef5b9b9f204cc96b4ec36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490331,
+            "locality_id":1242776969,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1242776969,
+    "wof:lastmodified":1537674200,
+    "wof:name":"Kampung Bagan Pinang",
+    "wof:parent_id":890490331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8328,
+    2.5142,
+    101.8328,
+    2.5142
+],
+  "geometry": {"coordinates":[101.83280000000001,2.5142],"type":"Point"}
+}

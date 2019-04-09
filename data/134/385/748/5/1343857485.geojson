@@ -1,0 +1,70 @@
+{
+  "id": 1343857485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2456,2.7036,102.2456,2.7036",
+    "geom:latitude":2.7036,
+    "geom:longitude":102.2456,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Batang Pilah",
+    "gn:country_code":"MY",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797412,
+    "gn:latitude":2.7036,
+    "gn:longitude":102.2456,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Batang Pilah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batang Pilah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797412
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"66aa8e3a9b6ac96a91eccab704da9c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1343857485,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1343857485,
+    "wof:lastmodified":1537674418,
+    "wof:name":"Kampung Batang Pilah",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2456,
+    2.7036,
+    102.2456,
+    2.7036
+],
+  "geometry": {"coordinates":[102.2456,2.7036],"type":"Point"}
+}

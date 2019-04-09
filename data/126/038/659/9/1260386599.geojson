@@ -1,0 +1,70 @@
+{
+  "id": 1260386599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3946,3.4945,103.3946,3.4945",
+    "geom:latitude":3.4945,
+    "geom:longitude":103.3946,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pulau Simpan",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7685690,
+    "gn:latitude":3.4945,
+    "gn:longitude":103.3946,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pulau Simpan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pulau Simpan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685690
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e8faba583d799f516b8641a08f777997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1260386599,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1260386599,
+    "wof:lastmodified":1537674359,
+    "wof:name":"Pulau Simpan",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3946,
+    3.4945,
+    103.3946,
+    3.4945
+],
+  "geometry": {"coordinates":[103.3946,3.4945],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243067109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9441,2.7515,101.9441,2.7515",
+    "geom:latitude":2.7515,
+    "geom:longitude":101.9441,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Temiang",
+    "gn:country_code":"MY",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356561,
+    "gn:latitude":2.7515,
+    "gn:longitude":101.9441,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Temiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Temiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356561
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e1593f1717faf3fd7c7e268bab85223f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1243067109,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1243067109,
+    "wof:lastmodified":1537674453,
+    "wof:name":"Temiang",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9441,
+    2.7515,
+    101.9441,
+    2.7515
+],
+  "geometry": {"coordinates":[101.94410000000001,2.7515],"type":"Point"}
+}

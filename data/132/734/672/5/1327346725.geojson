@@ -1,0 +1,74 @@
+{
+  "id": 1327346725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.72904,5.44695,100.72904,5.44695",
+    "geom:latitude":5.44695,
+    "geom:longitude":100.72904,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Badang",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771428,
+    "gn:latitude":5.44695,
+    "gn:longitude":100.72904,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Badang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Badang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Badang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771428
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d96157ee861de42a42f2aac5345375b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696379,
+            "locality_id":1327346725,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1327346725,
+    "wof:lastmodified":1537674202,
+    "wof:name":"Kampung Badang",
+    "wof:parent_id":1108696379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.72904,
+    5.44695,
+    100.72904,
+    5.44695
+],
+  "geometry": {"coordinates":[100.72904,5.44695],"type":"Point"}
+}

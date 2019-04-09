@@ -1,0 +1,73 @@
+{
+  "id": 1310317915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.513,6.06248,100.513,6.06248",
+    "geom:latitude":6.06248,
+    "geom:longitude":100.513,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Chekong",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769763,
+    "gn:latitude":6.06248,
+    "gn:longitude":100.513,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Chekong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Chekong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Chikong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769763
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"90f8be269844896c320d25a7b8eeae04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489109,
+            "locality_id":1310317915,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310317915,
+    "wof:lastmodified":1537674133,
+    "wof:name":"Kampung Chekong",
+    "wof:parent_id":890489109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.513,
+    6.06248,
+    100.513,
+    6.06248
+],
+  "geometry": {"coordinates":[100.51300000000001,6.06248],"type":"Point"}
+}

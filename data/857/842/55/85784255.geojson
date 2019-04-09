@@ -1,0 +1,108 @@
+{
+  "id": 85784255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":15980241.965622,
+    "geom:bbox":"101.729481,2.991918,101.729481,2.991918",
+    "geom:latitude":2.991918,
+    "geom:longitude":101.729481,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":2.991918,
+    "lbl:longitude":101.729481,
+    "mps:latitude":2.984451,
+    "mps:longitude":101.729157,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:und_x_preferred":[
+        "Upm"
+    ],
+    "name:unk_x_variant":[
+        "Upm"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1744246,
+    "qs:gn_nam_loc":"seri kembangan",
+    "qs:gn_namadm1":"00",
+    "qs:local_max":217,
+    "qs:local_sum":426,
+    "qs:localhoods":5,
+    "qs:name":"Upm",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:name_adm2":"Hulu Langat",
+    "qs:name_lau":"Kajang",
+    "qs:name_local":"Seri Kembangan",
+    "qs:photo_max":17,
+    "qs:photo_sum":61,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346306,
+    "qs:woe_adm2":56013645,
+    "qs:woe_lau":56014377,
+    "qs:woe_local":1153971,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023401,
+        890490605,
+        85675163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017352,
+        "qs:id":897508,
+        "qs_pg:id":897508
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b0ce8e2ad892558a32afbc3038889856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490605,
+            "locality_id":102023401,
+            "neighbourhood_id":85784255,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":85784255,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860589,
+    "wof:name":"Upm",
+    "wof:parent_id":102023401,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.729481,
+    2.991918,
+    101.729481,
+    2.991918
+],
+  "geometry": {"coordinates":[101.72948100000001,2.991918],"type":"Point"}
+}

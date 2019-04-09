@@ -1,0 +1,84 @@
+{
+  "id": 890489179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1742,2.3606,102.1742,2.3606",
+    "geom:latitude":2.3606,
+    "geom:longitude":102.1742,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lendu"
+    ],
+    "name:eng_x_preferred":[
+        "Lendu"
+    ],
+    "name:may_x_preferred":[
+        "Lendu"
+    ],
+    "name:msa_x_preferred":[
+        "Lendu"
+    ],
+    "qs:name":"Lendu",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1757801,
+        "gp:id":1151923,
+        "qs:id":959577,
+        "wd:id":"Q6522355"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054747,
+    "wof:geomhash":"98c800b957dfa75e6e8e1d9e0a52dc88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":890489179,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":890489179,
+    "wof:lastmodified":1514490613,
+    "wof:name":"Lendu",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1742,
+    2.3606,
+    102.1742,
+    2.3606
+],
+  "geometry": {"coordinates":[102.1742,2.3606],"type":"Point"}
+}

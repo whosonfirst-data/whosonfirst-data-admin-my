@@ -1,0 +1,73 @@
+{
+  "id": 1343567449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3816,2.1464,102.3816,2.1464",
+    "geom:latitude":2.1464,
+    "geom:longitude":102.3816,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Bukit Serkam",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770111,
+    "gn:latitude":2.1464,
+    "gn:longitude":102.3816,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bukit Serkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Serkam"
+    ],
+    "name:und_x_variant":[
+        "Kampong Bukit Serkam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770111
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1bd02ebf9da753f66b0ad64e474a6a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489809,
+            "locality_id":1343567449,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1343567449,
+    "wof:lastmodified":1537674148,
+    "wof:name":"Kampung Bukit Serkam",
+    "wof:parent_id":890489809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3816,
+    2.1464,
+    102.3816,
+    2.1464
+],
+  "geometry": {"coordinates":[102.38160000000001,2.1464],"type":"Point"}
+}

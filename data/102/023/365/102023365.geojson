@@ -1,0 +1,100 @@
+{
+  "id": 102023365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":707636.07107,
+    "geom:bbox":"100.269470215,5.27083446125,100.27869952,5.28241760358",
+    "geom:latitude":5.277665,
+    "geom:longitude":100.274081,
+    "gn:latitude":5.2851,
+    "gn:longitude":100.29004,
+    "iso:country":"MY",
+    "lbl:latitude":5.279655,
+    "lbl:longitude":100.288636,
+    "mps:latitude":5.277143,
+    "mps:longitude":100.274921,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_landuse_aoi":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "name:chi_x_preferred":[
+        "\u5cc7\u90fd\u8305"
+    ],
+    "name:dut_x_preferred":[
+        "Batu Maung"
+    ],
+    "name:eng_x_preferred":[
+        "Batu Maung"
+    ],
+    "name:may_x_preferred":[
+        "Batu Maung"
+    ],
+    "qs:a0":"Malaysia",
+    "qs:a1":"*Pulau Pinang",
+    "qs:a1r":"*",
+    "qs:a2":"Barat Daya",
+    "qs:id":0,
+    "qs:la":"Mukim 12",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Batu Maung",
+    "qs:loc_alt":"Batu Maung",
+    "qs:loc_lc":"1735103",
+    "qs:pop":0,
+    "qs:source":"Squattroshapes",
+    "qs:type":"Suburb",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":427,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01e4d2fe-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":1735103,
+        "gp:id":1140841,
+        "wd:id":"Q4873318",
+        "wk:page":"Batu Maung"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"80867a6e6c95c50c65b9f0182d511c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "locality_id":102023365,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":102023365,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527636452,
+    "wof:name":"Batu Maung",
+    "wof:parent_id":890489155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.26947021500003,
+    5.27083446124928,
+    100.27869952028946,
+    5.28241760358
+],
+  "geometry": {"coordinates":[[[100.27496337900006,5.28241760358],[100.27496337900006,5.27968268026001],[100.27564711493015,5.27968268026001],[100.27700877843343,5.278315213315],[100.2777099610001,5.27789271125926],[100.27811171524509,5.27732785894047],[100.27869952028946,5.27083446124928],[100.27398988439548,5.27421279441504],[100.27290344200016,5.27603123641778],[100.2722167970001,5.27626109184075],[100.2722167970001,5.27694774487003],[100.27084350600005,5.27694774487003],[100.26947021500003,5.27694774487003],[100.26947021500003,5.27831521407003],[100.26947021500003,5.27968268026001],[100.26947021500003,5.28241760358],[100.27221679699998,5.28241760358],[100.27496337900006,5.28241760358]]],"type":"Polygon"}
+}

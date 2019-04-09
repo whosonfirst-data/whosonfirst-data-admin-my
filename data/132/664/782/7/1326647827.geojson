@@ -1,0 +1,70 @@
+{
+  "id": 1326647827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5804,2.0346,102.5804,2.0346",
+    "geom:latitude":2.0346,
+    "geom:longitude":102.5804,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Sentosa",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7855801,
+    "gn:latitude":2.0346,
+    "gn:longitude":102.5804,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Sentosa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Sentosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7855801
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"12c7e486126a2563a6df7aff936c8361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1326647827,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1326647827,
+    "wof:lastmodified":1537674435,
+    "wof:name":"Taman Sentosa",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5804,
+    2.0346,
+    102.5804,
+    2.0346
+],
+  "geometry": {"coordinates":[102.5804,2.0346],"type":"Point"}
+}

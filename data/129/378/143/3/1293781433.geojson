@@ -1,0 +1,70 @@
+{
+  "id": 1293781433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2342,3.5537,103.2342,3.5537",
+    "geom:latitude":3.5537,
+    "geom:longitude":103.2342,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Padang Cekur",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662223,
+    "gn:latitude":3.5537,
+    "gn:longitude":103.2342,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Padang Cekur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Padang Cekur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662223
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d093594abfc48911704fe6fe3061b04b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1293781433,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293781433,
+    "wof:lastmodified":1537674357,
+    "wof:name":"Kampung Padang Cekur",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2342,
+    3.5537,
+    103.2342,
+    3.5537
+],
+  "geometry": {"coordinates":[103.2342,3.5537],"type":"Point"}
+}

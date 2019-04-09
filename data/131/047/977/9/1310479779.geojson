@@ -1,0 +1,68 @@
+{
+  "id": 1310479779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.38333,1.55,110.38333,1.55",
+    "geom:latitude":1.55,
+    "geom:longitude":110.38333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Biawak",
+    "gn:country_code":"MY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1779057,
+    "gn:latitude":1.55,
+    "gn:longitude":110.38333,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Biawak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1779057,
+        "wk:page":"Biawak"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2aeeb532964cb97b802ea36af3695a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1310479779,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1310479779,
+    "wof:lastmodified":1537569890,
+    "wof:name":"Biawak",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.38333,
+    1.55,
+    110.38333,
+    1.55
+],
+  "geometry": {"coordinates":[110.38333,1.55],"type":"Point"}
+}

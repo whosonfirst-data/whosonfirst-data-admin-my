@@ -1,0 +1,71 @@
+{
+  "id": 1360174443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.52133,5.43157,100.52133,5.43157",
+    "geom:latitude":5.43157,
+    "geom:longitude":100.52133,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kampung Perenggan",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6859276,
+    "gn:latitude":5.43157,
+    "gn:longitude":100.52133,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Perenggan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Perenggan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6859276
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a801777e00c575695207c2ba9721d453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1360174443,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1360174443,
+    "wof:lastmodified":1537674267,
+    "wof:name":"Kampung Perenggan",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52133,
+    5.43157,
+    100.52133,
+    5.43157
+],
+  "geometry": {"coordinates":[100.52133000000001,5.43157],"type":"Point"}
+}

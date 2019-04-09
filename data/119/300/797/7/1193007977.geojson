@@ -1,0 +1,70 @@
+{
+  "id": 1193007977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38452,5.45589,100.38452,5.45589",
+    "geom:latitude":5.45589,
+    "geom:longitude":100.38452,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kampung Permatang Kuching",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6823610,
+    "gn:latitude":5.45589,
+    "gn:longitude":100.38452,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Permatang Kuching",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Permatang Kuching"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890490327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823610
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b52bb3620ada44e404c233112082ffc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490327,
+            "locality_id":1193007977,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1193007977,
+    "wof:lastmodified":1537674253,
+    "wof:name":"Kampung Permatang Kuching",
+    "wof:parent_id":890490327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38452,
+    5.45589,
+    100.38452,
+    5.45589
+],
+  "geometry": {"coordinates":[100.38451999999999,5.45589],"type":"Point"}
+}

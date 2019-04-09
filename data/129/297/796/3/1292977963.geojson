@@ -1,0 +1,70 @@
+{
+  "id": 1292977963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6315,3.4428,101.6315,3.4428",
+    "geom:latitude":3.4428,
+    "geom:longitude":101.6315,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kampung Batu Tiga Puloh",
+    "gn:country_code":"MY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795803,
+    "gn:latitude":3.4428,
+    "gn:longitude":101.6315,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Batu Tiga Puloh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batu Tiga Puloh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795803
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"d32546ab160aed7d4bf8b78bb7ff8055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":1292977963,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1292977963,
+    "wof:lastmodified":1537674394,
+    "wof:name":"Kampung Batu Tiga Puloh",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6315,
+    3.4428,
+    101.6315,
+    3.4428
+],
+  "geometry": {"coordinates":[101.6315,3.4428],"type":"Point"}
+}

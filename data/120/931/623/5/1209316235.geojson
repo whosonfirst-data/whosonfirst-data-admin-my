@@ -1,0 +1,64 @@
+{
+  "id": 1209316235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9954,5.1509,101.9954,5.1509",
+    "geom:latitude":5.1509,
+    "geom:longitude":101.9954,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Jerek Dalam",
+    "gn:country_code":"MY",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7469623,
+    "gn:latitude":5.1509,
+    "gn:longitude":101.9954,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Jerek Dalam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jerek Dalam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7469623
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0defd0fde3dbe3ba0235a92b3ef10e75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209316235
+        }
+    ],
+    "wof:id":1209316235,
+    "wof:lastmodified":1537674299,
+    "wof:name":"Kampung Jerek Dalam",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9954,
+    5.1509,
+    101.9954,
+    5.1509
+],
+  "geometry": {"coordinates":[101.9954,5.1509],"type":"Point"}
+}

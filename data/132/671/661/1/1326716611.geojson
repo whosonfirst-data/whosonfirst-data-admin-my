@@ -1,0 +1,73 @@
+{
+  "id": 1326716611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4106,4.6541,103.4106,4.6541",
+    "geom:latitude":4.6541,
+    "geom:longitude":103.4106,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Gong Paku",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769215,
+    "gn:latitude":4.6541,
+    "gn:longitude":103.4106,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Gong Paku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gong Paku"
+    ],
+    "name:und_x_variant":[
+        "Kampong Gong Paku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769215
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"de5f94fa4dbe5f595abb65c9ee82a680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490253,
+            "locality_id":1326716611,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1326716611,
+    "wof:lastmodified":1537674110,
+    "wof:name":"Kampung Gong Paku",
+    "wof:parent_id":890490253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4106,
+    4.6541,
+    103.4106,
+    4.6541
+],
+  "geometry": {"coordinates":[103.4106,4.6541],"type":"Point"}
+}

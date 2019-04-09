@@ -1,0 +1,70 @@
+{
+  "id": 1310128649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.946,2.6949,101.946,2.6949",
+    "geom:latitude":2.6949,
+    "geom:longitude":101.946,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Taman Loop",
+    "gn:country_code":"MY",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797212,
+    "gn:latitude":2.6949,
+    "gn:longitude":101.946,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Loop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Loop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797212
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9cdc5aef5921cc6109a376b36efc2cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1310128649,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1310128649,
+    "wof:lastmodified":1537674416,
+    "wof:name":"Taman Loop",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.946,
+    2.6949,
+    101.946,
+    2.6949
+],
+  "geometry": {"coordinates":[101.946,2.6949],"type":"Point"}
+}

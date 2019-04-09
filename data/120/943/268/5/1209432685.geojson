@@ -1,0 +1,64 @@
+{
+  "id": 1209432685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2781,1.7244,103.2781,1.7244",
+    "geom:latitude":1.7244,
+    "geom:longitude":103.2781,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Mansor",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7620440,
+    "gn:latitude":1.7244,
+    "gn:longitude":103.2781,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Mansor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Mansor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7620440
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"89454c9a4f85ee6449f293737b394d9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209432685
+        }
+    ],
+    "wof:id":1209432685,
+    "wof:lastmodified":1537674335,
+    "wof:name":"Kampung Parit Mansor",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2781,
+    1.7244,
+    103.2781,
+    1.7244
+],
+  "geometry": {"coordinates":[103.27809999999999,1.7244],"type":"Point"}
+}

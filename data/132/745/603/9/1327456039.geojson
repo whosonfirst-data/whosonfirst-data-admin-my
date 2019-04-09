@@ -1,0 +1,70 @@
+{
+  "id": 1327456039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5271,3.3395,102.5271,3.3395",
+    "geom:latitude":3.3395,
+    "geom:longitude":102.5271,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Tengah Batu Papan",
+    "gn:country_code":"MY",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7796095,
+    "gn:latitude":3.3395,
+    "gn:longitude":102.5271,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tengah Batu Papan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tengah Batu Papan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7796095
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2f736c98308ab6a864646e2223e03bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489815,
+            "locality_id":1327456039,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1327456039,
+    "wof:lastmodified":1537674400,
+    "wof:name":"Kampung Tengah Batu Papan",
+    "wof:parent_id":890489815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5271,
+    3.3395,
+    102.5271,
+    3.3395
+],
+  "geometry": {"coordinates":[102.5271,3.3395],"type":"Point"}
+}

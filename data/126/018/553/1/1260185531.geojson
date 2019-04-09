@@ -1,0 +1,75 @@
+{
+  "id": 1260185531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35829,5.61231,100.35829,5.61231",
+    "geom:latitude":5.61231,
+    "geom:longitude":100.35829,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Permatang Rengan",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765523,
+    "gn:latitude":5.61231,
+    "gn:longitude":100.35829,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Permatang Rengan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Permatang Rengan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Permatang Ringan",
+        "Kampong Permatang Rengan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765523
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"04abd5e0fd352b1b2352505ec591bba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "locality_id":1260185531,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1260185531,
+    "wof:lastmodified":1537673957,
+    "wof:name":"Kampung Permatang Rengan",
+    "wof:parent_id":890490355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35829,
+    5.61231,
+    100.35829,
+    5.61231
+],
+  "geometry": {"coordinates":[100.35829,5.61231],"type":"Point"}
+}

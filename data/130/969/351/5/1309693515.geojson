@@ -1,0 +1,67 @@
+{
+  "id": 1309693515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.46667,2.01667,111.46667,2.01667",
+    "geom:latitude":2.01667,
+    "geom:longitude":111.46667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Sadagar",
+    "gn:country_code":"MY",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747586,
+    "gn:latitude":2.01667,
+    "gn:longitude":111.46667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Sadagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747586
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7f923cf10480930eae17e333eda80f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488261,
+            "locality_id":1309693515,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1309693515,
+    "wof:lastmodified":1537089838,
+    "wof:name":"Rumah Sadagar",
+    "wof:parent_id":890488261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.46667,
+    2.01667,
+    111.46667,
+    2.01667
+],
+  "geometry": {"coordinates":[111.46666999999999,2.01667],"type":"Point"}
+}

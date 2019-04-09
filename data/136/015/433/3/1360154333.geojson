@@ -1,0 +1,72 @@
+{
+  "id": 1360154333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.36667,6.05,116.36667,6.05",
+    "geom:latitude":6.05,
+    "geom:longitude":116.36667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Lagadan Mehiggad",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767688,
+    "gn:latitude":6.05,
+    "gn:longitude":116.36667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampong Lagadan Mehiggad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lagadan Mehiggad",
+        "Kampong Lagadan Mehiggad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767688
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5e9affd4fe780f1c728bc18d3f020083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1360154333,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1360154333,
+    "wof:lastmodified":1537674048,
+    "wof:name":"Kampong Lagadan Mehiggad",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.36667,
+    6.05,
+    116.36667,
+    6.05
+],
+  "geometry": {"coordinates":[116.36667,6.05],"type":"Point"}
+}

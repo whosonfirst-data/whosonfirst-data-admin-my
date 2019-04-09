@@ -1,0 +1,67 @@
+{
+  "id": 1243572603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.45,2.83333,101.45,2.83333",
+    "geom:latitude":2.83333,
+    "geom:longitude":101.45,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chodoi",
+    "gn:country_code":"MY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1776858,
+    "gn:latitude":2.83333,
+    "gn:longitude":101.45,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Chodoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1776858
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"26bf56fa73e413ad9b9119483bf9bca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696427,
+            "locality_id":1243572603,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1243572603,
+    "wof:lastmodified":1536621693,
+    "wof:name":"Chodoi",
+    "wof:parent_id":1108696427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.45,
+    2.83333,
+    101.45,
+    2.83333
+],
+  "geometry": {"coordinates":[101.45,2.83333],"type":"Point"}
+}

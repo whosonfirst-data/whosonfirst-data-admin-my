@@ -1,0 +1,74 @@
+{
+  "id": 1310471477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.5698,5.5747,115.5698,5.5747",
+    "geom:latitude":5.5747,
+    "geom:longitude":115.5698,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tambilik",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763598,
+    "gn:latitude":5.5747,
+    "gn:longitude":115.5698,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tambilik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tambilik"
+    ],
+    "name:und_x_variant":[
+        "Tembilik",
+        "Kampong Tambilik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        890490799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763598
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3ff49c1f6b41a561eb4f30a8b881b55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490799,
+            "locality_id":1310471477,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1310471477,
+    "wof:lastmodified":1537673868,
+    "wof:name":"Kampung Tambilik",
+    "wof:parent_id":890490799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.5698,
+    5.5747,
+    115.5698,
+    5.5747
+],
+  "geometry": {"coordinates":[115.5698,5.5747],"type":"Point"}
+}

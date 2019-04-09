@@ -1,0 +1,67 @@
+{
+  "id": 1226755177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.35,5.85,102.35,5.85",
+    "geom:latitude":5.85,
+    "geom:longitude":102.35,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Tok Yakob",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762494,
+    "gn:latitude":5.85,
+    "gn:longitude":102.35,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Tok Yakob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762494
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"00da8482ba6af2bb6eed6249b8386d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488991,
+            "locality_id":1226755177,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1226755177,
+    "wof:lastmodified":1536702155,
+    "wof:name":"Kampong Tok Yakob",
+    "wof:parent_id":890488991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.35,
+    5.85,
+    102.35,
+    5.85
+],
+  "geometry": {"coordinates":[102.34999999999999,5.85],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226224247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.36667,5.73333,116.36667,5.73333",
+    "geom:latitude":5.73333,
+    "geom:longitude":116.36667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sunsuron",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733465,
+    "gn:latitude":5.73333,
+    "gn:longitude":116.36667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sunsuron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sensuran",
+        "Sinsuran",
+        "Sensuron",
+        "Sinsuron",
+        "Sinsurun",
+        "Sunsuron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733465
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"217b4f826eb2613a843741ff27ea0c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696525,
+            "locality_id":1226224247,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226224247,
+    "wof:lastmodified":1537673681,
+    "wof:name":"Sunsuron",
+    "wof:parent_id":1108696525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.36667,
+    5.73333,
+    116.36667,
+    5.73333
+],
+  "geometry": {"coordinates":[116.36667,5.73333],"type":"Point"}
+}

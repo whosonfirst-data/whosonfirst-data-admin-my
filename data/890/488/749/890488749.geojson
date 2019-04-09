@@ -1,0 +1,90 @@
+{
+  "id": 890488749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9997,4.6916,101.9997,4.6916",
+    "geom:latitude":4.6916,
+    "geom:longitude":101.9997,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Merapoh"
+    ],
+    "name:eng_x_preferred":[
+        "Merapoh"
+    ],
+    "name:epo_x_preferred":[
+        "Merapoh"
+    ],
+    "name:may_x_preferred":[
+        "Merapoh"
+    ],
+    "name:msa_x_preferred":[
+        "Merapuh"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Merapoh Lama"
+    ],
+    "qs:name":"Merapuh",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734675,
+        "gp:id":1152207,
+        "qs:id":321575,
+        "wd:id":"Q6817944"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054731,
+    "wof:geomhash":"63ff2e35ac348d75f0a71de33316aab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":890488749,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":890488749,
+    "wof:lastmodified":1514490625,
+    "wof:name":"Merapuh",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9997,
+    4.6916,
+    101.9997,
+    4.6916
+],
+  "geometry": {"coordinates":[101.9997,4.6916],"type":"Point"}
+}

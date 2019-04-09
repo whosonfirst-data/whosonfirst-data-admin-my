@@ -1,0 +1,74 @@
+{
+  "id": 1309681943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.11047,5.99661,116.11047,5.99661",
+    "geom:latitude":5.99661,
+    "geom:longitude":116.11047,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Likas",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733431,
+    "gn:latitude":5.99661,
+    "gn:longitude":116.11047,
+    "gn:modification_date":"2015-04-28",
+    "gn:name":"Kampung Likas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Likas"
+    ],
+    "name:und_x_variant":[
+        "Kampong Likas",
+        "Likas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733431
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0692671e99eaa58d674cd17569fa7030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1309681943,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1309681943,
+    "wof:lastmodified":1537673679,
+    "wof:name":"Kampung Likas",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.11047,
+    5.99661,
+    116.11047,
+    5.99661
+],
+  "geometry": {"coordinates":[116.11047000000001,5.99661],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309984393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.1,1.2,112.1,1.2",
+    "geom:latitude":1.2,
+    "geom:longitude":112.1,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nanga Embawang",
+    "gn:country_code":"MY",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1753907,
+    "gn:latitude":1.2,
+    "gn:longitude":112.1,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Nanga Embawang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1753907
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c9b5bbe9641761211faad21a823bbede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696451,
+            "locality_id":1309984393,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1309984393,
+    "wof:lastmodified":1536673757,
+    "wof:name":"Nanga Embawang",
+    "wof:parent_id":1108696451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.1,
+    1.2,
+    112.1,
+    1.2
+],
+  "geometry": {"coordinates":[112.09999999999999,1.2],"type":"Point"}
+}

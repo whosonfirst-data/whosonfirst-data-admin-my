@@ -1,0 +1,67 @@
+{
+  "id": 890490811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.901611,3.464074,102.901611,3.464074",
+    "geom:latitude":3.464074,
+    "geom:longitude":102.901611,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Penyur",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":89,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56013660,
+        "qs:id":1138908
+    },
+    "wof:country":"MY",
+    "wof:created":1469054825,
+    "wof:geomhash":"04c20dcf0129872e655265f439ea07be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "localadmin_id":890490811,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":890490811,
+    "wof:lastmodified":1500013430,
+    "wof:name":"Penyur",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.901611,
+    3.464074,
+    102.901611,
+    3.464074
+],
+  "geometry": {"coordinates":[102.901611,3.464074],"type":"Point"}
+}

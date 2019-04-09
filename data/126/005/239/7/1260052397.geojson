@@ -1,0 +1,61 @@
+{
+  "id": 1260052397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.28333,7.28333,117.28333,7.28333",
+    "geom:latitude":7.28333,
+    "geom:longitude":117.28333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Talutoh",
+    "gn:country_code":"MY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1742016,
+    "gn:latitude":7.28333,
+    "gn:longitude":117.28333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Talutoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1742016
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"34fdb6b96ab1c7ab5840467e5b3b47b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260052397,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260052397,
+    "wof:lastmodified":1537031541,
+    "wof:name":"Talutoh",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.28333,
+    7.28333,
+    117.28333,
+    7.28333
+],
+  "geometry": {"coordinates":[117.28333000000001,7.28333],"type":"Point"}
+}

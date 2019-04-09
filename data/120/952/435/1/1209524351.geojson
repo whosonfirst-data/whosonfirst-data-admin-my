@@ -1,0 +1,68 @@
+{
+  "id": 1209524351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.69639,5.77984,100.69639,5.77984",
+    "geom:latitude":5.77984,
+    "geom:longitude":100.69639,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Banggol Tok Dong",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1771089,
+    "gn:latitude":5.77984,
+    "gn:longitude":100.69639,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Banggol Tok Dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Banggol Tok Dong"
+    ],
+    "name:und_x_variant":[
+        "Kampong Banggor To Dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771089
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8b45fcc6604a4bddbd1e921f472eb988",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209524351
+        }
+    ],
+    "wof:id":1209524351,
+    "wof:lastmodified":1537674188,
+    "wof:name":"Kampung Banggol Tok Dong",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.69639,
+    5.77984,
+    100.69639,
+    5.77984
+],
+  "geometry": {"coordinates":[100.69638999999999,5.77984],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209611013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38253,5.43253,100.38253,5.43253",
+    "geom:latitude":5.43253,
+    "geom:longitude":100.38253,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kampung Buloh",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6823629,
+    "gn:latitude":5.43253,
+    "gn:longitude":100.38253,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Buloh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Buloh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823629
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"597f682c33e3cda0950034f44fe19f12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209611013
+        }
+    ],
+    "wof:id":1209611013,
+    "wof:lastmodified":1537674253,
+    "wof:name":"Kampung Buloh",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38253,
+    5.43253,
+    100.38253,
+    5.43253
+],
+  "geometry": {"coordinates":[100.38253,5.43253],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343559045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.08333,3.48333,102.08333,3.48333",
+    "geom:latitude":3.48333,
+    "geom:longitude":102.08333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampong Poh",
+    "gn:country_code":"MY",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765388,
+    "gn:latitude":3.48333,
+    "gn:longitude":102.08333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Poh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765388
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"906c58392d1fc6b6490a69ca4b7ae63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696389,
+            "locality_id":1343559045,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1343559045,
+    "wof:lastmodified":1536600806,
+    "wof:name":"Kampong Poh",
+    "wof:parent_id":1108696389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.08333,
+    3.48333,
+    102.08333,
+    3.48333
+],
+  "geometry": {"coordinates":[102.08333,3.48333],"type":"Point"}
+}

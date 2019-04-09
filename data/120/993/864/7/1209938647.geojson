@@ -1,0 +1,70 @@
+{
+  "id": 1209938647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9201,4.0363,101.9201,4.0363",
+    "geom:latitude":4.0363,
+    "geom:longitude":101.9201,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Jenut",
+    "gn:country_code":"MY",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638936,
+    "gn:latitude":4.0363,
+    "gn:longitude":101.9201,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Jenut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jenut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638936
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f9c9f8847c113baf1b72c5b10d419950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1209938647,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1209938647,
+    "wof:lastmodified":1537674346,
+    "wof:name":"Kampung Jenut",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9201,
+    4.0363,
+    101.9201,
+    4.0363
+],
+  "geometry": {"coordinates":[101.92010000000001,4.0363],"type":"Point"}
+}

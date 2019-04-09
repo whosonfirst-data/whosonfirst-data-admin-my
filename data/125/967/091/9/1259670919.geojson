@@ -1,0 +1,67 @@
+{
+  "id": 1259670919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.19142,3.44353,101.19142,3.44353",
+    "geom:latitude":3.44353,
+    "geom:longitude":101.19142,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"rumah mahrol",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692753,
+    "gn:latitude":3.44353,
+    "gn:longitude":101.19142,
+    "gn:modification_date":"2008-05-28",
+    "gn:name":"rumah mahrol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890488801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692753
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"086a0f8406999b83c55f17b72985090c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488801,
+            "locality_id":1259670919,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1259670919,
+    "wof:lastmodified":1537081975,
+    "wof:name":"rumah mahrol",
+    "wof:parent_id":890488801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.19142,
+    3.44353,
+    101.19142,
+    3.44353
+],
+  "geometry": {"coordinates":[101.19141999999999,3.44353],"type":"Point"}
+}

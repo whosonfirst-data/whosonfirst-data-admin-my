@@ -1,0 +1,73 @@
+{
+  "id": 1276253007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1564,2.2386,102.1564,2.2386",
+    "geom:latitude":2.2386,
+    "geom:longitude":102.1564,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kampung Gelam",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769401,
+    "gn:latitude":2.2386,
+    "gn:longitude":102.1564,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Gelam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gelam"
+    ],
+    "name:und_x_variant":[
+        "Kampong Gelam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769401
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"93c1049420880f11816db6b6f1e28bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489715,
+            "locality_id":1276253007,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1276253007,
+    "wof:lastmodified":1537674117,
+    "wof:name":"Kampung Gelam",
+    "wof:parent_id":890489715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1564,
+    2.2386,
+    102.1564,
+    2.2386
+],
+  "geometry": {"coordinates":[102.1564,2.2386],"type":"Point"}
+}

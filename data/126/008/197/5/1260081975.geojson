@@ -1,0 +1,73 @@
+{
+  "id": 1260081975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0157,6.0201,102.0157,6.0201",
+    "geom:latitude":6.0201,
+    "geom:longitude":102.0157,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Kebakat",
+    "gn:country_code":"MY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768541,
+    "gn:latitude":6.0201,
+    "gn:longitude":102.0157,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kebakat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kebakat"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kebakat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768541
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"99570ad6686035f5bc87dd3b36f81eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1260081975,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1260081975,
+    "wof:lastmodified":1537674082,
+    "wof:name":"Kampung Kebakat",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0157,
+    6.0201,
+    102.0157,
+    6.0201
+],
+  "geometry": {"coordinates":[102.0157,6.0201],"type":"Point"}
+}

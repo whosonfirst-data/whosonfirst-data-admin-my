@@ -1,0 +1,68 @@
+{
+  "id": 1226014405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.8259,4.3316,117.8259,4.3316",
+    "geom:latitude":4.3316,
+    "geom:longitude":117.8259,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampong Burns",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770002,
+    "gn:latitude":4.3316,
+    "gn:longitude":117.8259,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Kampong Burns",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770002
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9ac517061c29be789148857072d66207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696533,
+            "locality_id":1226014405,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1226014405,
+    "wof:lastmodified":1536770988,
+    "wof:name":"Kampong Burns",
+    "wof:parent_id":1108696533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.8259,
+    4.3316,
+    117.8259,
+    4.3316
+],
+  "geometry": {"coordinates":[117.8259,4.3316],"type":"Point"}
+}

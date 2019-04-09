@@ -1,0 +1,67 @@
+{
+  "id": 890489747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.15805,2.81903,104.15805,2.81903",
+    "geom:latitude":2.81903,
+    "geom:longitude":104.15805,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Pulau Tioman",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos":635,
+    "qs:photos_1k":129,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":635,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56036180,
+        "qs:id":1092120
+    },
+    "wof:country":"MY",
+    "wof:created":1469054769,
+    "wof:geomhash":"f95d592e46d13297083f628d776f3489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":890489747,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":890489747,
+    "wof:lastmodified":1500013439,
+    "wof:name":"Pulau Tioman",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.15805,
+    2.81903,
+    104.15805,
+    2.81903
+],
+  "geometry": {"coordinates":[104.15805,2.81903],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193269853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9126,3.9925,100.9126,3.9925",
+    "geom:latitude":3.9925,
+    "geom:longitude":100.9126,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampung Sungai Rubana",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763822,
+    "gn:latitude":3.9925,
+    "gn:longitude":100.9126,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Rubana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Rubana"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungei Rebana",
+        "Kampong Sungai Rubana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890490073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763822
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a3ec6af54c9fcedb5ea9b67a96d16b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490073,
+            "locality_id":1193269853,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1193269853,
+    "wof:lastmodified":1537673879,
+    "wof:name":"Kampung Sungai Rubana",
+    "wof:parent_id":890490073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9126,
+    3.9925,
+    100.9126,
+    3.9925
+],
+  "geometry": {"coordinates":[100.9126,3.9925],"type":"Point"}
+}

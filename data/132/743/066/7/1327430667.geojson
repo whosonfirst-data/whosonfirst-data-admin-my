@@ -1,0 +1,73 @@
+{
+  "id": 1327430667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1304,2.4731,102.1304,2.4731",
+    "geom:latitude":2.4731,
+    "geom:longitude":102.1304,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Sungai Serai",
+    "gn:country_code":"MY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763802,
+    "gn:latitude":2.4731,
+    "gn:longitude":102.1304,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sungai Serai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Serai"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sungai Serai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763802
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"89f66e53e23e3ca9980f6d9a8c884a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1327430667,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1327430667,
+    "wof:lastmodified":1537673878,
+    "wof:name":"Kampung Sungai Serai",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1304,
+    2.4731,
+    102.1304,
+    2.4731
+],
+  "geometry": {"coordinates":[102.13039999999999,2.4731],"type":"Point"}
+}

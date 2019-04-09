@@ -1,0 +1,70 @@
+{
+  "id": 1276967405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.43127,1.24593,110.43127,1.24593",
+    "geom:latitude":1.24593,
+    "geom:longitude":110.43127,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Payang",
+    "gn:country_code":"MY",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765885,
+    "gn:latitude":1.24593,
+    "gn:longitude":110.43127,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kampong Payang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampung Plaman Payang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765885
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1e2eecb2b520bb879f1e1c88861ce13f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1276967405,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1276967405,
+    "wof:lastmodified":1537673973,
+    "wof:name":"Kampong Payang",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.43127,
+    1.24593,
+    110.43127,
+    1.24593
+],
+  "geometry": {"coordinates":[110.43127,1.24593],"type":"Point"}
+}

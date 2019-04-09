@@ -1,0 +1,70 @@
+{
+  "id": 1293101923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.35458,6.18128,100.35458,6.18128",
+    "geom:latitude":6.18128,
+    "geom:longitude":100.35458,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Tanjung Bedil",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6807285,
+    "gn:latitude":6.18128,
+    "gn:longitude":100.35458,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Tanjung Bedil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Bedil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6807285
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"14cddef1943b6cd4ebd5796a00f74655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1293101923,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1293101923,
+    "wof:lastmodified":1537674241,
+    "wof:name":"Kampung Tanjung Bedil",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.35458,
+    6.18128,
+    100.35458,
+    6.18128
+],
+  "geometry": {"coordinates":[100.35458,6.18128],"type":"Point"}
+}

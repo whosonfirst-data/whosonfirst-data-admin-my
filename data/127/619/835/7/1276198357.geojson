@@ -1,0 +1,70 @@
+{
+  "id": 1276198357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.198,5.2808,116.198,5.2808",
+    "geom:latitude":5.2808,
+    "geom:longitude":116.198,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Rancangan Biah",
+    "gn:country_code":"MY",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7602918,
+    "gn:latitude":5.2808,
+    "gn:longitude":116.198,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Rancangan Biah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Rancangan Biah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7602918
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"072c8215859aa4b0b0aaa178872a8363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1276198357,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1276198357,
+    "wof:lastmodified":1537674323,
+    "wof:name":"Kampung Rancangan Biah",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.198,
+    5.2808,
+    116.198,
+    5.2808
+],
+  "geometry": {"coordinates":[116.19799999999999,5.2808],"type":"Point"}
+}

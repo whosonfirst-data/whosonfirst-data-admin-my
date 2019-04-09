@@ -1,0 +1,67 @@
+{
+  "id": 890488435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.422527,1.4078465,103.422527,1.4078465",
+    "geom:latitude":1.407847,
+    "geom:longitude":103.422527,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Rimba Terjun",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014364,
+        "qs:id":287350
+    },
+    "wof:country":"MY",
+    "wof:created":1469054719,
+    "wof:geomhash":"0082dd639d614259e19b967d731d328f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "localadmin_id":890488435,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890488435,
+    "wof:lastmodified":1500013337,
+    "wof:name":"Rimba Terjun",
+    "wof:parent_id":890491001,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.422527,
+    1.4078465,
+    103.422527,
+    1.4078465
+],
+  "geometry": {"coordinates":[103.422527,1.4078465],"type":"Point"}
+}

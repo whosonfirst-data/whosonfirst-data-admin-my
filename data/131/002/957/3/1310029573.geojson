@@ -1,0 +1,70 @@
+{
+  "id": 1310029573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0832,2.3312,102.0832,2.3312",
+    "geom:latitude":2.3312,
+    "geom:longitude":102.0832,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Pengkalan Balak",
+    "gn:country_code":"MY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536742,
+    "gn:latitude":2.3312,
+    "gn:longitude":102.0832,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Pengkalan Balak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pengkalan Balak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675151,
+        890489107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536742
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b9a0355cf609283dd60b75a25c01813a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489107,
+            "locality_id":1310029573,
+            "region_id":85675151
+        }
+    ],
+    "wof:id":1310029573,
+    "wof:lastmodified":1537674465,
+    "wof:name":"Kampung Pengkalan Balak",
+    "wof:parent_id":890489107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0832,
+    2.3312,
+    102.0832,
+    2.3312
+],
+  "geometry": {"coordinates":[102.08320000000001,2.3312],"type":"Point"}
+}

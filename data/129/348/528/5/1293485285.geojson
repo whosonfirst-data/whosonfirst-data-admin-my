@@ -1,0 +1,70 @@
+{
+  "id": 1293485285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.708,4.2486,101.708,4.2486",
+    "geom:latitude":4.2486,
+    "geom:longitude":101.708,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pos Betau",
+    "gn:country_code":"MY",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7635660,
+    "gn:latitude":4.2486,
+    "gn:longitude":101.708,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pos Betau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pos Betau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7635660
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7f41f413807d5ae671b09c4de1f4d562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1293485285,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1293485285,
+    "wof:lastmodified":1537674343,
+    "wof:name":"Pos Betau",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.708,
+    4.2486,
+    101.708,
+    4.2486
+],
+  "geometry": {"coordinates":[101.708,4.2486],"type":"Point"}
+}

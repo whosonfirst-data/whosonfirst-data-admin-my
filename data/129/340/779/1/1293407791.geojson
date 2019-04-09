@@ -1,0 +1,70 @@
+{
+  "id": 1293407791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.748,2.6284,103.748,2.6284",
+    "geom:latitude":2.6284,
+    "geom:longitude":103.748,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Penyabong",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7699339,
+    "gn:latitude":2.6284,
+    "gn:longitude":103.748,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Penyabong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Penyabong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7699339
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"555cd3490437332b98da87235697cdcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488715,
+            "locality_id":1293407791,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1293407791,
+    "wof:lastmodified":1537674373,
+    "wof:name":"Kampung Penyabong",
+    "wof:parent_id":890488715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.748,
+    2.6284,
+    103.748,
+    2.6284
+],
+  "geometry": {"coordinates":[103.748,2.6284],"type":"Point"}
+}

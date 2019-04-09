@@ -1,0 +1,64 @@
+{
+  "id": 1209186689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.8963,6.51,116.8963,6.51",
+    "geom:latitude":6.51,
+    "geom:longitude":116.8963,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Pugih",
+    "gn:country_code":"MY",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7458556,
+    "gn:latitude":6.51,
+    "gn:longitude":116.8963,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pugih",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pugih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7458556
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c0c11775287d99e3ca563f3466bebc60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209186689
+        }
+    ],
+    "wof:id":1209186689,
+    "wof:lastmodified":1537674289,
+    "wof:name":"Pugih",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.8963,
+    6.51,
+    116.8963,
+    6.51
+],
+  "geometry": {"coordinates":[116.8963,6.51],"type":"Point"}
+}

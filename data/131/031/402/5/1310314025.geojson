@@ -1,0 +1,67 @@
+{
+  "id": 1310314025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38333,6.25,100.38333,6.25",
+    "geom:latitude":6.25,
+    "geom:longitude":100.38333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Changkat",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769964,
+    "gn:latitude":6.25,
+    "gn:longitude":100.38333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Changkat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890488625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769964
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9edc5149e362b6dad9369c5e7899855b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488625,
+            "locality_id":1310314025,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310314025,
+    "wof:lastmodified":1536695739,
+    "wof:name":"Kampong Changkat",
+    "wof:parent_id":890488625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38333,
+    6.25,
+    100.38333,
+    6.25
+],
+  "geometry": {"coordinates":[100.38333,6.25],"type":"Point"}
+}

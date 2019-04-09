@@ -1,0 +1,70 @@
+{
+  "id": 1242589291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.32391,5.85928,102.32391,5.85928",
+    "geom:latitude":5.85928,
+    "geom:longitude":102.32391,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Permatang Gading",
+    "gn:country_code":"MY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068000,
+    "gn:latitude":5.85928,
+    "gn:longitude":102.32391,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Permatang Gading",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Permatang Gading"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890488991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068000
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ff90c064fbdb845007d1207d2d263fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488991,
+            "locality_id":1242589291,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1242589291,
+    "wof:lastmodified":1537674275,
+    "wof:name":"Kampung Permatang Gading",
+    "wof:parent_id":890488991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.32391,
+    5.85928,
+    102.32391,
+    5.85928
+],
+  "geometry": {"coordinates":[102.32391,5.85928],"type":"Point"}
+}

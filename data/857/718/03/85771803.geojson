@@ -1,0 +1,122 @@
+{
+  "id": 85771803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000519,
+    "geom:area_square_m":6414158.396387,
+    "geom:bbox":"101.694167896,3.03355484203,101.724172363,3.06047272643",
+    "geom:latitude":3.046399,
+    "geom:longitude":101.708205,
+    "gn:latitude":3.05,
+    "gn:longitude":101.7,
+    "iso:country":"MY",
+    "lbl:latitude":3.050499,
+    "lbl:longitude":101.707722,
+    "mps:latitude":3.047556,
+    "mps:longitude":101.706992,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Sungai Besi"
+    ],
+    "name:eng_x_variant":[
+        "Sungei Besi",
+        "Sungi Besi"
+    ],
+    "name:msa_x_preferred":[
+        "Sungai Besi"
+    ],
+    "name:unk_x_variant":[
+        "Sungei Besi",
+        "Sungai Besi"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1735161,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Sungai Besi",
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Sungai Besi",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Petaling",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":153,
+    "qs:photo_sum":491,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56013873,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675163,
+        102191569,
+        85632739,
+        102023799,
+        890490605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1735169,
+        "gp:id":1154132,
+        "qs:id":896875,
+        "wd:id":"Q7640126",
+        "wk:page":"Sungai Besi"
+    },
+    "wof:concordances_alt":{
+        "gp:id":56037146,
+        "qs:id":385116
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"43623847dd2534c9e973c732d15c9558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490605,
+            "locality_id":102023799,
+            "neighbourhood_id":85771803,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":85771803,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379384,
+    "wof:name":"Sungai Besi",
+    "wof:parent_id":102023799,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890488905
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.69416789585591,
+    3.0335548420276,
+    101.72417236300026,
+    3.06047272642834
+],
+  "geometry": {"coordinates":[[[101.70627349794785,3.05789780228351],[101.70867919900019,3.05741597599406],[101.7093707283218,3.05755447907471],[101.71142578060528,3.05549650166721],[101.71348084679795,3.05343850927781],[101.72264374509245,3.05527369365001],[101.72341115832523,3.05383796447357],[101.72398021580426,3.05196203337023],[101.72417236300026,3.05001113015001],[101.72398021580426,3.04806022692989],[101.72374002735955,3.04726843174029],[101.72398021580426,3.04647663655017],[101.72417236300026,3.04452573333005],[101.72398032688767,3.0425759579592],[101.71691894500009,3.0390402946377],[101.71142578100023,3.0390402946377],[101.71025364402556,3.03962718850285],[101.70935715885997,3.03972693829084],[101.70593261855947,3.03629758593088],[101.70319372705461,3.0335548420276],[101.69483379707185,3.0335548420276],[101.69420355539665,3.03473394126966],[101.69416789585591,3.03472312406618],[101.69494628899997,3.03628210678581],[101.69494628900009,3.04178302793001],[101.69494628900009,3.04589514286461],[101.69494628900009,3.04726843873009],[101.69631764481193,3.04726843873009],[101.69837854672983,3.0493322562006],[101.69808607371124,3.05138247411249],[101.69867295779034,3.05275381457021],[101.69832759884019,3.05517477198164],[101.7002641247305,3.05840691411842],[101.70370224092812,3.06047272642834],[101.70593261555223,3.0582391732106],[101.70627349794785,3.05789780228351]]],"type":"Polygon"}
+}

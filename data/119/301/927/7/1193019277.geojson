@@ -1,0 +1,67 @@
+{
+  "id": 1193019277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.53333,6.03333,100.53333,6.03333",
+    "geom:latitude":6.03333,
+    "geom:longitude":100.53333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Bukit Lanjut",
+    "gn:country_code":"MY",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770200,
+    "gn:latitude":6.03333,
+    "gn:longitude":100.53333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Bukit Lanjut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890489109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770200
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"00db1e81bad9347fb59922992df6d7ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489109,
+            "locality_id":1193019277,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1193019277,
+    "wof:lastmodified":1536375022,
+    "wof:name":"Kampong Bukit Lanjut",
+    "wof:parent_id":890489109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.53333,
+    6.03333,
+    100.53333,
+    6.03333
+],
+  "geometry": {"coordinates":[100.53333000000001,6.03333],"type":"Point"}
+}

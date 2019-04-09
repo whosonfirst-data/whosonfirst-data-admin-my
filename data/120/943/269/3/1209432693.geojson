@@ -1,0 +1,64 @@
+{
+  "id": 1209432693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8059,1.4943,103.8059,1.4943",
+    "geom:latitude":1.4943,
+    "geom:longitude":103.8059,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Pelentong",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7619712,
+    "gn:latitude":1.4943,
+    "gn:longitude":103.8059,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pelentong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pelentong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7619712
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"429b6359519b42d1a260e0626cc66391",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209432693
+        }
+    ],
+    "wof:id":1209432693,
+    "wof:lastmodified":1537674334,
+    "wof:name":"Kampung Pelentong",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8059,
+    1.4943,
+    103.8059,
+    1.4943
+],
+  "geometry": {"coordinates":[103.80589999999999,1.4943],"type":"Point"}
+}

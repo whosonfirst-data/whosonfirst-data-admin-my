@@ -1,0 +1,70 @@
+{
+  "id": 1226223295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.25893,1.5222,111.25893,1.5222",
+    "geom:latitude":1.5222,
+    "geom:longitude":111.25893,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Angkaras",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8431168,
+    "gn:latitude":1.5222,
+    "gn:longitude":111.25893,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Angkaras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Angkaras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8431168
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cb897e9db6b51ae9d4fe929ea3a275ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696391,
+            "locality_id":1226223295,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1226223295,
+    "wof:lastmodified":1537674455,
+    "wof:name":"Angkaras",
+    "wof:parent_id":1108696391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.25893,
+    1.5222,
+    111.25893,
+    1.5222
+],
+  "geometry": {"coordinates":[111.25893000000001,1.5222],"type":"Point"}
+}

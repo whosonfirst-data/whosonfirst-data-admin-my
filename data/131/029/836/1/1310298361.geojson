@@ -1,0 +1,70 @@
+{
+  "id": 1310298361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2451,4.0636,102.2451,4.0636",
+    "geom:latitude":4.0636,
+    "geom:longitude":102.2451,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Serunai",
+    "gn:country_code":"MY",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7649403,
+    "gn:latitude":4.0636,
+    "gn:longitude":102.2451,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Serunai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Serunai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7649403
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cc84de32e54ec8df9e11245b9776b740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1310298361,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1310298361,
+    "wof:lastmodified":1537674349,
+    "wof:name":"Kampung Serunai",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2451,
+    4.0636,
+    102.2451,
+    4.0636
+],
+  "geometry": {"coordinates":[102.24509999999999,4.0636],"type":"Point"}
+}

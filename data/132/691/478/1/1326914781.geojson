@@ -1,0 +1,67 @@
+{
+  "id": 1326914781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.5,5.55,100.5,5.55",
+    "geom:latitude":5.55,
+    "geom:longitude":100.5,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kampong Petaseh Langsat",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765468,
+    "gn:latitude":5.55,
+    "gn:longitude":100.5,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Petaseh Langsat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890490327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765468
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4f457974ede4201cf60d24c3bb4665f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490327,
+            "locality_id":1326914781,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1326914781,
+    "wof:lastmodified":1536930704,
+    "wof:name":"Kampong Petaseh Langsat",
+    "wof:parent_id":890490327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.5,
+    5.55,
+    100.5,
+    5.55
+],
+  "geometry": {"coordinates":[100.5,5.55],"type":"Point"}
+}

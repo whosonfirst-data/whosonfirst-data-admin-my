@@ -1,0 +1,70 @@
+{
+  "id": 1276896319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.57352,2.71151,103.57352,2.71151",
+    "geom:latitude":2.71151,
+    "geom:longitude":103.57352,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Janglau",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536736,
+    "gn:latitude":2.71151,
+    "gn:longitude":103.57352,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kampung Janglau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Janglau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536736
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"72e22e302ccb2e21602a5c7acf26a9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696497,
+            "locality_id":1276896319,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276896319,
+    "wof:lastmodified":1537674465,
+    "wof:name":"Kampung Janglau",
+    "wof:parent_id":1108696497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.57352,
+    2.71151,
+    103.57352,
+    2.71151
+],
+  "geometry": {"coordinates":[103.57352,2.71151],"type":"Point"}
+}

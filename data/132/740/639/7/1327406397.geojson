@@ -1,0 +1,73 @@
+{
+  "id": 1327406397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1679,5.9735,116.1679,5.9735",
+    "geom:latitude":5.9735,
+    "geom:longitude":116.1679,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Kiambalang",
+    "gn:country_code":"MY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768262,
+    "gn:latitude":5.9735,
+    "gn:longitude":116.1679,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kiambalang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kiambalang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kiambalang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768262
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4ae87ecb9ca3ee973cb52f2c5c9435e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":1327406397,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327406397,
+    "wof:lastmodified":1537674071,
+    "wof:name":"Kampung Kiambalang",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1679,
+    5.9735,
+    116.1679,
+    5.9735
+],
+  "geometry": {"coordinates":[116.1679,5.9735],"type":"Point"}
+}

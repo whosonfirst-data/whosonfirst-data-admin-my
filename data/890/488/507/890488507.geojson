@@ -1,0 +1,70 @@
+{
+  "id": 890488507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.778641,2.930617,101.778641,2.930617",
+    "geom:latitude":2.930617,
+    "geom:longitude":101.778641,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kajang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:photos":105,
+    "qs:photos_1k":21,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1049,
+    "qs:photos_sr":3,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":1270,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014377,
+        "qs:id":1306926,
+        "wd:id":"Q1946482",
+        "wk:page":"Kajang"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054722,
+    "wof:geomhash":"93dcd1f92ecc738442bd12bde76870db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "localadmin_id":890488507,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":890488507,
+    "wof:lastmodified":1527787078,
+    "wof:name":"Kajang",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.778641,
+    2.930617,
+    101.778641,
+    2.930617
+],
+  "geometry": {"coordinates":[101.77864099999999,2.930617],"type":"Point"}
+}

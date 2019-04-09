@@ -1,0 +1,67 @@
+{
+  "id": 1259786707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.46667,5.61667,100.46667,5.61667",
+    "geom:latitude":5.61667,
+    "geom:longitude":100.46667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Charok Klubi",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1769906,
+    "gn:latitude":5.61667,
+    "gn:longitude":100.46667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Charok Klubi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1769906
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c3b40dddf006b023924c5a4585740370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490355,
+            "locality_id":1259786707,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1259786707,
+    "wof:lastmodified":1536919089,
+    "wof:name":"Kampong Charok Klubi",
+    "wof:parent_id":890490355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.46667,
+    5.61667,
+    100.46667,
+    5.61667
+],
+  "geometry": {"coordinates":[100.46666999999999,5.61667],"type":"Point"}
+}

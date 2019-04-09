@@ -1,0 +1,74 @@
+{
+  "id": 1226264999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1883,3.5539,102.1883,3.5539",
+    "geom:latitude":3.5539,
+    "geom:longitude":102.1883,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Teris",
+    "gn:country_code":"MY",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732618,
+    "gn:latitude":3.5539,
+    "gn:longitude":102.1883,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Teris",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Teris"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tris",
+        "Kampung Teris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732618
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6b67a7f71905cb0d255876e8b7942c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1226264999,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226264999,
+    "wof:lastmodified":1537673665,
+    "wof:name":"Kampung Teris",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1883,
+    3.5539,
+    102.1883,
+    3.5539
+],
+  "geometry": {"coordinates":[102.1883,3.5539],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890490625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.5276,1.7114,103.5276,1.7114",
+    "geom:latitude":1.7114,
+    "geom:longitude":103.5276,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sedenak"
+    ],
+    "name:unk_x_variant":[
+        "Sedenak Village"
+    ],
+    "qs:name":"Kampung Sedenak",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732734,
+        "gp:id":1151448,
+        "qs:id":193498
+    },
+    "wof:country":"MY",
+    "wof:created":1469054818,
+    "wof:geomhash":"c0781fd77a3deb40ff501c398d16e5e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696433,
+            "locality_id":890490625,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890490625,
+    "wof:lastmodified":1505343789,
+    "wof:name":"Kampung Sedenak",
+    "wof:parent_id":1108696433,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.5276,
+    1.7114,
+    103.5276,
+    1.7114
+],
+  "geometry": {"coordinates":[103.52760000000001,1.7114],"type":"Point"}
+}

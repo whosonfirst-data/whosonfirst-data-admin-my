@@ -1,0 +1,77 @@
+{
+  "id": 890488275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.1601,2.845,104.1601,2.845",
+    "geom:latitude":2.845,
+    "geom:longitude":104.1601,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Air Batang"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Ayer Batang"
+    ],
+    "qs:name":"Kampung Air Batang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos":519,
+    "qs:photos_1k":105,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":519,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1771533,
+        "gp:id":56036181,
+        "qs:id":240853
+    },
+    "wof:country":"MY",
+    "wof:created":1469054713,
+    "wof:geomhash":"57a7ccac263f97d262ea7ad9e3ff87d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "locality_id":890488275,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890488275,
+    "wof:lastmodified":1505343782,
+    "wof:name":"Kampung Air Batang",
+    "wof:parent_id":85675141,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.1601,
+    2.845,
+    104.1601,
+    2.845
+],
+  "geometry": {"coordinates":[104.1601,2.845],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293297695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9965,2.771,101.9965,2.771",
+    "geom:latitude":2.771,
+    "geom:longitude":101.9965,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Jerlang",
+    "gn:country_code":"MY",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768741,
+    "gn:latitude":2.771,
+    "gn:longitude":101.9965,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Jerlang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Jerlang"
+    ],
+    "name:und_x_variant":[
+        "Kampong Jerlang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768741
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4d3f3c9f3e922f7ffee46e93089a7e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1293297695,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1293297695,
+    "wof:lastmodified":1537674093,
+    "wof:name":"Kampung Jerlang",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9965,
+    2.771,
+    101.9965,
+    2.771
+],
+  "geometry": {"coordinates":[101.9965,2.771],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360073371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.46541,1.6486,110.46541,1.6486",
+    "geom:latitude":1.6486,
+    "geom:longitude":110.46541,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampung Sungai Buda",
+    "gn:country_code":"MY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1764095,
+    "gn:latitude":1.6486,
+    "gn:longitude":110.46541,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kampung Sungai Buda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Kampong Sungai Buda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764095
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"16a7173fa20b57cfdc6c0a7cb4e8794d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":1360073371,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1360073371,
+    "wof:lastmodified":1537673892,
+    "wof:name":"Kampung Sungai Buda",
+    "wof:parent_id":890488875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.46541,
+    1.6486,
+    110.46541,
+    1.6486
+],
+  "geometry": {"coordinates":[110.46541000000001,1.6486],"type":"Point"}
+}

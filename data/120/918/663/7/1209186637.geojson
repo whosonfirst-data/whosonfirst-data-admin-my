@@ -1,0 +1,68 @@
+{
+  "id": 1209186637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.8153,6.0797,116.8153,6.0797",
+    "geom:latitude":6.0797,
+    "geom:longitude":116.8153,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Kirokut",
+    "gn:country_code":"MY",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768222,
+    "gn:latitude":6.0797,
+    "gn:longitude":116.8153,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kirokut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kirokut"
+    ],
+    "name:und_x_variant":[
+        "Kirokut",
+        "Kampong Kirokut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768222
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b661c154ee229edb5c1b6a977e64cfe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209186637
+        }
+    ],
+    "wof:id":1209186637,
+    "wof:lastmodified":1537674069,
+    "wof:name":"Kampung Kirokut",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.8153,
+    6.0797,
+    116.8153,
+    6.0797
+],
+  "geometry": {"coordinates":[116.81529999999999,6.0797],"type":"Point"}
+}

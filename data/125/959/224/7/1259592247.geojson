@@ -1,0 +1,71 @@
+{
+  "id": 1259592247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.52796,5.09831,100.52796,5.09831",
+    "geom:latitude":5.09831,
+    "geom:longitude":100.52796,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Kubu",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875841,
+    "gn:latitude":5.09831,
+    "gn:longitude":100.52796,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Kubu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kubu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875841
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aec4ff2b9013dde99d53f2fa3119d0dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490371,
+            "locality_id":1259592247,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1259592247,
+    "wof:lastmodified":1537674271,
+    "wof:name":"Kampung Kubu",
+    "wof:parent_id":890490371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52796,
+    5.09831,
+    100.52796,
+    5.09831
+],
+  "geometry": {"coordinates":[100.52795999999999,5.09831],"type":"Point"}
+}

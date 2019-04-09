@@ -1,0 +1,114 @@
+{
+  "id": 85783907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2227305.873325,
+    "geom:bbox":"100.313338,5.377425,100.313338,5.377425",
+    "geom:latitude":5.377425,
+    "geom:longitude":100.313338,
+    "gn:latitude":5.46198,
+    "gn:longitude":100.21993,
+    "iso:country":"MY",
+    "lbl:latitude":5.377425,
+    "lbl:longitude":100.313338,
+    "mps:latitude":5.37722,
+    "mps:longitude":100.309466,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:msa_x_preferred":[
+        "Kampung Keling"
+    ],
+    "name:und_x_preferred":[
+        "Kampung Keling"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Keling",
+        "Kampung Keling"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1735106,
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Kampung Keling",
+    "qs:local_max":5776,
+    "qs:local_sum":22216,
+    "qs:localhoods":25,
+    "qs:name":"Kampung Keling",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:name_adm2":"Timur Laut",
+    "qs:name_lau":"Mukim 13 Paya Terubung",
+    "qs:name_local":"George Town",
+    "qs:photo_max":54,
+    "qs:photo_sum":84,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346304,
+    "qs:woe_adm2":56013581,
+    "qs:woe_lau":56013984,
+    "qs:woe_local":1141153,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023367,
+        1108696537,
+        85675127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768442,
+        "gp:id":56015281,
+        "qs:id":985874,
+        "qs_pg:id":985874
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"bc2e4c7a04bd87605aa7d71a31dec2e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696537,
+            "locality_id":102023367,
+            "neighbourhood_id":85783907,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":85783907,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860559,
+    "wof:name":"Kampung Keling",
+    "wof:parent_id":102023367,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.313338,
+    5.377425,
+    100.313338,
+    5.377425
+],
+  "geometry": {"coordinates":[100.313338,5.377425],"type":"Point"}
+}

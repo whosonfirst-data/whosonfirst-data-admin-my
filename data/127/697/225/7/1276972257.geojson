@@ -1,0 +1,73 @@
+{
+  "id": 1276972257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4122,3.4242,102.4122,3.4242",
+    "geom:latitude":3.4242,
+    "geom:longitude":102.4122,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Pulau Kujan",
+    "gn:country_code":"MY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1765262,
+    "gn:latitude":3.4242,
+    "gn:longitude":102.4122,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Pulau Kujan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pulau Kujan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Pulau Kujan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1765262
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3397a163f830a9772bb6294f0e5481d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1276972257,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1276972257,
+    "wof:lastmodified":1537673946,
+    "wof:name":"Kampung Pulau Kujan",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4122,
+    3.4242,
+    102.4122,
+    3.4242
+],
+  "geometry": {"coordinates":[102.4122,3.4242],"type":"Point"}
+}

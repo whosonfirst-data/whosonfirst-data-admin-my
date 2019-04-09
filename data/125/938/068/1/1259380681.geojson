@@ -1,0 +1,70 @@
+{
+  "id": 1259380681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.523,4.3548,101.523,4.3548",
+    "geom:latitude":4.3548,
+    "geom:longitude":101.523,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pos Lemoi",
+    "gn:country_code":"MY",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7792103,
+    "gn:latitude":4.3548,
+    "gn:longitude":101.523,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pos Lemoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pos Lemoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7792103
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b13739adef091b414b2eeeca9670f270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696393,
+            "locality_id":1259380681,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1259380681,
+    "wof:lastmodified":1537674384,
+    "wof:name":"Pos Lemoi",
+    "wof:parent_id":1108696393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.523,
+    4.3548,
+    101.523,
+    4.3548
+],
+  "geometry": {"coordinates":[101.523,4.3548],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 890489861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.352172,1.550658,110.352172,1.550658",
+    "geom:latitude":1.550658,
+    "geom:longitude":110.352172,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kuching",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sarawak",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":34,
+    "qs:photos_9r":15,
+    "qs:photos_all":7676,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":9444,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56014254,
+        "qs:id":1111863,
+        "wd:id":"Q220445",
+        "wk:page":"Kuching"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054778,
+    "wof:geomhash":"fb459ab7662a393f801cf66078718b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "localadmin_id":890489861,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":890489861,
+    "wof:lastmodified":1527792862,
+    "wof:name":"Kuching",
+    "wof:parent_id":890488875,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.352172,
+    1.550658,
+    110.352172,
+    1.550658
+],
+  "geometry": {"coordinates":[110.352172,1.550658],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 890489795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.737663,3.0982045,101.737663,3.0982045",
+    "geom:latitude":3.098205,
+    "geom:longitude":101.737663,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taman Bilion",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023407,
+        890490945,
+        85675181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862660,
+        "qs:id":1111451
+    },
+    "wof:country":"MY",
+    "wof:created":1469054770,
+    "wof:geomhash":"a0ea206055207102f5ef557c06c60e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":890489795,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":890489795,
+    "wof:lastmodified":1500013687,
+    "wof:name":"Taman Bilion",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.737663,
+    3.0982045,
+    101.737663,
+    3.0982045
+],
+  "geometry": {"coordinates":[101.737663,3.0982045],"type":"Point"}
+}

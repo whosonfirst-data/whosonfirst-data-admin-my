@@ -1,0 +1,70 @@
+{
+  "id": 1310098093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4116,3.1435,103.4116,3.1435",
+    "geom:latitude":3.1435,
+    "geom:longitude":103.4116,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Permatang Kelumpang",
+    "gn:country_code":"MY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8306757,
+    "gn:latitude":3.1435,
+    "gn:longitude":103.4116,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Permatang Kelumpang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Permatang Kelumpang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306757
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"426d41c95329727ebb24d1a15a626def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1310098093,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1310098093,
+    "wof:lastmodified":1537674451,
+    "wof:name":"Permatang Kelumpang",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4116,
+    3.1435,
+    103.4116,
+    3.1435
+],
+  "geometry": {"coordinates":[103.41160000000001,3.1435],"type":"Point"}
+}

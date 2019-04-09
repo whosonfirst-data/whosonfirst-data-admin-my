@@ -1,0 +1,70 @@
+{
+  "id": 1310688457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9054,3.757,100.9054,3.757",
+    "geom:latitude":3.757,
+    "geom:longitude":100.9054,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Permatang Pak Abu",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7651068,
+    "gn:latitude":3.757,
+    "gn:longitude":100.9054,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Permatang Pak Abu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Permatang Pak Abu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675163,
+        890490813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7651068
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fa6b34da0efeb35c0131538e9a3f62d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490813,
+            "locality_id":1310688457,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1310688457,
+    "wof:lastmodified":1537674351,
+    "wof:name":"Permatang Pak Abu",
+    "wof:parent_id":890490813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9054,
+    3.757,
+    100.9054,
+    3.757
+],
+  "geometry": {"coordinates":[100.9054,3.757],"type":"Point"}
+}

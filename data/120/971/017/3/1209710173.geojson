@@ -1,0 +1,70 @@
+{
+  "id": 1209710173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.23262,5.38961,100.23262,5.38961",
+    "geom:latitude":5.38961,
+    "geom:longitude":100.23262,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Batu Hitam",
+    "gn:country_code":"MY",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6823210,
+    "gn:latitude":5.38961,
+    "gn:longitude":100.23262,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Batu Hitam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Batu Hitam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823210
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"409bd0f3f515002f9327e6c50eb12027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489155,
+            "locality_id":1209710173,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1209710173,
+    "wof:lastmodified":1537674252,
+    "wof:name":"Batu Hitam",
+    "wof:parent_id":890489155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.23262,
+    5.38961,
+    100.23262,
+    5.38961
+],
+  "geometry": {"coordinates":[100.23262,5.38961],"type":"Point"}
+}

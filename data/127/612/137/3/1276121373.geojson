@@ -1,0 +1,67 @@
+{
+  "id": 1276121373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.48333,6.15,100.48333,6.15",
+    "geom:latitude":6.15,
+    "geom:longitude":100.48333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampong Lanjut Malau",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767584,
+    "gn:latitude":6.15,
+    "gn:longitude":100.48333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Lanjut Malau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767584
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6dcfc35886e957ea1160becefa4ceb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1276121373,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1276121373,
+    "wof:lastmodified":1537059947,
+    "wof:name":"Kampong Lanjut Malau",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.48333,
+    6.15,
+    100.48333,
+    6.15
+],
+  "geometry": {"coordinates":[100.48333,6.15],"type":"Point"}
+}

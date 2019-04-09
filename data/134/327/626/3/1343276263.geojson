@@ -1,0 +1,70 @@
+{
+  "id": 1343276263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.5017,1.5397,103.5017,1.5397",
+    "geom:latitude":1.5397,
+    "geom:longitude":103.5017,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Sawah Dalam",
+    "gn:country_code":"MY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857981,
+    "gn:latitude":1.5397,
+    "gn:longitude":103.5017,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sawah Dalam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sawah Dalam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857981
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7f687074ea3d895aa3548e6b94f42c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "locality_id":1343276263,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1343276263,
+    "wof:lastmodified":1537674447,
+    "wof:name":"Kampung Sawah Dalam",
+    "wof:parent_id":890491001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.5017,
+    1.5397,
+    103.5017,
+    1.5397
+],
+  "geometry": {"coordinates":[103.5017,1.5397],"type":"Point"}
+}

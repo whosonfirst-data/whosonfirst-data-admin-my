@@ -1,0 +1,70 @@
+{
+  "id": 1260091729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.90033,5.83369,101.90033,5.83369",
+    "geom:latitude":5.83369,
+    "geom:longitude":101.90033,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampung Bukit Bunga",
+    "gn:country_code":"MY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770315,
+    "gn:latitude":5.83369,
+    "gn:longitude":101.90033,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bukit Bunga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Bunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770315
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e8baa2d0101e2c51a83a9d96ce7f2328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490497,
+            "locality_id":1260091729,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1260091729,
+    "wof:lastmodified":1537674156,
+    "wof:name":"Kampung Bukit Bunga",
+    "wof:parent_id":890490497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.90033,
+    5.83369,
+    101.90033,
+    5.83369
+],
+  "geometry": {"coordinates":[101.90033,5.83369],"type":"Point"}
+}

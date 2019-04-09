@@ -1,0 +1,70 @@
+{
+  "id": 1277088103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.9308,1.4893,103.9308,1.4893",
+    "geom:latitude":1.4893,
+    "geom:longitude":103.9308,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taman Kota Masai",
+    "gn:country_code":"MY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535133,
+    "gn:latitude":1.4893,
+    "gn:longitude":103.9308,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Taman Kota Masai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Kota Masai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535133
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3388f8de77ec7df93ade0ffe856a2768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":1277088103,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1277088103,
+    "wof:lastmodified":1537674460,
+    "wof:name":"Taman Kota Masai",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9308,
+    1.4893,
+    103.9308,
+    1.4893
+],
+  "geometry": {"coordinates":[103.9308,1.4893],"type":"Point"}
+}

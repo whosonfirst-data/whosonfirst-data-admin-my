@@ -1,0 +1,73 @@
+{
+  "id": 1343775785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8513,2.2453,102.8513,2.2453",
+    "geom:latitude":2.2453,
+    "geom:longitude":102.8513,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kemajuan Tanah Batu Dua Puluh Tujuh Lenga",
+    "gn:country_code":"MY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536815,
+    "gn:latitude":2.2453,
+    "gn:longitude":102.8513,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kemajuan Tanah Batu Dua Puluh Tujuh Lenga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kemajuan Tanah Batu Dua Puluh Tujuh Lenga"
+    ],
+    "name:und_x_variant":[
+        "Kemajuan Tanah Batu 27 Lenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536815
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c1ff7197c67d20b4722b68e8f80755d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488721,
+            "locality_id":1343775785,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1343775785,
+    "wof:lastmodified":1537674465,
+    "wof:name":"Kemajuan Tanah Batu Dua Puluh Tujuh Lenga",
+    "wof:parent_id":890488721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8513,
+    2.2453,
+    102.8513,
+    2.2453
+],
+  "geometry": {"coordinates":[102.85129999999999,2.2453],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 890489945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.702781,6.047357,116.702781,6.047357",
+    "geom:latitude":6.047357,
+    "geom:longitude":116.702781,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Poring",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Sabah",
+    "qs:photos":460,
+    "qs:photos_1k":93,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":460,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":311,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1155033,
+        "qs:id":1112290,
+        "wd:id":"Q7230115",
+        "wk:page":"Poring"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054782,
+    "wof:geomhash":"89919dd74e20899613d6cc4e31b0a541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696495,
+            "locality_id":890489945,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":890489945,
+    "wof:lastmodified":1527792866,
+    "wof:name":"Poring",
+    "wof:parent_id":1108696495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.702781,
+    6.047357,
+    116.702781,
+    6.047357
+],
+  "geometry": {"coordinates":[116.702781,6.047357],"type":"Point"}
+}

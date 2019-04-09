@@ -1,0 +1,75 @@
+{
+  "id": 1360303179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7703,2.236,102.7703,2.236",
+    "geom:latitude":2.236,
+    "geom:longitude":102.7703,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kundang Ulu",
+    "gn:country_code":"MY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1759155,
+    "gn:latitude":2.236,
+    "gn:longitude":102.7703,
+    "gn:modification_date":"2013-10-05",
+    "gn:name":"Kundang Ulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kundang Ulu"
+    ],
+    "name:und_x_variant":[
+        "Kundang",
+        "Kundang Ulu",
+        "Kudang Ulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        1108696447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1759155
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"f85870d78f14ecf92f1a3fc359075175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696447,
+            "locality_id":1360303179,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1360303179,
+    "wof:lastmodified":1537673799,
+    "wof:name":"Kundang Ulu",
+    "wof:parent_id":1108696447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7703,
+    2.236,
+    102.7703,
+    2.236
+],
+  "geometry": {"coordinates":[102.77030000000001,2.236],"type":"Point"}
+}

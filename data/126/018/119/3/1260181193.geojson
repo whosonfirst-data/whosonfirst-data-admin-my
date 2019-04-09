@@ -1,0 +1,73 @@
+{
+  "id": 1260181193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1315,2.746,102.1315,2.746",
+    "geom:latitude":2.746,
+    "geom:longitude":102.1315,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Kundangan",
+    "gn:country_code":"MY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767744,
+    "gn:latitude":2.746,
+    "gn:longitude":102.1315,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kundangan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kundangan"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kundangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767744
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"902cb708e6682796484c53cda5ec23b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490777,
+            "locality_id":1260181193,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1260181193,
+    "wof:lastmodified":1537674050,
+    "wof:name":"Kampung Kundangan",
+    "wof:parent_id":890490777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1315,
+    2.746,
+    102.1315,
+    2.746
+],
+  "geometry": {"coordinates":[102.1315,2.746],"type":"Point"}
+}

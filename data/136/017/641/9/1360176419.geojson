@@ -1,0 +1,72 @@
+{
+  "id": 1360176419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.81667,5.26667,100.81667,5.26667",
+    "geom:latitude":5.26667,
+    "geom:longitude":100.81667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kampung Lubuk Buaya",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734397,
+    "gn:latitude":5.26667,
+    "gn:longitude":100.81667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Lubuk Buaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Lubok Buaya",
+        "Kampung Lubuk Buaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734397
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c8c75885d53cc84c6be9b53a3c62ad94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489813,
+            "locality_id":1360176419,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1360176419,
+    "wof:lastmodified":1537673703,
+    "wof:name":"Kampung Lubuk Buaya",
+    "wof:parent_id":890489813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.81667,
+    5.26667,
+    100.81667,
+    5.26667
+],
+  "geometry": {"coordinates":[100.81667,5.26667],"type":"Point"}
+}

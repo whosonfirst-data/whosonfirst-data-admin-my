@@ -1,0 +1,64 @@
+{
+  "id": 1209407419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3867,3.4684,102.3867,3.4684",
+    "geom:latitude":3.4684,
+    "geom:longitude":102.3867,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Simpang Songsang",
+    "gn:country_code":"MY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795932,
+    "gn:latitude":3.4684,
+    "gn:longitude":102.3867,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Simpang Songsang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Simpang Songsang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795932
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8201028b8649a7dd9e667f267b15e411",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209407419
+        }
+    ],
+    "wof:id":1209407419,
+    "wof:lastmodified":1537674397,
+    "wof:name":"Simpang Songsang",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3867,
+    3.4684,
+    102.3867,
+    3.4684
+],
+  "geometry": {"coordinates":[102.3867,3.4684],"type":"Point"}
+}

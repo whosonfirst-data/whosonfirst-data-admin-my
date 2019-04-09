@@ -1,0 +1,70 @@
+{
+  "id": 1243144581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.4539,6.3602,116.4539,6.3602",
+    "geom:latitude":6.3602,
+    "geom:longitude":116.4539,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampong Bobot",
+    "gn:country_code":"MY",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417186,
+    "gn:latitude":6.3602,
+    "gn:longitude":116.4539,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampong Bobot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampong Bobot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417186
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"baa19270f79e025b72b39d1874020531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696421,
+            "locality_id":1243144581,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1243144581,
+    "wof:lastmodified":1537674283,
+    "wof:name":"Kampong Bobot",
+    "wof:parent_id":1108696421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.4539,
+    6.3602,
+    116.4539,
+    6.3602
+],
+  "geometry": {"coordinates":[116.4539,6.3602],"type":"Point"}
+}

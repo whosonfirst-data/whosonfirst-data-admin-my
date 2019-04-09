@@ -1,0 +1,111 @@
+{
+  "id": 85771621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4886631.82981,
+    "geom:bbox":"101.763817,3.033555,101.763817,3.033555",
+    "geom:latitude":3.033555,
+    "geom:longitude":101.763817,
+    "gn:latitude":3.03333,
+    "gn:longitude":101.76667,
+    "iso:country":"MY",
+    "lbl:latitude":3.033555,
+    "lbl:longitude":101.763817,
+    "mps:latitude":3.032878,
+    "mps:longitude":101.766405,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kampong Bukit Dukong"
+    ],
+    "name:unk_x_variant":[
+        "Kampong Bukit Dukong"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1777077,
+    "qs:gn_nam_loc":"cheras",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Kampong Bukit Dukong",
+    "qs:local_max":33,
+    "qs:local_sum":72,
+    "qs:localhoods":3,
+    "qs:name":"Kampong Bukit Dukong",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Selangor",
+    "qs:name_adm2":"Hulu Langat",
+    "qs:name_lau":"Cheras",
+    "qs:name_local":"Cheras",
+    "qs:photo_max":26,
+    "qs:photo_sum":27,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346306,
+    "qs:woe_adm2":56013645,
+    "qs:woe_lau":56014384,
+    "qs:woe_local":1154641,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023899,
+        1108696543,
+        85675163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770286,
+        "gp:id":1142743,
+        "qs:id":1167906,
+        "qs_pg:id":1167906
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"10cde9d942a4bb7f397c335ae811425c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":102023899,
+            "neighbourhood_id":85771621,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":85771621,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859435,
+    "wof:name":"Kampong Bukit Dukong",
+    "wof:parent_id":102023899,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.763817,
+    3.033555,
+    101.763817,
+    3.033555
+],
+  "geometry": {"coordinates":[101.763817,3.033555],"type":"Point"}
+}

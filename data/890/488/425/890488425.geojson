@@ -1,0 +1,78 @@
+{
+  "id": 890488425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7958,2.4901,102.7958,2.4901",
+    "geom:latitude":2.4901,
+    "geom:longitude":102.7958,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Bunga Raya"
+    ],
+    "qs:name":"Taman Bunga Raya",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Melaka",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85675141,
+        102191569,
+        85632739,
+        102022801,
+        890488717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698811,
+        "gp:id":56035644,
+        "qs:id":1270526
+    },
+    "wof:country":"MY",
+    "wof:created":1469054719,
+    "wof:geomhash":"d863f57799ac946573ab21e75ff8fdb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488717,
+            "locality_id":102022801,
+            "neighbourhood_id":890488425,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":890488425,
+    "wof:lastmodified":1505343782,
+    "wof:name":"Taman Bunga Raya",
+    "wof:parent_id":102022801,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7958,
+    2.4901,
+    102.7958,
+    2.4901
+],
+  "geometry": {"coordinates":[102.7958,2.4901],"type":"Point"}
+}

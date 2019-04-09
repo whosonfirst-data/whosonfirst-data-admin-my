@@ -1,0 +1,70 @@
+{
+  "id": 1242570281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0098,3.5964,103.0098,3.5964",
+    "geom:latitude":3.5964,
+    "geom:longitude":103.0098,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kamjuan Tanah Lepar Hilir Empat Enam dan Tujuh",
+    "gn:country_code":"MY",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795563,
+    "gn:latitude":3.5964,
+    "gn:longitude":103.0098,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kamjuan Tanah Lepar Hilir Empat Enam dan Tujuh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kamjuan Tanah Lepar Hilir Empat Enam dan Tujuh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795563
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"ac2516ebec348200f5c91232a2a61865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":1242570281,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1242570281,
+    "wof:lastmodified":1537674393,
+    "wof:name":"Kamjuan Tanah Lepar Hilir Empat Enam dan Tujuh",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0098,
+    3.5964,
+    103.0098,
+    3.5964
+],
+  "geometry": {"coordinates":[103.0098,3.5964],"type":"Point"}
+}

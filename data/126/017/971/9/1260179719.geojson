@@ -1,0 +1,73 @@
+{
+  "id": 1260179719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9247,3.8907,101.9247,3.8907",
+    "geom:latitude":3.8907,
+    "geom:longitude":101.9247,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Tanjung Putus",
+    "gn:country_code":"MY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763348,
+    "gn:latitude":3.8907,
+    "gn:longitude":101.9247,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tanjung Putus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjung Putus"
+    ],
+    "name:und_x_variant":[
+        "Kampong Tanjong Putus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890490737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763348
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c38f509b23407611d745a0d71b0747bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490737,
+            "locality_id":1260179719,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1260179719,
+    "wof:lastmodified":1537673856,
+    "wof:name":"Kampung Tanjung Putus",
+    "wof:parent_id":890490737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9247,
+    3.8907,
+    101.9247,
+    3.8907
+],
+  "geometry": {"coordinates":[101.9247,3.8907],"type":"Point"}
+}

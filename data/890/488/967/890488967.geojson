@@ -1,0 +1,65 @@
+{
+  "id": 890488967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.854469,2.4593795,101.854469,2.4593795",
+    "geom:latitude":2.459379,
+    "geom:longitude":101.854469,
+    "gn:country":"MY",
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Telok Kemang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Negeri Sembilan",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1155204,
+        "qs:id":1083646,
+        "wd:id":"Q7697907",
+        "wk:page":"Teluk Kemang"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054739,
+    "wof:geomhash":"5286b8e52e548b2d8d850f7b44cfbb15",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":890488967
+        }
+    ],
+    "wof:id":890488967,
+    "wof:lastmodified":1527787078,
+    "wof:name":"Telok Kemang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.854469,
+    2.4593795,
+    101.854469,
+    2.4593795
+],
+  "geometry": {"coordinates":[101.85446899999999,2.4593795],"type":"Point"}
+}

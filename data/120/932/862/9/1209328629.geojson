@@ -1,0 +1,64 @@
+{
+  "id": 1209328629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.0618,1.902,104.0618,1.902",
+    "geom:latitude":1.902,
+    "geom:longitude":104.0618,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Gembut",
+    "gn:country_code":"MY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7578665,
+    "gn:latitude":1.902,
+    "gn:longitude":104.0618,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Gembut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Gembut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7578665
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"b1db19c770581290a8f8b4ef3f392563",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209328629
+        }
+    ],
+    "wof:id":1209328629,
+    "wof:lastmodified":1537674318,
+    "wof:name":"Kampung Gembut",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.0618,
+    1.902,
+    104.0618,
+    1.902
+],
+  "geometry": {"coordinates":[104.06180000000001,1.902],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344126673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.14491,4.35962,116.14491,4.35962",
+    "geom:latitude":4.35962,
+    "geom:longitude":116.14491,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kabu",
+    "gn:country_code":"MY",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1733752,
+    "gn:latitude":4.35962,
+    "gn:longitude":116.14491,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kabu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sungai Simlap",
+        "Kabu",
+        "Kabul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1733752
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"e16b733a5b6daa2b6a6755da07a367d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696483,
+            "locality_id":1344126673,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1344126673,
+    "wof:lastmodified":1537673688,
+    "wof:name":"Kabu",
+    "wof:parent_id":1108696483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.14491,
+    4.35962,
+    116.14491,
+    4.35962
+],
+  "geometry": {"coordinates":[116.14491,4.35962],"type":"Point"}
+}

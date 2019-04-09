@@ -1,0 +1,103 @@
+{
+  "id": 1125868677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9149,2.663,101.9149,2.663",
+    "geom:latitude":2.663,
+    "geom:longitude":101.9149,
+    "gn:gn_country":"MY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"MY",
+    "lbl:latitude":2.663,
+    "lbl:longitude":101.9149,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Mambau"
+    ],
+    "name:eng_x_preferred":[
+        "Mambau"
+    ],
+    "name:epo_x_preferred":[
+        "Mambau"
+    ],
+    "name:may_x_preferred":[
+        "Mambau"
+    ],
+    "name:msa_x_preferred":[
+        "Kampung Mambau"
+    ],
+    "name:unk_x_variant":[
+        "Mambau"
+    ],
+    "qs_pg:aaroncc":"MY",
+    "qs_pg:gn_country":"MY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1767138,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kampong Mambau",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Negeri Sembilan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":886324,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":1145890,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Negeri Sembilan",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767138,
+        "gp:id":1145890,
+        "qs_pg:id":886324,
+        "wd:id":"Q12696775"
+    },
+    "wof:country":"MY",
+    "wof:created":1497294174,
+    "wof:geomhash":"12da37f12fb4e801641e62e8678bdbde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":1125868677,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1125868677,
+    "wof:lastmodified":1514490517,
+    "wof:name":"Kampong Mambau",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9149,
+    2.663,
+    101.9149,
+    2.663
+],
+  "geometry": {"coordinates":[101.9149,2.663],"type":"Point"}
+}

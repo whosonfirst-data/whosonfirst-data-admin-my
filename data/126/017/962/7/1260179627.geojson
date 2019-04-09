@@ -1,0 +1,71 @@
+{
+  "id": 1260179627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4271,3.4485,102.4271,3.4485",
+    "geom:latitude":3.4485,
+    "geom:longitude":102.4271,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1732585",
+    "gn:asciiname":"Kampung Padang Tenggala",
+    "gn:country_code":"MY",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7795944,
+    "gn:latitude":3.4485,
+    "gn:longitude":102.4271,
+    "gn:modification_date":"2014-05-10",
+    "gn:name":"Kampung Padang Tenggala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Padang Tenggala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7795944
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3b5a00fb9cda4902ac3c9fc400b816bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489541,
+            "locality_id":1260179627,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1260179627,
+    "wof:lastmodified":1537674398,
+    "wof:name":"Kampung Padang Tenggala",
+    "wof:parent_id":890489541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4271,
+    3.4485,
+    102.4271,
+    3.4485
+],
+  "geometry": {"coordinates":[102.4271,3.4485],"type":"Point"}
+}

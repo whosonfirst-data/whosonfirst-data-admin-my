@@ -1,0 +1,74 @@
+{
+  "id": 1310307945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7047,5.53341,100.7047,5.53341",
+    "geom:latitude":5.53341,
+    "geom:longitude":100.7047,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kampung Machang Bubok",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767205,
+    "gn:latitude":5.53341,
+    "gn:longitude":100.7047,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Machang Bubok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Machang Bubok"
+    ],
+    "name:und_x_variant":[
+        "Kampong Machang Bubok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        1108696379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767205
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dff983158aec4f822fecc4ca91459027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696379,
+            "locality_id":1310307945,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1310307945,
+    "wof:lastmodified":1537674027,
+    "wof:name":"Kampung Machang Bubok",
+    "wof:parent_id":1108696379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7047,
+    5.53341,
+    100.7047,
+    5.53341
+],
+  "geometry": {"coordinates":[100.7047,5.53341],"type":"Point"}
+}

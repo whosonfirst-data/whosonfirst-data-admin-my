@@ -1,0 +1,70 @@
+{
+  "id": 1242595429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4812,1.5644,103.4812,1.5644",
+    "geom:latitude":1.5644,
+    "geom:longitude":103.4812,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Pak Khalid",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857953,
+    "gn:latitude":1.5644,
+    "gn:longitude":103.4812,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pak Khalid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pak Khalid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890491001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857953
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8fd4001cff3912252df70066f262f358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890491001,
+            "locality_id":1242595429,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1242595429,
+    "wof:lastmodified":1537674447,
+    "wof:name":"Kampung Pak Khalid",
+    "wof:parent_id":890491001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4812,
+    1.5644,
+    103.4812,
+    1.5644
+],
+  "geometry": {"coordinates":[103.4812,1.5644],"type":"Point"}
+}

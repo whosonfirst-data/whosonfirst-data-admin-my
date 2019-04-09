@@ -1,0 +1,67 @@
+{
+  "id": 1343382347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.45,4.98333,100.45,4.98333",
+    "geom:latitude":4.98333,
+    "geom:longitude":100.45,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kampong Telok Ipil",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763060,
+    "gn:latitude":4.98333,
+    "gn:longitude":100.45,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Telok Ipil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763060
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4066cc4724345b6ce7645470f4847628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489801,
+            "locality_id":1343382347,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1343382347,
+    "wof:lastmodified":1536857701,
+    "wof:name":"Kampong Telok Ipil",
+    "wof:parent_id":890489801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.45,
+    4.98333,
+    100.45,
+    4.98333
+],
+  "geometry": {"coordinates":[100.45,4.98333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293393075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.44301,5.5086,100.44301,5.5086",
+    "geom:latitude":5.5086,
+    "geom:longitude":100.44301,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bertam Serdang",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6848409,
+    "gn:latitude":5.5086,
+    "gn:longitude":100.44301,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bertam Serdang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bertam Serdang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890490327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6848409
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a33c439647acab45a4bf8a9199e297fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490327,
+            "locality_id":1293393075,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1293393075,
+    "wof:lastmodified":1537674257,
+    "wof:name":"Bertam Serdang",
+    "wof:parent_id":890490327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.44301,
+    5.5086,
+    100.44301,
+    5.5086
+],
+  "geometry": {"coordinates":[100.44301,5.5086],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327011997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.3636,5.2299,116.3636,5.2299",
+    "geom:latitude":5.2299,
+    "geom:longitude":116.3636,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Delayan Lama",
+    "gn:country_code":"MY",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7783154,
+    "gn:latitude":5.2299,
+    "gn:longitude":116.3636,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Delayan Lama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Delayan Lama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7783154
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"cc1346586bb4464e3751f71812fbbc0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696411,
+            "locality_id":1327011997,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1327011997,
+    "wof:lastmodified":1537674379,
+    "wof:name":"Kampung Delayan Lama",
+    "wof:parent_id":1108696411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.3636,
+    5.2299,
+    116.3636,
+    5.2299
+],
+  "geometry": {"coordinates":[116.36360000000001,5.2299],"type":"Point"}
+}

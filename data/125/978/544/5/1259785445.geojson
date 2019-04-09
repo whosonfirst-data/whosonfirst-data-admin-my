@@ -1,0 +1,67 @@
+{
+  "id": 1259785445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.08333,5.96667,102.08333,5.96667",
+    "geom:latitude":5.96667,
+    "geom:longitude":102.08333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gual Kulim",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1774229,
+    "gn:latitude":5.96667,
+    "gn:longitude":102.08333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Gual Kulim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        1108696479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1774229
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5118e208acf37d5b335af8b7e74f28b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696479,
+            "locality_id":1259785445,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1259785445,
+    "wof:lastmodified":1536920973,
+    "wof:name":"Gual Kulim",
+    "wof:parent_id":1108696479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.08333,
+    5.96667,
+    102.08333,
+    5.96667
+],
+  "geometry": {"coordinates":[102.08333,5.96667],"type":"Point"}
+}

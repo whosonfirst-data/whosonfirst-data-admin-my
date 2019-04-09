@@ -1,0 +1,82 @@
+{
+  "id": 890490581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.3922,4.4885,101.3922,4.4885",
+    "geom:latitude":4.4885,
+    "geom:longitude":101.3922,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Berincang"
+    ],
+    "name:unk_x_variant":[
+        "Berinchang"
+    ],
+    "qs:name":"Berincang",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos":2025,
+    "qs:photos_1k":410,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":2025,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":149,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1734615,
+        "gp:id":1140899,
+        "qs:id":188346,
+        "wd:id":"Q4968181",
+        "wk:page":"Brinchang"
+    },
+    "wof:country":"MY",
+    "wof:created":1469054815,
+    "wof:geomhash":"c44233d9e699315087faed5006900b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696393,
+            "locality_id":890490581,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":890490581,
+    "wof:lastmodified":1527732955,
+    "wof:name":"Berincang",
+    "wof:parent_id":1108696393,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.3922,
+    4.4885,
+    101.3922,
+    4.4885
+],
+  "geometry": {"coordinates":[101.3922,4.4885],"type":"Point"}
+}

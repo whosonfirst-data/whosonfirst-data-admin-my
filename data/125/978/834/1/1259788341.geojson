@@ -1,0 +1,70 @@
+{
+  "id": 1259788341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1654,2.5322,102.1654,2.5322",
+    "geom:latitude":2.5322,
+    "geom:longitude":102.1654,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kampung Batang Nyamar",
+    "gn:country_code":"MY",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7797382,
+    "gn:latitude":2.5322,
+    "gn:longitude":102.1654,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Batang Nyamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batang Nyamar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7797382
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a797b83174438496548453a7ac0dd96e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1259788341,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1259788341,
+    "wof:lastmodified":1537674418,
+    "wof:name":"Kampung Batang Nyamar",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1654,
+    2.5322,
+    102.1654,
+    2.5322
+],
+  "geometry": {"coordinates":[102.16540000000001,2.5322],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326534503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0967,2.4558,102.0967,2.4558",
+    "geom:latitude":2.4558,
+    "geom:longitude":102.0967,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Titian Bintangor",
+    "gn:country_code":"MY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1762637,
+    "gn:latitude":2.4558,
+    "gn:longitude":102.0967,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Titian Bintangor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Titian Bintangor"
+    ],
+    "name:und_x_variant":[
+        "Kampong Titian Bintangor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1762637
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2104cf6827e001b86a4b23fa01197531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490863,
+            "locality_id":1326534503,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1326534503,
+    "wof:lastmodified":1537673823,
+    "wof:name":"Kampung Titian Bintangor",
+    "wof:parent_id":890490863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0967,
+    2.4558,
+    102.0967,
+    2.4558
+],
+  "geometry": {"coordinates":[102.0967,2.4558],"type":"Point"}
+}

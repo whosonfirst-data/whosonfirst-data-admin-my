@@ -1,0 +1,75 @@
+{
+  "id": 1276788113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5,3.78333,101.5,3.78333",
+    "geom:latitude":3.78333,
+    "geom:longitude":101.5,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Behrang Hulu",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732934,
+    "gn:latitude":3.78333,
+    "gn:longitude":101.5,
+    "gn:modification_date":"2018-04-11",
+    "gn:name":"Behrang Hulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Behrang",
+        "Kampung Behrang Ulu",
+        "Behrang Hulu",
+        "Behrang 2020"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675123,
+        890489741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732934,
+        "wk:page":"Behrang_2020"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6fc2c8b850c345aa376af988e2a44f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489741,
+            "locality_id":1276788113,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":1276788113,
+    "wof:lastmodified":1537673672,
+    "wof:name":"Behrang Hulu",
+    "wof:parent_id":890489741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5,
+    3.78333,
+    101.5,
+    3.78333
+],
+  "geometry": {"coordinates":[101.5,3.78333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226634269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.11667,1.36667,110.11667,1.36667",
+    "geom:latitude":1.36667,
+    "geom:longitude":110.11667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kerokong",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1760233,
+    "gn:latitude":1.36667,
+    "gn:longitude":110.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kerokong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1760233
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"35e5a4fdf675ba8bb7f35ef77db8061d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696381,
+            "locality_id":1226634269,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1226634269,
+    "wof:lastmodified":1536875090,
+    "wof:name":"Kerokong",
+    "wof:parent_id":1108696381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.11667,
+    1.36667,
+    110.11667,
+    1.36667
+],
+  "geometry": {"coordinates":[110.11667,1.36667],"type":"Point"}
+}

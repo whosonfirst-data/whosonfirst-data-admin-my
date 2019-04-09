@@ -1,0 +1,70 @@
+{
+  "id": 1276532723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.4112,5.32298,100.4112,5.32298",
+    "geom:latitude":5.32298,
+    "geom:longitude":100.4112,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kampung Sungai Semila",
+    "gn:country_code":"MY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6812435,
+    "gn:latitude":5.32298,
+    "gn:longitude":100.4112,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Sungai Semila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Semila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6812435
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"4b7ecb1376fb8bc5620ac0dfc92c2eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1276532723,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1276532723,
+    "wof:lastmodified":1537674242,
+    "wof:name":"Kampung Sungai Semila",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.4112,
+    5.32298,
+    100.4112,
+    5.32298
+],
+  "geometry": {"coordinates":[100.41119999999999,5.32298],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 890490491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.97993,2.4330935,103.97993,2.4330935",
+    "geom:latitude":2.433094,
+    "geom:longitude":103.97993,
+    "gn:country":"MY",
+    "gp:adm0":23424901,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "qs:name":"Pualu Besar",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Johor",
+    "qs:photos":140,
+    "qs:photos_1k":28,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":140,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56035400,
+        "qs:id":118388
+    },
+    "wof:country":"MY",
+    "wof:created":1469054813,
+    "wof:geomhash":"a0b23ad91f33897a006a570dfdd74be6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":890490491
+        }
+    ],
+    "wof:id":890490491,
+    "wof:lastmodified":1470255697,
+    "wof:name":"Pualu Besar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.97993,
+    2.4330935,
+    103.97993,
+    2.4330935
+],
+  "geometry": {"coordinates":[103.97993,2.4330935],"type":"Point"}
+}

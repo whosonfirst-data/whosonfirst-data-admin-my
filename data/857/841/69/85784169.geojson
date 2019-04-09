@@ -1,0 +1,105 @@
+{
+  "id": 85784169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000271,
+    "geom:area_square_m":3346362.430809,
+    "geom:bbox":"101.730651855,3.11486454222,101.751249174,3.13503117527",
+    "geom:latitude":3.125818,
+    "geom:longitude":101.739015,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":3.125256,
+    "lbl:longitude":101.739564,
+    "mps:latitude":3.125761,
+    "mps:longitude":101.738181,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:und_x_preferred":[
+        "Taman Shamelin Perkasa"
+    ],
+    "name:unk_x_variant":[
+        "Taman Shamelin Perkasa"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1735161,
+    "qs:local_max":11906,
+    "qs:local_sum":91409,
+    "qs:localhoods":95,
+    "qs:name":"Taman Shamelin Perkasa",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Kuala Lumpur",
+    "qs:name_adm2":"Kuala Lumpur",
+    "qs:name_lau":"Ampang",
+    "qs:name_local":"Kuala Lumpur",
+    "qs:photo_max":93,
+    "qs:photo_sum":325,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":56014685,
+    "qs:woe_adm2":56013636,
+    "qs:woe_lau":56014061,
+    "qs:woe_local":1154781,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675181,
+        102191569,
+        85632739,
+        102023407,
+        890490945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017004,
+        "qs:id":233900,
+        "qs_pg:id":233900
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5e147e8bf7dfc8db147e64aeb743a312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":85784169,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":85784169,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269496,
+    "wof:name":"Taman Shamelin Perkasa",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.73065185513343,
+    3.11486454222371,
+    101.7512491735871,
+    3.13503117527004
+],
+  "geometry": {"coordinates":[[[101.74438476600011,3.13503117527004],[101.74438476600011,3.13091745537518],[101.74576215361537,3.13091745537518],[101.7471313480001,3.12954621675458],[101.74987793000014,3.12954621621527],[101.7512491735871,3.12954621456105],[101.74987793000014,3.12542634596943],[101.74953715767282,3.1244025039643],[101.74952695530897,3.12440454747437],[101.74849853702494,3.12406123162005],[101.74438476600022,3.12268793552445],[101.74438476600022,3.11857621230983],[101.74026285900618,3.11857621260782],[101.73889160154056,3.11720292115847],[101.73683876261885,3.11514703943102],[101.73614502000004,3.11524629215298],[101.73347671840781,3.11486454222371],[101.73202514650018,3.11583368969762],[101.73202514650018,3.11994339417266],[101.73065185514594,3.12131872673598],[101.73065185516674,3.12406123042688],[101.73065185516674,3.12680372710356],[101.73065185513343,3.12954621780005],[101.73065185525013,3.13000261072537],[101.73339843784385,3.13091950682752],[101.73339843785431,3.13365787905765],[101.73339843799999,3.13503117527004],[101.73476967318112,3.13503117107589],[101.73889160200002,3.13503117127564],[101.74301352809158,3.13503117107589],[101.74438476600011,3.13503117527004]]],"type":"Polygon"}
+}

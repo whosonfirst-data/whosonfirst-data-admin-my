@@ -1,0 +1,110 @@
+{
+  "id": 85771767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3574392.783183,
+    "geom:bbox":"100.316121,5.433311,100.316121,5.433311",
+    "geom:latitude":5.433311,
+    "geom:longitude":100.316121,
+    "gn:latitude":5.43333,
+    "gn:longitude":100.31667,
+    "iso:country":"MY",
+    "lbl:latitude":5.433311,
+    "lbl:longitude":100.316121,
+    "mps:latitude":5.440184,
+    "mps:longitude":100.331477,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Kelawai"
+    ],
+    "name:unk_x_variant":[
+        "Kelawai"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1735106,
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Kelawai",
+    "qs:local_max":5776,
+    "qs:local_sum":22216,
+    "qs:localhoods":25,
+    "qs:name":"Kelawai",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:name_adm2":"Timur Laut",
+    "qs:name_lau":"George Town",
+    "qs:name_local":"George Town",
+    "qs:photo_max":207,
+    "qs:photo_sum":355,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346304,
+    "qs:woe_adm2":56013581,
+    "qs:woe_lau":56013803,
+    "qs:woe_local":1141153,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023367,
+        1108696537,
+        85675127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1761259,
+        "gp:id":1151704,
+        "qs:id":1114900,
+        "qs_pg:id":1114900
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"40bc9c5c7411526a49286e7ddf288f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696537,
+            "locality_id":102023367,
+            "neighbourhood_id":85771767,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":85771767,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859455,
+    "wof:name":"Kelawai",
+    "wof:parent_id":102023367,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.316121,
+    5.433311,
+    100.316121,
+    5.433311
+],
+  "geometry": {"coordinates":[100.316121,5.433311],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360264583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9651,5.2893,102.9651,5.2893",
+    "geom:latitude":5.2893,
+    "geom:longitude":102.9651,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ladang Sentosa",
+    "gn:country_code":"MY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7461043,
+    "gn:latitude":5.2893,
+    "gn:longitude":102.9651,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ladang Sentosa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ladang Sentosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7461043
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"562ace0f70200b701f8b4188dd3fa6eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":1360264583,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1360264583,
+    "wof:lastmodified":1537674292,
+    "wof:name":"Ladang Sentosa",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9651,
+    5.2893,
+    102.9651,
+    5.2893
+],
+  "geometry": {"coordinates":[102.96510000000001,5.2893],"type":"Point"}
+}

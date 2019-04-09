@@ -1,0 +1,67 @@
+{
+  "id": 1192996551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.48333,1.86667,112.48333,1.86667",
+    "geom:latitude":1.86667,
+    "geom:longitude":112.48333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rumah Sana",
+    "gn:country_code":"MY",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1747574,
+    "gn:latitude":1.86667,
+    "gn:longitude":112.48333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Rumah Sana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1747574
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a8be7092d54c86001d179471eed94d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696521,
+            "locality_id":1192996551,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1192996551,
+    "wof:lastmodified":1536375230,
+    "wof:name":"Rumah Sana",
+    "wof:parent_id":1108696521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.48333,
+    1.86667,
+    112.48333,
+    1.86667
+],
+  "geometry": {"coordinates":[112.48333,1.86667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242675563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.224,4.0486,102.224,4.0486",
+    "geom:latitude":4.0486,
+    "geom:longitude":102.224,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Kuala Jani",
+    "gn:country_code":"MY",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7649393,
+    "gn:latitude":4.0486,
+    "gn:longitude":102.224,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kuala Jani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Jani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890488203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7649393
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"eafaa3c65688438c208bd3d22082180a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488203,
+            "locality_id":1242675563,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1242675563,
+    "wof:lastmodified":1537674348,
+    "wof:name":"Kampung Kuala Jani",
+    "wof:parent_id":890488203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.224,
+    4.0486,
+    102.224,
+    4.0486
+],
+  "geometry": {"coordinates":[102.224,4.0486],"type":"Point"}
+}

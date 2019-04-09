@@ -1,0 +1,70 @@
+{
+  "id": 1343861653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.56152,6.20337,100.56152,6.20337",
+    "geom:latitude":6.20337,
+    "geom:longitude":100.56152,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Apil",
+    "gn:country_code":"MY",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6853429,
+    "gn:latitude":6.20337,
+    "gn:longitude":100.56152,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Apil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Apil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675133,
+        890490361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6853429
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"5858a82468ea5c271ab2a3daff49e6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490361,
+            "locality_id":1343861653,
+            "region_id":85675133
+        }
+    ],
+    "wof:id":1343861653,
+    "wof:lastmodified":1537674258,
+    "wof:name":"Kampung Apil",
+    "wof:parent_id":890490361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.56152,
+    6.20337,
+    100.56152,
+    6.20337
+],
+  "geometry": {"coordinates":[100.56152,6.20337],"type":"Point"}
+}

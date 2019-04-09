@@ -1,0 +1,70 @@
+{
+  "id": 1209810899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.16012,6.40828,100.16012,6.40828",
+    "geom:latitude":6.40828,
+    "geom:longitude":100.16012,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kampung Bangsa Lebah",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6819191,
+    "gn:latitude":6.40828,
+    "gn:longitude":100.16012,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Bangsa Lebah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bangsa Lebah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675137,
+        1108696407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6819191
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"c9fa9ea5291cd49eb5090aefc68ccd27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696407,
+            "locality_id":1209810899,
+            "region_id":85675137
+        }
+    ],
+    "wof:id":1209810899,
+    "wof:lastmodified":1537674247,
+    "wof:name":"Kampung Bangsa Lebah",
+    "wof:parent_id":1108696407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.16012,
+    6.40828,
+    100.16012,
+    6.40828
+],
+  "geometry": {"coordinates":[100.16012000000001,6.40828],"type":"Point"}
+}

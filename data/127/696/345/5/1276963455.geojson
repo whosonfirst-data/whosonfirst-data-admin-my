@@ -1,0 +1,70 @@
+{
+  "id": 1276963455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.52429,5.4274,100.52429,5.4274",
+    "geom:latitude":5.4274,
+    "geom:longitude":100.52429,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kampung Lalang",
+    "gn:country_code":"MY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6823606,
+    "gn:latitude":5.4274,
+    "gn:longitude":100.52429,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Lalang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lalang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675127,
+        890489737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6823606
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7605d997f322bd3d693cecd15a7def2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489737,
+            "locality_id":1276963455,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":1276963455,
+    "wof:lastmodified":1537674253,
+    "wof:name":"Kampung Lalang",
+    "wof:parent_id":890489737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52429,
+    5.4274,
+    100.52429,
+    5.4274
+],
+  "geometry": {"coordinates":[100.52428999999999,5.4274],"type":"Point"}
+}

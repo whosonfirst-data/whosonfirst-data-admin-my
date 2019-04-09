@@ -1,0 +1,64 @@
+{
+  "id": 1209183697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.54097,5.90411,116.54097,5.90411",
+    "geom:latitude":5.90411,
+    "geom:longitude":116.54097,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Kirongkim",
+    "gn:country_code":"MY",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1768220,
+    "gn:latitude":5.90411,
+    "gn:longitude":116.54097,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Kirongkim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Kirongkim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1768220
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0dbb529420576df3d254f7f4ca89b975",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209183697
+        }
+    ],
+    "wof:id":1209183697,
+    "wof:lastmodified":1537674068,
+    "wof:name":"Kampung Kirongkim",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.54097,
+    5.90411,
+    116.54097,
+    5.90411
+],
+  "geometry": {"coordinates":[116.54097,5.90411],"type":"Point"}
+}

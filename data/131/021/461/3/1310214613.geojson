@@ -1,0 +1,70 @@
+{
+  "id": 1310214613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.6591,2.3672,103.6591,2.3672",
+    "geom:latitude":2.3672,
+    "geom:longitude":103.6591,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Sungai Tuba",
+    "gn:country_code":"MY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7567450,
+    "gn:latitude":2.3672,
+    "gn:longitude":103.6591,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Sungai Tuba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Tuba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890488715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7567450
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"73298163a5a8a050ca01acb15eb9f9f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488715,
+            "locality_id":1310214613,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1310214613,
+    "wof:lastmodified":1537674317,
+    "wof:name":"Kampung Sungai Tuba",
+    "wof:parent_id":890488715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.6591,
+    2.3672,
+    103.6591,
+    2.3672
+],
+  "geometry": {"coordinates":[103.6591,2.3672],"type":"Point"}
+}

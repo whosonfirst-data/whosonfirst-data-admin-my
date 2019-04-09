@@ -1,0 +1,65 @@
+{
+  "id": 1209484957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.0652,6.632,117.0652,6.632",
+    "geom:latitude":6.632,
+    "geom:longitude":117.0652,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kampung Pandan",
+    "gn:country_code":"MY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416328,
+    "gn:latitude":6.632,
+    "gn:longitude":117.0652,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Pandan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pandan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416328,
+        "wk:page":"Kampung_Pandan"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"073d2db9ecb838d50bd31cc430ab9edd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209484957
+        }
+    ],
+    "wof:id":1209484957,
+    "wof:lastmodified":1537674282,
+    "wof:name":"Kampung Pandan",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.0652,
+    6.632,
+    117.0652,
+    6.632
+],
+  "geometry": {"coordinates":[117.0652,6.632],"type":"Point"}
+}

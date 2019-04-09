@@ -1,0 +1,74 @@
+{
+  "id": 1293389101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.74717,2.62576,101.74717,2.62576",
+    "geom:latitude":2.62576,
+    "geom:longitude":101.74717,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kampung Sungai Nipah",
+    "gn:country_code":"MY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1742680,
+    "gn:latitude":2.62576,
+    "gn:longitude":101.74717,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Kampung Sungai Nipah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sungai Nipah"
+    ],
+    "name:und_x_variant":[
+        "Sungei Nipah",
+        "Sungai Nipah New Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675155,
+        890490331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1742680
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"fbf04661bdcc7491564b549da23ba878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490331,
+            "locality_id":1293389101,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":1293389101,
+    "wof:lastmodified":1537673762,
+    "wof:name":"Kampung Sungai Nipah",
+    "wof:parent_id":890490331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.74717,
+    2.62576,
+    101.74717,
+    2.62576
+],
+  "geometry": {"coordinates":[101.74717,2.62576],"type":"Point"}
+}

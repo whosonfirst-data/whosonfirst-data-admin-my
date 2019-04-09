@@ -1,0 +1,61 @@
+{
+  "id": 1327107099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.727,6.2324,117.727,6.2324",
+    "geom:latitude":6.2324,
+    "geom:longitude":117.727,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tanjong Nuig",
+    "gn:country_code":"MY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7045396,
+    "gn:latitude":6.2324,
+    "gn:longitude":117.727,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tanjong Nuig",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7045396
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2c4e49ee5addb230f297cab40c7b69cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327107099,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327107099,
+    "wof:lastmodified":1536652675,
+    "wof:name":"Tanjong Nuig",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.727,
+    6.2324,
+    117.727,
+    6.2324
+],
+  "geometry": {"coordinates":[117.727,6.2324],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243037623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.65628,4.49078,118.65628,4.49078",
+    "geom:latitude":4.49078,
+    "geom:longitude":118.65628,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kampung Tangal",
+    "gn:country_code":"MY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1763525,
+    "gn:latitude":4.49078,
+    "gn:longitude":118.65628,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Tangal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Tangar",
+        "Kampung Tangal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675173,
+        1108696507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1763525
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a3aaa4e019a98e7302151ade0569b1f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696507,
+            "locality_id":1243037623,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":1243037623,
+    "wof:lastmodified":1537673865,
+    "wof:name":"Kampung Tangal",
+    "wof:parent_id":1108696507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.65628,
+    4.49078,
+    118.65628,
+    4.49078
+],
+  "geometry": {"coordinates":[118.65628,4.49078],"type":"Point"}
+}

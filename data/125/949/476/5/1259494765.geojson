@@ -1,0 +1,70 @@
+{
+  "id": 1259494765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.10028,6.22966,102.10028,6.22966",
+    "geom:latitude":6.22966,
+    "geom:longitude":102.10028,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Telaga Lanos",
+    "gn:country_code":"MY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068224,
+    "gn:latitude":6.22966,
+    "gn:longitude":102.10028,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Telaga Lanos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Telaga Lanos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890489803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068224
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3df2b786b0e8d4397e0b6b509896eccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489803,
+            "locality_id":1259494765,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1259494765,
+    "wof:lastmodified":1537674279,
+    "wof:name":"Kampung Telaga Lanos",
+    "wof:parent_id":890489803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.10028,
+    6.22966,
+    102.10028,
+    6.22966
+],
+  "geometry": {"coordinates":[102.10028,6.22966],"type":"Point"}
+}

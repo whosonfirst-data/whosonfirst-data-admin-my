@@ -1,0 +1,64 @@
+{
+  "id": 1209422645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6151,5.0894,101.6151,5.0894",
+    "geom:latitude":5.0894,
+    "geom:longitude":101.6151,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kampung Kuala Halak",
+    "gn:country_code":"MY",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7461970,
+    "gn:latitude":5.0894,
+    "gn:longitude":101.6151,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Kuala Halak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Halak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7461970
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"a3db63e1f72a1e909d339101db2f814a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209422645
+        }
+    ],
+    "wof:id":1209422645,
+    "wof:lastmodified":1537674295,
+    "wof:name":"Kampung Kuala Halak",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6151,
+    5.0894,
+    101.6151,
+    5.0894
+],
+  "geometry": {"coordinates":[101.6151,5.0894],"type":"Point"}
+}

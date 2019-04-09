@@ -1,0 +1,65 @@
+{
+  "id": 1209317897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.7114,5.46312,100.7114,5.46312",
+    "geom:latitude":5.46312,
+    "geom:longitude":100.7114,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampung Kuala Nau",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6858716,
+    "gn:latitude":5.46312,
+    "gn:longitude":100.7114,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kampung Kuala Nau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kuala Nau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858716
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"aa306f4ab86647d2b1a3940798cb4fc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209317897
+        }
+    ],
+    "wof:id":1209317897,
+    "wof:lastmodified":1537674266,
+    "wof:name":"Kampung Kuala Nau",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.7114,
+    5.46312,
+    100.7114,
+    5.46312
+],
+  "geometry": {"coordinates":[100.7114,5.46312],"type":"Point"}
+}

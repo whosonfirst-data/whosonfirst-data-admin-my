@@ -1,0 +1,70 @@
+{
+  "id": 1226638445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3408,4.0,102.3408,4.0",
+    "geom:latitude":4.0,
+    "geom:longitude":102.3408,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kampung Besol",
+    "gn:country_code":"MY",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7793939,
+    "gn:latitude":4.0,
+    "gn:longitude":102.3408,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Besol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Besol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        890489711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7793939
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7728b173ad6f385242a0caff0cb64db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489711,
+            "locality_id":1226638445,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1226638445,
+    "wof:lastmodified":1537674389,
+    "wof:name":"Kampung Besol",
+    "wof:parent_id":890489711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3408,
+    4.0,
+    102.3408,
+    4.0
+],
+  "geometry": {"coordinates":[102.3408,4.0],"type":"Point"}
+}

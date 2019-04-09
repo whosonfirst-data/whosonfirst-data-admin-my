@@ -1,0 +1,67 @@
+{
+  "id": 1343846057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.43333,2.53333,111.43333,2.53333",
+    "geom:latitude":2.53333,
+    "geom:longitude":111.43333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Lemang Peh",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1767516,
+    "gn:latitude":2.53333,
+    "gn:longitude":111.43333,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Kampong Lemang Peh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1767516
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"da2f7e239a426c9238d95804de27cba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696397,
+            "locality_id":1343846057,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1343846057,
+    "wof:lastmodified":1536687419,
+    "wof:name":"Kampong Lemang Peh",
+    "wof:parent_id":1108696397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.43333,
+    2.53333,
+    111.43333,
+    2.53333
+],
+  "geometry": {"coordinates":[111.43333,2.53333],"type":"Point"}
+}

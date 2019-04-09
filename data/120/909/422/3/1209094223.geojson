@@ -1,0 +1,65 @@
+{
+  "id": 1209094223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.19778,1.177,110.19778,1.177",
+    "geom:latitude":1.177,
+    "geom:longitude":110.19778,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kampong Sapit",
+    "gn:country_code":"MY",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764865,
+    "gn:latitude":1.177,
+    "gn:longitude":110.19778,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kampong Sapit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Sepit",
+        "Kampong Sapit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764865
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"be16b7ce26cdc17610b776da4113d1c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209094223
+        }
+    ],
+    "wof:id":1209094223,
+    "wof:lastmodified":1537673929,
+    "wof:name":"Kampong Sapit",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.19778,
+    1.177,
+    110.19778,
+    1.177
+],
+  "geometry": {"coordinates":[110.19777999999999,1.177],"type":"Point"}
+}

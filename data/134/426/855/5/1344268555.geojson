@@ -1,0 +1,67 @@
+{
+  "id": 1344268555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.85613,5.78744,101.85613,5.78744",
+    "geom:latitude":5.78744,
+    "geom:longitude":101.85613,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kampong Sat",
+    "gn:country_code":"MY",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764844,
+    "gn:latitude":5.78744,
+    "gn:longitude":101.85613,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Kampong Sat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675145,
+        890490101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764844
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"6af4d75783b989edeb0e2afe0014e4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490101,
+            "locality_id":1344268555,
+            "region_id":85675145
+        }
+    ],
+    "wof:id":1344268555,
+    "wof:lastmodified":1537069392,
+    "wof:name":"Kampong Sat",
+    "wof:parent_id":890490101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.85613,
+    5.78744,
+    101.85613,
+    5.78744
+],
+  "geometry": {"coordinates":[101.85612999999999,5.78744],"type":"Point"}
+}

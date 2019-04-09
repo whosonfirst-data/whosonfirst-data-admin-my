@@ -1,0 +1,75 @@
+{
+  "id": 1276319847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9772,4.9888,102.9772,4.9888",
+    "geom:latitude":4.9888,
+    "geom:longitude":102.9772,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kampung Bukit Kundur",
+    "gn:country_code":"MY",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1770207,
+    "gn:latitude":4.9888,
+    "gn:longitude":102.9772,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Bukit Kundur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Kundur"
+    ],
+    "name:und_x_variant":[
+        "Kampong Kuala Meh",
+        "Kampong Kuala Mer",
+        "Kampong Bukit Kudor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675169,
+        890488201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1770207
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3f8a34190db9c5f8e5ed5be811b9ffcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488201,
+            "locality_id":1276319847,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":1276319847,
+    "wof:lastmodified":1537674152,
+    "wof:name":"Kampung Bukit Kundur",
+    "wof:parent_id":890488201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9772,
+    4.9888,
+    102.9772,
+    4.9888
+],
+  "geometry": {"coordinates":[102.9772,4.9888],"type":"Point"}
+}

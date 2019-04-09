@@ -1,0 +1,64 @@
+{
+  "id": 1209194513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8033,2.9985,101.8033,2.9985",
+    "geom:latitude":2.9985,
+    "geom:longitude":101.8033,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taman Maju Satu",
+    "gn:country_code":"MY",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7688619,
+    "gn:latitude":2.9985,
+    "gn:longitude":101.8033,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taman Maju Satu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Taman Maju Satu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7688619
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7ec720d03dff2c95f64d82ab2032d65e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":1209194513
+        }
+    ],
+    "wof:id":1209194513,
+    "wof:lastmodified":1537674361,
+    "wof:name":"Taman Maju Satu",
+    "wof:parent_id":85632739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8033,
+    2.9985,
+    101.8033,
+    2.9985
+],
+  "geometry": {"coordinates":[101.80329999999999,2.9985],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309998433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7855,3.4892,102.7855,3.4892",
+    "geom:latitude":3.4892,
+    "geom:longitude":102.7855,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kampung Sekreta",
+    "gn:country_code":"MY",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1764706,
+    "gn:latitude":3.4892,
+    "gn:longitude":102.7855,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampung Sekreta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sekreta"
+    ],
+    "name:und_x_variant":[
+        "Kampong Sekreta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675159,
+        1108696463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1764706
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"3d6b853fed27489985c4e861b0ad2131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696463,
+            "locality_id":1309998433,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":1309998433,
+    "wof:lastmodified":1537673921,
+    "wof:name":"Kampung Sekreta",
+    "wof:parent_id":1108696463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7855,
+    3.4892,
+    102.7855,
+    3.4892
+],
+  "geometry": {"coordinates":[102.7855,3.4892],"type":"Point"}
+}

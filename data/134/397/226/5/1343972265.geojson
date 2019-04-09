@@ -1,0 +1,70 @@
+{
+  "id": 1343972265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0574,1.9642,103.0574,1.9642",
+    "geom:latitude":1.9642,
+    "geom:longitude":103.0574,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampung Parit Hamil",
+    "gn:country_code":"MY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857039,
+    "gn:latitude":1.9642,
+    "gn:longitude":103.0574,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Parit Hamil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Parit Hamil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675141,
+        890490999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857039
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0f85d862a9457eb8cb92856b1c72bb9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490999,
+            "locality_id":1343972265,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1343972265,
+    "wof:lastmodified":1537674441,
+    "wof:name":"Kampung Parit Hamil",
+    "wof:parent_id":890490999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0574,
+    1.9642,
+    103.0574,
+    1.9642
+],
+  "geometry": {"coordinates":[103.0574,1.9642],"type":"Point"}
+}

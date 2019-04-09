@@ -1,0 +1,137 @@
+{
+  "id": 85784453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1121165.093854,
+    "geom:bbox":"100.304658,5.354699,100.304658,5.354699",
+    "geom:latitude":5.354699,
+    "geom:longitude":100.304658,
+    "gn:id":"",
+    "iso:country":"MY",
+    "lbl:latitude":5.354699,
+    "lbl:longitude":100.304658,
+    "mps:latitude":5.355019,
+    "mps:longitude":100.303461,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Science University Malaysia"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u0645\u0627\u0644\u0632\u06cc"
+    ],
+    "name:ind_x_preferred":[
+        "Universitas Sains Malaysia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ec\u30fc\u30b7\u30a2\u30b5\u30a4\u30f3\u30ba\u5927\u5b66"
+    ],
+    "name:mar_x_preferred":[
+        "\u092f\u0941\u0928\u093f\u0935\u094d\u0939\u0930\u094d\u0938\u093f\u091f\u0940 \u0938\u0948\u0928\u094d\u0938 \u092e\u0932\u0947\u0936\u093f\u092f\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Universiti Sains Malaysia"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd"
+    ],
+    "name:und_x_preferred":[
+        "Universiti Sains Malaysia"
+    ],
+    "name:unk_x_variant":[
+        "Universiti Sains Malaysia"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea1i h\u1ecdc Khoa h\u1ecdc Malaysia"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u6765\u897f\u4e9a\u7406\u79d1\u5927\u5b66"
+    ],
+    "qs:gn_adm0_cc":"MY",
+    "qs:gn_id":0,
+    "qs:gn_local":1764027,
+    "qs:gn_nam_loc":"Kampong Sungai Gelugor, Pulau Pinang, MY",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":422,
+    "qs:local_sum":2726,
+    "qs:localhoods":18,
+    "qs:name":"Universiti Sains Malaysia",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pulau Pinang",
+    "qs:name_adm2":"Timur Laut",
+    "qs:name_lau":"Bandar Gelugur",
+    "qs:name_local":"Kampong Sungai Gelugor",
+    "qs:photo_max":55,
+    "qs:photo_sum":205,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424901,
+    "qs:woe_adm1":2346304,
+    "qs:woe_adm2":56013581,
+    "qs:woe_lau":56014312,
+    "qs:woe_local":1149014,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":2386,
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023367,
+        1108696537,
+        85675127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56036469,
+        "qs:id":233904,
+        "qs_pg:id":233904,
+        "wd:id":"Q1973130"
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0ff94b95d2597f2b03b00da1694e8dd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696537,
+            "locality_id":102023367,
+            "neighbourhood_id":85784453,
+            "region_id":85675127
+        }
+    ],
+    "wof:id":85784453,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531860610,
+    "wof:name":"Universiti Sains Malaysia",
+    "wof:parent_id":102023367,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.304658,
+    5.354699,
+    100.304658,
+    5.354699
+],
+  "geometry": {"coordinates":[100.304658,5.354699],"type":"Point"}
+}
