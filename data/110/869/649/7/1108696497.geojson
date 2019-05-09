@@ -10,6 +10,12 @@
     "geom:latitude":2.870069,
     "geom:longitude":103.14503,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Rompin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.7538,
     "lbl:longitude":103.147559,
     "meso:admin_1":"PAHANG",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108696497,
-    "wof:lastmodified":1543954425,
+    "wof:lastmodified":1553718303,
     "wof:name":"Rompin",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

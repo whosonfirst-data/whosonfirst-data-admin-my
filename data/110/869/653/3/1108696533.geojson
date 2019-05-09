@@ -10,6 +10,12 @@
     "geom:latitude":4.469698,
     "geom:longitude":117.635509,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Tawau District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.504895,
     "lbl:longitude":117.458201,
     "meso:admin_1":"SABAH",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696533,
-    "wof:lastmodified":1543954426,
+    "wof:lastmodified":1553718307,
     "wof:name":"Tawau",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

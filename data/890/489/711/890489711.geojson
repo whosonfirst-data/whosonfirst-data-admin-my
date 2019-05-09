@@ -11,6 +11,12 @@
     "geom:longitude":102.552516,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Jerantut District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.268109,
     "lbl:longitude":102.591472,
     "meso:admin_1":"PAHANG",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890489711,
-    "wof:lastmodified":1543954364,
+    "wof:lastmodified":1553717810,
     "wof:name":"Jerantut",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

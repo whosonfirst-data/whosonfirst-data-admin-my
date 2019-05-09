@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":510376,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Muar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.082822,
     "lbl:longitude":102.762721,
     "meso:admin_1":"JOHOR",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":890488721,
-    "wof:lastmodified":1543954363,
+    "wof:lastmodified":1553717809,
     "wof:name":"Muar",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

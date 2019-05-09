@@ -10,6 +10,12 @@
     "geom:latitude":6.002185,
     "geom:longitude":102.378494,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Bachok District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.980011,
     "lbl:longitude":102.385009,
     "meso:admin_1":"KELANTAN",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108696377,
-    "wof:lastmodified":1543954421,
+    "wof:lastmodified":1553718301,
     "wof:name":"Bachok",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

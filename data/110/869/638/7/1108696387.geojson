@@ -10,6 +10,12 @@
     "geom:latitude":2.452797,
     "geom:longitude":114.294434,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Belaga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.434212,
     "lbl:longitude":114.279906,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696387,
-    "wof:lastmodified":1543954423,
+    "wof:lastmodified":1553718302,
     "wof:name":"Belaga",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

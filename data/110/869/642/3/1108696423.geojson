@@ -10,6 +10,12 @@
     "geom:latitude":6.203164,
     "geom:longitude":115.595138,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kota Kinabalu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.202882,
     "lbl:longitude":115.594983,
     "meso:admin_1":"SABAH",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696423,
-    "wof:lastmodified":1543954422,
+    "wof:lastmodified":1553718301,
     "wof:name":"Kota Kinabalu",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

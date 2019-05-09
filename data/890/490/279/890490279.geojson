@@ -11,6 +11,12 @@
     "geom:longitude":102.473493,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Jempol District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.839916,
     "lbl:longitude":102.508334,
     "meso:admin_1":"NEGERI SEMBILAN",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890490279,
-    "wof:lastmodified":1543954365,
+    "wof:lastmodified":1553717811,
     "wof:name":"Jempol",
     "wof:parent_id":85675155,
     "wof:placetype":"county",

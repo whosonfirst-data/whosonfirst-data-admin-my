@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":279600,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kota Tinggi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.858088,
     "lbl:longitude":103.918363,
     "meso:admin_1":"JOHOR",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890491003,
-    "wof:lastmodified":1543954366,
+    "wof:lastmodified":1553717812,
     "wof:name":"Kota Tinggi",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

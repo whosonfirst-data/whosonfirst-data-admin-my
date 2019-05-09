@@ -10,6 +10,12 @@
     "geom:latitude":5.316507,
     "geom:longitude":115.702277,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Beaufort District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.348264,
     "lbl:longitude":115.706342,
     "meso:admin_1":"SABAH",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108696385,
-    "wof:lastmodified":1543954421,
+    "wof:lastmodified":1553718300,
     "wof:name":"Beaufort",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

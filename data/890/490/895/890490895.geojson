@@ -11,6 +11,12 @@
     "geom:longitude":103.091371,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kuantan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.839243,
     "lbl:longitude":103.06669,
     "meso:admin_1":"PAHANG",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890490895,
-    "wof:lastmodified":1543954365,
+    "wof:lastmodified":1553717812,
     "wof:name":"Kuantan",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

@@ -11,6 +11,12 @@
     "geom:longitude":111.449122,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Sarikei District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.079042,
     "lbl:longitude":111.46428,
     "meso:admin_1":"SARAWAK",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890488261,
-    "wof:lastmodified":1543954362,
+    "wof:lastmodified":1553717808,
     "wof:name":"Sarikei",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

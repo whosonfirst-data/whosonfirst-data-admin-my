@@ -10,6 +10,12 @@
     "geom:latitude":6.079281,
     "geom:longitude":117.301557,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Beluran District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.046094,
     "lbl:longitude":117.266579,
     "meso:admin_1":"SABAH",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696439,
-    "wof:lastmodified":1543954422,
+    "wof:lastmodified":1553718304,
     "wof:name":"Beluran",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

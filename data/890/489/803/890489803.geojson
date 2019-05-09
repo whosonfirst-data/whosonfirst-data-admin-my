@@ -11,6 +11,12 @@
     "geom:longitude":102.162677,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Tumpat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.156469,
     "lbl:longitude":102.173259,
     "meso:admin_1":"KELANTAN",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":890489803,
-    "wof:lastmodified":1543954363,
+    "wof:lastmodified":1553717810,
     "wof:name":"Tumpat",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":1.793179,
     "geom:longitude":111.69341,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Pakan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.85476,
     "lbl:longitude":111.663147,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696475,
-    "wof:lastmodified":1543954423,
+    "wof:lastmodified":1553718301,
     "wof:name":"Pakan",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

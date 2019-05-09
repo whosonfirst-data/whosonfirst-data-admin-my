@@ -11,6 +11,12 @@
     "geom:longitude":102.265078,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Temerloh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.598719,
     "lbl:longitude":102.265141,
     "meso:admin_1":"PAHANG",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890489541,
-    "wof:lastmodified":1543954363,
+    "wof:lastmodified":1553717810,
     "wof:name":"Temerloh",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

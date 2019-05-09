@@ -11,6 +11,12 @@
     "geom:longitude":102.256075,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Melaka Tengah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.232546,
     "lbl:longitude":102.270898,
     "meso:admin_1":"MELAKA",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":890489715,
-    "wof:lastmodified":1543954363,
+    "wof:lastmodified":1553717810,
     "wof:name":"Melaka Tengah",
     "wof:parent_id":85675151,
     "wof:placetype":"county",

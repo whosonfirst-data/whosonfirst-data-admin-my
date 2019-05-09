@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kulim District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.400338,
     "lbl:longitude":100.619793,
     "meso:admin_1":"KEDAH",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":890490359,
-    "wof:lastmodified":1543954364,
+    "wof:lastmodified":1553717812,
     "wof:name":"Kulim",
     "wof:parent_id":85675133,
     "wof:placetype":"county",

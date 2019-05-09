@@ -10,6 +10,12 @@
     "geom:latitude":1.681967,
     "geom:longitude":103.556123,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kulaijaya District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.674743,
     "lbl:longitude":103.571635,
     "meso:admin_1":"JOHOR",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108696433,
-    "wof:lastmodified":1543954421,
+    "wof:lastmodified":1553718302,
     "wof:name":"Kulaijaya",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

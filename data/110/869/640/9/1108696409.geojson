@@ -10,6 +10,12 @@
     "geom:latitude":1.957379,
     "geom:longitude":112.226604,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kanowit District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.957932,
     "lbl:longitude":112.221417,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696409,
-    "wof:lastmodified":1543954422,
+    "wof:lastmodified":1553718301,
     "wof:name":"Kanowit",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

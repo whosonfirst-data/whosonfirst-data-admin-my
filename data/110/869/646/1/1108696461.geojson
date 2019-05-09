@@ -10,6 +10,12 @@
     "geom:latitude":2.168659,
     "geom:longitude":111.64088,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Meradong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.133304,
     "lbl:longitude":111.680913,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696461,
-    "wof:lastmodified":1543954423,
+    "wof:lastmodified":1553718303,
     "wof:name":"Meradong",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

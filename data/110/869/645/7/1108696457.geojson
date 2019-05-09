@@ -10,6 +10,12 @@
     "geom:latitude":5.74849,
     "geom:longitude":102.24482,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Machang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.750254,
     "lbl:longitude":102.231183,
     "meso:admin_1":"KELANTAN",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696457,
-    "wof:lastmodified":1543954422,
+    "wof:lastmodified":1553718302,
     "wof:name":"Machang",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

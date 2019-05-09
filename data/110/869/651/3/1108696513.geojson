@@ -10,6 +10,12 @@
     "geom:latitude":5.451728,
     "geom:longitude":102.789244,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Setiu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.458882,
     "lbl:longitude":102.786119,
     "meso:admin_1":"TERENGGANU",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1108696513,
-    "wof:lastmodified":1543954425,
+    "wof:lastmodified":1553718304,
     "wof:name":"Setiu",
     "wof:parent_id":85675169,
     "wof:placetype":"county",

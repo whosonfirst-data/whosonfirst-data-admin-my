@@ -10,6 +10,12 @@
     "geom:latitude":4.49711,
     "geom:longitude":118.438957,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Semporna District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.442197,
     "lbl:longitude":118.3956,
     "meso:admin_1":"SABAH",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696507,
-    "wof:lastmodified":1543954425,
+    "wof:lastmodified":1553718304,
     "wof:name":"Semporna",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

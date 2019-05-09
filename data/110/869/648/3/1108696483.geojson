@@ -10,6 +10,12 @@
     "geom:latitude":4.615872,
     "geom:longitude":116.458358,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Nabawan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.630158,
     "lbl:longitude":116.353932,
     "meso:admin_1":"SABAH",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696483,
-    "wof:lastmodified":1543954424,
+    "wof:lastmodified":1553718303,
     "wof:name":"Nabawan",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.333652,
     "geom:longitude":100.708209,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Manjung District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.371073,
     "lbl:longitude":100.696795,
     "meso:admin_1":"PERAK",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1108696459,
-    "wof:lastmodified":1543954424,
+    "wof:lastmodified":1553718303,
     "wof:name":"Manjung",
     "wof:parent_id":85675123,
     "wof:placetype":"county",

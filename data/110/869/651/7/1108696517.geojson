@@ -10,6 +10,12 @@
     "geom:latitude":1.314276,
     "geom:longitude":110.856635,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Simunjan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.336651,
     "lbl:longitude":110.85679,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696517,
-    "wof:lastmodified":1543954425,
+    "wof:lastmodified":1553718304,
     "wof:name":"Simunjan",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

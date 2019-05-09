@@ -11,6 +11,12 @@
     "geom:longitude":102.388152,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Pasir Puteh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.83514,
     "lbl:longitude":102.357789,
     "meso:admin_1":"KELANTAN",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":890488991,
-    "wof:lastmodified":1543954362,
+    "wof:lastmodified":1553717809,
     "wof:name":"Pasir Puteh",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

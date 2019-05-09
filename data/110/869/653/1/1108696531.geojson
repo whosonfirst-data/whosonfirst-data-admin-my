@@ -10,6 +10,12 @@
     "geom:latitude":2.641052,
     "geom:longitude":113.026299,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Tatau District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.661185,
     "lbl:longitude":113.034518,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696531,
-    "wof:lastmodified":1543954425,
+    "wof:lastmodified":1553718305,
     "wof:name":"Tatau",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

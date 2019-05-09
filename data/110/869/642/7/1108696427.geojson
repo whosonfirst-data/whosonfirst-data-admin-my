@@ -10,6 +10,12 @@
     "geom:latitude":2.831918,
     "geom:longitude":101.502635,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kuala Langat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.832357,
     "lbl:longitude":101.522262,
     "meso:admin_1":"SELANGOR",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696427,
-    "wof:lastmodified":1543954422,
+    "wof:lastmodified":1553718304,
     "wof:name":"Kuala Langat",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

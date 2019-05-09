@@ -10,6 +10,12 @@
     "geom:latitude":4.661258,
     "geom:longitude":115.710759,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Sipitang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.545342,
     "lbl:longitude":115.713959,
     "meso:admin_1":"SABAH",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696519,
-    "wof:lastmodified":1543954425,
+    "wof:lastmodified":1553718304,
     "wof:name":"Sipitang",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

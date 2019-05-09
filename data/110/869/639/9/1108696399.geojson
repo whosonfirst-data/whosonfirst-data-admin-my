@@ -10,6 +10,12 @@
     "geom:latitude":3.282001,
     "geom:longitude":101.64942,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Gombak District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.274121,
     "lbl:longitude":101.599638,
     "meso:admin_1":"SELANGOR",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696399,
-    "wof:lastmodified":1543954421,
+    "wof:lastmodified":1553718301,
     "wof:name":"Gombak",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

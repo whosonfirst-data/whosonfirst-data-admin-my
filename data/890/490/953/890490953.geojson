@@ -11,6 +11,12 @@
     "geom:longitude":101.157863,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kinta District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.504415,
     "lbl:longitude":101.162109,
     "meso:admin_1":"PERAK",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":890490953,
-    "wof:lastmodified":1543954365,
+    "wof:lastmodified":1553717812,
     "wof:name":"Kinta",
     "wof:parent_id":85675123,
     "wof:placetype":"county",

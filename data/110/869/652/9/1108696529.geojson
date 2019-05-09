@@ -10,6 +10,12 @@
     "geom:latitude":2.55298,
     "geom:longitude":102.459859,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Tampin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.566402,
     "lbl:longitude":102.481633,
     "meso:admin_1":"NEGERI SEMBILAN",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696529,
-    "wof:lastmodified":1543954426,
+    "wof:lastmodified":1553718305,
     "wof:name":"Tampin",
     "wof:parent_id":85675155,
     "wof:placetype":"county",

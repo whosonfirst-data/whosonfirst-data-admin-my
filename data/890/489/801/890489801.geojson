@@ -11,6 +11,12 @@
     "geom:longitude":100.565297,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kerian District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.988013,
     "lbl:longitude":100.586921,
     "meso:admin_1":"PERAK",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890489801,
-    "wof:lastmodified":1543954363,
+    "wof:lastmodified":1553717810,
     "wof:name":"Kerian",
     "wof:parent_id":85675123,
     "wof:placetype":"county",

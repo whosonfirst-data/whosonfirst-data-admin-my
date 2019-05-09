@@ -11,6 +11,12 @@
     "geom:longitude":100.54648,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Pendang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.975468,
     "lbl:longitude":100.544166,
     "meso:admin_1":"KEDAH",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":890489109,
-    "wof:lastmodified":1543954362,
+    "wof:lastmodified":1553717809,
     "wof:name":"Pendang",
     "wof:parent_id":85675133,
     "wof:placetype":"county",

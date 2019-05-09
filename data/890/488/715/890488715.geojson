@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":107400,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Daerah Mersing District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.279382,
     "lbl:longitude":103.782379,
     "meso:admin_1":"JOHOR",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890488715,
-    "wof:lastmodified":1536617447,
+    "wof:lastmodified":1553717809,
     "wof:name":"Daerah Mersing",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

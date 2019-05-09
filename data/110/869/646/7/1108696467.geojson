@@ -10,6 +10,12 @@
     "geom:latitude":2.648816,
     "geom:longitude":111.700217,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Matu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.645875,
     "lbl:longitude":111.695825,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696467,
-    "wof:lastmodified":1543954423,
+    "wof:lastmodified":1553718302,
     "wof:name":"Matu",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

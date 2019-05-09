@@ -11,6 +11,12 @@
     "geom:longitude":102.197857,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Alor Gajah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.398147,
     "lbl:longitude":102.197941,
     "meso:admin_1":"MELAKA",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890489107,
-    "wof:lastmodified":1543954362,
+    "wof:lastmodified":1553717809,
     "wof:name":"Alor Gajah",
     "wof:parent_id":85675151,
     "wof:placetype":"county",

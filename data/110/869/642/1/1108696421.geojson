@@ -10,6 +10,12 @@
     "geom:latitude":6.317939,
     "geom:longitude":116.512115,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kota Belud District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.305949,
     "lbl:longitude":116.495259,
     "meso:admin_1":"SABAH",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696421,
-    "wof:lastmodified":1543954422,
+    "wof:lastmodified":1553718301,
     "wof:name":"Kota Belud",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

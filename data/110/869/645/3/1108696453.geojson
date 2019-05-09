@@ -10,6 +10,12 @@
     "geom:latitude":1.659027,
     "geom:longitude":109.85413,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Lundu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.592683,
     "lbl:longitude":109.858998,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696453,
-    "wof:lastmodified":1543954424,
+    "wof:lastmodified":1553718301,
     "wof:name":"Lundu",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

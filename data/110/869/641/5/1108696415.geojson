@@ -10,6 +10,12 @@
     "geom:latitude":3.031235,
     "geom:longitude":101.388702,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Klang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.037016,
     "lbl:longitude":101.415538,
     "meso:admin_1":"SELANGOR",
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":1108696415,
-    "wof:lastmodified":1543954424,
+    "wof:lastmodified":1553718301,
     "wof:name":"Klang",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

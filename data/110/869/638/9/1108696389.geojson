@@ -10,6 +10,12 @@
     "geom:latitude":3.383207,
     "geom:longitude":102.013307,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Bentong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.413266,
     "lbl:longitude":101.960807,
     "meso:admin_1":"PAHANG",
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":1108696389,
-    "wof:lastmodified":1543954426,
+    "wof:lastmodified":1553718301,
     "wof:name":"Bentong",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

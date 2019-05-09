@@ -11,6 +11,12 @@
     "geom:longitude":102.114837,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Jelebu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.03804,
     "lbl:longitude":102.114748,
     "meso:admin_1":"NEGERI SEMBILAN",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":890488317,
-    "wof:lastmodified":1543954362,
+    "wof:lastmodified":1553717808,
     "wof:name":"Jelebu",
     "wof:parent_id":85675155,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.009414,
     "geom:longitude":116.265874,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Tuaran District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.003817,
     "lbl:longitude":116.288496,
     "meso:admin_1":"SABAH",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696541,
-    "wof:lastmodified":1543954426,
+    "wof:lastmodified":1553718307,
     "wof:name":"Tuaran",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

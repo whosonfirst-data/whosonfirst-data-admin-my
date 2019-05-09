@@ -11,6 +11,12 @@
     "geom:longitude":113.827259,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Miri District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.680395,
     "lbl:longitude":113.733833,
     "meso:admin_1":"SARAWAK",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890488483,
-    "wof:lastmodified":1543954362,
+    "wof:lastmodified":1553717809,
     "wof:name":"Miri",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

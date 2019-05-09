@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Sabak Bernam District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.641344,
     "lbl:longitude":101.135144,
     "meso:admin_1":"SELANGOR",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":890490813,
-    "wof:lastmodified":1543954365,
+    "wof:lastmodified":1553717812,
     "wof:name":"Sabak Bernam",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

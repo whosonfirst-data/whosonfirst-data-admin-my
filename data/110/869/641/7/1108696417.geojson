@@ -10,6 +10,12 @@
     "geom:latitude":2.066195,
     "geom:longitude":103.38862,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kluang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.131689,
     "lbl:longitude":103.383501,
     "meso:admin_1":"JOHOR",
@@ -426,7 +432,7 @@
         }
     ],
     "wof:id":1108696417,
-    "wof:lastmodified":1543954423,
+    "wof:lastmodified":1553718303,
     "wof:name":"Kluang",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

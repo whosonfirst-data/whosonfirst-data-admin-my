@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":287400,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Segamat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.56153,
     "lbl:longitude":102.797111,
     "meso:admin_1":"JOHOR",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":890488717,
-    "wof:lastmodified":1543954362,
+    "wof:lastmodified":1553717809,
     "wof:name":"Segamat",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

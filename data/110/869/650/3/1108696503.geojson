@@ -10,6 +10,12 @@
     "geom:latitude":5.20964,
     "geom:longitude":100.479721,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Seberang Perai Selatan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.198672,
     "lbl:longitude":100.488775,
     "meso:admin_1":"PULAU PINANG",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696503,
-    "wof:lastmodified":1543954424,
+    "wof:lastmodified":1553718304,
     "wof:name":"Seberang Perai Selatan",
     "wof:parent_id":85675127,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":1.443923,
     "geom:longitude":110.492187,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Samarahan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.436184,
     "lbl:longitude":110.48966,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696499,
-    "wof:lastmodified":1543954426,
+    "wof:lastmodified":1553718304,
     "wof:name":"Samarahan",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

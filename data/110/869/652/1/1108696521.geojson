@@ -10,6 +10,12 @@
     "geom:latitude":1.767479,
     "geom:longitude":112.541648,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Song District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.767671,
     "lbl:longitude":112.654688,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696521,
-    "wof:lastmodified":1543954426,
+    "wof:lastmodified":1553718305,
     "wof:name":"Song",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

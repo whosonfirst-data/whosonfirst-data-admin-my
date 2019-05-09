@@ -10,6 +10,12 @@
     "geom:latitude":5.710283,
     "geom:longitude":100.867493,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Baling District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.58985,
     "lbl:longitude":100.799553,
     "meso:admin_1":"KEDAH",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696379,
-    "wof:lastmodified":1543954421,
+    "wof:lastmodified":1553718300,
     "wof:name":"Baling",
     "wof:parent_id":85675133,
     "wof:placetype":"county",

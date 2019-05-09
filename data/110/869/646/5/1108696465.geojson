@@ -10,6 +10,12 @@
     "geom:latitude":3.536654,
     "geom:longitude":114.766572,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Marudi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.466337,
     "lbl:longitude":114.849128,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696465,
-    "wof:lastmodified":1543954425,
+    "wof:lastmodified":1553718302,
     "wof:name":"Marudi",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

@@ -11,6 +11,12 @@
     "geom:longitude":100.911429,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Perak Tengah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.182208,
     "lbl:longitude":100.908941,
     "meso:admin_1":"PERAK",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890489811,
-    "wof:lastmodified":1543954364,
+    "wof:lastmodified":1553717810,
     "wof:name":"Perak Tengah",
     "wof:parent_id":85675123,
     "wof:placetype":"county",

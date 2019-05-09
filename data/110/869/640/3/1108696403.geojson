@@ -10,6 +10,12 @@
     "geom:latitude":1.522058,
     "geom:longitude":103.778572,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Johor Bahru District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.565901,
     "lbl:longitude":103.755092,
     "meso:admin_1":"JOHOR",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696403,
-    "wof:lastmodified":1543954422,
+    "wof:lastmodified":1553718303,
     "wof:name":"Johor Bahru",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

@@ -11,6 +11,12 @@
     "geom:longitude":101.891041,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Port Dickson District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.548994,
     "lbl:longitude":101.874502,
     "meso:admin_1":"NEGERI SEMBILAN",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890490331,
-    "wof:lastmodified":1543954363,
+    "wof:lastmodified":1553717811,
     "wof:name":"Port Dickson",
     "wof:parent_id":85675155,
     "wof:placetype":"county",

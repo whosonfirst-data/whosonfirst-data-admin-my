@@ -11,6 +11,12 @@
     "geom:longitude":100.815524,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kampar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.204057,
     "lbl:longitude":100.799339,
     "meso:admin_1":"PERAK",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":890489813,
-    "wof:lastmodified":1543954364,
+    "wof:lastmodified":1553717810,
     "wof:name":"Kampar",
     "wof:parent_id":85675123,
     "wof:placetype":"county",

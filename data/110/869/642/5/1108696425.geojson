@@ -10,6 +10,12 @@
     "geom:latitude":6.431183,
     "geom:longitude":116.802924,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kota Marudu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.398599,
     "lbl:longitude":116.777145,
     "meso:admin_1":"SABAH",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696425,
-    "wof:lastmodified":1543954422,
+    "wof:lastmodified":1553718302,
     "wof:name":"Kota Marudu",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

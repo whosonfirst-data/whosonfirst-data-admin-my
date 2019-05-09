@@ -10,6 +10,12 @@
     "geom:latitude":4.706089,
     "geom:longitude":118.055831,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kunak District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.740777,
     "lbl:longitude":118.074565,
     "meso:admin_1":"SABAH",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696435,
-    "wof:lastmodified":1543954421,
+    "wof:lastmodified":1553718303,
     "wof:name":"Kunak",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

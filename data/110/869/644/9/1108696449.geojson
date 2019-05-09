@@ -10,6 +10,12 @@
     "geom:latitude":4.289572,
     "geom:longitude":115.113129,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Limbang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.277214,
     "lbl:longitude":115.015013,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696449,
-    "wof:lastmodified":1543954423,
+    "wof:lastmodified":1553718303,
     "wof:name":"Limbang",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

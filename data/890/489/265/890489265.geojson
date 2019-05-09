@@ -11,6 +11,12 @@
     "geom:longitude":102.16385,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kuala Krai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.432075,
     "lbl:longitude":102.195976,
     "meso:admin_1":"KELANTAN",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":890489265,
-    "wof:lastmodified":1543954363,
+    "wof:lastmodified":1553717810,
     "wof:name":"Kuala Krai",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

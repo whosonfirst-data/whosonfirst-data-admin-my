@@ -10,6 +10,12 @@
     "geom:latitude":1.532829,
     "geom:longitude":110.627173,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Asajaya District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.560651,
     "lbl:longitude":110.604543,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696375,
-    "wof:lastmodified":1543954421,
+    "wof:lastmodified":1553718303,
     "wof:name":"Asajaya",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

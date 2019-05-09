@@ -10,6 +10,12 @@
     "geom:latitude":2.277638,
     "geom:longitude":102.640747,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Ledang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.290706,
     "lbl:longitude":102.623269,
     "meso:admin_1":"JOHOR",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108696447,
-    "wof:lastmodified":1543954422,
+    "wof:lastmodified":1553718301,
     "wof:name":"Ledang",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

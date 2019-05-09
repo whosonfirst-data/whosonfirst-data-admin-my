@@ -11,6 +11,12 @@
     "geom:longitude":101.959444,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Gua Musang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.004498,
     "lbl:longitude":101.82592,
     "meso:admin_1":"KELANTAN",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890488877,
-    "wof:lastmodified":1543954363,
+    "wof:lastmodified":1553717809,
     "wof:name":"Gua Musang",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

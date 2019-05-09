@@ -10,6 +10,12 @@
     "geom:latitude":1.529211,
     "geom:longitude":111.39291,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Betong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.515593,
     "lbl:longitude":111.525681,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696391,
-    "wof:lastmodified":1543954423,
+    "wof:lastmodified":1553718300,
     "wof:name":"Betong",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

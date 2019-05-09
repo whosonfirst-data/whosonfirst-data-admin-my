@@ -10,6 +10,12 @@
     "geom:latitude":6.503282,
     "geom:longitude":100.241052,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Perlis District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.504727,
     "lbl:longitude":100.262232,
     "meso:admin_1":"PERLIS",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696407,
-    "wof:lastmodified":1543954422,
+    "wof:lastmodified":1553718304,
     "wof:name":"Perlis",
     "wof:parent_id":85675137,
     "wof:placetype":"county",

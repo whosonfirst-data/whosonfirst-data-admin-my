@@ -10,6 +10,12 @@
     "geom:latitude":2.456137,
     "geom:longitude":112.455353,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Selangau District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.433871,
     "lbl:longitude":112.455258,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696505,
-    "wof:lastmodified":1543954425,
+    "wof:lastmodified":1553718304,
     "wof:name":"Selangau",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

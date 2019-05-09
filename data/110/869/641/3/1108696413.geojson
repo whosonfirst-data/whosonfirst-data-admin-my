@@ -10,6 +10,12 @@
     "geom:latitude":5.41613,
     "geom:longitude":118.051971,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kinabatangan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.435315,
     "lbl:longitude":117.758112,
     "meso:admin_1":"SABAH",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108696413,
-    "wof:lastmodified":1543954423,
+    "wof:lastmodified":1553718303,
     "wof:name":"Kinabatangan",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

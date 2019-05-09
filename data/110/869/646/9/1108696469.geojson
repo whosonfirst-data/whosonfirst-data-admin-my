@@ -10,6 +10,12 @@
     "geom:latitude":2.83047,
     "geom:longitude":112.36185,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Mukah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.829024,
     "lbl:longitude":112.356105,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696469,
-    "wof:lastmodified":1543954423,
+    "wof:lastmodified":1553718302,
     "wof:name":"Mukah",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

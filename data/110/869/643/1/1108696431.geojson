@@ -10,6 +10,12 @@
     "geom:latitude":7.02089,
     "geom:longitude":116.933583,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kudat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.785935,
     "lbl:longitude":116.747393,
     "meso:admin_1":"SABAH",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696431,
-    "wof:lastmodified":1543954422,
+    "wof:lastmodified":1553718302,
     "wof:name":"Kudat",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

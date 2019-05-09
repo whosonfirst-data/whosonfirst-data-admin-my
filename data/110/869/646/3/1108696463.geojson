@@ -10,6 +10,12 @@
     "geom:latitude":3.61558,
     "geom:longitude":102.668179,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Maran District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.610495,
     "lbl:longitude":102.664354,
     "meso:admin_1":"PAHANG",
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1108696463,
-    "wof:lastmodified":1543954422,
+    "wof:lastmodified":1553718301,
     "wof:name":"Maran",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

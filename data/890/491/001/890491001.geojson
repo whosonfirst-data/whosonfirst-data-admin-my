@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":208050,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Pontian District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.556033,
     "lbl:longitude":103.435132,
     "meso:admin_1":"JOHOR",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":890491001,
-    "wof:lastmodified":1543954366,
+    "wof:lastmodified":1553717812,
     "wof:name":"Pontian",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

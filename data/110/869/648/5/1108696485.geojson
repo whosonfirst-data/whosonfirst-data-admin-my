@@ -10,6 +10,12 @@
     "geom:latitude":6.715869,
     "geom:longitude":117.103046,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Pitas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.674242,
     "lbl:longitude":117.106035,
     "meso:admin_1":"SABAH",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696485,
-    "wof:lastmodified":1543954424,
+    "wof:lastmodified":1553718304,
     "wof:name":"Pitas",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

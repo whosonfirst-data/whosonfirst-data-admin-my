@@ -10,6 +10,12 @@
     "geom:latitude":2.411426,
     "geom:longitude":111.377724,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Daro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.259227,
     "lbl:longitude":111.316831,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696397,
-    "wof:lastmodified":1543954421,
+    "wof:lastmodified":1553718301,
     "wof:name":"Daro",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

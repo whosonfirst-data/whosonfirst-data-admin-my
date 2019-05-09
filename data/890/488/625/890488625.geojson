@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kubang Pasu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.350007,
     "lbl:longitude":100.398192,
     "meso:admin_1":"KEDAH",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890488625,
-    "wof:lastmodified":1543954363,
+    "wof:lastmodified":1553717809,
     "wof:name":"Kubang Pasu",
     "wof:parent_id":85675133,
     "wof:placetype":"county",

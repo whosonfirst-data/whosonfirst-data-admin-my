@@ -10,6 +10,12 @@
     "geom:latitude":3.063325,
     "geom:longitude":101.849344,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Ulu Langat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.062948,
     "lbl:longitude":101.851687,
     "meso:admin_1":"SELANGOR",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108696543,
-    "wof:lastmodified":1543954426,
+    "wof:lastmodified":1553718307,
     "wof:name":"Ulu Langat",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

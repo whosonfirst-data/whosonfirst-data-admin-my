@@ -10,6 +10,12 @@
     "geom:latitude":1.820218,
     "geom:longitude":111.337143,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Saratok District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.83781,
     "lbl:longitude":111.318274,
     "meso:admin_1":"SARAWAK",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696501,
-    "wof:lastmodified":1543954424,
+    "wof:lastmodified":1553718304,
     "wof:name":"Saratok",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

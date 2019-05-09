@@ -11,6 +11,12 @@
     "geom:longitude":110.327929,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kuching District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.224585,
     "lbl:longitude":110.314185,
     "meso:admin_1":"SARAWAK",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890488875,
-    "wof:lastmodified":1543954363,
+    "wof:lastmodified":1553717809,
     "wof:name":"Kuching",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

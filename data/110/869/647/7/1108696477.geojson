@@ -10,6 +10,12 @@
     "geom:latitude":5.628839,
     "geom:longitude":116.012343,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Papar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.665195,
     "lbl:longitude":116.008718,
     "meso:admin_1":"SABAH",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108696477,
-    "wof:lastmodified":1543954424,
+    "wof:lastmodified":1553718302,
     "wof:name":"Papar",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

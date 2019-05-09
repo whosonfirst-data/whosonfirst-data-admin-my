@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kuala Muda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.707733,
     "lbl:longitude":100.525855,
     "meso:admin_1":"KEDAH",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":890490355,
-    "wof:lastmodified":1543954363,
+    "wof:lastmodified":1553717811,
     "wof:name":"Kuala Muda",
     "wof:parent_id":85675133,
     "wof:placetype":"county",

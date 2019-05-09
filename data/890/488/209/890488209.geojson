@@ -11,6 +11,12 @@
     "geom:longitude":113.462392,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Bintulu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.104036,
     "lbl:longitude":113.462241,
     "meso:admin_1":"SARAWAK",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890488209,
-    "wof:lastmodified":1543954362,
+    "wof:lastmodified":1553717808,
     "wof:name":"Bintulu",
     "wof:parent_id":85675177,
     "wof:placetype":"county",
