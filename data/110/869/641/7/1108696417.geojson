@@ -46,9 +46,6 @@
     "name:aze_x_preferred":[
         "Kluang"
     ],
-    "name:baq_x_preferred":[
-        "Kluang"
-    ],
     "name:bar_x_preferred":[
         "Kluang"
     ],
@@ -64,8 +61,8 @@
     "name:cat_x_preferred":[
         "Kluang"
     ],
-    "name:chi_x_preferred":[
-        "\u5c45\u92ae\u53bf"
+    "name:ces_x_preferred":[
+        "Kluang"
     ],
     "name:cor_x_preferred":[
         "Kluang"
@@ -76,19 +73,19 @@
     "name:csb_x_preferred":[
         "Kluang"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Kluang"
     ],
     "name:dan_x_preferred":[
+        "Kluang"
+    ],
+    "name:deu_x_preferred":[
         "Kluang"
     ],
     "name:diq_x_preferred":[
         "Kluang"
     ],
     "name:dsb_x_preferred":[
-        "Kluang"
-    ],
-    "name:dut_x_preferred":[
         "Kluang"
     ],
     "name:eml_x_preferred":[
@@ -108,6 +105,9 @@
     "name:est_x_preferred":[
         "Kluang"
     ],
+    "name:eus_x_preferred":[
+        "Kluang"
+    ],
     "name:ext_x_preferred":[
         "Kluang"
     ],
@@ -117,10 +117,10 @@
     "name:fin_x_preferred":[
         "Kluang"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Kluang"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Kluang"
     ],
     "name:frp_x_preferred":[
@@ -136,9 +136,6 @@
         "Kluang"
     ],
     "name:gag_x_preferred":[
-        "Kluang"
-    ],
-    "name:ger_x_preferred":[
         "Kluang"
     ],
     "name:gla_x_preferred":[
@@ -180,9 +177,6 @@
     "name:ibo_x_preferred":[
         "Kluang"
     ],
-    "name:ice_x_preferred":[
-        "Kluang"
-    ],
     "name:ido_x_preferred":[
         "Kluang"
     ],
@@ -196,6 +190,9 @@
         "Kluang"
     ],
     "name:ind_x_preferred":[
+        "Kluang"
+    ],
+    "name:isl_x_preferred":[
         "Kluang"
     ],
     "name:ita_x_preferred":[
@@ -240,9 +237,6 @@
     "name:ltz_x_preferred":[
         "Kluang"
     ],
-    "name:may_x_preferred":[
-        "Daerah Kluang"
-    ],
     "name:min_x_preferred":[
         "Kluang"
     ],
@@ -251,6 +245,9 @@
     ],
     "name:mlt_x_preferred":[
         "Kluang"
+    ],
+    "name:msa_x_preferred":[
+        "Daerah Kluang"
     ],
     "name:mwl_x_preferred":[
         "Kluang"
@@ -265,6 +262,9 @@
         "Kluang"
     ],
     "name:nds_x_preferred":[
+        "Kluang"
+    ],
+    "name:nld_x_preferred":[
         "Kluang"
     ],
     "name:nno_x_preferred":[
@@ -315,7 +315,7 @@
     "name:roh_x_preferred":[
         "Kluang"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kluang"
     ],
     "name:scn_x_preferred":[
@@ -324,7 +324,7 @@
     "name:sco_x_preferred":[
         "Kluang"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kluang"
     ],
     "name:slv_x_preferred":[
@@ -378,9 +378,6 @@
     "name:war_x_preferred":[
         "Kluang"
     ],
-    "name:wel_x_preferred":[
-        "Kluang"
-    ],
     "name:wln_x_preferred":[
         "Kluang"
     ],
@@ -392,6 +389,9 @@
     ],
     "name:zea_x_preferred":[
         "Kluang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c45\u92ae\u53bf"
     ],
     "name:zul_x_preferred":[
         "Kluang"
@@ -432,7 +432,7 @@
         }
     ],
     "wof:id":1108696417,
-    "wof:lastmodified":1553718303,
+    "wof:lastmodified":1561751742,
     "wof:name":"Kluang",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

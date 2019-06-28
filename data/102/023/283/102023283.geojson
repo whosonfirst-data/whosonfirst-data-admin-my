@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000857,
-    "geom:area_square_m":10576666.208053,
+    "geom:area_square_m":10576666.208052,
     "geom:bbox":"102.94937939,3.14792932129,102.989341486,3.17698167757",
     "geom:latitude":3.162888,
     "geom:longitude":102.971351,
@@ -18,13 +18,13 @@
     "mps:longitude":102.969352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Bukit Ibam"
-    ],
     "name:eng_x_preferred":[
         "Bukit Ibam"
     ],
     "name:msa_x_preferred":[
+        "Bukit Ibam"
+    ],
+    "name:nld_x_preferred":[
         "Bukit Ibam"
     ],
     "name:unk_x_variant":[
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":102023283,
-    "wof:lastmodified":1527636458,
+    "wof:lastmodified":1561751661,
     "wof:name":"Bukit Ibam",
     "wof:parent_id":1108696497,
     "wof:placetype":"locality",

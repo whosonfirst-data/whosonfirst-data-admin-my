@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3291519.454322,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.584935,3.051543,101.584935,3.051543",
     "geom:latitude":3.051543,
     "geom:longitude":101.584935,
@@ -25,16 +25,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Kuala Lumpur/Damansara und Hartamas"
+    ],
     "name:eng_x_preferred":[
         "Damansara"
-    ],
-    "name:ger_x_preferred":[
-        "Kuala Lumpur/Damansara und Hartamas"
     ],
     "name:ind_x_preferred":[
         "Damansara"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Damansara"
     ],
     "name:und_x_preferred":[
@@ -75,11 +75,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":55,
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102022833,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860554,
+    "wof:lastmodified":1561751692,
     "wof:name":"Damansara",
     "wof:parent_id":102022833,
     "wof:placetype":"neighbourhood",

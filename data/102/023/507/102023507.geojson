@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002943,
-    "geom:area_square_m":36297890.934654,
+    "geom:area_square_m":36297890.934679,
     "geom:bbox":"101.169585128,4.14563916645,101.243328672,4.2185049028",
     "geom:latitude":4.184688,
     "geom:longitude":101.205262,
@@ -19,20 +19,17 @@
     "mps:longitude":101.210841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6253\u5df4\u8def"
-    ],
-    "name:dut_x_preferred":[
-        "Tapah Road"
-    ],
     "name:eng_x_preferred":[
-        "Tapah Road"
-    ],
-    "name:may_x_preferred":[
         "Tapah Road"
     ],
     "name:msa_x_preferred":[
         "Tapah Road"
+    ],
+    "name:nld_x_preferred":[
+        "Tapah Road"
+    ],
+    "name:zho_x_preferred":[
+        "\u6253\u5df4\u8def"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -77,7 +74,7 @@
         }
     ],
     "wof:id":102023507,
-    "wof:lastmodified":1527636457,
+    "wof:lastmodified":1561751660,
     "wof:name":"Tapah Road",
     "wof:parent_id":890489741,
     "wof:placetype":"locality",

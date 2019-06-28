@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000676,
-    "geom:area_square_m":8354758.165422,
+    "geom:area_square_m":8354758.165437,
     "geom:bbox":"102.894456013,2.028493164,102.923415257,2.06853404269",
     "geom:latitude":2.04896,
     "geom:longitude":102.907443,
@@ -18,23 +18,20 @@
     "mps:longitude":102.903603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Sri Medan"
-    ],
     "name:eng_x_preferred":[
         "Sri Medan"
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30ea\u30e1\u30c0\u30f3"
     ],
-    "name:may_x_preferred":[
-        "Sri Medan"
-    ],
     "name:msa_x_preferred":[
         "Sri Medan"
     ],
     "name:msa_x_variant":[
         "Seri Medan"
+    ],
+    "name:nld_x_preferred":[
+        "Sri Medan"
     ],
     "name:unk_x_variant":[
         "Sri Medan"
@@ -86,7 +83,7 @@
         }
     ],
     "wof:id":102022737,
-    "wof:lastmodified":1527636673,
+    "wof:lastmodified":1561751667,
     "wof:name":"Seri Medan",
     "wof:parent_id":890490999,
     "wof:placetype":"locality",

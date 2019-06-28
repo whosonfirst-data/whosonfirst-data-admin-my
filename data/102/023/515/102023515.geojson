@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01664,
-    "geom:area_square_m":205503622.076396,
+    "geom:area_square_m":205503622.076438,
     "geom:bbox":"111.68350799,2.46760051929,112.602379292,3.02065634441",
     "geom:latitude":2.834873,
     "geom:longitude":112.129738,
@@ -24,14 +24,11 @@
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u0995\u09be\u09b9"
     ],
-    "name:chi_x_preferred":[
-        "\u6728\u81a0"
-    ],
     "name:dan_x_preferred":[
         "Mukah"
     ],
-    "name:dut_x_preferred":[
-        "Mukah"
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03cd\u03ba\u03b1\u03c7"
     ],
     "name:eng_x_preferred":[
         "Mukah"
@@ -42,11 +39,8 @@
     "name:fin_x_preferred":[
         "Mukah"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mukah"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03cd\u03ba\u03b1\u03c7"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac1\u0a95\u0abe\u0ab9"
@@ -78,17 +72,14 @@
     "name:mar_x_preferred":[
         "\u092e\u0941\u0915\u093e\u0939"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mukah"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Mukah"
     ],
     "name:nob_x_preferred":[
         "Mukah"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u06a9\u0627\u062d"
     ],
     "name:pol_x_preferred":[
         "Mukah"
@@ -173,7 +164,7 @@
         }
     ],
     "wof:id":102023515,
-    "wof:lastmodified":1527636462,
+    "wof:lastmodified":1561751666,
     "wof:name":"Mukah",
     "wof:parent_id":1108696469,
     "wof:placetype":"locality",

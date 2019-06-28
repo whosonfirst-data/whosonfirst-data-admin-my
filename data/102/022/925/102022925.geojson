@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012283,
-    "geom:area_square_m":151219536.764371,
+    "geom:area_square_m":151219536.764163,
     "geom:bbox":"116.110969618,5.24055167722,116.436637156,5.48834570625",
     "geom:latitude":5.371805,
     "geom:longitude":116.200829,
@@ -25,17 +25,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09a8\u09bf\u0999\u09cd\u0997\u09be\u0989"
     ],
-    "name:chi_x_preferred":[
-        "\u6839\u5730\u54ac"
-    ],
     "name:dan_x_preferred":[
         "Keningau"
     ],
     "name:deu_x_preferred":[
         "Keningau"
     ],
-    "name:dut_x_preferred":[
-        "Keningau"
+    "name:ell_x_preferred":[
+        "\u039a\u03ad\u03bd\u03b9\u03bd\u03b3\u03ba\u03b1\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Keningau"
@@ -43,14 +40,8 @@
     "name:fin_x_preferred":[
         "Keningau"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Keningau"
-    ],
-    "name:ger_x_preferred":[
-        "Keningau"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ad\u03bd\u03b9\u03bd\u03b3\u03ba\u03b1\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aa8\u0abf\u0aa8\u0acd\u0a97\u0acc"
@@ -82,10 +73,10 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u0902\u0928\u090a"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Keningau"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Keningau"
     ],
     "name:nob_x_preferred":[
@@ -187,7 +178,7 @@
         }
     ],
     "wof:id":102022925,
-    "wof:lastmodified":1527636676,
+    "wof:lastmodified":1561751669,
     "wof:name":"Keningau",
     "wof:parent_id":1108696411,
     "wof:placetype":"locality",

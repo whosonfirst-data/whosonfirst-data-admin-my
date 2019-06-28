@@ -25,11 +25,11 @@
     "name:ind_x_preferred":[
         "Dusun Tua"
     ],
-    "name:may_x_preferred":[
-        "Dusun Tua"
-    ],
     "name:msa_x_preferred":[
         "Kampung Dusun Tua"
+    ],
+    "name:msa_x_variant":[
+        "Dusun Tua"
     ],
     "name:unk_x_variant":[
         "Dusun Tua"
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":890490095,
-    "wof:lastmodified":1514490518,
+    "wof:lastmodified":1561751761,
     "wof:name":"Kampung Dusun",
     "wof:parent_id":1108696543,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012227,
-    "geom:area_square_m":150253152.192897,
+    "geom:area_square_m":150253152.192967,
     "geom:bbox":"100.180780695,6.24619271281,100.385944353,6.48648208081",
     "geom:latitude":6.399292,
     "geom:longitude":100.281537,
@@ -18,13 +18,7 @@
     "mps:longitude":100.286552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e9e\u5a41"
-    ],
     "name:deu_x_preferred":[
-        "Arau"
-    ],
-    "name:dut_x_preferred":[
         "Arau"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +27,7 @@
     "name:epo_x_preferred":[
         "Arau"
     ],
-    "name:fre_x_preferred":[
-        "Arau"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Arau"
     ],
     "name:heb_x_preferred":[
@@ -51,10 +42,10 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30e9\u30a6"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Arau"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Arau"
     ],
     "name:nob_x_preferred":[
@@ -71,6 +62,9 @@
     ],
     "name:und_x_preferred":[
         "Arau"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u5a41"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Perlis",
@@ -124,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527636454,
+    "wof:lastmodified":1561751656,
     "wof:name":"Arau",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0002,
-    "geom:area_square_m":2466709.50749,
+    "geom:area_square_m":2466709.5075,
     "geom:bbox":"101.569976807,3.03149780642,101.600873913,3.05412516291",
     "geom:latitude":3.043636,
     "geom:longitude":101.580005,
@@ -28,13 +28,7 @@
     "name:bul_x_preferred":[
         "\u0421\u0443\u0431\u0430\u043d\u0433 \u0414\u0436\u0430\u044f"
     ],
-    "name:chi_x_preferred":[
-        "\u68b3\u90a6\u518d\u4e5f"
-    ],
     "name:deu_x_preferred":[
-        "Subang Jaya"
-    ],
-    "name:dut_x_preferred":[
         "Subang Jaya"
     ],
     "name:eng_x_preferred":[
@@ -47,12 +41,6 @@
         "\u0633\u0648\u0628\u0627\u0646\u06af \u062c\u0627\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
-        "Subang Jaya"
-    ],
-    "name:fre_x_preferred":[
-        "Subang Jaya"
-    ],
-    "name:ger_x_preferred":[
         "Subang Jaya"
     ],
     "name:hin_x_preferred":[
@@ -76,12 +64,6 @@
     "name:lit_x_preferred":[
         "Subang D\u017eaja"
     ],
-    "name:mao_x_preferred":[
-        "Subang Jaya"
-    ],
-    "name:may_x_preferred":[
-        "Subang Jaya"
-    ],
     "name:mri_x_preferred":[
         "Subang Jaya"
     ],
@@ -90,9 +72,6 @@
     ],
     "name:nld_x_preferred":[
         "Subang Jaya"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0628\u0627\u0646\u06af \u062c\u0627\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Subang Jaya"
@@ -167,7 +146,7 @@
         }
     ],
     "wof:id":102022703,
-    "wof:lastmodified":1534379385,
+    "wof:lastmodified":1561751670,
     "wof:name":"Subang Jaya",
     "wof:parent_id":890490605,
     "wof:placetype":"locality",

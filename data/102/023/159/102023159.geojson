@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003813,
-    "geom:area_square_m":47096821.341336,
+    "geom:area_square_m":47096821.341256,
     "geom:bbox":"101.916674942,2.54444040769,102.000560774,2.61738675184",
     "geom:latitude":2.586786,
     "geom:longitude":101.952804,
@@ -18,16 +18,13 @@
     "mps:longitude":101.952003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Rantau"
-    ],
     "name:eng_x_preferred":[
         "Rantau"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rantau"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Rantau"
     ],
     "qs:a0":"Malaysia",
@@ -77,7 +74,7 @@
         }
     ],
     "wof:id":102023159,
-    "wof:lastmodified":1527636452,
+    "wof:lastmodified":1561751653,
     "wof:name":"Rantau",
     "wof:parent_id":890489719,
     "wof:placetype":"locality",

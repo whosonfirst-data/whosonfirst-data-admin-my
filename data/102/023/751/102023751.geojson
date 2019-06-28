@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017612,
-    "geom:area_square_m":217433769.532061,
+    "geom:area_square_m":217433769.531995,
     "geom:bbox":"112.815100361,3.11501996652,113.25057117,3.30860737884",
     "geom:latitude":3.214477,
     "geom:longitude":113.085805,
@@ -32,9 +32,6 @@
     "name:ast_x_preferred":[
         "Bintulu"
     ],
-    "name:baq_x_preferred":[
-        "Bintulu"
-    ],
     "name:bar_x_preferred":[
         "Bintulu"
     ],
@@ -50,20 +47,23 @@
     "name:cat_x_preferred":[
         "Bintulu"
     ],
-    "name:chi_x_preferred":[
-        "\u6c11\u90fd\u9c81"
+    "name:ces_x_preferred":[
+        "Bintulu"
     ],
     "name:cos_x_preferred":[
         "Bintulu"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Bintulu"
     ],
     "name:dan_x_preferred":[
         "Bintulu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bintulu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03af\u03bd\u03c4\u03bf\u03c5\u03bb\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Bintulu"
@@ -72,6 +72,9 @@
         "Bintulu"
     ],
     "name:est_x_preferred":[
+        "Bintulu"
+    ],
+    "name:eus_x_preferred":[
         "Bintulu"
     ],
     "name:fas_x_preferred":[
@@ -83,16 +86,10 @@
     "name:fra_x_preferred":[
         "Bintulu"
     ],
-    "name:fre_x_preferred":[
-        "Bintulu"
-    ],
     "name:frp_x_preferred":[
         "Bintulu"
     ],
     "name:fur_x_preferred":[
-        "Bintulu"
-    ],
-    "name:ger_x_preferred":[
         "Bintulu"
     ],
     "name:gla_x_preferred":[
@@ -103,9 +100,6 @@
     ],
     "name:glg_x_preferred":[
         "Bintulu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03af\u03bd\u03c4\u03bf\u03c5\u03bb\u03bf\u03c5"
     ],
     "name:gsw_x_preferred":[
         "Bintulu"
@@ -122,9 +116,6 @@
     "name:hun_x_preferred":[
         "Bintulu"
     ],
-    "name:ice_x_preferred":[
-        "Bintulu"
-    ],
     "name:ido_x_preferred":[
         "Bintulu"
     ],
@@ -135,6 +126,9 @@
         "Bintulu"
     ],
     "name:ind_x_preferred":[
+        "Bintulu"
+    ],
+    "name:isl_x_preferred":[
         "Bintulu"
     ],
     "name:ita_x_preferred":[
@@ -170,9 +164,6 @@
     "name:mar_x_preferred":[
         "\u092c\u093f\u0902\u0924\u0941\u0932\u0941"
     ],
-    "name:may_x_preferred":[
-        "Bintulu"
-    ],
     "name:min_x_preferred":[
         "Bintulu"
     ],
@@ -206,9 +197,6 @@
     "name:pcd_x_preferred":[
         "Bintulu"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0646\u062a\u0648\u0644\u0648"
-    ],
     "name:pms_x_preferred":[
         "Bintulu"
     ],
@@ -221,7 +209,7 @@
     "name:roh_x_preferred":[
         "Bintulu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bintulu"
     ],
     "name:rus_x_preferred":[
@@ -236,7 +224,7 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dd2\u0db1\u0dca\u0da7\u0dd4\u0dbd\u0dd4"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bintulu"
     ],
     "name:slv_x_preferred":[
@@ -282,9 +270,6 @@
         "Bintulu"
     ],
     "name:vol_x_preferred":[
-        "Bintulu"
-    ],
-    "name:wel_x_preferred":[
         "Bintulu"
     ],
     "name:wln_x_preferred":[
@@ -445,7 +430,7 @@
         }
     ],
     "wof:id":102023751,
-    "wof:lastmodified":1527636457,
+    "wof:lastmodified":1561751660,
     "wof:name":"Bintulu",
     "wof:parent_id":890488209,
     "wof:placetype":"locality",

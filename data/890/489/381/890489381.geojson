@@ -24,10 +24,7 @@
     "name:bul_x_preferred":[
         "\u0421\u0443\u0431\u0430\u043d\u0433 \u0414\u0436\u0430\u044f"
     ],
-    "name:chi_x_preferred":[
-        "\u68b3\u90a6\u518d\u4e5f"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Subang Jaya"
     ],
     "name:eng_x_preferred":[
@@ -36,10 +33,10 @@
     "name:epo_x_preferred":[
         "Subang Jaya"
     ],
-    "name:fre_x_preferred":[
-        "Subang Jaya"
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0628\u0627\u0646\u06af \u062c\u0627\u06cc\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Subang Jaya"
     ],
     "name:hin_x_preferred":[
@@ -63,14 +60,14 @@
     "name:lit_x_preferred":[
         "Subang D\u017eaja"
     ],
-    "name:mao_x_preferred":[
+    "name:mri_x_preferred":[
         "Subang Jaya"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Subang Jaya"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0628\u0627\u0646\u06af \u062c\u0627\u06cc\u0627"
+    "name:nld_x_preferred":[
+        "Subang Jaya"
     ],
     "name:pol_x_preferred":[
         "Subang Jaya"
@@ -98,6 +95,9 @@
     ],
     "name:yue_x_preferred":[
         "\u68b3\u90a6"
+    ],
+    "name:zho_x_preferred":[
+        "\u68b3\u90a6\u518d\u4e5f"
     ],
     "qs:name":"Subang Jaya",
     "qs:name_adm0":"Malaysia",
@@ -137,7 +137,7 @@
         }
     ],
     "wof:id":890489381,
-    "wof:lastmodified":1534379385,
+    "wof:lastmodified":1561751770,
     "wof:name":"Subang Jaya",
     "wof:parent_id":890490605,
     "wof:placetype":"locality",

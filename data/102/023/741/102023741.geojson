@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002948,
-    "geom:area_square_m":36432359.225965,
+    "geom:area_square_m":36432359.225929,
     "geom:bbox":"112.782149822,1.99280900704,113.250562649,2.05755383846",
     "geom:latitude":2.013602,
     "geom:longitude":112.96827,
@@ -25,14 +25,11 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09aa\u09bf\u099f"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u5e1b"
-    ],
     "name:dan_x_preferred":[
         "Kapit"
     ],
-    "name:dut_x_preferred":[
-        "Kapit"
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c0\u03af\u03c4"
     ],
     "name:eng_x_preferred":[
         "Kapit"
@@ -42,9 +39,6 @@
     ],
     "name:fin_x_preferred":[
         "Kapit"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c0\u03af\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0aaa\u0abf\u0aa4"
@@ -79,9 +73,6 @@
     "name:mar_x_preferred":[
         "\u0915\u092a\u093f\u0924"
     ],
-    "name:may_x_preferred":[
-        "Kapit"
-    ],
     "name:msa_x_preferred":[
         "Kapit"
     ],
@@ -90,9 +81,6 @@
     ],
     "name:nob_x_preferred":[
         "Kapit"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u067e\u06cc\u062a"
     ],
     "name:pol_x_preferred":[
         "Kapit"
@@ -129,6 +117,9 @@
     ],
     "name:vie_x_preferred":[
         "Kapit"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u5e1b"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Sarawak",
@@ -178,7 +169,7 @@
         }
     ],
     "wof:id":102023741,
-    "wof:lastmodified":1527636456,
+    "wof:lastmodified":1561751659,
     "wof:name":"Kapit",
     "wof:parent_id":890488879,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029229,
-    "geom:area_square_m":359849834.711446,
+    "geom:area_square_m":359849834.711442,
     "geom:bbox":"102.795601054,5.21867509553,103.198107063,5.52114861792",
     "geom:latitude":5.34951,
     "geom:longitude":103.080962,
@@ -32,14 +32,8 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0430\u043b\u0430 \u0422\u0435\u0440\u0435\u043d\u0433\u0433\u0430\u043d\u0443"
     ],
-    "name:bur_x_preferred":[
-        "\u1000\u103d\u102c\u101c\u102c \u1010\u1032\u101b\u1014\u103a\u1002\u1014\u1030\u1038\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Kuala Terengganu"
-    ],
-    "name:chi_x_preferred":[
-        "\u74dc\u62c9\u767b\u5609\u697c"
     ],
     "name:dan_x_preferred":[
         "Kuala Terengganu"
@@ -47,8 +41,8 @@
     "name:deu_x_preferred":[
         "Kuala Terengganu"
     ],
-    "name:dut_x_preferred":[
-        "Kuala Terengganu"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03ac\u03bb\u03b1 \u03a4\u03b5\u03c1\u03b5\u03bd\u03b3\u03ba\u03ac\u03bd\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Kuala Terengganu"
@@ -68,15 +62,6 @@
     ],
     "name:fra_x_preferred":[
         "Kuala Terengganu"
-    ],
-    "name:fre_x_preferred":[
-        "Kuala Terengganu"
-    ],
-    "name:ger_x_preferred":[
-        "Kuala Terengganu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03ac\u03bb\u03b1 \u03a4\u03b5\u03c1\u03b5\u03bd\u03b3\u03ba\u03ac\u03bd\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0a86\u0ab2\u0abe \u0a9f\u0ac7\u0ab0\u0ac7\u0aa8\u0a97\u0abe\u0aa8\u0ac1"
@@ -111,17 +96,11 @@
     "name:lit_x_preferred":[
         "Kvala Terenganu"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0443\u0430\u043b\u0430 \u0422\u0435\u0440\u0435\u043d\u0433\u0430\u043d\u0443"
-    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d4d\u0d35\u0d3e\u0d32 \u0d24\u0d46\u0d30\u0d19\u0d4d\u0d15\u0d3e\u0d28\u0d41"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0941\u0906\u0932\u093e \u091f\u0947\u0930\u0947\u0928\u0917\u093e\u0928\u0942"
-    ],
-    "name:may_x_preferred":[
-        "Kuala Terengganu"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0443\u0430\u043b\u0430 \u0422\u0435\u0440\u0435\u043d\u0433\u0430\u043d\u0443"
@@ -131,6 +110,9 @@
     ],
     "name:msa_x_variant":[
         "Bandar Kuala Terengganu"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u103d\u102c\u101c\u102c \u1010\u1032\u101b\u1014\u103a\u1002\u1014\u1030\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nan_x_preferred":[
         "Kuala Terengganu"
@@ -345,7 +327,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636458,
+    "wof:lastmodified":1561751662,
     "wof:name":"Kuala Terengganu",
     "wof:parent_id":890490947,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004279,
-    "geom:area_square_m":52876568.640756,
+    "geom:area_square_m":52876568.640759,
     "geom:bbox":"111.463785666,2.07240436721,111.547688648,2.15637110725",
     "geom:latitude":2.117545,
     "geom:longitude":111.509007,
@@ -31,9 +31,6 @@
     "name:ast_x_preferred":[
         "Sarikei"
     ],
-    "name:baq_x_preferred":[
-        "Sarikei"
-    ],
     "name:bar_x_preferred":[
         "Sarikei"
     ],
@@ -46,20 +43,23 @@
     "name:cat_x_preferred":[
         "Sarikei"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd7\u91cc\u8857"
+    "name:ces_x_preferred":[
+        "Sarikei"
     ],
     "name:cos_x_preferred":[
         "Sarikei"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Sarikei"
     ],
     "name:dan_x_preferred":[
         "Sarikei"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sarikei"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03b9\u03ba\u03ad\u03b9"
     ],
     "name:eng_x_preferred":[
         "Sarikei"
@@ -70,19 +70,19 @@
     "name:est_x_preferred":[
         "Sarikei"
     ],
+    "name:eus_x_preferred":[
+        "Sarikei"
+    ],
     "name:fin_x_preferred":[
         "Sarikei"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sarikei"
     ],
     "name:frp_x_preferred":[
         "Sarikei"
     ],
     "name:fur_x_preferred":[
-        "Sarikei"
-    ],
-    "name:ger_x_preferred":[
         "Sarikei"
     ],
     "name:gla_x_preferred":[
@@ -93,9 +93,6 @@
     ],
     "name:glg_x_preferred":[
         "Sarikei"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03c1\u03b9\u03ba\u03ad\u03b9"
     ],
     "name:gsw_x_preferred":[
         "Sarikei"
@@ -112,9 +109,6 @@
     "name:hun_x_preferred":[
         "Sarikei"
     ],
-    "name:ice_x_preferred":[
-        "Sarikei"
-    ],
     "name:ido_x_preferred":[
         "Sarikei"
     ],
@@ -125,6 +119,9 @@
         "Sarikei"
     ],
     "name:ind_x_preferred":[
+        "Sarikei"
+    ],
+    "name:isl_x_preferred":[
         "Sarikei"
     ],
     "name:ita_x_preferred":[
@@ -160,9 +157,6 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0930\u0940\u0915\u0947\u0908"
     ],
-    "name:may_x_preferred":[
-        "Sarikei"
-    ],
     "name:min_x_preferred":[
         "Sarikei"
     ],
@@ -176,6 +170,9 @@
         "Sarikei"
     ],
     "name:nds_x_preferred":[
+        "Sarikei"
+    ],
+    "name:nld_x_preferred":[
         "Sarikei"
     ],
     "name:nno_x_preferred":[
@@ -205,7 +202,7 @@
     "name:roh_x_preferred":[
         "Sarikei"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sarikei"
     ],
     "name:rus_x_preferred":[
@@ -220,7 +217,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dbb\u0dd2\u0d9a\u0dd9\u0dba\u0dd2"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sarikei"
     ],
     "name:slv_x_preferred":[
@@ -271,14 +268,14 @@
     "name:vol_x_preferred":[
         "Sarikei"
     ],
-    "name:wel_x_preferred":[
-        "Sarikei"
-    ],
     "name:wln_x_preferred":[
         "Sarikei"
     ],
     "name:wol_x_preferred":[
         "Sarikei"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd7\u91cc\u8857"
     ],
     "name:zul_x_preferred":[
         "Sarikei"
@@ -326,7 +323,7 @@
         }
     ],
     "wof:id":102023585,
-    "wof:lastmodified":1527636461,
+    "wof:lastmodified":1561751665,
     "wof:name":"Sarikei",
     "wof:parent_id":890488261,
     "wof:placetype":"locality",

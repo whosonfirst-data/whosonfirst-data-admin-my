@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005247,
-    "geom:area_square_m":64711887.471955,
+    "geom:area_square_m":64711887.471894,
     "geom:bbox":"101.125639679,4.13468136798,101.330415187,4.27328565108",
     "geom:latitude":4.192881,
     "geom:longitude":101.266755,
@@ -27,9 +27,6 @@
     "name:ast_x_preferred":[
         "Tapah"
     ],
-    "name:baq_x_preferred":[
-        "Tapah"
-    ],
     "name:bar_x_preferred":[
         "Tapah"
     ],
@@ -39,19 +36,19 @@
     "name:cat_x_preferred":[
         "Tapah"
     ],
-    "name:chi_x_preferred":[
-        "\u6253\u5df4"
+    "name:ces_x_preferred":[
+        "Tapah"
     ],
     "name:cos_x_preferred":[
         "Tapah"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Tapah"
     ],
     "name:dan_x_preferred":[
         "Tapah"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tapah"
     ],
     "name:eng_x_preferred":[
@@ -63,19 +60,19 @@
     "name:est_x_preferred":[
         "Tapah"
     ],
+    "name:eus_x_preferred":[
+        "Tapah"
+    ],
     "name:fin_x_preferred":[
         "Tapah"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tapah"
     ],
     "name:frp_x_preferred":[
         "Tapah"
     ],
     "name:fur_x_preferred":[
-        "Tapah"
-    ],
-    "name:ger_x_preferred":[
         "Tapah"
     ],
     "name:gla_x_preferred":[
@@ -96,9 +93,6 @@
     "name:hun_x_preferred":[
         "Tapah"
     ],
-    "name:ice_x_preferred":[
-        "Tapah"
-    ],
     "name:ido_x_preferred":[
         "Tapah"
     ],
@@ -109,6 +103,9 @@
         "Tapah"
     ],
     "name:ind_x_preferred":[
+        "Tapah"
+    ],
+    "name:isl_x_preferred":[
         "Tapah"
     ],
     "name:ita_x_preferred":[
@@ -127,9 +124,6 @@
         "Tapah"
     ],
     "name:ltz_x_preferred":[
-        "Tapah"
-    ],
-    "name:may_x_preferred":[
         "Tapah"
     ],
     "name:min_x_preferred":[
@@ -177,7 +171,7 @@
     "name:roh_x_preferred":[
         "Tapah"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tapah"
     ],
     "name:scn_x_preferred":[
@@ -186,7 +180,7 @@
     "name:sco_x_preferred":[
         "Tapah"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tapah"
     ],
     "name:slv_x_preferred":[
@@ -217,9 +211,6 @@
         "Tapah"
     ],
     "name:vol_x_preferred":[
-        "Tapah"
-    ],
-    "name:wel_x_preferred":[
         "Tapah"
     ],
     "name:wln_x_preferred":[
@@ -283,7 +274,7 @@
         }
     ],
     "wof:id":102023509,
-    "wof:lastmodified":1527636458,
+    "wof:lastmodified":1561751661,
     "wof:name":"Tapah",
     "wof:parent_id":890489741,
     "wof:placetype":"locality",

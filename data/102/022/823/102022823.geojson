@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003378,
-    "geom:area_square_m":41692237.11132,
+    "geom:area_square_m":41692237.111295,
     "geom:bbox":"101.158605598,3.4331013446,101.253502839,3.50601282436",
     "geom:latitude":3.47292,
     "geom:longitude":101.20533,
@@ -18,19 +18,10 @@
     "mps:longitude":101.20443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e39\u620e\u52a0\u5f04"
-    ],
-    "name:dut_x_preferred":[
-        "Tanjong Karang"
-    ],
     "name:eng_x_preferred":[
         "Tanjung Karang"
     ],
     "name:ind_x_preferred":[
-        "Tanjung Karang"
-    ],
-    "name:may_x_preferred":[
         "Tanjung Karang"
     ],
     "name:msa_x_preferred":[
@@ -44,6 +35,9 @@
     ],
     "name:unk_x_variant":[
         "Tanjung Karang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u620e\u52a0\u5f04"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Selangor",
@@ -92,7 +86,7 @@
         }
     ],
     "wof:id":102022823,
-    "wof:lastmodified":1527636678,
+    "wof:lastmodified":1561751671,
     "wof:name":"Tanjong Karang",
     "wof:parent_id":890488801,
     "wof:placetype":"locality",

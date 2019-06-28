@@ -34,17 +34,14 @@
     "name:cat_x_preferred":[
         "Langkawi"
     ],
-    "name:chi_x_preferred":[
-        "\u6d6e\u7f57\u4ea4\u6021"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Langkawi"
     ],
     "name:dan_x_preferred":[
         "Langkawi"
     ],
-    "name:dut_x_preferred":[
-        "Langkawi"
+    "name:deu_x_preferred":[
+        "Pulau Langkawi"
     ],
     "name:eng_x_preferred":[
         "Langkawi"
@@ -52,14 +49,14 @@
     "name:eng_x_variant":[
         "LANGKAWI"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u06a9\u0627\u0648\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Langkawi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Langkawi"
-    ],
-    "name:ger_x_preferred":[
-        "Pulau Langkawi"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac7\u0a82\u0a97\u0a95\u0abe\u0ab5\u0ac0"
@@ -91,20 +88,20 @@
     "name:lit_x_preferred":[
         "Langkavis"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Langkawi"
     ],
     "name:mzn_x_preferred":[
         "\u0644\u0627\u0646\u06af\u06a9\u0627\u0648\u06cc"
+    ],
+    "name:nld_x_preferred":[
+        "Langkawi"
     ],
     "name:nob_x_preferred":[
         "Langkawi"
     ],
     "name:pan_x_preferred":[
         "\u0a32\u0a70\u0a17\u0a15\u0a3e\u0a35\u0a40"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0646\u06a9\u0627\u0648\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0644\u0646\u06af\u06a9\u0627\u0648\u06cc"
@@ -145,6 +142,9 @@
     "name:yue_x_preferred":[
         "\u6d6e\u7f85\u4ea4\u6021"
     ],
+    "name:zho_x_preferred":[
+        "\u6d6e\u7f57\u4ea4\u6021"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -176,7 +176,7 @@
         }
     ],
     "wof:id":1108696443,
-    "wof:lastmodified":1543954424,
+    "wof:lastmodified":1561751740,
     "wof:name":"Langkawi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

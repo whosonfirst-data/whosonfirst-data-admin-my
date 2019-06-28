@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016606,
-    "geom:area_square_m":205169798.36257,
+    "geom:area_square_m":205169798.36229,
     "geom:bbox":"111.793374672,2.2233602957,112.053059478,2.38690338177",
     "geom:latitude":2.295051,
     "geom:longitude":111.889782,
@@ -32,9 +32,6 @@
     "name:ast_x_preferred":[
         "Sibu"
     ],
-    "name:baq_x_preferred":[
-        "Sibu"
-    ],
     "name:bar_x_preferred":[
         "Sibu"
     ],
@@ -53,20 +50,23 @@
     "name:cdo_x_preferred":[
         "Sibu"
     ],
-    "name:chi_x_preferred":[
-        "\u8bd7\u5deb"
+    "name:ces_x_preferred":[
+        "Sibu"
     ],
     "name:cos_x_preferred":[
         "Sibu"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Sibu"
     ],
     "name:dan_x_preferred":[
         "Sibu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sibu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03af\u03bc\u03c0\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Sibu"
@@ -75,6 +75,9 @@
         "Sibu"
     ],
     "name:est_x_preferred":[
+        "Sibu"
+    ],
+    "name:eus_x_preferred":[
         "Sibu"
     ],
     "name:fas_x_preferred":[
@@ -86,16 +89,10 @@
     "name:fra_x_preferred":[
         "Sibu"
     ],
-    "name:fre_x_preferred":[
-        "Sibu"
-    ],
     "name:frp_x_preferred":[
         "Sibu"
     ],
     "name:fur_x_preferred":[
-        "Sibu"
-    ],
-    "name:ger_x_preferred":[
         "Sibu"
     ],
     "name:gla_x_preferred":[
@@ -106,9 +103,6 @@
     ],
     "name:glg_x_preferred":[
         "Sibu"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03af\u03bc\u03c0\u03bf\u03c5"
     ],
     "name:gsw_x_preferred":[
         "Sibu"
@@ -125,9 +119,6 @@
     "name:hun_x_preferred":[
         "Sibu"
     ],
-    "name:ice_x_preferred":[
-        "Sibu"
-    ],
     "name:ido_x_preferred":[
         "Sibu"
     ],
@@ -138,6 +129,9 @@
         "Sibu"
     ],
     "name:ind_x_preferred":[
+        "Sibu"
+    ],
+    "name:isl_x_preferred":[
         "Sibu"
     ],
     "name:ita_x_preferred":[
@@ -172,9 +166,6 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u093f\u092c\u0942"
-    ],
-    "name:may_x_preferred":[
-        "Sibu"
     ],
     "name:min_x_preferred":[
         "Sibu"
@@ -212,9 +203,6 @@
     "name:pcd_x_preferred":[
         "Sibu"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0628\u0648"
-    ],
     "name:pms_x_preferred":[
         "Sibu"
     ],
@@ -227,7 +215,7 @@
     "name:roh_x_preferred":[
         "Sibu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sibu"
     ],
     "name:rus_x_preferred":[
@@ -242,7 +230,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd2\u0db6\u0dd4"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sibu"
     ],
     "name:slv_x_preferred":[
@@ -296,9 +284,6 @@
     "name:war_x_preferred":[
         "Sibu"
     ],
-    "name:wel_x_preferred":[
-        "Sibu"
-    ],
     "name:wln_x_preferred":[
         "Sibu"
     ],
@@ -310,6 +295,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8a69\u5deb"
+    ],
+    "name:zho_x_variant":[
+        "\u8bd7\u5deb"
     ],
     "name:zho_yue_x_preferred":[
         "\u8a69\u5deb"
@@ -460,7 +448,7 @@
         }
     ],
     "wof:id":102023589,
-    "wof:lastmodified":1527636456,
+    "wof:lastmodified":1561751659,
     "wof:name":"Sibu",
     "wof:parent_id":890488423,
     "wof:placetype":"locality",

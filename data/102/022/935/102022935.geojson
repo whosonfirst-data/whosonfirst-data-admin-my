@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020253,
-    "geom:area_square_m":249727388.784874,
+    "geom:area_square_m":249727388.784949,
     "geom:bbox":"117.824850826,4.22233211751,118.150490629,4.39653564258",
     "geom:latitude":4.300578,
     "geom:longitude":117.981025,
@@ -32,17 +32,14 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0432\u0430\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u6597\u6e56"
-    ],
     "name:dan_x_preferred":[
         "Tawau"
     ],
     "name:deu_x_preferred":[
         "Tawau"
     ],
-    "name:dut_x_preferred":[
-        "Tawau"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03b2\u03ac\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Tawau"
@@ -52,15 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Tawau"
-    ],
-    "name:fre_x_preferred":[
-        "Tawau"
-    ],
-    "name:ger_x_preferred":[
-        "Tawau"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03b2\u03ac\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0ab5\u0acc"
@@ -91,9 +79,6 @@
     ],
     "name:mar_x_preferred":[
         "\u0924\u093e\u0935\u094c"
-    ],
-    "name:may_x_preferred":[
-        "Tawau"
     ],
     "name:msa_x_preferred":[
         "Tawau"
@@ -299,7 +284,7 @@
         }
     ],
     "wof:id":102022935,
-    "wof:lastmodified":1527636676,
+    "wof:lastmodified":1561751670,
     "wof:name":"Tawau",
     "wof:parent_id":1108696533,
     "wof:placetype":"locality",

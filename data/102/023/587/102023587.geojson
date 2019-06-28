@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001261,
-    "geom:area_square_m":15582020.383309,
+    "geom:area_square_m":15582020.383302,
     "geom:bbox":"111.89225377,2.01476394802,111.932209104,2.06853889361",
     "geom:latitude":2.040654,
     "geom:longitude":111.911082,
@@ -18,7 +18,7 @@
     "mps:longitude":111.912366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Julau"
     ],
     "name:eng_x_preferred":[
@@ -27,20 +27,14 @@
     "name:fas_x_preferred":[
         "\u062c\u0648\u0644\u0627\u0648"
     ],
-    "name:fre_x_preferred":[
-        "Julau"
-    ],
-    "name:ger_x_preferred":[
-        "Julau"
-    ],
-    "name:may_x_preferred":[
+    "name:fra_x_preferred":[
         "Julau"
     ],
     "name:msa_x_preferred":[
         "Julau"
     ],
-    "name:per_x_preferred":[
-        "\u062c\u0648\u0644\u0627\u0648"
+    "name:nld_x_preferred":[
+        "Julau"
     ],
     "name:unk_x_variant":[
         "Nanga Julan"
@@ -95,7 +89,7 @@
         }
     ],
     "wof:id":102023587,
-    "wof:lastmodified":1527636456,
+    "wof:lastmodified":1561751659,
     "wof:name":"Julau",
     "wof:parent_id":1108696405,
     "wof:placetype":"locality",

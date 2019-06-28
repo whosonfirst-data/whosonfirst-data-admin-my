@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021023,
-    "geom:area_square_m":258361897.000918,
+    "geom:area_square_m":258361897.001062,
     "geom:bbox":"99.6534340808,6.21342759487,99.8802570532,6.43928643455",
     "geom:latitude":6.339836,
     "geom:longitude":99.778295,
@@ -22,13 +22,7 @@
     "mps:longitude":99.771322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u74dc\u57e0"
-    ],
     "name:deu_x_preferred":[
-        "Kuah"
-    ],
-    "name:dut_x_preferred":[
         "Kuah"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +34,7 @@
     "name:fin_x_preferred":[
         "Kuah"
     ],
-    "name:fre_x_preferred":[
-        "Kuah"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kuah"
     ],
     "name:ita_x_preferred":[
@@ -52,17 +43,11 @@
     "name:jpn_x_preferred":[
         "\u30af\u30a2"
     ],
-    "name:may_x_preferred":[
-        "Pekan Kuah"
-    ],
     "name:msa_x_preferred":[
         "Pekan Kuah"
     ],
     "name:nld_x_preferred":[
         "Kuah"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0627\u0647"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0430\u0445"
@@ -75,6 +60,9 @@
     ],
     "name:unk_x_variant":[
         "Kwah"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u57e0"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Kedah",
@@ -149,7 +137,7 @@
         }
     ],
     "wof:id":102022709,
-    "wof:lastmodified":1534379385,
+    "wof:lastmodified":1561751667,
     "wof:name":"Kuah",
     "wof:parent_id":1108696443,
     "wof:placetype":"locality",

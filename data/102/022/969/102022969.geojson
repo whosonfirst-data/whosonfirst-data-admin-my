@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00315,
-    "geom:area_square_m":38771592.667968,
+    "geom:area_square_m":38771592.667964,
     "geom:bbox":"100.524231686,5.47383183918,100.583365918,5.55395632458",
     "geom:latitude":5.516876,
     "geom:longitude":100.549124,
@@ -18,16 +18,13 @@
     "mps:longitude":100.545614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Padang Serai"
-    ],
     "name:eng_x_preferred":[
         "Padang Serai"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Padang Serai"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Padang Serai"
     ],
     "qs:a0":"Malaysia",
@@ -77,7 +74,7 @@
         }
     ],
     "wof:id":102022969,
-    "wof:lastmodified":1527636677,
+    "wof:lastmodified":1561751670,
     "wof:name":"Padang Serai",
     "wof:parent_id":890490359,
     "wof:placetype":"locality",

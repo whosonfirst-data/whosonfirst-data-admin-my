@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033186,
-    "geom:area_square_m":410033845.735625,
+    "geom:area_square_m":410033845.73533,
     "geom:bbox":"102.070485958,2.14652100946,102.365837978,2.39787141268",
     "geom:latitude":2.259621,
     "geom:longitude":102.247336,
@@ -26,9 +26,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0645\u0644\u0642\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u056c\u0561\u056f\u056f\u0561"
-    ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u043b\u0430\u043a\u043a\u0430"
     ],
@@ -41,19 +38,13 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0430\u043a\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u101c\u1000\u103a\u1000\u102c\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Malaca"
     ],
     "name:cat_x_variant":[
         "Malacca"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u516d\u7532\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Malakka"
     ],
     "name:dan_x_preferred":[
@@ -62,8 +53,8 @@
     "name:deu_x_preferred":[
         "Malakka"
     ],
-    "name:dut_x_preferred":[
-        "Malakka"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bb\u03ac\u03ba\u03b1 \u03a3\u03af\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "Malacca"
@@ -73,6 +64,9 @@
     ],
     "name:est_x_preferred":[
         "Melaka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627\u06a9\u0627"
     ],
     "name:fin_x_preferred":[
         "Malacca"
@@ -87,20 +81,8 @@
         "Malacca",
         "Malaka"
     ],
-    "name:fre_x_preferred":[
-        "Malacca"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10da\u10d0\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Malakka"
-    ],
     "name:glg_x_preferred":[
         "Malaca"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bb\u03ac\u03ba\u03b1 \u03a3\u03af\u03c4\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab2\u0abe\u0a95\u0abe \u0ab6\u0ab9\u0ac7\u0ab0"
@@ -120,6 +102,9 @@
     "name:hun_x_preferred":[
         "Melaka"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u056c\u0561\u056f\u056f\u0561"
+    ],
     "name:ind_x_preferred":[
         "Melaka"
     ],
@@ -131,6 +116,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cb2\u0cbe\u0c95 \u0ca8\u0c97\u0cb0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10da\u10d0\u10d9\u10d0"
     ],
     "name:kir_x_preferred":[
         "\u041c\u0430\u043b\u0430\u043a\u043a\u0430"
@@ -150,20 +138,23 @@
     "name:ltz_x_preferred":[
         "Malakka"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u043b\u0430\u043a\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d32\u0d3e\u0d15\u0d4d\u0d15\u0d3e \u0d38\u0d3f\u0d31\u0d4d\u0d31\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0932\u0915\u094d\u0915\u093e \u0936\u0939\u0930"
     ],
-    "name:may_x_preferred":[
-        "Bandaraya Melaka"
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u043a\u0430"
     ],
     "name:msa_x_preferred":[
         "Melaka"
+    ],
+    "name:msa_x_variant":[
+        "Bandaraya Melaka"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u101c\u1000\u103a\u1000\u102c\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nan_x_preferred":[
         "Melaka Chh\u012b"
@@ -183,16 +174,13 @@
     "name:oci_x_preferred":[
         "Malaca"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0644\u0627\u06a9\u0627"
-    ],
     "name:pol_x_preferred":[
         "Malakka"
     ],
     "name:por_x_preferred":[
         "Malaca"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Malacca"
     ],
     "name:rus_x_preferred":[
@@ -204,7 +192,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dbd\u0d9a\u0dca\u0d9a\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Melaka"
     ],
     "name:spa_x_preferred":[
@@ -248,6 +236,9 @@
     ],
     "name:yue_x_preferred":[
         "\u99ac\u516d\u7532\u5e02"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u516d\u7532\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Malaysia",
@@ -388,7 +379,7 @@
         }
     ],
     "wof:id":102023085,
-    "wof:lastmodified":1514490624,
+    "wof:lastmodified":1561751656,
     "wof:name":"Melaka",
     "wof:parent_id":890489715,
     "wof:placetype":"locality",

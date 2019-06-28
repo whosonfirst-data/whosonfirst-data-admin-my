@@ -52,17 +52,14 @@
     "name:cdo_x_preferred":[
         "Perak"
     ],
-    "name:chi_x_preferred":[
-        "\u9739\u9742\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Perak"
     ],
     "name:deu_x_preferred":[
         "Perak"
     ],
-    "name:dut_x_preferred":[
-        "Perak"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03ac\u03ba"
     ],
     "name:eng_x_preferred":[
         "Perak"
@@ -82,20 +79,8 @@
     "name:fra_x_preferred":[
         "Perak"
     ],
-    "name:fre_x_preferred":[
-        "Perak"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10e0\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Perak"
-    ],
     "name:glg_x_preferred":[
         "Perak"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03ac\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0ab0\u0a95"
@@ -127,6 +112,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cc6\u0cb0\u0cbe\u0c95\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10e0\u10d0\u10d9\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud398\ub77d \uc8fc"
     ],
@@ -136,20 +124,17 @@
     "name:lit_x_preferred":[
         "Perakas"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0435\u0440\u0430\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u0930\u093e\u0915"
-    ],
-    "name:may_x_preferred":[
-        "Negeri Perak"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0435\u0440\u0430\u043a"
     ],
     "name:msa_x_preferred":[
         "Perak Darul Ridzuan"
+    ],
+    "name:msa_x_variant":[
+        "Negeri Perak"
     ],
     "name:nan_x_preferred":[
         "Perak"
@@ -162,9 +147,6 @@
     ],
     "name:nor_x_preferred":[
         "Perak"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u0627\u06a9"
     ],
     "name:pms_x_preferred":[
         "Perak"
@@ -359,7 +341,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1553550473,
+    "wof:lastmodified":1561751697,
     "wof:name":"Perak",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

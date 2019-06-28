@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020788,
-    "geom:area_square_m":255773168.702607,
+    "geom:area_square_m":255773168.702733,
     "geom:bbox":"102.41102109,5.54407646592,102.648793388,5.78516258887",
     "geom:latitude":5.699642,
     "geom:longitude":102.532231,
@@ -22,16 +22,10 @@
     "name:dan_x_preferred":[
         "Jerteh"
     ],
-    "name:dut_x_preferred":[
-        "Jerteh"
-    ],
     "name:eng_x_preferred":[
         "Jerteh"
     ],
     "name:ind_x_preferred":[
-        "Jerteh"
-    ],
-    "name:may_x_preferred":[
         "Jerteh"
     ],
     "name:msa_x_preferred":[
@@ -39,6 +33,9 @@
     ],
     "name:msa_x_variant":[
         "Jertih"
+    ],
+    "name:nld_x_preferred":[
+        "Jerteh"
     ],
     "name:unk_x_variant":[
         "Jerteh"
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":102023661,
-    "wof:lastmodified":1527636455,
+    "wof:lastmodified":1561751657,
     "wof:name":"Jertih",
     "wof:parent_id":890488399,
     "wof:placetype":"locality",

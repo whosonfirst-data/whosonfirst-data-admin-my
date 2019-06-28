@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009748,
-    "geom:area_square_m":120517558.415267,
+    "geom:area_square_m":120517558.415299,
     "geom:bbox":"110.346679687,0.977735746201,110.811600467,1.24491301111",
     "geom:latitude":1.120648,
     "geom:longitude":110.627778,
@@ -27,9 +27,6 @@
     "name:ast_x_preferred":[
         "Serian"
     ],
-    "name:baq_x_preferred":[
-        "Serian"
-    ],
     "name:bar_x_preferred":[
         "Serian"
     ],
@@ -39,19 +36,19 @@
     "name:cat_x_preferred":[
         "Serian"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u9023\u7701"
+    "name:ces_x_preferred":[
+        "Serian"
     ],
     "name:cos_x_preferred":[
         "Serian"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Serian"
     ],
     "name:dan_x_preferred":[
         "Serian"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Serian"
     ],
     "name:eng_x_preferred":[
@@ -63,19 +60,19 @@
     "name:est_x_preferred":[
         "Serian"
     ],
+    "name:eus_x_preferred":[
+        "Serian"
+    ],
     "name:fin_x_preferred":[
         "Serian"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Serian"
     ],
     "name:frp_x_preferred":[
         "Serian"
     ],
     "name:fur_x_preferred":[
-        "Serian"
-    ],
-    "name:ger_x_preferred":[
         "Serian"
     ],
     "name:gla_x_preferred":[
@@ -96,9 +93,6 @@
     "name:hun_x_preferred":[
         "Serian"
     ],
-    "name:ice_x_preferred":[
-        "Serian"
-    ],
     "name:ido_x_preferred":[
         "Serian"
     ],
@@ -109,6 +103,9 @@
         "Serian"
     ],
     "name:ind_x_preferred":[
+        "Serian"
+    ],
+    "name:isl_x_preferred":[
         "Serian"
     ],
     "name:ita_x_preferred":[
@@ -126,19 +123,22 @@
     "name:ltz_x_preferred":[
         "Serian"
     ],
-    "name:may_x_preferred":[
-        "Serian"
-    ],
     "name:min_x_preferred":[
         "Serian"
     ],
     "name:mlg_x_preferred":[
         "Serian"
     ],
+    "name:msa_x_preferred":[
+        "Serian"
+    ],
     "name:nap_x_preferred":[
         "Serian"
     ],
     "name:nds_x_preferred":[
+        "Serian"
+    ],
+    "name:nld_x_preferred":[
         "Serian"
     ],
     "name:nno_x_preferred":[
@@ -168,7 +168,7 @@
     "name:roh_x_preferred":[
         "Serian"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Serian"
     ],
     "name:scn_x_preferred":[
@@ -177,7 +177,7 @@
     "name:sco_x_preferred":[
         "Serian"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Serian"
     ],
     "name:slv_x_preferred":[
@@ -210,14 +210,14 @@
     "name:vol_x_preferred":[
         "Serian"
     ],
-    "name:wel_x_preferred":[
-        "Serian"
-    ],
     "name:wln_x_preferred":[
         "Serian"
     ],
     "name:wol_x_preferred":[
         "Serian"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u9023\u7701"
     ],
     "name:zul_x_preferred":[
         "Serian"
@@ -268,7 +268,7 @@
         }
     ],
     "wof:id":102023801,
-    "wof:lastmodified":1514490831,
+    "wof:lastmodified":1561751664,
     "wof:name":"Serian",
     "wof:parent_id":1108696511,
     "wof:placetype":"locality",

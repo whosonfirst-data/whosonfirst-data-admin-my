@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001488,
-    "geom:area_square_m":18390576.948073,
+    "geom:area_square_m":18390576.948068,
     "geom:bbox":"111.024334731,1.49041545128,111.316973679,1.79403671398",
     "geom:latitude":1.645939,
     "geom:longitude":111.175821,
@@ -24,23 +24,17 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09a4\u0982"
     ],
-    "name:chi_x_preferred":[
-        "\u6728\u4e2d"
-    ],
     "name:dan_x_preferred":[
         "Betong"
     ],
-    "name:dut_x_preferred":[
-        "Betong"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c4\u03cc\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Betong"
     ],
     "name:fin_x_preferred":[
         "Betong"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b5\u03c4\u03cc\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0a9f\u0a82\u0a97"
@@ -72,7 +66,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u091f\u094b\u0902\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Betong"
     ],
     "name:nld_x_preferred":[
@@ -120,6 +114,9 @@
     "name:vie_x_preferred":[
         "Betong"
     ],
+    "name:zho_x_preferred":[
+        "\u6728\u4e2d"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -158,7 +155,7 @@
         }
     ],
     "wof:id":102023691,
-    "wof:lastmodified":1553815720,
+    "wof:lastmodified":1561751664,
     "wof:name":"Betong",
     "wof:parent_id":1108696391,
     "wof:placetype":"locality",

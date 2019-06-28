@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002209,
-    "geom:area_square_m":27283880.41461,
+    "geom:area_square_m":27283880.414606,
     "geom:bbox":"111.397864802,2.50052627248,111.448814607,2.58447313211",
     "geom:latitude":2.532273,
     "geom:longitude":111.42368,
@@ -18,23 +18,23 @@
     "mps:longitude":111.429726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Daro"
     ],
     "name:eng_x_preferred":[
         "Daro"
     ],
-    "name:fre_x_preferred":[
-        "Daro"
-    ],
-    "name:ger_x_preferred":[
-        "Daro"
-    ],
-    "name:may_x_preferred":[
-        "Daro"
-    ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u062f\u0627\u0631\u0627\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Daro"
+    ],
+    "name:msa_x_preferred":[
+        "Daro"
+    ],
+    "name:nld_x_preferred":[
+        "Daro"
     ],
     "name:vie_x_preferred":[
         "Daro"
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":102023713,
-    "wof:lastmodified":1514490483,
+    "wof:lastmodified":1561751658,
     "wof:name":"Daro",
     "wof:parent_id":1108696397,
     "wof:placetype":"locality",

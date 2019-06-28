@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002377,
-    "geom:area_square_m":29254049.722472,
+    "geom:area_square_m":29254049.722437,
     "geom:bbox":"115.572638794,5.53586934608,115.623650264,5.60862887051",
     "geom:latitude":5.567377,
     "geom:longitude":115.595958,
@@ -18,31 +18,22 @@
     "mps:longitude":115.59547,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u74dc\u62c9\u73ed\u5c24"
-    ],
     "name:deu_x_preferred":[
-        "Kuala Penyu"
-    ],
-    "name:dut_x_preferred":[
         "Kuala Penyu"
     ],
     "name:eng_x_preferred":[
         "Kuala Penyu"
     ],
-    "name:fre_x_preferred":[
-        "Kuala Penyu"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kuala Penyu"
     ],
     "name:kor_x_preferred":[
         "\ucfe0\uc54c\ub77c\ud508\uc720"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kuala Penyu"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Kuala Penyu"
     ],
     "name:nob_x_preferred":[
@@ -56,6 +47,9 @@
     ],
     "name:vie_x_preferred":[
         "Kuala Penyu"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u62c9\u73ed\u5c24"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Sabah",
@@ -104,7 +98,7 @@
         }
     ],
     "wof:id":102022881,
-    "wof:lastmodified":1527636674,
+    "wof:lastmodified":1561751668,
     "wof:name":"Kuala Penyu",
     "wof:parent_id":890490799,
     "wof:placetype":"locality",

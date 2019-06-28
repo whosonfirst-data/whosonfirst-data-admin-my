@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000985,
-    "geom:area_square_m":12150306.479621,
+    "geom:area_square_m":12150306.479612,
     "geom:bbox":"101.795812786,3.87166056199,101.824792527,3.92261521573",
     "geom:latitude":3.900178,
     "geom:longitude":101.813384,
@@ -18,16 +18,10 @@
     "mps:longitude":101.816006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Cheroh"
-    ],
     "name:eng_x_preferred":[
         "Cheroh"
     ],
     "name:epo_x_preferred":[
-        "Cheroh"
-    ],
-    "name:may_x_preferred":[
         "Cheroh"
     ],
     "name:msa_x_preferred":[
@@ -35,6 +29,9 @@
     ],
     "name:msa_x_variant":[
         "Ceruh"
+    ],
+    "name:nld_x_preferred":[
+        "Cheroh"
     ],
     "name:unk_x_variant":[
         "Kampong Cheroh"
@@ -86,7 +83,7 @@
         }
     ],
     "wof:id":102022721,
-    "wof:lastmodified":1527636679,
+    "wof:lastmodified":1561751672,
     "wof:name":"Ceruh",
     "wof:parent_id":890490737,
     "wof:placetype":"locality",

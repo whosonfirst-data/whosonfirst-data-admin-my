@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
-    "geom:area_square_m":3138006.060206,
+    "geom:area_square_m":3138006.060196,
     "geom:bbox":"111.375896972,1.7429991916,111.393878409,1.76109323814",
     "geom:latitude":1.752046,
     "geom:longitude":111.384888,
@@ -18,26 +18,26 @@
     "mps:longitude":111.384888,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7802\u62c9\u5353"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Saratok"
     ],
     "name:eng_x_preferred":[
         "Saratok"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Saratok"
     ],
-    "name:ger_x_preferred":[
+    "name:msa_x_preferred":[
         "Saratok"
     ],
-    "name:may_x_preferred":[
+    "name:nld_x_preferred":[
         "Saratok"
     ],
     "name:vie_x_preferred":[
         "Saratok"
+    ],
+    "name:zho_x_preferred":[
+        "\u7802\u62c9\u5353"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Sarawak",
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":102023687,
-    "wof:lastmodified":1527636454,
+    "wof:lastmodified":1561751655,
     "wof:name":"Saratok",
     "wof:parent_id":1108696501,
     "wof:placetype":"locality",

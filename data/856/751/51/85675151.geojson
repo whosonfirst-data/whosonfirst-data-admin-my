@@ -40,9 +40,6 @@
     "name:aze_x_preferred":[
         "Malakka"
     ],
-    "name:baq_x_preferred":[
-        "Malaka"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b2\u09be\u0995\u09cd\u0995\u09be"
     ],
@@ -61,17 +58,17 @@
     "name:cdo_x_preferred":[
         "M\u0101-l\u0103k-g\u0103"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u516d\u7532"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Malakka"
     ],
     "name:dan_x_preferred":[
         "Melaka"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Malakka"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bb\u03ac\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Melaka"
@@ -82,20 +79,20 @@
     "name:est_x_preferred":[
         "Melaka osariik"
     ],
+    "name:eus_x_preferred":[
+        "Malaka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0645\u0644\u0627\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Malakka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Malacca"
-    ],
-    "name:ger_x_preferred":[
-        "Malakka"
     ],
     "name:glg_x_preferred":[
         "Malaca"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bb\u03ac\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab2\u0abe\u0a95\u0abe"
@@ -142,29 +139,29 @@
     "name:ltz_x_preferred":[
         "Malakka"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u043b\u0430\u043a\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d32\u0d3e\u0d15\u0d4d\u0d15\u0d3e"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0932\u093e\u0915\u094d\u0915\u093e"
     ],
-    "name:may_x_preferred":[
-        "Melaka"
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u043a\u0430"
     ],
     "name:mlg_x_preferred":[
         "Malacca"
     ],
+    "name:msa_x_preferred":[
+        "Melaka"
+    ],
     "name:nan_x_preferred":[
         "M\u00e1-la\u030dk-kah"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Malakka"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0645\u0644\u0627\u06a9\u0627"
+    "name:nob_x_preferred":[
+        "Malakka"
     ],
     "name:pms_x_preferred":[
         "Malaca"
@@ -175,7 +172,7 @@
     "name:por_x_preferred":[
         "Malaca"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Malacca"
     ],
     "name:rus_x_preferred":[
@@ -225,6 +222,9 @@
     ],
     "name:yue_x_preferred":[
         "\u99ac\u516d\u7532\u5dde"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u516d\u7532"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MYS",
@@ -349,7 +349,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1553550475,
+    "wof:lastmodified":1561751693,
     "wof:name":"Melaka",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009062,
-    "geom:area_square_m":111503484.632787,
+    "geom:area_square_m":111503484.632817,
     "geom:bbox":"100.785040573,5.61241058582,100.945915162,5.76168100673",
     "geom:latitude":5.674115,
     "geom:longitude":100.866254,
@@ -27,9 +27,6 @@
     "name:ast_x_preferred":[
         "Baling"
     ],
-    "name:baq_x_preferred":[
-        "Baling"
-    ],
     "name:bar_x_preferred":[
         "Baling"
     ],
@@ -39,19 +36,19 @@
     "name:cat_x_preferred":[
         "Baling"
     ],
-    "name:chi_x_preferred":[
-        "\u534e\u73b2"
+    "name:ces_x_preferred":[
+        "Baling"
     ],
     "name:cos_x_preferred":[
         "Baling"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Baling"
     ],
     "name:dan_x_preferred":[
         "Baling"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Baling"
     ],
     "name:eng_x_preferred":[
@@ -63,19 +60,22 @@
     "name:est_x_preferred":[
         "Baling"
     ],
+    "name:eus_x_preferred":[
+        "Baling"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u06cc\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Baling"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Baling"
     ],
     "name:frp_x_preferred":[
         "Baling"
     ],
     "name:fur_x_preferred":[
-        "Baling"
-    ],
-    "name:ger_x_preferred":[
         "Baling"
     ],
     "name:gla_x_preferred":[
@@ -96,9 +96,6 @@
     "name:hun_x_preferred":[
         "Baling"
     ],
-    "name:ice_x_preferred":[
-        "Baling"
-    ],
     "name:ido_x_preferred":[
         "Baling"
     ],
@@ -109,6 +106,9 @@
         "Baling"
     ],
     "name:ind_x_preferred":[
+        "Baling"
+    ],
+    "name:isl_x_preferred":[
         "Baling"
     ],
     "name:ita_x_preferred":[
@@ -129,9 +129,6 @@
     "name:ltz_x_preferred":[
         "Baling"
     ],
-    "name:may_x_preferred":[
-        "Baling"
-    ],
     "name:min_x_preferred":[
         "Baling"
     ],
@@ -145,6 +142,9 @@
         "Baling"
     ],
     "name:nds_x_preferred":[
+        "Baling"
+    ],
+    "name:nld_x_preferred":[
         "Baling"
     ],
     "name:nno_x_preferred":[
@@ -162,9 +162,6 @@
     "name:pcd_x_preferred":[
         "Baling"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0644\u06cc\u0646\u06af"
-    ],
     "name:pms_x_preferred":[
         "Baling"
     ],
@@ -177,7 +174,7 @@
     "name:roh_x_preferred":[
         "Baling"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Baling"
     ],
     "name:scn_x_preferred":[
@@ -186,7 +183,7 @@
     "name:sco_x_preferred":[
         "Baling"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Baling"
     ],
     "name:slv_x_preferred":[
@@ -222,14 +219,14 @@
     "name:vol_x_preferred":[
         "Baling"
     ],
-    "name:wel_x_preferred":[
-        "Baling"
-    ],
     "name:wln_x_preferred":[
         "Baling"
     ],
     "name:wol_x_preferred":[
         "Baling"
+    ],
+    "name:zho_x_preferred":[
+        "\u534e\u73b2"
     ],
     "name:zul_x_preferred":[
         "Baling"
@@ -284,7 +281,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1514490462,
+    "wof:lastmodified":1561751669,
     "wof:name":"Baling",
     "wof:parent_id":1108696379,
     "wof:placetype":"locality",

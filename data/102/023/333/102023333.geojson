@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012502,
-    "geom:area_square_m":153908553.386625,
+    "geom:area_square_m":153908553.386391,
     "geom:bbox":"100.37855075,5.28241760358,100.531177794,5.46719369563",
     "geom:latitude":5.359984,
     "geom:longitude":100.468808,
@@ -25,14 +25,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u0995\u09bf\u099f \u09ae\u09be\u09b0\u09a4\u09be\u099c\u09be\u09ae"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u5c71\u811a"
-    ],
     "name:dan_x_preferred":[
         "Bukit Mertajam"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bukit Mertajam"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03ba\u03af\u03c4 \u039c\u03b5\u03c1\u03c4\u03b1\u03c4\u03b6\u03ac\u03bc"
     ],
     "name:eng_x_preferred":[
         "Bukit Mertajam"
@@ -45,15 +45,6 @@
     ],
     "name:fra_x_preferred":[
         "Bukit Mertajam"
-    ],
-    "name:fre_x_preferred":[
-        "Bukit Mertajam"
-    ],
-    "name:ger_x_preferred":[
-        "Bukit Mertajam"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03ba\u03af\u03c4 \u039c\u03b5\u03c1\u03c4\u03b1\u03c4\u03b6\u03ac\u03bc"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0a95\u0ac0\u0a9f \u0aae\u0ab0\u0acd\u0a9f\u0abe\u0a9c\u0aae"
@@ -84,9 +75,6 @@
     ],
     "name:mar_x_preferred":[
         "\u092c\u0941\u0915\u093f\u091f \u092e\u0943\u0924\u093e\u091c\u092e"
-    ],
-    "name:may_x_preferred":[
-        "Bukit Mertajam"
     ],
     "name:msa_x_preferred":[
         "Bukit Mertajam"
@@ -193,7 +181,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636458,
+    "wof:lastmodified":1561751661,
     "wof:name":"Bukit Mertajam",
     "wof:parent_id":890489737,
     "wof:placetype":"locality",

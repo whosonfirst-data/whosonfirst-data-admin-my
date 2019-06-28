@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047392,
-    "geom:area_square_m":584696591.011751,
+    "geom:area_square_m":584696591.012557,
     "geom:bbox":"102.630772224,3.67433127235,103.442537577,4.04592134892",
     "geom:latitude":3.843846,
     "geom:longitude":103.286331,
@@ -32,14 +32,14 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0430\u043d\u0442\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u5173\u4e39"
-    ],
     "name:dan_x_preferred":[
         "Kuantan"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kuantan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03b1\u03bd\u03c4\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Kuantan"
@@ -53,14 +53,8 @@
     "name:fin_x_preferred":[
         "Kuantan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kuantan"
-    ],
-    "name:ger_x_preferred":[
-        "Kuantan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03b1\u03bd\u03c4\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0a86\u0a82\u0aa4\u0aa8"
@@ -92,14 +86,8 @@
     "name:lit_x_preferred":[
         "Kuantanas"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0443\u0430\u043d\u0442\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094d\u0935\u093e\u0902\u0924\u093e\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Kuantan"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0443\u0430\u043d\u0442\u0430\u043d"
@@ -110,11 +98,11 @@
     "name:nan_x_preferred":[
         "Kuantan"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Kuantan"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0627\u0646\u062a\u0627\u0646"
+    "name:nob_x_preferred":[
+        "Kuantan"
     ],
     "name:pol_x_preferred":[
         "Kuantan"
@@ -316,7 +304,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1514490592,
+    "wof:lastmodified":1561751664,
     "wof:name":"Kuantan",
     "wof:parent_id":890490895,
     "wof:placetype":"locality",

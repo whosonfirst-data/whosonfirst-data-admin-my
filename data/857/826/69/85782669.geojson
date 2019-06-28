@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
-    "geom:area_square_m":1348414.064948,
+    "geom:area_square_m":1348414.064951,
     "geom:bbox":"101.649629756,3.14462770764,101.661987305,3.16245553024",
     "geom:latitude":3.153134,
     "geom:longitude":101.655263,
@@ -24,13 +24,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u5409\u9686\u5761"
-    ],
     "name:eng_x_preferred":[
-        "Bukit Damansara"
-    ],
-    "name:may_x_preferred":[
         "Bukit Damansara"
     ],
     "name:msa_x_preferred":[
@@ -41,6 +35,9 @@
     ],
     "name:unk_x_variant":[
         "Bukit Damansara"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u9686\u5761"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_id":0,
@@ -102,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269414,
+    "wof:lastmodified":1561751690,
     "wof:name":"Bukit Damansara",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

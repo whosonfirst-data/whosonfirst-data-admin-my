@@ -41,9 +41,6 @@
     "name:aze_x_preferred":[
         "Putracaya"
     ],
-    "name:baq_x_preferred":[
-        "Putrajaya"
-    ],
     "name:bar_x_preferred":[
         "Putrajaya"
     ],
@@ -62,8 +59,8 @@
     "name:cdo_x_preferred":[
         "Putrajaya"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u57ce"
+    "name:ces_x_preferred":[
+        "Putrajaya"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0648\u062a\u0631\u0627\u062c\u0627\u06cc\u0627"
@@ -71,14 +68,17 @@
     "name:cos_x_preferred":[
         "Putrajaya"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Putrajaya"
     ],
     "name:dan_x_preferred":[
         "Putrajaya"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Putrajaya"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03c4\u03c1\u03b1\u03c4\u03b6\u03ac\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -92,22 +92,22 @@
     "name:est_x_preferred":[
         "Putrajaya"
     ],
+    "name:eus_x_preferred":[
+        "Putrajaya"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u062a\u0631\u0627\u062c\u0627\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Putrajaya"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Putrajaya"
     ],
     "name:frp_x_preferred":[
         "Putrajaya"
     ],
     "name:fur_x_preferred":[
-        "Putrajaya"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10e2\u10e0\u10d0\u10ef\u10d0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Putrajaya"
     ],
     "name:gla_x_preferred":[
@@ -118,9 +118,6 @@
     ],
     "name:glg_x_preferred":[
         "Putrajaya"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c5\u03c4\u03c1\u03b1\u03c4\u03b6\u03ac\u03b3\u03b9\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Putrajaya"
@@ -143,9 +140,6 @@
     "name:hun_x_preferred":[
         "Putrajaya"
     ],
-    "name:ice_x_preferred":[
-        "Putrajaya"
-    ],
     "name:ido_x_preferred":[
         "Putrajaya"
     ],
@@ -156,6 +150,9 @@
         "Putrajaya"
     ],
     "name:ind_x_preferred":[
+        "Putrajaya"
+    ],
+    "name:isl_x_preferred":[
         "Putrajaya"
     ],
     "name:ita_x_preferred":[
@@ -169,6 +166,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0caa\u0cc1\u0ca4\u0ccd\u0cb0\u0c9c\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10e2\u10e0\u10d0\u10ef\u10d0\u10d8\u10d0"
     ],
     "name:kir_x_preferred":[
         "\u041f\u0443\u0442\u0440\u0430\u0436\u0430\u0439\u044f"
@@ -194,19 +194,19 @@
     "name:ltz_x_preferred":[
         "Putrajaya"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0443\u0442\u0440\u0430\u045f\u0430\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u0941\u0924\u094d\u0930\u091c\u092f"
-    ],
-    "name:may_x_preferred":[
-        "Putrajaya"
     ],
     "name:min_x_preferred":[
         "Putrajaya"
     ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0443\u0442\u0440\u0430\u045f\u0430\u0458\u0430"
+    ],
     "name:mlg_x_preferred":[
+        "Putrajaya"
+    ],
+    "name:msa_x_preferred":[
         "Putrajaya"
     ],
     "name:nan_x_preferred":[
@@ -216,6 +216,9 @@
         "Putrajaya"
     ],
     "name:nds_x_preferred":[
+        "Putrajaya"
+    ],
+    "name:nld_x_preferred":[
         "Putrajaya"
     ],
     "name:nno_x_preferred":[
@@ -242,9 +245,6 @@
     "name:pcd_x_preferred":[
         "Putrajaya"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u062a\u0631\u0627\u062c\u0627\u06cc\u0627"
-    ],
     "name:pms_x_preferred":[
         "Putrajaya"
     ],
@@ -257,7 +257,7 @@
     "name:roh_x_preferred":[
         "Putrajaya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Putrajaya"
     ],
     "name:rus_x_preferred":[
@@ -272,7 +272,7 @@
     "name:sin_x_preferred":[
         "\u0db4\u0dd4\u0dad\u0dca\u200d\u0dbb\u0da2\u0dba\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Putrajaya"
     ],
     "name:slv_x_preferred":[
@@ -329,9 +329,6 @@
     "name:war_x_preferred":[
         "Putrajaya"
     ],
-    "name:wel_x_preferred":[
-        "Putrajaya"
-    ],
     "name:wln_x_preferred":[
         "Putrajaya"
     ],
@@ -342,6 +339,9 @@
         "\u10de\u10e3\u10e2\u10e0\u10d0\u10ef\u10d0\u10d8\u10d0"
     ],
     "name:yue_x_preferred":[
+        "\u5e03\u57ce"
+    ],
+    "name:zho_x_preferred":[
         "\u5e03\u57ce"
     ],
     "name:zul_x_preferred":[
@@ -508,7 +508,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1537229436,
+    "wof:lastmodified":1561751666,
     "wof:megacity":0,
     "wof:name":"Putrajaya",
     "wof:parent_id":890489971,

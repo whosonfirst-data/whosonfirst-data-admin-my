@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016204,
-    "geom:area_square_m":200294226.997533,
+    "geom:area_square_m":200294226.997467,
     "geom:bbox":"103.854031199,1.41709182462,104.033036538,1.56342061784",
     "geom:latitude":1.484195,
     "geom:longitude":103.94708,
@@ -24,17 +24,14 @@
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b8\u09bf\u09b0 \u0997\u09c1\u09a1\u09be\u0982"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u897f\u53e4\u7576"
-    ],
     "name:dan_x_preferred":[
         "Pasir Gudang"
     ],
     "name:deu_x_preferred":[
         "Pasir Gudang"
     ],
-    "name:dut_x_preferred":[
-        "Pasir Gudang"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c3\u03af\u03c1 \u0393\u03ba\u03bf\u03c5\u03bd\u03c4\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Pasir Gudang"
@@ -45,14 +42,8 @@
     "name:fin_x_preferred":[
         "Pasir Gudang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pasir Gudang"
-    ],
-    "name:ger_x_preferred":[
-        "Pasir Gudang"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03c3\u03af\u03c1 \u0393\u03ba\u03bf\u03c5\u03bd\u03c4\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0ab8\u0abf\u0ab0 \u0a97\u0ac1\u0aa6\u0abe\u0a82\u0a97"
@@ -84,9 +75,6 @@
     "name:mar_x_preferred":[
         "\u092a\u0938\u093f\u0930 \u0921\u094d\u092f\u0941\u0913\u0928\u094d\u0917"
     ],
-    "name:may_x_preferred":[
-        "Pasir Gudang"
-    ],
     "name:msa_x_preferred":[
         "Pasir Gudang"
     ],
@@ -95,9 +83,6 @@
     ],
     "name:nob_x_preferred":[
         "Pasir Gudang"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0633\u06cc\u0631 \u06af\u0648\u062f\u0627\u0646\u06af"
     ],
     "name:pol_x_preferred":[
         "Pasir Gudang"
@@ -134,6 +119,9 @@
     ],
     "name:vie_x_preferred":[
         "Pasir Gudang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u897f\u53e4\u7576"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Johor",
@@ -182,7 +170,7 @@
         }
     ],
     "wof:id":102022765,
-    "wof:lastmodified":1527636673,
+    "wof:lastmodified":1561751667,
     "wof:name":"Pasir Gudang",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

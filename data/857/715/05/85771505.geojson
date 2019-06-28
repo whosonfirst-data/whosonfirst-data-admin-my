@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6326754.74597,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.62448,3.130436,101.62448,3.130436",
     "geom:latitude":3.130436,
     "geom:longitude":101.62448,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Kuala Lumpur/Damansara und Hartamas"
+    ],
     "name:eng_x_preferred":[
         "Damansara"
     ],
@@ -31,13 +34,10 @@
         "Damansara New Village",
         "Sungei Penchala"
     ],
-    "name:ger_x_preferred":[
-        "Kuala Lumpur/Damansara und Hartamas"
-    ],
     "name:ind_x_preferred":[
         "Damansara"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Damansara"
     ],
     "name:und_x_variant":[
@@ -78,11 +78,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":55,
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023395,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859427,
+    "wof:lastmodified":1561751691,
     "wof:name":"Damansara",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

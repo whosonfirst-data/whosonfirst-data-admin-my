@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011678,
-    "geom:area_square_m":143608884.147341,
+    "geom:area_square_m":143608884.14727,
     "geom:bbox":"116.462521665,5.90753450966,116.766237336,6.05674488455",
     "geom:latitude":5.980382,
     "geom:longitude":116.619525,
@@ -22,16 +22,10 @@
     "name:deu_x_preferred":[
         "Ranau"
     ],
-    "name:dut_x_preferred":[
-        "Ranau"
-    ],
     "name:eng_x_preferred":[
         "Ranau"
     ],
-    "name:fre_x_preferred":[
-        "Ranau"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ranau"
     ],
     "name:ind_x_preferred":[
@@ -42,9 +36,6 @@
     ],
     "name:kor_x_preferred":[
         "\ub77c\ub098\uc6b0"
-    ],
-    "name:may_x_preferred":[
-        "Ranau"
     ],
     "name:msa_x_preferred":[
         "Ranau"
@@ -101,7 +92,7 @@
         }
     ],
     "wof:id":102022891,
-    "wof:lastmodified":1527636679,
+    "wof:lastmodified":1561751672,
     "wof:name":"Ranau",
     "wof:parent_id":1108696495,
     "wof:placetype":"locality",

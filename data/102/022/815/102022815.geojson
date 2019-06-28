@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004256,
-    "geom:area_square_m":52580887.030484,
+    "geom:area_square_m":52580887.030426,
     "geom:bbox":"102.993330209,2.3468614258,103.06624089,2.48568727892",
     "geom:latitude":2.410365,
     "geom:longitude":103.029059,
@@ -22,19 +22,10 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u0431\u0438\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u7f8e\u58eb"
-    ],
-    "name:dut_x_preferred":[
-        "Labis"
-    ],
     "name:eng_x_preferred":[
         "Labis"
     ],
     "name:ind_x_preferred":[
-        "Labis"
-    ],
-    "name:may_x_preferred":[
         "Labis"
     ],
     "name:msa_x_preferred":[
@@ -45,6 +36,9 @@
     ],
     "name:spa_x_preferred":[
         "Labis"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7f8e\u58eb"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -89,7 +83,7 @@
         }
     ],
     "wof:id":102022815,
-    "wof:lastmodified":1527636678,
+    "wof:lastmodified":1561751671,
     "wof:name":"Labis",
     "wof:parent_id":890488717,
     "wof:placetype":"locality",

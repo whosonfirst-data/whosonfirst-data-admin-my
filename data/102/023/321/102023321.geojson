@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00763,
-    "geom:area_square_m":93922934.071482,
+    "geom:area_square_m":93922934.071535,
     "geom:bbox":"100.340881348,5.36445966295,100.44744133,5.52783661942",
     "geom:latitude":5.447107,
     "geom:longitude":100.388834,
@@ -26,14 +26,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u099f\u09be\u09b0\u0993\u09b0\u09cd\u09a5"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u6d77"
-    ],
     "name:dan_x_preferred":[
         "Butterworth"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Butterworth"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03c4\u03b5\u03c1\u03b3\u03bf\u03c5\u03bf\u03c1\u03b8"
     ],
     "name:eng_x_preferred":[
         "Butterworth"
@@ -43,12 +43,6 @@
     ],
     "name:fin_x_preferred":[
         "Butterworth"
-    ],
-    "name:ger_x_preferred":[
-        "Butterworth"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03c4\u03b5\u03c1\u03b3\u03bf\u03c5\u03bf\u03c1\u03b8"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0a9f\u0ab0\u0ab5\u0ab0\u0acd\u0aa5"
@@ -80,17 +74,14 @@
     "name:mar_x_preferred":[
         "\u092c\u091f\u0930\u0935\u0930\u094d\u0925"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Butterworth"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Butterworth"
     ],
     "name:nob_x_preferred":[
         "Butterworth"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u062a\u0631\u0648\u0648\u0631\u062a"
     ],
     "name:pol_x_preferred":[
         "Butterworth"
@@ -271,7 +262,7 @@
         }
     ],
     "wof:id":102023321,
-    "wof:lastmodified":1553815720,
+    "wof:lastmodified":1561751666,
     "wof:name":"Butterworth",
     "wof:parent_id":890490327,
     "wof:placetype":"locality",

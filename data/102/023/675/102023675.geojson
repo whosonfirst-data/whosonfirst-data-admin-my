@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006484,
-    "geom:area_square_m":79681100.149453,
+    "geom:area_square_m":79681100.149547,
     "geom:bbox":"116.374624655,6.30079287052,116.483345975,6.42807048798",
     "geom:latitude":6.363223,
     "geom:longitude":116.430617,
@@ -19,22 +19,13 @@
     "mps:longitude":116.423204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u53e4\u6253\u6bdb\u5f8b"
-    ],
     "name:deu_x_preferred":[
-        "Kota Belud"
-    ],
-    "name:dut_x_preferred":[
         "Kota Belud"
     ],
     "name:eng_x_preferred":[
         "Kota Belud"
     ],
-    "name:fre_x_preferred":[
-        "Kota Belud"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kota Belud"
     ],
     "name:ind_x_preferred":[
@@ -42,9 +33,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30bf\u30fb\u30d6\u30eb\u30c3"
-    ],
-    "name:may_x_preferred":[
-        "Kota Belud"
     ],
     "name:msa_x_preferred":[
         "Kota Belud"
@@ -66,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "Kota Belud"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e4\u6253\u6bdb\u5f8b"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Sabah",
@@ -115,7 +106,7 @@
         }
     ],
     "wof:id":102023675,
-    "wof:lastmodified":1527636453,
+    "wof:lastmodified":1561751654,
     "wof:name":"Kota Belud",
     "wof:parent_id":1108696421,
     "wof:placetype":"locality",

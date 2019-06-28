@@ -19,26 +19,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u4e39\u620e\u52a0\u5f04"
-    ],
-    "name:dut_x_preferred":[
-        "Tanjong Karang"
-    ],
     "name:eng_x_preferred":[
         "Tanjung Karang"
     ],
     "name:ind_x_preferred":[
         "Tanjung Karang"
     ],
-    "name:may_x_preferred":[
-        "Tanjung Karang"
-    ],
     "name:msa_x_preferred":[
         "Kampung Tanjung Karang"
     ],
+    "name:msa_x_variant":[
+        "Tanjung Karang"
+    ],
+    "name:nld_x_preferred":[
+        "Tanjong Karang"
+    ],
     "name:unk_x_variant":[
         "Tanjong Karang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u620e\u52a0\u5f04"
     ],
     "qs_pg:aaroncc":"MY",
     "qs_pg:gn_country":"MY",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125773183,
-    "wof:lastmodified":1514490519,
+    "wof:lastmodified":1561751772,
     "wof:name":"Kampung Tanjung Ara",
     "wof:parent_id":890488801,
     "wof:placetype":"locality",

@@ -56,12 +56,6 @@
     "name:ces_x_preferred":[
         "Johor"
     ],
-    "name:chi_x_preferred":[
-        "\u67d4\u4f5b\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Johor"
-    ],
     "name:dan_x_preferred":[
         "Johor"
     ],
@@ -71,8 +65,8 @@
     "name:diq_x_preferred":[
         "Cohor"
     ],
-    "name:dut_x_preferred":[
-        "Johor"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03bf\u03c7\u03cc\u03c1"
     ],
     "name:eng_x_preferred":[
         "Johor"
@@ -92,20 +86,8 @@
     "name:fra_x_preferred":[
         "Johor"
     ],
-    "name:fre_x_preferred":[
-        "Johor"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ef\u10dd\u10f0\u10dd\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Johor"
-    ],
     "name:glg_x_preferred":[
         "Johor"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03bf\u03c7\u03cc\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0acb\u0ab9\u0acb\u0ab0"
@@ -143,6 +125,9 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0cca\u0cb9\u0cca\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10dd\u10f0\u10dd\u10e0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc870\ud638\ub974 \uc8fc"
     ],
@@ -152,14 +137,8 @@
     "name:lit_x_preferred":[
         "D\u017eohoras"
     ],
-    "name:mac_x_preferred":[
-        "\u040f\u043e\u0445\u043e\u0440"
-    ],
     "name:mar_x_preferred":[
         "\u091c\u094b\u0939\u094b\u0930"
-    ],
-    "name:may_x_preferred":[
-        "Johor"
     ],
     "name:min_x_preferred":[
         "Johor"
@@ -181,9 +160,6 @@
     ],
     "name:nor_x_preferred":[
         "Johor"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u0648\u0647\u0648\u0631"
     ],
     "name:pms_x_preferred":[
         "Johor"
@@ -377,7 +353,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1553550476,
+    "wof:lastmodified":1561751695,
     "wof:name":"Johor",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

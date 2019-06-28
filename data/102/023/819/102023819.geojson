@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005389,
-    "geom:area_square_m":66286759.447615,
+    "geom:area_square_m":66286759.447667,
     "geom:bbox":"116.037597656,5.82010589795,116.23889161,5.94748126403",
     "geom:latitude":5.904785,
     "geom:longitude":116.15178,
@@ -18,22 +18,13 @@
     "mps:longitude":116.133752,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5175\u5357\u90a6"
-    ],
     "name:deu_x_preferred":[
-        "Penampang"
-    ],
-    "name:dut_x_preferred":[
         "Penampang"
     ],
     "name:eng_x_preferred":[
         "Penampang"
     ],
-    "name:fre_x_preferred":[
-        "Penampang"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Penampang"
     ],
     "name:ind_x_preferred":[
@@ -41,9 +32,6 @@
     ],
     "name:kor_x_preferred":[
         "\ud53c\ub0a8\ud321"
-    ],
-    "name:may_x_preferred":[
-        "Penampang"
     ],
     "name:msa_x_preferred":[
         "Penampang"
@@ -58,9 +46,6 @@
         "Penampang"
     ],
     "name:ron_x_preferred":[
-        "Penampang"
-    ],
-    "name:rum_x_preferred":[
         "Penampang"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +101,7 @@
         }
     ],
     "wof:id":102023819,
-    "wof:lastmodified":1527636453,
+    "wof:lastmodified":1561751655,
     "wof:name":"Penampang",
     "wof:parent_id":1108696541,
     "wof:placetype":"locality",

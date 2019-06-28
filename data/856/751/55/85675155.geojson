@@ -52,17 +52,14 @@
     "name:cdo_x_preferred":[
         "Negeri Sembilan"
     ],
-    "name:chi_x_preferred":[
-        "\u68ee\u7f8e\u5170"
-    ],
     "name:dan_x_preferred":[
         "Negeri Sembilan"
     ],
     "name:deu_x_preferred":[
         "Negeri Sembilan"
     ],
-    "name:dut_x_preferred":[
-        "Negeri Sembilan"
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03b3\u03ba\u03ad\u03c1\u03b9 \u03a3\u03b5\u03bc\u03c0\u03af\u03bb\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Negeri Sembilan"
@@ -78,15 +75,6 @@
     ],
     "name:fra_x_preferred":[
         "Negeri Sembilan"
-    ],
-    "name:fre_x_preferred":[
-        "Negeri Sembilan"
-    ],
-    "name:ger_x_preferred":[
-        "Negeri Sembilan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b5\u03b3\u03ba\u03ad\u03c1\u03b9 \u03a3\u03b5\u03bc\u03c0\u03af\u03bb\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac7\u0a97\u0ac7\u0ab0\u0ac0 \u0ab8\u0ac7\u0aae\u0acd\u0aac\u0abf\u0ab2\u0aa8"
@@ -130,14 +118,8 @@
     "name:lit_x_preferred":[
         "Negeri Sambilanas"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u0435\u0433\u0435\u0440\u0438 \u0421\u0435\u043c\u0431\u0438\u043b\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u0917\u0930\u0940 \u0938\u0902\u092c\u093f\u0932\u093e\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Negeri Sembilan"
     ],
     "name:min_x_preferred":[
         "Negeri Sembilan"
@@ -159,9 +141,6 @@
     ],
     "name:nor_x_preferred":[
         "Negeri Sembilan"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u06af\u0627\u0631\u06cc \u0633\u0645\u0628\u06cc\u0644\u0627\u0646"
     ],
     "name:pms_x_preferred":[
         "Negeri Sembilan"
@@ -351,7 +330,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1553550478,
+    "wof:lastmodified":1561751695,
     "wof:name":"Negeri Sembilan",
     "wof:parent_id":85632739,
     "wof:placetype":"region",
