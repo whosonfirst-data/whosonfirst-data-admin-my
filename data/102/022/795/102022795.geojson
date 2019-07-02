@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011145,
-    "geom:area_square_m":137687987.297232,
+    "geom:area_square_m":137687987.297063,
     "geom:bbox":"103.696452152,2.32490365217,103.923177469,2.54056970795",
     "geom:latitude":2.431912,
     "geom:longitude":103.831565,
@@ -22,13 +22,7 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u0440\u0441\u0438\u043d\u0433"
     ],
-    "name:chi_x_preferred":[
-        "\u4e30\u76db\u6e2f"
-    ],
     "name:deu_x_preferred":[
-        "Mersing"
-    ],
-    "name:dut_x_preferred":[
         "Mersing"
     ],
     "name:eng_x_preferred":[
@@ -37,10 +31,7 @@
     "name:epo_x_preferred":[
         "Mersing"
     ],
-    "name:fre_x_preferred":[
-        "Mersing"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mersing"
     ],
     "name:ind_x_preferred":[
@@ -51,9 +42,6 @@
     ],
     "name:kor_x_preferred":[
         "\uba54\ub974\uc2f1"
-    ],
-    "name:may_x_preferred":[
-        "Mersing"
     ],
     "name:msa_x_preferred":[
         "Mersing"
@@ -121,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636677,
+    "wof:lastmodified":1561751670,
     "wof:name":"Mersing",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

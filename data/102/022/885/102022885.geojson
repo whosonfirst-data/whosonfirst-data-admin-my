@@ -22,25 +22,13 @@
     "name:bul_x_preferred":[
         "\u041f\u0443\u0442\u0430\u0442\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u5854\u574d"
-    ],
     "name:deu_x_preferred":[
-        "Putatan"
-    ],
-    "name:dut_x_preferred":[
         "Putatan"
     ],
     "name:eng_x_preferred":[
         "Putatan"
     ],
-    "name:ger_x_preferred":[
-        "Putatan"
-    ],
     "name:ind_x_preferred":[
-        "Putatan"
-    ],
-    "name:may_x_preferred":[
         "Putatan"
     ],
     "name:msa_x_preferred":[
@@ -63,6 +51,9 @@
     ],
     "name:vie_x_preferred":[
         "Putatan"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5854\u574d"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Sabah",
@@ -114,7 +105,7 @@
         }
     ],
     "wof:id":102022885,
-    "wof:lastmodified":1527636678,
+    "wof:lastmodified":1561751671,
     "wof:name":"Putatan",
     "wof:parent_id":1108696541,
     "wof:placetype":"locality",

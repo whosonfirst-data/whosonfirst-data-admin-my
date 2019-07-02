@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00012,
-    "geom:area_square_m":1481243.024517,
+    "geom:area_square_m":1481243.024519,
     "geom:bbox":"115.48828125,4.97056012793,115.499267578,4.98150504933",
     "geom:latitude":4.976033,
     "geom:longitude":115.493774,
@@ -24,19 +24,13 @@
     "name:deu_x_preferred":[
         "Sindumin"
     ],
-    "name:dut_x_preferred":[
-        "Sindumin"
-    ],
     "name:eng_x_preferred":[
         "Sindumin"
     ],
-    "name:ger_x_preferred":[
-        "Sindumin"
-    ],
-    "name:may_x_preferred":[
-        "Sindumin"
-    ],
     "name:msa_x_preferred":[
+        "Sindumin"
+    ],
+    "name:nld_x_preferred":[
         "Sindumin"
     ],
     "name:unk_x_variant":[
@@ -107,7 +101,7 @@
         }
     ],
     "wof:id":102022931,
-    "wof:lastmodified":1534379384,
+    "wof:lastmodified":1561751667,
     "wof:name":"Sindumin",
     "wof:parent_id":1108696519,
     "wof:placetype":"locality",

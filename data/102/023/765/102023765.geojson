@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000678,
-    "geom:area_square_m":8366034.992284,
+    "geom:area_square_m":8366034.992294,
     "geom:bbox":"115.451812828,3.72914606245,115.491790707,3.75819632107",
     "geom:latitude":3.742176,
     "geom:longitude":115.471364,
@@ -21,19 +21,10 @@
     "name:cat_x_preferred":[
         "Bario"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u91cc\u5965"
-    ],
-    "name:dut_x_preferred":[
-        "Bario"
-    ],
     "name:eng_x_preferred":[
         "Bario"
     ],
     "name:fra_x_preferred":[
-        "Bario"
-    ],
-    "name:fre_x_preferred":[
         "Bario"
     ],
     "name:glg_x_preferred":[
@@ -45,10 +36,10 @@
     "name:ita_x_preferred":[
         "Bario"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bario"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Bario"
     ],
     "name:por_x_preferred":[
@@ -101,7 +92,7 @@
         }
     ],
     "wof:id":102023765,
-    "wof:lastmodified":1553815720,
+    "wof:lastmodified":1561751654,
     "wof:name":"Bareo",
     "wof:parent_id":1108696465,
     "wof:placetype":"locality",

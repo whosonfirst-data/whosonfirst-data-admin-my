@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015628,
-    "geom:area_square_m":192288942.483026,
+    "geom:area_square_m":192288942.483466,
     "geom:bbox":"115.858282146,5.56156129052,116.063107508,5.79720921011",
     "geom:latitude":5.697277,
     "geom:longitude":115.945767,
@@ -19,25 +19,16 @@
     "mps:longitude":115.935618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5427\u5df4"
-    ],
     "name:dan_x_preferred":[
         "Papar"
     ],
     "name:deu_x_preferred":[
         "Papar"
     ],
-    "name:dut_x_preferred":[
-        "Papar"
-    ],
     "name:eng_x_preferred":[
         "Papar"
     ],
-    "name:fre_x_preferred":[
-        "Papar"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Papar"
     ],
     "name:ind_x_preferred":[
@@ -45,9 +36,6 @@
     ],
     "name:kor_x_preferred":[
         "\ud30c\ud30c\ub974"
-    ],
-    "name:may_x_preferred":[
-        "Papar"
     ],
     "name:msa_x_preferred":[
         "Papar"
@@ -115,7 +103,7 @@
         }
     ],
     "wof:id":102022871,
-    "wof:lastmodified":1527636678,
+    "wof:lastmodified":1561751671,
     "wof:name":"Papar",
     "wof:parent_id":1108696477,
     "wof:placetype":"locality",

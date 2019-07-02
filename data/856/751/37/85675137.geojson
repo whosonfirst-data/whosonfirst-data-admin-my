@@ -52,10 +52,7 @@
     "name:cdo_x_preferred":[
         "Perlis"
     ],
-    "name:chi_x_preferred":[
-        "\u73bb\u7483\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Perlis"
     ],
     "name:dan_x_preferred":[
@@ -64,8 +61,8 @@
     "name:deu_x_preferred":[
         "Perlis"
     ],
-    "name:dut_x_preferred":[
-        "Perlis"
+    "name:ell_x_preferred":[
+        "\u03a0\u03ad\u03c1\u03bb\u03b9\u03c2"
     ],
     "name:eng_x_preferred":[
         "Perlis"
@@ -81,18 +78,6 @@
     ],
     "name:fra_x_preferred":[
         "Perlis"
-    ],
-    "name:fre_x_preferred":[
-        "Perlis"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10e0\u10da\u10d8\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Perlis"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03ad\u03c1\u03bb\u03b9\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ab0\u0acd\u0ab2\u0ac0\u0ab8"
@@ -124,6 +109,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cc6\u0cb0\u0ccd\u0cb2\u0cbf\u0cb8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10e0\u10da\u10d8\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud504\ub97c\ub9ac\uc2a4 \uc8fc"
     ],
@@ -133,14 +121,8 @@
     "name:lit_x_preferred":[
         "Perlis"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0435\u0440\u043b\u0438\u0441"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u0930\u094d\u0932\u093f\u0938"
-    ],
-    "name:may_x_preferred":[
-        "Perlis"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0435\u0440\u043b\u0438\u0441"
@@ -159,9 +141,6 @@
     ],
     "name:nor_x_preferred":[
         "Perlis"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u0644\u06cc\u0633"
     ],
     "name:pms_x_preferred":[
         "Perlis"
@@ -352,7 +331,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1553550473,
+    "wof:lastmodified":1561751695,
     "wof:name":"Perlis",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

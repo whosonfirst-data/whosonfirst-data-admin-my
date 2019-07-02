@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008626,
-    "geom:area_square_m":106330694.963257,
+    "geom:area_square_m":106330694.963233,
     "geom:bbox":"103.388815486,4.4285672567,103.494729853,4.61277372386",
     "geom:latitude":4.529311,
     "geom:longitude":103.438452,
@@ -22,19 +22,10 @@
     "name:bul_x_preferred":[
         "\u041a\u0435\u0440\u0442\u0438\u0445"
     ],
-    "name:chi_x_preferred":[
-        "\u5c40\u8336"
-    ],
-    "name:dut_x_preferred":[
-        "Kerteh"
-    ],
     "name:eng_x_preferred":[
         "Kerteh"
     ],
     "name:ind_x_preferred":[
-        "Kerteh"
-    ],
-    "name:may_x_preferred":[
         "Kerteh"
     ],
     "name:msa_x_preferred":[
@@ -48,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "Kuala Kerteh"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c40\u8336"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Terengganu",
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":102022943,
-    "wof:lastmodified":1527636680,
+    "wof:lastmodified":1561751673,
     "wof:name":"Kertih",
     "wof:parent_id":890490801,
     "wof:placetype":"locality",

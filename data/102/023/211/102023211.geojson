@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009501,
-    "geom:area_square_m":117348095.733301,
+    "geom:area_square_m":117348095.733445,
     "geom:bbox":"102.135628193,2.66516251656,102.297194379,2.80669110232",
     "geom:latitude":2.740472,
     "geom:longitude":102.226726,
@@ -19,16 +19,10 @@
     "mps:longitude":102.244722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u74dc\u62c9\u5e87\u6725"
-    ],
-    "name:dut_x_preferred":[
-        "Kuala Pilah"
-    ],
     "name:eng_x_preferred":[
         "Kuala Pilah"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kuala Pilah"
     ],
     "name:ind_x_preferred":[
@@ -37,10 +31,10 @@
     "name:jpn_x_preferred":[
         "\u30af\u30a2\u30e9\u30fb\u30d4\u30e9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kuala Pilah"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Kuala Pilah"
     ],
     "name:spa_x_preferred":[
@@ -51,6 +45,9 @@
     ],
     "name:vie_x_preferred":[
         "Kuala Pilah"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u62c9\u5e87\u6725"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Negeri Sembilan",
@@ -99,7 +96,7 @@
         }
     ],
     "wof:id":102023211,
-    "wof:lastmodified":1514490584,
+    "wof:lastmodified":1561751654,
     "wof:name":"Kuala Pilah",
     "wof:parent_id":890490777,
     "wof:placetype":"locality",

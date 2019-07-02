@@ -52,19 +52,10 @@
     "name:ces_x_preferred":[
         "Labuan"
     ],
-    "name:chi_x_preferred":[
-        "\u7eb3\u95fd"
-    ],
-    "name:cze_x_preferred":[
-        "Labuan"
-    ],
     "name:dan_x_preferred":[
         "Labuan"
     ],
     "name:deu_x_preferred":[
-        "Labuan"
-    ],
-    "name:dut_x_preferred":[
         "Labuan"
     ],
     "name:ell_x_preferred":[
@@ -88,17 +79,8 @@
     "name:fra_x_preferred":[
         "Territoire f\u00e9d\u00e9ral de Labuan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Labuan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0\u10d1\u10e3\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Labuan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1\u03bc\u03c0\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0aac\u0ac1\u0a86\u0aa8"
@@ -124,6 +106,9 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0cac\u0cc1\u0cb5\u0cbe\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10d1\u10e3\u10d0\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub77c\ubd80\uc548"
     ],
@@ -133,14 +118,8 @@
     "name:lit_x_preferred":[
         "Labuanas"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0430\u0431\u0443\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u093e\u092c\u0941\u0906\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Labuan"
     ],
     "name:mkd_x_preferred":[
         "\u041b\u0430\u0431\u0443\u0430\u043d"
@@ -159,9 +138,6 @@
     ],
     "name:nor_x_preferred":[
         "Labuan"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u0628\u0648\u0622\u0646"
     ],
     "name:pol_x_preferred":[
         "Labuan"
@@ -342,7 +318,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1553550476,
+    "wof:lastmodified":1561751695,
     "wof:name":"Labuan",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

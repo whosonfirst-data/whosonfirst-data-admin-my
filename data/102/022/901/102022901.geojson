@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011566,
-    "geom:area_square_m":142402127.607933,
+    "geom:area_square_m":142402127.607848,
     "geom:bbox":"115.163404179,5.24055544103,115.31602803,5.43365928791",
     "geom:latitude":5.308828,
     "geom:longitude":115.232392,
@@ -19,7 +19,7 @@
     "mps:longitude":115.235421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bandar Labuan"
     ],
     "name:eng_x_preferred":[
@@ -34,15 +34,6 @@
     "name:fra_x_preferred":[
         "Victoria"
     ],
-    "name:fre_x_preferred":[
-        "Victoria"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10e5\u10e2\u10dd\u10e0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bandar Labuan"
-    ],
     "name:hin_x_preferred":[
         "\u0935\u093f\u0915\u094d\u091f\u094b\u0930\u093f\u092f\u093e"
     ],
@@ -55,8 +46,8 @@
     "name:jpn_x_preferred":[
         "\u30d3\u30af\u30c8\u30ea\u30a2"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u0458\u0430"
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10e5\u10e2\u10dd\u10e0\u10d8\u10d0"
     ],
     "name:mkd_x_preferred":[
         "\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u0458\u0430"
@@ -149,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815720,
+    "wof:lastmodified":1561751667,
     "wof:name":"Victoria",
     "wof:parent_id":1108696547,
     "wof:placetype":"locality",

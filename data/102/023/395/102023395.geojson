@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008775,
-    "geom:area_square_m":108343453.529607,
+    "geom:area_square_m":108343453.529394,
     "geom:bbox":"101.557617187,3.04761030292,101.661987305,3.20873301482",
     "geom:latitude":3.124401,
     "geom:longitude":101.605758,
@@ -31,20 +31,14 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0442\u0430\u043b\u0438\u043d\u0433 \u0414\u0436\u0430\u044f"
     ],
-    "name:bur_x_preferred":[
-        "\u1015\u102e\u1010\u101c\u1004\u103a\u1038 \u1002\u103b\u102c\u101a\u102c\u1038\u1019\u103c\u102d\u102f\u1037"
-    ],
-    "name:chi_x_preferred":[
-        "\u516b\u6253\u7075\u518d\u4e5f"
-    ],
     "name:dan_x_preferred":[
         "Petaling Jaya"
     ],
     "name:deu_x_preferred":[
         "Petaling Jaya"
     ],
-    "name:dut_x_preferred":[
-        "Petaling Jaya"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c4\u03ac\u03bb\u03b9\u03bd\u03b3\u03ba \u03a4\u03b6\u03ac\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Petaling Jaya"
@@ -60,15 +54,6 @@
     ],
     "name:fra_x_preferred":[
         "Petaling Jaya"
-    ],
-    "name:fre_x_preferred":[
-        "Petaling Jaya"
-    ],
-    "name:ger_x_preferred":[
-        "Petaling Jaya"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c4\u03ac\u03bb\u03b9\u03bd\u03b3\u03ba \u03a4\u03b6\u03ac\u03b3\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0a9f\u0ab2\u0abf\u0a82\u0a97 \u0a9c\u0aaf\u0abe"
@@ -103,14 +88,8 @@
     "name:mal_x_preferred":[
         "\u0d2a\u0d46\u0d31\u0d4d\u0d31\u0d32\u0d3f\u0d19\u0d4d \u0d1c\u0d2f"
     ],
-    "name:mao_x_preferred":[
-        "Petaling Jaya"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u0947\u091f\u0932\u093f\u0902\u0917 \u091c\u092f\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Petaling Jaya"
     ],
     "name:mri_x_preferred":[
         "Petaling Jaya"
@@ -126,9 +105,6 @@
     ],
     "name:nob_x_preferred":[
         "Petaling Jaya"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u062a\u0627\u0644\u06cc\u0646\u06af \u062c\u0627\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Petaling Jaya"
@@ -227,7 +203,7 @@
         }
     ],
     "wof:id":102023395,
-    "wof:lastmodified":1527636457,
+    "wof:lastmodified":1561751659,
     "wof:name":"Petaling Jaya",
     "wof:parent_id":890490605,
     "wof:placetype":"locality",

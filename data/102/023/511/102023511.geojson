@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005935,
-    "geom:area_square_m":73195850.786808,
+    "geom:area_square_m":73195850.786768,
     "geom:bbox":"101.22451772,4.02933852862,101.322173039,4.15467934554",
     "geom:latitude":4.09641,
     "geom:longitude":101.282118,
@@ -19,19 +19,10 @@
     "mps:longitude":101.283535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7f8e\u7f57"
-    ],
-    "name:dut_x_preferred":[
-        "Bidor"
-    ],
     "name:eng_x_preferred":[
         "Bidor"
     ],
-    "name:fre_x_preferred":[
-        "Bidor"
-    ],
-    "name:may_x_preferred":[
+    "name:fra_x_preferred":[
         "Bidor"
     ],
     "name:msa_x_preferred":[
@@ -99,7 +90,7 @@
         }
     ],
     "wof:id":102023511,
-    "wof:lastmodified":1527636456,
+    "wof:lastmodified":1561751659,
     "wof:name":"Bidur",
     "wof:parent_id":890489741,
     "wof:placetype":"locality",

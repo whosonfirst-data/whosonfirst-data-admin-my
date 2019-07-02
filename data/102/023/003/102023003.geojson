@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010109,
-    "geom:area_square_m":124560116.730108,
+    "geom:area_square_m":124560116.730207,
     "geom:bbox":"100.642229967,4.76995225277,100.781109408,4.89751024697",
     "geom:latitude":4.837492,
     "geom:longitude":100.708107,
@@ -26,17 +26,14 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0987\u09aa\u09bf\u0982"
     ],
-    "name:chi_x_preferred":[
-        "\u592a\u5e73"
-    ],
     "name:dan_x_preferred":[
         "Taiping"
     ],
     "name:deu_x_preferred":[
         "Taiping"
     ],
-    "name:dut_x_preferred":[
-        "Taiping"
+    "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03b9\u03c0\u03b9\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Taiping"
@@ -47,14 +44,8 @@
     "name:fin_x_preferred":[
         "Taiping"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Taiping"
-    ],
-    "name:ger_x_preferred":[
-        "Taiping"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03ac\u03b9\u03c0\u03b9\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0a88\u0aaa\u0abf\u0a82\u0a97"
@@ -85,9 +76,6 @@
     ],
     "name:mar_x_preferred":[
         "\u0924\u093e\u0907\u092a\u093f\u0902\u0917"
-    ],
-    "name:may_x_preferred":[
-        "Bandar Taiping"
     ],
     "name:msa_x_preferred":[
         "Bandar Taiping"
@@ -294,7 +282,7 @@
         }
     ],
     "wof:id":102023003,
-    "wof:lastmodified":1527636460,
+    "wof:lastmodified":1561751663,
     "wof:name":"Taiping",
     "wof:parent_id":890490803,
     "wof:placetype":"locality",

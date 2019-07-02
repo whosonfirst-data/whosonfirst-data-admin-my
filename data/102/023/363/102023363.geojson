@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007007,
-    "geom:area_square_m":86271137.046764,
+    "geom:area_square_m":86271137.046816,
     "geom:bbox":"100.180796459,5.26243356899,100.330678456,5.35950816592",
     "geom:latitude":5.305324,
     "geom:longitude":100.268205,
@@ -24,14 +24,11 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09af\u09bc\u09be\u09a8 \u09b2\u09c7\u09aa\u09be\u09b8"
     ],
-    "name:chi_x_preferred":[
-        "\u5cc7\u516d\u62dc"
-    ],
     "name:dan_x_preferred":[
         "Bayan Lepas"
     ],
-    "name:dut_x_preferred":[
-        "Bayan Lepas"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03b3\u03b9\u03b1\u03bd \u039b\u03b5\u03c0\u03ac\u03c2"
     ],
     "name:eng_x_preferred":[
         "Bayan Lepas"
@@ -39,11 +36,8 @@
     "name:fin_x_preferred":[
         "Bayan Lepas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bayan Lepas"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03b3\u03b9\u03b1\u03bd \u039b\u03b5\u03c0\u03ac\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aaf\u0abe\u0aa8 \u0ab2\u0ac7\u0aaa\u0abe\u0ab8"
@@ -75,10 +69,10 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u092f\u093e\u0928 \u0932\u0947\u092a\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bayan Lepas"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Bayan Lepas"
     ],
     "name:nob_x_preferred":[
@@ -122,6 +116,9 @@
     ],
     "name:vie_x_preferred":[
         "Bayan Lepas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5cc7\u516d\u62dc"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Pulau Pinang",
@@ -171,7 +168,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636452,
+    "wof:lastmodified":1561751654,
     "wof:name":"Bayan Lepas",
     "wof:parent_id":890489155,
     "wof:placetype":"locality",

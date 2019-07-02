@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004671,
-    "geom:area_square_m":57650530.580681,
+    "geom:area_square_m":57650530.580689,
     "geom:bbox":"101.147619825,3.37826695463,101.231530113,3.45859104828",
     "geom:latitude":3.418574,
     "geom:longitude":101.192232,
@@ -19,26 +19,26 @@
     "mps:longitude":101.193023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e39\u620e\u52a0\u5f04"
-    ],
-    "name:dut_x_preferred":[
-        "Tanjong Karang"
-    ],
     "name:eng_x_preferred":[
         "Tanjung Karang"
     ],
     "name:ind_x_preferred":[
         "Tanjung Karang"
     ],
-    "name:may_x_preferred":[
-        "Tanjung Karang"
-    ],
     "name:msa_x_preferred":[
         "Kampung Tanjung Karang"
     ],
+    "name:msa_x_variant":[
+        "Tanjung Karang"
+    ],
+    "name:nld_x_preferred":[
+        "Tanjong Karang"
+    ],
     "name:unk_x_variant":[
         "Tanjong Karang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u620e\u52a0\u5f04"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Perak",
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":102023843,
-    "wof:lastmodified":1527636454,
+    "wof:lastmodified":1561751656,
     "wof:name":"Kampung Tanjung Karang",
     "wof:parent_id":890488801,
     "wof:placetype":"locality",

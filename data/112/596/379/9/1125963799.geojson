@@ -22,10 +22,7 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0627\u0621 \u0643\u0644\u0627\u063a"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u751f\u6e2f"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Port Klang"
     ],
     "name:eng_x_preferred":[
@@ -34,10 +31,7 @@
     "name:fin_x_preferred":[
         "Port Klang"
     ],
-    "name:fre_x_preferred":[
-        "Port Klang"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Port Klang"
     ],
     "name:hun_x_preferred":[
@@ -55,9 +49,6 @@
     "name:lit_x_preferred":[
         "Port Klangas"
     ],
-    "name:may_x_preferred":[
-        "Pelabuhan Klang"
-    ],
     "name:msa_x_preferred":[
         "Pelabuhan Kelang"
     ],
@@ -65,6 +56,9 @@
         "Pelabohan Klang",
         "Pelabuhan Kelang Selatan",
         "Pelabuhan Klang"
+    ],
+    "name:nld_x_preferred":[
+        "Port Klang"
     ],
     "name:pol_x_preferred":[
         "Port Klang"
@@ -80,6 +74,9 @@
     ],
     "name:unk_x_variant":[
         "Port Kalang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u751f\u6e2f"
     ],
     "qs_pg:aaroncc":"MY",
     "qs_pg:gn_country":"MY",
@@ -134,7 +131,7 @@
         }
     ],
     "wof:id":1125963799,
-    "wof:lastmodified":1514490659,
+    "wof:lastmodified":1561751771,
     "wof:name":"Pelabuhan Kelang",
     "wof:parent_id":1108696415,
     "wof:placetype":"locality",

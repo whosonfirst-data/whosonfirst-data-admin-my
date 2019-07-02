@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004976,
-    "geom:area_square_m":61342150.176824,
+    "geom:area_square_m":61342150.176854,
     "geom:bbox":"101.125635813,4.40118289798,101.209568283,4.51427823609",
     "geom:latitude":4.455276,
     "geom:longitude":101.162725,
@@ -18,20 +18,17 @@
     "mps:longitude":101.158592,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u52d9\u908a"
-    ],
-    "name:dut_x_preferred":[
-        "Gopeng"
-    ],
     "name:eng_x_preferred":[
-        "Gopeng"
-    ],
-    "name:may_x_preferred":[
         "Gopeng"
     ],
     "name:msa_x_preferred":[
         "Gopeng"
+    ],
+    "name:nld_x_preferred":[
+        "Gopeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u52d9\u908a"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Perak",
@@ -80,7 +77,7 @@
         }
     ],
     "wof:id":102023489,
-    "wof:lastmodified":1527636459,
+    "wof:lastmodified":1561751662,
     "wof:name":"Gopeng",
     "wof:parent_id":890490953,
     "wof:placetype":"locality",

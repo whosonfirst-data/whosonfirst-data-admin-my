@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001676,
-    "geom:area_square_m":20694726.683331,
+    "geom:area_square_m":20694726.68336,
     "geom:bbox":"102.356121696,2.85171025273,102.582842507,3.15503839969",
     "geom:latitude":3.003704,
     "geom:longitude":102.482691,
@@ -16,16 +16,13 @@
     "mps:longitude":102.564624,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Kemayan"
-    ],
     "name:eng_x_preferred":[
         "Kemayan"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kemayan"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Kemayan"
     ],
     "qs:a0":"Malaysia",
@@ -72,7 +69,7 @@
         }
     ],
     "wof:id":102024015,
-    "wof:lastmodified":1527636429,
+    "wof:lastmodified":1561751652,
     "wof:name":"Kemayan",
     "wof:parent_id":890490279,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000241,
-    "geom:area_square_m":2967102.799229,
+    "geom:area_square_m":2967102.799228,
     "geom:bbox":"101.370849609,4.42309047796,101.381835938,4.44499736973",
     "geom:latitude":4.434044,
     "geom:longitude":101.376343,
@@ -29,9 +29,6 @@
     ],
     "name:deu_x_preferred":[
         "Brauner Waldvogel"
-    ],
-    "name:dut_x_preferred":[
-        "Ringlet"
     ],
     "name:eng_x_preferred":[
         "Ringlet"
@@ -57,14 +54,17 @@
     "name:lit_x_preferred":[
         "Tamsusis satyras"
     ],
-    "name:may_x_preferred":[
-        "Pekan Ringlet"
-    ],
     "name:msa_x_preferred":[
         "Ringlet"
     ],
+    "name:msa_x_variant":[
+        "Pekan Ringlet"
+    ],
     "name:nld_x_preferred":[
         "Koevinkje"
+    ],
+    "name:nld_x_variant":[
+        "Ringlet"
     ],
     "name:nor_x_preferred":[
         "Gullringvinge"
@@ -135,7 +135,7 @@
         }
     ],
     "wof:id":102023485,
-    "wof:lastmodified":1527636453,
+    "wof:lastmodified":1561751655,
     "wof:name":"Ringlet",
     "wof:parent_id":1108696393,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016818,
-    "geom:area_square_m":206705207.970023,
+    "geom:area_square_m":206705207.969936,
     "geom:bbox":"100.250244141,6.17332365402,100.484501796,6.41356609299",
     "geom:latitude":6.280853,
     "geom:longitude":100.407366,
@@ -19,12 +19,6 @@
     "mps:longitude":100.401934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u65e5\u5f97\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Jitra"
-    ],
     "name:eng_x_preferred":[
         "Jitra"
     ],
@@ -33,9 +27,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30c3\u30c8\u30e9"
-    ],
-    "name:may_x_preferred":[
-        "Jitra"
     ],
     "name:msa_x_preferred":[
         "Jitra"
@@ -54,6 +45,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9c\u0bbf\u0ba4\u0bcd\u0bb0\u0bbe"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e5\u5f97\u62c9"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Kedah",
@@ -103,7 +97,7 @@
         }
     ],
     "wof:id":102023623,
-    "wof:lastmodified":1527636459,
+    "wof:lastmodified":1561751662,
     "wof:name":"Jitra",
     "wof:parent_id":890488625,
     "wof:placetype":"locality",

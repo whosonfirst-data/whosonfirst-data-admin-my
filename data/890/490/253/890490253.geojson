@@ -39,14 +39,11 @@
     "name:ben_x_preferred":[
         "\u09a6\u09c1\u09a8\u0997\u09be\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u9f8d\u904b\u7e23"
-    ],
     "name:dan_x_preferred":[
         "Dungun"
     ],
-    "name:dut_x_preferred":[
-        "Dungun"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03ac\u03bd\u03b3\u03ba\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Dungun"
@@ -57,11 +54,8 @@
     "name:fin_x_preferred":[
         "Dungun"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dungun"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03ac\u03bd\u03b3\u03ba\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0a82\u0a97\u0aa8"
@@ -93,7 +87,10 @@
     "name:mar_x_preferred":[
         "\u0921\u0902\u0917\u0941\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Dungun"
+    ],
+    "name:nld_x_preferred":[
         "Dungun"
     ],
     "name:nob_x_preferred":[
@@ -137,6 +134,9 @@
     ],
     "name:vie_x_preferred":[
         "Dungun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f8d\u904b\u7e23"
     ],
     "qs:name":"Dungun",
     "qs:name_adm0":"Malaysia",
@@ -192,7 +192,7 @@
         }
     ],
     "wof:id":890490253,
-    "wof:lastmodified":1553717811,
+    "wof:lastmodified":1561751761,
     "wof:name":"Dungun",
     "wof:parent_id":85675169,
     "wof:placetype":"county",

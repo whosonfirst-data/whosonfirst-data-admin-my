@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03143,
-    "geom:area_square_m":387378640.971102,
+    "geom:area_square_m":387378640.970973,
     "geom:bbox":"101.015769159,4.46333947586,101.209569896,4.77708717303",
     "geom:latitude":4.614504,
     "geom:longitude":101.106721,
@@ -32,9 +32,6 @@
     "name:ast_x_preferred":[
         "Ipoh"
     ],
-    "name:baq_x_preferred":[
-        "Ipoh"
-    ],
     "name:bar_x_preferred":[
         "Ipoh"
     ],
@@ -50,19 +47,16 @@
     "name:bul_x_preferred":[
         "\u0418\u043f\u043e\u0445"
     ],
-    "name:bur_x_preferred":[
-        "\u1021\u102e\u1015\u102d\u102f\u1038\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Ipoh"
     ],
-    "name:chi_x_preferred":[
-        "\u6021\u4fdd"
+    "name:ces_x_preferred":[
+        "Ipoh"
     ],
     "name:cos_x_preferred":[
         "Ipoh"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Ipoh"
     ],
     "name:dan_x_preferred":[
@@ -71,8 +65,8 @@
     "name:deu_x_preferred":[
         "Ipoh"
     ],
-    "name:dut_x_preferred":[
-        "Ipoh"
+    "name:ell_x_preferred":[
+        "\u038a\u03c0\u03bf"
     ],
     "name:eng_x_preferred":[
         "Ipoh"
@@ -95,16 +89,10 @@
     "name:fra_x_preferred":[
         "Ipoh"
     ],
-    "name:fre_x_preferred":[
-        "Ipoh"
-    ],
     "name:frp_x_preferred":[
         "Ipoh"
     ],
     "name:fur_x_preferred":[
-        "Ipoh"
-    ],
-    "name:ger_x_preferred":[
         "Ipoh"
     ],
     "name:gla_x_preferred":[
@@ -115,9 +103,6 @@
     ],
     "name:glg_x_preferred":[
         "Ipoh"
-    ],
-    "name:gre_x_preferred":[
-        "\u038a\u03c0\u03bf"
     ],
     "name:gsw_x_preferred":[
         "Ipoh"
@@ -140,9 +125,6 @@
     "name:hun_x_preferred":[
         "Ipoh"
     ],
-    "name:ice_x_preferred":[
-        "Ipoh"
-    ],
     "name:ido_x_preferred":[
         "Ipoh"
     ],
@@ -153,6 +135,9 @@
         "Ipoh"
     ],
     "name:ind_x_preferred":[
+        "Ipoh"
+    ],
+    "name:isl_x_preferred":[
         "Ipoh"
     ],
     "name:ita_x_preferred":[
@@ -185,17 +170,8 @@
     "name:ltz_x_preferred":[
         "Ipoh"
     ],
-    "name:mac_x_preferred":[
-        "\u0418\u043f\u043e\u0445"
-    ],
-    "name:mao_x_preferred":[
-        "Ipoh"
-    ],
     "name:mar_x_preferred":[
         "\u0906\u092f\u092a\u094b\u0939"
-    ],
-    "name:may_x_preferred":[
-        "Ipoh"
     ],
     "name:min_x_preferred":[
         "Ipoh"
@@ -245,9 +221,6 @@
     "name:pcd_x_preferred":[
         "Ipoh"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u067e\u0648\u0647"
-    ],
     "name:pms_x_preferred":[
         "Ipoh"
     ],
@@ -260,7 +233,7 @@
     "name:roh_x_preferred":[
         "Ipoh"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ipoh"
     ],
     "name:rus_x_preferred":[
@@ -278,7 +251,7 @@
     "name:sin_x_preferred":[
         "\u0d85\u0dba\u0dd2\u0db4\u0ddc\u0dc4\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ipoh"
     ],
     "name:slv_x_preferred":[
@@ -330,9 +303,6 @@
         "Ipoh"
     ],
     "name:war_x_preferred":[
-        "Ipoh"
-    ],
-    "name:wel_x_preferred":[
         "Ipoh"
     ],
     "name:wln_x_preferred":[
@@ -500,7 +470,7 @@
         }
     ],
     "wof:id":102023021,
-    "wof:lastmodified":1534379384,
+    "wof:lastmodified":1561751663,
     "wof:name":"Ipoh",
     "wof:parent_id":890490953,
     "wof:placetype":"locality",

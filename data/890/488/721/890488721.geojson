@@ -34,12 +34,6 @@
     "mps:longitude":102.762721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9ebb\u5761\u7e23"
-    ],
-    "name:dut_x_preferred":[
-        "Muar"
-    ],
     "name:eng_x_preferred":[
         "Muar"
     ],
@@ -49,17 +43,23 @@
     "name:epo_x_preferred":[
         "Muar"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u064a\u0631\u0647 \u0645\u0648\u0627\u0631"
+    ],
     "name:ind_x_preferred":[
         "Muar"
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30a2\u30eb"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Muar"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0627\u064a\u0631\u0647 \u0645\u0648\u0627\u0631"
+    "name:nld_x_preferred":[
+        "Muar"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ebb\u5761\u7e23"
     ],
     "qs:name":"Daerah Muar",
     "qs:photos_9r":0,
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":890488721,
-    "wof:lastmodified":1553717809,
+    "wof:lastmodified":1561751765,
     "wof:name":"Muar",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

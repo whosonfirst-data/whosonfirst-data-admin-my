@@ -35,9 +35,6 @@
     "name:ara_x_preferred":[
         "\u0635\u0628\u0627\u062d"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0562\u0561\u0570"
-    ],
     "name:aze_x_preferred":[
         "Sabah"
     ],
@@ -65,12 +62,6 @@
     "name:ces_x_preferred":[
         "Sabah"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u5df4"
-    ],
-    "name:cze_x_preferred":[
-        "Sabah"
-    ],
     "name:dan_x_preferred":[
         "Sabah"
     ],
@@ -80,8 +71,8 @@
     "name:diq_x_preferred":[
         "Sabah"
     ],
-    "name:dut_x_preferred":[
-        "Sabah"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bc\u03c0\u03ac\u03c7"
     ],
     "name:eng_x_preferred":[
         "Sabah"
@@ -97,18 +88,6 @@
     ],
     "name:fra_x_preferred":[
         "Sabah"
-    ],
-    "name:fre_x_preferred":[
-        "Sabah"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10d1\u10d0\u10f0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sabah"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bc\u03c0\u03ac\u03c7"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0aac\u0abe\u0ab9"
@@ -149,6 +128,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cac\u0cbe\u0cb9\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d1\u10d0\u10f0\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0430\u0431\u0430\u0445"
     ],
@@ -161,14 +143,8 @@
     "name:lit_x_preferred":[
         "Sabahas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u0431\u0430\u0445"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u092c\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Sabah"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u0431\u0430\u0445"
@@ -188,9 +164,6 @@
     "name:nor_x_preferred":[
         "Sabah"
     ],
-    "name:per_x_preferred":[
-        "\u0635\u0628\u0627\u062d"
-    ],
     "name:pms_x_preferred":[
         "Sabah"
     ],
@@ -201,9 +174,6 @@
         "Sab\u00e1"
     ],
     "name:ron_x_preferred":[
-        "Sabah"
-    ],
-    "name:rum_x_preferred":[
         "Sabah"
     ],
     "name:rus_x_preferred":[
@@ -401,7 +371,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1553550536,
+    "wof:lastmodified":1561751694,
     "wof:name":"Sabah",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

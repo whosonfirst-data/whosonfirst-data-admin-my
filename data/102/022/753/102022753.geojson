@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006488,
-    "geom:area_square_m":80184855.529317,
+    "geom:area_square_m":80184855.529314,
     "geom:bbox":"103.267990246,1.68809623853,103.35188315,1.88187854504",
     "geom:latitude":1.800368,
     "geom:longitude":103.305447,
@@ -18,19 +18,13 @@
     "mps:longitude":103.309225,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u65b0\u90a6\u4ee4\u91d1"
-    ],
-    "name:dut_x_preferred":[
-        "Simpang Renggam"
-    ],
     "name:eng_x_preferred":[
         "Simpang Renggam"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Simpang Renggam"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Simpang Renggam"
     ],
     "name:spa_x_preferred":[
@@ -38,6 +32,9 @@
     ],
     "name:unk_x_variant":[
         "Simpang Rengam"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u90a6\u4ee4\u91d1"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Johor",
@@ -86,7 +83,7 @@
         }
     ],
     "wof:id":102022753,
-    "wof:lastmodified":1527636673,
+    "wof:lastmodified":1561751667,
     "wof:name":"Simpang Renggam",
     "wof:parent_id":1108696417,
     "wof:placetype":"locality",

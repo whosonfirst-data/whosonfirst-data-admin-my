@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000125,
-    "geom:area_square_m":1533483.090763,
+    "geom:area_square_m":1533483.09076,
     "geom:bbox":"102.271728516,6.09549429379,102.282714844,6.1091493819",
     "geom:latitude":6.102215,
     "geom:longitude":102.277477,
@@ -18,9 +18,6 @@
     "mps:longitude":102.277582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Kubang Kerian"
-    ],
     "name:eng_x_preferred":[
         "Kubang Kerian"
     ],
@@ -30,10 +27,10 @@
     "name:ind_x_preferred":[
         "Kubang Kerian"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kubang Kerian"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Kubang Kerian"
     ],
     "name:unk_x_variant":[
@@ -86,7 +83,7 @@
         }
     ],
     "wof:id":102023835,
-    "wof:lastmodified":1527636454,
+    "wof:lastmodified":1561751657,
     "wof:name":"Kubang Kerian",
     "wof:parent_id":890489783,
     "wof:placetype":"locality",

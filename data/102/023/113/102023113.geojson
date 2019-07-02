@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023719,
-    "geom:area_square_m":292937249.783544,
+    "geom:area_square_m":292937249.783385,
     "geom:bbox":"101.378338963,2.68710934887,101.678466797,2.8917332709",
     "geom:latitude":2.806825,
     "geom:longitude":101.512198,
@@ -19,25 +19,19 @@
     "mps:longitude":101.50199,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e07\u6d25"
-    ],
-    "name:dut_x_preferred":[
-        "Banting"
-    ],
     "name:eng_x_preferred":[
         "Banting"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Banting"
     ],
     "name:ind_x_preferred":[
         "Banting"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Banting"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Banting"
     ],
     "name:pol_x_preferred":[
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":102023113,
-    "wof:lastmodified":1527636461,
+    "wof:lastmodified":1561751666,
     "wof:name":"Banting",
     "wof:parent_id":1108696427,
     "wof:placetype":"locality",

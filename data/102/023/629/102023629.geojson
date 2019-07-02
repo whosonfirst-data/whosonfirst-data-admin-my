@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03627,
-    "geom:area_square_m":445905569.237876,
+    "geom:area_square_m":445905569.237611,
     "geom:bbox":"100.244022331,5.91111676168,100.50647175,6.27793186084",
     "geom:latitude":6.141259,
     "geom:longitude":100.368816,
@@ -29,17 +29,14 @@
     "name:bjn_x_preferred":[
         "Alor Star"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9a\u7f57\u58eb\u6253"
-    ],
     "name:dan_x_preferred":[
         "Alor Setar"
     ],
     "name:deu_x_preferred":[
         "Alor Setar"
     ],
-    "name:dut_x_preferred":[
-        "Alor Setar"
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03cc\u03c1 \u03a3\u03b5\u03c4\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Alor Star"
@@ -56,17 +53,8 @@
     "name:fra_x_preferred":[
         "Alor Setar"
     ],
-    "name:fre_x_preferred":[
-        "Alor Setar"
-    ],
-    "name:ger_x_preferred":[
-        "Alor Setar"
-    ],
     "name:glg_x_preferred":[
         "Alor Setar"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb\u03cc\u03c1 \u03a3\u03b5\u03c4\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2\u0acb\u0ab0 \u0ab8\u0ac7\u0a9f\u0ab0"
@@ -101,17 +89,11 @@
     "name:lit_x_preferred":[
         "Alor Setaras"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043b\u043e\u0440 \u0421\u0442\u0430\u0440"
-    ],
     "name:mal_x_preferred":[
         "\u0d05\u0d32\u0d4b\u0d7c \u0d38\u0d46\u0d31\u0d4d\u0d31\u0d3e\u0d7c"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0932\u094b\u0930 \u0938\u0947\u091f\u0930"
-    ],
-    "name:may_x_preferred":[
-        "Alor Setar"
     ],
     "name:mkd_x_preferred":[
         "\u0410\u043b\u043e\u0440 \u0421\u0442\u0430\u0440"
@@ -136,9 +118,6 @@
     ],
     "name:pam_x_preferred":[
         "Alor Setar"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0648\u0631 \u0633\u062a\u0627\u0631"
     ],
     "name:pol_x_preferred":[
         "Alor Setar"
@@ -346,7 +325,7 @@
         }
     ],
     "wof:id":102023629,
-    "wof:lastmodified":1527636454,
+    "wof:lastmodified":1561751656,
     "wof:name":"Alor Setar",
     "wof:parent_id":890490361,
     "wof:placetype":"locality",

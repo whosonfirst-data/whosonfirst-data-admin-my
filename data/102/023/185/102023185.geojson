@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000431,
-    "geom:area_square_m":5319118.999929,
+    "geom:area_square_m":5319118.999925,
     "geom:bbox":"102.015552139,2.63224096918,102.044506619,2.65031083422",
     "geom:latitude":2.641175,
     "geom:longitude":102.030224,
@@ -21,17 +21,17 @@
     "name:dan_x_preferred":[
         "Senawang"
     ],
-    "name:dut_x_preferred":[
-        "Senawang"
-    ],
     "name:eng_x_preferred":[
-        "Senawang"
-    ],
-    "name:may_x_preferred":[
         "Senawang"
     ],
     "name:msa_x_preferred":[
         "Taman Senawang Indah"
+    ],
+    "name:msa_x_variant":[
+        "Senawang"
+    ],
+    "name:nld_x_preferred":[
+        "Senawang"
     ],
     "name:unk_x_variant":[
         "Senawang"
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":102023185,
-    "wof:lastmodified":1514490845,
+    "wof:lastmodified":1561751667,
     "wof:name":"Taman Senawang Indah",
     "wof:parent_id":890490863,
     "wof:placetype":"locality",

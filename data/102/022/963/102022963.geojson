@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008037,
-    "geom:area_square_m":99001901.346815,
+    "geom:area_square_m":99001901.346779,
     "geom:bbox":"100.499404258,4.95604437946,100.623779297,5.0863083917",
     "geom:latitude":5.020596,
     "geom:longitude":100.562035,
@@ -19,13 +19,7 @@
     "mps:longitude":100.566269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5cc7\u773c\u8272\u6d77"
-    ],
     "name:dan_x_preferred":[
-        "Bagan Serai"
-    ],
-    "name:dut_x_preferred":[
         "Bagan Serai"
     ],
     "name:eng_x_preferred":[
@@ -34,14 +28,14 @@
     "name:ind_x_preferred":[
         "Bagan Serai"
     ],
-    "name:may_x_preferred":[
-        "Bagan Serai"
-    ],
     "name:msa_x_preferred":[
         "Bagan Serai"
     ],
     "name:nld_x_preferred":[
         "Bagan Serai"
+    ],
+    "name:zho_x_preferred":[
+        "\u5cc7\u773c\u8272\u6d77"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Perak",
@@ -91,7 +85,7 @@
         }
     ],
     "wof:id":102022963,
-    "wof:lastmodified":1527636674,
+    "wof:lastmodified":1561751667,
     "wof:name":"Bagan Serai",
     "wof:parent_id":890489801,
     "wof:placetype":"locality",

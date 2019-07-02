@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002994,
-    "geom:area_square_m":36875477.727205,
+    "geom:area_square_m":36875477.727128,
     "geom:bbox":"115.924206642,5.08737047548,115.986193596,5.18205638973",
     "geom:latitude":5.126552,
     "geom:longitude":115.954358,
@@ -18,22 +18,13 @@
     "mps:longitude":115.949668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e39\u5357"
-    ],
     "name:deu_x_preferred":[
-        "Tenom"
-    ],
-    "name:dut_x_preferred":[
         "Tenom"
     ],
     "name:eng_x_preferred":[
         "Kompleks Sukan Tenom"
     ],
-    "name:fre_x_preferred":[
-        "Tenom"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tenom"
     ],
     "name:ind_x_preferred":[
@@ -41,9 +32,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c6\u30ce\u30e0"
-    ],
-    "name:may_x_preferred":[
-        "Tenom"
     ],
     "name:msa_x_preferred":[
         "Tenom"
@@ -59,6 +47,9 @@
     ],
     "name:vie_x_preferred":[
         "Tenom"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u5357"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Sabah",
@@ -107,7 +98,7 @@
         }
     ],
     "wof:id":102022913,
-    "wof:lastmodified":1527636676,
+    "wof:lastmodified":1561751669,
     "wof:name":"Tenom",
     "wof:parent_id":1108696535,
     "wof:placetype":"locality",

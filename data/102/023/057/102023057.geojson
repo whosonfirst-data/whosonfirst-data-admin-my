@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000871,
-    "geom:area_square_m":10757112.900559,
+    "geom:area_square_m":10757112.900557,
     "geom:bbox":"102.323168368,2.41272655089,102.352124893,2.46373041338",
     "geom:latitude":2.436413,
     "geom:longitude":102.340413,
@@ -21,17 +21,11 @@
     "name:cat_x_preferred":[
         "Tampin"
     ],
-    "name:dut_x_preferred":[
-        "Tampin"
-    ],
     "name:eng_x_preferred":[
         "Tampin"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0645\u067e\u06cc\u0646"
-    ],
-    "name:may_x_preferred":[
-        "Tampin"
     ],
     "name:msa_x_preferred":[
         "Tampin"
@@ -41,9 +35,6 @@
     ],
     "name:nld_x_preferred":[
         "Tampin"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0645\u067e\u06cc\u0646"
     ],
     "name:unk_x_variant":[
         "Kampong Tebong"
@@ -88,7 +79,7 @@
         }
     ],
     "wof:id":102023057,
-    "wof:lastmodified":1527636460,
+    "wof:lastmodified":1561751664,
     "wof:name":"Kampung Tebong",
     "wof:parent_id":890489809,
     "wof:placetype":"locality",

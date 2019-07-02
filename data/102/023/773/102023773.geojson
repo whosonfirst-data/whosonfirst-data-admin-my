@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022605,
-    "geom:area_square_m":278680721.015853,
+    "geom:area_square_m":278680721.015478,
     "geom:bbox":"113.913728306,4.2880786651,114.085539266,4.5799839477",
     "geom:latitude":4.430239,
     "geom:longitude":114.007644,
@@ -29,17 +29,14 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0440\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u7f8e\u91cc"
-    ],
     "name:dan_x_preferred":[
         "Miri"
     ],
     "name:deu_x_preferred":[
         "Miri"
     ],
-    "name:dut_x_preferred":[
-        "Miri"
+    "name:ell_x_preferred":[
+        "\u039c\u03af\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Miri"
@@ -52,18 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Miri"
-    ],
-    "name:fre_x_preferred":[
-        "Miri"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Miri"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03af\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0ab0\u0ac0"
@@ -101,9 +86,6 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0930\u0940"
     ],
-    "name:may_x_preferred":[
-        "Bandar Miri"
-    ],
     "name:msa_x_preferred":[
         "Bandar Miri"
     ],
@@ -115,9 +97,6 @@
     ],
     "name:nob_x_preferred":[
         "Miri"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0631\u06cc"
     ],
     "name:pol_x_preferred":[
         "Miri"
@@ -311,7 +290,7 @@
         }
     ],
     "wof:id":102023773,
-    "wof:lastmodified":1527636461,
+    "wof:lastmodified":1561751666,
     "wof:name":"Miri",
     "wof:parent_id":890488483,
     "wof:placetype":"locality",

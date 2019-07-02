@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005245,
-    "geom:area_square_m":64830457.718994,
+    "geom:area_square_m":64830457.71896,
     "geom:bbox":"103.58659385,1.49122565652,103.688964844,1.58752736611",
     "geom:latitude":1.549616,
     "geom:longitude":103.632306,
@@ -25,23 +25,17 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u0995\u09c1\u09a6\u09be\u0987"
     ],
-    "name:chi_x_preferred":[
-        "\u58eb\u53e4\u4f86"
-    ],
     "name:dan_x_preferred":[
         "Skudai"
     ],
-    "name:dut_x_preferred":[
-        "Skudai"
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03bf\u03cd\u03bd\u03c4\u03b1\u03ca"
     ],
     "name:eng_x_preferred":[
         "Skudai"
     ],
     "name:fin_x_preferred":[
         "Skudai"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ba\u03bf\u03cd\u03bd\u03c4\u03b1\u03ca"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a95\u0ac1\u0aa1\u0abe\u0a87"
@@ -76,10 +70,10 @@
     "name:mar_x_preferred":[
         "\u0938\u094d\u0915\u0941\u0921\u093e\u0908"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Skudai"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Skudai"
     ],
     "name:nob_x_preferred":[
@@ -181,7 +175,7 @@
         }
     ],
     "wof:id":102022775,
-    "wof:lastmodified":1527636679,
+    "wof:lastmodified":1561751672,
     "wof:name":"Sekudai",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

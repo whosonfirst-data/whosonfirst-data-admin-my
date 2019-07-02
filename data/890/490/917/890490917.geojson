@@ -16,23 +16,23 @@
     "iso:country":"MY",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u70cf\u9b6f\u69fd"
-    ],
-    "name:dut_x_preferred":[
-        "Ulu Choh"
-    ],
     "name:eng_x_preferred":[
-        "Ulu Choh"
-    ],
-    "name:may_x_preferred":[
         "Ulu Choh"
     ],
     "name:msa_x_preferred":[
         "Kampung Ulu Choh"
     ],
+    "name:msa_x_variant":[
+        "Ulu Choh"
+    ],
+    "name:nld_x_preferred":[
+        "Ulu Choh"
+    ],
     "name:unk_x_variant":[
         "Kampong Ulu Choh"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u9b6f\u69fd"
     ],
     "qs:name":"Kampung Hulu Coh",
     "qs:name_adm0":"Malaysia",
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":890490917,
-    "wof:lastmodified":1514490518,
+    "wof:lastmodified":1561751762,
     "wof:name":"Kampung Hulu Coh",
     "wof:parent_id":1108696433,
     "wof:placetype":"locality",

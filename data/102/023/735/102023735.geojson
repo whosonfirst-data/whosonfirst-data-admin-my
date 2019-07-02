@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002561,
-    "geom:area_square_m":31656640.705673,
+    "geom:area_square_m":31656640.705609,
     "geom:bbox":"109.738935847,1.76496330456,109.789872998,1.84893873942",
     "geom:latitude":1.800617,
     "geom:longitude":109.766479,
@@ -27,9 +27,6 @@
     "name:ast_x_preferred":[
         "Sematan"
     ],
-    "name:baq_x_preferred":[
-        "Sematan"
-    ],
     "name:bar_x_preferred":[
         "Sematan"
     ],
@@ -39,19 +36,19 @@
     "name:cat_x_preferred":[
         "Sematan"
     ],
-    "name:chi_x_preferred":[
-        "\u58eb\u99ac\u4e39"
+    "name:ces_x_preferred":[
+        "Sematan"
     ],
     "name:cos_x_preferred":[
         "Sematan"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Sematan"
     ],
     "name:dan_x_preferred":[
         "Sematan"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sematan"
     ],
     "name:eng_x_preferred":[
@@ -63,19 +60,19 @@
     "name:est_x_preferred":[
         "Sematan"
     ],
+    "name:eus_x_preferred":[
+        "Sematan"
+    ],
     "name:fin_x_preferred":[
         "Sematan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sematan"
     ],
     "name:frp_x_preferred":[
         "Sematan"
     ],
     "name:fur_x_preferred":[
-        "Sematan"
-    ],
-    "name:ger_x_preferred":[
         "Sematan"
     ],
     "name:gla_x_preferred":[
@@ -96,9 +93,6 @@
     "name:hun_x_preferred":[
         "Sematan"
     ],
-    "name:ice_x_preferred":[
-        "Sematan"
-    ],
     "name:ido_x_preferred":[
         "Sematan"
     ],
@@ -109,6 +103,9 @@
         "Sematan"
     ],
     "name:ind_x_preferred":[
+        "Sematan"
+    ],
+    "name:isl_x_preferred":[
         "Sematan"
     ],
     "name:ita_x_preferred":[
@@ -126,9 +123,6 @@
     "name:ltz_x_preferred":[
         "Sematan"
     ],
-    "name:may_x_preferred":[
-        "Sematan"
-    ],
     "name:min_x_preferred":[
         "Sematan"
     ],
@@ -142,6 +136,9 @@
         "Sematan"
     ],
     "name:nds_x_preferred":[
+        "Sematan"
+    ],
+    "name:nld_x_preferred":[
         "Sematan"
     ],
     "name:nno_x_preferred":[
@@ -171,7 +168,7 @@
     "name:roh_x_preferred":[
         "Sematan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sematan"
     ],
     "name:scn_x_preferred":[
@@ -180,7 +177,7 @@
     "name:sco_x_preferred":[
         "Sematan"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sematan"
     ],
     "name:slv_x_preferred":[
@@ -213,14 +210,14 @@
     "name:vol_x_preferred":[
         "Sematan"
     ],
-    "name:wel_x_preferred":[
-        "Sematan"
-    ],
     "name:wln_x_preferred":[
         "Sematan"
     ],
     "name:wol_x_preferred":[
         "Sematan"
+    ],
+    "name:zho_x_preferred":[
+        "\u58eb\u99ac\u4e39"
     ],
     "name:zul_x_preferred":[
         "Sematan"
@@ -272,7 +269,7 @@
         }
     ],
     "wof:id":102023735,
-    "wof:lastmodified":1527636457,
+    "wof:lastmodified":1561751660,
     "wof:name":"Sematan",
     "wof:parent_id":1108696453,
     "wof:placetype":"locality",

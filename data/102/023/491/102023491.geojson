@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007458,
-    "geom:area_square_m":91943881.351478,
+    "geom:area_square_m":91943881.351578,
     "geom:bbox":"100.969079917,4.41952634097,101.099706456,4.51153214323",
     "geom:latitude":4.469534,
     "geom:longitude":101.037425,
@@ -22,25 +22,19 @@
     "name:bre_x_preferred":[
         "Batu Gajah"
     ],
-    "name:chi_x_preferred":[
-        "\u83ef\u90fd\u7259\u4e5f\u93ae"
-    ],
     "name:cos_x_preferred":[
         "Batu Gajah"
     ],
     "name:dan_x_preferred":[
         "Batu Gajah"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Batu Gajah"
     ],
     "name:eng_x_preferred":[
         "Batu Gajah"
     ],
-    "name:fre_x_preferred":[
-        "Batu Gajah"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Batu Gajah"
     ],
     "name:ind_x_preferred":[
@@ -54,9 +48,6 @@
     ],
     "name:kor_x_preferred":[
         "\ubc14\ud22c\uac00\uc790\ud750"
-    ],
-    "name:may_x_preferred":[
-        "Batu Gajah"
     ],
     "name:msa_x_preferred":[
         "Batu Gajah"
@@ -73,7 +64,7 @@
     "name:por_x_preferred":[
         "Batu Gajah"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Batu Gajah"
     ],
     "name:spa_x_preferred":[
@@ -93,6 +84,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u062a\u0648 \u06af\u0627\u062c\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ef\u90fd\u7259\u4e5f\u93ae"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Perak",
@@ -142,7 +136,7 @@
         }
     ],
     "wof:id":102023491,
-    "wof:lastmodified":1527636455,
+    "wof:lastmodified":1561751658,
     "wof:name":"Batu Gajah",
     "wof:parent_id":890490953,
     "wof:placetype":"locality",

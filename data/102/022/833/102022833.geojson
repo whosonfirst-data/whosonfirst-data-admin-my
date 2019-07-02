@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024505,
-    "geom:area_square_m":302569398.271609,
+    "geom:area_square_m":302569398.271545,
     "geom:bbox":"101.436767578,2.93948852982,101.596755981,3.20790184802",
     "geom:latitude":3.075457,
     "geom:longitude":101.523449,
@@ -32,20 +32,14 @@
     "name:bul_x_preferred":[
         "\u0428\u0430\u0445 \u0410\u043b\u0430\u043c"
     ],
-    "name:bur_x_preferred":[
-        "\u101b\u103e\u102c\u1038\u1021\u101c\u1019\u103a\u1019\u103c\u102d\u102f\u1037"
-    ],
-    "name:chi_x_preferred":[
-        "\u838e\u963f\u5357"
-    ],
     "name:dan_x_preferred":[
         "Shah Alam"
     ],
     "name:deu_x_preferred":[
         "Shah Alam"
     ],
-    "name:dut_x_preferred":[
-        "Shah Alam"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c7 \u0391\u03bb\u03ac\u03bc"
     ],
     "name:eng_x_preferred":[
         "Shah Alam"
@@ -61,15 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "Shah Alam"
-    ],
-    "name:fre_x_preferred":[
-        "Shah Alam"
-    ],
-    "name:ger_x_preferred":[
-        "Shah Alam"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03c7 \u0391\u03bb\u03ac\u03bc"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abe\u0ab9 \u0a86\u0ab2\u0aae"
@@ -107,17 +92,8 @@
     "name:lzh_x_preferred":[
         "\u838e\u963f\u5357"
     ],
-    "name:mac_x_preferred":[
-        "\u0428\u0430\u0445 \u0410\u043b\u0430\u043c"
-    ],
-    "name:mao_x_preferred":[
-        "Shah Alam"
-    ],
     "name:mar_x_preferred":[
         "\u0936\u093e\u0939 \u0906\u0932\u092e"
-    ],
-    "name:may_x_preferred":[
-        "Shah Alam"
     ],
     "name:min_x_preferred":[
         "Shah Alam"
@@ -145,9 +121,6 @@
     ],
     "name:nor_x_preferred":[
         "Shah Alam"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0627\u0647 \u0639\u0627\u0644\u0645"
     ],
     "name:pol_x_preferred":[
         "Shah Alam"
@@ -207,9 +180,6 @@
         "Shah Alam"
     ],
     "name:zho_x_preferred":[
-        "\u838e\u963f\u5357"
-    ],
-    "name:zho_x_variant":[
         "\u838e\u963f\u5357"
     ],
     "name:zho_yue_x_preferred":[
@@ -355,7 +325,7 @@
         }
     ],
     "wof:id":102022833,
-    "wof:lastmodified":1527636675,
+    "wof:lastmodified":1561751668,
     "wof:name":"Shah Alam",
     "wof:parent_id":890490605,
     "wof:placetype":"locality",

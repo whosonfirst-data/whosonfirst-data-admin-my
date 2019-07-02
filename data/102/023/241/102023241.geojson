@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004344,
-    "geom:area_square_m":53664510.543581,
+    "geom:area_square_m":53664510.543538,
     "geom:bbox":"102.608809149,2.52248464953,102.739397013,2.7600572847",
     "geom:latitude":2.617171,
     "geom:longitude":102.690495,
@@ -18,20 +18,20 @@
     "mps:longitude":102.71586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5cc7\u90fd\u5b89\u5357"
-    ],
     "name:eng_x_preferred":[
         "Batu Anam"
-    ],
-    "name:may_x_preferred":[
-        "Batu Enam"
     ],
     "name:msa_x_preferred":[
         "Batu Anam"
     ],
+    "name:msa_x_variant":[
+        "Batu Enam"
+    ],
     "name:unk_x_variant":[
         "Batu Enam"
+    ],
+    "name:zho_x_preferred":[
+        "\u5cc7\u90fd\u5b89\u5357"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Johor",
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102023241,
-    "wof:lastmodified":1514490463,
+    "wof:lastmodified":1561751661,
     "wof:name":"Batu Anam",
     "wof:parent_id":890488717,
     "wof:placetype":"locality",

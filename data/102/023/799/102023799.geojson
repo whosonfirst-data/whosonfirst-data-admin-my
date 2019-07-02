@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005403,
-    "geom:area_square_m":66716147.234572,
+    "geom:area_square_m":66716147.234575,
     "geom:bbox":"101.646541063,2.97321305452,101.769104004,3.05258313316",
     "geom:latitude":3.015656,
     "geom:longitude":101.70247,
@@ -18,23 +18,20 @@
     "mps:longitude":101.681113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6c99\u767b"
-    ],
-    "name:dut_x_preferred":[
-        "Seri Kembangan"
-    ],
     "name:eng_x_preferred":[
         "Seri Kembangan"
     ],
-    "name:fre_x_preferred":[
-        "Seri Kembangan"
-    ],
-    "name:may_x_preferred":[
+    "name:fra_x_preferred":[
         "Seri Kembangan"
     ],
     "name:msa_x_preferred":[
         "Seri Kembangan"
+    ],
+    "name:nld_x_preferred":[
+        "Seri Kembangan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u767b"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Selangor",
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":102023799,
-    "wof:lastmodified":1527636452,
+    "wof:lastmodified":1561751653,
     "wof:name":"Seri Kembangan",
     "wof:parent_id":890490605,
     "wof:placetype":"locality",

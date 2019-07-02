@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001951,
-    "geom:area_square_m":23985149.358562,
+    "geom:area_square_m":23985149.358561,
     "geom:bbox":"100.235715673,6.08235352639,100.316162109,6.1350930982",
     "geom:latitude":6.105162,
     "geom:longitude":100.282566,
@@ -34,9 +34,6 @@
     "name:bam_x_preferred":[
         "Kuala Kedah"
     ],
-    "name:baq_x_preferred":[
-        "Kuala Kedah"
-    ],
     "name:bar_x_preferred":[
         "Kuala Kedah"
     ],
@@ -46,19 +43,19 @@
     "name:cat_x_preferred":[
         "Kuala Kedah"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u6253\u6e2f\u53e3"
+    "name:ces_x_preferred":[
+        "Kuala Kedah"
     ],
     "name:cos_x_preferred":[
         "Kuala Kedah"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Kuala Kedah"
     ],
     "name:dan_x_preferred":[
         "Kuala Kedah"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kuala Kedah"
     ],
     "name:eng_x_preferred":[
@@ -70,22 +67,22 @@
     "name:est_x_preferred":[
         "Kuala Kedah"
     ],
+    "name:eus_x_preferred":[
+        "Kuala Kedah"
+    ],
     "name:fin_x_preferred":[
         "Kuala Kedah"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Kuala Kedah"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Kuala Kedah"
     ],
     "name:frp_x_preferred":[
         "Kuala Kedah"
     ],
     "name:fur_x_preferred":[
-        "Kuala Kedah"
-    ],
-    "name:ger_x_preferred":[
         "Kuala Kedah"
     ],
     "name:gla_x_preferred":[
@@ -145,9 +142,6 @@
     "name:ltz_x_preferred":[
         "Kuala Kedah"
     ],
-    "name:may_x_preferred":[
-        "Kuala Kedah"
-    ],
     "name:min_x_preferred":[
         "Kuala Kedah"
     ],
@@ -202,7 +196,7 @@
     "name:roh_x_preferred":[
         "Kuala Kedah"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kuala Kedah"
     ],
     "name:scn_x_preferred":[
@@ -211,7 +205,7 @@
     "name:sco_x_preferred":[
         "Kuala Kedah"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kuala Kedah"
     ],
     "name:spa_x_preferred":[
@@ -242,9 +236,6 @@
         "Kuala Kedah"
     ],
     "name:vol_x_preferred":[
-        "Kuala Kedah"
-    ],
-    "name:wel_x_preferred":[
         "Kuala Kedah"
     ],
     "name:wln_x_preferred":[
@@ -307,7 +298,7 @@
         }
     ],
     "wof:id":102023627,
-    "wof:lastmodified":1534379385,
+    "wof:lastmodified":1561751656,
     "wof:name":"Kuala Kedah",
     "wof:parent_id":890490361,
     "wof:placetype":"locality",

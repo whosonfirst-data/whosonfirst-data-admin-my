@@ -34,14 +34,14 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u043c\u043f\u0438\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Rompin"
-    ],
     "name:eng_x_preferred":[
         "Rompin"
     ],
     "name:eng_x_variant":[
         "ROMPIN"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0645\u067e\u06cc\u0646"
     ],
     "name:ita_x_preferred":[
         "Rompin"
@@ -49,11 +49,11 @@
     "name:lit_x_preferred":[
         "Rompin"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rompin"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u0645\u067e\u06cc\u0646"
+    "name:nld_x_preferred":[
+        "Rompin"
     ],
     "name:spa_x_preferred":[
         "Rompin"
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1108696497,
-    "wof:lastmodified":1553718303,
+    "wof:lastmodified":1561751741,
     "wof:name":"Rompin",
     "wof:parent_id":85675159,
     "wof:placetype":"county",
