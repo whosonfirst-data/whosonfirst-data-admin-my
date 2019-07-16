@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000846,
-    "geom:area_square_m":10445851.043289,
+    "geom:area_square_m":10445851.043309,
     "geom:bbox":"101.606041091,3.18302119605,101.647268066,3.21907526222",
     "geom:latitude":3.20157,
     "geom:longitude":101.6289,
@@ -25,8 +25,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Taman Bukit Maluri"
+    ],
     "name:msa_x_preferred":[
         "Taman Bukit Permai"
+    ],
+    "name:msa_x_variant":[
+        "Taman Bukit Maluri"
     ],
     "name:und_x_preferred":[
         "Taman Bukit Maluri"
@@ -95,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527639378,
+    "wof:lastmodified":1563239038,
     "wof:name":"Taman Bukit Maluri",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

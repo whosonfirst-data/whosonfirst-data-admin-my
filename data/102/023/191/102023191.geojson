@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000939,
-    "geom:area_square_m":11593571.899159,
+    "geom:area_square_m":11593571.899147,
     "geom:bbox":"102.084960938,2.98337756431,102.121414227,3.02339095196",
     "geom:latitude":3.001268,
     "geom:longitude":102.102181,
@@ -18,11 +18,23 @@
     "mps:longitude":102.100011,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Callicebus"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0438\u0442\u0438\u0442\u0430"
+    ],
     "name:cat_x_preferred":[
         "Tit\u00ed"
     ],
+    "name:cat_x_variant":[
+        "Callicebus"
+    ],
     "name:ceb_x_preferred":[
         "Callicebus"
+    ],
+    "name:ces_x_preferred":[
+        "titi"
     ],
     "name:dan_x_preferred":[
         "Springaber"
@@ -30,14 +42,23 @@
     "name:deu_x_preferred":[
         "Callicebus"
     ],
+    "name:eng_x_preferred":[
+        "Callicebus"
+    ],
     "name:eus_x_preferred":[
         "Titi"
+    ],
+    "name:eus_x_variant":[
+        "Callicebus"
     ],
     "name:fas_x_preferred":[
         "\u062a\u06cc\u062a\u06cc"
     ],
     "name:fra_x_preferred":[
         "Callicebus"
+    ],
+    "name:fra_x_variant":[
+        "Callicebinae"
     ],
     "name:grn_x_preferred":[
         "Japusa"
@@ -48,11 +69,17 @@
     "name:hun_x_preferred":[
         "Kab\u00f3camajom-form\u00e1k"
     ],
+    "name:ina_x_preferred":[
+        "Callicebus"
+    ],
     "name:ita_x_preferred":[
         "Callicebus"
     ],
     "name:kor_x_preferred":[
         "\ud2f0\ud2f0\uc6d0\uc22d\uc774"
+    ],
+    "name:lat_x_preferred":[
+        "Callicebus"
     ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d3f\u0d31\u0d4d\u0d31\u0d3f"
@@ -63,11 +90,26 @@
     "name:nld_x_preferred":[
         "Springaapjes"
     ],
+    "name:nld_x_variant":[
+        "springaapjes"
+    ],
+    "name:nno_x_preferred":[
+        "springaper"
+    ],
+    "name:nob_x_preferred":[
+        "springaper"
+    ],
     "name:pnb_x_preferred":[
         "\u0679\u06cc\u0679\u06cc"
     ],
+    "name:pol_x_preferred":[
+        "Callicebus"
+    ],
     "name:por_x_preferred":[
         "Callicebus"
+    ],
+    "name:por_x_variant":[
+        "Titi"
     ],
     "name:que_x_preferred":[
         "Sunku-sunku"
@@ -142,7 +184,7 @@
         }
     ],
     "wof:id":102023191,
-    "wof:lastmodified":1527636457,
+    "wof:lastmodified":1563238589,
     "wof:name":"Titi",
     "wof:parent_id":890488317,
     "wof:placetype":"locality",

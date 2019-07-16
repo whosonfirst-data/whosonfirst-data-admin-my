@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7890307.137807,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.098512,4.572423,101.098512,4.572423",
     "geom:latitude":4.572423,
     "geom:longitude":101.098512,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Jalan Lapangan Terbang Baru"
+    ],
     "name:und_x_preferred":[
         "Taman Lapangan Terbang"
     ],
@@ -60,11 +63,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":19,
     "wof:belongsto":[
+        85675123,
         102191569,
         85632739,
         102023021,
-        890490953,
-        85675123
+        890490953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860632,
+    "wof:lastmodified":1563239035,
     "wof:name":"Taman Lapangan Terbang",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

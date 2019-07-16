@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01096,
-    "geom:area_square_m":134916570.488288,
+    "geom:area_square_m":134916570.488249,
     "geom:bbox":"100.25495238,5.33900804094,100.360107422,5.49927995924",
     "geom:latitude":5.411543,
     "geom:longitude":100.312542,
@@ -20,8 +20,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.1,
+    "name:afr_x_preferred":[
+        "George Town"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u0631\u062c \u062a\u0627\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "George Town"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0648\u0631\u062c \u062a\u0627\u0648\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Corctaun"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09b0\u09cd\u099c \u099f\u09be\u0989\u09a8"
+    ],
+    "name:bjn_x_preferred":[
+        "George Town"
+    ],
+    "name:cat_x_preferred":[
+        "George Town"
+    ],
+    "name:ces_x_preferred":[
+        "George Town"
+    ],
+    "name:dan_x_preferred":[
+        "George Town"
+    ],
     "name:deu_x_preferred":[
         "George Town"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03cc\u03c1\u03c4\u03b6\u03c4\u03b1\u03bf\u03c5\u03bd"
     ],
     "name:eng_x_preferred":[
         "George Town"
@@ -32,20 +65,47 @@
     "name:fas_x_preferred":[
         "\u062c\u0631\u062c \u062a\u0627\u0648\u0646 \u067e\u0646\u0627\u0646\u06af"
     ],
+    "name:fin_x_preferred":[
+        "George Town"
+    ],
     "name:fra_x_preferred":[
         "George Town"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0acd\u0aaf\u0acb\u0ab0\u0acd\u0a9c \u0a9f\u0abe\u0a89\u0aa8"
     ],
     "name:hak_x_preferred":[
         "Khi\u00e2u-chh\u1e73-s\u1e73"
     ],
+    "name:hak_x_variant":[
+        "George Town"
+    ],
     "name:heb_x_preferred":[
         "\u05d2\u05d5\u05e8\u05d2 \u05d8\u05d0\u05d5\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2'\u05d5\u05e8\u05d2' \u05d8\u05d0\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0949\u0930\u094d\u091c \u091f\u093e\u0909\u0928"
+    ],
+    "name:hrv_x_preferred":[
+        "George Town"
+    ],
+    "name:hun_x_preferred":[
+        "George Town"
     ],
     "name:ind_x_preferred":[
         "Georgetown"
     ],
+    "name:ita_x_preferred":[
+        "George Town"
+    ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e7\u30fc\u30b8\u30bf\u30a6\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0cbe\u0cb0\u0ccd\u0c9c\u0ccd \u0c9f\u0ccc\u0ca8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10ef\u10dd\u10e0\u10ef\u10e2\u10d0\u10e3\u10dc\u10d8"
@@ -59,8 +119,14 @@
     "name:lit_x_preferred":[
         "D\u017eord\u017etaunas"
     ],
+    "name:mai_x_preferred":[
+        "\u091c\u0930\u094d\u091c \u091f\u093e\u0909\u0928"
+    ],
     "name:mal_x_preferred":[
         "\u0d1c\u0d4b\u0d7c\u0d1c\u0d4d\u0d1c\u0d4d \u0d1f\u0d57\u0d7a"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u0949\u0930\u094d\u091c \u0928\u0917\u0930"
     ],
     "name:mkd_x_preferred":[
         "\u040f\u043e\u0440\u045f \u0422\u0430\u0443\u043d"
@@ -74,10 +140,22 @@
     "name:mya_x_preferred":[
         "\u1015\u102e\u1014\u1014\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
+    "name:nan_x_preferred":[
+        "George Town"
+    ],
     "name:nep_x_preferred":[
         "\u091c\u0930\u094d\u091c \u091f\u093e\u0909\u0928"
     ],
     "name:nld_x_preferred":[
+        "George Town"
+    ],
+    "name:nob_x_preferred":[
+        "George Town"
+    ],
+    "name:oci_x_preferred":[
+        "George Town"
+    ],
+    "name:pam_x_preferred":[
         "George Town"
     ],
     "name:pol_x_preferred":[
@@ -86,11 +164,26 @@
     "name:por_x_preferred":[
         "Penang"
     ],
+    "name:por_x_variant":[
+        "George Town"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u043e\u0440\u0434\u0436\u0442\u0430\u0443\u043d"
     ],
+    "name:sco_x_preferred":[
+        "George Town"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0ddd\u0dbb\u0dca\u0da2\u0dca \u0da7\u0dc0\u0dd4\u0db1\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "George Town"
+    ],
     "name:spa_x_preferred":[
         "George Town"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u043e\u0440\u045f\u0442\u0430\u0443\u043d"
     ],
     "name:swe_x_preferred":[
         "George Town"
@@ -98,8 +191,20 @@
     "name:tam_x_preferred":[
         "\u0b9c\u0bbe\u0bb0\u0bcd\u0b9c\u0bcd \u0b9f\u0bb5\u0bc1\u0ba9\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b9c\u0bcb\u0bb0\u0bcd\u0b9c\u0bcd \u0b9f\u0bb5\u0bc1\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c3e\u0c30\u0c4d\u0c1c\u0c4d \u0c28\u0c17\u0c30\u0c02"
+    ],
+    "name:tgl_x_preferred":[
+        "George Town"
+    ],
     "name:tha_x_preferred":[
         "\u0e08\u0e2d\u0e23\u0e4c\u0e08\u0e17\u0e32\u0e27\u0e19\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "George Town"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0436\u043e\u0440\u0434\u0436\u0442\u0430\u0443\u043d"
@@ -110,8 +215,17 @@
     "name:urd_x_preferred":[
         "\u062c\u0627\u0631\u062c \u0679\u0627\u0624\u0646\u060c \u067e\u06cc\u0646\u0627\u0646\u06af"
     ],
+    "name:urd_x_variant":[
+        "\u062c\u0627\u0631\u062c \u0679\u0627\u0624\u0646"
+    ],
     "name:vie_x_preferred":[
         "Penang"
+    ],
+    "name:war_x_preferred":[
+        "George Town"
+    ],
+    "name:yue_x_preferred":[
+        "\u4f50\u6cbb\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u4e54\u6cbb\u5e02"
@@ -260,7 +374,7 @@
         }
     ],
     "wof:id":102023367,
-    "wof:lastmodified":1527636457,
+    "wof:lastmodified":1563238595,
     "wof:name":"George Town",
     "wof:parent_id":1108696537,
     "wof:placetype":"locality",

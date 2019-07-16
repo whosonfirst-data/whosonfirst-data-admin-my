@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
+    "geom:area_square_m":3135705.476118,
     "geom:bbox":"115.550653743,6.32263440503,115.56873106,6.34072106873",
     "geom:latitude":6.331678,
     "geom:longitude":115.559692,
@@ -20,7 +21,16 @@
     "name:deu_x_preferred":[
         "Kimanis"
     ],
+    "name:eng_x_preferred":[
+        "Kimanis"
+    ],
+    "name:fra_x_preferred":[
+        "Kimanis"
+    ],
     "name:msa_x_preferred":[
+        "Kimanis"
+    ],
+    "name:nld_x_preferred":[
         "Kimanis"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":102022873,
-    "wof:lastmodified":1527636674,
+    "wof:lastmodified":1563238655,
     "wof:name":"Kimanis",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

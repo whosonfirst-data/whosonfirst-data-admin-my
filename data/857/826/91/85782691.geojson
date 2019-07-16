@@ -23,8 +23,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:deu_x_preferred":[
+        "Segambut"
+    ],
     "name:eng_x_preferred":[
         "Segambut"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ac\u30f3\u30d6"
     ],
     "name:msa_x_preferred":[
         "Segambut"
@@ -90,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561751690,
+    "wof:lastmodified":1563239014,
     "wof:name":"Segambut",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

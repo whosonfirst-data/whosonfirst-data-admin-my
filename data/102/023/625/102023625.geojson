@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000414,
-    "geom:area_square_m":5090476.836753,
+    "geom:area_square_m":5090476.836752,
     "geom:bbox":"100.409545898,6.18970731622,100.440554975,6.20882094173",
     "geom:latitude":6.198446,
     "geom:longitude":100.425151,
@@ -18,8 +18,14 @@
     "mps:longitude":100.425446,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kepala Batas"
+    ],
     "name:msa_x_preferred":[
         "Kepala Batas"
+    ],
+    "name:zho_x_preferred":[
+        "\u7532\u629b\u5cc7\u5e95"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Kedah",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":102023625,
-    "wof:lastmodified":1527636458,
+    "wof:lastmodified":1563238603,
     "wof:name":"Kepala Batas",
     "wof:parent_id":890490361,
     "wof:placetype":"locality",

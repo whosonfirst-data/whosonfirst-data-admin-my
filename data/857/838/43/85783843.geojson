@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000134,
-    "geom:area_square_m":1650842.026006,
+    "geom:area_square_m":1650842.026004,
     "geom:bbox":"101.697692871,3.12405713967,101.711425781,3.13777364223",
     "geom:latitude":3.130698,
     "geom:longitude":101.704321,
@@ -24,8 +24,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Bukit Petaling"
+    ],
     "name:msa_x_preferred":[
         "Bukit Petaling"
+    ],
+    "name:msa_x_variant":[
+        "Gertak Merah"
     ],
     "name:und_x_preferred":[
         "Bukit Petaling"
@@ -93,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527639383,
+    "wof:lastmodified":1563239043,
     "wof:name":"Bukit Petaling",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

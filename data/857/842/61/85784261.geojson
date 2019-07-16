@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000339,
-    "geom:area_square_m":4183261.345423,
+    "geom:area_square_m":4183261.345412,
     "geom:bbox":"101.727564619,3.18987915539,101.751020562,3.21181753307",
     "geom:latitude":3.201044,
     "geom:longitude":101.738258,
@@ -24,7 +24,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:deu_x_preferred":[
+        "Wangsa Maju"
+    ],
+    "name:eng_x_preferred":[
+        "Wangsa Maju"
+    ],
     "name:msa_x_preferred":[
+        "Wangsa Maju"
+    ],
+    "name:nld_x_preferred":[
         "Wangsa Maju"
     ],
     "name:und_x_preferred":[
@@ -91,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269404,
+    "wof:lastmodified":1563239005,
     "wof:name":"Wangsa Maju",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

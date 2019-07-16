@@ -44,6 +44,9 @@
     "name:cat_x_variant":[
         "Malacca"
     ],
+    "name:ceb_x_preferred":[
+        "Malacca"
+    ],
     "name:ces_x_preferred":[
         "Malakka"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Malacca"
+    ],
+    "name:eng_x_variant":[
+        "Melaka City"
     ],
     "name:epo_x_preferred":[
         "Malako"
@@ -90,6 +96,9 @@
     "name:hak_x_preferred":[
         "M\u00e2-liuk-kap-s\u1e73"
     ],
+    "name:hak_x_variant":[
+        "Malacca S\u1e73"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05dc\u05d0\u05e7\u05d4"
     ],
@@ -108,11 +117,17 @@
     "name:ind_x_preferred":[
         "Melaka"
     ],
+    "name:ind_x_variant":[
+        "Kota Melaka"
+    ],
     "name:ita_x_preferred":[
         "Malacca"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30e9\u30c3\u30ab"
+    ],
+    "name:jpn_x_variant":[
+        "\u30e0\u30e9\u30ab"
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cb2\u0cbe\u0c95 \u0ca8\u0c97\u0cb0"
@@ -132,11 +147,17 @@
     "name:lav_x_preferred":[
         "Malaka"
     ],
+    "name:lav_x_variant":[
+        "Melaka"
+    ],
     "name:lit_x_preferred":[
         "Malaka"
     ],
     "name:ltz_x_preferred":[
         "Malakka"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0932\u093e\u0915\u093e \u0938\u093f\u091f\u0940"
     ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d32\u0d3e\u0d15\u0d4d\u0d15\u0d3e \u0d38\u0d3f\u0d31\u0d4d\u0d31\u0d3f"
@@ -379,7 +400,7 @@
         }
     ],
     "wof:id":102023085,
-    "wof:lastmodified":1561751656,
+    "wof:lastmodified":1563238549,
     "wof:name":"Melaka",
     "wof:parent_id":890489715,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000017,
-    "geom:area_square_m":208292.014802,
+    "geom:area_square_m":208292.0148,
     "geom:bbox":"101.686706543,3.16691034143,101.689453125,3.1734250685",
     "geom:latitude":3.170349,
     "geom:longitude":101.688071,
@@ -24,6 +24,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Jalan Ipoh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30dd\u30fc\u901a\u308a"
+    ],
     "name:msa_x_preferred":[
         "Jalan ipoh"
     ],
@@ -32,6 +38,9 @@
     ],
     "name:unk_x_variant":[
         "Jalan Ipoh"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u6c99\u7f57"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_id":0,
@@ -91,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269521,
+    "wof:lastmodified":1563239046,
     "wof:name":"Jalan Ipoh",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

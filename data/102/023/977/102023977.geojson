@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004149,
-    "geom:area_square_m":51044260.723293,
+    "geom:area_square_m":51044260.723267,
     "geom:bbox":"101.817762009,5.65614979896,101.90172085,5.7971990411",
     "geom:latitude":5.721593,
     "geom:longitude":101.859109,
@@ -18,11 +18,38 @@
     "mps:longitude":101.846497,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jeli"
+    ],
+    "name:eng_x_preferred":[
+        "Jeli"
+    ],
+    "name:epo_x_preferred":[
+        "Jeli"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0644\u06cc \u06a9\u0644\u0627\u0646\u062a\u0627\u0646"
+    ],
+    "name:ind_x_preferred":[
+        "Jajahan Jeli"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e5\u30ea"
+    ],
     "name:msa_x_preferred":[
+        "Jeli"
+    ],
+    "name:nld_x_preferred":[
         "Jeli"
     ],
     "name:und_x_preferred":[
         "Jeli"
+    ],
+    "name:vie_x_preferred":[
+        "Jeli"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e5\u91cc\u53bf"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Kelantan",
@@ -71,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1501273146,
+    "wof:lastmodified":1563238568,
     "wof:name":"Jeli",
     "wof:parent_id":890490101,
     "wof:placetype":"locality",

@@ -68,6 +68,9 @@
     "name:eng_x_preferred":[
         "Kuala Lumpur"
     ],
+    "name:eng_x_variant":[
+        "Bukit Damansara"
+    ],
     "name:epo_x_preferred":[
         "Kuala-Lumpuro"
     ],
@@ -205,6 +208,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0bb2\u0bbe\u0bb2\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "Tasik Perdana"
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e31\u0e27\u0e25\u0e32\u0e25\u0e31\u0e21\u0e40\u0e1b\u0e2d\u0e23\u0e4c"
@@ -386,7 +392,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561751690,
+    "wof:lastmodified":1563239010,
     "wof:name":"Kuala Lumpur",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

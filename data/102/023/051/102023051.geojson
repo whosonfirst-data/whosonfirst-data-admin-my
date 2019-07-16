@@ -19,7 +19,16 @@
     "mps:longitude":102.232518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0645\u0628\u064a\u0646"
+    ],
     "name:cat_x_preferred":[
+        "Tampin"
+    ],
+    "name:ceb_x_preferred":[
+        "Kampung Tampin"
+    ],
+    "name:deu_x_preferred":[
         "Tampin"
     ],
     "name:eng_x_preferred":[
@@ -28,10 +37,16 @@
     "name:fas_x_preferred":[
         "\u062a\u0645\u067e\u06cc\u0646"
     ],
+    "name:fra_x_preferred":[
+        "Tampin"
+    ],
     "name:msa_x_preferred":[
         "Tampin"
     ],
     "name:nld_x_preferred":[
+        "Tampin"
+    ],
+    "name:spa_x_preferred":[
         "Tampin"
     ],
     "name:vie_x_preferred":[
@@ -79,7 +94,7 @@
         }
     ],
     "wof:id":102023051,
-    "wof:lastmodified":1561751665,
+    "wof:lastmodified":1563238628,
     "wof:name":"Tampin",
     "wof:parent_id":1108696529,
     "wof:placetype":"locality",

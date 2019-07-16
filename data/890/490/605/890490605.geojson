@@ -38,6 +38,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0442\u0430\u043b\u0438\u043d\u0433"
     ],
+    "name:ceb_x_preferred":[
+        "Petaling"
+    ],
     "name:deu_x_preferred":[
         "Petaling"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:vie_x_preferred":[
         "Petaling"
+    ],
+    "name:zho_x_preferred":[
+        "\u516b\u6253\u7075\u53bf"
     ],
     "qs:name":"Petaling",
     "qs:name_adm0":"Malaysia",
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":890490605,
-    "wof:lastmodified":1561751759,
+    "wof:lastmodified":1563240529,
     "wof:name":"Petaling",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

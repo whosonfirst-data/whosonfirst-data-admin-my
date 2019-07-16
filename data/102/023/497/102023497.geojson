@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006936,
-    "geom:area_square_m":85525961.615676,
+    "geom:area_square_m":85525961.615896,
     "geom:bbox":"101.114651132,4.24424982657,101.18759381,4.40118293828",
     "geom:latitude":4.316793,
     "geom:longitude":101.146832,
@@ -19,6 +19,33 @@
     "mps:longitude":101.140236,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kampar"
+    ],
+    "name:eng_x_preferred":[
+        "Kampar District"
+    ],
+    "name:epo_x_preferred":[
+        "Kampar"
+    ],
+    "name:ind_x_preferred":[
+        "Kampar"
+    ],
+    "name:msa_x_preferred":[
+        "Kampar"
+    ],
+    "name:nld_x_preferred":[
+        "Kampar"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bae\u0bcd\u0baa\u0bbe\u0bb0\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+    ],
+    "name:yue_x_preferred":[
+        "\u91d1\u5bf6"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u5bf6\u7e23"
+    ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Perak",
     "qs:a1r":"*",
@@ -66,7 +93,7 @@
         }
     ],
     "wof:id":102023497,
-    "wof:lastmodified":1505338976,
+    "wof:lastmodified":1563238556,
     "wof:name":"Kampar",
     "wof:parent_id":890490953,
     "wof:placetype":"locality",

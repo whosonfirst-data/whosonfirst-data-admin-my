@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000332,
-    "geom:area_square_m":4100581.225059,
+    "geom:area_square_m":4100581.225064,
     "geom:bbox":"101.686706543,3.07743767941,101.7114226,3.09663587184",
     "geom:latitude":3.085677,
     "geom:longitude":101.69774,
@@ -28,12 +28,18 @@
     "name:eng_x_preferred":[
         "Salak South"
     ],
+    "name:msa_x_preferred":[
+        "Kampong Perantau"
+    ],
     "name:und_x_preferred":[
         "Taman Salak Selatan"
     ],
     "name:unk_x_variant":[
         "Salak South",
         "Taman Salak Selatan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u53fb\u79c0"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -95,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1514490845,
+    "wof:lastmodified":1563239041,
     "wof:name":"Taman Salak Selatan",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

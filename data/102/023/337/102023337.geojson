@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003482,
-    "geom:area_square_m":42872862.138282,
+    "geom:area_square_m":42872862.138281,
     "geom:bbox":"100.447998047,5.22961377911,100.539417069,5.3024004892",
     "geom:latitude":5.273167,
     "geom:longitude":100.489818,
@@ -20,6 +20,12 @@
     "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Simpang Ampat"
+    ],
+    "name:eng_x_variant":[
+        "Simpang Empat"
+    ],
+    "name:ind_x_preferred":[
+        "Simpang Empat"
     ],
     "name:msa_x_preferred":[
         "Simpang Empat"
@@ -83,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636452,
+    "wof:lastmodified":1563238530,
     "wof:name":"Simpang Empat",
     "wof:parent_id":1108696503,
     "wof:placetype":"locality",

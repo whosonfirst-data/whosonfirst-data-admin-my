@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u043c\u043f\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Rompin"
+    ],
     "name:eng_x_preferred":[
         "Rompin"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "Rompin"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e91\u51b0\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1108696497,
-    "wof:lastmodified":1561751741,
+    "wof:lastmodified":1563240111,
     "wof:name":"Rompin",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

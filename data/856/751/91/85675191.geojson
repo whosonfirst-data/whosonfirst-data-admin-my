@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0628\u0648\u0627\u0646"
     ],
+    "name:aze_x_preferred":[
+        "Labuan"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u0430\u0431\u0443\u0430\u043d"
     ],
@@ -47,6 +50,9 @@
         "Labuan"
     ],
     "name:cdo_x_preferred":[
+        "Labuan"
+    ],
+    "name:ceb_x_preferred":[
         "Labuan"
     ],
     "name:ces_x_preferred":[
@@ -69,6 +75,9 @@
     ],
     "name:epo_x_preferred":[
         "Labuano"
+    ],
+    "name:eus_x_preferred":[
+        "Labuan"
     ],
     "name:fas_x_preferred":[
         "\u0644\u0627\u0628\u0648\u0622\u0646"
@@ -93,6 +102,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0932\u092c\u0942\u0905\u0928"
+    ],
+    "name:ilo_x_preferred":[
+        "Labuan"
     ],
     "name:ind_x_preferred":[
         "Labuan"
@@ -124,6 +136,9 @@
     "name:mkd_x_preferred":[
         "\u041b\u0430\u0431\u0443\u0430\u043d"
     ],
+    "name:mlg_x_preferred":[
+        "Labuan"
+    ],
     "name:msa_x_preferred":[
         "Labuan"
     ],
@@ -153,6 +168,12 @@
     ],
     "name:spa_x_preferred":[
         "Labu\u00e1n"
+    ],
+    "name:spa_x_variant":[
+        "Labuan"
+    ],
+    "name:swa_x_preferred":[
+        "Labuan"
     ],
     "name:swe_x_preferred":[
         "Labuan"
@@ -318,7 +339,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1561751695,
+    "wof:lastmodified":1563239075,
     "wof:name":"Labuan",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

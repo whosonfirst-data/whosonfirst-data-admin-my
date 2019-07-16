@@ -37,8 +37,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0644\u0642\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Malaca"
+    ],
     "name:aze_x_preferred":[
         "Malakka"
+    ],
+    "name:bak_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u043a\u043a\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b2\u09be\u0995\u09cd\u0995\u09be"
@@ -58,8 +64,14 @@
     "name:cdo_x_preferred":[
         "M\u0101-l\u0103k-g\u0103"
     ],
+    "name:ceb_x_preferred":[
+        "Melaka"
+    ],
     "name:ces_x_preferred":[
         "Malakka"
+    ],
+    "name:cym_x_preferred":[
+        "Melaka"
     ],
     "name:dan_x_preferred":[
         "Melaka"
@@ -69,6 +81,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bb\u03ac\u03ba\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03bb\u03ac\u03ba\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Melaka"
@@ -100,6 +115,9 @@
     "name:hak_x_preferred":[
         "M\u00e2-liuk-kap-ch\u00fb"
     ],
+    "name:hak_x_variant":[
+        "Melaka"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05dc\u05d0\u05e7\u05d4"
     ],
@@ -129,6 +147,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubbc8\ub77c\uce74 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubbc8\ub77c\uce74\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Malaka"
@@ -219,6 +240,9 @@
     ],
     "name:war_x_preferred":[
         "Melaka"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u516d\u7532"
     ],
     "name:yue_x_preferred":[
         "\u99ac\u516d\u7532\u5dde"
@@ -349,7 +373,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1561751693,
+    "wof:lastmodified":1563239064,
     "wof:name":"Melaka",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

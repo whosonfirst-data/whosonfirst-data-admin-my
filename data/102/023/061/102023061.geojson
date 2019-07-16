@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020962,
-    "geom:area_square_m":258972199.094037,
+    "geom:area_square_m":258972199.094088,
     "geom:bbox":"102.114429732,2.30485860079,102.319165521,2.50763350394",
     "geom:latitude":2.40662,
     "geom:longitude":102.206447,
@@ -19,10 +19,37 @@
     "mps:longitude":102.205369,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Alor Gajah"
+    ],
+    "name:ceb_x_preferred":[
+        "Alor Gajah"
+    ],
+    "name:deu_x_preferred":[
+        "Alor Gajah"
+    ],
+    "name:eng_x_preferred":[
+        "Alor Gajah"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0648\u0631 \u06af\u0627\u062c\u0627"
     ],
+    "name:glg_x_preferred":[
+        "Alor Gajah"
+    ],
+    "name:ind_x_preferred":[
+        "Alor Gajah"
+    ],
     "name:msa_x_preferred":[
+        "Alor Gajah"
+    ],
+    "name:nld_x_preferred":[
+        "Alor Gajah"
+    ],
+    "name:pol_x_preferred":[
+        "Alor Gajah"
+    ],
+    "name:spa_x_preferred":[
         "Alor Gajah"
     ],
     "name:tam_x_preferred":[
@@ -30,6 +57,9 @@
     ],
     "name:unk_x_variant":[
         "Alor Gajeh"
+    ],
+    "name:vie_x_preferred":[
+        "Alor Gajah"
     ],
     "name:zho_x_preferred":[
         "\u4e9a\u7f57\u7259\u4e5f"
@@ -78,7 +108,7 @@
         }
     ],
     "wof:id":102023061,
-    "wof:lastmodified":1505338975,
+    "wof:lastmodified":1563238620,
     "wof:name":"Alor Gajah",
     "wof:parent_id":890489107,
     "wof:placetype":"locality",

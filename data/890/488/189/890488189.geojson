@@ -16,8 +16,14 @@
     "iso:country":"MY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kampar District"
+    ],
     "name:msa_x_preferred":[
         "Kampung Tersusun Keledang Utama"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bae\u0bcd\u0baa\u0bbe\u0bb0\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
     "qs:name":"Kampung Tersusun Jelapang Jaya",
     "qs:name_adm0":"Malaysia",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":890488189,
-    "wof:lastmodified":1527787077,
+    "wof:lastmodified":1563240631,
     "wof:name":"Kampung Tersusun Jelapang Jaya",
     "wof:parent_id":102023013,
     "wof:placetype":"neighbourhood",

@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u0995\u09c1\u09a6\u09be\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Skudai"
+    ],
     "name:dan_x_preferred":[
         "Skudai"
     ],
@@ -32,6 +35,9 @@
         "\u03a3\u03ba\u03bf\u03cd\u03bd\u03c4\u03b1\u03ca"
     ],
     "name:eng_x_preferred":[
+        "Skudai"
+    ],
+    "name:epo_x_preferred":[
         "Skudai"
     ],
     "name:fin_x_preferred":[
@@ -124,6 +130,9 @@
     "name:zho_x_preferred":[
         "\u58eb\u53e4\u4f86"
     ],
+    "name:zho_x_variant":[
+        "\u58eb\u59d1\u4f86"
+    ],
     "name:zho_yue_x_preferred":[
         "\u58eb\u53e4\u4f86"
     ],
@@ -175,7 +184,7 @@
         }
     ],
     "wof:id":102022775,
-    "wof:lastmodified":1561751672,
+    "wof:lastmodified":1563238691,
     "wof:name":"Sekudai",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:cat_x_preferred":[
         "Kuala Kangsar"
     ],
+    "name:ceb_x_preferred":[
+        "Kuala Kangsar"
+    ],
     "name:ces_x_preferred":[
         "Kuala Kangsar"
     ],
@@ -141,6 +144,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucfe0\uc54c\ub77c\uce89\uc0ac\ub974"
+    ],
+    "name:kor_x_variant":[
+        "\ucfe0\uc54c\ub974\uce89\uc0ac\ub974"
     ],
     "name:lav_x_preferred":[
         "Kualakangsara"
@@ -333,7 +339,7 @@
         }
     ],
     "wof:id":102023009,
-    "wof:lastmodified":1561751657,
+    "wof:lastmodified":1563238557,
     "wof:name":"Kuala Kangsar",
     "wof:parent_id":890489077,
     "wof:placetype":"locality",

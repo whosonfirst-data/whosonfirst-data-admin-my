@@ -16,11 +16,17 @@
     "name:eng_x_preferred":[
         "Pudu"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30c9\u30a5"
+    ],
     "name:msa_x_preferred":[
         "Pudu"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc1\u0b9f\u0bc1"
+    ],
+    "name:zho_x_preferred":[
+        "\u534a\u5c71\u82ad"
     ],
     "qs:name":"Pudu",
     "qs:name_adm0":"Malaysia",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":890489263,
-    "wof:lastmodified":1561751769,
+    "wof:lastmodified":1563240762,
     "wof:name":"Pudu",
     "wof:parent_id":890490945,
     "wof:placetype":"locality",

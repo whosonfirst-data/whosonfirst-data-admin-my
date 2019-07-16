@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":868175.48204,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.631775,3.028069,101.631775,3.028069",
     "geom:latitude":3.028069,
     "geom:longitude":101.631775,
@@ -24,8 +24,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Bandar Puteri Puchong"
+    ],
     "name:msa_x_preferred":[
         "Puchong"
+    ],
+    "name:msa_x_variant":[
+        "Bandar Puteri Puchong"
     ],
     "name:und_x_preferred":[
         "Bandar Puteri Puchong"
@@ -62,11 +68,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":120,
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023809,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860622,
+    "wof:lastmodified":1563239004,
     "wof:name":"Bandar Puteri Puchong",
     "wof:parent_id":102023809,
     "wof:placetype":"neighbourhood",

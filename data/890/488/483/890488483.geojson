@@ -36,8 +36,11 @@
         "Miri"
     ],
     "name:eng_x_variant":[
-        "Miri",
-        "MIRI"
+        "MIRI",
+        "Miri District"
+    ],
+    "name:msa_x_preferred":[
+        "Daerah Miri"
     ],
     "qs:name":"Division Miri",
     "qs:name_adm0":"Malaysia",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890488483,
-    "wof:lastmodified":1553717809,
+    "wof:lastmodified":1563240612,
     "wof:name":"Miri",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

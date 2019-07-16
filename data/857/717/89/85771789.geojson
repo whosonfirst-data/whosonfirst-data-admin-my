@@ -30,8 +30,14 @@
     "name:eng_x_variant":[
         "Salak South"
     ],
+    "name:swe_x_preferred":[
+        "Kampong Segambut Dalam"
+    ],
     "name:unk_x_variant":[
         "Salak Selatan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u53fb\u79c0"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -95,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639409,
+    "wof:lastmodified":1563239052,
     "wof:name":"Salak Selatan",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

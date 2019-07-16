@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
-    "geom:area_square_m":1318859.315245,
+    "geom:area_square_m":1318859.315249,
     "geom:bbox":"101.655122898,3.12406122744,101.664733887,3.13846027645",
     "geom:latitude":3.131093,
     "geom:longitude":101.659995,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "SMK Bukit Bandaraya"
+    ],
     "name:und_x_preferred":[
         "Bukit Bandaraya"
     ],
@@ -88,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269521,
+    "wof:lastmodified":1563239043,
     "wof:name":"Bukit Bandaraya",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

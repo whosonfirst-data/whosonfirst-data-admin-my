@@ -16,8 +16,14 @@
     "iso:country":"MY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bandar Indera Mahkota"
+    ],
     "name:msa_x_preferred":[
         "Taman Sri Mahkota"
+    ],
+    "name:msa_x_variant":[
+        "Indera Mahkota"
     ],
     "qs:name":"Taman Indera Mahkota",
     "qs:name_adm0":"Malaysia",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":890488365,
-    "wof:lastmodified":1527787074,
+    "wof:lastmodified":1563240599,
     "wof:name":"Taman Indera Mahkota",
     "wof:parent_id":102023459,
     "wof:placetype":"neighbourhood",

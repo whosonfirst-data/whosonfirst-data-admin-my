@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005049,
-    "geom:area_square_m":62114537.494125,
+    "geom:area_square_m":62114537.49412,
     "geom:bbox":"100.664187252,5.71080341527,100.803096399,5.91469527336",
     "geom:latitude":5.816895,
     "geom:longitude":100.735072,
@@ -17,11 +17,33 @@
     "mps:latitude":5.8231,
     "mps:longitude":100.74666,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sik"
+    ],
+    "name:deu_x_preferred":[
+        "Sik"
+    ],
+    "name:eng_x_preferred":[
+        "Sik"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u06a9 \u06a9\u062f\u0627\u062d"
+    ],
     "name:msa_x_preferred":[
+        "Sik"
+    ],
+    "name:nld_x_preferred":[
         "Sik"
     ],
     "name:und_x_preferred":[
         "Sik"
+    ],
+    "name:vie_x_preferred":[
+        "Sik"
+    ],
+    "name:zho_x_preferred":[
+        "\u9521"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Kedah",
@@ -70,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1501273109,
+    "wof:lastmodified":1563238578,
     "wof:name":"Sik",
     "wof:parent_id":1108696515,
     "wof:placetype":"locality",

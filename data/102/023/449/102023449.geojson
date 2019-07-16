@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017953,
-    "geom:area_square_m":221509988.068479,
+    "geom:area_square_m":221509988.068604,
     "geom:bbox":"100.793304992,3.70448107463,101.11068445,3.86781628694",
     "geom:latitude":3.784028,
     "geom:longitude":100.928935,
@@ -25,6 +25,12 @@
     "name:cat_x_preferred":[
         "Sabak Bernam"
     ],
+    "name:ceb_x_preferred":[
+        "Sabak Bernam"
+    ],
+    "name:deu_x_preferred":[
+        "Sabak Bernam"
+    ],
     "name:eng_x_preferred":[
         "Sobak Bernam"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:ind_x_preferred":[
         "Sabak Bernam"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30d0\u30c3\u30fb\u30d6\u30eb\u30ca\u30e0"
     ],
     "name:msa_x_preferred":[
         "Sabak Bernam"
@@ -107,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636453,
+    "wof:lastmodified":1563238540,
     "wof:name":"Sabak Bernam",
     "wof:parent_id":890490813,
     "wof:placetype":"locality",

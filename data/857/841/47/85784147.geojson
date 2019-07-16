@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00012,
-    "geom:area_square_m":1476961.617118,
+    "geom:area_square_m":1476961.617121,
     "geom:bbox":"101.71967367,3.11583368077,101.732025147,3.13057618388",
     "geom:latitude":3.122421,
     "geom:longitude":101.726779,
@@ -25,14 +25,26 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Taman Pertama MRT station"
+    ],
     "name:msa_x_preferred":[
         "Taman Pertama"
+    ],
+    "name:msa_x_variant":[
+        "Stesen MRT Taman Pertama"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc1\u0bb5\u0bbe\u0b9a\u0bbe \u0b9a\u0bc6\u0ba3\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd"
     ],
     "name:und_x_preferred":[
         "Taman Pertama"
     ],
     "name:unk_x_variant":[
         "Taman Pertama"
+    ],
+    "name:zho_x_preferred":[
+        "\u7b2c\u4e00\u82b1\u56ed\u7ad9"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -95,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527639365,
+    "wof:lastmodified":1563239034,
     "wof:name":"Taman Pertama",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

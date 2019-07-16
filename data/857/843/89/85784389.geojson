@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00007,
-    "geom:area_square_m":861538.55121,
+    "geom:area_square_m":861538.551211,
     "geom:bbox":"101.670227051,3.16828152884,101.679837983,3.18028308449",
     "geom:latitude":3.174793,
     "geom:longitude":101.674963,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "SMK Taman Tunku"
+    ],
     "name:msa_x_preferred":[
         "Taman Tunku Muda"
     ],
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527639307,
+    "wof:lastmodified":1563239017,
     "wof:name":"Taman Tunku",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

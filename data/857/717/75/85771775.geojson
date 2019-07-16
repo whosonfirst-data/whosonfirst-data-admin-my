@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5108900.221366,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.820999,1.50515,103.820999,1.50515",
     "geom:latitude":1.50515,
     "geom:longitude":103.820999,
@@ -38,6 +38,9 @@
     ],
     "name:msa_x_variant":[
         "Pelentong"
+    ],
+    "name:nld_x_preferred":[
+        "Plentong"
     ],
     "name:unk_x_variant":[
         "Plintong",
@@ -75,11 +78,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":289,
     "wof:belongsto":[
+        85675141,
         102191569,
         85632739,
         102022781,
-        1108696403,
-        85675141
+        1108696403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859456,
+    "wof:lastmodified":1563239053,
     "wof:name":"Pelentung",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000152,
-    "geom:area_square_m":1881267.718541,
+    "geom:area_square_m":1881267.71854,
     "geom:bbox":"101.7237854,3.15148587091,101.738891602,3.16931360346",
     "geom:latitude":3.160215,
     "geom:longitude":101.731345,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Taman U-Thant"
+    ],
     "name:ind_x_preferred":[
         "Taman U-Thant"
     ],
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269496,
+    "wof:lastmodified":1563239031,
     "wof:name":"Taman U Thant",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

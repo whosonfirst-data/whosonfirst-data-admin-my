@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0631\u0627\u062c\u0627\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0648\u062a\u0631\u0627\u062c\u0627\u064a"
+    ],
     "name:arg_x_preferred":[
         "Putrajaya"
     ],
@@ -52,6 +55,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09a4\u09cd\u09b0\u099c\u09be\u09af\u09bc\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u092a\u0941\u0924\u094d\u0930\u091c\u092f"
+    ],
     "name:bre_x_preferred":[
         "Putrajaya"
     ],
@@ -62,6 +68,9 @@
         "Putrajaya"
     ],
     "name:cdo_x_preferred":[
+        "Putrajaya"
+    ],
+    "name:ceb_x_preferred":[
         "Putrajaya"
     ],
     "name:ces_x_preferred":[
@@ -121,6 +130,9 @@
     "name:glg_x_preferred":[
         "Putrajaya"
     ],
+    "name:grn_x_preferred":[
+        "Putrajaya"
+    ],
     "name:gsw_x_preferred":[
         "Putrajaya"
     ],
@@ -142,10 +154,16 @@
     "name:hun_x_preferred":[
         "Putrajaya"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0582\u057f\u0580\u0561\u057b\u0561\u0575\u0561"
+    ],
     "name:ido_x_preferred":[
         "Putrajaya"
     ],
     "name:ile_x_preferred":[
+        "Putrajaya"
+    ],
+    "name:ilo_x_preferred":[
         "Putrajaya"
     ],
     "name:ina_x_preferred":[
@@ -195,6 +213,9 @@
     ],
     "name:ltz_x_preferred":[
         "Putrajaya"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d41\u0d24\u0d4d\u0d30\u0d1c\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u092a\u0941\u0924\u094d\u0930\u091c\u092f"
@@ -250,11 +271,17 @@
     "name:pan_x_preferred":[
         "\u0a2a\u0a41\u0a71\u0a24\u0a30\u0a1c\u0a48"
     ],
+    "name:pap_x_preferred":[
+        "Putrajaya"
+    ],
     "name:pcd_x_preferred":[
         "Putrajaya"
     ],
     "name:pms_x_preferred":[
         "Putrajaya"
+    ],
+    "name:pnb_x_preferred":[
+        "\u067e\u062a\u0631\u0627 \u062c\u0627\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Putrajaya"
@@ -489,7 +516,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1561751695,
+    "wof:lastmodified":1563239071,
     "wof:name":"Putrajaya",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

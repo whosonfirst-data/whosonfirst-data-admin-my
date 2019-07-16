@@ -41,6 +41,9 @@
     "name:cat_x_preferred":[
         "Kuala Selangor"
     ],
+    "name:ceb_x_preferred":[
+        "Kuala Selangor"
+    ],
     "name:deu_x_preferred":[
         "Kuala Selangor"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:eng_x_variant":[
         "KUALA SELANGOR"
+    ],
+    "name:fra_x_preferred":[
+        "Kuala Selangor"
     ],
     "name:ind_x_preferred":[
         "Kuala Selangor"
@@ -76,6 +82,9 @@
     ],
     "name:zho_x_preferred":[
         "\u74dc\u62c9\u96ea\u5170\u83aa\u53bf"
+    ],
+    "name:zho_x_variant":[
+        "\u74dc\u62c9\u96ea\u5170\u83aa"
     ],
     "qs:name":"Kuala Selangor",
     "qs:name_adm0":"Malaysia",
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":890488801,
-    "wof:lastmodified":1561751765,
+    "wof:lastmodified":1563240668,
     "wof:name":"Kuala Selangor",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

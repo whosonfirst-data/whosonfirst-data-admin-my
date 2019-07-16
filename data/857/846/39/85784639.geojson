@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
-    "geom:area_square_m":1729265.540712,
+    "geom:area_square_m":1729265.540708,
     "geom:bbox":"101.681213379,3.10760610014,101.697003184,3.1206361551",
     "geom:latitude":3.113211,
     "geom:longitude":101.689008,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Taman Desa"
+    ],
     "name:msa_x_preferred":[
         "Taman Bukit Sentosa"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:unk_x_variant":[
         "Taman Bukit Desa"
+    ],
+    "name:zho_x_preferred":[
+        "\u90ca\u5916\u5cad"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -95,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527639365,
+    "wof:lastmodified":1563239036,
     "wof:name":"Taman Bukit Desa",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

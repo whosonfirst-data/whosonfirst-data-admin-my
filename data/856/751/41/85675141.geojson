@@ -35,8 +35,14 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u0647\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u062c\u0648\u0647\u0648\u0631"
+    ],
     "name:aze_x_preferred":[
         "Cohor"
+    ],
+    "name:bak_x_preferred":[
+        "\u0414\u0436\u043e\u0445\u043e\u0440"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09b9\u09b0"
@@ -51,6 +57,9 @@
         "Johor"
     ],
     "name:cdo_x_preferred":[
+        "Johor"
+    ],
+    "name:ceb_x_preferred":[
         "Johor"
     ],
     "name:ces_x_preferred":[
@@ -77,6 +86,9 @@
     "name:est_x_preferred":[
         "Johori osariik"
     ],
+    "name:eus_x_preferred":[
+        "Johor"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0648\u0647\u0648\u0631"
     ],
@@ -94,6 +106,9 @@
     ],
     "name:hak_x_preferred":[
         "Y\u00f9-fu\u030dt-ch\u00fb"
+    ],
+    "name:hak_x_variant":[
+        "Johor"
     ],
     "name:heb_x_preferred":[
         "\u05d2'\u05d5\u05d4\u05d5\u05e8"
@@ -130,6 +145,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc870\ud638\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc870\ud638\ub974\uc8fc"
     ],
     "name:lav_x_preferred":[
         "D\u017eohora"
@@ -353,7 +371,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1561751695,
+    "wof:lastmodified":1563239079,
     "wof:name":"Johor",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

@@ -34,8 +34,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u0642"
     ],
+    "name:ara_x_variant":[
+        "\u0641\u064a\u0631\u0642"
+    ],
+    "name:ast_x_preferred":[
+        "Perak"
+    ],
     "name:aze_x_preferred":[
         "Perak"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0435\u0440\u0430\u043a"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09b0\u09be\u0995"
@@ -50,6 +59,9 @@
         "Perak"
     ],
     "name:cdo_x_preferred":[
+        "Perak"
+    ],
+    "name:ceb_x_preferred":[
         "Perak"
     ],
     "name:dan_x_preferred":[
@@ -70,6 +82,9 @@
     "name:est_x_preferred":[
         "Peraki osariik"
     ],
+    "name:eus_x_preferred":[
+        "Perak"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u0627\u06a9"
     ],
@@ -87,6 +102,9 @@
     ],
     "name:hak_x_preferred":[
         "Phit-li\u030dt-ch\u00fb"
+    ],
+    "name:hak_x_variant":[
+        "Perak"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e8\u05e7"
@@ -118,6 +136,9 @@
     "name:kor_x_preferred":[
         "\ud398\ub77d \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud398\ub77d\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Peraka"
     ],
@@ -126,6 +147,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092a\u0930\u093e\u0915"
+    ],
+    "name:min_x_preferred":[
+        "Perak"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0435\u0440\u0430\u043a"
@@ -183,6 +207,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e40\u0e1b\u0e23\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e40\u0e1b\u0e23\u0e31\u0e01"
     ],
     "name:tur_x_preferred":[
         "Perak"
@@ -341,7 +368,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1561751697,
+    "wof:lastmodified":1563239083,
     "wof:name":"Perak",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

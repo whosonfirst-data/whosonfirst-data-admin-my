@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004776,
-    "geom:area_square_m":58781207.150027,
+    "geom:area_square_m":58781207.150025,
     "geom:bbox":"117.813847019,5.45931948329,118.293327346,5.63049806689",
     "geom:latitude":5.546591,
     "geom:longitude":118.086174,
@@ -21,7 +21,13 @@
     "name:deu_x_preferred":[
         "Distrikt Kinabatangan"
     ],
+    "name:eng_x_preferred":[
+        "Kinabatangan"
+    ],
     "name:fin_x_preferred":[
+        "Kinabatangan"
+    ],
+    "name:ind_x_preferred":[
         "Kinabatangan"
     ],
     "name:jpn_x_preferred":[
@@ -33,11 +39,17 @@
     "name:nld_x_preferred":[
         "Kinabatangan"
     ],
+    "name:nob_x_preferred":[
+        "Kinabatangan"
+    ],
     "name:nor_x_preferred":[
         "Kinabatangan"
     ],
     "name:vie_x_preferred":[
         "Kinabatangan"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u7d0d\u5df4\u5510\u5cb8"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":102023933,
-    "wof:lastmodified":1527636458,
+    "wof:lastmodified":1563238601,
     "wof:name":"Kinabatangan",
     "wof:parent_id":1108696413,
     "wof:placetype":"locality",
