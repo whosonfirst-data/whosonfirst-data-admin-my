@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00019,
-    "geom:area_square_m":2342296.107026,
+    "geom:area_square_m":2342296.107023,
     "geom:bbox":"101.670227051,3.08566552769,101.690481594,3.10486354929",
     "geom:latitude":3.09619,
     "geom:longitude":101.679961,
@@ -23,11 +23,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Taman Desa"
+    ],
     "name:und_x_preferred":[
         "Taman Desa"
     ],
     "name:unk_x_variant":[
         "Taman Desa"
+    ],
+    "name:zho_x_preferred":[
+        "\u90ca\u5916\u5cad"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_id":0,
@@ -84,7 +90,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269414,
+    "wof:lastmodified":1563239012,
     "wof:name":"Taman Desa",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

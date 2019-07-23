@@ -41,7 +41,6 @@
         "Segamat"
     ],
     "name:eng_x_variant":[
-        "Segamat",
         "Segamat District",
         "SEGAMAT"
     ],
@@ -56,6 +55,9 @@
     ],
     "name:msa_x_preferred":[
         "Segamat"
+    ],
+    "name:msa_x_variant":[
+        "Daerah Segamat"
     ],
     "name:nld_x_preferred":[
         "Segamat"
@@ -74,6 +76,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6614\u52a0\u672b"
+    ],
+    "name:zho_x_variant":[
+        "\u6614\u52a0\u672b\u53bf"
     ],
     "qs:name":"Daerah Segamat",
     "qs:photos_9r":0,
@@ -120,7 +125,7 @@
         }
     ],
     "wof:id":890488717,
-    "wof:lastmodified":1561751766,
+    "wof:lastmodified":1563240675,
     "wof:name":"Segamat",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

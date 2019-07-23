@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012029,
-    "geom:area_square_m":148471172.314254,
+    "geom:area_square_m":148471172.31415,
     "geom:bbox":"101.806804636,3.30149884635,101.956623103,3.62662436573",
     "geom:latitude":3.443706,
     "geom:longitude":101.880135,
@@ -17,6 +17,22 @@
     "mps:latitude":3.518084,
     "mps:longitude":101.910008,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0646\u062a\u0648\u0646\u063a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09a8\u09cd\u099f\u0982"
+    ],
+    "name:dan_x_preferred":[
+        "Bentong"
+    ],
+    "name:deu_x_preferred":[
+        "Bentong"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03bd\u03c4\u03cc\u03bd\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Bentung"
     ],
@@ -24,11 +40,101 @@
         "Benton",
         "Bentong"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u062a\u0648\u0646\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Bentong"
+    ],
+    "name:fra_x_preferred":[
+        "Bentong"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ac7\u0aa8\u0acd\u0a9f\u0acb\u0a82\u0a97"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0902\u091f\u094b\u0902\u0917"
+    ],
+    "name:ind_x_preferred":[
+        "Bentong"
+    ],
+    "name:ita_x_preferred":[
+        "Bentong"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30f3\u30c8\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc6\u0c82\u0c9f\u0cbe\u0c82\u0c97\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca4\ud1b5"
+    ],
+    "name:lav_x_preferred":[
+        "Bentonga"
+    ],
+    "name:lit_x_preferred":[
+        "Bentongo rajonas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0947\u0902\u091f\u0949\u0902\u0917"
+    ],
     "name:msa_x_preferred":[
         "Bentung"
     ],
+    "name:msa_x_variant":[
+        "Bentong"
+    ],
+    "name:nld_x_preferred":[
+        "Bentong"
+    ],
+    "name:nob_x_preferred":[
+        "Bentong"
+    ],
+    "name:pol_x_preferred":[
+        "Bentong"
+    ],
+    "name:por_x_preferred":[
+        "Bentong"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043d\u0442\u043e\u043d\u0433"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd9\u0db1\u0dca\u0da7\u0ddd\u0db1\u0dca\u0d9c\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Bentong"
+    ],
+    "name:swe_x_preferred":[
+        "Bentong"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0ba3\u0bcd\u0b9f\u0bcb\u0b99\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c46\u0c02\u0c1f\u0c3e\u0c02\u0c17\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1a\u0e19\u0e15\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Bentong"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043d\u0442\u043e\u043d\u0433"
+    ],
     "name:unk_x_variant":[
         "Bentong"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0646\u062a\u0648\u0646\u062c"
+    ],
+    "name:vie_x_preferred":[
+        "Bentong"
+    ],
+    "name:zho_x_preferred":[
+        "\u6587\u51ac"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Pahang",
@@ -80,7 +186,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497294379,
+    "wof:lastmodified":1563238663,
     "wof:name":"Bentung",
     "wof:parent_id":1108696389,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":112770.096142,
+    "geom:area_square_m":0.0,
     "geom:bbox":"102.244802,2.195975,102.244802,2.195975",
     "geom:latitude":2.195975,
     "geom:longitude":102.244802,
@@ -24,7 +24,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Taman Kota Laksamana"
+    ],
     "name:msa_x_preferred":[
+        "Taman Kota Laksamana"
+    ],
+    "name:nld_x_preferred":[
         "Taman Kota Laksamana"
     ],
     "name:und_x_preferred":[
@@ -65,11 +71,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":89,
     "wof:belongsto":[
+        85675151,
         102191569,
         85632739,
         102023085,
-        890489715,
-        85675151
+        890489715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860578,
+    "wof:lastmodified":1563239040,
     "wof:name":"Taman Kota Laksamana",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003032,
-    "geom:area_square_m":37236799.823455,
+    "geom:area_square_m":37236799.823436,
     "geom:bbox":"100.246692495,6.61736985782,100.333446836,6.67910720958",
     "geom:latitude":6.64628,
     "geom:longitude":100.289932,
@@ -17,6 +17,19 @@
     "mps:latitude":6.645397,
     "mps:longitude":100.28698,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Padang Besar"
+    ],
+    "name:eng_x_preferred":[
+        "Padang Besar"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e1b\u0e32\u0e14\u0e31\u0e07\u0e40\u0e1a\u0e0b\u0e32\u0e23\u0e4c"
+    ],
+    "name:zho_x_preferred":[
+        "\u58eb\u6bdb\u6708"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -43,7 +56,7 @@
         "wk:page":"Padang Besar, Thailand"
     },
     "wof:country":"MY",
-    "wof:geomhash":"e511974274be2895f92d0589aee0f49b",
+    "wof:geomhash":"4a06bc90f7eb23db53edafcc50391afe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +67,7 @@
         }
     ],
     "wof:id":102023599,
-    "wof:lastmodified":1480369961,
+    "wof:lastmodified":1563238591,
     "wof:name":"Padang Besar",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

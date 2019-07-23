@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1076168.63502,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.758118,3.143259,101.758118,3.143259",
     "geom:latitude":3.143259,
     "geom:longitude":101.758118,
@@ -28,6 +28,12 @@
         "Pandan Indah"
     ],
     "name:msa_x_preferred":[
+        "Pandan Indah"
+    ],
+    "name:msa_x_variant":[
+        "Taman Selapak Permai"
+    ],
+    "name:nld_x_preferred":[
         "Pandan Indah"
     ],
     "name:und_x_variant":[
@@ -65,11 +71,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":225,
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023417,
-        1108696543,
-        85675163
+        1108696543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531860401,
+    "wof:lastmodified":1563239016,
     "wof:name":"Pandan Indah",
     "wof:parent_id":102023417,
     "wof:placetype":"neighbourhood",

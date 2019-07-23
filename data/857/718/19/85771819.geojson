@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9080409.710666,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.128643,4.635336,101.128643,4.635336",
     "geom:latitude":4.635336,
     "geom:longitude":101.128643,
@@ -25,6 +25,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
+        "Bercham"
+    ],
+    "name:msa_x_preferred":[
         "Bercham"
     ],
     "name:unk_x_variant":[
@@ -60,11 +63,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":543,
     "wof:belongsto":[
+        85675123,
         102191569,
         85632739,
         102023021,
-        890490953,
-        85675123
+        890490953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859464,
+    "wof:lastmodified":1563239059,
     "wof:name":"Bercham",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002473,
-    "geom:area_square_m":30530285.08255,
+    "geom:area_square_m":30530285.082527,
     "geom:bbox":"101.304177926,3.20003565378,101.388082766,3.2885980498",
     "geom:latitude":3.255769,
     "geom:longitude":101.349102,
@@ -18,10 +18,25 @@
     "mps:longitude":101.352117,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jeram"
+    ],
     "name:epo_x_preferred":[
         "Jeram"
     ],
+    "name:ita_x_preferred":[
+        "Jeram"
+    ],
+    "name:lit_x_preferred":[
+        "Jeram"
+    ],
     "name:msa_x_preferred":[
+        "Jeram"
+    ],
+    "name:nld_x_preferred":[
+        "Jeram"
+    ],
+    "name:spa_x_preferred":[
         "Jeram"
     ],
     "qs:a0":"Malaysia",
@@ -70,7 +85,7 @@
         }
     ],
     "wof:id":102023921,
-    "wof:lastmodified":1527636461,
+    "wof:lastmodified":1563238639,
     "wof:name":"Jeram",
     "wof:parent_id":890488801,
     "wof:placetype":"locality",

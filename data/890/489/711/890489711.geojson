@@ -32,12 +32,20 @@
     "mps:longitude":102.591472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Jerantut"
+    ],
     "name:eng_x_preferred":[
         "Jerantut"
     ],
     "name:eng_x_variant":[
-        "Jerantut",
         "JERANTUT"
+    ],
+    "name:fra_x_preferred":[
+        "Jerantut"
+    ],
+    "name:nld_x_preferred":[
+        "Jerantut"
     ],
     "qs:name":"Jerantut",
     "qs:name_adm0":"Malaysia",
@@ -93,7 +101,7 @@
         }
     ],
     "wof:id":890489711,
-    "wof:lastmodified":1553717810,
+    "wof:lastmodified":1563240773,
     "wof:name":"Jerantut",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

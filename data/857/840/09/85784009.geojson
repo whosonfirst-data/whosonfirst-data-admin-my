@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001296,
-    "geom:area_square_m":16000175.601359,
+    "geom:area_square_m":16000175.601392,
     "geom:bbox":"101.649240723,3.24360098576,101.702199707,3.29037191023",
     "geom:latitude":3.267038,
     "geom:longitude":101.676565,
@@ -24,11 +24,26 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Selayang"
+    ],
+    "name:epo_x_preferred":[
+        "Selayang"
+    ],
+    "name:msa_x_preferred":[
+        "Selayang"
+    ],
+    "name:nld_x_preferred":[
+        "Selayang"
+    ],
     "name:und_x_preferred":[
         "Selayang"
     ],
     "name:unk_x_variant":[
         "Selayang"
+    ],
+    "name:zho_x_preferred":[
+        "\u58eb\u62c9\u592e"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_id":0,
@@ -88,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269511,
+    "wof:lastmodified":1563239039,
     "wof:name":"Selayang",
     "wof:parent_id":102023411,
     "wof:placetype":"neighbourhood",

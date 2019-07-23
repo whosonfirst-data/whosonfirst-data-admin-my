@@ -32,6 +32,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0430\u043d\u0442\u0430\u043d"
     ],
+    "name:ces_x_preferred":[
+        "Kuantan"
+    ],
     "name:dan_x_preferred":[
         "Kuantan"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:hak_x_preferred":[
         "K\u00f4an-tan-s\u1e73"
+    ],
+    "name:hak_x_variant":[
+        "Kuantan"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0941\u0906\u0902\u0924\u093e\u0928"
@@ -154,6 +160,9 @@
     ],
     "name:war_x_preferred":[
         "Kuantan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5173\u4e39"
     ],
     "name:yue_x_preferred":[
         "\u95dc\u4e39"
@@ -304,7 +313,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561751664,
+    "wof:lastmodified":1563238626,
     "wof:name":"Kuantan",
     "wof:parent_id":890490895,
     "wof:placetype":"locality",

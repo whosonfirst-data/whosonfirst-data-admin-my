@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8184703.620691,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.28918,5.278928,100.28918,5.278928",
     "geom:latitude":5.278928,
     "geom:longitude":100.28918,
@@ -31,8 +31,17 @@
     "name:msa_x_preferred":[
         "Batu Maung"
     ],
+    "name:nld_x_preferred":[
+        "Batu Maung"
+    ],
     "name:unk_x_variant":[
         "Batu Maung"
+    ],
+    "name:vie_x_preferred":[
+        "Batu Maung"
+    ],
+    "name:zho_x_preferred":[
+        "\u5cc7\u90fd\u8305"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -66,11 +75,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023363,
-        890489155,
-        85675127
+        890489155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":85771489,
-    "wof:lastmodified":1531859424,
+    "wof:lastmodified":1563239028,
     "wof:name":"Batu Maung",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

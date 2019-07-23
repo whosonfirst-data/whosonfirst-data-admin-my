@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00737,
-    "geom:area_square_m":90988053.24867,
+    "geom:area_square_m":90988053.248433,
     "geom:bbox":"101.778033397,3.06582111325,101.89070326,3.23456444163",
     "geom:latitude":3.150186,
     "geom:longitude":101.84164,
@@ -18,14 +18,35 @@
     "mps:longitude":101.836066,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hulu Langat"
+    ],
     "name:eng_x_preferred":[
         "Hulu Langat"
+    ],
+    "name:epo_x_preferred":[
+        "Hulu Langat"
+    ],
+    "name:fra_x_preferred":[
+        "Hulu Langat"
+    ],
+    "name:ind_x_preferred":[
+        "Hulu Langat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30a2\u30e9\u30fb\u30e9\u30f3\u30ac\u30c3"
     ],
     "name:msa_x_preferred":[
         "Hulu Langat"
     ],
+    "name:nld_x_preferred":[
+        "Hulu Langat"
+    ],
     "name:unk_x_variant":[
         "Ulu Langat"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u9c81\u51b7\u5cb3\u53bf"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Selangor",
@@ -77,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527636459,
+    "wof:lastmodified":1563238610,
     "wof:name":"Hulu Langat",
     "wof:parent_id":1108696543,
     "wof:placetype":"locality",

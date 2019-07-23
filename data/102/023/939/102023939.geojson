@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000436,
-    "geom:area_square_m":5384207.953089,
+    "geom:area_square_m":5384207.953078,
     "geom:bbox":"104.124914716,2.79683855878,104.15227724,2.81904562412",
     "geom:latitude":2.807248,
     "geom:longitude":104.138266,
@@ -17,6 +17,31 @@
     "mps:latitude":2.80804,
     "mps:longitude":104.139374,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0438\u043e\u043c\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Tioman"
+    ],
+    "name:eng_x_preferred":[
+        "Tioman Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u06cc\u0648\u0645\u0627\u0646"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30aa\u30de\u30f3\u7a7a\u6e2f"
+    ],
+    "name:nld_x_preferred":[
+        "Tioman Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u044e\u043c\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5201\u66fc\u570b\u969b\u6a5f\u5834"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -43,7 +68,7 @@
         "wk:page":"Tioman Airport"
     },
     "wof:country":"MY",
-    "wof:geomhash":"87cd9e8c686c40947edaa2b4237ed7ef",
+    "wof:geomhash":"0ce2f57e700bb47ae5ce1524ce58649d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +79,7 @@
         }
     ],
     "wof:id":102023939,
-    "wof:lastmodified":1480369960,
+    "wof:lastmodified":1563238530,
     "wof:name":"Tioman",
     "wof:parent_id":1108696497,
     "wof:placetype":"locality",

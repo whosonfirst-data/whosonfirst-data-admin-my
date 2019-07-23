@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u043d\u0442\u0435\u043a\u0430\u0431"
     ],
+    "name:ceb_x_preferred":[
+        "Mentekab"
+    ],
     "name:eng_x_preferred":[
         "Mentakab"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Mentakab"
+    ],
+    "name:zho_x_preferred":[
+        "\u6587\u5fb7\u7532"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":102023293,
-    "wof:lastmodified":1561751657,
+    "wof:lastmodified":1563238562,
     "wof:name":"Mentekab",
     "wof:parent_id":890489541,
     "wof:placetype":"locality",

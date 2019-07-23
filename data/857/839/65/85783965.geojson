@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2032328.177839,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.611229,3.158678,101.611229,3.158678",
     "geom:latitude":3.158678,
     "geom:longitude":101.611229,
@@ -24,11 +24,23 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Mutiara Damansara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30c6\u30a3\u30a2\u30e9 \u30c0\u30de\u30f3\u30b5\u30e9"
+    ],
+    "name:msa_x_preferred":[
+        "Mutiara Damansara"
+    ],
     "name:und_x_preferred":[
         "Mutiara Damansara"
     ],
     "name:unk_x_variant":[
         "Mutiara Damansara"
+    ],
+    "name:zho_x_preferred":[
+        "\u73cd\u73e0\u767d\u6c99\u7f85"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_id":0,
@@ -61,11 +73,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":288,
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023395,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860565,
+    "wof:lastmodified":1563239050,
     "wof:name":"Mutiara Damansara",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

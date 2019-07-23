@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003252,
-    "geom:area_square_m":40056451.994238,
+    "geom:area_square_m":40056451.994245,
     "geom:bbox":"100.40052751,4.98887819694,100.495468238,5.07262981927",
     "geom:latitude":5.025733,
     "geom:longitude":100.442973,
@@ -18,11 +18,20 @@
     "mps:longitude":100.450169,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuala Kurau"
+    ],
     "name:msa_x_preferred":[
+        "Kuala Kurau"
+    ],
+    "name:nld_x_preferred":[
         "Kuala Kurau"
     ],
     "name:unk_x_variant":[
         "Kuala Kura"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u62c9\u53e4\u697c"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Perak",
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":102023355,
-    "wof:lastmodified":1527636452,
+    "wof:lastmodified":1563238534,
     "wof:name":"Kuala Kurau",
     "wof:parent_id":890489801,
     "wof:placetype":"locality",

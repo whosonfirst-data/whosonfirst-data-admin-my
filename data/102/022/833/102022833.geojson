@@ -26,11 +26,17 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0647 \u0639\u0627\u0644\u0645"
     ],
+    "name:azb_x_preferred":[
+        "\u0634\u0627\u0647 \u0639\u0627\u0644\u0645"
+    ],
     "name:ben_x_preferred":[
         "\u09b6\u09be\u09b9 \u0986\u09b2\u09ae"
     ],
     "name:bul_x_preferred":[
         "\u0428\u0430\u0445 \u0410\u043b\u0430\u043c"
+    ],
+    "name:ceb_x_preferred":[
+        "Shah Alam"
     ],
     "name:dan_x_preferred":[
         "Shah Alam"
@@ -62,6 +68,9 @@
     "name:hak_x_preferred":[
         "S\u00e2-\u00e2-n\u00e0m"
     ],
+    "name:hak_x_variant":[
+        "Shah Alam"
+    ],
     "name:hin_x_preferred":[
         "\u0936\u093e\u0939 \u0906\u0932\u092e"
     ],
@@ -91,6 +100,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u838e\u963f\u5357"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d37\u0d3e \u0d06\u0d32\u0d02"
     ],
     "name:mar_x_preferred":[
         "\u0936\u093e\u0939 \u0906\u0932\u092e"
@@ -163,6 +175,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0634\u0627\u06c1 \u0639\u0627\u0644\u0645\u060c \u0645\u0644\u0627\u0626\u06cc\u0634\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0634\u0627\u06c1 \u0639\u0627\u0644\u0645"
     ],
     "name:vie_x_preferred":[
         "Shah Alam"
@@ -325,7 +340,7 @@
         }
     ],
     "wof:id":102022833,
-    "wof:lastmodified":1561751668,
+    "wof:lastmodified":1563238662,
     "wof:name":"Shah Alam",
     "wof:parent_id":890490605,
     "wof:placetype":"locality",

@@ -19,8 +19,14 @@
     "mps:longitude":101.42373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Batang Berjuntai"
+    ],
     "name:eng_x_preferred":[
         "Bestari Jaya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30b9\u30bf\u30ea\u30fb\u30b8\u30e3\u30e4"
     ],
     "name:msa_x_preferred":[
         "Bestari Jaya"
@@ -30,6 +36,9 @@
     ],
     "name:unk_x_variant":[
         "Betang Berjuntai"
+    ],
+    "name:zho_x_preferred":[
+        "\u516b\u4e01\u71d5\u5e26"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Selangor",
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":102022827,
-    "wof:lastmodified":1561751668,
+    "wof:lastmodified":1563238653,
     "wof:name":"Batang Berjuntai",
     "wof:parent_id":890488801,
     "wof:placetype":"locality",

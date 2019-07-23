@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7055901.626701,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.551903,1.530373,103.551903,1.530373",
     "geom:latitude":1.530373,
     "geom:longitude":103.551903,
@@ -30,7 +30,8 @@
     ],
     "name:eng_x_variant":[
         "Kangkar Pulai Village",
-        "Pulai"
+        "Pulai",
+        "Kangkar Pulai"
     ],
     "name:epo_x_preferred":[
         "Kangkar Pulai"
@@ -44,6 +45,9 @@
     "name:unk_x_variant":[
         "Pulai",
         "Kampung Kangkar Pulai"
+    ],
+    "name:yue_x_preferred":[
+        "\u84b2\u4f86"
     ],
     "name:zho_yue_x_preferred":[
         "\u84b2\u4f86"
@@ -80,10 +84,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":732,
     "wof:belongsto":[
+        85675141,
         102191569,
         85632739,
-        1108696403,
-        85675141
+        1108696403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859454,
+    "wof:lastmodified":1563239054,
     "wof:name":"Kampung Kangkar Pulai",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

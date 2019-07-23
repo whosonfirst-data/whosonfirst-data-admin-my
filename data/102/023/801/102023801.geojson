@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Serian"
     ],
+    "name:ceb_x_preferred":[
+        "Serian"
+    ],
     "name:ces_x_preferred":[
         "Serian"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:eng_x_preferred":[
         "Serian"
+    ],
+    "name:eng_x_variant":[
+        "Serian Division"
     ],
     "name:epo_x_preferred":[
         "Serian"
@@ -131,6 +137,9 @@
     ],
     "name:msa_x_preferred":[
         "Serian"
+    ],
+    "name:msa_x_variant":[
+        "Bahagian Serian"
     ],
     "name:nap_x_preferred":[
         "Serian"
@@ -219,6 +228,9 @@
     "name:zho_x_preferred":[
         "\u897f\u9023\u7701"
     ],
+    "name:zho_x_variant":[
+        "\u897f\u8fde\u53bf"
+    ],
     "name:zul_x_preferred":[
         "Serian"
     ],
@@ -268,7 +280,7 @@
         }
     ],
     "wof:id":102023801,
-    "wof:lastmodified":1561751664,
+    "wof:lastmodified":1563238626,
     "wof:name":"Serian",
     "wof:parent_id":1108696511,
     "wof:placetype":"locality",

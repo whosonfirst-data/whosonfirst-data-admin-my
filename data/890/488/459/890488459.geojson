@@ -16,8 +16,20 @@
     "iso:country":"MY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Simpang Empat"
+    ],
+    "name:ind_x_preferred":[
+        "Simpang Empat"
+    ],
     "name:msa_x_preferred":[
         "Simpang Ampat"
+    ],
+    "name:msa_x_variant":[
+        "Simpang Empat"
+    ],
+    "name:nld_x_preferred":[
+        "Simpang Empat"
     ],
     "qs:name":"Simpang Ampat",
     "qs:name_adm0":"Malaysia",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":890488459,
-    "wof:lastmodified":1527787081,
+    "wof:lastmodified":1563240668,
     "wof:name":"Simpang Ampat",
     "wof:parent_id":890489801,
     "wof:placetype":"locality",

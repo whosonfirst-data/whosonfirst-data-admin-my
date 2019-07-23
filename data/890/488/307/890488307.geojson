@@ -16,8 +16,20 @@
     "iso:country":"MY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Morib"
+    ],
+    "name:ind_x_preferred":[
+        "Morib"
+    ],
+    "name:msa_x_preferred":[
+        "Pantai Morib"
+    ],
     "name:unk_x_variant":[
         "Kampong Morib"
+    ],
+    "name:zho_x_preferred":[
+        "\u6469\u7acb"
     ],
     "qs:name":"Morib",
     "qs:name_adm0":"Malaysia",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":890488307,
-    "wof:lastmodified":1527787073,
+    "wof:lastmodified":1563240597,
     "wof:name":"Morib",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

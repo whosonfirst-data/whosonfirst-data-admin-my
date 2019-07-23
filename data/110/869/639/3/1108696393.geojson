@@ -49,6 +49,9 @@
     "name:cat_x_preferred":[
         "Cameron Highlands"
     ],
+    "name:ceb_x_preferred":[
+        "Cameron Highlands"
+    ],
     "name:ces_x_preferred":[
         "Cameron Highlands"
     ],
@@ -68,7 +71,8 @@
         "Cameron Highlands"
     ],
     "name:eng_x_variant":[
-        "CAMERON HIGHLAND"
+        "CAMERON HIGHLAND",
+        "Cameron Highlands District"
     ],
     "name:epo_x_preferred":[
         "Kamerona Montaro"
@@ -247,6 +251,9 @@
     "name:zho_x_preferred":[
         "\u91d1\u99ac\u5d19\u9ad8\u539f"
     ],
+    "name:zho_x_variant":[
+        "\u91d1\u9a6c\u4ed1\u9ad8\u539f\u53bf"
+    ],
     "name:zul_x_preferred":[
         "Cameron Highlands"
     ],
@@ -286,7 +293,7 @@
         }
     ],
     "wof:id":1108696393,
-    "wof:lastmodified":1561751742,
+    "wof:lastmodified":1563240125,
     "wof:name":"Cameron Highlands",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

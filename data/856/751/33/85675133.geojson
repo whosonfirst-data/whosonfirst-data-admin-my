@@ -34,8 +34,14 @@
     "name:ara_x_preferred":[
         "\u0642\u062f\u062d"
     ],
+    "name:ast_x_preferred":[
+        "Kedah"
+    ],
     "name:aze_x_preferred":[
         "Kedah"
+    ],
+    "name:bak_x_preferred":[
+        "\u041a\u0435\u0434\u0430\u0445"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09a6\u09be\u09b9"
@@ -50,6 +56,9 @@
         "Kedah"
     ],
     "name:cdo_x_preferred":[
+        "Kedah"
+    ],
+    "name:ceb_x_preferred":[
         "Kedah"
     ],
     "name:dan_x_preferred":[
@@ -69,6 +78,12 @@
     ],
     "name:epo_x_preferred":[
         "Kedaho"
+    ],
+    "name:est_x_preferred":[
+        "Kedah"
+    ],
+    "name:eus_x_preferred":[
+        "Kedah"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u062f\u0627\u062d"
@@ -117,6 +132,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud06c\ub2e4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud06c\ub2e4\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Kedaha"
@@ -175,11 +193,17 @@
     "name:tam_x_preferred":[
         "\u0b95\u0b9f\u0bbe\u0bb0\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bc6\u0b9f\u0bbe"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c46\u0c21\u0c3e\u0c39\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e40\u0e01\u0e14\u0e30\u0e2b\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e40\u0e01\u0e2d\u0e14\u0e30\u0e2e\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Kedah"
@@ -201,6 +225,9 @@
     ],
     "name:war_x_preferred":[
         "Kedah"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5409\u6253"
     ],
     "name:yue_x_preferred":[
         "\u5409\u6253"
@@ -338,7 +365,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1561751693,
+    "wof:lastmodified":1563239065,
     "wof:name":"Kedah",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

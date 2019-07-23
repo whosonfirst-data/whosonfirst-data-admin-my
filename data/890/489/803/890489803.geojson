@@ -32,6 +32,9 @@
     "mps:longitude":102.173259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tumpat"
+    ],
     "name:deu_x_preferred":[
         "Tumpat"
     ],
@@ -59,11 +62,17 @@
     "name:spa_x_preferred":[
         "Tumpat"
     ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e38\u0e21\u0e1b\u0e31\u0e15"
+    ],
     "name:vie_x_preferred":[
         "Tumpat"
     ],
     "name:zho_x_preferred":[
         "\u9053\u5317"
+    ],
+    "name:zho_x_variant":[
+        "\u9053\u5317\u53bf"
     ],
     "qs:name":"Tumpat",
     "qs:name_adm0":"Malaysia",
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":890489803,
-    "wof:lastmodified":1561751767,
+    "wof:lastmodified":1563240710,
     "wof:name":"Tumpat",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

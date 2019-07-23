@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8385648.626786,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.760613,3.052837,101.760613,3.052837",
     "geom:latitude":3.052837,
     "geom:longitude":101.760613,
@@ -24,7 +24,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Bandar Tun Hussein Onn"
+    ],
     "name:msa_x_preferred":[
+        "Bandar Tun Hussein Onn"
+    ],
+    "name:nld_x_preferred":[
         "Bandar Tun Hussein Onn"
     ],
     "name:und_x_preferred":[
@@ -65,11 +71,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":214,
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023899,
-        1108696543,
-        85675163
+        1108696543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860616,
+    "wof:lastmodified":1563239024,
     "wof:name":"Bandar Tun Hussein Onn",
     "wof:parent_id":102023899,
     "wof:placetype":"neighbourhood",

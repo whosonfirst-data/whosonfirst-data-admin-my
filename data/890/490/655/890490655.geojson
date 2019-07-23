@@ -16,8 +16,14 @@
     "iso:country":"MY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pertang"
+    ],
     "name:msa_x_preferred":[
         "Pertang"
+    ],
+    "name:zho_x_preferred":[
+        "Mercang"
     ],
     "qs:name":"Pertang",
     "qs:name_adm0":"Malaysia",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":890490655,
-    "wof:lastmodified":1527734159,
+    "wof:lastmodified":1563240574,
     "wof:name":"Pertang",
     "wof:parent_id":890488317,
     "wof:placetype":"locality",

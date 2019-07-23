@@ -16,6 +16,12 @@
     "iso:country":"MY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Simpang"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u90a6"
+    ],
     "qs:name":"Simpang",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Perak",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":890490143,
-    "wof:lastmodified":1527732955,
+    "wof:lastmodified":1563240546,
     "wof:name":"Simpang",
     "wof:parent_id":890490803,
     "wof:placetype":"locality",

@@ -96,6 +96,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e15\u0e07"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e1a\u0e2d\u0e15\u0e07"
+    ],
     "name:tur_x_preferred":[
         "Betong"
     ],
@@ -104,6 +107,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u062a\u0648\u0646\u062c \u060c \u0633\u0627\u0631\u0627\u0648\u0627\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u06cc\u062a\u0648\u0646\u062c "
     ],
     "name:vie_x_preferred":[
         "Betong"
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":102023729,
-    "wof:lastmodified":1561751666,
+    "wof:lastmodified":1563238643,
     "wof:name":"Betong",
     "wof:parent_id":1108696391,
     "wof:placetype":"locality",

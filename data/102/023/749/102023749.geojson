@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000507,
-    "geom:area_square_m":6262559.358267,
+    "geom:area_square_m":6262559.358266,
     "geom:bbox":"114.287278284,2.62126364479,114.382155623,2.68323641022",
     "geom:latitude":2.652249,
     "geom:longitude":114.334719,
@@ -18,7 +18,22 @@
     "mps:longitude":114.373169,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Belaga"
+    ],
+    "name:eng_x_preferred":[
+        "Belaga"
+    ],
+    "name:fra_x_preferred":[
+        "Belaga"
+    ],
+    "name:ind_x_preferred":[
+        "Belaga"
+    ],
     "name:msa_x_preferred":[
+        "Belaga"
+    ],
+    "name:nld_x_preferred":[
         "Belaga"
     ],
     "name:unk_x_variant":[
@@ -26,6 +41,9 @@
     ],
     "name:vie_x_preferred":[
         "Belaga"
+    ],
+    "name:zho_x_preferred":[
+        "\u5deb\u62c9\u7532"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -64,7 +82,7 @@
         }
     ],
     "wof:id":102023749,
-    "wof:lastmodified":1527636456,
+    "wof:lastmodified":1563238575,
     "wof:name":"Belaga",
     "wof:parent_id":1108696387,
     "wof:placetype":"locality",

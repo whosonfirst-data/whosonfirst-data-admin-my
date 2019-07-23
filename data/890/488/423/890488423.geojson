@@ -36,8 +36,14 @@
         "Sibu"
     ],
     "name:eng_x_variant":[
-        "Sibu",
-        "SIBU"
+        "SIBU",
+        "Sibu District"
+    ],
+    "name:msa_x_preferred":[
+        "Daerah Sibu"
+    ],
+    "name:vie_x_preferred":[
+        "Sibu"
     ],
     "qs:name":"Division Sibu",
     "qs:name_adm0":"Malaysia",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":890488423,
-    "wof:lastmodified":1553717808,
+    "wof:lastmodified":1563240615,
     "wof:name":"Sibu",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

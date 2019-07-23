@@ -52,6 +52,9 @@
     "name:cdo_x_preferred":[
         "Perlis"
     ],
+    "name:ceb_x_preferred":[
+        "Perlis"
+    ],
     "name:ces_x_preferred":[
         "Perlis"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:epo_x_preferred":[
         "Perliso"
+    ],
+    "name:eus_x_preferred":[
+        "Perlis"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u0644\u06cc\u0633"
@@ -114,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud504\ub97c\ub9ac\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud504\ub97c\ub9ac\uc2a4\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Perlis"
@@ -331,7 +340,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1561751695,
+    "wof:lastmodified":1563239076,
     "wof:name":"Perlis",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

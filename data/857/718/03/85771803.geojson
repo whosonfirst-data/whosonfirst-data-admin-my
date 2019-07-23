@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000519,
-    "geom:area_square_m":6414158.396387,
+    "geom:area_square_m":6414158.396391,
     "geom:bbox":"101.694167896,3.03355484203,101.724172363,3.06047272643",
     "geom:latitude":3.046399,
     "geom:longitude":101.708205,
@@ -32,12 +32,18 @@
         "Sungei Besi",
         "Sungi Besi"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30f3\u30ac\u30a4\u30fb\u30d6\u30b7"
+    ],
     "name:msa_x_preferred":[
         "Sungai Besi"
     ],
     "name:unk_x_variant":[
         "Sungei Besi",
         "Sungai Besi"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u8857\u5834"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -101,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379384,
+    "wof:lastmodified":1563239058,
     "wof:name":"Sungai Besi",
     "wof:parent_id":102023799,
     "wof:placetype":"neighbourhood",

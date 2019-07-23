@@ -18,8 +18,17 @@
     "mps:longitude":102.900865,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bandar Tun Razak"
+    ],
+    "name:eng_x_preferred":[
+        "Bandar Tun Razak"
+    ],
     "name:msa_x_preferred":[
         "Bandar Tun Razak"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5f8b\u5cc7\u767b\u53f8\u5357\u99ac\u7e23"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":102023997,
-    "wof:lastmodified":1527636452,
+    "wof:lastmodified":1563238533,
     "wof:name":"Bandar Tun Razak",
     "wof:parent_id":1108696497,
     "wof:placetype":"locality",

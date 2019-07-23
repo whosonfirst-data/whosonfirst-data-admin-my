@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":3137525.795098,
+    "geom:area_square_m":3137525.795094,
     "geom:bbox":"117.077734863,7.16270468043,117.095849119,7.18079645504",
     "geom:latitude":7.171751,
     "geom:longitude":117.086792,
@@ -17,8 +17,60 @@
     "mps:latitude":7.17175,
     "mps:longitude":117.086792,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0628\u0627\u0646\u062c\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Banqi adas\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Pulau Banggi"
+    ],
+    "name:deu_x_preferred":[
+        "Pulau Banggi"
+    ],
+    "name:eng_x_preferred":[
+        "Banggi Island"
+    ],
+    "name:fra_x_preferred":[
+        "\u00eele Banggi"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Banggi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30b8\u5cf6"
+    ],
+    "name:msa_x_preferred":[
+        "Pulau Banggi"
+    ],
+    "name:nld_x_preferred":[
+        "Pulau Banggi"
+    ],
+    "name:nob_x_preferred":[
+        "Banggi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0433\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Banggi"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0b99\u0bcd\u0b95\u0bbf \u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd"
+    ],
     "name:unk_x_variant":[
         "Binguey"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u0628\u0627\u0646\u06af\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Banggi"
+    ],
+    "name:zho_x_preferred":[
+        "\u90a6\u5409\u5cf6"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -57,7 +109,7 @@
         }
     ],
     "wof:id":102023665,
-    "wof:lastmodified":1501222133,
+    "wof:lastmodified":1563238624,
     "wof:name":"Pulau Banggi",
     "wof:parent_id":1108696431,
     "wof:placetype":"locality",

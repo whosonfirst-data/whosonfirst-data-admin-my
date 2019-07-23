@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0627 \u0628\u0647\u0627\u0631\u0648"
     ],
+    "name:aze_x_preferred":[
+        "Kota Baru"
+    ],
+    "name:bar_x_preferred":[
+        "Kota Bharu"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u099f\u09be \u09ad\u09be\u09b0\u09c1"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u0442\u0430 \u0411\u0430\u0440\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Kota Bharu"
     ],
     "name:dan_x_preferred":[
         "Kota Bharu"
@@ -69,6 +78,9 @@
     ],
     "name:hak_x_preferred":[
         "K\u00f4-t\u00e1-ha\u030dp-l\u00fb-s\u1e73"
+    ],
+    "name:hak_x_variant":[
+        "Khota Bharu"
     ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u0924\u093e \u092d\u093e\u0930\u0942"
@@ -124,6 +136,9 @@
     "name:pol_x_preferred":[
         "Kota Bahru"
     ],
+    "name:pol_x_variant":[
+        "Kota Bharu"
+    ],
     "name:por_x_preferred":[
         "Kota Bharu"
     ],
@@ -168,6 +183,9 @@
     ],
     "name:war_x_preferred":[
         "Kota Bharu"
+    ],
+    "name:yue_x_preferred":[
+        "\u54e5\u6253\u5cc7\u9b6f"
     ],
     "name:zho_x_preferred":[
         "\u54e5\u6253\u5df4\u9c81"
@@ -225,7 +243,7 @@
         }
     ],
     "wof:id":1125916617,
-    "wof:lastmodified":1561751771,
+    "wof:lastmodified":1563240787,
     "wof:name":"Kota Baharu",
     "wof:parent_id":890489783,
     "wof:placetype":"locality",
