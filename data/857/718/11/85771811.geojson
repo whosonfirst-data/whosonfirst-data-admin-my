@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4831341.65325,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.699265,1.480929,103.699265,1.480929",
     "geom:latitude":1.480929,
     "geom:longitude":103.699265,
@@ -30,6 +30,9 @@
     "name:eng_x_variant":[
         "Pengkalan Rinting",
         "Tampoi Village"
+    ],
+    "name:msa_x_preferred":[
+        "Tampoi"
     ],
     "name:unk_x_variant":[
         "Tampoi"
@@ -64,11 +67,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":22,
     "wof:belongsto":[
+        85675141,
         102191569,
         85632739,
         102022781,
-        1108696403,
-        85675141
+        1108696403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859460,
+    "wof:lastmodified":1564190421,
     "wof:name":"Tampoi",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

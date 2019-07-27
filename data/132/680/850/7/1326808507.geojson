@@ -26,8 +26,14 @@
     "iso:country":"MY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Saratok"
+    ],
     "name:und_x_variant":[
         "Seratok",
+        "Saratok"
+    ],
+    "name:vie_x_preferred":[
         "Saratok"
     ],
     "src:geom":"geonames",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1326808507,
-    "wof:lastmodified":1537673746,
+    "wof:lastmodified":1564189480,
     "wof:name":"Saratok",
     "wof:parent_id":1108696501,
     "wof:placetype":"locality",

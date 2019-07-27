@@ -21,6 +21,12 @@
     "name:msa_x_preferred":[
         "Bayan Lepas"
     ],
+    "name:vie_x_preferred":[
+        "Bayan Lepas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5cc7\u516d\u62dc"
+    ],
     "qs_pg:aaroncc":"MY",
     "qs_pg:gn_country":"MY",
     "qs_pg:gn_fcode":"PPL",
@@ -48,11 +54,11 @@
     "woe:name_adm1":"Pulau Pinang",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023363,
-        890489155,
-        85675127
+        890489155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1126065275,
-    "wof:lastmodified":1509410391,
+    "wof:lastmodified":1564192183,
     "wof:name":"Bayan Lepas",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

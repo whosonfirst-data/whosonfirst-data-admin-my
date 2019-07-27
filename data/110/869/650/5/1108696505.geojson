@@ -38,6 +38,15 @@
         "Selangau",
         "SELANGAU"
     ],
+    "name:msa_x_preferred":[
+        "Selangau"
+    ],
+    "name:vie_x_preferred":[
+        "Selangau"
+    ],
+    "name:zho_x_preferred":[
+        "\u5be6\u862d\u6e9d"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":1108696505,
-    "wof:lastmodified":1553718304,
+    "wof:lastmodified":1564191514,
     "wof:name":"Selangau",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

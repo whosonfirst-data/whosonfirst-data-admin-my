@@ -25,8 +25,14 @@
     "iso:country":"MY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Teluk Sengat"
+    ],
     "name:msa_x_preferred":[
         "Kampung Teluk Sengat"
+    ],
+    "name:msa_x_variant":[
+        "Teluk Sengat"
     ],
     "name:und_x_variant":[
         "Telok Sengat",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1293407575,
-    "wof:lastmodified":1537673839,
+    "wof:lastmodified":1564190544,
     "wof:name":"Kampung Teluk Sengat",
     "wof:parent_id":890491003,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:epo_x_preferred":[
+        "Tanjung Rambutan"
+    ],
     "name:msa_x_preferred":[
         "Tanjung Rambutan"
     ],
@@ -48,11 +51,11 @@
     "woe:name_adm1":"Perak",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85675123,
         102191569,
         85632739,
         102023021,
-        890490953,
-        85675123
+        890490953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126072415,
-    "wof:lastmodified":1509410745,
+    "wof:lastmodified":1564192184,
     "wof:name":"Tanjung Rambutan",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

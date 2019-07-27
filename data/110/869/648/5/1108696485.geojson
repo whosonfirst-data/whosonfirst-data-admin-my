@@ -38,6 +38,9 @@
         "Pitas",
         "PITAS"
     ],
+    "name:nld_x_preferred":[
+        "Pitas"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108696485,
-    "wof:lastmodified":1553718304,
+    "wof:lastmodified":1564191520,
     "wof:name":"Pitas",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

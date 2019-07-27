@@ -25,8 +25,14 @@
     "iso:country":"MY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Paroi"
+    ],
     "name:msa_x_preferred":[
         "Kampung Baharu Paroi"
+    ],
+    "name:msa_x_variant":[
+        "Paroi"
     ],
     "name:und_x_variant":[
         "Paroi New Village",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1360089731,
-    "wof:lastmodified":1537674194,
+    "wof:lastmodified":1564191765,
     "wof:name":"Kampung Baharu Paroi",
     "wof:parent_id":890489719,
     "wof:placetype":"locality",

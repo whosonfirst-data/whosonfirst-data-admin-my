@@ -38,6 +38,9 @@
         "Pakan",
         "PAKAN"
     ],
+    "name:vie_x_preferred":[
+        "Pakan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108696475,
-    "wof:lastmodified":1553718301,
+    "wof:lastmodified":1564191515,
     "wof:name":"Pakan",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

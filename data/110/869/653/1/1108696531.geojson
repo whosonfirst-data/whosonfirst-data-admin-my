@@ -38,6 +38,15 @@
         "Tatau",
         "TATAU"
     ],
+    "name:epo_x_preferred":[
+        "Tatau"
+    ],
+    "name:msa_x_preferred":[
+        "Tatau"
+    ],
+    "name:vie_x_preferred":[
+        "Tatau"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":1108696531,
-    "wof:lastmodified":1553718305,
+    "wof:lastmodified":1564191525,
     "wof:name":"Tatau",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

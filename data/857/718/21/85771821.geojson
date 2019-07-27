@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000498,
-    "geom:area_square_m":6153920.248083,
+    "geom:area_square_m":6153920.248081,
     "geom:bbox":"101.621774902,3.20553893565,101.658254395,3.22827100755",
     "geom:latitude":3.217454,
     "geom:longitude":101.642023,
@@ -33,6 +33,9 @@
     ],
     "name:unk_x_variant":[
         "Kepong"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u067e\u0648\u0646\u06af"
     ],
     "name:zho_x_preferred":[
         "\u7532\u6d1e"
@@ -68,7 +71,7 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
-        0,
+        102191569,
         85632739,
         102023407,
         890490945
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497312715,
+    "wof:lastmodified":1564190422,
     "wof:name":"Kepong",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

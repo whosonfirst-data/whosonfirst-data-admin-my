@@ -28,8 +28,14 @@
     "name:msa_x_preferred":[
         "Bandar Sungai Mati"
     ],
+    "name:msa_x_variant":[
+        "Sungai Mati"
+    ],
     "name:und_x_variant":[
         "Sungai Mati"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u8c50\u6e2f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1209328657,
-    "wof:lastmodified":1537673671,
+    "wof:lastmodified":1564191196,
     "wof:name":"Bandar Sungai Mati",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",

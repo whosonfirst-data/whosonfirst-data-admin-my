@@ -25,8 +25,14 @@
     "iso:country":"MY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Ampangan"
+    ],
     "name:msa_x_preferred":[
         "Kampung Ampangan"
+    ],
+    "name:msa_x_variant":[
+        "Ampangan"
     ],
     "name:und_x_variant":[
         "Ampangan"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1344180013,
-    "wof:lastmodified":1537674227,
+    "wof:lastmodified":1564190298,
     "wof:name":"Kampung Ampangan",
     "wof:parent_id":890489719,
     "wof:placetype":"locality",

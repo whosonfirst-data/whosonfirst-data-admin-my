@@ -38,6 +38,15 @@
         "Lawas",
         "LAWAS"
     ],
+    "name:fra_x_preferred":[
+        "Lawas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0432\u0430\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "Lawas"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":1108696445,
-    "wof:lastmodified":1553718301,
+    "wof:lastmodified":1564191509,
     "wof:name":"Lawas",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

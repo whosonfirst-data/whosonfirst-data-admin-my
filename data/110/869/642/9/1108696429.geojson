@@ -25,11 +25,26 @@
     "mps:longitude":115.649415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Kuala Penyu"
+    ],
     "name:eng_x_preferred":[
+        "Kuala Penyu"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\uc54c\ub77c\ud508\uc720"
+    ],
+    "name:msa_x_preferred":[
+        "Kuala Penyu"
+    ],
+    "name:nor_x_preferred":[
         "Kuala Penyu"
     ],
     "name:und_x_variant":[
         "KUALA PENYU"
+    ],
+    "name:vie_x_preferred":[
+        "Kuala Penyu"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1108696429,
-    "wof:lastmodified":1543959489,
+    "wof:lastmodified":1564191510,
     "wof:name":"Kuala Penyu",
     "wof:parent_id":85675173,
     "wof:placetype":"county",
