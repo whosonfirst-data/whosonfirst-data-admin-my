@@ -25,8 +25,23 @@
     "iso:country":"MY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Tapai"
+    ],
+    "name:jav_x_preferred":[
+        "Tap\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30d1\u30a4"
+    ],
     "name:msa_x_preferred":[
         "Tapai"
+    ],
+    "name:spa_x_preferred":[
+        "Tapai"
+    ],
+    "name:sun_x_preferred":[
+        "Peuyeum"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1242646899,
-    "wof:lastmodified":1537674377,
+    "wof:lastmodified":1564192426,
     "wof:name":"Tapai",
     "wof:parent_id":1108696525,
     "wof:placetype":"locality",

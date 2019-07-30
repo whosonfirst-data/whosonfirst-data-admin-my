@@ -28,6 +28,12 @@
     "name:msa_x_preferred":[
         "Bagan Sungai Lang"
     ],
+    "name:msa_x_variant":[
+        "Bandar Sungai Long"
+    ],
+    "name:zho_x_preferred":[
+        "\u53cc\u6eaa\u9f99"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1310385579,
-    "wof:lastmodified":1537674225,
+    "wof:lastmodified":1564191572,
     "wof:name":"Bagan Sungai Lang",
     "wof:parent_id":890490813,
     "wof:placetype":"locality",

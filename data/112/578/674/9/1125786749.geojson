@@ -18,8 +18,44 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u09ae\u09c7\u09b2\u09c1\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Melur"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0947\u0932\u0941\u0930"
+    ],
+    "name:ita_x_preferred":[
+        "Melur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30fc\u30eb\u30fc\u30eb"
+    ],
+    "name:mlg_x_preferred":[
+        "Melur"
+    ],
+    "name:msa_x_preferred":[
+        "Melur"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0947\u0932\u0941\u0930"
+    ],
+    "name:swe_x_preferred":[
+        "Melur"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+    ],
     "name:unk_x_variant":[
         "Melor"
+    ],
+    "name:vie_x_preferred":[
+        "Melur"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5362\u5c14"
     ],
     "qs_pg:aaroncc":"MY",
     "qs_pg:gn_country":"MY",
@@ -68,7 +104,7 @@
         }
     ],
     "wof:id":1125786749,
-    "wof:lastmodified":1509392022,
+    "wof:lastmodified":1564192184,
     "wof:name":"Melur",
     "wof:parent_id":890489783,
     "wof:placetype":"locality",

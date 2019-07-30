@@ -29,6 +29,9 @@
     "name:msa_x_preferred":[
         "Bukit Tengah"
     ],
+    "name:msa_x_variant":[
+        "Bukit Mertajam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1343758787,
-    "wof:lastmodified":1537674220,
+    "wof:lastmodified":1564190359,
     "wof:name":"Bukit Tengah",
     "wof:parent_id":890489737,
     "wof:placetype":"locality",

@@ -28,6 +28,21 @@
     "name:msa_x_preferred":[
         "Selayang Baru Utara"
     ],
+    "name:msa_x_variant":[
+        "Bandar Baru Selayang"
+    ],
+    "name:nld_x_preferred":[
+        "Selayang Baru"
+    ],
+    "name:pol_x_preferred":[
+        "Selayang Baru"
+    ],
+    "name:vie_x_preferred":[
+        "Selayang Baru"
+    ],
+    "name:war_x_preferred":[
+        "Bandar Baru Selayang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1226522577,
-    "wof:lastmodified":1537674395,
+    "wof:lastmodified":1564192912,
     "wof:name":"Selayang Baru Utara",
     "wof:parent_id":1108696399,
     "wof:placetype":"locality",

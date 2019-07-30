@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000066,
-    "geom:area_square_m":815182.978267,
+    "geom:area_square_m":815182.978266,
     "geom:bbox":"101.674351035,3.1343445281,101.689453125,3.14051610398",
     "geom:latitude":3.137773,
     "geom:longitude":101.68219,
@@ -24,6 +24,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Federal Hill"
+    ],
+    "name:deu_x_preferred":[
+        "Federal Hill"
+    ],
+    "name:nld_x_preferred":[
+        "Federal Hill"
+    ],
     "name:und_x_preferred":[
         "Federal Hill"
     ],
@@ -87,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269521,
+    "wof:lastmodified":1564190410,
     "wof:name":"Federal Hill",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

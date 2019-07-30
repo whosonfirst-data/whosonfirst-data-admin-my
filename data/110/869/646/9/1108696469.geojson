@@ -38,6 +38,18 @@
         "Mukah",
         "MUKAH"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06a9\u0627\u062d"
+    ],
+    "name:ind_x_preferred":[
+        "Mukah"
+    ],
+    "name:msa_x_preferred":[
+        "Mukah"
+    ],
+    "name:vie_x_preferred":[
+        "Mukah"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":1108696469,
-    "wof:lastmodified":1553718302,
+    "wof:lastmodified":1564191518,
     "wof:name":"Mukah",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

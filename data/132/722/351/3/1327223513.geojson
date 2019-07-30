@@ -30,7 +30,14 @@
         "Macang Bubuk"
     ],
     "name:msa_x_variant":[
-        "Machang Bubok"
+        "Machang Bubok",
+        "Machang Bubuk"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0686\u0627\u0646\u06af \u0628\u0648\u0628\u0648\u06a9"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u7ae0\u6b66\u83ab"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":1327223513,
-    "wof:lastmodified":1537674246,
+    "wof:lastmodified":1564189581,
     "wof:name":"Machang Bubok",
     "wof:parent_id":890489737,
     "wof:placetype":"locality",

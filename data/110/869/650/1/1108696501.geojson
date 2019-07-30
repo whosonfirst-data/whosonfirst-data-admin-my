@@ -38,6 +38,12 @@
         "Saratok",
         "SARATOK"
     ],
+    "name:msa_x_preferred":[
+        "Saratok"
+    ],
+    "name:vie_x_preferred":[
+        "Saratok"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108696501,
-    "wof:lastmodified":1553718304,
+    "wof:lastmodified":1564191513,
     "wof:name":"Saratok",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

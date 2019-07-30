@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002011,
-    "geom:area_square_m":24760859.241842,
+    "geom:area_square_m":24760859.241829,
     "geom:bbox":"100.480957031,5.17848208852,100.550402407,5.22581946229",
     "geom:latitude":5.202705,
     "geom:longitude":100.52076,
@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u062c\u0627\u0648\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Jawi"
     ],
     "name:hbs_x_preferred":[
         "Jawi"
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":102023893,
-    "wof:lastmodified":1527636455,
+    "wof:lastmodified":1564190035,
     "wof:name":"Jawi",
     "wof:parent_id":1108696503,
     "wof:placetype":"locality",

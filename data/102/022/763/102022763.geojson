@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026655,
-    "geom:area_square_m":329485390.399366,
+    "geom:area_square_m":329485390.39942,
     "geom:bbox":"103.300950211,1.27075660612,103.527663973,1.66225640821",
     "geom:latitude":1.501435,
     "geom:longitude":103.426715,
@@ -19,14 +19,23 @@
     "mps:longitude":103.41888,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Pontian Kechil"
+    ],
     "name:msa_x_preferred":[
         "Pontian Kechil"
+    ],
+    "name:pol_x_preferred":[
+        "Pontian Kecil"
     ],
     "name:und_x_preferred":[
         "Pontian"
     ],
     "name:unk_x_variant":[
         "Pontian"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u7b28\u73cd"
     ],
     "qs:a0":"Malaysia",
     "qs:a1":"*Johor",
@@ -77,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1505338973,
+    "wof:lastmodified":1564190048,
     "wof:name":"Pontian Kechil",
     "wof:parent_id":890491001,
     "wof:placetype":"locality",

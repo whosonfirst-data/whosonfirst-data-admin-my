@@ -25,8 +25,17 @@
     "iso:country":"MY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Country Garden"
+    ],
     "name:msa_x_preferred":[
         "Country Garden"
+    ],
+    "name:wuu_x_preferred":[
+        "\u78a7\u6842\u56ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u78a7\u6842\u5712"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1276772801,
-    "wof:lastmodified":1537674333,
+    "wof:lastmodified":1564190951,
     "wof:name":"Country Garden",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

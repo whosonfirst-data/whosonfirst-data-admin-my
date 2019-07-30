@@ -26,8 +26,29 @@
     "iso:country":"MY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bukit Larut"
+    ],
+    "name:ind_x_preferred":[
+        "Bukit Larut"
+    ],
+    "name:ita_x_preferred":[
+        "Bukit Larut"
+    ],
+    "name:msa_x_preferred":[
+        "Bukit Larut"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c69\u1c60\u1c64\u1c5b \u1c5e\u1c5f\u1c68\u1c69\u1c5b"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc6\u0b95\u0bcd\u0b9a\u0bc1\u0bb5\u0bb2\u0bcd \u0bae\u0bb2\u0bc8"
+    ],
     "name:und_x_variant":[
         "Maxwell Hill"
+    ],
+    "name:zho_x_preferred":[
+        "\u592a\u5e73\u5c71"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1293411211,
-    "wof:lastmodified":1537674467,
+    "wof:lastmodified":1564190510,
     "wof:name":"Bukit Larut",
     "wof:parent_id":890490803,
     "wof:placetype":"locality",
