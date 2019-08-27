@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.1964,2.6748,102.2364,2.7148",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Gachong"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209720347,
-    "wof:lastmodified":1537673712,
+    "wof:lastmodified":1566643341,
     "wof:name":"Kampung Gachong",
     "wof:parent_id":890490777,
     "wof:placetype":"locality",

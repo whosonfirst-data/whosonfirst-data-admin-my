@@ -11,11 +11,15 @@
     "geom:longitude":102.5583,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.5383,2.1539,102.5783,2.1939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bukit Kangkar"
     ],
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":1778361,
         "gp:id":1154624,
-        "qs:id":193546,
+        "qs_pg:id":193546,
         "wd:id":"Q4986908",
         "wk:page":"Bukit Kangkar"
     },
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890490647,
-    "wof:lastmodified":1561751761,
+    "wof:lastmodified":1566643904,
     "wof:name":"Bukit Kangkar",
     "wof:parent_id":1108696447,
     "wof:placetype":"locality",

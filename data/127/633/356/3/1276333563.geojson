@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.2385,2.5405,102.2785,2.5805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Ayer Mawang"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276333563,
-    "wof:lastmodified":1537674205,
+    "wof:lastmodified":1566642959,
     "wof:name":"Ayer Mawang",
     "wof:parent_id":890490777,
     "wof:placetype":"locality",

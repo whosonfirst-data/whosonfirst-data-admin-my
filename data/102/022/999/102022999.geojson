@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00668,
-    "geom:area_square_m":82273815.390526,
+    "geom:area_square_m":82273815.390546,
     "geom:bbox":"100.719130732,4.9122636978,100.858016297,5.17111189862",
     "geom:latitude":5.042926,
     "geom:longitude":100.796958,
@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.019175,
     "lbl:longitude":100.81224,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.019175,
     "mps:longitude":100.81224,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Malaysia",
     "qs:a1":"*Perak",
     "qs:a1r":"*",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -47,7 +50,6 @@
     "wof:concordances":{
         "gn:id":1734579,
         "gp:id":1140833,
-        "qs:id":900158,
         "qs_pg:id":900158
     },
     "wof:country":"MY",
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":102022999,
-    "wof:lastmodified":1497301815,
+    "wof:lastmodified":1566642302,
     "wof:name":"Batu Kurau",
     "wof:parent_id":890490803,
     "wof:placetype":"locality",

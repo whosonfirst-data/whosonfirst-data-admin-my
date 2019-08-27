@@ -11,11 +11,14 @@
     "geom:longitude":103.654,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.649,1.5345,103.659,1.5445",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Sri Petri"
     ],
@@ -43,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7857967,
         "gp:id":56017103,
-        "qs:id":1205892
+        "qs_pg:id":1205892
     },
     "wof:country":"MY",
     "wof:created":1469054716,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890488351,
-    "wof:lastmodified":1505343782,
+    "wof:lastmodified":1566643953,
     "wof:name":"Taman Sri Putri",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

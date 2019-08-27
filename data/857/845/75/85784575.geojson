@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4860898.046799,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.2634,5.277467,100.2634,5.277467",
     "geom:latitude":5.277467,
     "geom:longitude":100.2634,
     "iso:country":"MY",
+    "lbl:bbox":"100.2584,5.272467,100.2684,5.282467",
     "lbl:latitude":5.277467,
     "lbl:longitude":100.2634,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.278996,
     "mps:longitude":100.268406,
     "mz:hierarchy_label":0,
@@ -23,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Taman Sri Bayan"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Sri Bayan"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -59,13 +58,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023363,
-        890489155,
-        85675127
+        890489155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860628,
+    "wof:lastmodified":1566642579,
     "wof:name":"Taman Sri Bayan",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

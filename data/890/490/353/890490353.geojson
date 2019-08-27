@@ -11,11 +11,15 @@
     "geom:longitude":110.335,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"110.315,1.54167,110.355,1.58167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Kampung Tanjung",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Sarawak",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1903368,
         "gp:id":28345525,
-        "qs:id":981430
+        "qs_pg:id":981430
     },
     "wof:country":"MY",
     "wof:created":1469054801,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890490353,
-    "wof:lastmodified":1505343788,
+    "wof:lastmodified":1566643870,
     "wof:name":"Kampung Tanjung",
     "wof:parent_id":890488875,
     "wof:placetype":"locality",

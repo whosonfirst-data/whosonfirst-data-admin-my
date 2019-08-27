@@ -11,11 +11,15 @@
     "geom:longitude":100.71426,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.69426,5.94427,100.73426,5.98427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Relong"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1734415,
         "gp:id":1151425,
-        "qs:id":193496
+        "qs_pg:id":193496
     },
     "wof:country":"MY",
     "wof:created":1469054818,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890490621,
-    "wof:lastmodified":1505343789,
+    "wof:lastmodified":1566643877,
     "wof:name":"Kampung Relung",
     "wof:parent_id":1108696471,
     "wof:placetype":"locality",

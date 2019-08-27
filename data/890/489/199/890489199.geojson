@@ -11,8 +11,12 @@
     "geom:longitude":101.576671,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.476671,3.536948,101.676671,3.736948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalumpang"
     ],
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56013704,
-        "qs:id":969610,
+        "qs_pg:id":969610,
         "wd:id":"Q6354600",
         "wk:page":"Kalumpang"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890489199,
-    "wof:lastmodified":1563240738,
+    "wof:lastmodified":1566644005,
     "wof:name":"Kalumpang",
     "wof:parent_id":890489129,
     "wof:placetype":"localadmin",

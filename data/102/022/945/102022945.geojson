@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000935,
-    "geom:area_square_m":11514458.052632,
+    "geom:area_square_m":11514458.052629,
     "geom:bbox":"102.828503517,5.42651382558,102.857531922,5.47740379247",
     "geom:latitude":5.453314,
     "geom:longitude":102.842554,
@@ -14,10 +14,14 @@
     "iso:country":"MY",
     "lbl:latitude":5.456746,
     "lbl:longitude":102.840834,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.456746,
     "mps:longitude":102.840834,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Chalok"
     ],
     "qs:a0":"Malaysia",
@@ -38,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -49,7 +53,6 @@
     "wof:concordances":{
         "gn:id":1734328,
         "gp:id":1151036,
-        "qs:id":193492,
         "qs_pg:id":193492
     },
     "wof:country":"MY",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102022945,
-    "wof:lastmodified":1497290711,
+    "wof:lastmodified":1566642324,
     "wof:name":"Kampung Hulu Caluk",
     "wof:parent_id":1108696513,
     "wof:placetype":"locality",

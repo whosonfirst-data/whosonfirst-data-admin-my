@@ -9,15 +9,18 @@
     "geom:bbox":"101.1849,3.4242,101.1849,3.4242",
     "geom:latitude":3.4242,
     "geom:longitude":101.1849,
-    "gn:gn_country":"MY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":16393,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
     "gn:population":16393,
     "iso:country":"MY",
+    "lbl:bbox":"101.1649,3.4042,101.2049,3.4442",
     "lbl:latitude":3.4242,
     "lbl:longitude":101.1849,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Tanjung Karang"
@@ -32,9 +35,6 @@
         "Tanjung Karang"
     ],
     "name:nld_x_preferred":[
-        "Tanjong Karang"
-    ],
-    "name:unk_x_variant":[
         "Tanjong Karang"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +59,7 @@
     "qs_pg:woe_adm0":23424901,
     "qs_pg:woe_id":56037255,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424901,
     "woe:name_adm0":"Malaysia",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125773183,
-    "wof:lastmodified":1561751772,
+    "wof:lastmodified":1566644032,
     "wof:name":"Kampung Tanjung Ara",
     "wof:parent_id":890488801,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":100.304658,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"100.299658,5.349699,100.309658,5.359699",
     "lbl:latitude":5.354699,
     "lbl:longitude":100.304658,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.355019,
     "mps:longitude":100.303461,
     "mz:hierarchy_label":0,
@@ -57,12 +59,6 @@
     "name:tgl_x_preferred":[
         "Unibersidad ng Agham"
     ],
-    "name:und_x_preferred":[
-        "Universiti Sains Malaysia"
-    ],
-    "name:unk_x_variant":[
-        "Universiti Sains Malaysia"
-    ],
     "name:vie_x_preferred":[
         "\u0110\u1ea1i h\u1ecdc Khoa h\u1ecdc Malaysia"
     ],
@@ -101,7 +97,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2386,
     "wof:belongsto":[
         85675127,
@@ -113,7 +109,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56036469,
-        "qs:id":233904,
         "qs_pg:id":233904,
         "wd:id":"Q1973130"
     },
@@ -133,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563239025,
+    "wof:lastmodified":1566642591,
     "wof:name":"Universiti Sains Malaysia",
     "wof:parent_id":102023367,
     "wof:placetype":"neighbourhood",

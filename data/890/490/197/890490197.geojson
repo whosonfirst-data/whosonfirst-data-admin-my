@@ -11,8 +11,12 @@
     "geom:longitude":101.776336,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.756336,2.950819,101.796336,2.990819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bandar Baru Bangi"
     ],
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":8535633,
         "gp:id":22722938,
-        "qs:id":1179868,
+        "qs_pg:id":1179868,
         "wd:id":"Q3633920",
         "wk:page":"Bandar Baru Bangi"
     },
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890490197,
-    "wof:lastmodified":1563240558,
+    "wof:lastmodified":1566643899,
     "wof:name":"Bandar Baru Bangi",
     "wof:parent_id":1108696543,
     "wof:placetype":"locality",

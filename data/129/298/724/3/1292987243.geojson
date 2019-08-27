@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.3808,4.3568,103.4208,4.3968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Payuh"
     ],
     "name:und_x_variant":[
-        "Kampong Payoh",
-        "Kampung Payuh"
+        "Kampong Payoh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1292987243,
-    "wof:lastmodified":1537673672,
+    "wof:lastmodified":1566642795,
     "wof:name":"Kampung Payuh",
     "wof:parent_id":890490801,
     "wof:placetype":"locality",

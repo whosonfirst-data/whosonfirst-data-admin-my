@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":1.631249,
     "lbl:longitude":111.209107,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":1.631249,
     "mps:longitude":111.209107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pusa"
     ],
@@ -41,7 +44,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102023689,
-    "wof:lastmodified":1563238544,
+    "wof:lastmodified":1566642246,
     "wof:name":"Pusa",
     "wof:parent_id":1108696391,
     "wof:placetype":"locality",

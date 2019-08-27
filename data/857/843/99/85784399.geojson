@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8022139.277431,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.633305,1.510053,103.633305,1.510053",
     "geom:latitude":1.510053,
     "geom:longitude":103.633305,
     "gn:latitude":2.0572,
     "gn:longitude":103.3511,
     "iso:country":"MY",
+    "lbl:bbox":"103.628305,1.505053,103.638305,1.515053",
     "lbl:latitude":1.510053,
     "lbl:longitude":103.633305,
+    "lbl:max_zoom":18.0,
     "mps:latitude":1.508428,
     "mps:longitude":103.634381,
     "mz:hierarchy_label":0,
@@ -28,10 +30,7 @@
     "name:msa_x_preferred":[
         "Taman Orkid"
     ],
-    "name:und_x_preferred":[
-        "Taman Seri Orkid"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Seri Orkid"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -63,20 +62,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675141,
         102191569,
         85632739,
         102022775,
         1108696403,
-        85675141,
         102022781
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7614295,
         "gp:id":56036016,
-        "qs:id":539607,
         "qs_pg:id":539607
     },
     "wof:country":"MY",
@@ -103,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860602,
+    "wof:lastmodified":1566642588,
     "wof:name":"Taman Seri Orkid",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

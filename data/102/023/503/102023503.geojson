@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001369,
-    "geom:area_square_m":16881960.285922,
+    "geom:area_square_m":16881960.28593,
     "geom:bbox":"101.122892237,4.17851066074,101.165620527,4.22672280275",
     "geom:latitude":4.204231,
     "geom:longitude":101.142918,
@@ -14,11 +14,14 @@
     "iso:country":"MY",
     "lbl:latitude":4.202817,
     "lbl:longitude":101.141189,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":4.202817,
     "mps:longitude":101.141189,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ayer Kuning"
     ],
     "qs:a0":"Malaysia",
@@ -37,7 +40,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":1735281,
         "gp:id":1154549,
-        "qs:id":904678
+        "qs_pg:id":904678
     },
     "wof:country":"MY",
     "wof:geomhash":"f94b0124462153e77d88dab360d32559",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102023503,
-    "wof:lastmodified":1501222128,
+    "wof:lastmodified":1566642241,
     "wof:name":"Air Kuning",
     "wof:parent_id":890489741,
     "wof:placetype":"locality",

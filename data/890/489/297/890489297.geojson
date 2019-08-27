@@ -11,8 +11,12 @@
     "geom:longitude":102.38416,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.36416,4.172511,102.40416,4.212511",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Batu Garang",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Pahang",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1154582,
-        "qs:id":991712
+        "qs_pg:id":991712
     },
     "wof:country":"MY",
     "wof:created":1469054752,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489297,
-    "wof:lastmodified":1500013439,
+    "wof:lastmodified":1566644015,
     "wof:name":"Batu Garang",
     "wof:parent_id":890489711,
     "wof:placetype":"locality",

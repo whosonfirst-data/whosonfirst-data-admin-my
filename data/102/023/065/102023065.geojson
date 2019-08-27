@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":2.28732,
     "lbl:longitude":102.44794,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":2.28732,
     "mps:longitude":102.44794,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Jasin"
     ],
@@ -198,9 +201,6 @@
     "name:ukr_x_preferred":[
         "\u042f\u0441\u0456\u043d"
     ],
-    "name:unk_x_variant":[
-        "Iasin"
-    ],
     "name:vec_x_preferred":[
         "Jasin"
     ],
@@ -240,7 +240,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191569,
@@ -253,7 +253,6 @@
         "fct:id":"01db6d54-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1734747,
         "gp:id":1154682,
-        "qs:id":281416,
         "qs_pg:id":281416,
         "wd:id":"Q350181"
     },
@@ -272,7 +271,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563238552,
+    "wof:lastmodified":1566642249,
     "wof:name":"Jasin",
     "wof:parent_id":890489809,
     "wof:placetype":"locality",

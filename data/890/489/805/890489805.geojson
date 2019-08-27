@@ -11,8 +11,12 @@
     "geom:longitude":100.462589,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.362589,5.26137,100.562589,5.46137",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Bandar Bt. Mertajam",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Pulau Pinang",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56013707,
-        "qs:id":1111782
+        "qs_pg:id":1111782
     },
     "wof:country":"MY",
     "wof:created":1469054771,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489805,
-    "wof:lastmodified":1500013258,
+    "wof:lastmodified":1566643994,
     "wof:name":"Bandar Bt. Mertajam",
     "wof:parent_id":890489737,
     "wof:placetype":"localadmin",

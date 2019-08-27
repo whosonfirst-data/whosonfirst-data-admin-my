@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4790059.607093,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.762512,1.50831,103.762512,1.50831",
     "geom:latitude":1.50831,
     "geom:longitude":103.762512,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"103.757512,1.50331,103.767512,1.51331",
     "lbl:latitude":1.50831,
     "lbl:longitude":103.762512,
+    "lbl:max_zoom":18.0,
     "mps:latitude":1.511613,
     "mps:longitude":103.761989,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Stulang Bahru"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stulang Bahru"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -57,18 +56,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675141,
         102191569,
         85632739,
         102022781,
-        1108696403,
-        85675141
+        1108696403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56036087,
-        "qs:id":1046814,
         "qs_pg:id":1046814
     },
     "wof:country":"MY",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860605,
+    "wof:lastmodified":1566642592,
     "wof:name":"Stulang Bahru",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.930207,
     "lbl:longitude":116.702207,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SABAH",
     "meso:diss_me":"RANAUSABAH",
     "meso:gadm_admin":"Ranau",
@@ -31,6 +33,7 @@
     "mps:longitude":116.702207,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ranau"
     ],
@@ -66,9 +69,9 @@
         "Ranau"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"2,978.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Ranau",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108696495,
-    "wof:lastmodified":1564191514,
+    "wof:lastmodified":1566643523,
     "wof:name":"Ranau",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

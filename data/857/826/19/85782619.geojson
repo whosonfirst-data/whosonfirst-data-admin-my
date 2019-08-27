@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3346012.697415,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.759704,3.155649,101.759704,3.155649",
     "geom:latitude":3.155649,
     "geom:longitude":101.759704,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.754704,3.150649,101.764704,3.160649",
     "lbl:latitude":3.155649,
     "lbl:longitude":101.759704,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.155188,
     "mps:longitude":101.763264,
     "mz:hierarchy_label":0,
@@ -24,14 +26,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Taman Ampang Hilir"
-    ],
     "name:und_x_variant":[
+        "Taman Ampang Hilir",
         "Taman Ampang Utama"
-    ],
-    "name:unk_x_variant":[
-        "Taman Ampang Hilir"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -59,18 +56,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023417,
-        1108696543,
-        85675163
+        1108696543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55862680,
-        "qs:id":1091749,
         "qs_pg:id":1091749
     },
     "wof:country":"MY",
@@ -89,7 +85,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860401,
+    "wof:lastmodified":1566642584,
     "wof:name":"Taman Ampang Hilir",
     "wof:parent_id":102023417,
     "wof:placetype":"neighbourhood",

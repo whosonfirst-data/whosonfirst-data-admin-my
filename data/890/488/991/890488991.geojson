@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":5.83514,
     "lbl:longitude":102.357789,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KELANTAN",
     "meso:diss_me":"PASIR PUTEHKELANTAN",
     "meso:gadm_admin":"Pasir Putih",
@@ -32,6 +34,7 @@
     "mps:longitude":102.357789,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Pasir Puteh"
     ],
@@ -72,9 +75,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"433.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Pasir Putih",
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gp:id":56013547,
         "hasc:id":"MY.KN.PP",
-        "qs:id":33452,
+        "qs_pg:id":33452,
         "wd:id":"Q7142173",
         "wk:page":"Pasir Puteh District"
     },
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":890488991,
-    "wof:lastmodified":1561751763,
+    "wof:lastmodified":1566643926,
     "wof:name":"Pasir Puteh",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

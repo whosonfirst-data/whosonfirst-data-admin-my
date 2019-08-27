@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.545342,
     "lbl:longitude":115.713959,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SABAH",
     "meso:diss_me":"SIPITANGSABAH",
     "meso:gadm_admin":"Sipitang",
@@ -31,6 +33,7 @@
     "mps:longitude":115.713959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Sipitang"
     ],
@@ -57,9 +60,9 @@
         "Sipitang"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"2,732.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Sipitang",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108696519,
-    "wof:lastmodified":1564191512,
+    "wof:lastmodified":1566643520,
     "wof:name":"Sipitang",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

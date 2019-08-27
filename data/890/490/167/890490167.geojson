@@ -11,18 +11,21 @@
     "geom:longitude":100.28832,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.28332,5.27283,100.29332,5.28283",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Kampung Teluk Tempoyak Kecil"
     ],
     "name:msa_x_variant":[
         "Kampung Telok"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Telok"
     ],
     "qs:name":"Kampong Telok Tempoyak Kechil",
@@ -41,18 +44,20 @@
     ],
     "src:population":"geonames",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023363,
-        890489155,
-        85675127
+        890489155
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1763113,
         "gp:id":1149923,
-        "qs:id":1167925,
         "qs_pg:id":994459
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1167925
     },
     "wof:country":"MY",
     "wof:created":1469054793,
@@ -68,7 +73,7 @@
         }
     ],
     "wof:id":890490167,
-    "wof:lastmodified":1509412559,
+    "wof:lastmodified":1566643873,
     "wof:name":"Kampong Telok Tempoyak Kechil",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

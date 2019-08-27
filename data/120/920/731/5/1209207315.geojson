@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.63,4.46333,102.67,4.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632739
@@ -34,7 +38,7 @@
         "gn:id":1765656
     },
     "wof:country":"MY",
-    "wof:geomhash":"96a7ea81df7ec4138b4ff30d0c1446ca",
+    "wof:geomhash":"5d7c118ab92632c72883e6794cccc997",
     "wof:hierarchy":[
         {
             "country_id":85632739,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209207315,
-    "wof:lastmodified":1536294411,
+    "wof:lastmodified":1566643287,
     "wof:name":"Kampong Peradong",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     102.65,
-    4.4833300000000005,
+    4.48333,
     102.65,
-    4.4833300000000005
+    4.48333
 ],
   "geometry": {"coordinates":[102.65000000000001,4.48333],"type":"Point"}
 }

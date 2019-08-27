@@ -12,7 +12,12 @@
     "gn:country":"MY",
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"99.585134,6.264158,99.785134,6.464158",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Padang Mat Sirat",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Kedah",
@@ -32,11 +37,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014683,
-        "qs:id":1111940
+        "qs_pg:id":1111940
     },
     "wof:country":"MY",
     "wof:created":1469054780,
-    "wof:geomhash":"e59487f01d2401c94aaa39e7dff0bdd0",
+    "wof:geomhash":"9b95cd7cdaf7c53487653aa487690fab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -46,7 +51,7 @@
         }
     ],
     "wof:id":890489915,
-    "wof:lastmodified":1469054780,
+    "wof:lastmodified":1566643996,
     "wof:name":"Padang Mat Sirat",
     "wof:parent_id":85675137,
     "wof:placetype":"localadmin",

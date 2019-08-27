@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.34667,4.46333,116.38667,4.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293856379,
-    "wof:lastmodified":1536752414,
+    "wof:lastmodified":1566642717,
     "wof:name":"Sabib'i",
     "wof:parent_id":1108696483,
     "wof:placetype":"locality",

@@ -11,8 +11,12 @@
     "geom:longitude":100.518842,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.418842,5.511116,100.618842,5.711116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Sungai Pasir",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Kedah",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014145,
-        "qs:id":406395
+        "qs_pg:id":406395
     },
     "wof:country":"MY",
     "wof:created":1469054739,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890488963,
-    "wof:lastmodified":1500013299,
+    "wof:lastmodified":1566643928,
     "wof:name":"Sungai Pasir",
     "wof:parent_id":890490355,
     "wof:placetype":"localadmin",

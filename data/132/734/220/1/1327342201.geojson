@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.53,5.93,100.57,5.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327342201,
-    "wof:lastmodified":1536810498,
+    "wof:lastmodified":1566642115,
     "wof:name":"Kampong Titi Teras",
     "wof:parent_id":890489109,
     "wof:placetype":"locality",

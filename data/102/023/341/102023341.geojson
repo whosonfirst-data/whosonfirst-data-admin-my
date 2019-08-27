@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.233644,
     "lbl:longitude":100.49639,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.233644,
     "mps:longitude":100.49639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sungai Bakap"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":1735084,
         "gp:id":1154127,
-        "qs:id":1072848,
         "qs_pg:id":1072848,
         "wd:id":"Q7640121",
         "wk:page":"Sungai Bakap"
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":102023341,
-    "wof:lastmodified":1563238570,
+    "wof:lastmodified":1566642257,
     "wof:name":"Sungai Bakap",
     "wof:parent_id":1108696503,
     "wof:placetype":"locality",

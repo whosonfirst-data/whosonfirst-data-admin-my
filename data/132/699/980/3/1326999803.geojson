@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.6353,5.3994,115.6753,5.4394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Pilajau"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326999803,
-    "wof:lastmodified":1537673991,
+    "wof:lastmodified":1566642165,
     "wof:name":"Kampung Pilajau",
     "wof:parent_id":1108696385,
     "wof:placetype":"locality",

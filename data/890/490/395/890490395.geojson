@@ -11,11 +11,14 @@
     "geom:longitude":102.5385,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.5335,2.2686,102.5435,2.2786",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Sentosa"
     ],
@@ -43,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7798110,
         "gp:id":56035661,
-        "qs:id":1199803,
+        "qs_pg:id":1199803,
         "wk:page":"Taman Sentosa"
     },
     "wof:country":"MY",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890490395,
-    "wof:lastmodified":1527734157,
+    "wof:lastmodified":1566643895,
     "wof:name":"Taman Sentosa",
     "wof:parent_id":102022809,
     "wof:placetype":"neighbourhood",

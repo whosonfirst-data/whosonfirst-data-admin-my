@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.5266,3.6381,101.5666,3.6781",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Keliang"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242654601,
-    "wof:lastmodified":1537674079,
+    "wof:lastmodified":1566644220,
     "wof:name":"Kampung Keliang",
     "wof:parent_id":890489129,
     "wof:placetype":"locality",

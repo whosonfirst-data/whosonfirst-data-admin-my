@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000394,
-    "geom:area_square_m":4868522.206617,
+    "geom:area_square_m":4868522.206612,
     "geom:bbox":"101.727905273,3.09115071091,101.756149344,3.11524629215",
     "geom:latitude":3.101834,
     "geom:longitude":101.741577,
@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.10206,
     "lbl:longitude":101.738098,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.101524,
     "mps:longitude":101.740615,
     "mz:hierarchy_label":1,
@@ -24,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
-    "name:und_x_preferred":[
-        "Taman Cheras"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Cheras"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -67,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55862661,
-        "qs:id":991407,
         "qs_pg:id":991407
     },
     "wof:country":"MY",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269516,
+    "wof:lastmodified":1566642604,
     "wof:name":"Taman Cheras",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

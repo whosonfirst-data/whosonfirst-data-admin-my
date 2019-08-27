@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":5.427819,
     "lbl:longitude":101.30663,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"PERAK",
     "meso:diss_me":"HULU PERAKPERAK",
     "meso:gadm_admin":"Hulu Perak",
@@ -32,6 +34,7 @@
     "mps:longitude":101.30663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ulu Perak"
     ],
@@ -72,9 +75,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"6,563.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Gerik",
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gp:id":56013628,
         "hasc:id":"MY.PK.HU",
-        "qs:id":1092069,
+        "qs_pg:id":1092069,
         "wd:id":"Q2416685",
         "wk:page":"Hulu Perak District"
     },
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":890489739,
-    "wof:lastmodified":1561751766,
+    "wof:lastmodified":1566643977,
     "wof:name":"Ulu Perak",
     "wof:parent_id":85675123,
     "wof:placetype":"county",

@@ -11,8 +11,12 @@
     "geom:longitude":101.778641,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.678641,2.830617,101.878641,3.030617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u062c\u0627\u0646\u063a"
     ],
@@ -151,7 +155,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014377,
-        "qs:id":1306926,
+        "qs_pg:id":1306926,
         "wd:id":"Q1946482",
         "wk:page":"Kajang"
     },
@@ -168,7 +172,7 @@
         }
     ],
     "wof:id":890488507,
-    "wof:lastmodified":1563240646,
+    "wof:lastmodified":1566643953,
     "wof:name":"Kajang",
     "wof:parent_id":1108696543,
     "wof:placetype":"localadmin",

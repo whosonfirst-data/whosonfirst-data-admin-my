@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.265633,
     "lbl:longitude":101.352117,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.265633,
     "mps:longitude":101.352117,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jeram"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         102191569,
@@ -69,7 +72,6 @@
     "wof:concordances":{
         "gn:id":1888100,
         "gp:id":1154690,
-        "qs:id":1092108,
         "qs_pg:id":1092108,
         "wd:id":"Q12688566"
     },
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":102023921,
-    "wof:lastmodified":1563238639,
+    "wof:lastmodified":1566642293,
     "wof:name":"Jeram",
     "wof:parent_id":890488801,
     "wof:placetype":"locality",

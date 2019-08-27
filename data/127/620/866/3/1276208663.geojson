@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.0432,5.8449,116.0832,5.8849",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Tombovo"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276208663,
-    "wof:lastmodified":1537673869,
+    "wof:lastmodified":1566642950,
     "wof:name":"Kampung Tombovo",
     "wof:parent_id":1108696541,
     "wof:placetype":"locality",

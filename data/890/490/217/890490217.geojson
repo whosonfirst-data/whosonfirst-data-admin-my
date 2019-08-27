@@ -12,8 +12,12 @@
     "gn:country":"MY",
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.370567,4.159484,103.570567,4.359484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Teluk Kalong"
     ],
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014081,
-        "qs:id":406384,
+        "qs_pg:id":406384,
         "wd:id":"Q7697906",
         "wk:page":"Teluk Kalong"
     },
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890490217,
-    "wof:lastmodified":1563240523,
+    "wof:lastmodified":1566643879,
     "wof:name":"Teluk Kalung",
     "wof:parent_id":85675169,
     "wof:placetype":"localadmin",

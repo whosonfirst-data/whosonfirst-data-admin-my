@@ -11,7 +11,7 @@
     "geom:longitude":102.786522,
     "gn:country":"MY",
     "gn:fcode":"ADM2",
-    "gn:pop":510376,
+    "gn:population":510376,
     "iso:country":"MY",
     "label:eng_x_preferred_longname":[
         "Muar District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":2.082822,
     "lbl:longitude":102.762721,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"JOHOR",
     "meso:diss_me":"MUARJOHOR",
     "meso:gadm_admin":"Muar",
@@ -34,6 +36,7 @@
     "mps:longitude":102.762721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Daerah Muar"
     ],
@@ -79,9 +82,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"2,346.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Muar",
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gn:id":1732868,
         "hasc:id":"MY.JH.MR",
-        "qs:id":558773,
+        "qs_pg:id":558773,
         "wd:id":"Q1941846"
     },
     "wof:country":"MY",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890488721,
-    "wof:lastmodified":1563240675,
+    "wof:lastmodified":1566643970,
     "wof:name":"Muar",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

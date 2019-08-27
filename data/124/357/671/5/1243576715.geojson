@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.1542,2.5145,102.1942,2.5545",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Mungkal"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243576715,
-    "wof:lastmodified":1537674420,
+    "wof:lastmodified":1566644156,
     "wof:name":"Kampung Mungkal",
     "wof:parent_id":890490863,
     "wof:placetype":"locality",

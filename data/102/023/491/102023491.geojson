@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":4.474613,
     "lbl:longitude":101.045209,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":4.474613,
     "mps:longitude":101.045209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bre_x_preferred":[
         "Batu Gajah"
     ],
@@ -82,7 +85,7 @@
     "name:tam_x_preferred":[
         "\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0b9c\u0bbe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Batu Gaah"
     ],
     "name:urd_x_preferred":[
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":993,
     "wof:belongsto":[
@@ -122,7 +125,6 @@
     "wof:concordances":{
         "gn:id":1735268,
         "gp:id":1154581,
-        "qs:id":277470,
         "qs_pg:id":277470,
         "wd:id":"Q1917064",
         "wk:page":"Batu Gajah"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":102023491,
-    "wof:lastmodified":1563238568,
+    "wof:lastmodified":1566642256,
     "wof:name":"Batu Gajah",
     "wof:parent_id":890490953,
     "wof:placetype":"locality",

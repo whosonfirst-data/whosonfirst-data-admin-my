@@ -11,8 +11,12 @@
     "geom:longitude":100.325775,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.225775,6.272474,100.425775,6.472474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Pering",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Kedah",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014079,
-        "qs:id":260597
+        "qs_pg:id":260597
     },
     "wof:country":"MY",
     "wof:created":1469054714,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890488303,
-    "wof:lastmodified":1500013297,
+    "wof:lastmodified":1566643952,
     "wof:name":"Pering",
     "wof:parent_id":890488625,
     "wof:placetype":"localadmin",

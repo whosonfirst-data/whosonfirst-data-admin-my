@@ -11,11 +11,15 @@
     "geom:longitude":101.5541,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":21185,
+    "gn:population":21185,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.5341,3.2394,101.5741,3.2794",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0627\u0646\u063a"
     ],
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":1759486,
         "gp:id":1154798,
-        "qs:id":136189,
+        "qs_pg:id":136189,
         "wd:id":"Q2499720",
         "wk:page":"Kuang"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890488137,
-    "wof:lastmodified":1563240650,
+    "wof:lastmodified":1566643955,
     "wof:name":"Kuang",
     "wof:parent_id":1108696399,
     "wof:placetype":"locality",

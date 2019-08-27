@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000932,
-    "geom:area_square_m":11475232.8939,
+    "geom:area_square_m":11475232.893908,
     "geom:bbox":"101.048720427,5.20773547406,101.077744144,5.28051848696",
     "geom:latitude":5.245424,
     "geom:longitude":101.065816,
@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.271476,
     "lbl:longitude":101.057406,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.271476,
     "mps:longitude":101.057406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lawin"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":18,
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,6 @@
     "wof:concordances":{
         "gn:id":1734374,
         "gp:id":1154825,
-        "qs:id":270305,
         "qs_pg:id":270305
     },
     "wof:country":"MY",
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":102022951,
-    "wof:lastmodified":1527636677,
+    "wof:lastmodified":1566642315,
     "wof:name":"Lawin",
     "wof:parent_id":890489739,
     "wof:placetype":"locality",

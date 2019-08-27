@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.2601,4.7044,115.3001,4.7444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Hulu Suang"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260261059,
-    "wof:lastmodified":1537673809,
+    "wof:lastmodified":1566643499,
     "wof:name":"Kampung Hulu Suang",
     "wof:parent_id":1108696445,
     "wof:placetype":"locality",

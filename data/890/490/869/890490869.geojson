@@ -11,8 +11,12 @@
     "geom:longitude":102.314643,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.214643,3.969425,102.414643,4.169425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kuala Tembeling"
     ],
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014631,
-        "qs:id":231742,
+        "qs_pg:id":231742,
         "wd:id":"Q6441062",
         "wk:page":"Kuala Tembeling"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890490869,
-    "wof:lastmodified":1563240534,
+    "wof:lastmodified":1566643885,
     "wof:name":"Kuala Tembeling",
     "wof:parent_id":890489711,
     "wof:placetype":"localadmin",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.89667,3.39667,102.93667,3.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310297683,
-    "wof:lastmodified":1536719582,
+    "wof:lastmodified":1566643637,
     "wof:name":"Kampong Sakai",
     "wof:parent_id":1108696481,
     "wof:placetype":"locality",

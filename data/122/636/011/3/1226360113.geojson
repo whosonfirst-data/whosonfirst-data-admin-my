@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.4218,1.3108,103.4618,1.3508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kangkar Air Masin"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226360113,
-    "wof:lastmodified":1537673804,
+    "wof:lastmodified":1566644653,
     "wof:name":"Kangkar Air Masin",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

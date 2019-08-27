@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":1502648.621965,
+    "geom:area_square_m":1502648.621966,
     "geom:bbox":"101.710512892,3.06763578057,101.722412109,3.08292290756",
     "geom:latitude":3.076191,
     "geom:longitude":101.717645,
@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.077438,
     "lbl:longitude":101.719666,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.076782,
     "mps:longitude":101.717532,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
     ],
     "name:und_x_variant":[
         "Bandar Tun Razak"
-    ],
-    "name:unk_x_variant":[
-        "Bdr Tun Razak"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_id":0,
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -70,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55862663,
-        "qs:id":136552,
         "qs_pg:id":136552
     },
     "wof:country":"MY",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269516,
+    "wof:lastmodified":1566642604,
     "wof:name":"Bdr Tun Razak",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

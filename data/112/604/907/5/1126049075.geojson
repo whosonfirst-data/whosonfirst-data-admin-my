@@ -9,15 +9,18 @@
     "geom:bbox":"103.7578,1.4655,103.7578,1.4655",
     "geom:latitude":1.4655,
     "geom:longitude":103.7578,
-    "gn:gn_country":"MY",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":802489,
+    "gn:country":"MY",
+    "gn:fcode":"PPLA",
     "gn:population":802489,
     "iso:country":"MY",
+    "lbl:bbox":"103.7378,1.4455,103.7778,1.4855",
     "lbl:latitude":1.4655,
     "lbl:longitude":103.7578,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Johor Bahru"
@@ -208,7 +211,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u043e\u0445\u043e\u0440-\u0411\u0430\u0440\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bharu"
     ],
     "name:urd_x_preferred":[
@@ -250,7 +253,7 @@
     "qs_pg:woe_adm0":23424901,
     "qs_pg:woe_id":1154698,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424901,
     "woe:name_adm0":"Malaysia",
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":1126049075,
-    "wof:lastmodified":1563240777,
+    "wof:lastmodified":1566644024,
     "wof:name":"Johor Baharu",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

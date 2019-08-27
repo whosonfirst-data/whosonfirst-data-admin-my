@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
-    "geom:area_square_m":3137473.208033,
+    "geom:area_square_m":3137473.208032,
     "geom:bbox":"104.190832617,2.78586519657,104.208825607,2.8039576156",
     "geom:latitude":2.794911,
     "geom:longitude":104.199829,
@@ -14,13 +14,17 @@
     "iso:country":"MY",
     "lbl:latitude":2.794911,
     "lbl:longitude":104.199829,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":2.794911,
     "mps:longitude":104.199829,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Juara"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Juara"
     ],
     "qs:a0":"Malaysia",
@@ -39,7 +43,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":1768703,
         "gp:id":1144323,
-        "qs:id":290264
+        "qs_pg:id":290264
     },
     "wof:country":"MY",
     "wof:geomhash":"3801b5910126706e444f1258f324aa8a",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":102023877,
-    "wof:lastmodified":1501222138,
+    "wof:lastmodified":1566642275,
     "wof:name":"Kampung Juara",
     "wof:parent_id":1108696497,
     "wof:placetype":"locality",

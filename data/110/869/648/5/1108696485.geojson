@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.674242,
     "lbl:longitude":117.106035,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SABAH",
     "meso:diss_me":"PITASSABAH",
     "meso:gadm_admin":"Pitas",
@@ -31,6 +33,7 @@
     "mps:longitude":117.106035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Pitas"
     ],
@@ -42,9 +45,9 @@
         "Pitas"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"1,419.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Pitas",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108696485,
-    "wof:lastmodified":1564191520,
+    "wof:lastmodified":1566643528,
     "wof:name":"Pitas",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

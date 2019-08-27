@@ -11,11 +11,14 @@
     "geom:longitude":101.0642,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.0592,4.0248,101.0692,4.0348",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Sungai Kerawai"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":8356544,
         "gp:id":56015775,
-        "qs:id":500233
+        "qs_pg:id":500233
     },
     "wof:country":"MY",
     "wof:created":1469054744,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890489087,
-    "wof:lastmodified":1505343784,
+    "wof:lastmodified":1566644007,
     "wof:name":"Sungai Raya",
     "wof:parent_id":102023539,
     "wof:placetype":"neighbourhood",

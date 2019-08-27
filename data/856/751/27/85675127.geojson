@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":5.404686,
     "lbl:longitude":100.452324,
+    "lbl:min_zoom":8.0,
     "mps:latitude":5.403392,
     "mps:longitude":100.457541,
     "mz:hierarchy_label":1,
@@ -202,12 +203,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u043d\u0430\u043d\u0433"
     ],
-    "name:und_x_preferred":[
-        "Pulau Pinang"
-    ],
-    "name:und_x_variant":[
-        "Pinang"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0646\u0627\u0646\u06af"
     ],
@@ -298,9 +293,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"1,033",
     "statoids:area_mi":"399",
     "statoids:as_of_date":"2010-07-06",
@@ -326,7 +321,7 @@
         "hasc:id":"MY.PG",
         "iso:id":"MY-07",
         "loc:id":"n79081710",
-        "qs:id":242272,
+        "qs_pg:id":242272,
         "unlc:id":"MY-07",
         "wd:id":"Q188096",
         "wk:page":"Penang"
@@ -341,20 +336,16 @@
         }
     ],
     "wof:id":85675127,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "msa"
     ],
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1563239066,
+    "wof:lastmodified":1566642622,
     "wof:name":"Pulau Pinang",
     "wof:parent_id":85632739,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":1526324,
     "wof:population_rank":12,

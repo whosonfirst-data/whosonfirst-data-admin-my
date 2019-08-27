@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14132625.008675,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.956747,2.723692,101.956747,2.723692",
     "geom:latitude":2.723692,
     "geom:longitude":101.956747,
     "gn:latitude":2.739,
     "gn:longitude":101.9449,
     "iso:country":"MY",
+    "lbl:bbox":"101.951747,2.718692,101.961747,2.728692",
     "lbl:latitude":2.723692,
     "lbl:longitude":101.956747,
+    "lbl:max_zoom":18.0,
     "mps:latitude":2.752578,
     "mps:longitude":101.967633,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:msa_x_preferred":[
         "Kampung Baharu Bukit Temiang"
-    ],
-    "name:unk_x_variant":[
-        "Kampong Baharu Bukit Temiang"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -64,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675155,
         102191569,
         85632739,
         102023155,
-        890489719,
-        85675155
+        890489719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1771302,
         "gp:id":1141726,
-        "qs:id":1293794,
         "qs_pg:id":1293794
     },
     "wof:country":"MY",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859431,
+    "wof:lastmodified":1566642594,
     "wof:name":"Kampong Baharu Bukit Temiang",
     "wof:parent_id":102023155,
     "wof:placetype":"neighbourhood",

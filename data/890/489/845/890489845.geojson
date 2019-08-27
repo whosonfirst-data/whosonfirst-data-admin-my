@@ -11,8 +11,12 @@
     "geom:longitude":100.207887,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.1078865,6.3474045,100.3078865,6.5474045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0435\u043d\u0430"
     ],
@@ -93,7 +97,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014017,
-        "qs:id":1111830
+        "qs_pg:id":1111830
     },
     "wof:country":"MY",
     "wof:created":1469054778,
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890489845,
-    "wof:lastmodified":1564192135,
+    "wof:lastmodified":1566643984,
     "wof:name":"Sena",
     "wof:parent_id":1108696407,
     "wof:placetype":"localadmin",

@@ -11,7 +11,7 @@
     "geom:longitude":101.829601,
     "gn:country":"MY",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":5.58406,
     "lbl:longitude":101.829515,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KELANTAN",
     "meso:diss_me":"JELIKELANTAN",
     "meso:gadm_admin":"Jeli",
@@ -35,6 +37,7 @@
     "mps:longitude":101.829515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Jeli"
     ],
@@ -86,9 +89,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"1,329.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Jeli",
@@ -110,7 +113,7 @@
         "gn:id":7067991,
         "gp:id":56013564,
         "hasc:id":"MY.KN.JE",
-        "qs:id":77671,
+        "qs_pg:id":77671,
         "wd:id":"Q1884709",
         "wk:page":"Jeli District"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":890490101,
-    "wof:lastmodified":1563240561,
+    "wof:lastmodified":1566643900,
     "wof:name":"Jeli",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

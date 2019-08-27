@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.9318,4.1573,100.9718,4.1973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Sri Cantik"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1210037525,
-    "wof:lastmodified":1537674342,
+    "wof:lastmodified":1566643351,
     "wof:name":"Taman Sri Cantik",
     "wof:parent_id":890489811,
     "wof:placetype":"locality",

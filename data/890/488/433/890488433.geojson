@@ -11,8 +11,11 @@
     "geom:longitude":101.682753,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.677753,3.0761665,101.687753,3.0861665",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Taman Serangkai",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Kuala Lumpur",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675181,
         102191569,
         85632739,
         102023407,
-        890490945,
-        85675181
+        890490945
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55862670,
-        "qs:id":136554
+        "qs_pg:id":136554
     },
     "wof:country":"MY",
     "wof:created":1469054719,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890488433,
-    "wof:lastmodified":1500013682,
+    "wof:lastmodified":1566643964,
     "wof:name":"Taman Serangkai",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

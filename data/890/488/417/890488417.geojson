@@ -12,8 +12,12 @@
     "gn:country":"MY",
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"115.2722975,5.20294,115.4722975,5.40294",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kuala Penyu"
     ],
@@ -61,10 +65,12 @@
     "wof:concordances":{
         "gn:id":1733341,
         "gp:id":56014191,
-        "qs:id":1264274,
         "qs_pg:id":1152028,
         "wd:id":"Q118534",
         "wk:page":"Kuala Penyu"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1264274
     },
     "wof:country":"MY",
     "wof:created":1469054718,
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":890488417,
-    "wof:lastmodified":1563240654,
+    "wof:lastmodified":1566643957,
     "wof:name":"Kuala Penyu",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

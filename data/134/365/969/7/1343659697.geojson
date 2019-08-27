@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.19667,2.81333,103.23667,2.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Kachah",
         "Kampung Kacah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343659697,
-    "wof:lastmodified":1537673713,
+    "wof:lastmodified":1566642336,
     "wof:name":"Kampung Kacah",
     "wof:parent_id":1108696497,
     "wof:placetype":"locality",

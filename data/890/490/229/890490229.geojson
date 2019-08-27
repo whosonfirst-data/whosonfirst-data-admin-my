@@ -11,15 +11,19 @@
     "geom:longitude":102.3278,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":15497,
+    "gn:population":15497,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.3078,2.1939,102.3478,2.2339",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:msa_x_preferred":[
         "Kampung Ayer Molek"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Ayer Molek"
     ],
     "qs:name":"Taman Ayer Molek",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1771485,
         "gp:id":56036345,
-        "qs:id":539635
+        "qs_pg:id":539635
     },
     "wof:country":"MY",
     "wof:created":1469054795,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890490229,
-    "wof:lastmodified":1505343787,
+    "wof:lastmodified":1566643874,
     "wof:name":"Taman Ayer Molek",
     "wof:parent_id":890489715,
     "wof:placetype":"locality",

@@ -11,8 +11,12 @@
     "geom:longitude":100.983299,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.883299,4.316699,101.083299,4.516699",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Belanja",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Perak",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56013743,
-        "qs:id":287332
+        "qs_pg:id":287332
     },
     "wof:country":"MY",
     "wof:created":1469054813,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890490503,
-    "wof:lastmodified":1500013218,
+    "wof:lastmodified":1566643873,
     "wof:name":"Belanja",
     "wof:parent_id":890490953,
     "wof:placetype":"localadmin",

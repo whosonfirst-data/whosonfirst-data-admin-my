@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"110.46547,1.08764,110.50547,1.12764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pichin",
         "Kampong Pichin",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243535773,
-    "wof:lastmodified":1537673706,
+    "wof:lastmodified":1566644052,
     "wof:name":"Kampung Piching",
     "wof:parent_id":1108696511,
     "wof:placetype":"locality",

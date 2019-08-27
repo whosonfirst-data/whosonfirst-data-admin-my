@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.48166,2.80421,101.52166,2.84421",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Serdang Belah"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327009951,
-    "wof:lastmodified":1537673912,
+    "wof:lastmodified":1566642014,
     "wof:name":"Kampong Serdang Belah",
     "wof:parent_id":1108696427,
     "wof:placetype":"locality",

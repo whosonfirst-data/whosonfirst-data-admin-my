@@ -11,11 +11,15 @@
     "geom:longitude":100.24496,
     "gn:country":"MY",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.14496,6.53599,100.34496,6.73599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Titi Tinggi"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":6804262,
         "gp:id":56013765,
-        "qs:id":1025919
+        "qs_pg:id":1025919
     },
     "wof:country":"MY",
     "wof:created":1469054760,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890489543,
-    "wof:lastmodified":1505343785,
+    "wof:lastmodified":1566643997,
     "wof:name":"Titi Tinggi",
     "wof:parent_id":1108696407,
     "wof:placetype":"localadmin",

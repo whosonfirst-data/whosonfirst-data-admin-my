@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"111.84468,1.07559,111.88468,1.11559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampung Wong Pandak"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259370979,
-    "wof:lastmodified":1537673747,
+    "wof:lastmodified":1566644300,
     "wof:name":"Wong Pandak",
     "wof:parent_id":1108696451,
     "wof:placetype":"locality",

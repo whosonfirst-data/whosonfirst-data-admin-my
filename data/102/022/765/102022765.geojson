@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":1.464559,
     "lbl:longitude":103.927558,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":1.464559,
     "mps:longitude":103.927558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633\u064a\u0631 \u062c\u0648\u062f\u0627\u0646\u062c"
     ],
@@ -144,7 +147,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":760,
     "wof:belongsto":[
         102191569,
@@ -156,7 +159,6 @@
     "wof:concordances":{
         "gn:id":1732722,
         "gp:id":1155268,
-        "qs:id":1211625,
         "qs_pg:id":1211625,
         "wd:id":"Q1018693",
         "wk:page":"Pasir Gudang"
@@ -173,7 +175,7 @@
         }
     ],
     "wof:id":102022765,
-    "wof:lastmodified":1563238651,
+    "wof:lastmodified":1566642301,
     "wof:name":"Pasir Gudang",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

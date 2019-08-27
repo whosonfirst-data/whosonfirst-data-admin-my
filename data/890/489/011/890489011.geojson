@@ -12,7 +12,12 @@
     "gn:country":"MY",
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.776666,2.531111,101.816666,2.571111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Taman Nlfcs",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Negeri Sembilan",
@@ -32,11 +37,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56016611,
-        "qs:id":115860
+        "qs_pg:id":115860
     },
     "wof:country":"MY",
     "wof:created":1469054740,
-    "wof:geomhash":"4d15695fc8f42be619bd1f989dbdaccd",
+    "wof:geomhash":"83eecbe08212d9d59fb9dc096f23e00e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -46,7 +51,7 @@
         }
     ],
     "wof:id":890489011,
-    "wof:lastmodified":1469054740,
+    "wof:lastmodified":1566644009,
     "wof:name":"Taman Nlfcs",
     "wof:parent_id":85675155,
     "wof:placetype":"locality",

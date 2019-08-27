@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":2.887694,
     "lbl:longitude":101.877292,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":2.887694,
     "mps:longitude":101.877292,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Beranang"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":492,
     "wof:belongsto":[
@@ -59,7 +62,6 @@
     "wof:concordances":{
         "gn:id":1734802,
         "gp:id":1140893,
-        "qs:id":212381,
         "qs_pg:id":212381,
         "wd:id":"Q2427034",
         "wk:page":"Beranang"
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":102023143,
-    "wof:lastmodified":1561751658,
+    "wof:lastmodified":1566642261,
     "wof:name":"Beranang",
     "wof:parent_id":1108696543,
     "wof:placetype":"locality",

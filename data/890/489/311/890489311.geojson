@@ -11,11 +11,15 @@
     "geom:longitude":100.41028,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.39028,6.10351,100.43028,6.14351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Aris Jaya"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":6807163,
         "gp:id":56015816,
-        "qs:id":994133
+        "qs_pg:id":994133
     },
     "wof:country":"MY",
     "wof:created":1469054752,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890489311,
-    "wof:lastmodified":1505343785,
+    "wof:lastmodified":1566644017,
     "wof:name":"Taman Ara Jaya",
     "wof:parent_id":890490361,
     "wof:placetype":"locality",

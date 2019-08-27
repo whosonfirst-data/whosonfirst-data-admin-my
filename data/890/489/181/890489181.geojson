@@ -11,8 +11,12 @@
     "geom:longitude":101.758847,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.738847,3.185176,101.778847,3.225176",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Kemensah Heights",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55862691,
-        "qs:id":961566
+        "qs_pg:id":961566
     },
     "wof:country":"MY",
     "wof:created":1469054748,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489181,
-    "wof:lastmodified":1500013490,
+    "wof:lastmodified":1566643998,
     "wof:name":"Kemensah Heights",
     "wof:parent_id":1108696399,
     "wof:placetype":"locality",

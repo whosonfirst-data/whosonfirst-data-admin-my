@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8340043.359954,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.25247,5.280767,100.25247,5.280767",
     "geom:latitude":5.280767,
     "geom:longitude":100.25247,
     "gn:latitude":5.2823,
     "gn:longitude":100.25891,
     "iso:country":"MY",
+    "lbl:bbox":"100.24747,5.275767,100.25747,5.285767",
     "lbl:latitude":5.280767,
     "lbl:longitude":100.25247,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.282418,
     "mps:longitude":100.242061,
     "mz:hierarchy_label":0,
@@ -30,12 +32,6 @@
     ],
     "name:msa_x_preferred":[
         "Kampung Permatang Damar Laut"
-    ],
-    "name:und_x_variant":[
-        "Kampung Permatang Damar Laut"
-    ],
-    "name:unk_x_variant":[
-        "Kampong Permatang Damar Laut"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -67,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023363,
-        890489155,
-        85675127
+        890489155
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1765575,
         "gp:id":1147457,
-        "qs:id":478800,
         "qs_pg:id":478800
     },
     "wof:country":"MY",
@@ -98,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859445,
+    "wof:lastmodified":1566642613,
     "wof:name":"Kampong Permatang Damar Laut",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

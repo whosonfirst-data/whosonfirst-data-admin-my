@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.21333,5.79667,102.25333,5.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632739
@@ -34,7 +38,7 @@
         "gn:id":1762234
     },
     "wof:country":"MY",
-    "wof:geomhash":"0c2ba5f2128427484e327034c67bf4bb",
+    "wof:geomhash":"2d0525d55937312103b541061f701311",
     "wof:hierarchy":[
         {
             "country_id":85632739,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209416893,
-    "wof:lastmodified":1536287657,
+    "wof:lastmodified":1566643198,
     "wof:name":"Kampong Wek",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     102.23333,
-    5.8166699999999985,
+    5.81667,
     102.23333,
-    5.8166699999999985
+    5.81667
 ],
   "geometry": {"coordinates":[102.23333,5.81667],"type":"Point"}
 }

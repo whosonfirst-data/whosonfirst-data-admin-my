@@ -11,8 +11,10 @@
     "geom:longitude":101.62448,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.61948,3.125436,101.62948,3.135436",
     "lbl:latitude":3.130436,
     "lbl:longitude":101.62448,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.129385,
     "mps:longitude":101.627268,
     "mz:hierarchy_label":0,
@@ -43,9 +45,6 @@
     "name:und_x_variant":[
         "Ss 20 Damansara Utama"
     ],
-    "name:unk_x_variant":[
-        "Damansara"
-    ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":1735158,
@@ -75,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":55,
     "wof:belongsto":[
         85675163,
@@ -88,7 +87,6 @@
     "wof:concordances":{
         "gn:id":1776582,
         "gp:id":1141044,
-        "qs:id":1115607,
         "qs_pg:id":1115607,
         "wd:id":"Q5211973"
     },
@@ -108,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561751691,
+    "wof:lastmodified":1566642594,
     "wof:name":"Damansara",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

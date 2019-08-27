@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.7637,4.314,100.8037,4.354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Ayer Tawar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260173111,
-    "wof:lastmodified":1537674203,
+    "wof:lastmodified":1566643490,
     "wof:name":"Kampung Ayer Tawar",
     "wof:parent_id":1108696459,
     "wof:placetype":"locality",

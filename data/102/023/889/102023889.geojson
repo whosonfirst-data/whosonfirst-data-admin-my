@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.30468,
     "lbl:longitude":100.421503,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":5.30468,
     "mps:longitude":100.421503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Juru"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":1772148,
         "gp:id":1141251,
-        "qs:id":306887,
         "qs_pg:id":306887,
         "wd:id":"Q3475811",
         "wk:page":"Juru"
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":102023889,
-    "wof:lastmodified":1561751655,
+    "wof:lastmodified":1566642245,
     "wof:name":"Juru",
     "wof:parent_id":890489737,
     "wof:placetype":"locality",

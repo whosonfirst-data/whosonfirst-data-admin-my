@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"111.39667,1.59667,111.43667,1.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rumah Andom",
         "Rapong"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344135019,
-    "wof:lastmodified":1537673780,
+    "wof:lastmodified":1566642381,
     "wof:name":"Rapong",
     "wof:parent_id":1108696391,
     "wof:placetype":"locality",

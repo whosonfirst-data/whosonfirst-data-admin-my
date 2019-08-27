@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.44667,6.06333,100.48667,6.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Titi",
         "Kampong Titi Haji Idris"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310710529,
-    "wof:lastmodified":1537673823,
+    "wof:lastmodified":1566643554,
     "wof:name":"Kampong Titi Haji Idris",
     "wof:parent_id":890490361,
     "wof:placetype":"locality",

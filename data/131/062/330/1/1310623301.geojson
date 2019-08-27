@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.25162,6.47943,100.29162,6.51943",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Chuping Balek Bukit"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310623301,
-    "wof:lastmodified":1537673732,
+    "wof:lastmodified":1566643569,
     "wof:name":"Kampung Chuping Balek Bukit",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

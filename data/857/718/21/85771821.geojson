@@ -14,6 +14,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.216739,
     "lbl:longitude":101.63761,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.216313,
     "mps:longitude":101.645324,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
         "Kepong"
     ],
     "name:msa_x_preferred":[
-        "Kepong"
-    ],
-    "name:unk_x_variant":[
         "Kepong"
     ],
     "name:urd_x_preferred":[
@@ -68,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -80,7 +78,6 @@
     "wof:concordances":{
         "gn:id":1760605,
         "gp:id":1154740,
-        "qs:id":281419,
         "qs_pg:id":281419
     },
     "wof:country":"MY",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564190422,
+    "wof:lastmodified":1566642620,
     "wof:name":"Kepong",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

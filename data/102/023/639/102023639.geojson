@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":6.25383,
     "lbl:longitude":100.607725,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.25383,
     "mps:longitude":100.607725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kuala Nerang"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":175,
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":1736331,
         "gp:id":1154784,
-        "qs:id":1255679,
         "qs_pg:id":1255679,
         "wd:id":"Q6441046",
         "wk:page":"Kuala Nerang"
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":102023639,
-    "wof:lastmodified":1561751663,
+    "wof:lastmodified":1566642284,
     "wof:name":"Kuala Nerang",
     "wof:parent_id":1108696471,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.51579,5.27397,100.55579,5.31397",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Padang Janggus"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327137661,
-    "wof:lastmodified":1537673997,
+    "wof:lastmodified":1566642079,
     "wof:name":"Kampung Padang Janggus",
     "wof:parent_id":890490359,
     "wof:placetype":"locality",

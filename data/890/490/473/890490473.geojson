@@ -11,8 +11,12 @@
     "geom:longitude":101.040313,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.940313,4.374699,101.140313,4.574699",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Sungai Terap",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Perak",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014319,
-        "qs:id":1294675
+        "qs_pg:id":1294675
     },
     "wof:country":"MY",
     "wof:created":1469054812,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890490473,
-    "wof:lastmodified":1500013218,
+    "wof:lastmodified":1566643907,
     "wof:name":"Sungai Terap",
     "wof:parent_id":890490953,
     "wof:placetype":"localadmin",

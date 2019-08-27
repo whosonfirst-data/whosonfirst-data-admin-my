@@ -11,8 +11,12 @@
     "geom:longitude":103.096046,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.996046,5.2187655,103.196046,5.4187655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Manir",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Terengganu",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56013798,
-        "qs:id":969611
+        "qs_pg:id":969611
     },
     "wof:country":"MY",
     "wof:created":1469054748,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489201,
-    "wof:lastmodified":1500013519,
+    "wof:lastmodified":1566644014,
     "wof:name":"Manir",
     "wof:parent_id":890490947,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000376,
-    "geom:area_square_m":4643166.442257,
+    "geom:area_square_m":4643166.442259,
     "geom:bbox":"101.656494141,3.13836100623,101.68258667,3.16245553024",
     "geom:latitude":3.151479,
     "geom:longitude":101.666413,
@@ -14,6 +14,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.146998,
     "lbl:longitude":101.667095,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.151154,
     "mps:longitude":101.665357,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Kampong Bukit Mati"
-    ],
-    "name:unk_x_variant":[
         "Kampong Bukit Mati"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -71,7 +69,6 @@
     "wof:concordances":{
         "gn:id":1770191,
         "gp:id":1142836,
-        "qs:id":233039,
         "qs_pg:id":233039
     },
     "wof:country":"MY",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497311896,
+    "wof:lastmodified":1566642616,
     "wof:name":"Kampong Bukit Mati",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

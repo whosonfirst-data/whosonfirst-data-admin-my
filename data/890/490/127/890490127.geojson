@@ -11,11 +11,15 @@
     "geom:longitude":100.48231,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.46231,6.0103,100.50231,6.0503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tanahmerah"
     ],
@@ -43,7 +47,7 @@
     "name:spa_x_preferred":[
         "Tanah Merah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pekan Tanah Merah"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":1751521,
         "gp:id":1155180,
-        "qs:id":1164658,
+        "qs_pg:id":1164658,
         "wd:id":"Q7682219",
         "wk:page":"Tanah Merah"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890490127,
-    "wof:lastmodified":1563240545,
+    "wof:lastmodified":1566643891,
     "wof:name":"Tanah Merah",
     "wof:parent_id":890489109,
     "wof:placetype":"locality",

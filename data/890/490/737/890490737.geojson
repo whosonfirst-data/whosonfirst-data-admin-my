@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":3.848807,
     "lbl:longitude":101.805498,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"PAHANG",
     "meso:diss_me":"RAUBPAHANG",
     "meso:gadm_admin":"Raub",
@@ -32,6 +34,7 @@
     "mps:longitude":101.805498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u0443\u0431"
     ],
@@ -98,9 +101,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"2,269.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Raub",
@@ -121,7 +124,7 @@
     "wof:concordances":{
         "gp:id":56013640,
         "hasc:id":"MY.PH.RA",
-        "qs:id":891097,
+        "qs_pg:id":891097,
         "wd:id":"Q2352205",
         "wk:page":"Raub District"
     },
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":890490737,
-    "wof:lastmodified":1563240508,
+    "wof:lastmodified":1566643870,
     "wof:name":"Raub",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

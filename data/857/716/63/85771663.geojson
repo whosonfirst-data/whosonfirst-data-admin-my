@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5283286.322335,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.731033,4.85173,100.731033,4.85173",
     "geom:latitude":4.85173,
     "geom:longitude":100.731033,
     "iso:country":"MY",
+    "lbl:bbox":"100.726033,4.84673,100.736033,4.85673",
     "lbl:latitude":4.85173,
     "lbl:longitude":100.731033,
+    "lbl:max_zoom":18.0,
     "mps:latitude":4.840557,
     "mps:longitude":100.731257,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Kampong Jambu"
-    ],
-    "name:unk_x_variant":[
         "Kampong Jambu"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -58,13 +57,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675123,
         102191569,
         85632739,
         102023003,
-        890490803,
-        85675123
+        890490803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859439,
+    "wof:lastmodified":1566642618,
     "wof:name":"Kampong Jambu",
     "wof:parent_id":102023003,
     "wof:placetype":"neighbourhood",

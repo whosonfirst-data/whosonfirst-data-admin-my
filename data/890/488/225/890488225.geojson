@@ -11,11 +11,15 @@
     "geom:longitude":100.30178,
     "gn:country":"MY",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.20178,6.12908,100.40178,6.32908",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kubang Pasu"
     ],
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":6807225,
         "gp:id":56014036,
-        "qs:id":1207188,
+        "qs_pg:id":1207188,
         "wk:page":"Kubang Pasu"
     },
     "wof:country":"MY",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890488225,
-    "wof:lastmodified":1564192112,
+    "wof:lastmodified":1566643961,
     "wof:name":"Kubang Pasu",
     "wof:parent_id":890488625,
     "wof:placetype":"localadmin",

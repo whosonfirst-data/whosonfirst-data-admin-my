@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.23115,6.5173,100.27115,6.5573",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Pulau Puchong"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260268403,
-    "wof:lastmodified":1537674230,
+    "wof:lastmodified":1566643504,
     "wof:name":"Kampung Pulau Puchong",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

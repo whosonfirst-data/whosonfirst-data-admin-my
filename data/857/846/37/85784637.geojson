@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3857974.418846,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.900452,1.727338,103.900452,1.727338",
     "geom:latitude":1.727338,
     "geom:longitude":103.900452,
     "iso:country":"MY",
+    "lbl:bbox":"103.895452,1.722338,103.905452,1.732338",
     "lbl:latitude":1.727338,
     "lbl:longitude":103.900452,
+    "lbl:max_zoom":18.0,
     "mps:latitude":1.727338,
     "mps:longitude":103.900452,
     "mz:hierarchy_label":0,
@@ -23,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
-    "name:und_x_preferred":[
-        "Taman Seri Kemang"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Seri Kemang"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -58,13 +57,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675141,
         102191569,
         85632739,
         102022769,
-        890491003,
-        85675141
+        890491003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +85,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860636,
+    "wof:lastmodified":1566642600,
     "wof:name":"Taman Seri Kemang",
     "wof:parent_id":102022769,
     "wof:placetype":"neighbourhood",

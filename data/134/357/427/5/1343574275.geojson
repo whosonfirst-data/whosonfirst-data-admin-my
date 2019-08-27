@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.61397,5.82625,100.65397,5.86625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kuala Semir"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343574275,
-    "wof:lastmodified":1537674264,
+    "wof:lastmodified":1566642469,
     "wof:name":"Kampung Kuala Semir",
     "wof:parent_id":1108696515,
     "wof:placetype":"locality",

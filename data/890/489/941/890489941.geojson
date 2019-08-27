@@ -11,8 +11,12 @@
     "geom:longitude":103.225608,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.205608,3.840599,103.245608,3.880599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Propinsi Palawan"
     ],
@@ -169,7 +173,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1154976,
-        "qs:id":1112279,
+        "qs_pg:id":1112279,
         "wk:page":"Palawan"
     },
     "wof:country":"MY",
@@ -185,7 +189,7 @@
         }
     ],
     "wof:id":890489941,
-    "wof:lastmodified":1564192148,
+    "wof:lastmodified":1566643996,
     "wof:name":"Palawan",
     "wof:parent_id":890490895,
     "wof:placetype":"locality",

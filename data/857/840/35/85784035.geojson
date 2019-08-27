@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4633345.197177,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.589633,3.135974,101.589633,3.135974",
     "geom:latitude":3.135974,
     "geom:longitude":101.589633,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.584633,3.130974,101.594633,3.140974",
     "lbl:latitude":3.135974,
     "lbl:longitude":101.589633,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.134948,
     "mps:longitude":101.585417,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Taman Bukit Mayang Emas"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Bukit Mayang Emas"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023395,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015928,
-        "qs:id":115719,
         "qs_pg:id":115719
     },
     "wof:country":"MY",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860571,
+    "wof:lastmodified":1566642601,
     "wof:name":"Taman Bukit Mayang Emas",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,12 @@
     "geom:longitude":103.423527,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.403527,4.758139,103.443527,4.798139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kuala Dungun"
     ],
@@ -52,7 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1151797,
-        "qs:id":1175313,
+        "qs_pg:id":1175313,
         "wd:id":"Q5256508",
         "wk:page":"Kuala Dungun"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890490185,
-    "wof:lastmodified":1563240594,
+    "wof:lastmodified":1566643922,
     "wof:name":"Kuala Dungun",
     "wof:parent_id":890490253,
     "wof:placetype":"locality",

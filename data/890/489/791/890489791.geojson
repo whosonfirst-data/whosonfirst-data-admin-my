@@ -12,7 +12,12 @@
     "gn:country":"MY",
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"118.57003,4.372111,118.61003,4.412111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Bulingisan",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Sabah",
@@ -30,11 +35,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1140989,
-        "qs:id":1111233
+        "qs_pg:id":1111233
     },
     "wof:country":"MY",
     "wof:created":1469054770,
-    "wof:geomhash":"70db873e1f5163eed61cb1876469b70b",
+    "wof:geomhash":"175093559ce08da2edd161644e8d5970",
     "wof:hierarchy":[
         {
             "country_id":85632739,
@@ -42,7 +47,7 @@
         }
     ],
     "wof:id":890489791,
-    "wof:lastmodified":1470255697,
+    "wof:lastmodified":1566643980,
     "wof:name":"Bulingisan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

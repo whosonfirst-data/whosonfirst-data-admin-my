@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.2845,4.9514,103.3245,4.9914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Batu Putih"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277156629,
-    "wof:lastmodified":1537674302,
+    "wof:lastmodified":1566643003,
     "wof:name":"Kampung Batu Putih",
     "wof:parent_id":890490535,
     "wof:placetype":"locality",

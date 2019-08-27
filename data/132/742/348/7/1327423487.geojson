@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.23228,5.30923,100.27228,5.34923",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Kafri",
         "Kampung Kafri"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327423487,
-    "wof:lastmodified":1537674089,
+    "wof:lastmodified":1566642219,
     "wof:name":"Kampung Kafri",
     "wof:parent_id":890489155,
     "wof:placetype":"locality",

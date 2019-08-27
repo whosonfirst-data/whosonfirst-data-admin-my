@@ -11,11 +11,15 @@
     "geom:longitude":101.6024,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.5824,3.5708,101.6224,3.6108",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kerling"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1732675,
         "gp:id":1154743,
-        "qs:id":888251,
+        "qs_pg:id":888251,
         "wd:id":"Q15235706",
         "wk:page":"Kerling"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890490235,
-    "wof:lastmodified":1561751759,
+    "wof:lastmodified":1566643884,
     "wof:name":"Kerling",
     "wof:parent_id":890489129,
     "wof:placetype":"locality",

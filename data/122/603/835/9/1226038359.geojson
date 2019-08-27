@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.91333,3.46333,101.95333,3.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226038359,
-    "wof:lastmodified":1536735915,
+    "wof:lastmodified":1566644522,
     "wof:name":"Kampong Mengai",
     "wof:parent_id":1108696389,
     "wof:placetype":"locality",

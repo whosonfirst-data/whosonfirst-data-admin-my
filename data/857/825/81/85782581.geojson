@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000413,
-    "geom:area_square_m":5097719.811935,
+    "geom:area_square_m":5097719.811943,
     "geom:bbox":"101.707768988,3.08017075225,101.736137075,3.10349428994",
     "geom:latitude":3.09003,
     "geom:longitude":101.723731,
@@ -14,6 +14,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.09338,
     "lbl:longitude":101.727584,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.089529,
     "mps:longitude":101.72488,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
     ],
     "name:msa_x_preferred":[
         "Taman Maridah"
-    ],
-    "name:unk_x_variant":[
-        "Taman Midah"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -62,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -74,7 +72,6 @@
     "wof:concordances":{
         "gn:id":7797208,
         "gp:id":55862662,
-        "qs:id":224224,
         "qs_pg:id":224224
     },
     "wof:country":"MY",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497314565,
+    "wof:lastmodified":1566642604,
     "wof:name":"Taman Midah",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.23349,6.39326,100.27349,6.43326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Banat"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276426631,
-    "wof:lastmodified":1537673734,
+    "wof:lastmodified":1566642935,
     "wof:name":"Kampung Banat",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

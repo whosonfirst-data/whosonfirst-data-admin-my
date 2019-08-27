@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.7651,2.5628,101.8051,2.6028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kuala Lukut"
     ],
     "name:und_x_variant":[
-        "Kampong Kuala Lukut",
-        "Kampung Kuala Lukut"
+        "Kampong Kuala Lukut"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276441019,
-    "wof:lastmodified":1537674060,
+    "wof:lastmodified":1566642920,
     "wof:name":"Kampung Kuala Lukut",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

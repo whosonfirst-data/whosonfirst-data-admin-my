@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":4.941715,
     "lbl:longitude":101.006818,
+    "lbl:min_zoom":8.0,
     "mps:latitude":4.918141,
     "mps:longitude":101.007998,
     "mz:hierarchy_label":1,
@@ -217,10 +218,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0430\u043a"
     ],
-    "name:und_x_preferred":[
-        "Perak"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "State of Perak"
     ],
     "name:urd_x_preferred":[
@@ -316,9 +314,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"21,005",
     "statoids:area_mi":"8,110",
     "statoids:as_of_date":"2010-07-06",
@@ -344,7 +342,7 @@
         "gp:id":2346302,
         "hasc:id":"MY.PK",
         "iso:id":"MY-08",
-        "qs:id":1075586,
+        "qs_pg:id":1075586,
         "unlc:id":"MY-08",
         "wd:id":"Q188953",
         "wk:page":"Perak"
@@ -359,20 +357,16 @@
         }
     ],
     "wof:id":85675123,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "msa"
     ],
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1563239083,
+    "wof:lastmodified":1566642628,
     "wof:name":"Perak",
     "wof:parent_id":85632739,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":1916987,
     "wof:population_rank":12,

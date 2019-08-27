@@ -11,11 +11,15 @@
     "geom:longitude":100.9794,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.9594,3.6553,100.9994,3.6953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Seri"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7651140,
         "gp:id":55862715,
-        "qs:id":56207
+        "qs_pg:id":56207
     },
     "wof:country":"MY",
     "wof:created":1469054785,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890490019,
-    "wof:lastmodified":1505343787,
+    "wof:lastmodified":1566643907,
     "wof:name":"Taman Segar",
     "wof:parent_id":890490813,
     "wof:placetype":"locality",

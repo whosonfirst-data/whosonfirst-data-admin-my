@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
-    "geom:area_square_m":463219.225086,
+    "geom:area_square_m":463219.22509,
     "geom:bbox":"101.656494141,3.17239509652,101.661987305,3.18165637712",
     "geom:latitude":3.176236,
     "geom:longitude":101.659056,
@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.175196,
     "lbl:longitude":101.65951,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.17609,
     "mps:longitude":101.659278,
     "mz:hierarchy_label":1,
@@ -24,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
-    "name:und_x_preferred":[
-        "Bukit Segambut"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bukit Segambut"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -67,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56035808,
-        "qs:id":118696,
         "qs_pg:id":118696
     },
     "wof:country":"MY",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269417,
+    "wof:lastmodified":1566642589,
     "wof:name":"Bukit Segambut",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

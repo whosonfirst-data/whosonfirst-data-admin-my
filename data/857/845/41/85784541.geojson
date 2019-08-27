@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5174424.391083,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.629864,3.059074,101.629864,3.059074",
     "geom:latitude":3.059074,
     "geom:longitude":101.629864,
     "iso:country":"MY",
+    "lbl:bbox":"101.624864,3.054074,101.634864,3.064074",
     "lbl:latitude":3.059074,
     "lbl:longitude":101.629864,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.061254,
     "mps:longitude":101.630996,
     "mz:hierarchy_label":0,
@@ -23,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Taman Tenaga"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Tenaga"
     ],
     "qs:gn_id":0,
@@ -55,13 +54,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023809,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +82,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860623,
+    "wof:lastmodified":1566642580,
     "wof:name":"Taman Tenaga",
     "wof:parent_id":102023809,
     "wof:placetype":"neighbourhood",

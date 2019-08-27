@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
-    "geom:area_square_m":3134878.313406,
+    "geom:area_square_m":3134878.313404,
     "geom:bbox":"100.708125996,6.30079652248,100.726200132,6.31888077691",
     "geom:latitude":6.309839,
     "geom:longitude":100.717163,
@@ -14,10 +14,14 @@
     "iso:country":"MY",
     "lbl:latitude":6.309839,
     "lbl:longitude":100.717163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.309839,
     "mps:longitude":100.717163,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Padang Terap"
     ],
     "qs:a0":"Malaysia",
@@ -36,7 +40,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":1736318,
         "gp:id":56119097,
-        "qs:id":1026642
+        "qs_pg:id":1026642
     },
     "wof:country":"MY",
     "wof:geomhash":"2c469a67ac1f0fdb39723476dd3ceb1d",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":102023635,
-    "wof:lastmodified":1501222132,
+    "wof:lastmodified":1566642254,
     "wof:name":"Kampung Padang Terap",
     "wof:parent_id":1108696471,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":102.262597,
     "gn:country":"MY",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":6.011259,
     "lbl:longitude":102.261056,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KELANTAN",
     "meso:diss_me":"KOTA BHARUKELANTAN",
     "meso:gadm_admin":"Kota Bharu",
@@ -35,6 +37,7 @@
     "mps:longitude":102.261056,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0627 \u0628\u0647\u0627\u0631\u0648"
     ],
@@ -179,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0442\u0430-\u0411\u0430\u0440\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Daerah Kota Baharu"
     ],
     "name:urd_x_preferred":[
@@ -212,9 +215,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"409.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Kota Bharu",
@@ -236,7 +239,7 @@
         "gn:id":1736375,
         "gp:id":56013620,
         "hasc:id":"MY.KN.KB",
-        "qs:id":1105139,
+        "qs_pg:id":1105139,
         "wd:id":"Q651131",
         "wk:page":"Kota Bharu"
     },
@@ -252,7 +255,7 @@
         }
     ],
     "wof:id":890489783,
-    "wof:lastmodified":1563240727,
+    "wof:lastmodified":1566643999,
     "wof:name":"Kota Bharu",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

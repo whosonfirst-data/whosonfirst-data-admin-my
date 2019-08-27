@@ -11,11 +11,15 @@
     "geom:longitude":102.6527,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":30280,
+    "gn:population":30280,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.6327,2.0241,102.6727,2.0641",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Bakri"
     ],
@@ -35,9 +39,6 @@
         "\u0411\u0430\u043a\u0440\u0438"
     ],
     "name:spa_x_preferred":[
-        "Bukit Bakri"
-    ],
-    "name:unk_x_variant":[
         "Bukit Bakri"
     ],
     "name:zho_x_preferred":[
@@ -66,7 +67,7 @@
     "wof:concordances":{
         "gn:id":1732871,
         "gp:id":1140759,
-        "qs:id":471972,
+        "qs_pg:id":471972,
         "wd:id":"Q2251637",
         "wk:page":"Bakri"
     },
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":890489067,
-    "wof:lastmodified":1563240763,
+    "wof:lastmodified":1566644016,
     "wof:name":"Bakri",
     "wof:parent_id":890488721,
     "wof:placetype":"locality",

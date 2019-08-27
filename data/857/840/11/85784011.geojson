@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6766272.989788,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.582209,3.157811,101.582209,3.157811",
     "geom:latitude":3.157811,
     "geom:longitude":101.582209,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.577209,3.152811,101.587209,3.162811",
     "lbl:latitude":3.157811,
     "lbl:longitude":101.582209,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.158454,
     "mps:longitude":101.576297,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Seri Utama Damansara"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Seri Utama Damansara"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023395,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015725,
-        "qs:id":234086,
         "qs_pg:id":234086
     },
     "wof:country":"MY",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860569,
+    "wof:lastmodified":1566642601,
     "wof:name":"Seri Utama Damansara",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

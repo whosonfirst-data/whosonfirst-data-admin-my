@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.3675,4.2694,102.4075,4.3094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Pasir Sumpit"
     ],
     "name:und_x_variant":[
-        "Kampong Pasir Sempit",
-        "Kampung Pasir Sumpit"
+        "Kampong Pasir Sempit"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1343559065,
-    "wof:lastmodified":1537673674,
+    "wof:lastmodified":1566642358,
     "wof:name":"Kampung Pasir Sumpit",
     "wof:parent_id":890489711,
     "wof:placetype":"locality",

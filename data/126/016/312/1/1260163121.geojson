@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.5024,5.5002,115.5424,5.5402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Silico"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260163121,
-    "wof:lastmodified":1537673676,
+    "wof:lastmodified":1566643477,
     "wof:name":"Kampung Silico",
     "wof:parent_id":890490799,
     "wof:placetype":"locality",

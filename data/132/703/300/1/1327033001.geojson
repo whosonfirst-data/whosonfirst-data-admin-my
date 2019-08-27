@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.52994,5.42631,100.56994,5.46631",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Sungai Seluang"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327033001,
-    "wof:lastmodified":1537673761,
+    "wof:lastmodified":1566642130,
     "wof:name":"Kampung Sungai Seluang",
     "wof:parent_id":890490359,
     "wof:placetype":"locality",

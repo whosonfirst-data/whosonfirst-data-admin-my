@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3026047.926653,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.291681,5.335334,100.291681,5.335334",
     "geom:latitude":5.335334,
     "geom:longitude":100.291681,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"100.286681,5.330334,100.296681,5.340334",
     "lbl:latitude":5.335334,
     "lbl:longitude":100.291681,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.334833,
     "mps:longitude":100.288724,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Taman Saw Kit"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Saw Kit"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023363,
-        890489155,
-        85675127
+        890489155
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56016873,
-        "qs:id":1088756,
         "qs_pg:id":1088756
     },
     "wof:country":"MY",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860584,
+    "wof:lastmodified":1566642597,
     "wof:name":"Taman Saw Kit",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

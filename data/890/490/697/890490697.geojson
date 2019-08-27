@@ -11,11 +11,14 @@
     "geom:longitude":103.0272,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.0222,1.8547,103.0322,1.8647",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Permata"
     ],
@@ -38,7 +41,7 @@
     "wof:concordances":{
         "gn:id":7857503,
         "gp:id":56017201,
-        "qs:id":208198
+        "qs_pg:id":208198
     },
     "wof:country":"MY",
     "wof:created":1469054821,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":890490697,
-    "wof:lastmodified":1505343789,
+    "wof:lastmodified":1566643909,
     "wof:name":"Taman Teratai",
     "wof:parent_id":102022741,
     "wof:placetype":"neighbourhood",

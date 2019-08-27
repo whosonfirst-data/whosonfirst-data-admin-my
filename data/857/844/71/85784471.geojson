@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5760834.372091,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.336853,3.795743,103.336853,3.795743",
     "geom:latitude":3.795743,
     "geom:longitude":103.336853,
     "gn:latitude":3.7947,
     "gn:longitude":103.3379,
     "iso:country":"MY",
+    "lbl:bbox":"103.331853,3.790743,103.341853,3.800743",
     "lbl:latitude":3.795743,
     "lbl:longitude":103.336853,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.793595,
     "mps:longitude":103.340291,
     "mz:hierarchy_label":0,
@@ -28,12 +30,9 @@
     "name:msa_x_preferred":[
         "Kampung Teluk Baharu"
     ],
-    "name:und_x_preferred":[
-        "Kampung Teluk Baru"
-    ],
-    "name:unk_x_variant":[
-        "Telok Baru",
-        "Kampung Teluk Baru"
+    "name:und_x_variant":[
+        "Kampung Teluk Baru",
+        "Telok Baru"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -65,19 +64,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675159,
         102191569,
         85632739,
         102023459,
-        890490895,
-        85675159
+        890490895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1732543,
         "gp:id":56036513,
-        "qs:id":1105197,
         "qs_pg:id":1105197
     },
     "wof:country":"MY",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860613,
+    "wof:lastmodified":1566642592,
     "wof:name":"Kampung Teluk Baru",
     "wof:parent_id":102023459,
     "wof:placetype":"neighbourhood",

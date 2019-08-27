@@ -11,11 +11,15 @@
     "geom:longitude":102.13521,
     "gn:country":"MY",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.03521,6.10101,102.23521,6.30101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tumpat"
     ],
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":7068169,
         "gp:id":56013705,
-        "qs:id":4679,
+        "qs_pg:id":4679,
         "wk:page":"Tumpat"
     },
     "wof:country":"MY",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890488979,
-    "wof:lastmodified":1564192097,
+    "wof:lastmodified":1566643944,
     "wof:name":"Tumpat",
     "wof:parent_id":890489803,
     "wof:placetype":"localadmin",

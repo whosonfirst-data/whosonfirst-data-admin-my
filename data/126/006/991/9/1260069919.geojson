@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.3974,5.10519,100.4374,5.14519",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Sungai Bakau"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260069919,
-    "wof:lastmodified":1537674268,
+    "wof:lastmodified":1566643460,
     "wof:name":"Kampung Sungai Bakau",
     "wof:parent_id":890489801,
     "wof:placetype":"locality",

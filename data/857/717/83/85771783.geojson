@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000228,
-    "geom:area_square_m":2820179.781441,
+    "geom:area_square_m":2820179.781437,
     "geom:bbox":"101.708679199,3.1274842272,101.730651855,3.14325855654",
     "geom:latitude":3.136168,
     "geom:longitude":101.720384,
@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.138693,
     "lbl:longitude":101.714247,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.136286,
     "mps:longitude":101.721274,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
     ],
     "name:eng_x_variant":[
         "Pudu"
-    ],
-    "name:unk_x_variant":[
-        "Pudoh"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_id":0,
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -70,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1152671,
-        "qs:id":1115608,
         "qs_pg:id":1115608
     },
     "wof:country":"MY",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269549,
+    "wof:lastmodified":1566642615,
     "wof:name":"Pudoh",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

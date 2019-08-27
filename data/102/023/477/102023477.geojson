@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":4.542623,
     "lbl:longitude":101.415666,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":4.542623,
     "mps:longitude":101.415666,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Cameron Highlands"
     ],
@@ -248,7 +251,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":6606,
     "wof:belongsto":[
         102191569,
@@ -275,7 +278,7 @@
         }
     ],
     "wof:id":102023477,
-    "wof:lastmodified":1563238543,
+    "wof:lastmodified":1566642246,
     "wof:name":"Cameron Highlands",
     "wof:parent_id":1108696393,
     "wof:placetype":"locality",

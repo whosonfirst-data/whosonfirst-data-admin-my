@@ -11,8 +11,12 @@
     "geom:longitude":103.453201,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.353201,4.32063,103.553201,4.52063",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kemasik"
     ],
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56013804,
-        "qs:id":1306815,
+        "qs_pg:id":1306815,
         "wd:id":"Q4204526",
         "wk:page":"Kemasik"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890488487,
-    "wof:lastmodified":1563240659,
+    "wof:lastmodified":1566643960,
     "wof:name":"Kemasik",
     "wof:parent_id":890490801,
     "wof:placetype":"localadmin",

@@ -11,8 +11,11 @@
     "geom:longitude":101.080528,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.075528,4.58113,101.085528,4.59113",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Taman Tawas Jaya",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Perak",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675123,
         102191569,
         85632739,
         102023021,
-        890490953,
-        85675123
+        890490953
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037611,
-        "qs:id":790098
+        "qs_pg:id":790098
     },
     "wof:country":"MY",
     "wof:created":1469054713,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890488279,
-    "wof:lastmodified":1500013249,
+    "wof:lastmodified":1566643958,
     "wof:name":"Taman Tawas Jaya",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

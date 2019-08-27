@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"110.50177,0.9519,110.54177,0.9919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lobang Batu",
         "Kampong Lobang Batu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260058395,
-    "wof:lastmodified":1537674036,
+    "wof:lastmodified":1566643515,
     "wof:name":"Kampong Lobang Batu",
     "wof:parent_id":1108696511,
     "wof:placetype":"locality",

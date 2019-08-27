@@ -11,8 +11,12 @@
     "geom:longitude":100.199154,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.179154,5.287119,100.219154,5.327119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Palau Betong",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Pulau Pinang",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56070831,
-        "qs:id":797063
+        "qs_pg:id":797063
     },
     "wof:country":"MY",
     "wof:created":1469054810,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890490453,
-    "wof:lastmodified":1500013261,
+    "wof:lastmodified":1566643887,
     "wof:name":"Palau Betong",
     "wof:parent_id":890489155,
     "wof:placetype":"locality",

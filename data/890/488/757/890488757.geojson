@@ -11,8 +11,11 @@
     "geom:longitude":100.3129,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.3079,5.414062,100.3179,5.424062",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Dato' Kramat",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Pulau Pinang",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023367,
-        1108696537,
-        85675127
+        1108696537
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1141061,
-        "qs:id":1325071
+        "qs_pg:id":1325071
     },
     "wof:country":"MY",
     "wof:created":1469054731,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890488757,
-    "wof:lastmodified":1500013277,
+    "wof:lastmodified":1566643954,
     "wof:name":"Dato' Kramat",
     "wof:parent_id":102023367,
     "wof:placetype":"neighbourhood",

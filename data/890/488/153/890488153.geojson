@@ -12,7 +12,12 @@
     "gn:country":"MY",
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"99.710367,6.262709,99.750367,6.302709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Temoyong",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Kedah",
@@ -32,11 +37,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1155216,
-        "qs:id":1112368
+        "qs_pg:id":1112368
     },
     "wof:country":"MY",
     "wof:created":1469054709,
-    "wof:geomhash":"72fad5197ec6daf785f92b85d5281955",
+    "wof:geomhash":"050ec89a9258867f67bdd00029cc7b02",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -46,7 +51,7 @@
         }
     ],
     "wof:id":890488153,
-    "wof:lastmodified":1469054709,
+    "wof:lastmodified":1566643950,
     "wof:name":"Temoyong",
     "wof:parent_id":85675137,
     "wof:placetype":"locality",

@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":3.03804,
     "lbl:longitude":102.114748,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NEGERI SEMBILAN",
     "meso:diss_me":"JELEBUNEGERI SEMBILAN",
     "meso:gadm_admin":"Jelebu",
@@ -32,6 +34,7 @@
     "mps:longitude":102.114748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Jelebu"
     ],
@@ -75,9 +78,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"1,368.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Jelebu",
@@ -98,7 +101,7 @@
     "wof:concordances":{
         "gp:id":56013627,
         "hasc:id":"MY.NS.JL",
-        "qs:id":1311124,
+        "qs_pg:id":1311124,
         "wd:id":"Q933043",
         "wk:page":"Jelebu District"
     },
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":890488317,
-    "wof:lastmodified":1563240677,
+    "wof:lastmodified":1566643971,
     "wof:name":"Jelebu",
     "wof:parent_id":85675155,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.76171,5.48836,102.80171,5.52836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Pak Kancil"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309882191,
-    "wof:lastmodified":1537674270,
+    "wof:lastmodified":1566643855,
     "wof:name":"Kampung Pak Kancil",
     "wof:parent_id":1108696513,
     "wof:placetype":"locality",

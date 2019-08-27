@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3344094.744651,
+    "geom:area_square_m":0.0,
     "geom:bbox":"102.250977,2.202727,102.250977,2.202727",
     "geom:latitude":2.202727,
     "geom:longitude":102.250977,
     "gn:latitude":2.20522,
     "gn:longitude":102.24954,
     "iso:country":"MY",
+    "lbl:bbox":"102.245977,2.197727,102.255977,2.207727",
     "lbl:latitude":2.202727,
     "lbl:longitude":102.250977,
+    "lbl:max_zoom":18.0,
     "mps:latitude":2.207407,
     "mps:longitude":102.249918,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:und_x_variant":[
         "Kampung Morten"
-    ],
-    "name:unk_x_variant":[
-        "Kampong Morten"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -64,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675151,
         102191569,
         85632739,
         102023085,
-        890489715,
-        85675151
+        890489715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1766781,
         "gp:id":1146251,
-        "qs:id":1167912,
         "qs_pg:id":1167912
     },
     "wof:country":"MY",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859444,
+    "wof:lastmodified":1566642617,
     "wof:name":"Kampong Morten",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

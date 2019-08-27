@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6042882.05965,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.309932,5.318606,100.309932,5.318606",
     "geom:latitude":5.318606,
     "geom:longitude":100.309932,
@@ -13,8 +13,10 @@
     "gn:latitude":5.40116,
     "gn:longitude":100.37129,
     "iso:country":"MY",
+    "lbl:bbox":"100.304932,5.313606,100.314932,5.323606",
     "lbl:latitude":5.318606,
     "lbl:longitude":100.309932,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.314762,
     "mps:longitude":100.311153,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Kampong Jawa"
-    ],
-    "name:unk_x_variant":[
         "Kampong Jawa"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -61,20 +60,20 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023363,
-        890489155,
-        85675127
+        890489155
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"01e4b2f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6823185,
         "gp:id":1144122,
-        "qs:id":1111449
+        "qs_pg:id":1111449
     },
     "wof:country":"MY",
     "wof:geomhash":"478a5e799fdc5602f479069f9df08c37",
@@ -92,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859440,
+    "wof:lastmodified":1566642617,
     "wof:name":"Kampong Jawa",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

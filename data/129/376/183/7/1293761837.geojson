@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"112.69667,1.68,112.73667,1.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rumah Kulleh",
         "Rumah Kuleh"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293761837,
-    "wof:lastmodified":1537673774,
+    "wof:lastmodified":1566642724,
     "wof:name":"Rumah Kuleh",
     "wof:parent_id":1108696521,
     "wof:placetype":"locality",

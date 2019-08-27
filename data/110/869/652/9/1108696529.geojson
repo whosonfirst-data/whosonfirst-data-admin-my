@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":2.566402,
     "lbl:longitude":102.481633,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NEGERI SEMBILAN",
     "meso:diss_me":"TAMPINNEGERI SEMBILAN",
     "meso:gadm_admin":"Tampin",
@@ -31,6 +33,7 @@
     "mps:longitude":102.481633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tampin"
     ],
@@ -39,9 +42,9 @@
         "TAMPIN"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"878.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Tampin",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108696529,
-    "wof:lastmodified":1553718305,
+    "wof:lastmodified":1566643528,
     "wof:name":"Tampin",
     "wof:parent_id":85675155,
     "wof:placetype":"county",

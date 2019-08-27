@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.899742,
     "lbl:longitude":100.781191,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.899742,
     "mps:longitude":100.781191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Selekoh"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":1735181,
         "gp:id":1155089,
-        "qs:id":785535,
         "qs_pg:id":785535,
         "wd:id":"Q7432916",
         "wk:page":"Selekoh"
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":102023441,
-    "wof:lastmodified":1561751655,
+    "wof:lastmodified":1566642248,
     "wof:name":"Selekoh",
     "wof:parent_id":890490073,
     "wof:placetype":"locality",

@@ -9,15 +9,16 @@
     "geom:bbox":"101.651000977,2.87720795265,101.734768091,2.97595593594",
     "geom:latitude":2.932587,
     "geom:longitude":101.690926,
-    "gn:gn_country":"MY",
-    "gn:gn_fcode":"PPLG",
-    "gn:gn_pop":50000,
+    "gn:country":"MY",
+    "gn:fcode":"PPLG",
     "gn:latitude":2.93527,
     "gn:longitude":101.69112,
     "gn:population":50000,
     "iso:country":"MY",
     "lbl:latitude":2.93886,
     "lbl:longitude":101.695879,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":2.93886,
     "mps:longitude":101.695879,
     "mz:hierarchy_label":1,
@@ -332,9 +333,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0442\u0440\u0430\u0434\u0436\u0430\u044f"
     ],
-    "name:und_x_preferred":[
-        "Putrajaya"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u062a\u0631\u0627\u062c\u0627\u06cc\u0627"
     ],
@@ -499,7 +497,7 @@
     "qs_pg:woe_id":22664158,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -513,7 +511,6 @@
         "fct:id":"01d99f6a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6697380,
         "gp:id":22664158,
-        "qs:id":1241822,
         "qs_pg:id":1241822,
         "wd:id":"Q182378"
     },
@@ -532,7 +529,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563238643,
+    "wof:lastmodified":1566642296,
     "wof:megacity":0,
     "wof:name":"Putrajaya",
     "wof:parent_id":890489971,

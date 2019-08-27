@@ -11,8 +11,12 @@
     "geom:longitude":100.38002,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.28002,4.979317,100.48002,5.179317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Bagan Tiang",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Perak",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014373,
-        "qs:id":287352
+        "qs_pg:id":287352
     },
     "wof:country":"MY",
     "wof:created":1469054728,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890488675,
-    "wof:lastmodified":1500013215,
+    "wof:lastmodified":1566643930,
     "wof:name":"Bagan Tiang",
     "wof:parent_id":890489801,
     "wof:placetype":"localadmin",

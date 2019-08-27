@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.45998,5.80539,100.49998,5.84539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Masjid"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344165659,
-    "wof:lastmodified":1537674264,
+    "wof:lastmodified":1566642515,
     "wof:name":"Kampung Masjid",
     "wof:parent_id":890490355,
     "wof:placetype":"locality",

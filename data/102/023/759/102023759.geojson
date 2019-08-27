@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":4.84534,
     "lbl:longitude":115.416589,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":4.84534,
     "mps:longitude":115.416589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lawas"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":4.833333,
     "wd:longitude":115.4,
     "wd:wordcount":990,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":1737589,
         "gp:id":1154824,
-        "qs:id":355292,
         "qs_pg:id":355292,
         "wd:id":"Q6503576",
         "wk:page":"Lawas"
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":102023759,
-    "wof:lastmodified":1563238601,
+    "wof:lastmodified":1566642273,
     "wof:name":"Lawas",
     "wof:parent_id":1108696445,
     "wof:placetype":"locality",

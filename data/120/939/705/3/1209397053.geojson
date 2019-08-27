@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.88,5.48,115.92,5.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u064a\u062d"
     ],
@@ -186,8 +190,7 @@
         "\u0413\u043d\u0456\u0439"
     ],
     "name:und_x_variant":[
-        "Kuala Pus",
-        "Pus"
+        "Kuala Pus"
     ],
     "name:vie_x_preferred":[
         "M\u1ee7"
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":1209397053,
-    "wof:lastmodified":1564191076,
+    "wof:lastmodified":1566643158,
     "wof:name":"Pus",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",

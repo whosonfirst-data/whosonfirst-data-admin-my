@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10781539.143931,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.370296,3.811497,103.370296,3.811497",
     "geom:latitude":3.811497,
     "geom:longitude":103.370296,
     "gn:latitude":3.8167,
     "gn:longitude":103.3635,
     "iso:country":"MY",
+    "lbl:bbox":"103.365296,3.806497,103.375296,3.816497",
     "lbl:latitude":3.811497,
     "lbl:longitude":103.370296,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.805652,
     "mps:longitude":103.368439,
     "mz:hierarchy_label":0,
@@ -28,12 +30,8 @@
     "name:msa_x_preferred":[
         "Kampung Tanjung Sisik"
     ],
-    "name:und_x_preferred":[
-        "Kampung Tanjung Sisik"
-    ],
-    "name:unk_x_variant":[
-        "Kampong Telok Sisek",
-        "Kampung Tanjung Sisik"
+    "name:und_x_variant":[
+        "Kampong Telok Sisek"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -65,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675159,
         102191569,
         85632739,
         102023459,
-        890490895,
-        85675159
+        890490895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1762968,
         "gp:id":56036515,
-        "qs:id":1206023,
         "qs_pg:id":1206023
     },
     "wof:country":"MY",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860613,
+    "wof:lastmodified":1566642591,
     "wof:name":"Kampung Tanjung Sisik",
     "wof:parent_id":102023459,
     "wof:placetype":"neighbourhood",

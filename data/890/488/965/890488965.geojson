@@ -11,8 +11,12 @@
     "geom:longitude":100.341685,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.2416855,6.0819415,100.4416855,6.2819415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gunong"
     ],
@@ -37,7 +41,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014149,
-        "qs:id":406396,
+        "qs_pg:id":406396,
         "wd:id":"Q5619294",
         "wk:page":"Gunong"
     },
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890488965,
-    "wof:lastmodified":1563240600,
+    "wof:lastmodified":1566643926,
     "wof:name":"Gunong",
     "wof:parent_id":890490361,
     "wof:placetype":"localadmin",

@@ -11,8 +11,12 @@
     "geom:longitude":103.172349,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.152349,5.265152,103.192349,5.305152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Taman Rekreasi Teluk Ibai",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Terengganu",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56016833,
-        "qs:id":891819
+        "qs_pg:id":891819
     },
     "wof:country":"MY",
     "wof:created":1469054800,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890490323,
-    "wof:lastmodified":1500013524,
+    "wof:lastmodified":1566643890,
     "wof:name":"Taman Rekreasi Teluk Ibai",
     "wof:parent_id":890490947,
     "wof:placetype":"locality",

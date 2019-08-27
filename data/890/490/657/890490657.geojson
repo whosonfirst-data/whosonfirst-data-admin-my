@@ -11,11 +11,15 @@
     "geom:longitude":101.9449,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.9249,4.7713,101.9649,4.8113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Pulai"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1734658,
         "gp:id":1155036,
-        "qs:id":193583
+        "qs_pg:id":193583
     },
     "wof:country":"MY",
     "wof:created":1469054819,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890490657,
-    "wof:lastmodified":1505343789,
+    "wof:lastmodified":1566643887,
     "wof:name":"Pulai",
     "wof:parent_id":890488877,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"111.81333,2.19667,111.85333,2.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rumah Retap",
         "Rumah Rentap"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293368501,
-    "wof:lastmodified":1537673728,
+    "wof:lastmodified":1566642648,
     "wof:name":"Rumah Rentap",
     "wof:parent_id":890488423,
     "wof:placetype":"locality",

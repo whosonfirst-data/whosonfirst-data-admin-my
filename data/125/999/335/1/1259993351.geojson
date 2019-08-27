@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.5632,1.3707,103.6032,1.4107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Tiram Duku Kiri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259993351,
-    "wof:lastmodified":1537673823,
+    "wof:lastmodified":1566644307,
     "wof:name":"Kampung Tiram Duku Kiri",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

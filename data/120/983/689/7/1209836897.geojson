@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.644,4.2102,100.684,4.2502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Bakar Bata"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209836897,
-    "wof:lastmodified":1537674194,
+    "wof:lastmodified":1566643187,
     "wof:name":"Kampung Bakar Bata",
     "wof:parent_id":1108696459,
     "wof:placetype":"locality",

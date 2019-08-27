@@ -11,8 +11,12 @@
     "geom:longitude":101.805462,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.7854615,2.802858,101.8254615,2.842858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Nanggro\u00eb Sembilan"
     ],
@@ -202,7 +206,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56036270,
-        "qs:id":183888,
+        "qs_pg:id":183888,
         "wd:id":"Q213893",
         "wk:page":"Negeri Sembilan"
     },
@@ -219,7 +223,7 @@
         }
     ],
     "wof:id":890490559,
-    "wof:lastmodified":1563240509,
+    "wof:lastmodified":1566643870,
     "wof:name":"Negeri Sembilan",
     "wof:parent_id":890489719,
     "wof:placetype":"locality",

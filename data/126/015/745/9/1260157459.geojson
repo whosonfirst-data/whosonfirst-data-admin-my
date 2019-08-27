@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.0849,5.1374,103.1249,5.1774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Lubuk Pandan"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260157459,
-    "wof:lastmodified":1537674030,
+    "wof:lastmodified":1566643424,
     "wof:name":"Kampung Lubuk Pandan",
     "wof:parent_id":890490535,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":101.0614,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.0564,4.631,101.0664,4.641",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Jelapang"
     ],
@@ -43,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1734638,
         "gp:id":1141227,
-        "qs:id":1058277,
+        "qs_pg:id":1058277,
         "wk:page":"Jelapang"
     },
     "wof:country":"MY",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890489569,
-    "wof:lastmodified":1527792860,
+    "wof:lastmodified":1566643976,
     "wof:name":"Jelapang",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

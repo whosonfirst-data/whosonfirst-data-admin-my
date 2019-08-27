@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":2.430543,
     "lbl:longitude":102.34072,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":2.430543,
     "mps:longitude":102.34072,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0645\u0628\u064a\u0646"
     ],
@@ -51,7 +54,7 @@
     "name:spa_x_preferred":[
         "Tampin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Tebong"
     ],
     "name:vie_x_preferred":[
@@ -68,7 +71,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":816,
     "wof:belongsto":[
         102191569,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":102023057,
-    "wof:lastmodified":1563238622,
+    "wof:lastmodified":1566642284,
     "wof:name":"Kampung Tebong",
     "wof:parent_id":890489809,
     "wof:placetype":"locality",

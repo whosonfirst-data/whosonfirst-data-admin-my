@@ -11,7 +11,7 @@
     "geom:longitude":100.512401,
     "gn:country":"MY",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":5.707733,
     "lbl:longitude":100.525855,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KEDAH",
     "meso:diss_me":"KUALA MUDAKEDAH",
     "meso:gadm_admin":"Kuala Muda",
@@ -35,6 +37,7 @@
     "mps:longitude":100.525855,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kuala Muda"
     ],
@@ -78,9 +81,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"923.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Petani",
@@ -102,7 +105,7 @@
         "gn:id":6805171,
         "gp:id":56013556,
         "hasc:id":"MY.KH.KM",
-        "qs:id":77670,
+        "qs_pg:id":77670,
         "wd:id":"Q1884538",
         "wk:page":"Kuala Muda District"
     },
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":890490355,
-    "wof:lastmodified":1563240513,
+    "wof:lastmodified":1566643873,
     "wof:name":"Kuala Muda",
     "wof:parent_id":85675133,
     "wof:placetype":"county",

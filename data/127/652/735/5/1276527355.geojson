@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.4354,4.5199,103.4754,4.5599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Labuhan"
     ],
     "name:und_x_variant":[
-        "Kampong Labohan",
-        "Kampung Labuhan"
+        "Kampong Labohan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276527355,
-    "wof:lastmodified":1537673702,
+    "wof:lastmodified":1566643077,
     "wof:name":"Kampung Labuhan",
     "wof:parent_id":890490801,
     "wof:placetype":"locality",

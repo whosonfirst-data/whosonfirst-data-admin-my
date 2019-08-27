@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.036298,
     "lbl:longitude":113.406372,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.036298,
     "mps:longitude":113.406372,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bintulu"
     ],
@@ -309,7 +312,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":628,
     "wof:belongsto":[
         102191569,
@@ -321,7 +324,6 @@
     "wof:concordances":{
         "gn:id":1737489,
         "gp:id":1155076,
-        "qs:id":1250076,
         "qs_pg:id":1250076,
         "wd:id":"Q594209"
     },
@@ -337,7 +339,7 @@
         }
     ],
     "wof:id":102023753,
-    "wof:lastmodified":1561751654,
+    "wof:lastmodified":1566642238,
     "wof:name":"Sebauh",
     "wof:parent_id":890488209,
     "wof:placetype":"locality",

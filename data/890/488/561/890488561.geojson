@@ -11,8 +11,12 @@
     "geom:longitude":100.521249,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.421249,6.067474,100.621249,6.267474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jabi"
     ],
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56013772,
-        "qs:id":1313669,
+        "qs_pg:id":1313669,
         "wd:id":"Q6110168",
         "wk:page":"Jabi"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890488561,
-    "wof:lastmodified":1563240603,
+    "wof:lastmodified":1566643928,
     "wof:name":"Jabi",
     "wof:parent_id":890490361,
     "wof:placetype":"localadmin",

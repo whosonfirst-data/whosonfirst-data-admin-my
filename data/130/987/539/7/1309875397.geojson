@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.128,5.3634,116.168,5.4034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Liawan Ulu"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309875397,
-    "wof:lastmodified":1537673797,
+    "wof:lastmodified":1566643840,
     "wof:name":"Kampung Liawan Ulu",
     "wof:parent_id":1108696411,
     "wof:placetype":"locality",

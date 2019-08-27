@@ -11,10 +11,14 @@
     "geom:longitude":100.45091,
     "gn:country":"MY",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"MY",
+    "lbl:bbox":"100.35091,5.25269,100.55091,5.45269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Setiu"
     ],
@@ -55,7 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6819346,
-        "qs:id":379693,
+        "qs_pg:id":379693,
         "wk:page":"Setiu District"
     },
     "wof:country":"MY",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890488849,
-    "wof:lastmodified":1564192111,
+    "wof:lastmodified":1566643959,
     "wof:name":"Mukim Sepuluh",
     "wof:parent_id":890489737,
     "wof:placetype":"localadmin",

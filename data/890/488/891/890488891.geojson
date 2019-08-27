@@ -11,8 +11,12 @@
     "geom:longitude":101.645164,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.625164,3.149311,101.665164,3.189311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bandar Menjalara"
     ],
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55862695,
-        "qs:id":1031204,
+        "qs_pg:id":1031204,
         "wd:id":"Q4209386",
         "wk:page":"Bandar Menjalara"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890488891,
-    "wof:lastmodified":1563240664,
+    "wof:lastmodified":1566643964,
     "wof:name":"Bandar Manjalara",
     "wof:parent_id":890490945,
     "wof:placetype":"locality",

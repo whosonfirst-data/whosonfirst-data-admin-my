@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.307,4.0417,102.347,4.0817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kuala Retang"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293222777,
-    "wof:lastmodified":1537674058,
+    "wof:lastmodified":1566642745,
     "wof:name":"Kampung Kuala Retang",
     "wof:parent_id":890489711,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.4451,5.24235,100.4851,5.28235",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pa\u2019 Mong",
         "Kampong Pa\u2019 Mong",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259869351,
-    "wof:lastmodified":1537673990,
+    "wof:lastmodified":1566644425,
     "wof:name":"Kampung Pa Mong",
     "wof:parent_id":1108696503,
     "wof:placetype":"locality",

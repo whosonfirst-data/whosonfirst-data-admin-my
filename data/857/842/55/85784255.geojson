@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15980241.965622,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.729481,2.991918,101.729481,2.991918",
     "geom:latitude":2.991918,
     "geom:longitude":101.729481,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.724481,2.986918,101.734481,2.996918",
     "lbl:latitude":2.991918,
     "lbl:longitude":101.729481,
+    "lbl:max_zoom":18.0,
     "mps:latitude":2.984451,
     "mps:longitude":101.729157,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
-    "name:und_x_preferred":[
-        "Upm"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Upm"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023401,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56017352,
-        "qs:id":897508,
         "qs_pg:id":897508
     },
     "wof:country":"MY",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860589,
+    "wof:lastmodified":1566642582,
     "wof:name":"Upm",
     "wof:parent_id":102023401,
     "wof:placetype":"neighbourhood",

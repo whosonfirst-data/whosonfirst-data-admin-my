@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.362613,
     "lbl:longitude":116.159364,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":5.362613,
     "mps:longitude":116.159364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0646\u064a\u0646\u063a\u0627\u0648"
     ],
@@ -121,7 +124,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043d\u0456\u043d\u0433\u0430\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaningow"
     ],
     "name:urd_x_preferred":[
@@ -151,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":903,
     "wof:belongsto":[
@@ -164,7 +167,6 @@
     "wof:concordances":{
         "gn:id":1734098,
         "gp:id":1154737,
-        "qs:id":1193064,
         "qs_pg:id":1193064,
         "wd:id":"Q1299852",
         "wk:page":"Keningau"
@@ -181,7 +183,7 @@
         }
     ],
     "wof:id":102022925,
-    "wof:lastmodified":1563238667,
+    "wof:lastmodified":1566642310,
     "wof:name":"Keningau",
     "wof:parent_id":1108696411,
     "wof:placetype":"locality",

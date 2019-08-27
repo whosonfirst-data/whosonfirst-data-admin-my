@@ -11,16 +11,17 @@
     "geom:longitude":102.557323,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.457323,5.730101,102.657323,5.930101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Daerah Besut"
     ],
     "name:msa_x_variant":[
         "Besut"
-    ],
-    "name:unk_x_variant":[
-        "Daerah Besut"
     ],
     "qs:name":"K. Besut",
     "qs:name_adm0":"Malaysia",
@@ -46,7 +47,9 @@
     "wof:concordances":{
         "gn:id":1736419,
         "gp:id":56014419,
-        "qs:id":214918,
+        "qs_pg:id":214918
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":351025
     },
     "wof:country":"MY",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890490773,
-    "wof:lastmodified":1509390574,
+    "wof:lastmodified":1566643918,
     "wof:name":"K. Besut",
     "wof:parent_id":890488399,
     "wof:placetype":"localadmin",

@@ -11,11 +11,15 @@
     "geom:longitude":103.7778,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.7578,2.587,103.7978,2.627",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Mawar"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1734895,
         "gp:id":1151256,
-        "qs:id":40363
+        "qs_pg:id":40363
     },
     "wof:country":"MY",
     "wof:created":1469054782,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890489955,
-    "wof:lastmodified":1505343786,
+    "wof:lastmodified":1566643981,
     "wof:name":"Kampung Mawar",
     "wof:parent_id":890488715,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":103.4,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.38,4.51333,103.42,4.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ladang"
     ],
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1734276,
         "gp:id":1155267,
-        "qs:id":1116833,
+        "qs_pg:id":1116833,
         "wd:id":"Q16978257",
         "wk:page":"Ladang"
     },
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890489993,
-    "wof:lastmodified":1563240735,
+    "wof:lastmodified":1566644004,
     "wof:name":"Ladang",
     "wof:parent_id":890490801,
     "wof:placetype":"locality",

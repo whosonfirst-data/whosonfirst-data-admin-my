@@ -12,8 +12,12 @@
     "gn:country":"MY",
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"115.3522975,5.28294,115.3922975,5.32294",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Menumbok"
     ],
@@ -50,7 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1154918,
-        "qs:id":1006187,
+        "qs_pg:id":1006187,
         "wd:id":"Q1920994",
         "wk:page":"Menumbok"
     },
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890489377,
-    "wof:lastmodified":1563240719,
+    "wof:lastmodified":1566643995,
     "wof:name":"Menumbok",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

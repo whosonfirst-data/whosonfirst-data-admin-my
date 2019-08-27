@@ -11,11 +11,15 @@
     "geom:longitude":114.4,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"114.38,3.74667,114.42,3.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Long Lama",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Sarawak",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1737957,
         "gp:id":1155275,
-        "qs:id":344172
+        "qs_pg:id":344172
     },
     "wof:country":"MY",
     "wof:created":1469054732,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890488785,
-    "wof:lastmodified":1505343783,
+    "wof:lastmodified":1566643946,
     "wof:name":"Long Lama",
     "wof:parent_id":1108696465,
     "wof:placetype":"locality",

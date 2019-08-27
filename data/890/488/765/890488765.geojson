@@ -11,11 +11,15 @@
     "geom:longitude":103.6456,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.6256,1.485,103.6656,1.525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Selesa Jaya"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7858008,
         "gp:id":56035965,
-        "qs:id":338567
+        "qs_pg:id":338567
     },
     "wof:country":"MY",
     "wof:created":1469054732,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890488765,
-    "wof:lastmodified":1505343783,
+    "wof:lastmodified":1566643928,
     "wof:name":"Taman Kelisa Jaya",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

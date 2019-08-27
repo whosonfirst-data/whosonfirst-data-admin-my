@@ -11,8 +11,12 @@
     "geom:longitude":110.369167,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"110.349167,1.496794,110.389167,1.536794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Taman Orchad",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Sarawak",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56016616,
-        "qs:id":1307202
+        "qs_pg:id":1307202
     },
     "wof:country":"MY",
     "wof:created":1469054723,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890488535,
-    "wof:lastmodified":1500013666,
+    "wof:lastmodified":1566643930,
     "wof:name":"Taman Orchad",
     "wof:parent_id":890488875,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4758344.979959,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.271679,5.345627,100.271679,5.345627",
     "geom:latitude":5.345627,
     "geom:longitude":100.271679,
@@ -13,8 +13,10 @@
     "gn:latitude":5.32597,
     "gn:longitude":100.26616,
     "iso:country":"MY",
+    "lbl:bbox":"100.266679,5.340627,100.276679,5.350627",
     "lbl:latitude":5.345627,
     "lbl:longitude":100.271679,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.344196,
     "mps:longitude":100.264496,
     "mz:hierarchy_label":0,
@@ -27,12 +29,6 @@
     "mz:min_zoom":17.0,
     "mz:tier_locality":3,
     "name:msa_x_preferred":[
-        "Taman Sungai Ara"
-    ],
-    "name:und_x_preferred":[
-        "Taman Sungai Ara"
-    ],
-    "name:unk_x_variant":[
         "Taman Sungai Ara"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -65,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675127,
         102191569,
@@ -78,12 +74,11 @@
         "fct:id":"01e5cf88-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6812408,
         "gp:id":56035745,
-        "qs:id":911291,
         "qs_pg:id":911291
     },
     "wof:concordances_alt":{
         "gp:id":56037155,
-        "qs:id":987091
+        "qs_pg:id":987091
     },
     "wof:country":"MY",
     "wof:geomhash":"4378e4639c1e9b11394e6a9ddbc29a3e",
@@ -101,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1534379384,
+    "wof:lastmodified":1566642589,
     "wof:name":"Taman Sungai Ara",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

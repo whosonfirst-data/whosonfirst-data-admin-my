@@ -11,11 +11,15 @@
     "geom:longitude":103.05,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.03,5.43,103.07,5.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Batu Rakit"
     ],
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1734697,
         "gp:id":1154590,
-        "qs:id":268671,
+        "qs_pg:id":268671,
         "wd:id":"Q4204593",
         "wk:page":"Batu Rakit"
     },
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":890488091,
-    "wof:lastmodified":1561751763,
+    "wof:lastmodified":1566643937,
     "wof:name":"Batu Rakit",
     "wof:parent_id":890490947,
     "wof:placetype":"locality",

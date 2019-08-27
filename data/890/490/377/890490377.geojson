@@ -11,11 +11,15 @@
     "geom:longitude":103.3502,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.3302,4.9199,103.3702,4.9599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Jambu Bongkok"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1734291,
         "gp:id":1151056,
-        "qs:id":136141
+        "qs_pg:id":136141
     },
     "wof:country":"MY",
     "wof:created":1469054803,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890490377,
-    "wof:lastmodified":1505343788,
+    "wof:lastmodified":1566643889,
     "wof:name":"Kampung Jambu Bongkok",
     "wof:parent_id":890490535,
     "wof:placetype":"locality",

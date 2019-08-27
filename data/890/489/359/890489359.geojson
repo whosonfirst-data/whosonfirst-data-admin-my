@@ -11,11 +11,14 @@
     "geom:longitude":101.1216,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.1166,4.7088,101.1266,4.7188",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Sinar"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7473335,
         "gp:id":56037743,
-        "qs:id":1002258
+        "qs_pg:id":1002258
     },
     "wof:country":"MY",
     "wof:created":1469054754,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890489359,
-    "wof:lastmodified":1505343785,
+    "wof:lastmodified":1566644001,
     "wof:name":"Taman Sin Far",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

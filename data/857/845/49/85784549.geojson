@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2814837.084537,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.277734,5.329238,100.277734,5.329238",
     "geom:latitude":5.329238,
     "geom:longitude":100.277734,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"100.272734,5.324238,100.282734,5.334238",
     "lbl:latitude":5.329238,
     "lbl:longitude":100.277734,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.332135,
     "mps:longitude":100.276473,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Taman Tunas Muda"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Tunas Muda"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -60,18 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023363,
-        890489155,
-        85675127
+        890489155
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037152,
-        "qs:id":231041,
         "qs_pg:id":231041
     },
     "wof:country":"MY",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860624,
+    "wof:lastmodified":1566642580,
     "wof:name":"Taman Tunas Muda",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

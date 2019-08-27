@@ -14,6 +14,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.050499,
     "lbl:longitude":101.707722,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.047556,
     "mps:longitude":101.706992,
     "mz:hierarchy_label":1,
@@ -36,10 +37,6 @@
         "\u30b9\u30f3\u30ac\u30a4\u30fb\u30d6\u30b7"
     ],
     "name:msa_x_preferred":[
-        "Sungai Besi"
-    ],
-    "name:unk_x_variant":[
-        "Sungei Besi",
         "Sungai Besi"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +68,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675163,
         102191569,
@@ -83,13 +80,13 @@
     "wof:concordances":{
         "gn:id":1735169,
         "gp:id":1154132,
-        "qs:id":896875,
+        "qs_pg:id":896875,
         "wd:id":"Q7640126",
         "wk:page":"Sungai Besi"
     },
     "wof:concordances_alt":{
         "gp:id":56037146,
-        "qs:id":385116
+        "qs_pg:id":385116
     },
     "wof:country":"MY",
     "wof:geomhash":"43623847dd2534c9e973c732d15c9558",
@@ -107,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563239058,
+    "wof:lastmodified":1566642619,
     "wof:name":"Sungai Besi",
     "wof:parent_id":102023799,
     "wof:placetype":"neighbourhood",

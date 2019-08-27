@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6016275.963782,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.777095,3.204837,101.777095,3.204837",
     "geom:latitude":3.204837,
     "geom:longitude":101.777095,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.772095,3.199837,101.782095,3.209837",
     "lbl:latitude":3.204837,
     "lbl:longitude":101.777095,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.204638,
     "mps:longitude":101.776967,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Ukay Perdana"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ukay Perdana"
     ],
     "qs:gn_id":0,
@@ -56,18 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023417,
-        1108696543,
-        85675163
+        1108696543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56036477,
-        "qs:id":482670,
         "qs_pg:id":482670
     },
     "wof:country":"MY",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860611,
+    "wof:lastmodified":1566642590,
     "wof:name":"Ukay Perdana",
     "wof:parent_id":102023417,
     "wof:placetype":"neighbourhood",

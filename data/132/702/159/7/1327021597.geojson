@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.0599,4.4977,101.0999,4.5377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Cangkat Larang"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327021597,
-    "wof:lastmodified":1537674141,
+    "wof:lastmodified":1566642112,
     "wof:name":"Kampung Cangkat Larang",
     "wof:parent_id":890490953,
     "wof:placetype":"locality",

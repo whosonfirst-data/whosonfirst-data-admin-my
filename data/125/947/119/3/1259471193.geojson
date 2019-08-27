@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"110.08,1.33,110.12,1.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Plaman Buta",
         "Pelaman Buta"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259471193,
-    "wof:lastmodified":1537673786,
+    "wof:lastmodified":1566644342,
     "wof:name":"Pelaman Buta",
     "wof:parent_id":1108696381,
     "wof:placetype":"locality",

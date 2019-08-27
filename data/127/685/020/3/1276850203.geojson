@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.0957,5.2672,103.1357,5.3072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Gong Pauh"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276850203,
-    "wof:lastmodified":1537674293,
+    "wof:lastmodified":1566643031,
     "wof:name":"Kampung Gong Pauh",
     "wof:parent_id":890490947,
     "wof:placetype":"locality",

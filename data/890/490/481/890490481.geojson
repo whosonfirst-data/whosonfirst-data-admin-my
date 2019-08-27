@@ -11,8 +11,12 @@
     "geom:longitude":100.65097,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.55097,4.92991,100.75097,5.12991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Gunung Semanggol",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Perak",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56013999,
-        "qs:id":1316936
+        "qs_pg:id":1316936
     },
     "wof:country":"MY",
     "wof:created":1469054812,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890490481,
-    "wof:lastmodified":1500013218,
+    "wof:lastmodified":1566643904,
     "wof:name":"Gunung Semanggol",
     "wof:parent_id":890489801,
     "wof:placetype":"localadmin",

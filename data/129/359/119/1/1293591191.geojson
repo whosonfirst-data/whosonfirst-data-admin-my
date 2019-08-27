@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.0005,5.9881,102.0405,6.0281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kusar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293591191,
-    "wof:lastmodified":1537674050,
+    "wof:lastmodified":1566642750,
     "wof:name":"Kampung Kusar",
     "wof:parent_id":1108696479,
     "wof:placetype":"locality",

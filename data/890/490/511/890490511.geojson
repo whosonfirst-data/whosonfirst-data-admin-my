@@ -11,11 +11,15 @@
     "geom:longitude":102.322,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.302,2.1454,102.342,2.1854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Telok Mas"
     ],
@@ -26,9 +30,6 @@
         "Telok Mas"
     ],
     "name:nld_x_preferred":[
-        "Telok Mas"
-    ],
-    "name:unk_x_variant":[
         "Telok Mas"
     ],
     "name:zho_x_preferred":[
@@ -57,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1734760,
         "gp:id":1154385,
-        "qs:id":301287,
+        "qs_pg:id":301287,
         "wd:id":"Q7697802"
     },
     "wof:country":"MY",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":890490511,
-    "wof:lastmodified":1563240549,
+    "wof:lastmodified":1566643893,
     "wof:name":"Teluk Mas",
     "wof:parent_id":890489715,
     "wof:placetype":"locality",

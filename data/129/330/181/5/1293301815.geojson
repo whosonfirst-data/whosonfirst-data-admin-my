@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.75761,5.67777,100.79761,5.71777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Charok Kapas"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293301815,
-    "wof:lastmodified":1537674233,
+    "wof:lastmodified":1566642663,
     "wof:name":"Charok Kapas",
     "wof:parent_id":1108696379,
     "wof:placetype":"locality",

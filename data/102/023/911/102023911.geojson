@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.93002,
     "lbl:longitude":100.717163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.93002,
     "mps:longitude":100.717163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bagan Datoh"
     ],
@@ -53,7 +56,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":187,
     "wof:belongsto":[
         102191569,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":102023911,
-    "wof:lastmodified":1563238631,
+    "wof:lastmodified":1566642289,
     "wof:name":"Bagan Datoh",
     "wof:parent_id":890490073,
     "wof:placetype":"locality",

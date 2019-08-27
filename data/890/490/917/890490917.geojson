@@ -11,11 +11,15 @@
     "geom:longitude":103.5448,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.5248,1.5099,103.5648,1.5499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ulu Choh"
     ],
@@ -31,7 +35,7 @@
     "name:nld_x_variant":[
         "Tanjong Aru"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Ulu Choh"
     ],
     "name:zho_x_preferred":[
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":1732754,
         "gp:id":1151037,
-        "qs:id":1185788,
+        "qs_pg:id":1185788,
         "wd:id":"Q3545594"
     },
     "wof:country":"MY",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890490917,
-    "wof:lastmodified":1563240590,
+    "wof:lastmodified":1566643919,
     "wof:name":"Kampung Hulu Coh",
     "wof:parent_id":1108696433,
     "wof:placetype":"locality",

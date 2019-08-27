@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.9429,5.963,101.9829,6.003",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kok Pauh"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344068591,
-    "wof:lastmodified":1537674067,
+    "wof:lastmodified":1566642404,
     "wof:name":"Kampung Kok Pauh",
     "wof:parent_id":1108696479,
     "wof:placetype":"locality",

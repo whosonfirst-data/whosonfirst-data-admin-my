@@ -11,11 +11,14 @@
     "geom:longitude":100.52398,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.51898,5.38718,100.52898,5.39718",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Kampung Baharu Sungai Lembu"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":6819292,
         "gp:id":56037740,
-        "qs:id":249627
+        "qs_pg:id":249627
     },
     "wof:country":"MY",
     "wof:created":1469054835,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890490985,
-    "wof:lastmodified":1505343790,
+    "wof:lastmodified":1566643892,
     "wof:name":"Kampung Baru Menglembu",
     "wof:parent_id":102022955,
     "wof:placetype":"neighbourhood",

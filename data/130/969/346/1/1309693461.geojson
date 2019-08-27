@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"111.38,1.68,111.42,1.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rumah Sepok",
         "Kampong Sepok"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309693461,
-    "wof:lastmodified":1537673913,
+    "wof:lastmodified":1566643837,
     "wof:name":"Kampong Sepok",
     "wof:parent_id":1108696501,
     "wof:placetype":"locality",

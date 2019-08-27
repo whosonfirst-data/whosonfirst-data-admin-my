@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":695099.659449,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.286827,5.324455,100.286827,5.324455",
     "geom:latitude":5.324455,
     "geom:longitude":100.286827,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"100.281827,5.319455,100.291827,5.329455",
     "lbl:latitude":5.324455,
     "lbl:longitude":100.286827,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.323875,
     "mps:longitude":100.287193,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":19.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Bandar Bayan Bahru"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bandar Bayan Bahru"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -60,18 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023363,
-        890489155,
-        85675127
+        890489155
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037158,
-        "qs:id":231042,
         "qs_pg:id":231042
     },
     "wof:country":"MY",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860626,
+    "wof:lastmodified":1566642577,
     "wof:name":"Bandar Bayan Bahru",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

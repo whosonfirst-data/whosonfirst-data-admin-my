@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.173425,
     "lbl:longitude":102.189331,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.173425,
     "mps:longitude":102.189331,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Manchis"
     ],
@@ -25,9 +28,6 @@
         "Mancis"
     ],
     "name:nld_x_preferred":[
-        "Manchis"
-    ],
-    "name:unk_x_variant":[
         "Manchis"
     ],
     "qs:a0":"Malaysia",
@@ -46,7 +46,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191569,
@@ -58,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1735034,
         "gp:id":1154890,
-        "qs:id":193575,
+        "qs_pg:id":193575,
         "wd:id":"Q6747612",
         "wk:page":"Manchis"
     },
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102023305,
-    "wof:lastmodified":1561751661,
+    "wof:lastmodified":1566642273,
     "wof:name":"Mancis",
     "wof:parent_id":1108696389,
     "wof:placetype":"locality",

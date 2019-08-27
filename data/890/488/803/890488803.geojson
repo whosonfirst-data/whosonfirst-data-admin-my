@@ -11,12 +11,16 @@
     "geom:longitude":110.23333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"110.21333,1.56333,110.25333,1.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Matang"
     ],
     "qs:name":"Kampung Matang",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":1735590,
         "gp:id":1151254,
-        "qs:id":943304
+        "qs_pg:id":943304
     },
     "wof:country":"MY",
     "wof:created":1469054733,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890488803,
-    "wof:lastmodified":1505343783,
+    "wof:lastmodified":1566643939,
     "wof:name":"Kampung Matang",
     "wof:parent_id":890488875,
     "wof:placetype":"locality",

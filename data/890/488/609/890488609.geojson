@@ -11,8 +11,11 @@
     "geom:longitude":103.758172,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.753172,1.469923,103.763172,1.479923",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Taman Pelangi",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Johor",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675141,
         102191569,
         85632739,
         102022781,
-        1108696403,
-        85675141
+        1108696403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56016676,
-        "qs:id":1313741
+        "qs_pg:id":1313741
     },
     "wof:country":"MY",
     "wof:created":1469054725,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890488609,
-    "wof:lastmodified":1500013365,
+    "wof:lastmodified":1566643968,
     "wof:name":"Taman Pelangi",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

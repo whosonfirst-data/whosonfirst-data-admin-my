@@ -11,8 +11,12 @@
     "geom:longitude":101.439514,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.419514,2.973784,101.459514,3.013784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Kampong Pendamaran",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1147261,
-        "qs:id":1111622
+        "qs_pg:id":1111622
     },
     "wof:country":"MY",
     "wof:created":1469054770,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489797,
-    "wof:lastmodified":1500013492,
+    "wof:lastmodified":1566643975,
     "wof:name":"Kampong Pendamaran",
     "wof:parent_id":1108696415,
     "wof:placetype":"locality",

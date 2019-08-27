@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.38107,5.68095,100.42107,5.72095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Batu Hampar"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193278637,
-    "wof:lastmodified":1537674236,
+    "wof:lastmodified":1566643408,
     "wof:name":"Kampung Batu Hampar",
     "wof:parent_id":890490355,
     "wof:placetype":"locality",

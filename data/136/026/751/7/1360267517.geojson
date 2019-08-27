@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.6184,5.8975,116.6584,5.9375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Serapong"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360267517,
-    "wof:lastmodified":1537673913,
+    "wof:lastmodified":1566643774,
     "wof:name":"Kampung Serapong",
     "wof:parent_id":1108696495,
     "wof:placetype":"locality",

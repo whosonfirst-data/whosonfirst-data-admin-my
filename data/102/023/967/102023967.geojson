@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004593,
-    "geom:area_square_m":56531959.157367,
+    "geom:area_square_m":56531959.15735,
     "geom:bbox":"102.762584466,5.36088875053,102.868517663,5.56488750202",
     "geom:latitude":5.446788,
     "geom:longitude":102.816282,
@@ -14,9 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.403537,
     "lbl:longitude":102.8305,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.403537,
     "mps:longitude":102.8305,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Setiu"
     ],
@@ -31,7 +35,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":6862359,
         "gp:id":56119541,
-        "qs:id":1039252
+        "qs_pg:id":1039252
     },
     "wof:country":"MY",
     "wof:geomhash":"2579dcf2484ee1b2ae2dc87b25725159",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":102023967,
-    "wof:lastmodified":1501273120,
+    "wof:lastmodified":1566642270,
     "wof:name":"Setiu",
     "wof:parent_id":1108696513,
     "wof:placetype":"locality",

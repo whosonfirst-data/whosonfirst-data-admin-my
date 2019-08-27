@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000819,
-    "geom:area_square_m":10083911.977783,
+    "geom:area_square_m":10083911.977785,
     "geom:bbox":"103.0078125,5.16397013528,103.044296415,5.22224651323",
     "geom:latitude":5.191599,
     "geom:longitude":103.027129,
@@ -14,14 +14,17 @@
     "iso:country":"MY",
     "lbl:latitude":5.17301,
     "lbl:longitude":103.024305,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.17301,
     "mps:longitude":103.024305,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kuala Telemung"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Kuala Telemong"
     ],
     "qs:a0":"Malaysia",
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":1734710,
         "gp:id":1151177,
-        "qs:id":1185789,
         "qs_pg:id":1185789
     },
     "wof:country":"MY",
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":102023029,
-    "wof:lastmodified":1497298926,
+    "wof:lastmodified":1566642276,
     "wof:name":"Kampung Kuala Telemung",
     "wof:parent_id":890488201,
     "wof:placetype":"locality",

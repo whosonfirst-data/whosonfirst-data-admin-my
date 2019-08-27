@@ -11,11 +11,14 @@
     "geom:longitude":101.1109,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.1059,4.6173,101.1159,4.6273",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Kampung Simee"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1764345,
         "gp:id":1148696,
-        "qs:id":1291248
+        "qs_pg:id":1291248
     },
     "wof:country":"MY",
     "wof:created":1469054798,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890490273,
-    "wof:lastmodified":1505343788,
+    "wof:lastmodified":1566643876,
     "wof:name":"Kampong Simee",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

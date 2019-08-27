@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.8386,6.5824,116.8786,6.6224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Tanjung Batu"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226111827,
-    "wof:lastmodified":1537673760,
+    "wof:lastmodified":1566644493,
     "wof:name":"Kampung Tanjung Batu",
     "wof:parent_id":1108696485,
     "wof:placetype":"locality",

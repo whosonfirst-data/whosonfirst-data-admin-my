@@ -11,11 +11,15 @@
     "geom:longitude":101.3922,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.3722,4.4685,101.4122,4.5085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Brinchang"
     ],
@@ -37,7 +41,7 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0bb0\u0bbf\u0b9e\u0bcd\u0b9a\u0bbe\u0b99\u0bcd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Berinchang"
     ],
     "qs:name":"Berincang",
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":1734615,
         "gp:id":1140899,
-        "qs:id":188346,
+        "qs_pg:id":188346,
         "wd:id":"Q4968181",
         "wk:page":"Brinchang"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890490581,
-    "wof:lastmodified":1563240543,
+    "wof:lastmodified":1566643890,
     "wof:name":"Berincang",
     "wof:parent_id":1108696393,
     "wof:placetype":"locality",

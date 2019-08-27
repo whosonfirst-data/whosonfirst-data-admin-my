@@ -11,11 +11,14 @@
     "geom:longitude":100.48333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.47833,5.345,100.48833,5.355",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Kampong Pinji",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Perak",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1770489,
         "gp:id":1147615,
-        "qs:id":58713
+        "qs_pg:id":58713
     },
     "wof:country":"MY",
     "wof:created":1469054828,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890490851,
-    "wof:lastmodified":1505343790,
+    "wof:lastmodified":1566643885,
     "wof:name":"Kampong Pinji",
     "wof:parent_id":102023333,
     "wof:placetype":"neighbourhood",

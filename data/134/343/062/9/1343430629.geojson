@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.9576,4.6869,115.9976,4.7269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kabintaluan"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343430629,
-    "wof:lastmodified":1537673699,
+    "wof:lastmodified":1566642571,
     "wof:name":"Kabintaluan",
     "wof:parent_id":1108696535,
     "wof:placetype":"locality",

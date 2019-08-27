@@ -11,11 +11,14 @@
     "geom:longitude":103.2749,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.2699,3.7907,103.2799,3.8007",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Perumahan Sungai Isap Tiga"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7662114,
         "gp:id":56036508,
-        "qs:id":1105196
+        "qs_pg:id":1105196
     },
     "wof:country":"MY",
     "wof:created":1469054770,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890489787,
-    "wof:lastmodified":1505343786,
+    "wof:lastmodified":1566644020,
     "wof:name":"Perumahan Sungai Isap Tiga",
     "wof:parent_id":102023459,
     "wof:placetype":"neighbourhood",

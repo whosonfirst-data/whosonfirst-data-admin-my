@@ -15,6 +15,8 @@
     "iso:country":"MY",
     "lbl:latitude":6.148015,
     "lbl:longitude":100.368682,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":6.148015,
     "mps:longitude":100.368682,
     "mz:hierarchy_label":1,
@@ -176,7 +178,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u043e\u0440-\u0421\u0442\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saiburu"
     ],
     "name:urd_x_preferred":[
@@ -310,7 +312,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":7.0,
     "wd:latitude":6.116667,
@@ -326,7 +328,6 @@
     "wof:concordances":{
         "gn:id":1736309,
         "gp:id":56016465,
-        "qs:id":351029,
         "qs_pg:id":351029,
         "wd:id":"Q474868",
         "wk:page":"Alor Setar"
@@ -343,7 +344,7 @@
         }
     ],
     "wof:id":102023629,
-    "wof:lastmodified":1563238550,
+    "wof:lastmodified":1566642249,
     "wof:name":"Alor Setar",
     "wof:parent_id":890490361,
     "wof:placetype":"locality",

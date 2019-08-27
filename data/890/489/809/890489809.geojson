@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":2.313634,
     "lbl:longitude":102.424212,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MELAKA",
     "meso:diss_me":"JASINMELAKA",
     "meso:gadm_admin":"Jasin",
@@ -32,6 +34,7 @@
     "mps:longitude":102.424212,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Jasin"
     ],
@@ -69,9 +72,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"677.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Jasin",
@@ -92,7 +95,7 @@
     "wof:concordances":{
         "gp:id":56013612,
         "hasc:id":"MY.ME.JA",
-        "qs:id":1111784,
+        "qs_pg:id":1111784,
         "wk:page":"Jasin"
     },
     "wof:country":"MY",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":890489809,
-    "wof:lastmodified":1564192167,
+    "wof:lastmodified":1566644012,
     "wof:name":"Jasin",
     "wof:parent_id":85675151,
     "wof:placetype":"county",

@@ -11,8 +11,12 @@
     "geom:longitude":101.806139,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.706139,2.7213,101.906139,2.9213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Setul",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Negeri Sembilan",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014667,
-        "qs:id":969661
+        "qs_pg:id":969661
     },
     "wof:country":"MY",
     "wof:created":1469054748,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489211,
-    "wof:lastmodified":1500013408,
+    "wof:lastmodified":1566643982,
     "wof:name":"Setul",
     "wof:parent_id":890489719,
     "wof:placetype":"localadmin",

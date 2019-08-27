@@ -11,8 +11,12 @@
     "geom:longitude":102.246108,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.146108,6.017743,102.346108,6.217743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kubang Kerian"
     ],
@@ -56,10 +60,12 @@
     "wof:concordances":{
         "gn:id":7068137,
         "gp:id":56013738,
-        "qs:id":973375,
-        "qs_pg:id":1245393,
+        "qs_pg:id":973375,
         "wd:id":"Q6441173",
         "wk:page":"Kubang Kerian"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1245393
     },
     "wof:country":"MY",
     "wof:created":1469054749,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890489239,
-    "wof:lastmodified":1563240759,
+    "wof:lastmodified":1566644014,
     "wof:name":"Kubang Kerian",
     "wof:parent_id":890489783,
     "wof:placetype":"localadmin",

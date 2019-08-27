@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":2.760441,
     "lbl:longitude":101.932569,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NEGERI SEMBILAN",
     "meso:diss_me":"SEREMBANNEGERI SEMBILAN",
     "meso:gadm_admin":"Seremban",
@@ -32,6 +34,7 @@
     "mps:longitude":101.932569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Seremban"
     ],
@@ -341,9 +344,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"951.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Seremban",
@@ -367,7 +370,7 @@
     "wof:concordances":{
         "gp:id":56013631,
         "hasc:id":"MY.NS.SE",
-        "qs:id":1090857,
+        "qs_pg:id":1090857,
         "wd:id":"Q847610",
         "wk:page":"Seremban"
     },
@@ -383,7 +386,7 @@
         }
     ],
     "wof:id":890489719,
-    "wof:lastmodified":1563240768,
+    "wof:lastmodified":1566644018,
     "wof:name":"Seremban",
     "wof:parent_id":85675155,
     "wof:placetype":"county",

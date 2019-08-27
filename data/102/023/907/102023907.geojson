@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":2.275298,
     "lbl:longitude":102.398694,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":2.275298,
     "mps:longitude":102.398694,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u043c\u0431\u0430\u043d"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":73,
     "wof:belongsto":[
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":1779926,
         "gp:id":56013922,
-        "qs:id":277477,
         "qs_pg:id":277477,
         "wd:id":"Q2435273",
         "wk:page":"Bemban"
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":102023907,
-    "wof:lastmodified":1563238525,
+    "wof:lastmodified":1566642235,
     "wof:name":"Bemban",
     "wof:parent_id":890489809,
     "wof:placetype":"locality",

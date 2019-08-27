@@ -11,7 +11,7 @@
     "geom:longitude":103.399738,
     "gn:country":"MY",
     "gn:fcode":"ADM2",
-    "gn:pop":208050,
+    "gn:population":208050,
     "iso:country":"MY",
     "label:eng_x_preferred_longname":[
         "Pontian District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":1.556033,
     "lbl:longitude":103.435132,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"JOHOR",
     "meso:diss_me":"PONTIANJOHOR",
     "meso:gadm_admin":"Pontian",
@@ -34,6 +36,7 @@
     "mps:longitude":103.435132,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Daerah Pontian"
     ],
@@ -73,9 +76,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"920.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Pontian Kechil",
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1732707,
         "hasc:id":"MY.JH.PO",
-        "qs:id":88604,
+        "qs_pg:id":88604,
         "wd:id":"Q2452012"
     },
     "wof:country":"MY",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890491001,
-    "wof:lastmodified":1563240594,
+    "wof:lastmodified":1566643922,
     "wof:name":"Pontian",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

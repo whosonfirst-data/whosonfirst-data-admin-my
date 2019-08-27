@@ -12,6 +12,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.184639,
     "lbl:longitude":101.697636,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.187212,
     "mps:longitude":101.697445,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
         "Sentul"
     ],
     "name:swe_x_preferred":[
-        "Sentul"
-    ],
-    "name:unk_x_variant":[
         "Sentul"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -66,7 +64,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564190414,
+    "wof:lastmodified":1566642612,
     "wof:name":"Sentul",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

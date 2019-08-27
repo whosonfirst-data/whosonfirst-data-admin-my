@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.0722,2.7153,102.1122,2.7553",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Bendol"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276979271,
-    "wof:lastmodified":1537674169,
+    "wof:lastmodified":1566643086,
     "wof:name":"Kampung Bendol",
     "wof:parent_id":890490777,
     "wof:placetype":"locality",

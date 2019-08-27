@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000192,
-    "geom:area_square_m":2370160.180631,
+    "geom:area_square_m":2370160.180626,
     "geom:bbox":"101.670234995,3.07469506796,101.689531457,3.09389327896",
     "geom:latitude":3.083246,
     "geom:longitude":101.679817,
     "iso:country":"MY",
     "lbl:latitude":3.083355,
     "lbl:longitude":101.683377,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.084844,
     "mps:longitude":101.678356,
     "mz:hierarchy_label":1,
@@ -23,10 +24,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
-    "name:und_x_preferred":[
-        "Taman Gembira"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Gembira"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -54,7 +52,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -82,7 +80,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269417,
+    "wof:lastmodified":1566642589,
     "wof:name":"Taman Gembira",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

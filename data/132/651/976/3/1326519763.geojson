@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.44349,5.44164,100.48349,5.48164",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Padang Chung Soon"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326519763,
-    "wof:lastmodified":1537673994,
+    "wof:lastmodified":1566642040,
     "wof:name":"Kampung Padang Chung Soon",
     "wof:parent_id":890490327,
     "wof:placetype":"locality",

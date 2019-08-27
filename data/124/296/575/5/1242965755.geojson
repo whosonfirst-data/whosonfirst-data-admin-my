@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.5814,3.5069,102.6214,3.5469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Semat"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242965755,
-    "wof:lastmodified":1537674353,
+    "wof:lastmodified":1566644213,
     "wof:name":"Kampung Semat",
     "wof:parent_id":1108696463,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.066352,
     "lbl:longitude":101.759179,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.066352,
     "mps:longitude":101.759179,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Cheras"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":1777077,
         "gp:id":1154641,
-        "qs:id":1145965,
         "qs_pg:id":1145965,
         "wd:id":"Q279392",
         "wk:page":"Cheras, Selangor"
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":102023899,
-    "wof:lastmodified":1563238627,
+    "wof:lastmodified":1566642287,
     "wof:name":"Cheras",
     "wof:parent_id":1108696543,
     "wof:placetype":"locality",

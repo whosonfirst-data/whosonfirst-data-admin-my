@@ -11,11 +11,15 @@
     "geom:longitude":100.28333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.26333,5.38,100.30333,5.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Air Itam"
     ],
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":1782366,
         "gp:id":1154547,
-        "qs:id":896942,
+        "qs_pg:id":896942,
         "wd:id":"Q407381",
         "wk:page":"Air Itam"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890489533,
-    "wof:lastmodified":1563240685,
+    "wof:lastmodified":1566643977,
     "wof:name":"Ayer Itam",
     "wof:parent_id":1108696537,
     "wof:placetype":"locality",

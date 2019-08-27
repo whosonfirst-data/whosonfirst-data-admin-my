@@ -11,11 +11,15 @@
     "geom:longitude":103.6965,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.6765,1.5289,103.7165,1.5689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kempas"
     ],
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":1732746,
         "gp:id":1154734,
-        "qs:id":353959,
+        "qs_pg:id":353959,
         "wd:id":"Q6387036",
         "wk:page":"Kempas"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890488795,
-    "wof:lastmodified":1561751765,
+    "wof:lastmodified":1566643955,
     "wof:name":"Kempas",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

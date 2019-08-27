@@ -11,11 +11,15 @@
     "geom:longitude":112.08333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"112.06333,2.64667,112.10333,2.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dalat"
     ],
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":1736929,
         "gp:id":1154643,
-        "qs:id":383872,
+        "qs_pg:id":383872,
         "wd:id":"Q5210227",
         "wk:page":"Dalat"
     },
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890488859,
-    "wof:lastmodified":1563240616,
+    "wof:lastmodified":1566643937,
     "wof:name":"Dalat",
     "wof:parent_id":1108696395,
     "wof:placetype":"locality",

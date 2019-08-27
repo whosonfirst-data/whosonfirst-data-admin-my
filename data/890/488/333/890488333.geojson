@@ -11,8 +11,12 @@
     "geom:longitude":101.166572,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.066572,3.3343655,101.266572,3.5343655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tanjung Karang"
     ],
@@ -49,7 +53,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56013881,
-        "qs:id":1204889,
+        "qs_pg:id":1204889,
         "wd:id":"Q2188635",
         "wk:page":"Tanjung Karang"
     },
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":890488333,
-    "wof:lastmodified":1563240650,
+    "wof:lastmodified":1566643955,
     "wof:name":"Tanjong Karang",
     "wof:parent_id":890488801,
     "wof:placetype":"localadmin",

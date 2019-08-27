@@ -11,8 +11,12 @@
     "geom:longitude":100.851058,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.751058,4.672331,100.951058,4.872331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Kampong Buaya",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Perak",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014127,
-        "qs:id":1111849
+        "qs_pg:id":1111849
     },
     "wof:country":"MY",
     "wof:created":1469054778,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489855,
-    "wof:lastmodified":1500013217,
+    "wof:lastmodified":1566644015,
     "wof:name":"Kampong Buaya",
     "wof:parent_id":890489077,
     "wof:placetype":"localadmin",

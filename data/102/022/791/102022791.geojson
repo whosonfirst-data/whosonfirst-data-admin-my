@@ -15,6 +15,8 @@
     "iso:country":"MY",
     "lbl:latitude":2.026504,
     "lbl:longitude":103.321277,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":2.026504,
     "mps:longitude":103.321277,
     "mz:hierarchy_label":1,
@@ -119,10 +121,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0443\u0430\u043d\u0433"
     ],
-    "name:und_x_preferred":[
-        "Kluang"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Keluang"
     ],
     "name:urd_x_preferred":[
@@ -242,7 +241,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -255,7 +254,7 @@
         "fct:id":"01d995e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1732811,
         "gp:id":1154730,
-        "qs:id":221782,
+        "qs_pg:id":221782,
         "wd:id":"Q1200738"
     },
     "wof:country":"MY",
@@ -273,7 +272,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563238650,
+    "wof:lastmodified":1566642301,
     "wof:name":"Kluang",
     "wof:parent_id":1108696417,
     "wof:placetype":"locality",

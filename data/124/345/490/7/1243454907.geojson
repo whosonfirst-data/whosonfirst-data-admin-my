@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.3391,2.1341,102.3791,2.1741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Solok Pasal"
     ],
     "name:und_x_variant":[
-        "Kampong Fasal",
-        "Solok Pasal"
+        "Kampong Fasal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1243454907,
-    "wof:lastmodified":1537673763,
+    "wof:lastmodified":1566644248,
     "wof:name":"Solok Pasal",
     "wof:parent_id":890489809,
     "wof:placetype":"locality",

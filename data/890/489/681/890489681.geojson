@@ -11,8 +11,11 @@
     "geom:longitude":101.667502,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.662502,3.089333,101.672502,3.099333",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
         "Pantai Dalam"
     ],
@@ -44,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56035019,
-        "qs:id":7561,
+        "qs_pg:id":7561,
         "wd:id":"Q7131627",
         "wk:page":"Pantai Dalam"
     },
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890489681,
-    "wof:lastmodified":1563240694,
+    "wof:lastmodified":1566643982,
     "wof:name":"Pantai Dalam",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

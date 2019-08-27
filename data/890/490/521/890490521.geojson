@@ -11,11 +11,14 @@
     "geom:longitude":101.78333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.77833,3.195,101.78833,3.205",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Kuala Ampang",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1735135,
         "gp:id":1151793,
-        "qs:id":387742
+        "qs_pg:id":387742
     },
     "wof:country":"MY",
     "wof:created":1469054813,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890490521,
-    "wof:lastmodified":1505343788,
+    "wof:lastmodified":1566643889,
     "wof:name":"Kuala Ampang",
     "wof:parent_id":102023417,
     "wof:placetype":"neighbourhood",

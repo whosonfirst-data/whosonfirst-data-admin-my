@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.35788,5.47806,100.39788,5.51806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Padang Benggali"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1327128659,
-    "wof:lastmodified":1537673789,
+    "wof:lastmodified":1566642094,
     "wof:name":"Padang Benggali",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

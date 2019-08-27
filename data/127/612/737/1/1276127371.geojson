@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.79753,6.30582,100.83753,6.34582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kubu Durian"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276127371,
-    "wof:lastmodified":1537674051,
+    "wof:lastmodified":1566643046,
     "wof:name":"Kampung Kubu Durian",
     "wof:parent_id":1108696471,
     "wof:placetype":"locality",

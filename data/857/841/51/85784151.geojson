@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2264502.196782,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.584335,3.115029,101.584335,3.115029",
     "geom:latitude":3.115029,
     "geom:longitude":101.584335,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.579335,3.110029,101.589335,3.120029",
     "lbl:latitude":3.115029,
     "lbl:longitude":101.584335,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.118861,
     "mps:longitude":101.585238,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Taman Putra Damai"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Putra Damai"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023395,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56016810,
-        "qs:id":996350,
         "qs_pg:id":996350
     },
     "wof:country":"MY",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860583,
+    "wof:lastmodified":1566642596,
     "wof:name":"Taman Putra Damai",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

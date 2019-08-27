@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.053125,
     "lbl:longitude":101.716065,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.053125,
     "mps:longitude":101.716065,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sungai Besi"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"Suburb",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":297,
     "wof:belongsto":[
         102191569,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102023421,
-    "wof:lastmodified":1563238602,
+    "wof:lastmodified":1566642274,
     "wof:name":"Sungai Besi",
     "wof:parent_id":890490945,
     "wof:placetype":"locality",

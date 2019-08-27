@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.6554,3.4481,101.6954,3.4881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Kampung Kuantan"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310581429,
-    "wof:lastmodified":1564191728,
+    "wof:lastmodified":1566643700,
     "wof:name":"Kampung Kuantan",
     "wof:parent_id":890489129,
     "wof:placetype":"locality",

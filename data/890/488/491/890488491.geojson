@@ -11,8 +11,12 @@
     "geom:longitude":103.876161,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.776161,1.638148,103.976161,1.838148",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kota Tinggi"
     ],
@@ -82,7 +86,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56013904,
-        "qs:id":1306822,
+        "qs_pg:id":1306822,
         "wd:id":"Q935184",
         "wk:page":"Kota Tinggi"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890488491,
-    "wof:lastmodified":1563240628,
+    "wof:lastmodified":1566643942,
     "wof:name":"Kota Tinggi",
     "wof:parent_id":890491003,
     "wof:placetype":"localadmin",

@@ -11,10 +11,14 @@
     "geom:longitude":113.62249,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":3322,
+    "gn:population":3322,
     "iso:country":"MY",
+    "lbl:bbox":"113.60249,2.63465,113.64249,2.67465",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Data Kakus"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":8379299,
         "gp:id":56014504,
-        "qs:id":110022,
+        "qs_pg:id":110022,
         "wd:id":"Q5227183",
         "wk:page":"Data Kakus"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890490381,
-    "wof:lastmodified":1563240592,
+    "wof:lastmodified":1566643920,
     "wof:name":"Data Kakus",
     "wof:parent_id":1108696531,
     "wof:placetype":"locality",

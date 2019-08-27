@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.21857,5.33621,100.25857,5.37621",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Titi Serong",
         "Kampung Titi Serong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226029247,
-    "wof:lastmodified":1537673822,
+    "wof:lastmodified":1566644504,
     "wof:name":"Kampung Titi Serong",
     "wof:parent_id":890489155,
     "wof:placetype":"locality",

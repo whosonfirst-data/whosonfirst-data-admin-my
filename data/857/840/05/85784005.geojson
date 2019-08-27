@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.138776,
     "lbl:longitude":101.73269,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.141041,
     "mps:longitude":101.733938,
     "mz:hierarchy_label":1,
@@ -31,12 +32,6 @@
         "Royal Selangor Golf Club"
     ],
     "name:swe_x_preferred":[
-        "Royal Selangor Golf Club"
-    ],
-    "name:und_x_preferred":[
-        "Royal Selangor Golf Club"
-    ],
-    "name:unk_x_variant":[
         "Royal Selangor Golf Club"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -65,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":245,
     "wof:belongsto":[
         85675181,
@@ -77,7 +72,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015687,
-        "qs:id":212962,
         "qs_pg:id":212962,
         "wd:id":"Q1822228"
     },
@@ -97,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563239038,
+    "wof:lastmodified":1566642601,
     "wof:name":"Royal Selangor Golf Club",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2161453.605886,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.611526,3.166769,101.611526,3.166769",
     "geom:latitude":3.166769,
     "geom:longitude":101.611526,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.606526,3.161769,101.616526,3.171769",
     "lbl:latitude":3.166769,
     "lbl:longitude":101.611526,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.170549,
     "mps:longitude":101.615173,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Perdana Business Centre"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Perdana Business Centre"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023395,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015649,
-        "qs:id":1155566,
         "qs_pg:id":1155566
     },
     "wof:country":"MY",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860567,
+    "wof:lastmodified":1566642610,
     "wof:name":"Perdana Business Centre",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

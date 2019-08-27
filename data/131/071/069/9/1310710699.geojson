@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.72759,5.30669,100.76759,5.34669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Banggol Binjai"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310710699,
-    "wof:lastmodified":1537674190,
+    "wof:lastmodified":1566643558,
     "wof:name":"Kampung Banggol Binjai",
     "wof:parent_id":890490359,
     "wof:placetype":"locality",

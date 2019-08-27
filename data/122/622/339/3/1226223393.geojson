@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.2459,4.7868,115.2859,4.8268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Gelapas"
     ],
     "name:und_x_variant":[
-        "Kampong Galapas",
-        "Kampung Gelapas"
+        "Kampong Galapas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226223393,
-    "wof:lastmodified":1537673751,
+    "wof:lastmodified":1566644567,
     "wof:name":"Kampung Gelapas",
     "wof:parent_id":1108696445,
     "wof:placetype":"locality",

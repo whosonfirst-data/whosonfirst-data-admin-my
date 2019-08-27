@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.00192,3.99569,102.04192,4.03569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kemahang"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293776657,
-    "wof:lastmodified":1537674077,
+    "wof:lastmodified":1566642707,
     "wof:name":"Kampung Kemahang",
     "wof:parent_id":890488203,
     "wof:placetype":"locality",

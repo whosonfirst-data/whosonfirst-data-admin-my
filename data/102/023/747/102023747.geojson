@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000811,
-    "geom:area_square_m":10010092.462785,
+    "geom:area_square_m":10010092.462796,
     "geom:bbox":"113.641824629,3.43310431291,113.679037056,3.46214503435",
     "geom:latitude":3.447924,
     "geom:longitude":113.662222,
@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.450812,
     "lbl:longitude":113.668158,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.450812,
     "mps:longitude":113.668158,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Malaysia",
     "qs:a1":"*Sarawak",
     "qs:a1r":"*",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -47,7 +50,6 @@
     "wof:concordances":{
         "gn:id":1737248,
         "gp:id":1155148,
-        "qs:id":449418,
         "qs_pg:id":449418
     },
     "wof:country":"MY",
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":102023747,
-    "wof:lastmodified":1497291750,
+    "wof:lastmodified":1566642260,
     "wof:name":"Suai",
     "wof:parent_id":890488483,
     "wof:placetype":"locality",

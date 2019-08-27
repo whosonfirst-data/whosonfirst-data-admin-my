@@ -11,11 +11,14 @@
     "geom:longitude":101.73333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.72833,3.11167,101.73833,3.12167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Pudu Ulu",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Kuala Lumpur",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1749799,
         "gp:id":1152674,
-        "qs:id":326809
+        "qs_pg:id":326809
     },
     "wof:country":"MY",
     "wof:created":1469054742,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890489031,
-    "wof:lastmodified":1505343784,
+    "wof:lastmodified":1566643991,
     "wof:name":"Pudu Ulu",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

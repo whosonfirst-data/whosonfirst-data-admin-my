@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.115249,
     "lbl:longitude":101.644234,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.118124,
     "mps:longitude":101.646442,
     "mz:hierarchy_label":1,
@@ -114,14 +115,8 @@
     "name:ukr_x_preferred":[
         "\u0423\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041c\u0430\u043b\u0430\u0439\u044f"
     ],
-    "name:und_x_preferred":[
-        "Universiti Malaya"
-    ],
     "name:und_x_variant":[
         "Universiti Malaya (um)"
-    ],
-    "name:unk_x_variant":[
-        "Universiti Malaya"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0627\u0645\u0639\u06c1 \u0645\u0644\u0627\u0626\u0634\u06cc\u0627"
@@ -156,7 +151,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":3297,
     "wof:belongsto":[
         85675163,
@@ -168,7 +163,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56017349,
-        "qs:id":1291227,
+        "qs_pg:id":1291227,
         "wd:id":"Q1142924"
     },
     "wof:country":"MY",
@@ -187,7 +182,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563239007,
+    "wof:lastmodified":1566642581,
     "wof:name":"Universiti Malaya",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

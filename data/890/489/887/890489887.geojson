@@ -11,8 +11,12 @@
     "geom:longitude":101.973105,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.873105,4.1862355,102.073105,4.3862355",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Telang",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Pahang",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014435,
-        "qs:id":1111907
+        "qs_pg:id":1111907
     },
     "wof:country":"MY",
     "wof:created":1469054779,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489887,
-    "wof:lastmodified":1500013431,
+    "wof:lastmodified":1566643985,
     "wof:name":"Telang",
     "wof:parent_id":890488203,
     "wof:placetype":"localadmin",

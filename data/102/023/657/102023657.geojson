@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":6.023903,
     "lbl:longitude":102.387588,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.023903,
     "mps:longitude":102.387588,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bachok"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":1736380,
         "gp:id":1154552,
-        "qs:id":7073,
         "qs_pg:id":7073,
         "wd:id":"Q1836486",
         "wk:page":"Bachok District"
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":102023657,
-    "wof:lastmodified":1563238567,
+    "wof:lastmodified":1566642256,
     "wof:name":"Bachok",
     "wof:parent_id":1108696377,
     "wof:placetype":"locality",

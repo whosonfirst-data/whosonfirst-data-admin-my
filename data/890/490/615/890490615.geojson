@@ -11,11 +11,14 @@
     "geom:longitude":101.65,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.645,3.17833,101.655,3.18833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Segambut"
     ],
@@ -26,9 +29,6 @@
         "\u30b9\u30ac\u30f3\u30d6"
     ],
     "name:msa_x_preferred":[
-        "Segambut"
-    ],
-    "name:unk_x_variant":[
         "Segambut"
     ],
     "qs:name":"Kampong Pasir Segambut",
@@ -50,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1766002,
         "gp:id":1147035,
-        "qs:id":193485,
+        "qs_pg:id":193485,
         "wd:id":"Q7446206"
     },
     "wof:country":"MY",
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":890490615,
-    "wof:lastmodified":1563240570,
+    "wof:lastmodified":1566643906,
     "wof:name":"Kampong Pasir Segambut",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.002342,
     "lbl:longitude":102.100011,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.002342,
     "mps:longitude":102.100011,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Callicebus"
     ],
@@ -156,7 +159,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1239,
     "wof:belongsto":[
         102191569,
@@ -168,7 +171,6 @@
     "wof:concordances":{
         "gn:id":1734833,
         "gp:id":1155236,
-        "qs:id":345476,
         "qs_pg:id":345476,
         "wd:id":"Q203649"
     },
@@ -184,7 +186,7 @@
         }
     ],
     "wof:id":102023191,
-    "wof:lastmodified":1563238589,
+    "wof:lastmodified":1566642268,
     "wof:name":"Titi",
     "wof:parent_id":890488317,
     "wof:placetype":"locality",

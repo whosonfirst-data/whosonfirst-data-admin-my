@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.705,4.3725,101.745,4.4125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0643\u0633\u0648\u0646"
     ],
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1344249799,
-    "wof:lastmodified":1564190140,
+    "wof:lastmodified":1566642395,
     "wof:name":"Dixon",
     "wof:parent_id":890488203,
     "wof:placetype":"locality",

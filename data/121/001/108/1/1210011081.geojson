@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.43899,5.32294,100.47899,5.36294",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Kota Permai"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1210011081,
-    "wof:lastmodified":1537674243,
+    "wof:lastmodified":1566643348,
     "wof:name":"Taman Kota Permai",
     "wof:parent_id":890489737,
     "wof:placetype":"locality",

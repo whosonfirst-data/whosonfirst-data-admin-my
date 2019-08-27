@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":6.015865,
     "lbl:longitude":100.381678,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.015865,
     "mps:longitude":100.381678,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Simpang Empat"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         102191569,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":6807291,
         "gp:id":1154026,
-        "qs:id":326810,
         "qs_pg:id":326810,
         "wd:id":"Q7520571",
         "wk:page":"Simpang Empat, Kedah"
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":102023951,
-    "wof:lastmodified":1563238597,
+    "wof:lastmodified":1566642272,
     "wof:name":"Simpang Empat",
     "wof:parent_id":890490361,
     "wof:placetype":"locality",

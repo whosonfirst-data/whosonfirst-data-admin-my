@@ -11,8 +11,12 @@
     "geom:longitude":101.854998,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.7549985,2.311162,101.9549985,2.511162",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Kuala Linggi",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Melaka",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014161,
-        "qs:id":1111867
+        "qs_pg:id":1111867
     },
     "wof:country":"MY",
     "wof:created":1469054778,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489865,
-    "wof:lastmodified":1500013408,
+    "wof:lastmodified":1566644013,
     "wof:name":"Kuala Linggi",
     "wof:parent_id":890490331,
     "wof:placetype":"localadmin",

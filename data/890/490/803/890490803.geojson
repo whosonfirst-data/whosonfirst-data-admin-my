@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":4.804187,
     "lbl:longitude":100.724349,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"PERAK",
     "meso:diss_me":"LARUT& MATANGPERAK",
     "meso:gadm_admin":"Larut and Matang",
@@ -32,6 +34,7 @@
     "mps:longitude":100.724349,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Larut and Matang"
     ],
@@ -54,9 +57,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"2,096.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Taiping",
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gp:id":56013618,
         "hasc:id":"MY.PK.LM",
-        "qs:id":221586
+        "qs_pg:id":221586
     },
     "wof:country":"MY",
     "wof:created":1469054825,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890490803,
-    "wof:lastmodified":1553717812,
+    "wof:lastmodified":1566643884,
     "wof:name":"Larut and Matang",
     "wof:parent_id":85675123,
     "wof:placetype":"county",

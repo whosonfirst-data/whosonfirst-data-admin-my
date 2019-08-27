@@ -9,19 +9,21 @@
     "geom:bbox":"99.6534340808,6.21342759487,99.8802570532,6.43928643455",
     "geom:latitude":6.339836,
     "geom:longitude":99.778295,
-    "gn:gn_country":"MY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":30212,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
     "gn:latitude":6.32649,
     "gn:longitude":99.8432,
     "gn:population":30212,
     "iso:country":"MY",
     "lbl:latitude":6.343172,
     "lbl:longitude":99.771322,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":6.343172,
     "mps:longitude":99.771322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0627\u0647"
     ],
@@ -61,7 +63,7 @@
     "name:swe_x_preferred":[
         "Kuah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kwah"
     ],
     "name:zho_x_preferred":[
@@ -103,7 +105,7 @@
     "qs_pg:woe_id":1154765,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1054,
     "wof:belongsto":[
@@ -117,7 +119,6 @@
     "wof:concordances":{
         "gn:id":1222396,
         "gp:id":1154765,
-        "qs:id":479129,
         "qs_pg:id":479129,
         "wd:id":"Q1790824"
     },
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":102022709,
-    "wof:lastmodified":1563238651,
+    "wof:lastmodified":1566642301,
     "wof:name":"Kuah",
     "wof:parent_id":1108696443,
     "wof:placetype":"locality",

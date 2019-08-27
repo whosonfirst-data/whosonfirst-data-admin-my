@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.59432,5.25434,100.63432,5.29434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Sungai Malau"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1277087459,
-    "wof:lastmodified":1537673884,
+    "wof:lastmodified":1566642892,
     "wof:name":"Kampung Sungai Malau",
     "wof:parent_id":890490359,
     "wof:placetype":"locality",

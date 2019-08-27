@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.5803,4.2345,100.6203,4.2745",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kuala Sempit"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226537009,
-    "wof:lastmodified":1537674057,
+    "wof:lastmodified":1566644638,
     "wof:name":"Kampung Kuala Sempit",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.32393,5.62018,100.36393,5.66018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Sungai Yu"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259786653,
-    "wof:lastmodified":1537673874,
+    "wof:lastmodified":1566644340,
     "wof:name":"Kampung Sungai Yu",
     "wof:parent_id":890490355,
     "wof:placetype":"locality",

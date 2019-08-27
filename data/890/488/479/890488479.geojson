@@ -11,11 +11,14 @@
     "geom:longitude":103.3471,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.3421,3.8133,103.3521,3.8233",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Kampung Kubang Buaya"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1767887,
         "gp:id":1145141,
-        "qs:id":1301108
+        "qs_pg:id":1301108
     },
     "wof:country":"MY",
     "wof:created":1469054720,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890488479,
-    "wof:lastmodified":1505343782,
+    "wof:lastmodified":1566643934,
     "wof:name":"Kampong Kubang Buaya",
     "wof:parent_id":102023459,
     "wof:placetype":"neighbourhood",

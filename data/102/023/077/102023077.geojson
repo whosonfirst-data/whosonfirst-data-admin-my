@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003055,
-    "geom:area_square_m":37743955.814914,
+    "geom:area_square_m":37743955.814867,
     "geom:bbox":"102.343139648,2.16379209754,102.418041739,2.24418817023",
     "geom:latitude":2.201766,
     "geom:longitude":102.380369,
@@ -14,14 +14,17 @@
     "iso:country":"MY",
     "lbl:latitude":2.198757,
     "lbl:longitude":102.376682,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":2.198757,
     "mps:longitude":102.376682,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Ayer Molek"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bukit Lintang"
     ],
     "qs:a0":"Malaysia",
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -53,7 +56,6 @@
     "wof:concordances":{
         "gn:id":1734755,
         "gp:id":56037205,
-        "qs:id":208239,
         "qs_pg:id":208239
     },
     "wof:country":"MY",
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":102023077,
-    "wof:lastmodified":1497297382,
+    "wof:lastmodified":1566642245,
     "wof:name":"Ayer Molek",
     "wof:parent_id":890489715,
     "wof:placetype":"locality",

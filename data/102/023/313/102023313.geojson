@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.206825,
     "lbl:longitude":100.441674,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.206825,
     "mps:longitude":100.441674,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sungai Jawi"
     ],
@@ -25,9 +28,6 @@
         "Sungai Jawi"
     ],
     "name:msa_x_preferred":[
-        "Sungai Jawi"
-    ],
-    "name:unk_x_variant":[
         "Sungai Jawi"
     ],
     "name:zho_x_preferred":[
@@ -44,7 +44,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":102023313,
-    "wof:lastmodified":1561751659,
+    "wof:lastmodified":1566642263,
     "wof:name":"Sungai Jajawi",
     "wof:parent_id":1108696503,
     "wof:placetype":"locality",

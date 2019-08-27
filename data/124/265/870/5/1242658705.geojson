@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"110.24667,1.43,110.28667,1.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lidah Tanah",
         "Kampong Lidah Tanah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242658705,
-    "wof:lastmodified":1537674039,
+    "wof:lastmodified":1566644218,
     "wof:name":"Kampong Lidah Tanah",
     "wof:parent_id":1108696381,
     "wof:placetype":"locality",

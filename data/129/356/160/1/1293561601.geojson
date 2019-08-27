@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.16333,5.29667,116.20333,5.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293561601,
-    "wof:lastmodified":1536680318,
+    "wof:lastmodified":1566642776,
     "wof:name":"Kampong Binawo",
     "wof:parent_id":1108696411,
     "wof:placetype":"locality",

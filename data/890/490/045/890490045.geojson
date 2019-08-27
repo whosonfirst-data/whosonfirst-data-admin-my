@@ -11,11 +11,15 @@
     "geom:longitude":101.8407,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.8207,2.9361,101.8607,2.9761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Paling Jaya"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7796505,
         "gp:id":56036449,
-        "qs:id":1137111
+        "qs_pg:id":1137111
     },
     "wof:country":"MY",
     "wof:created":1469054786,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890490045,
-    "wof:lastmodified":1505343787,
+    "wof:lastmodified":1566643902,
     "wof:name":"Taman Sepang Jaya",
     "wof:parent_id":1108696543,
     "wof:placetype":"locality",

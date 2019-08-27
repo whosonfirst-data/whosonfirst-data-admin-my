@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"118.63818,4.42308,118.67818,4.46308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Terusan Baharu",
         "Kampung Trusan Baharu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293183083,
-    "wof:lastmodified":1537673827,
+    "wof:lastmodified":1566642817,
     "wof:name":"Kampung Trusan Baharu",
     "wof:parent_id":1108696507,
     "wof:placetype":"locality",

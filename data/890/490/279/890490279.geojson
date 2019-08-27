@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":2.839916,
     "lbl:longitude":102.508334,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NEGERI SEMBILAN",
     "meso:diss_me":"JEMPOLNEGERI SEMBILAN",
     "meso:gadm_admin":"Jempol",
@@ -32,6 +34,7 @@
     "mps:longitude":102.508334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Jempol"
     ],
@@ -77,9 +80,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"1,386.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Jempol",
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gp:id":56013563,
         "hasc:id":"MY.NS.JM",
-        "qs:id":1292503,
+        "qs_pg:id":1292503,
         "wd:id":"Q2048692",
         "wk:page":"Jempol District"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890490279,
-    "wof:lastmodified":1563240565,
+    "wof:lastmodified":1566643903,
     "wof:name":"Jempol",
     "wof:parent_id":85675155,
     "wof:placetype":"county",

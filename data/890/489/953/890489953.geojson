@@ -11,11 +11,14 @@
     "geom:longitude":102.1978,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.1928,2.2774,102.2028,2.2874",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Kampung Alor"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1771718,
         "gp:id":1141311,
-        "qs:id":40346
+        "qs_pg:id":40346
     },
     "wof:country":"MY",
     "wof:created":1469054782,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890489953,
-    "wof:lastmodified":1505343786,
+    "wof:lastmodified":1566643978,
     "wof:name":"Kampong Alor",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

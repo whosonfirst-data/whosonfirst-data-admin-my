@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":4.021364,
     "lbl:longitude":101.977288,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":4.021364,
     "mps:longitude":101.977288,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Benta"
     ],
@@ -33,7 +36,7 @@
     "name:pap_x_preferred":[
         "Benta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Benta"
     ],
     "qs:a0":"Malaysia",
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
         102191569,
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":1732997,
         "gp:id":1140889,
-        "qs:id":448121,
         "qs_pg:id":448121,
         "wd:id":"Q3480605",
         "wk:page":"Benta"
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":102022851,
-    "wof:lastmodified":1561751668,
+    "wof:lastmodified":1566642306,
     "wof:name":"Benta",
     "wof:parent_id":890488203,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":101.1181,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.1131,4.6266,101.1231,4.6366",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Tasek Mesra"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7473426,
         "gp:id":56017181,
-        "qs:id":1189314
+        "qs_pg:id":1189314
     },
     "wof:country":"MY",
     "wof:created":1469054833,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890490939,
-    "wof:lastmodified":1505343790,
+    "wof:lastmodified":1566643871,
     "wof:name":"Taman Tasek Mewah",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

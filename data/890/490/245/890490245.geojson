@@ -11,11 +11,14 @@
     "geom:longitude":101.0532,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.0482,4.613,101.0582,4.623",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Silibin"
     ],
@@ -38,7 +41,7 @@
     "wof:concordances":{
         "gn:id":7473446,
         "gp:id":56037697,
-        "qs:id":905372
+        "qs_pg:id":905372
     },
     "wof:country":"MY",
     "wof:created":1469054796,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":890490245,
-    "wof:lastmodified":1505343788,
+    "wof:lastmodified":1566643878,
     "wof:name":"Taman Silibin",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

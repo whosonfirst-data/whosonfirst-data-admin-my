@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.3452,4.3046,103.3852,4.3446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Ibuk"
     ],
     "name:und_x_variant":[
-        "Kampong Ibok",
-        "Kampung Ibuk"
+        "Kampong Ibok"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1243433729,
-    "wof:lastmodified":1537673672,
+    "wof:lastmodified":1566644277,
     "wof:name":"Kampung Ibuk",
     "wof:parent_id":890490801,
     "wof:placetype":"locality",

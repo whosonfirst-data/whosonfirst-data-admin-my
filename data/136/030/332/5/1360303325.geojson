@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.7195,1.4539,103.7595,1.4939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Nong Chik"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360303325,
-    "wof:lastmodified":1537674333,
+    "wof:lastmodified":1566643724,
     "wof:name":"Taman Nong Chik",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

@@ -11,8 +11,12 @@
     "geom:longitude":101.637997,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.617997,2.903668,101.657997,2.943668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u0645\u0639\u0629 \u0645\u0644\u062a\u0645\u064a\u062f\u064a\u0627 \u0645\u0627\u0644\u064a\u0632\u064a\u0627"
     ],
@@ -70,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56035059,
-        "qs:id":1090986,
+        "qs_pg:id":1090986,
         "wd:id":"Q1421182",
         "wk:page":"Multimedia University"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890489723,
-    "wof:lastmodified":1563240726,
+    "wof:lastmodified":1566643999,
     "wof:name":"Multimedia University",
     "wof:parent_id":890489971,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":6.638985,
     "lbl:longitude":100.225773,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.638985,
     "mps:longitude":100.225773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kaki Bukit"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":177,
     "wof:belongsto":[
         102191569,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":1736273,
         "gp:id":1154703,
-        "qs:id":998704,
         "qs_pg:id":998704,
         "wd:id":"Q6349421"
     },
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":102023601,
-    "wof:lastmodified":1561751664,
+    "wof:lastmodified":1566642284,
     "wof:name":"Kaki Bukit",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

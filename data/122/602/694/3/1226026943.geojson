@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.5299,5.94941,116.5699,5.98941",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Pahu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226026943,
-    "wof:lastmodified":1537673992,
+    "wof:lastmodified":1566644503,
     "wof:name":"Kampung Pahu",
     "wof:parent_id":1108696495,
     "wof:placetype":"locality",

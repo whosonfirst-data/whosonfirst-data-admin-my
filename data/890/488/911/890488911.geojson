@@ -11,11 +11,15 @@
     "geom:longitude":101.1041,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.0841,3.4874,101.1241,3.5274",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sekinchan"
     ],
@@ -34,7 +38,7 @@
     "name:nld_x_preferred":[
         "Sekinchan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Sekinchang"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":1732938,
         "gp:id":1153920,
-        "qs:id":385712,
+        "qs_pg:id":385712,
         "wd:id":"Q2571745"
     },
     "wof:country":"MY",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890488911,
-    "wof:lastmodified":1561751765,
+    "wof:lastmodified":1566643968,
     "wof:name":"Sekincan",
     "wof:parent_id":890490813,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"112.24667,1.99667,112.28667,2.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rumah Rabai",
         "Rumah Ribai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276418785,
-    "wof:lastmodified":1537673771,
+    "wof:lastmodified":1566643053,
     "wof:name":"Rumah Ribai",
     "wof:parent_id":1108696409,
     "wof:placetype":"locality",

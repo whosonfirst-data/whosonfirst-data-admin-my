@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"117.1568,6.1768,117.1968,6.2168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Penendakan"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309888007,
-    "wof:lastmodified":1537674284,
+    "wof:lastmodified":1566643858,
     "wof:name":"Kampung Penendakan",
     "wof:parent_id":1108696439,
     "wof:placetype":"locality",

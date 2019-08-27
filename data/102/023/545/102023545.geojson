@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009198,
-    "geom:area_square_m":113147397.534974,
+    "geom:area_square_m":113147397.534906,
     "geom:bbox":"100.334597963,5.7545266587,100.447998047,5.94747964713",
     "geom:latitude":5.839353,
     "geom:longitude":100.393958,
@@ -14,17 +14,17 @@
     "iso:country":"MY",
     "lbl:latitude":5.837992,
     "lbl:longitude":100.392028,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.837992,
     "mps:longitude":100.392028,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yan"
     ],
     "name:eng_x_variant":[
-        "Yen"
-    ],
-    "name:unk_x_variant":[
         "Yen"
     ],
     "qs:a0":"Malaysia",
@@ -45,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -57,7 +57,6 @@
         "fct:id":"01dbdcc6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1735489,
         "gp:id":1155259,
-        "qs:id":344173,
         "qs_pg:id":344173
     },
     "wof:country":"MY",
@@ -75,7 +74,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497292758,
+    "wof:lastmodified":1566642263,
     "wof:name":"Yan Besar",
     "wof:parent_id":890489701,
     "wof:placetype":"locality",

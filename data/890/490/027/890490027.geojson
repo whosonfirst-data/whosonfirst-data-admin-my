@@ -11,15 +11,18 @@
     "geom:longitude":103.9004,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.8954,1.7194,103.9054,1.7294",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Kampung Seri Lalang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Sri Lalang"
     ],
     "qs:name":"Kampong Seri Lalang",
@@ -45,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1764479,
         "gp:id":1148557,
-        "qs:id":58707
+        "qs_pg:id":58707
     },
     "wof:country":"MY",
     "wof:created":1469054785,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890490027,
-    "wof:lastmodified":1505343787,
+    "wof:lastmodified":1566643904,
     "wof:name":"Kampong Seri Lalang",
     "wof:parent_id":102022769,
     "wof:placetype":"neighbourhood",

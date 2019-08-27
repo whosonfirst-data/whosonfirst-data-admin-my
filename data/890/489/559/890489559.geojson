@@ -11,10 +11,14 @@
     "geom:longitude":102.22934,
     "gn:country":"MY",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"MY",
+    "lbl:bbox":"102.12934,5.47837,102.32934,5.67837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kuala Krai"
     ],
@@ -67,10 +71,12 @@
     "wof:concordances":{
         "gn:id":7068005,
         "gp:id":56014135,
-        "qs:id":904108,
-        "qs_pg:id":1111851,
+        "qs_pg:id":904108,
         "wd:id":"Q2181394",
         "wk:page":"Kuala Krai District"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1111851
     },
     "wof:country":"MY",
     "wof:created":1469054761,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890489559,
-    "wof:lastmodified":1563240688,
+    "wof:lastmodified":1566643979,
     "wof:name":"Batu Mengkebang",
     "wof:parent_id":890489265,
     "wof:placetype":"localadmin",

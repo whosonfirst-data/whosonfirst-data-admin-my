@@ -11,8 +11,11 @@
     "geom:longitude":102.252717,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.247717,2.196787,102.257717,2.206787",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Taman Wan Saw",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Melaka",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675151,
         102191569,
         85632739,
         102023085,
-        890489715,
-        85675151
+        890489715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037446,
-        "qs:id":1090989
+        "qs_pg:id":1090989
     },
     "wof:country":"MY",
     "wof:created":1469054768,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890489729,
-    "wof:lastmodified":1500013404,
+    "wof:lastmodified":1566644022,
     "wof:name":"Taman Wan Saw",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

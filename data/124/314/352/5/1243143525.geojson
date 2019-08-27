@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.9085,5.1408,102.9485,5.1808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Tengkawang"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243143525,
-    "wof:lastmodified":1537673831,
+    "wof:lastmodified":1566644146,
     "wof:name":"Kampung Tengkawang",
     "wof:parent_id":890488201,
     "wof:placetype":"locality",

@@ -11,8 +11,12 @@
     "geom:longitude":101.479042,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.459042,3.262514,101.499042,3.302514",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bandar Tasik Puteri"
     ],
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015035,
-        "qs:id":5285,
+        "qs_pg:id":5285,
         "wd:id":"Q4854424",
         "wk:page":"Bandar Tasik Puteri"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890490779,
-    "wof:lastmodified":1563240550,
+    "wof:lastmodified":1566643894,
     "wof:name":"Bandar Tasik Puteri",
     "wof:parent_id":1108696399,
     "wof:placetype":"locality",

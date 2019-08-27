@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.20299,4.40506,116.24299,4.44506",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Talingbakas"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260153281,
-    "wof:lastmodified":1537673688,
+    "wof:lastmodified":1566643423,
     "wof:name":"Talingbakas",
     "wof:parent_id":1108696483,
     "wof:placetype":"locality",

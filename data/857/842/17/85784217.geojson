@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.178657,
     "lbl:longitude":101.704403,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.182061,
     "mps:longitude":101.709648,
     "mz:hierarchy_label":1,
@@ -34,12 +35,6 @@
         "Titiwangsa"
     ],
     "name:msa_x_preferred":[
-        "Titiwangsa"
-    ],
-    "name:und_x_preferred":[
-        "Titiwangsa"
-    ],
-    "name:unk_x_variant":[
         "Titiwangsa"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -68,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":3.17788,
     "wd:longitude":101.707,
     "wd:wordcount":111,
@@ -82,7 +77,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56017317,
-        "qs:id":1115862,
         "qs_pg:id":1115862,
         "wd:id":"Q4209706"
     },
@@ -102,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563239006,
+    "wof:lastmodified":1566642581,
     "wof:name":"Titiwangsa",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

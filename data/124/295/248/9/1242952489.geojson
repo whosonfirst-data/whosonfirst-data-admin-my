@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.52731,5.78701,102.56731,5.82701",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Pulau Salim"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242952489,
-    "wof:lastmodified":1537673945,
+    "wof:lastmodified":1566644108,
     "wof:name":"Kampung Pulau Salim",
     "wof:parent_id":890488399,
     "wof:placetype":"locality",

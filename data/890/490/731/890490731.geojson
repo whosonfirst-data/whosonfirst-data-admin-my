@@ -11,11 +11,15 @@
     "geom:longitude":102.1838,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":17391,
+    "gn:population":17391,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.1638,2.2394,102.2038,2.2794",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:msa_x_preferred":[
         "Bukit Rambai"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1778290,
         "gp:id":1140977,
-        "qs:id":870024
+        "qs_pg:id":870024
     },
     "wof:country":"MY",
     "wof:created":1469054823,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890490731,
-    "wof:lastmodified":1505343789,
+    "wof:lastmodified":1566643873,
     "wof:name":"Bukit Rambai",
     "wof:parent_id":890489715,
     "wof:placetype":"locality",

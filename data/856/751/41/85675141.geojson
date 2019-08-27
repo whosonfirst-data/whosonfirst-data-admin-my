@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":2.055789,
     "lbl:longitude":103.371188,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.040033,
     "mps:longitude":103.397644,
     "mz:hierarchy_label":1,
@@ -218,10 +219,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u043e\u0445\u043e\u0440"
     ],
-    "name:und_x_preferred":[
-        "Johor"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "State of Johor"
     ],
     "name:urd_x_preferred":[
@@ -317,9 +315,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"18,985",
     "statoids:area_mi":"7,330",
     "statoids:as_of_date":"2010-07-06",
@@ -347,7 +345,7 @@
         "hasc:id":"MY.JH",
         "iso:id":"MY-01",
         "loc:id":"n81012417",
-        "qs:id":900718,
+        "qs_pg:id":900718,
         "unlc:id":"MY-01",
         "wd:id":"Q183032",
         "wk:page":"Johor"
@@ -362,20 +360,16 @@
         }
     ],
     "wof:id":85675141,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "msa"
     ],
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1563239079,
+    "wof:lastmodified":1566642626,
     "wof:name":"Johor",
     "wof:parent_id":85632739,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":2466320,
     "wof:population_rank":12,

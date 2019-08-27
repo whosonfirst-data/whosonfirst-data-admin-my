@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.88499,
     "lbl:longitude":117.558887,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.88499,
     "mps:longitude":117.558887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Beluran"
     ],
@@ -42,7 +45,7 @@
     "name:nor_x_preferred":[
         "Beluran"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balmoral"
     ],
     "name:vie_x_preferred":[
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":152,
     "wof:belongsto":[
         102191569,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":1734020,
         "gp:id":1154599,
-        "qs:id":1232610,
         "qs_pg:id":1232610,
         "wd:id":"Q816235",
         "wk:page":"Beluran"
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":102022917,
-    "wof:lastmodified":1563238696,
+    "wof:lastmodified":1566642325,
     "wof:name":"Beluran",
     "wof:parent_id":1108696439,
     "wof:placetype":"locality",

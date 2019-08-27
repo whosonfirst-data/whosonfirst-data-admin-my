@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"113.77703,3.22363,113.81703,3.26363",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Rumah Linting"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276744503,
-    "wof:lastmodified":1537674458,
+    "wof:lastmodified":1566642941,
     "wof:name":"Rumah Linting",
     "wof:parent_id":890488209,
     "wof:placetype":"locality",

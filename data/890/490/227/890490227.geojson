@@ -11,11 +11,14 @@
     "geom:longitude":102.81667,
     "gn:country":"MY",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.81167,2.51167,102.82167,2.52167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Kampong Tengah",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Johor",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1762859,
         "gp:id":1150206,
-        "qs:id":507286
+        "qs_pg:id":507286
     },
     "wof:country":"MY",
     "wof:created":1469054795,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890490227,
-    "wof:lastmodified":1505343787,
+    "wof:lastmodified":1566643875,
     "wof:name":"Kampong Tengah",
     "wof:parent_id":102022801,
     "wof:placetype":"neighbourhood",

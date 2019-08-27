@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.681,5.3515,115.721,5.3915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Limbawang"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293661689,
-    "wof:lastmodified":1537674037,
+    "wof:lastmodified":1566642753,
     "wof:name":"Kampung Limbawang",
     "wof:parent_id":1108696385,
     "wof:placetype":"locality",

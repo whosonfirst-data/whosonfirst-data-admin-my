@@ -11,11 +11,15 @@
     "geom:longitude":100.47027,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.45027,5.1086,100.49027,5.1486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Simpang Empat"
     ],
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":6854903,
         "gp:id":1154021,
-        "qs:id":1294160,
+        "qs_pg:id":1294160,
         "wd:id":"Q7520566",
         "wk:page":"Simpang Empat"
     },
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890488459,
-    "wof:lastmodified":1563240668,
+    "wof:lastmodified":1566643966,
     "wof:name":"Simpang Ampat",
     "wof:parent_id":890489801,
     "wof:placetype":"locality",

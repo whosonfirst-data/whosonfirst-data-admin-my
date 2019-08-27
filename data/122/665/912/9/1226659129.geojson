@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.73959,6.40746,100.77959,6.44746",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Lam Geh"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226659129,
-    "wof:lastmodified":1537674045,
+    "wof:lastmodified":1566644634,
     "wof:name":"Kampung Lam Geh",
     "wof:parent_id":1108696471,
     "wof:placetype":"locality",

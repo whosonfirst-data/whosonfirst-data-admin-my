@@ -11,8 +11,10 @@
     "geom:longitude":103.762812,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"103.757812,1.47421,103.767812,1.48421",
     "lbl:latitude":1.47921,
     "lbl:longitude":103.762812,
+    "lbl:max_zoom":18.0,
     "mps:latitude":1.479294,
     "mps:longitude":103.761953,
     "mz:hierarchy_label":0,
@@ -423,10 +425,7 @@
     "name:ukr_x_preferred":[
         "\u0441\u0442\u043e\u043b\u0456\u0442\u0442\u044f"
     ],
-    "name:und_x_preferred":[
-        "Century"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Century"
     ],
     "name:urd_x_preferred":[
@@ -501,7 +500,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":619,
     "wof:belongsto":[
         85675141,
@@ -513,7 +512,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56036076,
-        "qs:id":996459,
         "qs_pg:id":996459,
         "wd:id":"Q578"
     },
@@ -533,7 +531,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563239022,
+    "wof:lastmodified":1566642590,
     "wof:name":"Century",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

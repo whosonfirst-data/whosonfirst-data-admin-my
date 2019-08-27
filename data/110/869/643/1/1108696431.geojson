@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.785935,
     "lbl:longitude":116.747393,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SABAH",
     "meso:diss_me":"KUDATSABAH",
     "meso:gadm_admin":"Kudat",
@@ -31,6 +33,7 @@
     "mps:longitude":116.747393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Kudat"
     ],
@@ -69,9 +72,9 @@
         "Kudat"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"1,287.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Kudat",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108696431,
-    "wof:lastmodified":1564191507,
+    "wof:lastmodified":1566643516,
     "wof:name":"Kudat",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

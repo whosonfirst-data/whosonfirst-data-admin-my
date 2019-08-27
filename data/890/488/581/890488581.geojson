@@ -11,8 +11,12 @@
     "geom:longitude":116.690568,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"116.590568,5.936824,116.790568,6.136824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ranau"
     ],
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014050,
-        "qs:id":1313694,
+        "qs_pg:id":1313694,
         "wd:id":"Q1185989",
         "wk:page":"Ranau"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890488581,
-    "wof:lastmodified":1563240632,
+    "wof:lastmodified":1566643945,
     "wof:name":"Ranau",
     "wof:parent_id":1108696495,
     "wof:placetype":"localadmin",

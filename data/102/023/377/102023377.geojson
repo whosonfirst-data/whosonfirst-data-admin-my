@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00003,
-    "geom:area_square_m":371792.118739,
+    "geom:area_square_m":371792.11874,
     "geom:bbox":"101.656494141,3.41472476462,101.661987305,3.4202081602",
     "geom:latitude":3.417466,
     "geom:longitude":101.659241,
@@ -14,14 +14,17 @@
     "iso:country":"MY",
     "lbl:latitude":3.417466,
     "lbl:longitude":101.65924,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.417466,
     "mps:longitude":101.65924,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Hulu Yam Baharu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ulu Yam Bharu"
     ],
     "qs:a0":"Malaysia",
@@ -40,7 +43,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":1735146,
         "gp:id":1155253,
-        "qs:id":385536
+        "qs_pg:id":385536
     },
     "wof:country":"MY",
     "wof:geomhash":"659ce6e6d3a22a075c05b99cc87fa249",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102023377,
-    "wof:lastmodified":1501222124,
+    "wof:lastmodified":1566642258,
     "wof:name":"Hulu Yam Baharu",
     "wof:parent_id":890489129,
     "wof:placetype":"locality",

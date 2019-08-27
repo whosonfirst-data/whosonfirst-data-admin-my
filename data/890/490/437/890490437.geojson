@@ -12,7 +12,12 @@
     "gn:country":"MY",
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.157186,2.2009025,102.197186,2.2409025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Taman Sayang Selasih",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Melaka",
@@ -30,11 +35,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56016877,
-        "qs:id":784093
+        "qs_pg:id":784093
     },
     "wof:country":"MY",
     "wof:created":1469054805,
-    "wof:geomhash":"fc4e8a208cf4582a247e659f5c229cbf",
+    "wof:geomhash":"bdb7bce2aa5f13eef8c3a6918dcf2f09",
     "wof:hierarchy":[
         {
             "country_id":85632739,
@@ -42,7 +47,7 @@
         }
     ],
     "wof:id":890490437,
-    "wof:lastmodified":1470255697,
+    "wof:lastmodified":1566643883,
     "wof:name":"Taman Sayang Selasih",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

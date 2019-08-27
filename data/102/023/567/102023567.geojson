@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002382,
-    "geom:area_square_m":29306752.121877,
+    "geom:area_square_m":29306752.121884,
     "geom:bbox":"102.081435125,5.65615002072,102.17637857,5.72888083021",
     "geom:latitude":5.691604,
     "geom:longitude":102.132392,
@@ -14,10 +14,14 @@
     "iso:country":"MY",
     "lbl:latitude":5.704276,
     "lbl:longitude":102.160401,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.704276,
     "mps:longitude":102.160401,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Temangan"
     ],
     "qs:a0":"Malaysia",
@@ -38,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -49,7 +53,6 @@
     "wof:concordances":{
         "gn:id":1735564,
         "gp:id":1155213,
-        "qs:id":909680,
         "qs_pg:id":909680
     },
     "wof:country":"MY",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102023567,
-    "wof:lastmodified":1497293281,
+    "wof:lastmodified":1566642236,
     "wof:name":"Temangan Baharu",
     "wof:parent_id":1108696457,
     "wof:placetype":"locality",

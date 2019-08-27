@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6149969.057977,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.084406,4.597701,101.084406,4.597701",
     "geom:latitude":4.597701,
     "geom:longitude":101.084406,
     "gn:latitude":4.5987,
     "gn:longitude":101.0855,
     "iso:country":"MY",
+    "lbl:bbox":"101.079406,4.592701,101.089406,4.602701",
     "lbl:latitude":4.597701,
     "lbl:longitude":101.084406,
+    "lbl:max_zoom":18.0,
     "mps:latitude":4.596182,
     "mps:longitude":101.087527,
     "mz:hierarchy_label":0,
@@ -26,12 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:msa_x_preferred":[
-        "Kampung Jawa"
-    ],
-    "name:und_x_preferred":[
-        "Kampung Jawa"
-    ],
-    "name:unk_x_variant":[
         "Kampung Jawa"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -63,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675123,
         102191569,
         85632739,
         102023021,
-        890490953,
-        85675123
+        890490953
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7612462,
         "gp:id":56015275,
-        "qs:id":1164325,
         "qs_pg:id":1164325
     },
     "wof:country":"MY",
@@ -94,7 +89,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860558,
+    "wof:lastmodified":1566642611,
     "wof:name":"Kampung Jawa",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

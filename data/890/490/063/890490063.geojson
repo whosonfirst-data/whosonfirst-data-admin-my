@@ -11,11 +11,15 @@
     "geom:longitude":100.5374,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.5174,5.34042,100.5574,5.38042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Bersatu"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":6819268,
         "gp:id":56116423,
-        "qs:id":1151626
+        "qs_pg:id":1151626
     },
     "wof:country":"MY",
     "wof:created":1469054787,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890490063,
-    "wof:lastmodified":1505343787,
+    "wof:lastmodified":1566643886,
     "wof:name":"Taman Bersatu",
     "wof:parent_id":890490359,
     "wof:placetype":"locality",

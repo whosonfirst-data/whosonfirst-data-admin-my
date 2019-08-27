@@ -15,6 +15,8 @@
     "iso:country":"MY",
     "lbl:latitude":3.084441,
     "lbl:longitude":101.524636,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":3.084441,
     "mps:longitude":101.524636,
     "mz:hierarchy_label":1,
@@ -310,7 +312,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2979,
     "wof:belongsto":[
@@ -323,7 +325,6 @@
     "wof:concordances":{
         "gn:id":1732903,
         "gp:id":1153992,
-        "qs:id":364177,
         "qs_pg:id":364177,
         "wd:id":"Q500033",
         "wk:page":"Shah Alam"
@@ -340,7 +341,7 @@
         }
     ],
     "wof:id":102022833,
-    "wof:lastmodified":1563238662,
+    "wof:lastmodified":1566642307,
     "wof:name":"Shah Alam",
     "wof:parent_id":890490605,
     "wof:placetype":"locality",

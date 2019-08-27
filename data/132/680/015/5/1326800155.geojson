@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"118.4831,4.5116,118.5231,4.5516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampong Kababak"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326800155,
-    "wof:lastmodified":1537674090,
+    "wof:lastmodified":1566642026,
     "wof:name":"Kampong Kababak",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

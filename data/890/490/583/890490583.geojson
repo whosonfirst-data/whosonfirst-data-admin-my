@@ -11,11 +11,15 @@
     "geom:longitude":116.0599,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"116.0399,5.9847,116.0799,6.0247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Gaya"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1769424,
         "gp:id":1143602,
-        "qs:id":188359
+        "qs_pg:id":188359
     },
     "wof:country":"MY",
     "wof:created":1469054816,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890490583,
-    "wof:lastmodified":1505343789,
+    "wof:lastmodified":1566643920,
     "wof:name":"Kampong Gaya",
     "wof:parent_id":1108696541,
     "wof:placetype":"locality",

@@ -11,14 +11,18 @@
     "geom:longitude":103.3,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":17528,
+    "gn:population":17528,
     "iso:country":"MY",
+    "lbl:bbox":"103.28,1.8078,103.32,1.8478",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:msa_x_preferred":[
         "Kampung Simpang Renggam"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Simpang Rengam"
     ],
     "qs:name":"Kampung Simpang Renggam",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1764318,
         "gp:id":91739139,
-        "qs:id":88621
+        "qs_pg:id":88621
     },
     "wof:country":"MY",
     "wof:created":1469054835,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890491011,
-    "wof:lastmodified":1505343790,
+    "wof:lastmodified":1566643922,
     "wof:name":"Kampung Simpang Renggam",
     "wof:parent_id":1108696417,
     "wof:placetype":"locality",

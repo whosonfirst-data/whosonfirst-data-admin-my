@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001854,
-    "geom:area_square_m":22917509.488788,
+    "geom:area_square_m":22917509.488775,
     "geom:bbox":"111.167155871,1.87476859466,111.273029732,1.94776400093",
     "geom:latitude":1.905479,
     "geom:longitude":111.203303,
@@ -14,9 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":1.889306,
     "lbl:longitude":111.182601,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":1.889306,
     "mps:longitude":111.182601,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "S\u014drin"
     ],
@@ -37,7 +41,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -50,7 +54,7 @@
         "gp:id":56014174
     },
     "wof:country":"MY",
-    "wof:geomhash":"cf482715e6322d266f48af4a451c8815",
+    "wof:geomhash":"95c1929a01cc421063c233b24cba4454",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":102023699,
-    "wof:lastmodified":1480369963,
+    "wof:lastmodified":1566642281,
     "wof:name":"Roban",
     "wof:parent_id":1108696501,
     "wof:placetype":"locality",

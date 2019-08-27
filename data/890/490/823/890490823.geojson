@@ -11,8 +11,12 @@
     "geom:longitude":102.781608,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.681608,2.029628,102.881608,2.229628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:name":"Jorak",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Johor",
@@ -34,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014323,
-        "qs:id":225318,
+        "qs_pg:id":225318,
         "wk:page":"Jurak"
     },
     "wof:country":"MY",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890490823,
-    "wof:lastmodified":1527734158,
+    "wof:lastmodified":1566643903,
     "wof:name":"Jorak",
     "wof:parent_id":890488721,
     "wof:placetype":"localadmin",

@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.296109,
     "lbl:longitude":115.235421,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":5.296109,
     "mps:longitude":115.235421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Bandar Labuan"
     ],
@@ -88,10 +91,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043a\u0442\u043e\u0440\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "Labuan"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Labuan"
     ],
     "name:urd_x_preferred":[
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":909,
     "wof:belongsto":[
@@ -135,7 +135,6 @@
         "fct:id":"01d9db88-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1733782,
         "gp:id":1155256,
-        "qs:id":136140,
         "qs_pg:id":136140,
         "wd:id":"Q2363616",
         "wk:page":"Victoria, Labuan"
@@ -155,7 +154,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563238649,
+    "wof:lastmodified":1566642300,
     "wof:name":"Victoria",
     "wof:parent_id":1108696547,
     "wof:placetype":"locality",

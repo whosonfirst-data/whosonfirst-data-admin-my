@@ -11,11 +11,14 @@
     "geom:longitude":101.1453,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.1403,4.3667,101.1503,4.3767",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Kampung Tengah"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7612607,
         "gp:id":56037714,
-        "qs:id":1206032
+        "qs_pg:id":1206032
     },
     "wof:country":"MY",
     "wof:created":1469054717,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890488367,
-    "wof:lastmodified":1505343782,
+    "wof:lastmodified":1566643954,
     "wof:name":"Kampung Tengku",
     "wof:parent_id":102023497,
     "wof:placetype":"neighbourhood",

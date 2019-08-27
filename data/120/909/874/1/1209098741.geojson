@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.38,3.71333,102.42,3.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632739
@@ -34,7 +38,7 @@
         "gn:id":1751674
     },
     "wof:country":"MY",
-    "wof:geomhash":"8de086e7117ffb14bb4c247f55ec0b55",
+    "wof:geomhash":"14a6ae559dd16c94ca5a05cbcdf6ea3a",
     "wof:hierarchy":[
         {
             "country_id":85632739,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209098741,
-    "wof:lastmodified":1536297802,
+    "wof:lastmodified":1566643125,
     "wof:name":"Paya Taram",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     102.4,
-    3.733330000000001,
+    3.73333,
     102.4,
-    3.733330000000001
+    3.73333
 ],
   "geometry": {"coordinates":[102.40000000000001,3.73333],"type":"Point"}
 }

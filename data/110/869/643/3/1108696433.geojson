@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.674743,
     "lbl:longitude":103.571635,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"JOHOR",
     "meso:diss_me":"KULAI JAYAJOHOR",
     "meso:gadm_admin":"Kulaijaya",
@@ -31,6 +33,7 @@
     "mps:longitude":103.571635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kulaijaya"
     ],
@@ -52,9 +55,9 @@
         "\u53e4\u6765\u518d\u4e5f"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108696433,
-    "wof:lastmodified":1561751740,
+    "wof:lastmodified":1566643516,
     "wof:name":"Kulaijaya",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

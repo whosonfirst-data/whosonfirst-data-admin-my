@@ -11,11 +11,15 @@
     "geom:longitude":103.0837,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.0637,5.2873,103.1037,5.3273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Manir"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":8355657,
         "gp:id":56015575,
-        "qs:id":1115403
+        "qs_pg:id":1115403
     },
     "wof:country":"MY",
     "wof:created":1469054783,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890489985,
-    "wof:lastmodified":1505343786,
+    "wof:lastmodified":1566643998,
     "wof:name":"Manir",
     "wof:parent_id":890490947,
     "wof:placetype":"locality",

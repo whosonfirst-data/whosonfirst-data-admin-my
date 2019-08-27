@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001461,
-    "geom:area_square_m":17976872.463539,
+    "geom:area_square_m":17976872.463543,
     "geom:bbox":"118.165410318,5.4921276969,118.326286376,5.64143047946",
     "geom:latitude":5.534677,
     "geom:longitude":118.279934,
@@ -14,9 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.510629,
     "lbl:longitude":118.304351,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.510629,
     "mps:longitude":118.304351,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Sukau"
     ],
@@ -38,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -49,7 +53,6 @@
     "wof:concordances":{
         "gn:id":1734062,
         "gp:id":1155150,
-        "qs:id":1090069,
         "qs_pg:id":1090069
     },
     "wof:country":"MY",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102022921,
-    "wof:lastmodified":1497296958,
+    "wof:lastmodified":1566642325,
     "wof:name":"Sukau",
     "wof:parent_id":1108696413,
     "wof:placetype":"locality",

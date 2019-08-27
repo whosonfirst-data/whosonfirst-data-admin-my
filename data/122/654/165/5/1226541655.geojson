@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.11333,6.18,102.15333,6.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226541655,
-    "wof:lastmodified":1537003173,
+    "wof:lastmodified":1566644646,
     "wof:name":"Kampong Kok Mek Sang",
     "wof:parent_id":890489803,
     "wof:placetype":"locality",

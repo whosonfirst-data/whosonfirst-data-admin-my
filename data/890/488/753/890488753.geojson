@@ -11,11 +11,14 @@
     "geom:longitude":101.61667,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.61167,3.07833,101.62167,3.08833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Sungai Way",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1735159,
         "gp:id":1154201,
-        "qs:id":326820
+        "qs_pg:id":326820
     },
     "wof:country":"MY",
     "wof:created":1469054731,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890488753,
-    "wof:lastmodified":1505343783,
+    "wof:lastmodified":1566643928,
     "wof:name":"Sungai Way",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

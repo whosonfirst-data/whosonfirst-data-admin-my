@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.161708,
     "lbl:longitude":101.732523,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.159952,
     "mps:longitude":101.730716,
     "mz:hierarchy_label":1,
@@ -33,10 +34,7 @@
     "name:msa_x_preferred":[
         "Taman U-Thant"
     ],
-    "name:und_x_preferred":[
-        "Taman U Thant"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman U Thant"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -65,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":54,
     "wof:belongsto":[
         85675181,
@@ -77,7 +75,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56017232,
-        "qs:id":481795,
         "qs_pg:id":481795,
         "wd:id":"Q4209698"
     },
@@ -97,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563239031,
+    "wof:lastmodified":1566642595,
     "wof:name":"Taman U Thant",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

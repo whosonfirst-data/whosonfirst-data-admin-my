@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000371,
-    "geom:area_square_m":4585027.537773,
+    "geom:area_square_m":4585027.537787,
     "geom:bbox":"101.681213379,3.21552878038,101.708679199,3.24080994748",
     "geom:latitude":3.226415,
     "geom:longitude":101.693396,
@@ -14,6 +14,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.23424,
     "lbl:longitude":101.692596,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.226577,
     "mps:longitude":101.694749,
     "mz:hierarchy_label":1,
@@ -28,14 +29,9 @@
     "name:msa_x_preferred":[
         "Taman Selesa"
     ],
-    "name:und_x_preferred":[
-        "Taman Selaseh"
-    ],
     "name:und_x_variant":[
+        "Taman Selaseh",
         "Taman Selasih"
-    ],
-    "name:unk_x_variant":[
-        "Taman Selaseh"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -65,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675163,
         102191569,
@@ -77,7 +73,6 @@
     "wof:concordances":{
         "gn:id":7794734,
         "gp:id":56070858,
-        "qs:id":431172,
         "qs_pg:id":431172
     },
     "wof:country":"MY",
@@ -96,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1497316812,
+    "wof:lastmodified":1566642600,
     "wof:name":"Taman Selaseh",
     "wof:parent_id":102023411,
     "wof:placetype":"neighbourhood",

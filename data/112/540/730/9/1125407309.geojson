@@ -9,19 +9,23 @@
     "geom:bbox":"100.8603,6.03482,100.8603,6.03482",
     "geom:latitude":6.03482,
     "geom:longitude":100.8603,
-    "gn:gn_country":"MY",
-    "gn:gn_fcode":"ADMD",
-    "gn:gn_pop":0,
+    "gn:country":"MY",
+    "gn:fcode":"ADMD",
+    "gn:population":0,
     "iso:country":"MY",
+    "lbl:bbox":"100.7603,5.93482,100.9603,6.13482",
     "lbl:latitude":6.03482,
     "lbl:longitude":100.8603,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:msa_x_preferred":[
         "Sik"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Daerah Sik"
     ],
     "qs_pg:aaroncc":"MY",
@@ -36,7 +40,7 @@
     "qs_pg:qs_id":1152029,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1125407309,
-    "wof:lastmodified":1509390182,
+    "wof:lastmodified":1566644031,
     "wof:name":"Sik",
     "wof:parent_id":1108696515,
     "wof:placetype":"localadmin",

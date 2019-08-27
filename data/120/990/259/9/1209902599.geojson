@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.1433,5.2666,103.1833,5.3066",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Gong Kemunting"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209902599,
-    "wof:lastmodified":1537674326,
+    "wof:lastmodified":1566643173,
     "wof:name":"Kampung Gong Kemunting",
     "wof:parent_id":890490947,
     "wof:placetype":"locality",

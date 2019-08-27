@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.04667,5.71333,102.08667,5.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632739
@@ -34,7 +38,7 @@
         "gn:id":1769363
     },
     "wof:country":"MY",
-    "wof:geomhash":"ace9b38a802090d0faf4c3e26e83670e",
+    "wof:geomhash":"92380028781850b381f25fa2b061ee8f",
     "wof:hierarchy":[
         {
             "country_id":85632739,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209527069,
-    "wof:lastmodified":1536284401,
+    "wof:lastmodified":1566643175,
     "wof:name":"Kampong Gelugor",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     102.06667,
-    5.7333300000000005,
+    5.73333,
     102.06667,
-    5.7333300000000005
+    5.73333
 ],
   "geometry": {"coordinates":[102.06667,5.73333],"type":"Point"}
 }

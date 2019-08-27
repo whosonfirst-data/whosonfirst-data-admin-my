@@ -11,15 +11,18 @@
     "geom:longitude":103.5813,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.5763,1.4752,103.5863,1.4852",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Kampung Ulu Pulai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Ulu Pulai"
     ],
     "qs:name":"Kampong Baharu Ulu Pulai",
@@ -45,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1771274,
         "gp:id":1141752,
-        "qs:id":1018255
+        "qs_pg:id":1018255
     },
     "wof:country":"MY",
     "wof:created":1469054758,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890489477,
-    "wof:lastmodified":1505343785,
+    "wof:lastmodified":1566643985,
     "wof:name":"Kampong Baharu Ulu Pulai",
     "wof:parent_id":102022783,
     "wof:placetype":"neighbourhood",

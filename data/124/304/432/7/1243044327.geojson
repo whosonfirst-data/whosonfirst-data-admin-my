@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.38447,4.33634,103.42447,4.37634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Bujal"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243044327,
-    "wof:lastmodified":1537674159,
+    "wof:lastmodified":1566644162,
     "wof:name":"Kampung Bujal",
     "wof:parent_id":890490801,
     "wof:placetype":"locality",

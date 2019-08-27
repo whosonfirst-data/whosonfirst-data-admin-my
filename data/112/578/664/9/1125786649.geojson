@@ -9,19 +9,23 @@
     "geom:bbox":"102.3989,2.5331,102.3989,2.5331",
     "geom:latitude":2.5331,
     "geom:longitude":102.3989,
-    "gn:gn_country":"MY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MY",
+    "lbl:bbox":"102.3789,2.5131,102.4189,2.5531",
     "lbl:latitude":2.5331,
     "lbl:longitude":102.3989,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:msa_x_preferred":[
         "Gemencheh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gemencheh Baharu"
     ],
     "qs_pg:aaroncc":"MY",
@@ -41,7 +45,7 @@
     "qs_pg:woe_adm0":23424901,
     "qs_pg:woe_id":1141149,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424901,
     "woe:name_adm0":"Malaysia",
     "woe:name_adm1":"Negeri Sembilan",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1125786649,
-    "wof:lastmodified":1509392018,
+    "wof:lastmodified":1566644031,
     "wof:name":"Gemencih",
     "wof:parent_id":1108696529,
     "wof:placetype":"locality",

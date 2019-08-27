@@ -11,8 +11,11 @@
     "geom:longitude":101.741241,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.736241,3.094651,101.746241,3.104651",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Taman Cheras Permai",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675181,
         102191569,
         85632739,
         102023407,
-        890490945,
-        85675181
+        890490945
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56036775,
-        "qs:id":1017533
+        "qs_pg:id":1017533
     },
     "wof:country":"MY",
     "wof:created":1469054757,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890489449,
-    "wof:lastmodified":1500013689,
+    "wof:lastmodified":1566643983,
     "wof:name":"Taman Cheras Permai",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,11 @@
     "geom:longitude":102.2441,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.2391,2.4752,102.2491,2.4852",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Taman Indah",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Melaka",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675155,
         102191569,
         85632739,
         102023051,
-        1108696529,
-        85675155
+        1108696529
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56035654,
-        "qs:id":1017516
+        "qs_pg:id":1017516
     },
     "wof:country":"MY",
     "wof:created":1469054757,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890489437,
-    "wof:lastmodified":1500013423,
+    "wof:lastmodified":1566643989,
     "wof:name":"Taman Indah",
     "wof:parent_id":102023051,
     "wof:placetype":"neighbourhood",

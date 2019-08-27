@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2037464.052495,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.300557,5.344217,100.300557,5.344217",
     "geom:latitude":5.344217,
     "geom:longitude":100.300557,
     "iso:country":"MY",
+    "lbl:bbox":"100.295557,5.339217,100.305557,5.349217",
     "lbl:latitude":5.344217,
     "lbl:longitude":100.300557,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.343712,
     "mps:longitude":100.299351,
     "mz:hierarchy_label":0,
@@ -23,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":17.0,
     "mz:tier_locality":3,
-    "name:und_x_preferred":[
-        "Taman Lip Sin"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Lip Sin"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -57,13 +56,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023363,
-        890489155,
-        85675127
+        890489155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +84,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860599,
+    "wof:lastmodified":1566642588,
     "wof:name":"Taman Lip Sin",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

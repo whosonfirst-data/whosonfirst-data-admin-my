@@ -11,8 +11,11 @@
     "geom:longitude":103.758172,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.753172,1.469923,103.763172,1.479923",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Bukit Indah"
     ],
@@ -47,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56036018,
-        "qs:id":1181031,
+        "qs_pg:id":1181031,
         "wd:id":"Q4986902",
         "wk:page":"Bukit Indah"
     },
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890490201,
-    "wof:lastmodified":1563240579,
+    "wof:lastmodified":1566643912,
     "wof:name":"Bukit Indah",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

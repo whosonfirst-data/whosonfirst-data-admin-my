@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7777253.099,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.604328,3.069217,101.604328,3.069217",
     "geom:latitude":3.069217,
     "geom:longitude":101.604328,
     "gn:latitude":3.06667,
     "gn:longitude":101.6,
     "iso:country":"MY",
+    "lbl:bbox":"101.599328,3.064217,101.609328,3.074217",
     "lbl:latitude":3.069217,
     "lbl:longitude":101.604328,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.063618,
     "mps:longitude":101.598657,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Kampong Penaga"
-    ],
-    "name:unk_x_variant":[
         "Kampong Penaga"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023395,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1765784,
         "gp:id":1147246,
-        "qs:id":1039833,
         "qs_pg:id":1039833
     },
     "wof:country":"MY",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859444,
+    "wof:lastmodified":1566642618,
     "wof:name":"Kampong Penaga",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.6624,2.777,101.7024,2.817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Ladang Sungai Labu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259463145,
-    "wof:lastmodified":1537674368,
+    "wof:lastmodified":1566644329,
     "wof:name":"Ladang Sungai Labu",
     "wof:parent_id":890489971,
     "wof:placetype":"locality",

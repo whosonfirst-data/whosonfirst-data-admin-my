@@ -11,15 +11,18 @@
     "geom:longitude":102.1627,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.1577,2.3813,102.1677,2.3913",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Kampung Padang Lalang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Padang Lalang"
     ],
     "qs:name":"Taman Padang Balang",
@@ -45,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1766493,
         "gp:id":56035376,
-        "qs:id":228071
+        "qs_pg:id":228071
     },
     "wof:country":"MY",
     "wof:created":1469054828,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890490841,
-    "wof:lastmodified":1505343790,
+    "wof:lastmodified":1566643901,
     "wof:name":"Taman Padang Balang",
     "wof:parent_id":102023061,
     "wof:placetype":"neighbourhood",

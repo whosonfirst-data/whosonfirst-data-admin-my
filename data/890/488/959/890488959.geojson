@@ -11,11 +11,14 @@
     "geom:longitude":102.1332,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.1282,2.2848,102.1382,2.2948",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Keris Mas"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7797882,
         "gp:id":56035645,
-        "qs:id":401965
+        "qs_pg:id":401965
     },
     "wof:country":"MY",
     "wof:created":1469054739,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890488959,
-    "wof:lastmodified":1505343784,
+    "wof:lastmodified":1566643951,
     "wof:name":"Taman Kerjasama",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5475657.491997,
+    "geom:area_square_m":0.0,
     "geom:bbox":"102.243374,2.197974,102.243374,2.197974",
     "geom:latitude":2.197974,
     "geom:longitude":102.243374,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"102.238374,2.192974,102.248374,2.202974",
     "lbl:latitude":2.197974,
     "lbl:longitude":102.243374,
+    "lbl:max_zoom":18.0,
     "mps:latitude":2.201891,
     "mps:longitude":102.234056,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Bandar Raya Melaka"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bandar Raya Melaka"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675151,
         102191569,
         85632739,
         102023085,
-        890489715,
-        85675151
+        890489715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037462,
-        "qs:id":8372,
         "qs_pg:id":8372
     },
     "wof:country":"MY",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860631,
+    "wof:lastmodified":1566642579,
     "wof:name":"Bandar Raya Melaka",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

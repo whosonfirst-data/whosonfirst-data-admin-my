@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":2.630302,
     "lbl:longitude":114.373169,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":2.630302,
     "mps:longitude":114.373169,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Belaga"
     ],
@@ -36,7 +39,7 @@
     "name:nld_x_preferred":[
         "Belaga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belaga Fort"
     ],
     "name:vie_x_preferred":[
@@ -56,7 +59,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":608,
     "wof:belongsto":[
         102191569,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":102023749,
-    "wof:lastmodified":1563238575,
+    "wof:lastmodified":1566642260,
     "wof:name":"Belaga",
     "wof:parent_id":1108696387,
     "wof:placetype":"locality",

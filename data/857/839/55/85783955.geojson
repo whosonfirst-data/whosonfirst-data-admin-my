@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.158165,
     "lbl:longitude":101.688254,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.157568,
     "mps:longitude":101.688064,
     "mz:hierarchy_label":1,
@@ -24,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
-    "name:und_x_preferred":[
-        "Mahameru"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mahameru"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":13,
     "wof:belongsto":[
         85675181,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015571,
-        "qs:id":115499,
         "qs_pg:id":115499
     },
     "wof:country":"MY",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269535,
+    "wof:lastmodified":1566642611,
     "wof:name":"Mahameru",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

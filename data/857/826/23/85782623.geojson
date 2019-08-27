@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":1735935.765757,
+    "geom:area_square_m":1735935.765756,
     "geom:bbox":"101.718293519,3.19261550289,101.729276425,3.21181750054",
     "geom:latitude":3.201793,
     "geom:longitude":101.723603,
@@ -14,6 +14,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.197613,
     "lbl:longitude":101.724064,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.201672,
     "mps:longitude":101.723497,
     "mz:hierarchy_label":1,
@@ -33,9 +34,6 @@
     ],
     "name:und_x_variant":[
         "Taman Setapak Jaya"
-    ],
-    "name:unk_x_variant":[
-        "Taman Selapak Permai"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -65,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -77,7 +75,6 @@
     "wof:concordances":{
         "gn:id":7651164,
         "gp:id":55862685,
-        "qs:id":1182575,
         "qs_pg:id":1182575
     },
     "wof:country":"MY",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497309392,
+    "wof:lastmodified":1566642585,
     "wof:name":"Taman Selapak Permai",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

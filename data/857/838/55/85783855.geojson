@@ -12,8 +12,10 @@
     "gn:latitude":3.13333,
     "gn:longitude":101.63333,
     "iso:country":"MY",
+    "lbl:bbox":"101.579935,3.046543,101.589935,3.056543",
     "lbl:latitude":3.051543,
     "lbl:longitude":101.584935,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.049598,
     "mps:longitude":101.585739,
     "mz:hierarchy_label":0,
@@ -37,12 +39,8 @@
     "name:msa_x_preferred":[
         "Damansara"
     ],
-    "name:und_x_preferred":[
-        "Damansara"
-    ],
-    "name:unk_x_variant":[
-        "Sungei Penchala",
-        "Damansara"
+    "name:und_x_variant":[
+        "Sungei Penchala"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -72,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":55,
     "wof:belongsto":[
         85675163,
@@ -85,7 +83,7 @@
     "wof:concordances":{
         "gn:id":1776582,
         "gp:id":56015119,
-        "qs:id":1152554,
+        "qs_pg:id":1152554,
         "wd:id":"Q5211973"
     },
     "wof:country":"MY",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561751692,
+    "wof:lastmodified":1566642607,
     "wof:name":"Damansara",
     "wof:parent_id":102022833,
     "wof:placetype":"neighbourhood",

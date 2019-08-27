@@ -11,11 +11,14 @@
     "geom:longitude":103.273,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.268,3.7772,103.278,3.7872",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Sepakat"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7662113,
         "gp:id":56036559,
-        "qs:id":1311513
+        "qs_pg:id":1311513
     },
     "wof:country":"MY",
     "wof:created":1469054723,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890488537,
-    "wof:lastmodified":1505343782,
+    "wof:lastmodified":1566643950,
     "wof:name":"Taman Selamat",
     "wof:parent_id":102023459,
     "wof:placetype":"neighbourhood",

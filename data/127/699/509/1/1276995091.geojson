@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.5222,2.1938,103.5622,2.2338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kahang Baharu"
     ],
     "name:und_x_variant":[
         "Kangkar Kabang",
-        "Kangkar Kahang",
-        "Kampung Kahang Baharu"
+        "Kangkar Kahang"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1276995091,
-    "wof:lastmodified":1537673670,
+    "wof:lastmodified":1566643074,
     "wof:name":"Kampung Kahang Baharu",
     "wof:parent_id":1108696417,
     "wof:placetype":"locality",

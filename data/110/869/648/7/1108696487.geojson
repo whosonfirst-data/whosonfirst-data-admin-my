@@ -12,6 +12,8 @@
     "iso:country":"MY",
     "lbl:latitude":6.221305,
     "lbl:longitude":99.802256,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KEDAH",
     "meso:diss_me":"PULAU DAYANG BUNTINGKEDAH",
     "meso:gadm_admin":"Langkawi",
@@ -25,6 +27,7 @@
     "mps:longitude":99.802256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0646\u0643\u0627\u0648\u064a"
     ],
@@ -161,7 +164,7 @@
         "\u6d6e\u7f57\u4ea4\u6021"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":1108696487,
-    "wof:lastmodified":1563240119,
+    "wof:lastmodified":1566643527,
     "wof:name":"Langkawi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

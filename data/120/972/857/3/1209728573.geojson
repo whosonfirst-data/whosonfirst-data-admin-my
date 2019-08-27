@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.37391,6.11885,100.41391,6.15885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Setia Jaya"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209728573,
-    "wof:lastmodified":1537674237,
+    "wof:lastmodified":1566643337,
     "wof:name":"Taman Setia Jaya",
     "wof:parent_id":890490361,
     "wof:placetype":"locality",

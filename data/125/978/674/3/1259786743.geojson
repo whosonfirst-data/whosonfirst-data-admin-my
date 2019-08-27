@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.50891,6.21931,100.54891,6.25931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Paya Kelubi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259786743,
-    "wof:lastmodified":1537673974,
+    "wof:lastmodified":1566644335,
     "wof:name":"Kampung Paya Kelubi",
     "wof:parent_id":1108696471,
     "wof:placetype":"locality",

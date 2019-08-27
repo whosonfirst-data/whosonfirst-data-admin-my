@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00215,
-    "geom:area_square_m":26531194.56854,
+    "geom:area_square_m":26531194.568524,
     "geom:bbox":"102.356116142,3.68529950343,102.407067755,3.74722733518",
     "geom:latitude":3.720926,
     "geom:longitude":102.378918,
@@ -14,11 +14,14 @@
     "iso:country":"MY",
     "lbl:latitude":3.719689,
     "lbl:longitude":102.374304,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.719689,
     "mps:longitude":102.374304,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Kuala Kurau"
     ],
     "qs:a0":"Malaysia",
@@ -37,7 +40,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":1732607,
         "gp:id":1154775,
-        "qs:id":1072835
+        "qs_pg:id":1072835
     },
     "wof:country":"MY",
     "wof:geomhash":"7ef3eb641d0b416b8c2225381eda694a",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102022715,
-    "wof:lastmodified":1501221903,
+    "wof:lastmodified":1566642309,
     "wof:name":"Kuala Kerau",
     "wof:parent_id":890489541,
     "wof:placetype":"locality",

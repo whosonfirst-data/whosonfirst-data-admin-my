@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"111.39667,1.44667,111.43667,1.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Trusan",
         "Kampong Trusan",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344144917,
-    "wof:lastmodified":1537673827,
+    "wof:lastmodified":1566642385,
     "wof:name":"Kampong Terusan",
     "wof:parent_id":1108696391,
     "wof:placetype":"locality",

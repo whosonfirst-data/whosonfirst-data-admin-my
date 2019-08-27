@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.9792,5.0541,103.0192,5.0941",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Teluk Masjid"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242653929,
-    "wof:lastmodified":1537673841,
+    "wof:lastmodified":1566644218,
     "wof:name":"Kampung Teluk Masjid",
     "wof:parent_id":890488201,
     "wof:placetype":"locality",

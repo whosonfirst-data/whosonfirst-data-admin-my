@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.348264,
     "lbl:longitude":115.706342,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SABAH",
     "meso:diss_me":"BEAUFORTSABAH",
     "meso:gadm_admin":"Beaufort",
@@ -31,6 +33,7 @@
     "mps:longitude":115.706342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Beaufort"
     ],
@@ -44,9 +47,9 @@
         "Beaufort"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"1,735.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Beaufort",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108696385,
-    "wof:lastmodified":1561751743,
+    "wof:lastmodified":1566643533,
     "wof:name":"Beaufort",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

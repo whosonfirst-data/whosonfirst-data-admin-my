@@ -11,11 +11,14 @@
     "geom:longitude":102.2258,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.2208,2.2274,102.2308,2.2374",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Balik"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7797939,
         "gp:id":56037444,
-        "qs:id":981522
+        "qs_pg:id":981522
     },
     "wof:country":"MY",
     "wof:created":1469054750,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890489251,
-    "wof:lastmodified":1505343785,
+    "wof:lastmodified":1566643992,
     "wof:name":"Taman Bakti",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

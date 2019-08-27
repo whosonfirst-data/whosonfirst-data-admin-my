@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.3354,1.5984,103.3754,1.6384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Parit Puasa"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260299067,
-    "wof:lastmodified":1537674466,
+    "wof:lastmodified":1566643480,
     "wof:name":"Kampung Parit Puasa",
     "wof:parent_id":890491001,
     "wof:placetype":"locality",

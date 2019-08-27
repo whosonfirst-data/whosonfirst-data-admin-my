@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.074149,
     "lbl:longitude":103.099472,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.074149,
     "mps:longitude":103.099472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ajil"
     ],
@@ -42,7 +45,7 @@
     "name:spa_x_preferred":[
         "Ajil"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Ajil"
     ],
     "qs:a0":"Malaysia",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":1734718,
         "gp:id":1154540,
-        "qs:id":1072840,
         "qs_pg:id":1072840,
         "wd:id":"Q4205501",
         "wk:page":"Ajil (town)"
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":102023035,
-    "wof:lastmodified":1561751663,
+    "wof:lastmodified":1566642282,
     "wof:name":"Ajil",
     "wof:parent_id":890488201,
     "wof:placetype":"locality",

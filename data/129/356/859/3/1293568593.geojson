@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.64945,5.61506,102.68945,5.65506",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Alur Serdang"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293568593,
-    "wof:lastmodified":1537674269,
+    "wof:lastmodified":1566642776,
     "wof:name":"Kampung Alur Serdang",
     "wof:parent_id":1108696513,
     "wof:placetype":"locality",

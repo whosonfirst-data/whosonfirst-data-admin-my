@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.50661,5.73113,102.54661,5.77113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Gong Terap"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209801787,
-    "wof:lastmodified":1537674272,
+    "wof:lastmodified":1566643299,
     "wof:name":"Kampung Gong Terap",
     "wof:parent_id":890488399,
     "wof:placetype":"locality",

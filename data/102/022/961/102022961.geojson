@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002966,
-    "geom:area_square_m":36535407.424046,
+    "geom:area_square_m":36535407.424062,
     "geom:bbox":"100.497436523,5.07642937554,100.58335955,5.20036468118",
     "geom:latitude":5.11261,
     "geom:longitude":100.540902,
@@ -14,14 +14,17 @@
     "iso:country":"MY",
     "lbl:latitude":5.114428,
     "lbl:longitude":100.536662,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.114428,
     "mps:longitude":100.536662,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Bandar Baharu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bandar Bahru"
     ],
     "qs:a0":"Malaysia",
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -53,7 +56,6 @@
     "wof:concordances":{
         "gn:id":1734407,
         "gp:id":1140774,
-        "qs:id":360493,
         "qs_pg:id":360493
     },
     "wof:country":"MY",
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":102022961,
-    "wof:lastmodified":1497295704,
+    "wof:lastmodified":1566642312,
     "wof:name":"Bandar Baharu",
     "wof:parent_id":890490371,
     "wof:placetype":"locality",

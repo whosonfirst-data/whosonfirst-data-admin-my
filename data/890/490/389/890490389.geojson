@@ -11,10 +11,14 @@
     "geom:longitude":100.55927,
     "gn:country":"MY",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"MY",
+    "lbl:bbox":"100.45927,5.09168,100.65927,5.29168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Sungai Kechil"
     ],
@@ -36,7 +40,9 @@
     "wof:concordances":{
         "gn:id":6854887,
         "gp:id":56014656,
-        "qs:id":1153789,
+        "qs_pg:id":1153789
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1294728
     },
     "wof:country":"MY",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":890490389,
-    "wof:lastmodified":1509390574,
+    "wof:lastmodified":1566643917,
     "wof:name":"Sungai Kechil",
     "wof:parent_id":890490371,
     "wof:placetype":"localadmin",

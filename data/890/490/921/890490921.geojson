@@ -11,11 +11,15 @@
     "geom:longitude":102.0686,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.0486,2.9655,102.0886,3.0055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Naga Emas"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7691821,
         "gp:id":56035547,
-        "qs:id":1187545
+        "qs_pg:id":1187545
     },
     "wof:country":"MY",
     "wof:created":1469054832,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890490921,
-    "wof:lastmodified":1505343790,
+    "wof:lastmodified":1566643919,
     "wof:name":"Taman Sungai Gemas",
     "wof:parent_id":890488317,
     "wof:placetype":"locality",

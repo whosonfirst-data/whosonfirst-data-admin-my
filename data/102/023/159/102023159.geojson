@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":2.5905,
     "lbl:longitude":101.952003,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":2.5905,
     "mps:longitude":101.952003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rantau"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":211,
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":1734814,
         "gp:id":1155044,
-        "qs:id":268868,
         "qs_pg:id":268868,
         "wd:id":"Q7293539",
         "wk:page":"Rantau"
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":102023159,
-    "wof:lastmodified":1563238528,
+    "wof:lastmodified":1566642237,
     "wof:name":"Rantau",
     "wof:parent_id":890489719,
     "wof:placetype":"locality",

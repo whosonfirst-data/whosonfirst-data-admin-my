@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.8917,3.9596,101.9317,3.9996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Mutan"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260275835,
-    "wof:lastmodified":1537674345,
+    "wof:lastmodified":1566643470,
     "wof:name":"Kampung Mutan",
     "wof:parent_id":890490737,
     "wof:placetype":"locality",

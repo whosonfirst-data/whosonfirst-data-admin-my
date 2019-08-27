@@ -12,9 +12,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.365373,
     "lbl:longitude":103.112183,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.365373,
     "mps:longitude":103.112183,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Perkampungan Orang Asli"
     ],
@@ -34,7 +38,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":7856981,
         "gp:id":56037828,
-        "qs:id":1014285
+        "qs_pg:id":1014285
     },
     "wof:country":"MY",
     "wof:geomhash":"6584c1e6e89460755dd9b477bb1a6896",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":102024013,
-    "wof:lastmodified":1501273360,
+    "wof:lastmodified":1566642232,
     "wof:name":"Perkampungan Orang Asli",
     "wof:parent_id":1108696481,
     "wof:placetype":"locality",

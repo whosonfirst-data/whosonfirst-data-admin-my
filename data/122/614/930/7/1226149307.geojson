@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.09348,2.40894,102.13348,2.44894",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226149307,
-    "wof:lastmodified":1537069498,
+    "wof:lastmodified":1566644552,
     "wof:name":"Solok Mempedal Ayam",
     "wof:parent_id":890489107,
     "wof:placetype":"locality",

@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.6935,3.9326,100.7335,3.9726",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Simpang Empat Rungkup"
     ],
     "name:und_x_variant":[
         "Rungkup",
-        "Simpang Ampat Rungkup",
-        "Simpang Empat Rungkup"
+        "Simpang Ampat Rungkup"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1276540701,
-    "wof:lastmodified":1537673718,
+    "wof:lastmodified":1566643112,
     "wof:name":"Simpang Empat Rungkup",
     "wof:parent_id":890490073,
     "wof:placetype":"locality",

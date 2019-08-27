@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6194147.235093,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.378052,5.426075,100.378052,5.426075",
     "geom:latitude":5.426075,
     "geom:longitude":100.378052,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"100.373052,5.421075,100.383052,5.431075",
     "lbl:latitude":5.426075,
     "lbl:longitude":100.378052,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.423227,
     "mps:longitude":100.376675,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
-    "name:und_x_preferred":[
-        "Bandar Perda"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bandar Perda"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -57,18 +56,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023321,
-        890490327,
-        85675127
+        890490327
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015018,
-        "qs:id":1307167,
         "qs_pg:id":1307167
     },
     "wof:country":"MY",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860550,
+    "wof:lastmodified":1566642606,
     "wof:name":"Bandar Perda",
     "wof:parent_id":102023321,
     "wof:placetype":"neighbourhood",

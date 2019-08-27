@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":2.079042,
     "lbl:longitude":111.46428,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SARAWAK",
     "meso:diss_me":"SARIKEISARAWAK",
     "meso:gadm_admin":"Sarikei",
@@ -32,6 +34,7 @@
     "mps:longitude":111.46428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sarikei"
     ],
@@ -72,9 +75,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Sarikei",
@@ -94,7 +97,7 @@
     "wof:concordances":{
         "gp:id":56013600,
         "hasc:id":"MY.SK.SK",
-        "qs:id":525937
+        "qs_pg:id":525937
     },
     "wof:country":"MY",
     "wof:created":1469054713,
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":890488261,
-    "wof:lastmodified":1564192092,
+    "wof:lastmodified":1566643938,
     "wof:name":"Sarikei",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

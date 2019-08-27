@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.53419,5.86346,100.57419,5.90346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Lubok Reba"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243567065,
-    "wof:lastmodified":1537674029,
+    "wof:lastmodified":1566644166,
     "wof:name":"Kampung Lubok Reba",
     "wof:parent_id":890489109,
     "wof:placetype":"locality",

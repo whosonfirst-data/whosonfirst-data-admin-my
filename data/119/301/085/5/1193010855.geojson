@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.3065,3.1225,102.3465,3.1625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Bukit Godham"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193010855,
-    "wof:lastmodified":1537674364,
+    "wof:lastmodified":1566643365,
     "wof:name":"Kampung Bukit Godham",
     "wof:parent_id":890489815,
     "wof:placetype":"locality",

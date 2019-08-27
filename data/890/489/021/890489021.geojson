@@ -11,8 +11,12 @@
     "geom:longitude":101.647567,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.627567,3.236721,101.667567,3.276721",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Ryncak Templer",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037399,
-        "qs:id":119072
+        "qs_pg:id":119072
     },
     "wof:country":"MY",
     "wof:created":1469054741,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489021,
-    "wof:lastmodified":1500013490,
+    "wof:lastmodified":1566644011,
     "wof:name":"Ryncak Templer",
     "wof:parent_id":1108696399,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"110.83,1.03,110.87,1.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Telagus",
         "Kampong Telagus"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310482625,
-    "wof:lastmodified":1537673846,
+    "wof:lastmodified":1566643544,
     "wof:name":"Kampong Telagus",
     "wof:parent_id":1108696511,
     "wof:placetype":"locality",

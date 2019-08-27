@@ -11,8 +11,12 @@
     "geom:longitude":101.155242,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.055242,4.24273,101.255242,4.44273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kampar"
     ],
@@ -52,7 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014376,
-        "qs:id":1313718,
+        "qs_pg:id":1313718,
         "wk:page":"Kampar"
     },
     "wof:country":"MY",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":890488597,
-    "wof:lastmodified":1564192105,
+    "wof:lastmodified":1566643953,
     "wof:name":"Kampar",
     "wof:parent_id":890490953,
     "wof:placetype":"localadmin",

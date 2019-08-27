@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.997,2.4511,102.037,2.4911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Permatang Pasir"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360308203,
-    "wof:lastmodified":1537673958,
+    "wof:lastmodified":1566643721,
     "wof:name":"Kampung Permatang Pasir",
     "wof:parent_id":890490331,
     "wof:placetype":"locality",

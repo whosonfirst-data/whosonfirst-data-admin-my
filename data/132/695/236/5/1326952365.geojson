@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.4911,4.2625,101.5311,4.3025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Titum"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326952365,
-    "wof:lastmodified":1537674343,
+    "wof:lastmodified":1566642065,
     "wof:name":"Titum",
     "wof:parent_id":890488203,
     "wof:placetype":"locality",

@@ -11,15 +11,19 @@
     "geom:longitude":101.519,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":23307,
+    "gn:population":23307,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.499,3.2656,101.539,3.3056",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:msa_x_preferred":[
         "Ladang Seri Kundang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pengkalan Kundang"
     ],
     "qs:name":"Taman Sri Kundang",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1750974,
         "gp:id":56037561,
-        "qs:id":78249
+        "qs_pg:id":78249
     },
     "wof:country":"MY",
     "wof:created":1469054831,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890490889,
-    "wof:lastmodified":1505343790,
+    "wof:lastmodified":1566643877,
     "wof:name":"Taman Sri Kundang",
     "wof:parent_id":1108696399,
     "wof:placetype":"locality",

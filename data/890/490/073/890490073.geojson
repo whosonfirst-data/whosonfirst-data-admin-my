@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":3.934963,
     "lbl:longitude":101.056507,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"PERAK",
     "meso:diss_me":"HILIR PERAKPERAK",
     "meso:gadm_admin":"Hilir Perak",
@@ -32,6 +34,7 @@
     "mps:longitude":101.056507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Hilir Perak"
     ],
@@ -74,9 +77,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"1,727.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Teluk Irtan",
@@ -97,7 +100,7 @@
     "wof:concordances":{
         "gp:id":56013591,
         "hasc:id":"MY.PK.HI",
-        "qs:id":71464,
+        "qs_pg:id":71464,
         "wd:id":"Q2381489",
         "wk:page":"Hilir Perak District"
     },
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890490073,
-    "wof:lastmodified":1563240564,
+    "wof:lastmodified":1566643902,
     "wof:name":"Hilir Perak",
     "wof:parent_id":85675123,
     "wof:placetype":"county",

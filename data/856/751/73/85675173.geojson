@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":5.364564,
     "lbl:longitude":116.817599,
+    "lbl:min_zoom":8.0,
     "mps:latitude":5.281813,
     "mps:longitude":116.799205,
     "mz:hierarchy_label":1,
@@ -245,10 +246,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0431\u0430\u0445"
     ],
-    "name:und_x_preferred":[
-        "Sabah"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "British North Borneo"
     ],
     "name:urd_x_preferred":[
@@ -347,9 +345,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"73,711",
     "statoids:area_mi":"28,460",
     "statoids:as_of_date":"2010-07-06",
@@ -380,7 +378,7 @@
         "iso:id":"MY-12",
         "loc:id":"n80061078",
         "nyt:id":"39542381266069063601",
-        "qs:id":900727,
+        "qs_pg:id":900727,
         "unlc:id":"MY-12",
         "wd:id":"Q179029",
         "wk:page":"Sabah"
@@ -395,20 +393,16 @@
         }
     ],
     "wof:id":85675173,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "msa"
     ],
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1563239069,
+    "wof:lastmodified":1566642623,
     "wof:name":"Sabah",
     "wof:parent_id":85632739,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3117405,
     "wof:population_rank":12,

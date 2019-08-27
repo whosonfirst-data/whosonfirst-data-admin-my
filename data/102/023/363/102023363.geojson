@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.318944,
     "lbl:longitude":100.281868,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.318944,
     "mps:longitude":100.281868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0627\u0646 \u0644\u064a\u0628\u0627\u0633"
     ],
@@ -43,7 +46,7 @@
         "\u0aac\u0abe\u0aaf\u0abe\u0aa8 \u0ab2\u0ac7\u0aaa\u0abe\u0ab8"
     ],
     "name:hin_x_preferred":[
-        "\u092c\u092f\u093e\u0902  \u0932\u0947\u092a\u093e\u0938"
+        "\u092c\u092f\u093e\u0902 \u0932\u0947\u092a\u093e\u0938"
     ],
     "name:ind_x_preferred":[
         "Bayan Lepas"
@@ -136,7 +139,7 @@
     "qs:type":"Suburb",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":416,
     "wof:belongsto":[
         102191569,
@@ -149,7 +152,7 @@
         "fct:id":"01e4d330-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1735102,
         "gp:id":1140856,
-        "qs:id":964802,
+        "qs_pg:id":964802,
         "wd:id":"Q4874282",
         "wk:page":"Bayan Lepas"
     },
@@ -168,7 +171,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561751654,
+    "wof:lastmodified":1566642242,
     "wof:name":"Bayan Lepas",
     "wof:parent_id":890489155,
     "wof:placetype":"locality",

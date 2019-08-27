@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.3127,1.5715,103.3527,1.6115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Ayer Baloi"
     ],
     "name:und_x_variant":[
         "Kampong Ayer Baloi",
-        "Ayer Baloi",
         "Kampung Air Baloi"
     ],
     "src:geom":"geonames",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1242687487,
-    "wof:lastmodified":1537673668,
+    "wof:lastmodified":1566644098,
     "wof:name":"Ayer Baloi",
     "wof:parent_id":890491001,
     "wof:placetype":"locality",

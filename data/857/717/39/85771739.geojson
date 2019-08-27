@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000853,
-    "geom:area_square_m":10532381.377009,
+    "geom:area_square_m":10532381.377021,
     "geom:bbox":"101.668295655,3.23375544223,101.713186035,3.2739192849",
     "geom:latitude":3.253445,
     "geom:longitude":101.693663,
@@ -14,6 +14,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.238934,
     "lbl:longitude":101.684562,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.263394,
     "mps:longitude":101.703011,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Kampong Sungai Tua Baharu"
-    ],
-    "name:unk_x_variant":[
         "Kampong Sungai Tua Baharu"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675163,
         102191569,
@@ -71,7 +69,6 @@
     "wof:concordances":{
         "gn:id":1763738,
         "gp:id":1149301,
-        "qs:id":1167923,
         "qs_pg:id":1167923
     },
     "wof:country":"MY",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497308721,
+    "wof:lastmodified":1566642614,
     "wof:name":"Kampong Sungai Tua Baharu",
     "wof:parent_id":102023411,
     "wof:placetype":"neighbourhood",

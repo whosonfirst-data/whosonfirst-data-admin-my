@@ -11,8 +11,12 @@
     "geom:longitude":103.999206,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.979206,1.434416,104.019206,1.474416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tanjung Langsat"
     ],
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1154316,
-        "qs:id":479191,
+        "qs_pg:id":479191,
         "wd:id":"Q7683420",
         "wk:page":"Tanjung Langsat"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890489071,
-    "wof:lastmodified":1561751767,
+    "wof:lastmodified":1566643987,
     "wof:name":"Tanjung Langsat",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

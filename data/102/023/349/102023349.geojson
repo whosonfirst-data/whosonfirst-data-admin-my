@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.092797,
     "lbl:longitude":100.480776,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":5.092797,
     "mps:longitude":100.480776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "Parit Buntar"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":1735089,
         "gp:id":1152465,
-        "qs:id":209526,
         "qs_pg:id":209526,
         "wd:id":"Q1973063",
         "wk:page":"Parit Buntar"
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":102023349,
-    "wof:lastmodified":1561751659,
+    "wof:lastmodified":1566642261,
     "wof:name":"Parit Buntar",
     "wof:parent_id":890489801,
     "wof:placetype":"locality",

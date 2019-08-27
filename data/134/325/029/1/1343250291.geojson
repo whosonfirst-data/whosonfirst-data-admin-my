@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"110.31333,1.33,110.35333,1.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Sikok",
         "Kampong Sikog"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343250291,
-    "wof:lastmodified":1537673905,
+    "wof:lastmodified":1566642455,
     "wof:name":"Kampong Sikog",
     "wof:parent_id":890488875,
     "wof:placetype":"locality",

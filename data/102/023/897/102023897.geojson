@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.858008,
     "lbl:longitude":100.460143,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.858008,
     "mps:longitude":100.460143,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Guar Chempedak"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":92,
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1774217,
         "gp:id":56117410,
-        "qs:id":1026635,
+        "qs_pg:id":1026635,
         "wd:id":"Q5613886",
         "wk:page":"Guar Chempedak"
     },
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102023897,
-    "wof:lastmodified":1561751665,
+    "wof:lastmodified":1566642289,
     "wof:name":"Guar Chempedak",
     "wof:parent_id":890489701,
     "wof:placetype":"locality",

@@ -11,15 +11,18 @@
     "geom:longitude":100.26838,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.26338,5.30482,100.27338,5.31482",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Kampung Sepuluh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Sapuloh"
     ],
     "qs:name":"Kampong Sepuloh",
@@ -45,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1764530,
         "gp:id":1148510,
-        "qs:id":58708
+        "qs_pg:id":58708
     },
     "wof:country":"MY",
     "wof:created":1469054785,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890490029,
-    "wof:lastmodified":1505343787,
+    "wof:lastmodified":1566643904,
     "wof:name":"Kampong Sepuloh",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

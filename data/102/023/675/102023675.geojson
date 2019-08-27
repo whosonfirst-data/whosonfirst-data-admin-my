@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":6.357036,
     "lbl:longitude":116.423204,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":6.357036,
     "mps:longitude":116.423204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Kota Belud"
     ],
@@ -55,7 +58,7 @@
     "name:spa_x_preferred":[
         "Kota Belud"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khota Balud"
     ],
     "name:vie_x_preferred":[
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":173,
     "wof:belongsto":[
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":1736660,
         "gp:id":1154758,
-        "qs:id":238314,
         "qs_pg:id":238314,
         "wd:id":"Q1785358",
         "wk:page":"Kota Belud"
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":102023675,
-    "wof:lastmodified":1563238537,
+    "wof:lastmodified":1566642243,
     "wof:name":"Kota Belud",
     "wof:parent_id":1108696421,
     "wof:placetype":"locality",

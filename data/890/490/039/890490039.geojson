@@ -11,8 +11,11 @@
     "geom:longitude":102.2209,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.2159,2.2306,102.2259,2.2406",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
         "Taman ASEAN"
     ],
@@ -41,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56035595,
-        "qs:id":7817,
+        "qs_pg:id":7817,
         "wd:id":"Q7680612",
         "wk:page":"Taman ASEAN"
     },
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":890490039,
-    "wof:lastmodified":1563240538,
+    "wof:lastmodified":1566643888,
     "wof:name":"Taman Asean",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.5074,4.4351,115.5474,4.4751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Pa Berayong"
     ],
     "name:und_x_variant":[
         "Pa Bryong",
-        "Pa Berayong",
         "Pa Brayong"
     ],
     "src:geom":"geonames",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1276741281,
-    "wof:lastmodified":1537673752,
+    "wof:lastmodified":1566642940,
     "wof:name":"Pa Berayong",
     "wof:parent_id":1108696445,
     "wof:placetype":"locality",

@@ -11,14 +11,18 @@
     "geom:longitude":103.878,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":145639,
+    "gn:population":145639,
     "iso:country":"MY",
+    "lbl:bbox":"103.858,1.4526,103.898,1.4926",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:msa_x_preferred":[
         "Kampung Pasir Gudang Baru"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampung Pasir Gudang"
     ],
     "qs:name":"Kampung Pasir Gudang Baru",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1732721,
-        "qs:id":558786
+        "qs_pg:id":558786
     },
     "wof:country":"MY",
     "wof:created":1469054709,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890488177,
-    "wof:lastmodified":1505343782,
+    "wof:lastmodified":1566643970,
     "wof:name":"Kampung Pasir Gudang Baru",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

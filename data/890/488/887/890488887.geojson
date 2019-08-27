@@ -11,11 +11,15 @@
     "geom:longitude":101.0758,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.0558,4.5389,101.0958,4.5789",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taman Keramat"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":7612495,
         "gp:id":56116333,
-        "qs:id":1028757,
+        "qs_pg:id":1028757,
         "wd:id":"Q18368902"
     },
     "wof:country":"MY",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890488887,
-    "wof:lastmodified":1561751763,
+    "wof:lastmodified":1566643932,
     "wof:name":"Taman Keramat Indah",
     "wof:parent_id":890490953,
     "wof:placetype":"locality",

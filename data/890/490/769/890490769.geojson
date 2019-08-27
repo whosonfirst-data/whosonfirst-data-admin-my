@@ -11,8 +11,12 @@
     "geom:longitude":113.492317,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"113.392317,3.690262,113.592317,3.890262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Niah Suai",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Sarawak",
@@ -37,7 +41,9 @@
     "wof:concordances":{
         "gn:id":1966747,
         "gp:id":56014395,
-        "qs:id":214917,
+        "qs_pg:id":214917
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1031912
     },
     "wof:country":"MY",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":890490769,
-    "wof:lastmodified":1509390574,
+    "wof:lastmodified":1566643897,
     "wof:name":"Niah Suai",
     "wof:parent_id":890488483,
     "wof:placetype":"localadmin",

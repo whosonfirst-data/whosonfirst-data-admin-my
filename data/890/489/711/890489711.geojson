@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":4.268109,
     "lbl:longitude":102.591472,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"PAHANG",
     "meso:diss_me":"JERANTUTPAHANG",
     "meso:gadm_admin":"Jerantut",
@@ -32,6 +34,7 @@
     "mps:longitude":102.591472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Jerantut"
     ],
@@ -62,9 +65,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"7,561.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Jerantut",
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gp:id":56013570,
         "hasc:id":"MY.PH.JE",
-        "qs:id":1090853,
+        "qs_pg:id":1090853,
         "wd:id":"Q2637687",
         "wk:page":"Jerantut District"
     },
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":890489711,
-    "wof:lastmodified":1563240773,
+    "wof:lastmodified":1566644021,
     "wof:name":"Jerantut",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

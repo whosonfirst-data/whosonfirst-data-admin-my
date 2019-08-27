@@ -11,11 +11,14 @@
     "geom:longitude":100.26593,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.26093,5.27559,100.27093,5.28559",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Kampung Permatang Masjid"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1765546,
         "gp:id":1147486,
-        "qs:id":58712
+        "qs_pg:id":58712
     },
     "wof:country":"MY",
     "wof:created":1469054785,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890490031,
-    "wof:lastmodified":1505343787,
+    "wof:lastmodified":1566643884,
     "wof:name":"Kampong Permatang Masjid",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

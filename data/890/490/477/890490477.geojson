@@ -11,8 +11,12 @@
     "geom:longitude":103.784065,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.684065,1.460273,103.884065,1.660273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tebrau"
     ],
@@ -49,7 +53,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56013764,
-        "qs:id":1313665,
+        "qs_pg:id":1313665,
         "wd:id":"Q7692083",
         "wk:page":"Tebrau"
     },
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":890490477,
-    "wof:lastmodified":1563240522,
+    "wof:lastmodified":1566643878,
     "wof:name":"Tebrau",
     "wof:parent_id":1108696403,
     "wof:placetype":"localadmin",

@@ -11,11 +11,15 @@
     "geom:longitude":101.43333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.41333,2.73,101.45333,2.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Morib"
     ],
@@ -25,7 +29,7 @@
     "name:msa_x_preferred":[
         "Pantai Morib"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Morib"
     ],
     "name:zho_x_preferred":[
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1734783,
         "gp:id":1154933,
-        "qs:id":270824,
+        "qs_pg:id":270824,
         "wd:id":"Q6912158",
         "wk:page":"Morib"
     },
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890488307,
-    "wof:lastmodified":1563240597,
+    "wof:lastmodified":1566643923,
     "wof:name":"Morib",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

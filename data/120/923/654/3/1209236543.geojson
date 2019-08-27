@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.5882,4.4385,101.6282,4.4785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Pinang"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209236543,
-    "wof:lastmodified":1537674384,
+    "wof:lastmodified":1566643207,
     "wof:name":"Kampung Pinang",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",

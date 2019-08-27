@@ -11,11 +11,14 @@
     "geom:longitude":103.38333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.37833,3.595,103.38833,3.605",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Kampong Tengah",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Pahang",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1762848,
         "gp:id":1150192,
-        "qs:id":988691
+        "qs_pg:id":988691
     },
     "wof:country":"MY",
     "wof:created":1469054750,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890489269,
-    "wof:lastmodified":1505343785,
+    "wof:lastmodified":1566643993,
     "wof:name":"Kampong Tengah",
     "wof:parent_id":102023267,
     "wof:placetype":"neighbourhood",

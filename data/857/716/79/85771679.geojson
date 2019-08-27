@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20839265.355356,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.937152,2.728204,101.937152,2.728204",
     "geom:latitude":2.728204,
     "geom:longitude":101.937152,
     "gn:latitude":2.7306,
     "gn:longitude":101.9277,
     "iso:country":"MY",
+    "lbl:bbox":"101.932152,2.723204,101.942152,2.733204",
     "lbl:latitude":2.728204,
     "lbl:longitude":101.937152,
+    "lbl:max_zoom":18.0,
     "mps:latitude":2.732573,
     "mps:longitude":101.930217,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:msa_x_preferred":[
         "Kampung Lobok"
-    ],
-    "name:unk_x_variant":[
-        "Kampong Lobok"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -64,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675155,
         102191569,
         85632739,
         102023155,
-        890489719,
-        85675155
+        890489719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1767391,
         "gp:id":1145641,
-        "qs:id":279262,
         "qs_pg:id":279262
     },
     "wof:country":"MY",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859442,
+    "wof:lastmodified":1566642618,
     "wof:name":"Kampong Lobok",
     "wof:parent_id":102023155,
     "wof:placetype":"neighbourhood",

@@ -11,11 +11,15 @@
     "geom:longitude":102.55788,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.53788,5.77884,102.57788,5.81884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kampung Raja"
     ],
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1736404,
         "gp:id":1151414,
-        "qs:id":1033096,
+        "qs_pg:id":1033096,
         "wd:id":"Q6359502",
         "wk:page":"Kampung Raja"
     },
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":890490419,
-    "wof:lastmodified":1563240562,
+    "wof:lastmodified":1566643901,
     "wof:name":"Kampung Raja",
     "wof:parent_id":890488399,
     "wof:placetype":"locality",

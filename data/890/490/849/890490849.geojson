@@ -11,8 +11,11 @@
     "geom:longitude":102.254208,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.249208,2.192169,102.259208,2.202169",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"T K/plek Perniagaan Munshi Abdullah",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Melaka",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675151,
         102191569,
         85632739,
         102023085,
-        890489715,
-        85675151
+        890489715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037448,
-        "qs:id":231045
+        "qs_pg:id":231045
     },
     "wof:country":"MY",
     "wof:created":1469054828,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890490849,
-    "wof:lastmodified":1500013400,
+    "wof:lastmodified":1566643905,
     "wof:name":"T K/plek Perniagaan Munshi Abdullah",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

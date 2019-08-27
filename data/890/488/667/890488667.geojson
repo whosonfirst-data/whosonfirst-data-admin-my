@@ -11,11 +11,14 @@
     "geom:longitude":101.63333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.62833,3.16167,101.63833,3.17167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Kampong Sungai Penchala",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Kuala Lumpur",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1763883,
         "gp:id":1149155,
-        "qs:id":496829
+        "qs_pg:id":496829
     },
     "wof:country":"MY",
     "wof:created":1469054728,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890488667,
-    "wof:lastmodified":1505343783,
+    "wof:lastmodified":1566643939,
     "wof:name":"Kampong Sungai Penchala",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

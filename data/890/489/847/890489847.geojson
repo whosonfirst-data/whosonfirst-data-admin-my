@@ -11,8 +11,12 @@
     "geom:longitude":111.167013,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"111.067013,0.978113,111.267013,1.178113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Pantu",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Sarawak",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014043,
-        "qs:id":1111839
+        "qs_pg:id":1111839
     },
     "wof:country":"MY",
     "wof:created":1469054778,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489847,
-    "wof:lastmodified":1500013626,
+    "wof:lastmodified":1566644010,
     "wof:name":"Pantu",
     "wof:parent_id":1108696523,
     "wof:placetype":"localadmin",

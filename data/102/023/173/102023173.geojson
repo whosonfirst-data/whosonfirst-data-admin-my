@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":2.787852,
     "lbl:longitude":101.714251,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.787852,
     "mps:longitude":101.714251,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0628\u0627\u0646\u063a"
     ],
@@ -118,9 +121,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043f\u0430\u043d\u0433"
     ],
-    "name:und_x_preferred":[
-        "Sepang"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u067e\u0627\u0646\u06af \u0636\u0644\u0639"
     ],
@@ -148,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":755,
     "wof:belongsto":[
@@ -162,7 +162,6 @@
         "fct:id":"01d98ec6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1734821,
         "gp:id":56015721,
-        "qs:id":849136,
         "qs_pg:id":849136,
         "wd:id":"Q911008"
     },
@@ -181,7 +180,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563238570,
+    "wof:lastmodified":1566642257,
     "wof:name":"Sepang",
     "wof:parent_id":890489971,
     "wof:placetype":"locality",

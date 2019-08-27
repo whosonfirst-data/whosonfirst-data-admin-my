@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"104.2388,1.5918,104.2788,1.6318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Nelayan"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259993587,
-    "wof:lastmodified":1537674373,
+    "wof:lastmodified":1566644307,
     "wof:name":"Kampung Nelayan",
     "wof:parent_id":890491003,
     "wof:placetype":"locality",

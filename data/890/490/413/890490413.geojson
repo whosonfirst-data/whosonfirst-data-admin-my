@@ -11,11 +11,15 @@
     "geom:longitude":114.0057,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"113.9857,4.4515,114.0257,4.4915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lutong"
     ],
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1738049,
         "gp:id":1154881,
-        "qs:id":1090042,
+        "qs_pg:id":1090042,
         "wd:id":"Q17053256",
         "wk:page":"Lutong"
     },
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":890490413,
-    "wof:lastmodified":1563240520,
+    "wof:lastmodified":1566643877,
     "wof:name":"Lutong",
     "wof:parent_id":890488483,
     "wof:placetype":"locality",

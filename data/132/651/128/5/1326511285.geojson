@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.59497,4.06679,115.63497,4.10679",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Long Ugong",
         "Long Ugog"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326511285,
-    "wof:lastmodified":1537673794,
+    "wof:lastmodified":1566642040,
     "wof:name":"Long Ugog",
     "wof:parent_id":1108696445,
     "wof:placetype":"locality",

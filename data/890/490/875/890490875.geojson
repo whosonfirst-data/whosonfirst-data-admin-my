@@ -11,11 +11,15 @@
     "geom:longitude":101.81667,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":12346,
+    "gn:population":12346,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.79667,3.33,101.83667,3.37",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "qs:name":"Kampung Bukit Tinggi",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Pahang",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1735133,
         "gp:id":1150949,
-        "qs:id":232646
+        "qs_pg:id":232646
     },
     "wof:country":"MY",
     "wof:created":1469054830,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890490875,
-    "wof:lastmodified":1505343790,
+    "wof:lastmodified":1566643880,
     "wof:name":"Kampung Bukit Tinggi",
     "wof:parent_id":1108696389,
     "wof:placetype":"locality",

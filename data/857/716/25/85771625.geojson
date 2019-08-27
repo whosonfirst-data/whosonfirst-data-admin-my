@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10483342.344945,
+    "geom:area_square_m":0.0,
     "geom:bbox":"102.814941,2.511403,102.814941,2.511403",
     "geom:latitude":2.511403,
     "geom:longitude":102.814941,
     "gn:latitude":1.7331,
     "gn:longitude":103.4441,
     "iso:country":"MY",
+    "lbl:bbox":"102.809941,2.506403,102.819941,2.516403",
     "lbl:latitude":2.511403,
     "lbl:longitude":102.814941,
+    "lbl:max_zoom":18.0,
     "mps:latitude":2.506918,
     "mps:longitude":102.815838,
     "mz:hierarchy_label":0,
@@ -30,10 +32,6 @@
     ],
     "name:msa_x_preferred":[
         "Bukit Batu"
-    ],
-    "name:unk_x_variant":[
-        "Bukit Batu",
-        "Kampong Bukit Gubah"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -65,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675141,
         102191569,
         85632739,
         102022801,
-        890488717,
-        85675141
+        890488717
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1778427,
         "gp:id":1142758,
-        "qs:id":994444,
         "qs_pg:id":994444
     },
     "wof:country":"MY",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859436,
+    "wof:lastmodified":1566642619,
     "wof:name":"Kampong Bukit Gubah",
     "wof:parent_id":102022801,
     "wof:placetype":"neighbourhood",

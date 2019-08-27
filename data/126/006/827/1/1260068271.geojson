@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"109.76071,1.62402,109.80071,1.66402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jangkar",
         "Kampong Jangkar"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260068271,
-    "wof:lastmodified":1537674100,
+    "wof:lastmodified":1566643461,
     "wof:name":"Kampong Jangkar",
     "wof:parent_id":1108696453,
     "wof:placetype":"locality",

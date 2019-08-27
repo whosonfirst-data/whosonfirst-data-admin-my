@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.1609,6.1886,116.2009,6.2286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kuala Tuaran"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226412055,
-    "wof:lastmodified":1537674056,
+    "wof:lastmodified":1566644599,
     "wof:name":"Kampung Kuala Tuaran",
     "wof:parent_id":1108696541,
     "wof:placetype":"locality",

@@ -11,8 +11,12 @@
     "geom:longitude":100.217456,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.197456,5.401519,100.237456,5.441519",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pantai Aceh"
     ],
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015618,
-        "qs:id":212968,
+        "qs_pg:id":212968,
         "wd:id":"Q7131628",
         "wk:page":"Pantai Acheh"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890490763,
-    "wof:lastmodified":1563240504,
+    "wof:lastmodified":1566643867,
     "wof:name":"Pantai Acheh",
     "wof:parent_id":890489155,
     "wof:placetype":"locality",

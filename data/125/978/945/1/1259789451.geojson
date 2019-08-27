@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.1672,2.3066,102.2072,2.3466",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Pondok Sepam"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259789451,
-    "wof:lastmodified":1537674452,
+    "wof:lastmodified":1566644340,
     "wof:name":"Pondok Sepam",
     "wof:parent_id":890489107,
     "wof:placetype":"locality",

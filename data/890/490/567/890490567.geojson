@@ -11,8 +11,12 @@
     "geom:longitude":111.970263,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"111.870263,1.059536,112.070263,1.259536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lubok Antu"
     ],
@@ -59,10 +63,12 @@
     "wof:concordances":{
         "gn:id":1736839,
         "gp:id":56013853,
-        "qs:id":1204890,
         "qs_pg:id":1031416,
         "wd:id":"Q6695498",
         "wk:page":"Lubok Antu District"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1204890
     },
     "wof:country":"MY",
     "wof:created":1469054815,
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":890490567,
-    "wof:lastmodified":1563240505,
+    "wof:lastmodified":1566643868,
     "wof:name":"Lubok Antu",
     "wof:parent_id":1108696451,
     "wof:placetype":"localadmin",

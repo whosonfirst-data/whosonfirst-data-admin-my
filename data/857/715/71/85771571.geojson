@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9050001.507813,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.722368,4.857356,100.722368,4.857356",
     "geom:latitude":4.857356,
     "geom:longitude":100.722368,
     "gn:latitude":4.85,
     "gn:longitude":100.71667,
     "iso:country":"MY",
+    "lbl:bbox":"100.717368,4.852356,100.727368,4.862356",
     "lbl:latitude":4.857356,
     "lbl:longitude":100.722368,
+    "lbl:max_zoom":18.0,
     "mps:latitude":4.862416,
     "mps:longitude":100.716524,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Kampong Boyan"
-    ],
-    "name:unk_x_variant":[
         "Kampong Boyan"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -61,19 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675123,
         102191569,
         85632739,
         102023003,
-        890490803,
-        85675123
+        890490803
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1770420,
         "gp:id":1142607,
-        "qs:id":1167905,
         "qs_pg:id":1167905
     },
     "wof:country":"MY",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859435,
+    "wof:lastmodified":1566642595,
     "wof:name":"Kampong Boyan",
     "wof:parent_id":102023003,
     "wof:placetype":"neighbourhood",

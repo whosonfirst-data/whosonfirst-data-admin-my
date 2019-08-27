@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":4.09989,
     "lbl:longitude":100.772095,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":4.09989,
     "mps:longitude":100.772095,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lekir"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":1757914,
         "gp:id":1151917,
-        "qs:id":888236,
         "qs_pg:id":888236,
         "wd:id":"Q6520621",
         "wk:page":"Lekir"
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":102023831,
-    "wof:lastmodified":1561751663,
+    "wof:lastmodified":1566642281,
     "wof:name":"Lekir",
     "wof:parent_id":1108696459,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":2.641278,
     "lbl:longitude":102.030226,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":2.641278,
     "mps:longitude":102.030226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646 \u0648\u064a\u0646\u063a"
     ],
@@ -39,9 +42,6 @@
     "name:spa_x_preferred":[
         "Senawang"
     ],
-    "name:unk_x_variant":[
-        "Senawang"
-    ],
     "name:zho_x_preferred":[
         "\u65b0\u90a3\u65fa"
     ],
@@ -61,7 +61,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -72,7 +72,7 @@
     "wof:concordances":{
         "gn:id":1734826,
         "gp:id":56118832,
-        "qs:id":349174,
+        "qs_pg:id":349174,
         "wd:id":"Q7450085",
         "wk:page":"Senawang"
     },
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":102023185,
-    "wof:lastmodified":1563238645,
+    "wof:lastmodified":1566642297,
     "wof:name":"Taman Senawang Indah",
     "wof:parent_id":890490863,
     "wof:placetype":"locality",

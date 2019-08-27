@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.0301,5.0127,102.0701,5.0527",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Sirian"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226254211,
-    "wof:lastmodified":1537674299,
+    "wof:lastmodified":1566644565,
     "wof:name":"Kampung Sirian",
     "wof:parent_id":890488877,
     "wof:placetype":"locality",

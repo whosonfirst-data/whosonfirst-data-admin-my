@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8316467.851445,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.68058,2.991991,101.68058,2.991991",
     "geom:latitude":2.991991,
     "geom:longitude":101.68058,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.67558,2.986991,101.68558,2.996991",
     "lbl:latitude":2.991991,
     "lbl:longitude":101.68058,
+    "lbl:max_zoom":18.0,
     "mps:latitude":2.992035,
     "mps:longitude":101.681444,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
-    "name:und_x_preferred":[
-        "Taman Pinggiran Putra"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Pinggiran Putra"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023799,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037107,
-        "qs:id":1249384,
         "qs_pg:id":1249384
     },
     "wof:country":"MY",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860618,
+    "wof:lastmodified":1566642579,
     "wof:name":"Taman Pinggiran Putra",
     "wof:parent_id":102023799,
     "wof:placetype":"neighbourhood",

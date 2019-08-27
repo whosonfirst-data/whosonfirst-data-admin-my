@@ -11,11 +11,15 @@
     "geom:longitude":102.3647,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.3447,3.867,102.3847,3.907",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Batu"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":7793974,
         "gp:id":56118403,
-        "qs:id":368470
+        "qs_pg:id":368470
     },
     "wof:country":"MY",
     "wof:created":1469054795,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890490215,
-    "wof:lastmodified":1505343787,
+    "wof:lastmodified":1566643904,
     "wof:name":"Kampung Bau",
     "wof:parent_id":890489711,
     "wof:placetype":"locality",

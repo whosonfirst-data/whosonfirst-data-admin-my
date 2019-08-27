@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5049750.595146,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.074404,4.597744,101.074404,4.597744",
     "geom:latitude":4.597744,
     "geom:longitude":101.074404,
     "iso:country":"MY",
+    "lbl:bbox":"101.069404,4.592744,101.079404,4.602744",
     "lbl:latitude":4.597744,
     "lbl:longitude":101.074404,
+    "lbl:max_zoom":18.0,
     "mps:latitude":4.603449,
     "mps:longitude":101.071275,
     "mz:hierarchy_label":0,
@@ -23,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
-    "name:und_x_preferred":[
-        "Taman Istana"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Istana"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -56,13 +55,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675123,
         102191569,
         85632739,
         102023021,
-        890490953,
-        85675123
+        890490953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +83,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860576,
+    "wof:lastmodified":1566642602,
     "wof:name":"Taman Istana",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

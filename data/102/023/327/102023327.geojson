@@ -9,19 +9,21 @@
     "geom:bbox":"100.345591004,5.31683006622,100.42945565,5.39727340769",
     "geom:latitude":5.354807,
     "geom:longitude":100.389365,
-    "gn:gn_country":"MY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":65301,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
     "gn:latitude":5.38333,
     "gn:longitude":100.38333,
     "gn:population":65301,
     "iso:country":"MY",
     "lbl:latitude":5.357142,
     "lbl:longitude":100.390004,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":5.357142,
     "mps:longitude":100.390004,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
         "Perai"
     ],
@@ -40,7 +42,7 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0bb1\u0bc8"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Prai"
     ],
     "name:vie_x_preferred":[
@@ -71,7 +73,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":325,
     "wof:belongsto":[],
@@ -79,7 +81,6 @@
     "wof:concordances":{
         "gn:id":1735077,
         "gp:id":1152579,
-        "qs:id":351030,
         "qs_pg:id":351030,
         "wd:id":"Q2197371"
     },
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":102023327,
-    "wof:lastmodified":1563238632,
+    "wof:lastmodified":1566642290,
     "wof:name":"Perai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.18675,6.36484,100.22675,6.40484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Behor Chepor"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327453909,
-    "wof:lastmodified":1537674247,
+    "wof:lastmodified":1566642223,
     "wof:name":"Kampung Behor Chepor",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

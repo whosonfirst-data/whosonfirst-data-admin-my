@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.60469,5.65121,102.64469,5.69121",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Tembesu Comel"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259559865,
-    "wof:lastmodified":1537674268,
+    "wof:lastmodified":1566644311,
     "wof:name":"Tembesu Comel",
     "wof:parent_id":890488399,
     "wof:placetype":"locality",

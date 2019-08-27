@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.35692,5.8807,100.39692,5.9207",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Sungai Limau"
     ],
@@ -32,7 +36,6 @@
         "Sungai Limau"
     ],
     "name:und_x_variant":[
-        "Sungai Limau",
         "Sungai Limau Dalam"
     ],
     "src:geom":"geonames",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1242888641,
-    "wof:lastmodified":1564192251,
+    "wof:lastmodified":1566644082,
     "wof:name":"Sungai Limau Dalam",
     "wof:parent_id":890489701,
     "wof:placetype":"locality",

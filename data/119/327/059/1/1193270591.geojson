@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.3551,3.4714,102.3951,3.5114",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Gantuk"
     ],
     "name:und_x_variant":[
-        "Kampong Gantok",
-        "Kampung Gantuk"
+        "Kampong Gantok"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1193270591,
-    "wof:lastmodified":1537673665,
+    "wof:lastmodified":1566643408,
     "wof:name":"Kampung Gantuk",
     "wof:parent_id":890489541,
     "wof:placetype":"locality",

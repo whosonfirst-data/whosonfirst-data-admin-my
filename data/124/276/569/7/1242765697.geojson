@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"111.43,2.54667,111.47,2.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Daro Ulu",
         "Kampung Daro Hulu"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242765697,
-    "wof:lastmodified":1537673746,
+    "wof:lastmodified":1566644199,
     "wof:name":"Kampung Daro Hulu",
     "wof:parent_id":1108696397,
     "wof:placetype":"locality",

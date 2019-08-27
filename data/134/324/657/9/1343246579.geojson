@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.21286,5.2751,100.25286,5.3151",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Utan Nibong",
         "Kampung Hutan Nibong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343246579,
-    "wof:lastmodified":1537673755,
+    "wof:lastmodified":1566642435,
     "wof:name":"Kampung Hutan Nibong",
     "wof:parent_id":890489155,
     "wof:placetype":"locality",

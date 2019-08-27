@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.8926,3.9725,100.9326,4.0125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Sungai Rubana"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193269853,
-    "wof:lastmodified":1537673879,
+    "wof:lastmodified":1566643418,
     "wof:name":"Kampung Sungai Rubana",
     "wof:parent_id":890490073,
     "wof:placetype":"locality",

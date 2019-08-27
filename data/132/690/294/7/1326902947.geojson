@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.6716,6.569,116.7116,6.609",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Bintasan Besar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326902947,
-    "wof:lastmodified":1537674162,
+    "wof:lastmodified":1566642174,
     "wof:name":"Kampung Bintasan Besar",
     "wof:parent_id":1108696425,
     "wof:placetype":"locality",

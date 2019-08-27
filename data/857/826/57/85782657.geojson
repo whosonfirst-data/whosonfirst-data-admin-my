@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
-    "geom:area_square_m":3782362.136563,
+    "geom:area_square_m":3782362.136564,
     "geom:bbox":"101.618842047,3.17068267741,101.646285875,3.18713681153",
     "geom:latitude":3.178806,
     "geom:longitude":101.631875,
@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.178477,
     "lbl:longitude":101.631194,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.177538,
     "mps:longitude":101.631608,
     "mz:hierarchy_label":1,
@@ -24,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
-    "name:und_x_preferred":[
-        "Segambut Jaya"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Segambut Jaya"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -67,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55862696,
-        "qs:id":1031218,
         "qs_pg:id":1031218
     },
     "wof:country":"MY",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269414,
+    "wof:lastmodified":1566642583,
     "wof:name":"Segambut Jaya",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

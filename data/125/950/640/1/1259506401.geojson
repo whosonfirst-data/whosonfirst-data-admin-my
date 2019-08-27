@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.3586,2.5199,102.3986,2.5599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Pulau"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259506401,
-    "wof:lastmodified":1537673948,
+    "wof:lastmodified":1566644357,
     "wof:name":"Kampung Pulau",
     "wof:parent_id":1108696529,
     "wof:placetype":"locality",

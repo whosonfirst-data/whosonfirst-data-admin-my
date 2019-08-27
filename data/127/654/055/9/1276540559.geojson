@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.09499,5.41424,101.13499,5.45424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Grik",
         "Kampong Gerik",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276540559,
-    "wof:lastmodified":1537674114,
+    "wof:lastmodified":1566643113,
     "wof:name":"Kammpung Gerik",
     "wof:parent_id":890489739,
     "wof:placetype":"locality",

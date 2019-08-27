@@ -11,12 +11,15 @@
     "geom:longitude":101.73333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.72833,3.095,101.73833,3.105",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Kampong Sri Medan"
     ],
     "qs:name":"Kampong Seri Medan",
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1764476,
         "gp:id":1148559,
-        "qs:id":40345
+        "qs_pg:id":40345
     },
     "wof:country":"MY",
     "wof:created":1469054782,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890489951,
-    "wof:lastmodified":1505343786,
+    "wof:lastmodified":1566644005,
     "wof:name":"Kampong Seri Medan",
     "wof:parent_id":102023899,
     "wof:placetype":"neighbourhood",

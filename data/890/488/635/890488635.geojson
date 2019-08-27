@@ -11,8 +11,12 @@
     "geom:longitude":101.940722,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.840722,2.62264,102.040722,2.82264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Seremban"
     ],
@@ -328,7 +332,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56013799,
-        "qs:id":1316926,
+        "qs_pg:id":1316926,
         "wd:id":"Q847610",
         "wk:page":"Seremban"
     },
@@ -345,7 +349,7 @@
         }
     ],
     "wof:id":890488635,
-    "wof:lastmodified":1563240625,
+    "wof:lastmodified":1566643941,
     "wof:name":"Seremban",
     "wof:parent_id":890489719,
     "wof:placetype":"localadmin",

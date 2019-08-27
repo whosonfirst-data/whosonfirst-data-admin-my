@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.8429,6.4586,116.8829,6.4986",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Salimandut"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293170511,
-    "wof:lastmodified":1537673769,
+    "wof:lastmodified":1566642851,
     "wof:name":"Kampung Salimandut",
     "wof:parent_id":1108696425,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":103.85,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.83,1.78,103.87,1.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lombong"
     ],
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1732733,
         "gp:id":1154836,
-        "qs:id":992725,
+        "qs_pg:id":992725,
         "wd:id":"Q6669439",
         "wk:page":"Lombong"
     },
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890489305,
-    "wof:lastmodified":1561751768,
+    "wof:lastmodified":1566644006,
     "wof:name":"Lombong",
     "wof:parent_id":890491003,
     "wof:placetype":"locality",

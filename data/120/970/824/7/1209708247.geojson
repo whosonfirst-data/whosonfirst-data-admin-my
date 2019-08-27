@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.5001,3.324,102.5401,3.364",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Paya Air Hitam"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209708247,
-    "wof:lastmodified":1537673975,
+    "wof:lastmodified":1566643192,
     "wof:name":"Kampung Paya Air Hitam",
     "wof:parent_id":890489815,
     "wof:placetype":"locality",

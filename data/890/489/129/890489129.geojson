@@ -11,7 +11,7 @@
     "geom:longitude":101.581704,
     "gn:country":"MY",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":3.54854,
     "lbl:longitude":101.601681,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SELANGOR",
     "meso:diss_me":"HULU SELANGORSELANGOR",
     "meso:gadm_admin":"Hulu Selangor",
@@ -35,6 +37,7 @@
     "mps:longitude":101.601681,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Hulu Selangor"
     ],
@@ -66,7 +69,7 @@
     "name:swe_x_preferred":[
         "Hulu Selangor"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Daerah Ulu Selangor"
     ],
     "name:zho_x_preferred":[
@@ -87,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"1,740.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Kota Kubu Baharu",
@@ -111,7 +114,7 @@
         "gn:id":1735145,
         "gp:id":56013608,
         "hasc:id":"MY.SL.HS",
-        "qs:id":886283,
+        "qs_pg:id":886283,
         "wd:id":"Q2741737",
         "wk:page":"Hulu Selangor District"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":890489129,
-    "wof:lastmodified":1563240721,
+    "wof:lastmodified":1566643996,
     "wof:name":"Ulu Selangor",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

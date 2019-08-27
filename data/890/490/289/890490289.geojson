@@ -11,8 +11,11 @@
     "geom:longitude":102.226508,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.2215085,2.2178185,102.2315085,2.2278185",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Kampong Pengkalan Rama",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Melaka",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675151,
         102191569,
         85632739,
         102023085,
-        890489715,
-        85675151
+        890489715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1147341,
-        "qs:id":287224
+        "qs_pg:id":287224
     },
     "wof:country":"MY",
     "wof:created":1469054798,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890490289,
-    "wof:lastmodified":1500013401,
+    "wof:lastmodified":1566643878,
     "wof:name":"Kampong Pengkalan Rama",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

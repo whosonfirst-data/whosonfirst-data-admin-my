@@ -11,8 +11,12 @@
     "geom:longitude":116.436367,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"116.336367,6.275971,116.536367,6.475971",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kota Belud"
     ],
@@ -77,10 +81,12 @@
     "wof:concordances":{
         "gn:id":1966748,
         "gp:id":56014107,
-        "qs:id":1204930,
         "qs_pg:id":1031905,
         "wd:id":"Q1785358",
         "wk:page":"Kota Belud"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1204930
     },
     "wof:country":"MY",
     "wof:created":1469054710,
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890488205,
-    "wof:lastmodified":1563240627,
+    "wof:lastmodified":1566643942,
     "wof:name":"Kota Belud",
     "wof:parent_id":1108696421,
     "wof:placetype":"localadmin",

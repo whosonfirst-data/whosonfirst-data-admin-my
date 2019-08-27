@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.75955,5.03007,100.79955,5.07007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kurnia"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276787887,
-    "wof:lastmodified":1537674065,
+    "wof:lastmodified":1566643036,
     "wof:name":"Kampung Kurnia",
     "wof:parent_id":890490803,
     "wof:placetype":"locality",

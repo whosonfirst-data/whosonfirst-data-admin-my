@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13458123.726487,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.792526,3.129089,101.792526,3.129089",
     "geom:latitude":3.129089,
     "geom:longitude":101.792526,
     "gn:latitude":3.1327,
     "gn:longitude":101.7877,
     "iso:country":"MY",
+    "lbl:bbox":"101.787526,3.124089,101.797526,3.134089",
     "lbl:latitude":3.129089,
     "lbl:longitude":101.792526,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.128397,
     "mps:longitude":101.794848,
     "mz:hierarchy_label":0,
@@ -26,12 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:msa_x_preferred":[
-        "Taman Mulia Jaya"
-    ],
-    "name:und_x_preferred":[
-        "Taman Mulia Jaya"
-    ],
-    "name:unk_x_variant":[
         "Taman Mulia Jaya"
     ],
     "qs:gn_fcode":"PPL",
@@ -62,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023417,
-        1108696543,
-        85675163
+        1108696543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7688604,
         "gp:id":56016563,
-        "qs:id":1337803,
         "qs_pg:id":1337803
     },
     "wof:country":"MY",
@@ -93,7 +88,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860579,
+    "wof:lastmodified":1566642598,
     "wof:name":"Taman Mulia Jaya",
     "wof:parent_id":102023417,
     "wof:placetype":"neighbourhood",

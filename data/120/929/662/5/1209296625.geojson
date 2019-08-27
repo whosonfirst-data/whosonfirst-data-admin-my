@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"117.04628,7.19106,117.08628,7.23106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Limbuk",
         "Limbuak",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209296625,
-    "wof:lastmodified":1537673737,
+    "wof:lastmodified":1566643286,
     "wof:name":"Kampung Limbuak",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",

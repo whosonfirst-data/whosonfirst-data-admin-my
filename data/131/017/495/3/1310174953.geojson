@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"118.61498,4.43438,118.65498,4.47438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tampi",
         "Tampi Tampi",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310174953,
-    "wof:lastmodified":1537673687,
+    "wof:lastmodified":1566643640,
     "wof:name":"Kampung Tampi Tampi",
     "wof:parent_id":1108696507,
     "wof:placetype":"locality",

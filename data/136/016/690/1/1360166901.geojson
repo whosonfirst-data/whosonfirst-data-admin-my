@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"117.3046,6.2117,117.3446,6.2517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Talidusan"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1360166901,
-    "wof:lastmodified":1537673743,
+    "wof:lastmodified":1566643751,
     "wof:name":"Kampung Talidusan",
     "wof:parent_id":1108696439,
     "wof:placetype":"locality",

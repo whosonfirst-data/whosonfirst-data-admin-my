@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.40166,5.29462,100.44166,5.33462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Bukit Kecil"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326925239,
-    "wof:lastmodified":1537674153,
+    "wof:lastmodified":1566642060,
     "wof:name":"Kampung Bukit Kecil",
     "wof:parent_id":890489737,
     "wof:placetype":"locality",

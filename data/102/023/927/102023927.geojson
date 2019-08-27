@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
-    "geom:area_square_m":3130544.511612,
+    "geom:area_square_m":3130544.511606,
     "geom:bbox":"113.781897589,3.81685289737,113.799889451,3.83492511109",
     "geom:latitude":3.825889,
     "geom:longitude":113.790894,
@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.825889,
     "lbl:longitude":113.790894,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.825889,
     "mps:longitude":113.790894,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -29,7 +32,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -40,7 +43,7 @@
     "wof:concordances":{
         "gn:id":1966747,
         "gp:id":56014395,
-        "qs:id":1031912
+        "qs_pg:id":1031912
     },
     "wof:country":"MY",
     "wof:geomhash":"deaae734b57f75333a234337c81d412d",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":102023927,
-    "wof:lastmodified":1500013662,
+    "wof:lastmodified":1566642291,
     "wof:name":"Niah Suai",
     "wof:parent_id":890488483,
     "wof:placetype":"locality",

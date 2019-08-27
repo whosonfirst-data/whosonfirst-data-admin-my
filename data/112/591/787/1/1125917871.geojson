@@ -9,19 +9,23 @@
     "geom:bbox":"101.6555,3.4312,101.6555,3.4312",
     "geom:latitude":3.4312,
     "geom:longitude":101.6555,
-    "gn:gn_country":"MY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MY",
+    "lbl:bbox":"101.6355,3.4112,101.6755,3.4512",
     "lbl:latitude":3.4312,
     "lbl:longitude":101.6555,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:msa_x_preferred":[
         "Hulu Yam Baharu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ulu Yam Bharu"
     ],
     "qs_pg:aaroncc":"MY",
@@ -43,7 +47,7 @@
     "qs_pg:woe_adm0":23424901,
     "qs_pg:woe_id":1155253,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424901,
     "woe:name_adm0":"Malaysia",
     "woe:name_adm1":"Selangor",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1125917871,
-    "wof:lastmodified":1509400651,
+    "wof:lastmodified":1566644029,
     "wof:name":"Ulu Yam Baharu",
     "wof:parent_id":890489129,
     "wof:placetype":"locality",

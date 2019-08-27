@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10406384.698691,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.362423,5.402719,100.362423,5.402719",
     "geom:latitude":5.402719,
     "geom:longitude":100.362423,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"100.357423,5.397719,100.367423,5.407719",
     "lbl:latitude":5.402719,
     "lbl:longitude":100.362423,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.406369,
     "mps:longitude":100.360984,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
-    "name:und_x_preferred":[
-        "Taman Selat"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Selat"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023321,
-        890490327,
-        85675127
+        890490327
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56016905,
-        "qs:id":233899,
         "qs_pg:id":233899
     },
     "wof:country":"MY",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860585,
+    "wof:lastmodified":1566642597,
     "wof:name":"Taman Selat",
     "wof:parent_id":102023321,
     "wof:placetype":"neighbourhood",

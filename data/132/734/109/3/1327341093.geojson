@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.0662,4.8924,102.1062,4.9324",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kemajuan Tanah Perasau"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327341093,
-    "wof:lastmodified":1537674300,
+    "wof:lastmodified":1566642117,
     "wof:name":"Kemajuan Tanah Perasau",
     "wof:parent_id":890488877,
     "wof:placetype":"locality",

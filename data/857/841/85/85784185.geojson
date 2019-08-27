@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.089198,
     "lbl:longitude":101.741484,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.08841,
     "mps:longitude":101.743692,
     "mz:hierarchy_label":1,
@@ -30,10 +31,7 @@
     "name:nld_x_preferred":[
         "Taman Taynton"
     ],
-    "name:und_x_preferred":[
-        "Taman Taynton View"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Taynton View"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -60,7 +58,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":117,
     "wof:belongsto":[
         85675181,
@@ -72,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56017191,
-        "qs:id":1190998,
+        "qs_pg:id":1190998,
         "wd:id":"Q7680661"
     },
     "wof:country":"MY",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563239034,
+    "wof:lastmodified":1566642598,
     "wof:name":"Taman Taynton View",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

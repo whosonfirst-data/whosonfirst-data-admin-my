@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.65677,5.14965,100.69677,5.18965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kubu Gajah"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293386791,
-    "wof:lastmodified":1537673704,
+    "wof:lastmodified":1566642640,
     "wof:name":"Kubu Gajah",
     "wof:parent_id":890489813,
     "wof:placetype":"locality",

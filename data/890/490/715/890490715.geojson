@@ -11,8 +11,11 @@
     "geom:longitude":102.282214,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.2772145,2.273272,102.2872145,2.283272",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Taman Ikhsan",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Melaka",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675151,
         102191569,
         85632739,
         102023071,
-        890489715,
-        85675151
+        890489715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56035392,
-        "qs:id":786480
+        "qs_pg:id":786480
     },
     "wof:country":"MY",
     "wof:created":1469054822,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890490715,
-    "wof:lastmodified":1500013400,
+    "wof:lastmodified":1566643891,
     "wof:name":"Taman Ikhsan",
     "wof:parent_id":102023071,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.99667,5.24667,117.03667,5.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sinarupa",
         "Sinaropa",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309888021,
-    "wof:lastmodified":1537673902,
+    "wof:lastmodified":1566643856,
     "wof:name":"Kampong Sinarupa",
     "wof:parent_id":1108696539,
     "wof:placetype":"locality",

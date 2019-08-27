@@ -11,11 +11,15 @@
     "geom:longitude":102.3748,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.3548,2.3628,102.3948,2.4028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Selandar"
     ],
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1764687,
         "gp:id":1148353,
-        "qs:id":886325,
+        "qs_pg:id":886325,
         "wd:id":"Q21006011",
         "wk:page":"List of former Malaysian state electoral districts"
     },
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890490733,
-    "wof:lastmodified":1527734157,
+    "wof:lastmodified":1566643896,
     "wof:name":"Kampong Selandar",
     "wof:parent_id":890489809,
     "wof:placetype":"locality",

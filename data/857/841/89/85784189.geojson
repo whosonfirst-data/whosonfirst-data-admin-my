@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000229,
-    "geom:area_square_m":2822600.805932,
+    "geom:area_square_m":2822600.805935,
     "geom:bbox":"101.700224408,3.18987912339,101.719076668,3.20684051177",
     "geom:latitude":3.198954,
     "geom:longitude":101.710742,
@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.201964,
     "lbl:longitude":101.71219,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.19871,
     "mps:longitude":101.710921,
     "mz:hierarchy_label":1,
@@ -24,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
-    "name:und_x_preferred":[
-        "Taman Teratai Mewah"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Teratai Mewah"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -67,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56017206,
-        "qs:id":183255,
         "qs_pg:id":183255
     },
     "wof:country":"MY",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269496,
+    "wof:lastmodified":1566642596,
     "wof:name":"Taman Teratai Mewah",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

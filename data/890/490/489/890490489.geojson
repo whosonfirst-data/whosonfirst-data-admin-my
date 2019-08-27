@@ -12,7 +12,12 @@
     "gn:country":"MY",
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.104456,5.311515,103.144456,5.351515",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Pulau Duyong",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Terengganu",
@@ -32,11 +37,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015668,
-        "qs:id":115515
+        "qs_pg:id":115515
     },
     "wof:country":"MY",
     "wof:created":1469054812,
-    "wof:geomhash":"29b2500dc877398342d06fb530b86e79",
+    "wof:geomhash":"92f9fb1a38bcc13b2d510d28a0fff893",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -46,7 +51,7 @@
         }
     ],
     "wof:id":890490489,
-    "wof:lastmodified":1469054812,
+    "wof:lastmodified":1566643907,
     "wof:name":"Pulau Duyong",
     "wof:parent_id":85675169,
     "wof:placetype":"locality",

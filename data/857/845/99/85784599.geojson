@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1615401.125014,
+    "geom:area_square_m":0.0,
     "geom:bbox":"102.26225,2.187165,102.26225,2.187165",
     "geom:latitude":2.187165,
     "geom:longitude":102.26225,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"102.25725,2.182165,102.26725,2.192165",
     "lbl:latitude":2.187165,
     "lbl:longitude":102.26225,
+    "lbl:max_zoom":18.0,
     "mps:latitude":2.188493,
     "mps:longitude":102.268537,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Rumah Pangsa Hilir Kota"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rumah Pangsa Hilir Kota"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675151,
         102191569,
         85632739,
         102023085,
-        890489715,
-        85675151
+        890489715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037464,
-        "qs:id":8373,
         "qs_pg:id":8373
     },
     "wof:country":"MY",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860631,
+    "wof:lastmodified":1566642579,
     "wof:name":"Rumah Pangsa Hilir Kota",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

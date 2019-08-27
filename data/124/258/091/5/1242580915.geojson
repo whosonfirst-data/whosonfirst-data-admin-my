@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.24581,6.19392,100.28581,6.23392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Jerlun"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242580915,
-    "wof:lastmodified":1537674093,
+    "wof:lastmodified":1566644115,
     "wof:name":"Kampung Jerlun",
     "wof:parent_id":890488625,
     "wof:placetype":"locality",

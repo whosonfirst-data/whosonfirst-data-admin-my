@@ -11,11 +11,15 @@
     "geom:longitude":102.3273,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.3073,2.1474,102.3473,2.1874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Melaka Tengah FC"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":7855817,
         "gp:id":56037789,
-        "qs:id":1001105,
+        "qs_pg:id":1001105,
         "wd:id":"Q25238447",
         "wk:page":"Melaka Tengah FC"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890489347,
-    "wof:lastmodified":1563240725,
+    "wof:lastmodified":1566643999,
     "wof:name":"Melaka Tengah",
     "wof:parent_id":890489715,
     "wof:placetype":"locality",

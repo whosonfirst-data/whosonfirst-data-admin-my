@@ -12,7 +12,12 @@
     "gn:country":"MY",
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.095226,5.238886,100.295226,5.438886",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Mukim H Sungai Burung",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Pulau Pinang",
@@ -32,11 +37,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014502,
-        "qs:id":1111914
+        "qs_pg:id":1111914
     },
     "wof:country":"MY",
     "wof:created":1469054779,
-    "wof:geomhash":"df3cad4bf28b13e35f32348d2d18d382",
+    "wof:geomhash":"e42640c4ae96bf963c31d94bd8d5e296",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -46,7 +51,7 @@
         }
     ],
     "wof:id":890489897,
-    "wof:lastmodified":1469054779,
+    "wof:lastmodified":1566644016,
     "wof:name":"Mukim H Sungai Burung",
     "wof:parent_id":85675127,
     "wof:placetype":"localadmin",

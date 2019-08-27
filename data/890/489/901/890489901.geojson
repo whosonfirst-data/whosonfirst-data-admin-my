@@ -11,8 +11,12 @@
     "geom:longitude":100.286293,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.186293,5.247197,100.386293,5.447197",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Relau"
     ],
@@ -40,8 +44,10 @@
     "wof:concordances":{
         "gn:id":6854607,
         "gp:id":56014344,
-        "qs:id":1111918,
         "qs_pg:id":379740
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1111918
     },
     "wof:country":"MY",
     "wof:created":1469054780,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":890489901,
-    "wof:lastmodified":1509390574,
+    "wof:lastmodified":1566643979,
     "wof:name":"Mukim 10 Bukit Relau",
     "wof:parent_id":1108696537,
     "wof:placetype":"localadmin",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"114.43526,3.11688,114.47526,3.15688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Long Bahleppau"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326618287,
-    "wof:lastmodified":1537674296,
+    "wof:lastmodified":1566642060,
     "wof:name":"Long Bahleppau",
     "wof:parent_id":1108696465,
     "wof:placetype":"locality",

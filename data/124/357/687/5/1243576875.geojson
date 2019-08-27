@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.9975,2.8552,102.0375,2.8952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Ulu Klawang"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243576875,
-    "wof:lastmodified":1537673711,
+    "wof:lastmodified":1566644154,
     "wof:name":"Kampung Ulu Klawang",
     "wof:parent_id":890488317,
     "wof:placetype":"locality",

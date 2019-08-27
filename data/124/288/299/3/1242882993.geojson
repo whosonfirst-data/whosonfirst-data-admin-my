@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.33984,5.69409,100.37984,5.73409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Sungei Piyal",
         "Kampong Sungai Pial",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242882993,
-    "wof:lastmodified":1537673881,
+    "wof:lastmodified":1566644082,
     "wof:name":"Kampung Sungai Pial",
     "wof:parent_id":890490355,
     "wof:placetype":"locality",

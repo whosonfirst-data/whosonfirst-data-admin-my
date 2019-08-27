@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000392,
-    "geom:area_square_m":4838929.650455,
+    "geom:area_square_m":4838929.650457,
     "geom:bbox":"101.700439453,3.05343850928,101.724172363,3.07743767941",
     "geom:latitude":3.06548,
     "geom:longitude":101.711553,
@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.061728,
     "lbl:longitude":101.710678,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.065208,
     "mps:longitude":101.711327,
     "mz:hierarchy_label":1,
@@ -24,10 +25,8 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
-    "name:und_x_preferred":[
-        "Pekan Sungai Besi"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Pekan Sungai Besi",
         "Sungei Besi"
     ],
     "qs:gn_id":0,
@@ -35,7 +34,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         102023421,
@@ -46,7 +45,6 @@
     "wof:concordances":{
         "gn:id":1735169,
         "gp:id":56035494,
-        "qs:id":430579,
         "qs_pg:id":430579
     },
     "wof:country":"MY",
@@ -64,7 +62,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269417,
+    "wof:lastmodified":1566642588,
     "wof:name":"Pekan Sungai Besi",
     "wof:parent_id":102023421,
     "wof:placetype":"neighbourhood",
