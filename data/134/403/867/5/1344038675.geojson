@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"110.38,1.31333,110.42,1.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Tajirak",
         "Kampong Tijirak"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344038675,
-    "wof:lastmodified":1537673826,
+    "wof:lastmodified":1566642525,
     "wof:name":"Kampong Tijirak",
     "wof:parent_id":890488875,
     "wof:placetype":"locality",

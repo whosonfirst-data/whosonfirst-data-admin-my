@@ -11,11 +11,15 @@
     "geom:longitude":100.7534,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.7334,4.2771,100.7734,4.3171",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Desa Jaya"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":7633228,
         "gp:id":56035944,
-        "qs:id":208226
+        "qs_pg:id":208226
     },
     "wof:country":"MY",
     "wof:created":1469054712,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890488237,
-    "wof:lastmodified":1505343782,
+    "wof:lastmodified":1566643966,
     "wof:name":"Taman Emas Jaya",
     "wof:parent_id":1108696459,
     "wof:placetype":"locality",

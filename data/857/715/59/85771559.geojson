@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2947745.787826,
+    "geom:area_square_m":0.0,
     "geom:bbox":"102.801819,2.517805,102.801819,2.517805",
     "geom:latitude":2.517805,
     "geom:longitude":102.801819,
     "iso:country":"MY",
+    "lbl:bbox":"102.796819,2.512805,102.806819,2.522805",
     "lbl:latitude":2.517805,
     "lbl:longitude":102.801819,
+    "lbl:max_zoom":18.0,
     "mps:latitude":2.517805,
     "mps:longitude":102.799689,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Kampong Batu Hampar"
-    ],
-    "name:unk_x_variant":[
         "Kampong Batu Hampar"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -58,13 +57,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675141,
         102191569,
         85632739,
         102022801,
-        890488717,
-        85675141
+        890488717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859433,
+    "wof:lastmodified":1566642593,
     "wof:name":"Kampong Batu Hampar",
     "wof:parent_id":102022801,
     "wof:placetype":"neighbourhood",

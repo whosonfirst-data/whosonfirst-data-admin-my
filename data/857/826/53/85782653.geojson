@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000353,
-    "geom:area_square_m":4353877.4516,
+    "geom:area_square_m":4353877.451596,
     "geom:bbox":"101.66670246,3.19536034583,101.694759982,3.21359069723",
     "geom:latitude":3.205243,
     "geom:longitude":101.681058,
@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.203591,
     "lbl:longitude":101.681213,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.205063,
     "mps:longitude":101.68106,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
     ],
     "name:und_x_variant":[
         "Kg. Batu Muda Tambahan"
-    ],
-    "name:unk_x_variant":[
-        "Kampong Batu Muda Tambahan"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_id":0,
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -70,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55862693,
-        "qs:id":1111452,
         "qs_pg:id":1111452
     },
     "wof:country":"MY",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269414,
+    "wof:lastmodified":1566642585,
     "wof:name":"Kampong Batu Muda Tambahan",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

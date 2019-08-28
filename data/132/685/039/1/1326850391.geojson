@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.26569,6.46881,100.30569,6.50881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kubang Perun"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326850391,
-    "wof:lastmodified":1537673734,
+    "wof:lastmodified":1566642143,
     "wof:name":"Kampung Kubang Perun",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

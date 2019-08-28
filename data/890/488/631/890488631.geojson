@@ -11,8 +11,12 @@
     "geom:longitude":102.004451,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.904451,2.702198,102.104451,2.902198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pantai"
     ],
@@ -52,10 +56,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014246,
-        "qs:id":1316923,
         "qs_pg:id":1138925,
         "wd:id":"Q4208720",
         "wk:page":"Pantai"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1316923
     },
     "wof:country":"MY",
     "wof:created":1469054726,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":890488631,
-    "wof:lastmodified":1563240670,
+    "wof:lastmodified":1566643968,
     "wof:name":"Pantai",
     "wof:parent_id":890489719,
     "wof:placetype":"localadmin",

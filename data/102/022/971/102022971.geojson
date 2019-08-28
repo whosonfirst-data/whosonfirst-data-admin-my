@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.803022,
     "lbl:longitude":100.622857,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.803022,
     "mps:longitude":100.622857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jeniang"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":1734425,
         "gp:id":1141234,
-        "qs:id":900178,
         "qs_pg:id":900178,
         "wd:id":"Q6177471",
         "wk:page":"Jeniang"
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":102022971,
-    "wof:lastmodified":1561751669,
+    "wof:lastmodified":1566642309,
     "wof:name":"Jeniang",
     "wof:parent_id":890490355,
     "wof:placetype":"locality",

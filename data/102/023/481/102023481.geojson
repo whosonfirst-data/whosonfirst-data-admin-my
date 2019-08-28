@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":4.450474,
     "lbl:longitude":101.409302,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":4.450474,
     "mps:longitude":101.409302,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tanah Rata"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":181,
     "wof:belongsto":[
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":1735262,
         "gp:id":1155181,
-        "qs:id":1090070,
         "qs_pg:id":1090070,
         "wd:id":"Q2678458",
         "wk:page":"Tanah Rata"
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":102023481,
-    "wof:lastmodified":1563238606,
+    "wof:lastmodified":1566642276,
     "wof:name":"Tanah Rata",
     "wof:parent_id":1108696393,
     "wof:placetype":"locality",

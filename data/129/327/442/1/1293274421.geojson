@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.48,5.38,116.52,5.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293274421,
-    "wof:lastmodified":1537091003,
+    "wof:lastmodified":1566642824,
     "wof:name":"Kabatang",
     "wof:parent_id":1108696411,
     "wof:placetype":"locality",

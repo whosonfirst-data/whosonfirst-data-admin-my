@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.3851,4.4543,103.4251,4.4943",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Rebah Bangun"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326501497,
-    "wof:lastmodified":1537673937,
+    "wof:lastmodified":1566642069,
     "wof:name":"Kampung Rebah Bangun",
     "wof:parent_id":890490801,
     "wof:placetype":"locality",

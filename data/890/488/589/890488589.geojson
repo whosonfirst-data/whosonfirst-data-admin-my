@@ -11,8 +11,12 @@
     "geom:longitude":99.807766,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"99.707766,6.329942,99.907766,6.529942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Ayer Hangat",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Kedah",
@@ -34,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014274,
-        "qs:id":1313712
+        "qs_pg:id":1313712
     },
     "wof:country":"MY",
     "wof:created":1469054725,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890488589,
-    "wof:lastmodified":1500013297,
+    "wof:lastmodified":1566643949,
     "wof:name":"Ayer Hangat",
     "wof:parent_id":1108696443,
     "wof:placetype":"localadmin",

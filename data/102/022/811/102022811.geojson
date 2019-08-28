@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":2.121055,
     "lbl:longitude":102.78697,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":2.121055,
     "mps:longitude":102.78697,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pagoh"
     ],
@@ -30,7 +33,7 @@
     "name:nld_x_preferred":[
         "Pagoh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paguh"
     ],
     "name:zho_x_preferred":[
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":162,
     "wof:belongsto":[
         102191569,
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":1732859,
         "gp:id":1154970,
-        "qs:id":136133,
         "qs_pg:id":136133,
         "wd:id":"Q13405062",
         "wk:page":"Pagoh"
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":102022811,
-    "wof:lastmodified":1561751668,
+    "wof:lastmodified":1566642304,
     "wof:name":"Pagoh",
     "wof:parent_id":890488721,
     "wof:placetype":"locality",

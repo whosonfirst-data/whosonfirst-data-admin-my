@@ -11,11 +11,14 @@
     "geom:longitude":103.61667,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.61167,1.395,103.62167,1.405",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Kangkar Pendas",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Johor",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1762111,
         "gp:id":1151654,
-        "qs:id":911438
+        "qs_pg:id":911438
     },
     "wof:country":"MY",
     "wof:created":1469054762,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890489575,
-    "wof:lastmodified":1505343786,
+    "wof:lastmodified":1566643996,
     "wof:name":"Kangkar Pendas",
     "wof:parent_id":102022783,
     "wof:placetype":"neighbourhood",

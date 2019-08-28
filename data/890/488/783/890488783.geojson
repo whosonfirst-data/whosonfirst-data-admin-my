@@ -11,11 +11,14 @@
     "geom:longitude":103.6155,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.6105,1.5281,103.6205,1.5381",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09ae\u09be\u09a8 \u0987\u0989\u09a8\u09bf\u09ad\u09be\u09b0\u09cd\u09b8\u09bf\u099f\u09bf"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{
         "gn:id":7858022,
         "gp:id":56017238,
-        "qs:id":344084,
+        "qs_pg:id":344084,
         "wd:id":"Q7680667",
         "wk:page":"Taman Universiti"
     },
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890488783,
-    "wof:lastmodified":1563240637,
+    "wof:lastmodified":1566643949,
     "wof:name":"Taman Universiti",
     "wof:parent_id":102022775,
     "wof:placetype":"neighbourhood",

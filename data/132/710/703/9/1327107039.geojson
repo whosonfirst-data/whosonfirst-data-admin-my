@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.7796,5.8604,116.8196,5.9004",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Nabutan"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327107039,
-    "wof:lastmodified":1537673683,
+    "wof:lastmodified":1566642216,
     "wof:name":"Kampung Nabutan",
     "wof:parent_id":1108696495,
     "wof:placetype":"locality",

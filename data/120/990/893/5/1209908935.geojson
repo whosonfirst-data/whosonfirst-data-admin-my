@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.9178,3.9985,101.9578,4.0385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Ampang Cina"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209908935,
-    "wof:lastmodified":1537674346,
+    "wof:lastmodified":1566643174,
     "wof:name":"Kampung Ampang Cina",
     "wof:parent_id":890490737,
     "wof:placetype":"locality",

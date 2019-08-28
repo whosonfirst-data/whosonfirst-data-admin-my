@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.726661,
     "lbl:longitude":113.768971,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.726661,
     "mps:longitude":113.768971,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Batu Niah"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":120,
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":1737224,
         "gp:id":1154588,
-        "qs:id":1167125,
         "qs_pg:id":1167125,
         "wd:id":"Q4873317",
         "wk:page":"Batu Niah"
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":102023743,
-    "wof:lastmodified":1563238631,
+    "wof:lastmodified":1566642290,
     "wof:name":"Batu Niah",
     "wof:parent_id":890488483,
     "wof:placetype":"locality",

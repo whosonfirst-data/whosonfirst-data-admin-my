@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.6247,3.5509,101.6647,3.5909",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Padang Golf"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193124259,
-    "wof:lastmodified":1537674391,
+    "wof:lastmodified":1566643375,
     "wof:name":"Kampung Padang Golf",
     "wof:parent_id":890489129,
     "wof:placetype":"locality",

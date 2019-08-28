@@ -11,11 +11,15 @@
     "geom:longitude":115.95,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"115.93,5.04667,115.97,5.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Mandalom",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Sabah",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1756112,
         "gp:id":1152119,
-        "qs:id":232226
+        "qs_pg:id":232226
     },
     "wof:country":"MY",
     "wof:created":1469054829,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890490873,
-    "wof:lastmodified":1505343790,
+    "wof:lastmodified":1566643878,
     "wof:name":"Mandalom",
     "wof:parent_id":1108696535,
     "wof:placetype":"locality",

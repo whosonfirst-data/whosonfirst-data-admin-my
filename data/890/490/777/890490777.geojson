@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":2.7255,
     "lbl:longitude":102.239088,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NEGERI SEMBILAN",
     "meso:diss_me":"KUALA PILAHNEGERI SEMBILAN",
     "meso:gadm_admin":"Kuala Pilah",
@@ -32,6 +34,7 @@
     "mps:longitude":102.239088,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kuala Pilah"
     ],
@@ -80,9 +83,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"1,090.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Kuala Pilah",
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gp:id":56013546,
         "hasc:id":"MY.NS.KP",
-        "qs:id":218565,
+        "qs_pg:id":218565,
         "wd:id":"Q2929940",
         "wk:page":"Kuala Pilah District"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890490777,
-    "wof:lastmodified":1563240550,
+    "wof:lastmodified":1566643893,
     "wof:name":"Kuala Pilah",
     "wof:parent_id":85675155,
     "wof:placetype":"county",

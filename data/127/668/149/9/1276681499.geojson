@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.071,2.5649,102.111,2.6049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Mungkal Tebal"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276681499,
-    "wof:lastmodified":1537674008,
+    "wof:lastmodified":1566642995,
     "wof:name":"Kampung Mungkal Tebal",
     "wof:parent_id":890490863,
     "wof:placetype":"locality",

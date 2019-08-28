@@ -11,11 +11,14 @@
     "geom:longitude":102.3265,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.3215,3.4785,102.3315,3.4885",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Saga"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7795889,
         "gp:id":56035026,
-        "qs:id":266419
+        "qs_pg:id":266419
     },
     "wof:country":"MY",
     "wof:created":1469054706,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890488085,
-    "wof:lastmodified":1505343781,
+    "wof:lastmodified":1566643935,
     "wof:name":"Taman Sa",
     "wof:parent_id":102023293,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.0669,4.73883,103.1069,4.77883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Rambai"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209992855,
-    "wof:lastmodified":1537673941,
+    "wof:lastmodified":1566643184,
     "wof:name":"Kampung Rambai",
     "wof:parent_id":890490253,
     "wof:placetype":"locality",

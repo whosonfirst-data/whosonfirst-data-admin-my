@@ -12,7 +12,12 @@
     "gn:country":"MY",
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.063066,2.121213,102.263066,2.321213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Tanjong Kling",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Melaka",
@@ -30,11 +35,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014286,
-        "qs:id":969632
+        "qs_pg:id":969632
     },
     "wof:country":"MY",
     "wof:created":1469054749,
-    "wof:geomhash":"185feea981a7e2627c4da9f778570d62",
+    "wof:geomhash":"7d6c3c1a7cf318432c857e057e6b0b02",
     "wof:hierarchy":[
         {
             "country_id":85632739,
@@ -42,7 +47,7 @@
         }
     ],
     "wof:id":890489215,
-    "wof:lastmodified":1470255696,
+    "wof:lastmodified":1566644008,
     "wof:name":"Tanjong Kling",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -11,11 +11,15 @@
     "geom:longitude":101.863,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.843,2.7315,101.883,2.7715",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Pelegong"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1765799,
         "gp:id":1147231,
-        "qs:id":507261
+        "qs_pg:id":507261
     },
     "wof:country":"MY",
     "wof:created":1469054744,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890489101,
-    "wof:lastmodified":1505343784,
+    "wof:lastmodified":1566644006,
     "wof:name":"Kampong Pelegong",
     "wof:parent_id":890489719,
     "wof:placetype":"locality",

@@ -15,6 +15,8 @@
     "iso:country":"MY",
     "lbl:latitude":4.614741,
     "lbl:longitude":101.097356,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":4.614741,
     "mps:longitude":101.097356,
     "mz:hierarchy_label":1,
@@ -454,7 +456,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2154,
     "wof:belongsto":[
@@ -468,13 +470,12 @@
         "gn:id":1734634,
         "gp:id":1154679,
         "loc:id":"n81013490",
-        "qs:id":351027,
         "qs_pg:id":351027,
         "wd:id":"Q271619",
         "wk:page":"Ipoh"
     },
     "wof:concordances_alt":{
-        "qs:id":569178
+        "qs_pg:id":569178
     },
     "wof:country":"MY",
     "wof:geomhash":"73bb2ce1a1948f873d0f5256b774aca0",
@@ -488,7 +489,7 @@
         }
     ],
     "wof:id":102023021,
-    "wof:lastmodified":1563238615,
+    "wof:lastmodified":1566642280,
     "wof:name":"Ipoh",
     "wof:parent_id":890490953,
     "wof:placetype":"locality",

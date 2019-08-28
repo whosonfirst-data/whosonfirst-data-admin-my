@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"111.67019,1.03122,111.71019,1.07122",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326508255,
-    "wof:lastmodified":1537017884,
+    "wof:lastmodified":1566642068,
     "wof:name":"Kumpang Langir",
     "wof:parent_id":1108696451,
     "wof:placetype":"locality",

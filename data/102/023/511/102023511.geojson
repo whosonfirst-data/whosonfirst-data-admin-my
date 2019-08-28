@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":4.110097,
     "lbl:longitude":101.283535,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":4.110097,
     "mps:longitude":101.283535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Bidor"
     ],
@@ -33,9 +36,6 @@
     ],
     "name:swe_x_preferred":[
         "Meiluo"
-    ],
-    "name:unk_x_variant":[
-        "Bidor"
     ],
     "name:zho_x_preferred":[
         "\u7f8e\u7f57"
@@ -58,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":4.116667,
     "wd:longitude":101.283333,
@@ -73,7 +73,6 @@
     "wof:concordances":{
         "gn:id":1735287,
         "gp:id":1140913,
-        "qs:id":273642,
         "qs_pg:id":273642,
         "wd:id":"Q1010806",
         "wk:page":"Bidor"
@@ -90,7 +89,7 @@
         }
     ],
     "wof:id":102023511,
-    "wof:lastmodified":1561751659,
+    "wof:lastmodified":1566642263,
     "wof:name":"Bidur",
     "wof:parent_id":890489741,
     "wof:placetype":"locality",

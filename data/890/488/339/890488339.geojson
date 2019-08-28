@@ -11,8 +11,12 @@
     "geom:longitude":103.525199,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.425199,1.403066,103.625199,1.603066",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Jeram Batu",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Johor",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014507,
-        "qs:id":1205008
+        "qs_pg:id":1205008
     },
     "wof:country":"MY",
     "wof:created":1469054715,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890488339,
-    "wof:lastmodified":1500013337,
+    "wof:lastmodified":1566643928,
     "wof:name":"Jeram Batu",
     "wof:parent_id":890491001,
     "wof:placetype":"localadmin",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1877468.097356,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.107864,4.599924,101.107864,4.599924",
     "geom:latitude":4.599924,
     "geom:longitude":101.107864,
     "gn:latitude":4.61135,
     "gn:longitude":101.11146,
     "iso:country":"MY",
+    "lbl:bbox":"101.102864,4.594924,101.112864,4.604924",
     "lbl:latitude":4.599924,
     "lbl:longitude":101.107864,
+    "lbl:max_zoom":18.0,
     "mps:latitude":4.601065,
     "mps:longitude":101.102233,
     "mz:hierarchy_label":0,
@@ -26,12 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:msa_x_preferred":[
-        "Taman Canning"
-    ],
-    "name:und_x_preferred":[
-        "Taman Canning"
-    ],
-    "name:unk_x_variant":[
         "Taman Canning"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -63,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675123,
         102191569,
         85632739,
         102023021,
-        890490953,
-        85675123
+        890490953
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7473454,
         "gp:id":56015982,
-        "qs:id":994134,
         "qs_pg:id":994134
     },
     "wof:country":"MY",
@@ -94,7 +89,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860572,
+    "wof:lastmodified":1566642602,
     "wof:name":"Taman Canning",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

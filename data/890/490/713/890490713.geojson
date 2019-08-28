@@ -11,11 +11,15 @@
     "geom:longitude":101.8464,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.8264,3.1427,101.8664,3.1827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Damai"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":7688634,
         "gp:id":56037293,
-        "qs:id":208234
+        "qs_pg:id":208234
     },
     "wof:country":"MY",
     "wof:created":1469054822,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890490713,
-    "wof:lastmodified":1505343789,
+    "wof:lastmodified":1566643889,
     "wof:name":"Taman Damai",
     "wof:parent_id":1108696543,
     "wof:placetype":"locality",

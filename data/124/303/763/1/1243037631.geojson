@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.6264,5.4118,115.6664,5.4518",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Paun Sapi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243037631,
-    "wof:lastmodified":1537674318,
+    "wof:lastmodified":1566644157,
     "wof:name":"Kampung Paun Sapi",
     "wof:parent_id":1108696385,
     "wof:placetype":"locality",

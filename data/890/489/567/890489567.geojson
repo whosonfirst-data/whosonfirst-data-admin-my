@@ -11,11 +11,15 @@
     "geom:longitude":100.366029,
     "gn:country":"MY",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.266029,5.580154,100.466029,5.780154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Merbok"
     ],
@@ -48,12 +52,12 @@
     "wof:concordances":{
         "gn:id":6805176,
         "gp:id":56014394,
-        "qs:id":908514,
+        "qs_pg:id":908514,
         "wd:id":"Q6817981",
         "wk:page":"Merbok"
     },
     "wof:concordances_alt":{
-        "qs:id":1153692
+        "qs_pg:id":1153692
     },
     "wof:country":"MY",
     "wof:created":1469054761,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890489567,
-    "wof:lastmodified":1563240684,
+    "wof:lastmodified":1566643976,
     "wof:name":"Merbok",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

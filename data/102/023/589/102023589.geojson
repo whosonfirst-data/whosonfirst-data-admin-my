@@ -15,6 +15,8 @@
     "iso:country":"MY",
     "lbl:latitude":2.301377,
     "lbl:longitude":111.85227,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":2.301377,
     "mps:longitude":111.85227,
     "mz:hierarchy_label":1,
@@ -266,7 +268,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0431\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fort Brooke"
     ],
     "name:urd_x_preferred":[
@@ -418,7 +420,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":0.0,
     "wd:latitude":2.3,
@@ -434,7 +436,6 @@
     "wof:concordances":{
         "gn:id":1735902,
         "gp:id":1155114,
-        "qs:id":274056,
         "qs_pg:id":274056,
         "wd:id":"Q1048700",
         "wk:page":"Sibu"
@@ -451,7 +452,7 @@
         }
     ],
     "wof:id":102023589,
-    "wof:lastmodified":1563238581,
+    "wof:lastmodified":1566642264,
     "wof:name":"Sibu",
     "wof:parent_id":890488423,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":103.809,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.789,1.5864,103.829,1.6264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Bukit Tiram"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7619764,
         "gp:id":56035241,
-        "qs:id":1187544
+        "qs_pg:id":1187544
     },
     "wof:country":"MY",
     "wof:created":1469054832,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890490919,
-    "wof:lastmodified":1505343790,
+    "wof:lastmodified":1566643919,
     "wof:name":"Taman Bukit Tiram",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":101.5176,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.5126,3.6855,101.5226,3.6955",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Malim Indah"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7794738,
         "gp:id":56015788,
-        "qs:id":994132
+        "qs_pg:id":994132
     },
     "wof:country":"MY",
     "wof:created":1469054752,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890489309,
-    "wof:lastmodified":1505343785,
+    "wof:lastmodified":1566643976,
     "wof:name":"Taman Abadi Indah",
     "wof:parent_id":102022729,
     "wof:placetype":"neighbourhood",

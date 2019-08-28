@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":1.492443,
     "lbl:longitude":110.186176,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":1.492443,
     "mps:longitude":110.186176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0648"
     ],
@@ -141,7 +144,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":517,
     "wof:belongsto":[
         102191569,
@@ -153,7 +156,6 @@
     "wof:concordances":{
         "gn:id":1734539,
         "gp:id":1154592,
-        "qs:id":1284423,
         "qs_pg:id":1284423,
         "wd:id":"Q3268524",
         "wk:page":"Bau, Sarawak"
@@ -170,7 +172,7 @@
         }
     ],
     "wof:id":102022989,
-    "wof:lastmodified":1561751672,
+    "wof:lastmodified":1566642324,
     "wof:name":"Bau",
     "wof:parent_id":1108696381,
     "wof:placetype":"locality",

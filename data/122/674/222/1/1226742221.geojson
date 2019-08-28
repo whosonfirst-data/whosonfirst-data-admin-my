@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.4216,3.4501,102.4616,3.4901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Ira"
     ],
     "name:und_x_variant":[
         "Kampong Ira",
-        "Kampong Irek",
-        "Kampung Ira"
+        "Kampong Irek"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1226742221,
-    "wof:lastmodified":1537673716,
+    "wof:lastmodified":1566644479,
     "wof:name":"Kampung Ira",
     "wof:parent_id":890489541,
     "wof:placetype":"locality",

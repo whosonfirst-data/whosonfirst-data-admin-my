@@ -11,18 +11,22 @@
     "geom:longitude":99.68252,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"99.66252,6.34759,99.70252,6.38759",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pantai Kok"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043d\u0442\u0430\u0439-\u041a\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u041a\u0430\u043c\u043f\u0443\u043d\u0433-\u041a\u043e\u043a"
     ],
     "qs:name":"Kampung Kok",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":6804974,
         "gp:id":56036403,
-        "qs:id":1206018
+        "qs_pg:id":1206018
     },
     "wof:country":"MY",
     "wof:created":1469054717,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890488363,
-    "wof:lastmodified":1505343782,
+    "wof:lastmodified":1566643929,
     "wof:name":"Kampung Kok",
     "wof:parent_id":85675137,
     "wof:placetype":"locality",

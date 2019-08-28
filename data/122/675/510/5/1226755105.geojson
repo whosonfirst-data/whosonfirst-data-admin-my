@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.14667,5.91333,102.18667,5.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Bongkok",
         "Kampong Pulai Bongkok"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226755105,
-    "wof:lastmodified":1537673948,
+    "wof:lastmodified":1566644446,
     "wof:name":"Kampong Pulai Bongkok",
     "wof:parent_id":1108696479,
     "wof:placetype":"locality",

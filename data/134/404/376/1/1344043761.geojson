@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.85066,5.53762,102.89066,5.57762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Bari Besar"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1344043761,
-    "wof:lastmodified":1537673737,
+    "wof:lastmodified":1566642530,
     "wof:name":"Kampung Bari Besar",
     "wof:parent_id":1108696513,
     "wof:placetype":"locality",

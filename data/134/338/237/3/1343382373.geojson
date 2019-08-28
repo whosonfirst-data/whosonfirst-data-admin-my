@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.7447,3.9374,100.7847,3.9774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Permatang Kunda"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343382373,
-    "wof:lastmodified":1537673958,
+    "wof:lastmodified":1566642328,
     "wof:name":"Kampung Permatang Kunda",
     "wof:parent_id":890490073,
     "wof:placetype":"locality",

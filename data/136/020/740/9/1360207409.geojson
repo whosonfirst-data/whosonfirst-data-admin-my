@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.2116,3.0998,102.2516,3.1398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Mentaus"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360207409,
-    "wof:lastmodified":1537674013,
+    "wof:lastmodified":1566643735,
     "wof:name":"Kampung Mentaus",
     "wof:parent_id":890488317,
     "wof:placetype":"locality",

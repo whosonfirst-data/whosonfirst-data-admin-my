@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.5528,5.4834,115.5928,5.5234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kekansa"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259852055,
-    "wof:lastmodified":1537674080,
+    "wof:lastmodified":1566644345,
     "wof:name":"Kampung Kekansa",
     "wof:parent_id":890490799,
     "wof:placetype":"locality",

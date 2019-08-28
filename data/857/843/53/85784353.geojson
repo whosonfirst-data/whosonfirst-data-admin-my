@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17029622.296497,
+    "geom:area_square_m":0.0,
     "geom:bbox":"102.30213,2.279983,102.30213,2.279983",
     "geom:latitude":2.279983,
     "geom:longitude":102.30213,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"102.29713,2.274983,102.30713,2.284983",
     "lbl:latitude":2.279983,
     "lbl:longitude":102.30213,
+    "lbl:max_zoom":18.0,
     "mps:latitude":2.278212,
     "mps:longitude":102.298454,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
-    "name:und_x_preferred":[
-        "Taman Ekspo Melaka"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Ekspo Melaka"
     ],
     "qs:gn_id":0,
@@ -56,18 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675151,
         102191569,
         85632739,
         102023085,
-        890489715,
-        85675151
+        890489715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56035667,
-        "qs:id":1090988,
         "qs_pg:id":1090988
     },
     "wof:country":"MY",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860597,
+    "wof:lastmodified":1566642588,
     "wof:name":"Taman Ekspo Melaka",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

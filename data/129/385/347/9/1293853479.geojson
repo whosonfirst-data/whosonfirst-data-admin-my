@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"117.0519,6.8197,117.0919,6.8597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Telaga"
     ],
     "name:und_x_variant":[
-        "Talaga",
-        "Telaga"
+        "Talaga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293853479,
-    "wof:lastmodified":1537673741,
+    "wof:lastmodified":1566642716,
     "wof:name":"Telaga",
     "wof:parent_id":1108696485,
     "wof:placetype":"locality",

@@ -11,15 +11,19 @@
     "geom:longitude":100.31353,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.29353,5.34966,100.33353,5.38966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Sungai Glugur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Glugor"
     ],
     "qs:name":"Kampong Sungai Gelugor",
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1764027,
         "gp:id":1149014,
-        "qs:id":1187770
+        "qs_pg:id":1187770
     },
     "wof:country":"MY",
     "wof:created":1469054832,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890490923,
-    "wof:lastmodified":1505343790,
+    "wof:lastmodified":1566643891,
     "wof:name":"Kampong Sungai Gelugor",
     "wof:parent_id":1108696537,
     "wof:placetype":"locality",

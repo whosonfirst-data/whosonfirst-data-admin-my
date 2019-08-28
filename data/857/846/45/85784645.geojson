@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2336875.683324,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.74962,3.133633,101.74962,3.133633",
     "geom:latitude":3.133633,
     "geom:longitude":101.74962,
     "iso:country":"MY",
+    "lbl:bbox":"101.74462,3.128633,101.75462,3.138633",
     "lbl:latitude":3.133633,
     "lbl:longitude":101.74962,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.135057,
     "mps:longitude":101.74993,
     "mz:hierarchy_label":0,
@@ -23,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Taman Cempaka"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Cempaka"
     ],
     "qs:gn_fcode":"PPLX",
@@ -57,19 +56,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675181,
         102191569,
         85632739,
         102023407,
-        890490945,
-        85675181
+        890490945
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7932107,
         "gp:id":56070856,
-        "qs:id":1032467,
         "qs_pg:id":1032467
     },
     "wof:country":"MY",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860637,
+    "wof:lastmodified":1566642599,
     "wof:name":"Taman Cempaka",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

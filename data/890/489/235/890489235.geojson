@@ -11,8 +11,11 @@
     "geom:longitude":101.625451,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.6204515,2.998205,101.6304515,3.008205",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Taman Puchong Hartamas",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023809,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037138,
-        "qs:id":969671
+        "qs_pg:id":969671
     },
     "wof:country":"MY",
     "wof:created":1469054749,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890489235,
-    "wof:lastmodified":1500013509,
+    "wof:lastmodified":1566643990,
     "wof:name":"Taman Puchong Hartamas",
     "wof:parent_id":102023809,
     "wof:placetype":"neighbourhood",

@@ -11,11 +11,14 @@
     "geom:longitude":101.0582,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.0532,4.5954,101.0632,4.6054",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman First"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7612469,
         "gp:id":56037704,
-        "qs:id":1020090
+        "qs_pg:id":1020090
     },
     "wof:country":"MY",
     "wof:created":1469054759,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890489495,
-    "wof:lastmodified":1505343785,
+    "wof:lastmodified":1566644014,
     "wof:name":"Taman Idris",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

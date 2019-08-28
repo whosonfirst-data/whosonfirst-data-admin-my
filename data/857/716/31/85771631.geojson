@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2904895.466241,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.603603,3.167131,101.603603,3.167131",
     "geom:latitude":3.167131,
     "geom:longitude":101.603603,
     "gn:latitude":3.16667,
     "gn:longitude":101.61667,
     "iso:country":"MY",
+    "lbl:bbox":"101.598603,3.162131,101.608603,3.172131",
     "lbl:latitude":3.167131,
     "lbl:longitude":101.603603,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.170625,
     "mps:longitude":101.600509,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:und_x_variant":[
         "Desa Temuan Bukit Lanjan"
-    ],
-    "name:unk_x_variant":[
-        "Kampong Bukit Lanjan"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -63,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023395,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1770201,
         "gp:id":1142826,
-        "qs:id":233037,
         "qs_pg:id":233037
     },
     "wof:country":"MY",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859437,
+    "wof:lastmodified":1566642618,
     "wof:name":"Kampong Bukit Lanjan",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

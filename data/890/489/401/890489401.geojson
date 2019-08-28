@@ -11,11 +11,15 @@
     "geom:longitude":102.09464,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.07464,6.21215,102.11464,6.25215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pengkalan Kubur"
     ],
@@ -30,9 +34,6 @@
     ],
     "name:nld_x_preferred":[
         "Pengkalan Kubur"
-    ],
-    "name:unk_x_variant":[
-        "Pengkalan Kubor"
     ],
     "qs:name":"Kampung Pengkalan Kubur",
     "qs:name_adm0":"Malaysia",
@@ -56,7 +57,7 @@
     "wof:concordances":{
         "gn:id":1736352,
         "gp:id":1151368,
-        "qs:id":1013669,
+        "qs_pg:id":1013669,
         "wd:id":"Q7162726"
     },
     "wof:country":"MY",
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":890489401,
-    "wof:lastmodified":1561751767,
+    "wof:lastmodified":1566643989,
     "wof:name":"Kampung Pengkalan Kubur",
     "wof:parent_id":890489803,
     "wof:placetype":"locality",

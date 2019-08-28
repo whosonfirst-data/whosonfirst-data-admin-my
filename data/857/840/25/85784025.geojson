@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7610755.368057,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.655612,1.481289,103.655612,1.481289",
     "geom:latitude":1.481289,
     "geom:longitude":103.655612,
     "iso:country":"MY",
+    "lbl:bbox":"103.650612,1.476289,103.660612,1.486289",
     "lbl:latitude":1.481289,
     "lbl:longitude":103.655612,
+    "lbl:max_zoom":18.0,
     "mps:latitude":1.482155,
     "mps:longitude":103.655982,
     "mz:hierarchy_label":0,
@@ -23,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Taman Bukit Indah"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Bukit Indah"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -56,13 +55,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675141,
         102191569,
         85632739,
         102022781,
-        1108696403,
-        85675141
+        1108696403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +83,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860570,
+    "wof:lastmodified":1566642603,
     "wof:name":"Taman Bukit Indah",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

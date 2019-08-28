@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.35255,3.91264,103.39255,3.95264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Baluk"
     ],
     "name:und_x_variant":[
         "Kampong Kuala Baloh",
         "Kampong Balok",
-        "Kampung Baluk",
         "Kampung Baluk Baru"
     ],
     "src:geom":"geonames",
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1360280703,
-    "wof:lastmodified":1537673720,
+    "wof:lastmodified":1566643763,
     "wof:name":"Kampung Baluk Baru",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

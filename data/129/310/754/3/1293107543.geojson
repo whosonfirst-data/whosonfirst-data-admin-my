@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.67342,6.21144,100.71342,6.25144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Tanjong"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293107543,
-    "wof:lastmodified":1537673863,
+    "wof:lastmodified":1566642853,
     "wof:name":"Kampung Tanjong",
     "wof:parent_id":1108696471,
     "wof:placetype":"locality",

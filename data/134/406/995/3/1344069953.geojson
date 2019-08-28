@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.56659,5.11685,100.60659,5.15685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Bukit Aping"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1344069953,
-    "wof:lastmodified":1537674158,
+    "wof:lastmodified":1566642406,
     "wof:name":"Kampung Bukit Aping",
     "wof:parent_id":890490371,
     "wof:placetype":"locality",

@@ -11,8 +11,12 @@
     "geom:longitude":100.427956,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.327956,6.161038,100.527956,6.361038",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jitra"
     ],
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014496,
-        "qs:id":1316947,
+        "qs_pg:id":1316947,
         "wd:id":"Q4129994",
         "wk:page":"Jitra"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890488427,
-    "wof:lastmodified":1563240659,
+    "wof:lastmodified":1566643960,
     "wof:name":"Jitra",
     "wof:parent_id":890488625,
     "wof:placetype":"localadmin",

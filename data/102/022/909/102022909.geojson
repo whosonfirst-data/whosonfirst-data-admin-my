@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.48154,
     "lbl:longitude":115.791138,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.48154,
     "mps:longitude":115.791138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u043c\u0431\u0430\u043a\u0443\u0442"
     ],
@@ -59,7 +62,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191569,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":102022909,
-    "wof:lastmodified":1563238646,
+    "wof:lastmodified":1566642297,
     "wof:name":"Membakut",
     "wof:parent_id":1108696385,
     "wof:placetype":"locality",

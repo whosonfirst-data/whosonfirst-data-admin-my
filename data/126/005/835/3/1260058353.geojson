@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"112.88,1.93,112.92,1.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rumah Jagak",
         "Rumah Tajok"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260058353,
-    "wof:lastmodified":1537673770,
+    "wof:lastmodified":1566643513,
     "wof:name":"Rumah Tajok",
     "wof:parent_id":890488879,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.0227,2.9258,102.0627,2.9658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Durian Gasing"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243004927,
-    "wof:lastmodified":1537674126,
+    "wof:lastmodified":1566644040,
     "wof:name":"Kampung Durian Gasing",
     "wof:parent_id":890488317,
     "wof:placetype":"locality",

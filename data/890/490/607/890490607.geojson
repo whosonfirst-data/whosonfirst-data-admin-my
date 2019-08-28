@@ -11,11 +11,15 @@
     "geom:longitude":101.43333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.41333,2.84667,101.45333,2.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bandar"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":1734777,
         "gp:id":1140773,
-        "qs:id":193460,
+        "qs_pg:id":193460,
         "wk:page":"Bandar"
     },
     "wof:country":"MY",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890490607,
-    "wof:lastmodified":1564192070,
+    "wof:lastmodified":1566643914,
     "wof:name":"Bandar",
     "wof:parent_id":1108696427,
     "wof:placetype":"locality",

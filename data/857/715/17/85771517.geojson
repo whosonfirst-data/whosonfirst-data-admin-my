@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":19168729.852195,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.440913,3.036699,101.440913,3.036699",
     "geom:latitude":3.036699,
     "geom:longitude":101.440913,
     "gn:latitude":3.03333,
     "gn:longitude":101.43333,
     "iso:country":"MY",
+    "lbl:bbox":"101.435913,3.031699,101.445913,3.041699",
     "lbl:latitude":3.036699,
     "lbl:longitude":101.440913,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.040662,
     "mps:longitude":101.436968,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Kampong Atap"
-    ],
-    "name:unk_x_variant":[
         "Kampong Atap"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -61,19 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102022835,
-        1108696415,
-        85675163
+        1108696415
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1771553,
         "gp:id":1141473,
-        "qs:id":227474,
         "qs_pg:id":227474
     },
     "wof:country":"MY",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859430,
+    "wof:lastmodified":1566642594,
     "wof:name":"Kampong Atap",
     "wof:parent_id":102022835,
     "wof:placetype":"neighbourhood",

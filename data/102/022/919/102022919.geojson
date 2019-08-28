@@ -15,6 +15,8 @@
     "iso:country":"MY",
     "lbl:latitude":5.865902,
     "lbl:longitude":118.068549,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":5.865902,
     "mps:longitude":118.068549,
     "mz:hierarchy_label":1,
@@ -143,7 +145,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0434\u0430\u043a\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Elopura"
     ],
     "name:urd_x_preferred":[
@@ -274,7 +276,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":10.0,
     "wd:latitude":5.833333,
@@ -291,7 +293,6 @@
     "wof:concordances":{
         "gn:id":1734052,
         "gp:id":1155068,
-        "qs:id":479145,
         "qs_pg:id":479145,
         "wd:id":"Q137203",
         "wk:page":"Sandakan"
@@ -308,7 +309,7 @@
         }
     ],
     "wof:id":102022919,
-    "wof:lastmodified":1561751673,
+    "wof:lastmodified":1566642324,
     "wof:name":"Sandakan",
     "wof:parent_id":890490007,
     "wof:placetype":"locality",

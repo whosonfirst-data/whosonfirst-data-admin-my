@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.47504,
     "lbl:longitude":102.345557,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":3.47504,
     "mps:longitude":102.345557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u043d\u0442\u0435\u043a\u0430\u0431"
     ],
@@ -46,9 +49,6 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bc6\u0ba8\u0bcd\u0ba4\u0b95\u0bbe\u0baa\u0bcd"
     ],
-    "name:unk_x_variant":[
-        "Mentakab"
-    ],
     "name:zho_x_preferred":[
         "\u6587\u5fb7\u7532"
     ],
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1807,
     "wof:belongsto":[
@@ -78,7 +78,6 @@
     "wof:concordances":{
         "gn:id":1735018,
         "gp:id":1152203,
-        "qs:id":351026,
         "qs_pg:id":351026,
         "wd:id":"Q2944710",
         "wk:page":"Mentakab"
@@ -95,7 +94,7 @@
         }
     ],
     "wof:id":102023293,
-    "wof:lastmodified":1563238562,
+    "wof:lastmodified":1566642254,
     "wof:name":"Mentekab",
     "wof:parent_id":890489541,
     "wof:placetype":"locality",

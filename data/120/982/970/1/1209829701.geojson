@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.7468,2.5292,102.7868,2.5692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Bon Bon"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209829701,
-    "wof:lastmodified":1537674373,
+    "wof:lastmodified":1566643224,
     "wof:name":"Taman Bon Bon",
     "wof:parent_id":890488717,
     "wof:placetype":"locality",

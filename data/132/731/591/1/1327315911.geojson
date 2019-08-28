@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"118.1169,5.5871,118.1569,5.6271",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Suanlamba"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327315911,
-    "wof:lastmodified":1537674274,
+    "wof:lastmodified":1566642008,
     "wof:name":"Suanlamba",
     "wof:parent_id":890490007,
     "wof:placetype":"locality",

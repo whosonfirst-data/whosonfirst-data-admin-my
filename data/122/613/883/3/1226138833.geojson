@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.45565,5.33819,100.49565,5.37819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Bukit Mertajam"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226138833,
-    "wof:lastmodified":1537674243,
+    "wof:lastmodified":1566644560,
     "wof:name":"Taman Bukit Mertajam",
     "wof:parent_id":890489737,
     "wof:placetype":"locality",

@@ -11,15 +11,19 @@
     "geom:longitude":103.27681,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.25681,5.03982,103.29681,5.07982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Serating"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Cherating"
     ],
     "qs:name":"Kampung Serating",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1769790,
         "gp:id":56119163,
-        "qs:id":1026641
+        "qs_pg:id":1026641
     },
     "wof:country":"MY",
     "wof:created":1469054799,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890490305,
-    "wof:lastmodified":1505343788,
+    "wof:lastmodified":1566643901,
     "wof:name":"Kampung Serating",
     "wof:parent_id":890490535,
     "wof:placetype":"locality",

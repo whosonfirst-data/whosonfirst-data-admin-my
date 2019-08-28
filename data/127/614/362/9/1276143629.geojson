@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.8588,3.9255,100.8988,3.9655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Sungai Rebak"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276143629,
-    "wof:lastmodified":1537674313,
+    "wof:lastmodified":1566643012,
     "wof:name":"Kampung Sungai Rebak",
     "wof:parent_id":890490073,
     "wof:placetype":"locality",

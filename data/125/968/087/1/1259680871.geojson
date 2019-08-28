@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.0608,4.7963,101.1008,4.8363",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Veerasamy"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259680871,
-    "wof:lastmodified":1537674303,
+    "wof:lastmodified":1566644364,
     "wof:name":"Kampung Veerasamy",
     "wof:parent_id":890489077,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":102.2984,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.2784,2.203,102.3184,2.243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Bukit Katil"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1770244,
         "gp:id":1142785,
-        "qs:id":1096468
+        "qs_pg:id":1096468
     },
     "wof:country":"MY",
     "wof:created":1469054769,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890489761,
-    "wof:lastmodified":1505343786,
+    "wof:lastmodified":1566644006,
     "wof:name":"Kampong Bukit Katil",
     "wof:parent_id":890489715,
     "wof:placetype":"locality",

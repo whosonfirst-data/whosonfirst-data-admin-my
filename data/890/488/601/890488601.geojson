@@ -11,8 +11,12 @@
     "geom:longitude":100.498208,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.398208,5.574024,100.598208,5.774024",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0646\u063a\u0627\u064a \u0628\u064a\u062a\u0627\u0646\u064a"
     ],
@@ -151,7 +155,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014434,
-        "qs:id":1313720,
+        "qs_pg:id":1313720,
         "wd:id":"Q939738",
         "wk:page":"Sungai Petani"
     },
@@ -168,7 +172,7 @@
         }
     ],
     "wof:id":890488601,
-    "wof:lastmodified":1563240666,
+    "wof:lastmodified":1566643964,
     "wof:name":"Sungai Petani",
     "wof:parent_id":890490355,
     "wof:placetype":"localadmin",

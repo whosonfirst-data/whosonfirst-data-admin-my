@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":6.372296,
     "lbl:longitude":100.156464,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":6.372296,
     "mps:longitude":100.156464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Kuala Perlis"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0430\u043b\u0430-\u041f\u0435\u0440\u043b\u0456\u0441"
     ],
-    "name:unk_x_variant":[
-        "Kampong Perlis"
-    ],
     "name:zho_x_preferred":[
         "\u73bb\u7483\u5e02\u6e2f\u53e3"
     ],
@@ -80,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":94,
     "wof:belongsto":[
@@ -94,7 +94,6 @@
         "fct:id":"01db8136-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1736292,
         "gp:id":1154787,
-        "qs:id":183683,
         "qs_pg:id":183683,
         "wd:id":"Q1938412",
         "wk:page":"Kuala Perlis"
@@ -114,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563238540,
+    "wof:lastmodified":1566642245,
     "wof:name":"Kuala Perlis",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

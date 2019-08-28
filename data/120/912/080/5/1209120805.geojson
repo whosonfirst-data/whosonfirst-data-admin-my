@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.24667,3.38,101.28667,3.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Puting Bellong",
         "Kampong Puting Belong"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209120805,
-    "wof:lastmodified":1537673942,
+    "wof:lastmodified":1566643203,
     "wof:name":"Kampong Puting Belong",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",

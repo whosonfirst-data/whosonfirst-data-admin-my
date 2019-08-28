@@ -11,12 +11,16 @@
     "geom:longitude":116.45,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"116.43,6.01333,116.47,6.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Balabakan"
     ],
     "qs:name":"Kampong Balabakan",
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1771235,
         "gp:id":1141793,
-        "qs:id":1208568
+        "qs_pg:id":1208568
     },
     "wof:country":"MY",
     "wof:created":1469054815,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890490577,
-    "wof:lastmodified":1505343789,
+    "wof:lastmodified":1566643919,
     "wof:name":"Kampong Balabakan",
     "wof:parent_id":1108696541,
     "wof:placetype":"locality",

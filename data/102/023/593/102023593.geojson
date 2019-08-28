@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":6.524828,
     "lbl:longitude":100.219778,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.524828,
     "mps:longitude":100.219778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Beseri"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":53,
     "wof:belongsto":[
         102191569,
@@ -61,7 +64,6 @@
         "fct:id":"01db5fbc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1736128,
         "gp:id":1154610,
-        "qs:id":959605,
         "qs_pg:id":959605,
         "wd:id":"Q4896212"
     },
@@ -80,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561751653,
+    "wof:lastmodified":1566642235,
     "wof:name":"Beseri",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.3583,4.9737,102.3983,5.0137",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Pasir Besar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326537519,
-    "wof:lastmodified":1537673981,
+    "wof:lastmodified":1566642196,
     "wof:name":"Kampung Pasir Besar",
     "wof:parent_id":890488877,
     "wof:placetype":"locality",

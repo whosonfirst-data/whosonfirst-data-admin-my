@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.560651,
     "lbl:longitude":110.604543,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SARAWAK",
     "meso:diss_me":"ASAJAYASARAWAK",
     "meso:gadm_admin":"Asajaya",
@@ -31,6 +33,7 @@
     "mps:longitude":110.604543,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Asajaya"
     ],
@@ -39,9 +42,9 @@
         "ASAJAYA"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Asajaya",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108696375,
-    "wof:lastmodified":1553718303,
+    "wof:lastmodified":1566643530,
     "wof:name":"Asajaya",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

@@ -11,8 +11,11 @@
     "geom:longitude":103.774297,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.769297,1.4774695,103.779297,1.4874695",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Maju Jaya",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Johor",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675141,
         102191569,
         85632739,
         102022781,
-        1108696403,
-        85675141
+        1108696403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56036078,
-        "qs:id":526901
+        "qs_pg:id":526901
     },
     "wof:country":"MY",
     "wof:created":1469054745,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890489113,
-    "wof:lastmodified":1500013361,
+    "wof:lastmodified":1566644021,
     "wof:name":"Maju Jaya",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

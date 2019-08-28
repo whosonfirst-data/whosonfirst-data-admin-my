@@ -11,8 +11,12 @@
     "geom:longitude":102.425724,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.325724,2.047558,102.525724,2.247558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Merlimau"
     ],
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014054,
-        "qs:id":1018010,
+        "qs_pg:id":1018010,
         "wd:id":"Q12697724",
         "wk:page":"Merlimau"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890489459,
-    "wof:lastmodified":1563240761,
+    "wof:lastmodified":1566644015,
     "wof:name":"Merlimau",
     "wof:parent_id":890489809,
     "wof:placetype":"localadmin",

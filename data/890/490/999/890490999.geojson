@@ -11,7 +11,7 @@
     "geom:longitude":103.033354,
     "gn:country":"MY",
     "gn:fcode":"ADM2",
-    "gn:pop":519800,
+    "gn:population":519800,
     "iso:country":"MY",
     "label:eng_x_preferred_longname":[
         "Batu Pahat District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":1.956336,
     "lbl:longitude":103.017227,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"JOHOR",
     "meso:diss_me":"BATU PAHATJOHOR",
     "meso:gadm_admin":"Batu Pahat",
@@ -34,6 +36,7 @@
     "mps:longitude":103.017227,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Batu Pahat"
     ],
@@ -322,9 +325,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"1,878.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Batu Pahat",
@@ -347,7 +350,7 @@
     "wof:concordances":{
         "gn:id":1732686,
         "hasc:id":"MY.JH.BP",
-        "qs:id":88603,
+        "qs_pg:id":88603,
         "wd:id":"Q2306850",
         "wk:page":"Batu Pahat District"
     },
@@ -363,7 +366,7 @@
         }
     ],
     "wof:id":890490999,
-    "wof:lastmodified":1563240514,
+    "wof:lastmodified":1566643873,
     "wof:name":"Batu Pahat",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

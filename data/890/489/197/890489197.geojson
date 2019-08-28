@@ -11,11 +11,14 @@
     "geom:longitude":103.845,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.84,1.5971,103.85,1.6071",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Seri Jaya"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7619718,
         "gp:id":56016275,
-        "qs:id":969050
+        "qs_pg:id":969050
     },
     "wof:country":"MY",
     "wof:created":1469054748,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890489197,
-    "wof:lastmodified":1505343785,
+    "wof:lastmodified":1566644004,
     "wof:name":"Taman Industri Jaya",
     "wof:parent_id":102023781,
     "wof:placetype":"neighbourhood",

@@ -11,11 +11,15 @@
     "geom:longitude":101.75,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.73,3.59667,101.77,3.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Gumut",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1774148,
         "gp:id":1154673,
-        "qs:id":1294255
+        "qs_pg:id":1294255
     },
     "wof:country":"MY",
     "wof:created":1469054720,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890488463,
-    "wof:lastmodified":1505343782,
+    "wof:lastmodified":1566643938,
     "wof:name":"Gumut",
     "wof:parent_id":890489129,
     "wof:placetype":"locality",

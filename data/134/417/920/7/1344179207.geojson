@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.6089,2.9804,102.6489,3.0204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Pelung"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344179207,
-    "wof:lastmodified":1537674405,
+    "wof:lastmodified":1566642511,
     "wof:name":"Kampung Pelung",
     "wof:parent_id":890489815,
     "wof:placetype":"locality",

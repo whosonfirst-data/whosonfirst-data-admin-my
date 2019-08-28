@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12294460.183573,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.591538,3.079858,101.591538,3.079858",
     "geom:latitude":3.079858,
     "geom:longitude":101.591538,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.586538,3.074858,101.596538,3.084858",
     "lbl:latitude":3.079858,
     "lbl:longitude":101.591538,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.079715,
     "mps:longitude":101.591904,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Taman Wangsa Baiduri"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Wangsa Baiduri"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023395,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56017252,
-        "qs:id":481796,
         "qs_pg:id":481796
     },
     "wof:country":"MY",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860587,
+    "wof:lastmodified":1566642597,
     "wof:name":"Taman Wangsa Baiduri",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

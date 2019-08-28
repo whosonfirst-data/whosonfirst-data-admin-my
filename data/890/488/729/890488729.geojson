@@ -11,18 +11,22 @@
     "geom:longitude":102.7095,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.6895,2.1897,102.7295,2.2297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Gerisek"
     ],
     "name:msa_x_variant":[
         "Gerisik"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grisek"
     ],
     "qs:name":"Gerisik",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1732858,
         "gp:id":1141155,
-        "qs:id":308306,
+        "qs_pg:id":308306,
         "wk:page":"Gerisek"
     },
     "wof:country":"MY",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890488729,
-    "wof:lastmodified":1564192126,
+    "wof:lastmodified":1566643974,
     "wof:name":"Gerisik",
     "wof:parent_id":1108696447,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.7674,4.8965,101.8074,4.9365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Bawid"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360186637,
-    "wof:lastmodified":1537674299,
+    "wof:lastmodified":1566643745,
     "wof:name":"Kampung Bawid",
     "wof:parent_id":890488877,
     "wof:placetype":"locality",

@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.21,2.34,102.25,2.38",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Melaka Pindah"
     ],
     "name:und_x_variant":[
-        "Malaka Pindah",
-        "Melaka Pindah"
+        "Malaka Pindah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1276370041,
-    "wof:lastmodified":1537673793,
+    "wof:lastmodified":1566643091,
     "wof:name":"Melaka Pindah",
     "wof:parent_id":890489107,
     "wof:placetype":"locality",

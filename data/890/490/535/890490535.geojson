@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":5.086781,
     "lbl:longitude":103.2098,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"TERENGGANU",
     "meso:diss_me":"MARANGTERENGGANU",
     "meso:gadm_admin":"Marang",
@@ -33,6 +35,7 @@
     "mps:longitude":103.2098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Marang"
     ],
@@ -72,9 +75,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"667.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Marang",
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gp:id":56013642,
         "hasc:id":"MY.TE.MA",
-        "qs:id":1111781,
+        "qs_pg:id":1111781,
         "wd:id":"Q2362852",
         "wk:page":"Marang"
     },
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":890490535,
-    "wof:lastmodified":1563240515,
+    "wof:lastmodified":1566643874,
     "wof:name":"Marang",
     "wof:parent_id":85675169,
     "wof:placetype":"county",

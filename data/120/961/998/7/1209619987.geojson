@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.5214,2.8229,102.5614,2.8629",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung B"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209619987,
-    "wof:lastmodified":1537674220,
+    "wof:lastmodified":1566643238,
     "wof:name":"Kampung B",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",

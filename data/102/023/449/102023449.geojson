@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.780807,
     "lbl:longitude":100.881422,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":3.780807,
     "mps:longitude":100.881422,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0628\u0642 \u0628\u0631\u0646\u0645"
     ],
@@ -53,9 +56,6 @@
     "name:spa_x_preferred":[
         "Sabak Bernam"
     ],
-    "name:unk_x_variant":[
-        "Sabah"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0628\u06a9 \u0628\u0631\u0646\u0627\u0645"
     ],
@@ -83,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":161,
     "wof:belongsto":[
@@ -97,7 +97,6 @@
         "fct:id":"01db4978-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1735195,
         "gp:id":1155065,
-        "qs:id":1207503,
         "qs_pg:id":1207503,
         "wd:id":"Q2198128"
     },
@@ -116,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563238540,
+    "wof:lastmodified":1566642244,
     "wof:name":"Sabak Bernam",
     "wof:parent_id":890490813,
     "wof:placetype":"locality",

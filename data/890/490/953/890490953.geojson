@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":4.504415,
     "lbl:longitude":101.162109,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"PERAK",
     "meso:diss_me":"KINTAPERAK",
     "meso:gadm_admin":"Kinta",
@@ -32,6 +34,7 @@
     "mps:longitude":101.162109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kinta"
     ],
@@ -73,9 +76,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"1,958.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Ipoh",
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gp:id":56013603,
         "hasc:id":"MY.PK.KN",
-        "qs:id":1306772,
+        "qs_pg:id":1306772,
         "wd:id":"Q2781356",
         "wk:page":"Kinta"
     },
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":890490953,
-    "wof:lastmodified":1561751758,
+    "wof:lastmodified":1566643869,
     "wof:name":"Kinta",
     "wof:parent_id":85675123,
     "wof:placetype":"county",

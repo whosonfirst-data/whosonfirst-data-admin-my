@@ -11,8 +11,12 @@
     "geom:longitude":114.808158,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"114.708158,3.943155,114.908158,4.143155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Miri District"
     ],
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014346,
-        "qs:id":1306920,
+        "qs_pg:id":1306920,
         "wd:id":"Q19646293",
         "wk:page":"Miri District"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890488497,
-    "wof:lastmodified":1563240620,
+    "wof:lastmodified":1566643939,
     "wof:name":"Bahagian Miri",
     "wof:parent_id":1108696465,
     "wof:placetype":"localadmin",

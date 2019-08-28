@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.49527,5.31783,100.53527,5.35783",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Macang Bubuk"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209025169,
-    "wof:lastmodified":1537674027,
+    "wof:lastmodified":1566643275,
     "wof:name":"Kampung Machang Bubok",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",

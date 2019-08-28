@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4990638.996724,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.054993,4.603289,101.054993,4.603289",
     "geom:latitude":4.603289,
     "geom:longitude":101.054993,
     "gn:latitude":4.6102,
     "gn:longitude":101.0492,
     "iso:country":"MY",
+    "lbl:bbox":"101.049993,4.598289,101.059993,4.608289",
     "lbl:latitude":4.603289,
     "lbl:longitude":101.054993,
+    "lbl:max_zoom":18.0,
     "mps:latitude":4.603803,
     "mps:longitude":101.054468,
     "mz:hierarchy_label":0,
@@ -26,12 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:msa_x_preferred":[
-        "Taman Rishah"
-    ],
-    "name:und_x_preferred":[
-        "Taman Rishah"
-    ],
-    "name:unk_x_variant":[
         "Taman Rishah"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -63,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675123,
         102191569,
         85632739,
         102023021,
-        890490953,
-        85675123
+        890490953
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7473445,
         "gp:id":56037692,
-        "qs:id":935798,
         "qs_pg:id":935798
     },
     "wof:country":"MY",
@@ -94,7 +89,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860633,
+    "wof:lastmodified":1566642600,
     "wof:name":"Taman Rishah",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

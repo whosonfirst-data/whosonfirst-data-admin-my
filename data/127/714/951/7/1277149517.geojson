@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.94667,5.74667,115.98667,5.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Malinsong",
         "Kampong Melinsun"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277149517,
-    "wof:lastmodified":1537674016,
+    "wof:lastmodified":1566642998,
     "wof:name":"Kampong Melinsun",
     "wof:parent_id":1108696477,
     "wof:placetype":"locality",

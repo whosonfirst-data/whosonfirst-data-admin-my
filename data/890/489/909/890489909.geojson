@@ -11,8 +11,12 @@
     "geom:longitude":101.129064,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.029064,4.398777,101.229064,4.598777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Sungai Raya",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Perak",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014584,
-        "qs:id":1111924
+        "qs_pg:id":1111924
     },
     "wof:country":"MY",
     "wof:created":1469054780,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489909,
-    "wof:lastmodified":1500013215,
+    "wof:lastmodified":1566643975,
     "wof:name":"Sungai Raya",
     "wof:parent_id":890490953,
     "wof:placetype":"localadmin",

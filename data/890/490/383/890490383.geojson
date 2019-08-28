@@ -11,10 +11,14 @@
     "geom:longitude":114.56045,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":200,
+    "gn:population":200,
     "iso:country":"MY",
+    "lbl:bbox":"114.54045,2.63619,114.58045,2.67619",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Long Singu",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":8379301,
         "gp:id":1154869,
-        "qs:id":110023
+        "qs_pg:id":110023
     },
     "wof:country":"MY",
     "wof:created":1469054803,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890490383,
-    "wof:lastmodified":1505343788,
+    "wof:lastmodified":1566643889,
     "wof:name":"Long Singu",
     "wof:parent_id":1108696387,
     "wof:placetype":"locality",

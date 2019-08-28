@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.21333,4.59667,116.25333,4.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343234605,
-    "wof:lastmodified":1537069361,
+    "wof:lastmodified":1566642440,
     "wof:name":"Sibungo",
     "wof:parent_id":1108696483,
     "wof:placetype":"locality",

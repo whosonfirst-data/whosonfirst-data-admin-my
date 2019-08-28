@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.73,5.28,100.77,5.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Rantau Panjang Ulu Krian",
         "Kampong Rantau Panjang Ulu Kerian"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242669295,
-    "wof:lastmodified":1537673938,
+    "wof:lastmodified":1566644100,
     "wof:name":"Kampong Rantau Panjang Ulu Kerian",
     "wof:parent_id":890489813,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11625957.249009,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.653796,3.094846,101.653796,3.094846",
     "geom:latitude":3.094846,
     "geom:longitude":101.653796,
     "gn:latitude":2.82583,
     "gn:longitude":102.32849,
     "iso:country":"MY",
+    "lbl:bbox":"101.648796,3.089846,101.658796,3.099846",
     "lbl:latitude":3.094846,
     "lbl:longitude":101.653796,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.088913,
     "mps:longitude":101.652219,
     "mz:hierarchy_label":0,
@@ -28,10 +30,7 @@
     "name:msa_x_preferred":[
         "Bukit Gombang"
     ],
-    "name:und_x_preferred":[
-        "Bukit Gasing"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bukit Gasing"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -63,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023395,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7797041,
         "gp:id":56015089,
-        "qs:id":361639,
         "qs_pg:id":361639
     },
     "wof:country":"MY",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860554,
+    "wof:lastmodified":1566642606,
     "wof:name":"Bukit Gasing",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

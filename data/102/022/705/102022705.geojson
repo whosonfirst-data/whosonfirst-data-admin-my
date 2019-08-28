@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000869,
-    "geom:area_square_m":10678568.212393,
+    "geom:area_square_m":10678568.212404,
     "geom:bbox":"99.7962550975,6.43188602619,99.8363131915,6.46082138975",
     "geom:latitude":6.448252,
     "geom:longitude":99.814985,
@@ -14,11 +14,14 @@
     "iso:country":"MY",
     "lbl:latitude":6.447849,
     "lbl:longitude":99.813363,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.447849,
     "mps:longitude":99.813363,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Kampong Ayer Hangat"
     ],
     "qs:a1":"*",
@@ -32,7 +35,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102022705,
-    "wof:lastmodified":1501217309,
+    "wof:lastmodified":1566642312,
     "wof:name":"Ayer Hangat",
     "wof:parent_id":1108696443,
     "wof:placetype":"locality",

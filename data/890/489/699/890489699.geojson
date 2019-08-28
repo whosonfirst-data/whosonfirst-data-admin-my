@@ -11,8 +11,12 @@
     "geom:longitude":100.63159,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.6115895,4.215438,100.6515895,4.255438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Taman Samudera Baru",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Perak",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037231,
-        "qs:id":8275
+        "qs_pg:id":8275
     },
     "wof:country":"MY",
     "wof:created":1469054766,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489699,
-    "wof:lastmodified":1500013235,
+    "wof:lastmodified":1566644012,
     "wof:name":"Taman Samudera Baru",
     "wof:parent_id":1108696459,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.23,6.61333,100.27,6.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Titi Tinggi Hilin",
         "Kampung Titi Tinggi Hilir"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259478691,
-    "wof:lastmodified":1537673731,
+    "wof:lastmodified":1566644342,
     "wof:name":"Kampung Titi Tinggi Hilir",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

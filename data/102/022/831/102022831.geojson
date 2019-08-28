@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.135776,
     "lbl:longitude":101.331085,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.135776,
     "mps:longitude":101.331085,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kapar"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":80,
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":1732901,
         "gp:id":1154717,
-        "qs:id":482403,
         "qs_pg:id":482403,
         "wd:id":"Q6366466",
         "wk:page":"Kapar"
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":102022831,
-    "wof:lastmodified":1563238685,
+    "wof:lastmodified":1566642319,
     "wof:name":"Kapar",
     "wof:parent_id":1108696415,
     "wof:placetype":"locality",

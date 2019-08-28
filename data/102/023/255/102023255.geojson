@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":2.638158,
     "lbl:longitude":103.636135,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":2.638158,
     "mps:longitude":103.636135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Endau"
     ],
@@ -31,9 +34,6 @@
         "Endau"
     ],
     "name:nld_x_preferred":[
-        "Endau"
-    ],
-    "name:unk_x_variant":[
         "Endau"
     ],
     "name:zho_x_preferred":[
@@ -55,7 +55,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -66,7 +66,7 @@
     "wof:concordances":{
         "gn:id":1734897,
         "gp:id":1154963,
-        "qs:id":193580,
+        "qs_pg:id":193580,
         "wd:id":"Q5375966",
         "wk:page":"Endau"
     },
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":102023255,
-    "wof:lastmodified":1561751665,
+    "wof:lastmodified":1566642288,
     "wof:name":"Padang Endau",
     "wof:parent_id":890488715,
     "wof:placetype":"locality",

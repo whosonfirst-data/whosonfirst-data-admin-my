@@ -11,11 +11,14 @@
     "geom:longitude":101.7785,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.7735,3.0107,101.7835,3.0207",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Kampung Simpang Balak"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1764331,
         "gp:id":1148708,
-        "qs:id":1024226
+        "qs_pg:id":1024226
     },
     "wof:country":"MY",
     "wof:created":1469054760,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890489521,
-    "wof:lastmodified":1505343785,
+    "wof:lastmodified":1566643995,
     "wof:name":"Kampong Simpang Balak",
     "wof:parent_id":102023431,
     "wof:placetype":"neighbourhood",

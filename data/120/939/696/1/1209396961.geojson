@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"117.8301,4.325,117.8701,4.365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632739
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209396961,
-    "wof:lastmodified":1536288268,
+    "wof:lastmodified":1566643160,
     "wof:name":"Mawar",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",

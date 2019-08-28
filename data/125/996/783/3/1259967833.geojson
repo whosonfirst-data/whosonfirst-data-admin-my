@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"110.28842,1.10986,110.32842,1.14986",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Senah Parun",
         "Kampong Sena Parun",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259967833,
-    "wof:lastmodified":1537673937,
+    "wof:lastmodified":1566644293,
     "wof:name":"Kampong Rayang",
     "wof:parent_id":890488875,
     "wof:placetype":"locality",

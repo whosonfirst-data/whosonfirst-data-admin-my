@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.36333,4.66333,103.40333,4.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tanjong Kepala Taman",
         "Tanjong Kepala Tumang"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259362325,
-    "wof:lastmodified":1537673760,
+    "wof:lastmodified":1566644279,
     "wof:name":"Tanjong Kepala Tumang",
     "wof:parent_id":890490253,
     "wof:placetype":"locality",

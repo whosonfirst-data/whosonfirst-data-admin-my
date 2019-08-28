@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":6.5113,
     "lbl:longitude":100.417115,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.5113,
     "mps:longitude":100.417115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bukit Kayu Hitam"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":433,
     "wof:belongsto":[
         102191569,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":1736283,
         "gp:id":1140967,
-        "qs:id":1185775,
         "qs_pg:id":1185775,
         "wd:id":"Q1110437",
         "wk:page":"Bukit Kayu Hitam"
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":102023607,
-    "wof:lastmodified":1561751665,
+    "wof:lastmodified":1566642287,
     "wof:name":"Bukit Kayu Hitam",
     "wof:parent_id":890488625,
     "wof:placetype":"locality",

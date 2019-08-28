@@ -12,8 +12,10 @@
     "gn:latitude":1.5243,
     "gn:longitude":103.824,
     "iso:country":"MY",
+    "lbl:bbox":"103.815999,1.50015,103.825999,1.51015",
     "lbl:latitude":1.50515,
     "lbl:longitude":103.820999,
+    "lbl:max_zoom":18.0,
     "mps:latitude":1.505974,
     "mps:longitude":103.821683,
     "mz:hierarchy_label":0,
@@ -41,10 +43,6 @@
     ],
     "name:nld_x_preferred":[
         "Plentong"
-    ],
-    "name:unk_x_variant":[
-        "Plintong",
-        "Pelentung"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -75,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":289,
     "wof:belongsto":[
         85675141,
@@ -88,7 +86,6 @@
     "wof:concordances":{
         "gn:id":1732747,
         "gp:id":1152539,
-        "qs:id":1076484,
         "qs_pg:id":1076484,
         "wd:id":"Q7204554",
         "wk:page":"Plentong"
@@ -109,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563239053,
+    "wof:lastmodified":1566642614,
     "wof:name":"Pelentung",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

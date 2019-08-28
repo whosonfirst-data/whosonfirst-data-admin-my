@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.70917,5.52472,102.74917,5.56472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Apek"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242949557,
-    "wof:lastmodified":1537674209,
+    "wof:lastmodified":1566644110,
     "wof:name":"Kampung Apek",
     "wof:parent_id":1108696513,
     "wof:placetype":"locality",

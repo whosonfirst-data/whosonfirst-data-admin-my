@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":2.836544,
     "lbl:longitude":104.152975,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":2.836544,
     "mps:longitude":104.152975,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pulau Tioman"
     ],
@@ -63,7 +66,7 @@
     "name:tur_x_preferred":[
         "Tioman adasi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pulau Tiuman"
     ],
     "name:vie_x_preferred":[
@@ -89,8 +92,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":102023259,
-    "wof:lastmodified":1563238554,
+    "wof:lastmodified":1566642250,
     "wof:name":"Pulau Tioman",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

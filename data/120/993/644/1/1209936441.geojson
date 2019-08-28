@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.14221,6.37927,100.18221,6.41927",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Besar"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209936441,
-    "wof:lastmodified":1537673733,
+    "wof:lastmodified":1566643254,
     "wof:name":"Kampung Besar",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

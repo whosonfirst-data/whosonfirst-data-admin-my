@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.35409,5.81185,100.39409,5.85185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Kelantan",
         "Kampung Kelantan"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293101879,
-    "wof:lastmodified":1537674080,
+    "wof:lastmodified":1566642855,
     "wof:name":"Kampung Kelantan",
     "wof:parent_id":890489701,
     "wof:placetype":"locality",

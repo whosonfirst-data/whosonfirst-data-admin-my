@@ -11,11 +11,15 @@
     "geom:longitude":102.36667,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.34667,2.29667,102.38667,2.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kesang"
     ],
@@ -24,9 +28,6 @@
     ],
     "name:sqi_x_preferred":[
         "Taman Damai Utama"
-    ],
-    "name:unk_x_variant":[
-        "Kesang"
     ],
     "qs:name":"Kesang Pajak",
     "qs:name_adm0":"Malaysia",
@@ -46,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1760135,
         "gp:id":1151739,
-        "qs:id":1060903,
+        "qs_pg:id":1060903,
         "wd:id":"Q6394851"
     },
     "wof:country":"MY",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":890489585,
-    "wof:lastmodified":1563240766,
+    "wof:lastmodified":1566644017,
     "wof:name":"Kesang Pajak",
     "wof:parent_id":890489809,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000355,
-    "geom:area_square_m":4384842.841749,
+    "geom:area_square_m":4384842.84174,
     "geom:bbox":"101.634521484,3.15971310916,101.657522533,3.18747288703",
     "geom:latitude":3.173332,
     "geom:longitude":101.645803,
@@ -14,6 +14,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.173058,
     "lbl:longitude":101.653035,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.173184,
     "mps:longitude":101.645977,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
     ],
     "name:und_x_variant":[
         "Kg. Segambut Dalam"
-    ],
-    "name:unk_x_variant":[
-        "Kampong Segambut Dalam"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -62,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -74,7 +72,6 @@
     "wof:concordances":{
         "gn:id":1764740,
         "gp:id":1148302,
-        "qs:id":241132,
         "qs_pg:id":241132
     },
     "wof:country":"MY",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497309258,
+    "wof:lastmodified":1566642613,
     "wof:name":"Kampong Segambut Dalam",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

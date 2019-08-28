@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10247182.811707,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.671811,3.014678,101.671811,3.014678",
     "geom:latitude":3.014678,
     "geom:longitude":101.671811,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.666811,3.009678,101.676811,3.019678",
     "lbl:latitude":3.014678,
     "lbl:longitude":101.671811,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.016567,
     "mps:longitude":101.673764,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
-    "name:und_x_preferred":[
-        "Tmn Puncak Jalil Bdr Putra Permai"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tmn Puncak Jalil Bdr Putra Permai"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023799,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037103,
-        "qs:id":44323,
         "qs_pg:id":44323
     },
     "wof:country":"MY",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860618,
+    "wof:lastmodified":1566642578,
     "wof:name":"Tmn Puncak Jalil Bdr Putra Permai",
     "wof:parent_id":102023799,
     "wof:placetype":"neighbourhood",

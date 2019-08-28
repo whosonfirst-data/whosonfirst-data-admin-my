@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3802511.134656,
+    "geom:area_square_m":0.0,
     "geom:bbox":"102.246248,2.189108,102.246248,2.189108",
     "geom:latitude":2.189108,
     "geom:longitude":102.246248,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"102.241248,2.184108,102.251248,2.194108",
     "lbl:latitude":2.189108,
     "lbl:longitude":102.246248,
+    "lbl:max_zoom":18.0,
     "mps:latitude":2.183176,
     "mps:longitude":102.240061,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Taman Costa Mahkota"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Costa Mahkota"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675151,
         102191569,
         85632739,
         102023085,
-        890489715,
-        85675151
+        890489715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037461,
-        "qs:id":8370,
         "qs_pg:id":8370
     },
     "wof:country":"MY",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860630,
+    "wof:lastmodified":1566642578,
     "wof:name":"Taman Costa Mahkota",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":1.804637,
     "lbl:longitude":113.447987,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SARAWAK",
     "meso:diss_me":"KAPITSARAWAK",
     "meso:gadm_admin":"Kapit",
@@ -32,6 +34,7 @@
     "mps:longitude":113.447987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kapit"
     ],
@@ -69,9 +72,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"15,033.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Kapit",
@@ -91,7 +94,7 @@
     "wof:concordances":{
         "gp:id":56013593,
         "hasc:id":"MY.SK.KP",
-        "qs:id":384962
+        "qs_pg:id":384962
     },
     "wof:country":"MY",
     "wof:created":1469054735,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":890488879,
-    "wof:lastmodified":1564192108,
+    "wof:lastmodified":1566643957,
     "wof:name":"Kapit",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

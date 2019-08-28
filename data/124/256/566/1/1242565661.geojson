@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"110.36354,1.27836,110.40354,1.31836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bth_x_historical":[
         "Sijueq"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1242565661,
-    "wof:lastmodified":1537673970,
+    "wof:lastmodified":1566644120,
     "wof:name":"Kampong Pelaman Sedaun",
     "wof:parent_id":890488875,
     "wof:placetype":"locality",

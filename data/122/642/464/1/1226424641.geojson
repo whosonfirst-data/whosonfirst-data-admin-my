@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"118.10175,4.2769,118.14175,4.3169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampong Wakuba"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226424641,
-    "wof:lastmodified":1537673807,
+    "wof:lastmodified":1566644472,
     "wof:name":"Kampong Wakuba",
     "wof:parent_id":1108696533,
     "wof:placetype":"locality",

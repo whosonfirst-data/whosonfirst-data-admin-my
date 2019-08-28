@@ -11,8 +11,11 @@
     "geom:longitude":101.7508,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.7458,3.151285,101.7558,3.161285",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Taman Bukit Ampangan",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023417,
-        1108696543,
-        85675163
+        1108696543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015909,
-        "qs:id":969668
+        "qs_pg:id":969668
     },
     "wof:country":"MY",
     "wof:created":1469054749,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890489231,
-    "wof:lastmodified":1500013509,
+    "wof:lastmodified":1566644012,
     "wof:name":"Taman Bukit Ampangan",
     "wof:parent_id":102023417,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"109.84104,1.6549,109.88104,1.6949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Sileng",
         "Kampong Seling"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259671877,
-    "wof:lastmodified":1537673920,
+    "wof:lastmodified":1566644382,
     "wof:name":"Kampong Seling",
     "wof:parent_id":1108696453,
     "wof:placetype":"locality",

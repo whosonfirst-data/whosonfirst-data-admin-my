@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"110.23,1.69667,110.27,1.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Simpol",
         "Kampong Telok Simpor"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1276418725,
-    "wof:lastmodified":1537673838,
+    "wof:lastmodified":1566643050,
     "wof:name":"Kampong Telok Simpor",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

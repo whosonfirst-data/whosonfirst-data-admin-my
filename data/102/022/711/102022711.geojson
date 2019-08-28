@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.938867,
     "lbl:longitude":102.362991,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":3.938867,
     "mps:longitude":102.362991,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "Jerantut"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -82,7 +85,6 @@
     "wof:concordances":{
         "gn:id":1732602,
         "gp:id":1154691,
-        "qs:id":218071,
         "qs_pg:id":218071,
         "wd:id":"Q2637687",
         "wk:page":"Jerantut District"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":102022711,
-    "wof:lastmodified":1561751673,
+    "wof:lastmodified":1566642325,
     "wof:name":"Jerantut",
     "wof:parent_id":890489711,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000494,
-    "geom:area_square_m":6099410.874126,
+    "geom:area_square_m":6099410.874134,
     "geom:bbox":"101.616281738,3.22199238908,101.645507812,3.24649764463",
     "geom:latitude":3.233017,
     "geom:longitude":101.62876,
@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.23257,
     "lbl:longitude":101.632673,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.232936,
     "mps:longitude":101.62702,
     "mz:hierarchy_label":1,
@@ -24,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
-    "name:und_x_preferred":[
-        "Kg. Melayu Frim Kepong"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kg. Melayu Frim Kepong"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675163,
         102191569,
@@ -67,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015486,
-        "qs:id":5461,
         "qs_pg:id":5461
     },
     "wof:country":"MY",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269534,
+    "wof:lastmodified":1566642609,
     "wof:name":"Kg. Melayu Frim Kepong",
     "wof:parent_id":102023841,
     "wof:placetype":"neighbourhood",

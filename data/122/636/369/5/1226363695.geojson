@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.13,4.19667,101.17,4.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Sungei Kroh",
         "Sungai Keroh",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226363695,
-    "wof:lastmodified":1537673722,
+    "wof:lastmodified":1566644653,
     "wof:name":"Sungai Keruh",
     "wof:parent_id":890489741,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":102.55618,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.53618,5.66381,102.57618,5.70381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Jabi"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1736406,
         "gp:id":1151051,
-        "qs:id":193493
+        "qs_pg:id":193493
     },
     "wof:country":"MY",
     "wof:created":1469054818,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890490619,
-    "wof:lastmodified":1505343789,
+    "wof:lastmodified":1566643878,
     "wof:name":"Kampung Jabi",
     "wof:parent_id":890488399,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.277214,
     "lbl:longitude":115.015013,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SARAWAK",
     "meso:diss_me":"LIMBANGSARAWAK",
     "meso:gadm_admin":"Limbang",
@@ -31,6 +33,7 @@
     "mps:longitude":115.015013,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Limbang"
     ],
@@ -69,9 +72,9 @@
         "Limbang"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"3,977.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Limbang",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108696449,
-    "wof:lastmodified":1564191508,
+    "wof:lastmodified":1566643516,
     "wof:name":"Limbang",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

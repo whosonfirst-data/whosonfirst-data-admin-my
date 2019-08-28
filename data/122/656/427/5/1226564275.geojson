@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.3566,3.4724,103.3966,3.5124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Padang Buluh"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226564275,
-    "wof:lastmodified":1537673998,
+    "wof:lastmodified":1566644516,
     "wof:name":"Kampung Padang Buluh",
     "wof:parent_id":1108696481,
     "wof:placetype":"locality",

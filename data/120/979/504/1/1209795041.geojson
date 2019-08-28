@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.04667,5.41333,103.08667,5.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Telipok",
         "Kampung Telipuk"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209795041,
-    "wof:lastmodified":1537673709,
+    "wof:lastmodified":1566643195,
     "wof:name":"Kampung Telipuk",
     "wof:parent_id":890490947,
     "wof:placetype":"locality",

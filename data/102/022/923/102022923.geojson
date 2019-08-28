@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
-    "geom:area_square_m":3136184.177435,
+    "geom:area_square_m":3136184.177436,
     "geom:bbox":"115.660537907,4.94509819997,115.678573454,4.96318656222",
     "geom:latitude":4.954142,
     "geom:longitude":115.669556,
@@ -14,13 +14,17 @@
     "iso:country":"MY",
     "lbl:latitude":4.954143,
     "lbl:longitude":115.669556,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":4.954143,
     "mps:longitude":115.669556,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kapayan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kapa"
     ],
     "qs:a1":"*",
@@ -34,7 +38,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":102022923,
-    "wof:lastmodified":1501222114,
+    "wof:lastmodified":1566642309,
     "wof:name":"Kampung Kapayan",
     "wof:parent_id":1108696519,
     "wof:placetype":"locality",

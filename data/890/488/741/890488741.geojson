@@ -11,11 +11,15 @@
     "geom:longitude":102.7832,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.7632,1.8645,102.8032,1.9045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Semerah"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1732689,
         "gp:id":1155098,
-        "qs:id":308403,
+        "qs_pg:id":308403,
         "wd:id":"Q7449237",
         "wk:page":"Semerah"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890488741,
-    "wof:lastmodified":1561751764,
+    "wof:lastmodified":1566643950,
     "wof:name":"Semerah",
     "wof:parent_id":890490999,
     "wof:placetype":"locality",

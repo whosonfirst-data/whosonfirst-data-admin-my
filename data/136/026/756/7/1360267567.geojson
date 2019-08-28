@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"118.57749,4.35179,118.61749,4.39179",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1360267567,
-    "wof:lastmodified":1536682377,
+    "wof:lastmodified":1566643774,
     "wof:name":"Kampung Sipanggau",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

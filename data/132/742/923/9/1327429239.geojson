@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.357,3.892,102.397,3.932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Padang Saujana"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327429239,
-    "wof:lastmodified":1537674390,
+    "wof:lastmodified":1566642220,
     "wof:name":"Kampung Padang Saujana",
     "wof:parent_id":890489711,
     "wof:placetype":"locality",

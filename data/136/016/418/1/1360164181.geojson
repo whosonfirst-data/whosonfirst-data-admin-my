@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.1689,5.2183,103.2089,5.2583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Gong Rusila"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360164181,
-    "wof:lastmodified":1537674110,
+    "wof:lastmodified":1566643750,
     "wof:name":"Kampung Gong Rusila",
     "wof:parent_id":890490535,
     "wof:placetype":"locality",

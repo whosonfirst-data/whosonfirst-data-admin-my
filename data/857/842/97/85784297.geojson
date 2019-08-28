@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2103264.54599,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.311035,5.388252,100.311035,5.388252",
     "geom:latitude":5.388252,
     "geom:longitude":100.311035,
     "gn:latitude":5.36278,
     "gn:longitude":100.54622,
     "iso:country":"MY",
+    "lbl:bbox":"100.306035,5.383252,100.316035,5.393252",
     "lbl:latitude":5.388252,
     "lbl:longitude":100.311035,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.393182,
     "mps:longitude":100.309168,
     "mz:hierarchy_label":0,
@@ -28,10 +30,7 @@
     "name:msa_x_preferred":[
         "Taman Jelutung"
     ],
-    "name:und_x_preferred":[
-        "Taman Jelutong"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Jelutong"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -64,20 +63,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":275,
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023367,
-        1108696537,
-        85675127
+        1108696537
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6819262,
         "gp:id":56035272,
-        "qs:id":981520,
         "qs_pg:id":981520,
         "wd:id":"Q17055690"
     },
@@ -97,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860592,
+    "wof:lastmodified":1566642582,
     "wof:name":"Taman Jelutong",
     "wof:parent_id":102023367,
     "wof:placetype":"neighbourhood",

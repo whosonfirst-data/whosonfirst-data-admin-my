@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.4647,1.6793,103.5047,1.7193",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Ayer Bemban"
     ],
     "name:und_x_variant":[
         "Kangkar Batu",
         "Kampong Ayer Bemban",
-        "Ayer Bemban",
         "Kampong Air Bemban"
     ],
     "src:geom":"geonames",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1243278195,
-    "wof:lastmodified":1537673667,
+    "wof:lastmodified":1566644235,
     "wof:name":"Ayer Bemban",
     "wof:parent_id":1108696433,
     "wof:placetype":"locality",

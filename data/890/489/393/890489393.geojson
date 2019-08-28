@@ -11,11 +11,15 @@
     "geom:longitude":100.98333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.96333,5.64667,101.00333,5.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u062a\u0627\u0633\u06cc\u06a9"
     ],
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "Tasik"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tasek"
     ],
     "name:vie_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":1734446,
         "gp:id":1154338,
-        "qs:id":1012980,
+        "qs_pg:id":1012980,
         "wk:page":"Tasik"
     },
     "wof:country":"MY",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":890489393,
-    "wof:lastmodified":1564192157,
+    "wof:lastmodified":1566644005,
     "wof:name":"Tasik",
     "wof:parent_id":890489739,
     "wof:placetype":"locality",

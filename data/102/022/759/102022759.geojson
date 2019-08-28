@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":1.633716,
     "lbl:longitude":103.295337,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":1.633716,
     "mps:longitude":103.295337,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Benut"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":1732705,
         "gp:id":1154605,
-        "qs:id":241569,
         "qs_pg:id":241569,
         "wd:id":"Q4890696",
         "wk:page":"Benut"
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":102022759,
-    "wof:lastmodified":1561751670,
+    "wof:lastmodified":1566642316,
     "wof:name":"Benut",
     "wof:parent_id":890491001,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.201865,
     "lbl:longitude":100.524239,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.201865,
     "mps:longitude":100.524239,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u0648\u064a"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":87,
     "wof:belongsto":[
         102191569,
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":1772983,
         "gp:id":1154683,
-        "qs:id":7076,
         "qs_pg:id":7076
     },
     "wof:country":"MY",
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":102023893,
-    "wof:lastmodified":1564190035,
+    "wof:lastmodified":1566642254,
     "wof:name":"Jawi",
     "wof:parent_id":1108696503,
     "wof:placetype":"locality",

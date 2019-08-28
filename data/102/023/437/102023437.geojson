@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.987481,
     "lbl:longitude":100.788074,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.987481,
     "mps:longitude":100.788074,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bagan Datoh"
     ],
@@ -39,7 +42,7 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0b95\u0bbe\u0ba9\u0bcd \u0b9f\u0ba4\u0bcd\u0ba4\u0bcb"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bagan Datok"
     ],
     "name:zho_x_preferred":[
@@ -63,9 +66,8 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":187,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         85632739,
@@ -76,7 +78,6 @@
     "wof:concordances":{
         "gn:id":1735179,
         "gp:id":1140710,
-        "qs:id":212052,
         "qs_pg:id":212052,
         "wd:id":"Q4841432"
     },
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":102023437,
-    "wof:lastmodified":1563238554,
+    "wof:lastmodified":1566642250,
     "wof:name":"Bagan Datuk",
     "wof:parent_id":890490073,
     "wof:placetype":"locality",

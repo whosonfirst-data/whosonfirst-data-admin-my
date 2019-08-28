@@ -11,11 +11,14 @@
     "geom:longitude":100.30185,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.29685,5.32656,100.30685,5.33656",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Taman Sri Nibong",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Pulau Pinang",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":6812428,
         "gp:id":56037177,
-        "qs:id":321496
+        "qs_pg:id":321496
     },
     "wof:country":"MY",
     "wof:created":1469054731,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890488747,
-    "wof:lastmodified":1505343783,
+    "wof:lastmodified":1566643945,
     "wof:name":"Taman Sri Nibong",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

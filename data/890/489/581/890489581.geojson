@@ -11,15 +11,19 @@
     "geom:longitude":100.1792,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.1592,6.38953,100.1992,6.42953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Seriap"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Seriab"
     ],
     "qs:name":"Kampong Seriap",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1764489,
         "gp:id":1148566,
-        "qs:id":1060900
+        "qs_pg:id":1060900
     },
     "wof:country":"MY",
     "wof:created":1469054762,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890489581,
-    "wof:lastmodified":1505343786,
+    "wof:lastmodified":1566643996,
     "wof:name":"Kampong Seriap",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

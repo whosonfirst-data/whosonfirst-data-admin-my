@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.25529,6.54993,100.29529,6.58993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kubang Tiga"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243383501,
-    "wof:lastmodified":1537673735,
+    "wof:lastmodified":1566644038,
     "wof:name":"Kampung Kubang Tiga",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":100.39537,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.39037,6.11271,100.40037,6.12271",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Kiara"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":6807165,
         "gp:id":56035275,
-        "qs:id":1189315
+        "qs_pg:id":1189315
     },
     "wof:country":"MY",
     "wof:created":1469054833,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890490941,
-    "wof:lastmodified":1505343790,
+    "wof:lastmodified":1566643889,
     "wof:name":"Taman Ara",
     "wof:parent_id":102023629,
     "wof:placetype":"neighbourhood",

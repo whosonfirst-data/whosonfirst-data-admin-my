@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000439,
-    "geom:area_square_m":5424534.627083,
+    "geom:area_square_m":5424534.627071,
     "geom:bbox":"111.057295846,1.07304170726,111.086258839,1.09113625766",
     "geom:latitude":1.082089,
     "geom:longitude":111.071777,
@@ -14,10 +14,14 @@
     "iso:country":"MY",
     "lbl:latitude":1.082089,
     "lbl:longitude":111.071777,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":1.082089,
     "mps:longitude":111.071777,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Pantu Bazaar"
     ],
     "qs:a0":"Malaysia",
@@ -38,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -49,7 +53,6 @@
     "wof:concordances":{
         "gn:id":1735753,
         "gp:id":1154987,
-        "qs:id":908985,
         "qs_pg:id":908985
     },
     "wof:country":"MY",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102023581,
-    "wof:lastmodified":1497295050,
+    "wof:lastmodified":1566642259,
     "wof:name":"Pantu",
     "wof:parent_id":1108696523,
     "wof:placetype":"locality",

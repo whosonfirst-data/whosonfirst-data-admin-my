@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.0186,5.3569,103.0586,5.3969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Baluh"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276742579,
-    "wof:lastmodified":1537674459,
+    "wof:lastmodified":1566642939,
     "wof:name":"Kampung Baluh",
     "wof:parent_id":890490947,
     "wof:placetype":"locality",

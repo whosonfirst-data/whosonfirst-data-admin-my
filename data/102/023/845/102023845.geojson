@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005779,
-    "geom:area_square_m":70883912.832471,
+    "geom:area_square_m":70883912.832433,
     "geom:bbox":"112.573343132,7.04278892295,112.81117858,7.35516460648",
     "geom:latitude":7.272486,
     "geom:longitude":112.730495,
@@ -14,14 +14,17 @@
     "iso:country":"MY",
     "lbl:latitude":7.291632,
     "lbl:longitude":112.727752,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":7.291632,
     "mps:longitude":112.727752,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Surabaya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Surabaya"
     ],
     "qs:a1":"*",
@@ -35,9 +38,8 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":162,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85632739
     ],
@@ -54,7 +56,7 @@
         }
     ],
     "wof:id":102023845,
-    "wof:lastmodified":1527636453,
+    "wof:lastmodified":1566642244,
     "wof:name":"Kampung Surabaya",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":101.328519,
     "gn:country":"MY",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":3.44601,
     "lbl:longitude":101.331457,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SELANGOR",
     "meso:diss_me":"KUALA SELANGORSELANGOR",
     "meso:gadm_admin":"Kuala Selangor",
@@ -35,6 +37,7 @@
     "mps:longitude":101.331457,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0627\u0644\u0627 \u0633\u0644\u0627\u063a\u0648\u0631"
     ],
@@ -101,9 +104,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"1,178.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Kuala Selangor",
@@ -125,7 +128,7 @@
         "gn:id":1732890,
         "gp:id":56013549,
         "hasc:id":"MY.SL.KS",
-        "qs:id":361630,
+        "qs_pg:id":361630,
         "wd:id":"Q3267302",
         "wk:page":"Kuala Selangor District"
     },
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":890488801,
-    "wof:lastmodified":1563240668,
+    "wof:lastmodified":1566643967,
     "wof:name":"Kuala Selangor",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

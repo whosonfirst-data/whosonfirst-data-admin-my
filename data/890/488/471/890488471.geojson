@@ -11,8 +11,12 @@
     "geom:longitude":101.76228,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.66228,2.962958,101.86228,3.162958",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Cheras",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014384,
-        "qs:id":1294686
+        "qs_pg:id":1294686
     },
     "wof:country":"MY",
     "wof:created":1469054720,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890488471,
-    "wof:lastmodified":1500013465,
+    "wof:lastmodified":1566643931,
     "wof:name":"Cheras",
     "wof:parent_id":1108696543,
     "wof:placetype":"localadmin",

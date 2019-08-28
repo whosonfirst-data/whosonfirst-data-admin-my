@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"99.76791,6.33196,99.80791,6.37196",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310014515,
-    "wof:lastmodified":1536628501,
+    "wof:lastmodified":1566643610,
     "wof:name":"Kampung Baru Ulu Melaka",
     "wof:parent_id":1108696443,
     "wof:placetype":"locality",

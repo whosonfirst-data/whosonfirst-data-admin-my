@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.2526,2.1947,102.2926,2.2347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Setia Kawan"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243006253,
-    "wof:lastmodified":1537674426,
+    "wof:lastmodified":1566644040,
     "wof:name":"Taman Setia Kawan",
     "wof:parent_id":890489715,
     "wof:placetype":"locality",

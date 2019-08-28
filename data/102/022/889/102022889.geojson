@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.674194,
     "lbl:longitude":116.363675,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.674194,
     "mps:longitude":116.363675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tambunan"
     ],
@@ -42,7 +45,7 @@
     "name:nor_x_preferred":[
         "Tambunan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tibabar"
     ],
     "name:vie_x_preferred":[
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":411,
     "wof:belongsto":[
         102191569,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":1733468,
         "gp:id":1154256,
-        "qs:id":183670,
         "qs_pg:id":183670,
         "wd:id":"Q1891105"
     },
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":102022889,
-    "wof:lastmodified":1563238655,
+    "wof:lastmodified":1566642304,
     "wof:name":"Tambunan",
     "wof:parent_id":1108696525,
     "wof:placetype":"locality",

@@ -11,15 +11,18 @@
     "geom:longitude":117.0724,
     "gn:country":"MY",
     "gn:fcode":"MT",
-    "gn:pop":4549,
+    "gn:population":4549,
     "iso:country":"MY",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:msa_x_preferred":[
         "Gunong Kuli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gunung Kuli"
     ],
     "qs:name":"Gunong Kuli",
@@ -37,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1733567,
         "gp:id":1154678,
-        "qs:id":558784
+        "qs_pg:id":558784
     },
     "wof:country":"MY",
     "wof:created":1469054709,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":890488175,
-    "wof:lastmodified":1505343781,
+    "wof:lastmodified":1566643948,
     "wof:name":"Gunong Kuli",
     "wof:parent_id":1108696539,
     "wof:placetype":"locality",

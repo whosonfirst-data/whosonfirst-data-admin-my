@@ -11,8 +11,11 @@
     "geom:longitude":101.692938,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.687938,3.131274,101.697938,3.141274",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Istana Negara"
     ],
@@ -44,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015218,
-        "qs:id":901214,
+        "qs_pg:id":901214,
         "wk:page":"Istana Negara"
     },
     "wof:country":"MY",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890490741,
-    "wof:lastmodified":1564192053,
+    "wof:lastmodified":1566643894,
     "wof:name":"Istana Negara",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

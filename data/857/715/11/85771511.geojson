@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4045520.384349,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.317128,5.387564,100.317128,5.387564",
     "geom:latitude":5.387564,
     "geom:longitude":100.317128,
     "gn:latitude":5.38998,
     "gn:longitude":100.31885,
     "iso:country":"MY",
+    "lbl:bbox":"100.312128,5.382564,100.322128,5.392564",
     "lbl:latitude":5.387564,
     "lbl:longitude":100.317128,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.38193,
     "mps:longitude":100.3237,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Jelutong"
     ],
     "name:msa_x_preferred":[
-        "Jelutong"
-    ],
-    "name:unk_x_variant":[
         "Jelutong"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -63,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023367,
-        1108696537,
-        85675127
+        1108696537
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1772808,
         "gp:id":1141231,
-        "qs:id":1145942,
         "qs_pg:id":1145942
     },
     "wof:country":"MY",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859429,
+    "wof:lastmodified":1566642594,
     "wof:name":"Jelutong",
     "wof:parent_id":102023367,
     "wof:placetype":"neighbourhood",

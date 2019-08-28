@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.224962,
     "lbl:longitude":101.719339,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.222123,
     "mps:longitude":101.720826,
     "mz:hierarchy_label":1,
@@ -24,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
-    "name:und_x_preferred":[
-        "Taman Gombak Setia"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Gombak Setia"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -54,7 +52,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -65,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56036337,
-        "qs:id":8008
+        "qs_pg:id":8008
     },
     "wof:country":"MY",
     "wof:geomhash":"840b7cf0290c565665a9cba2d3bc7fd1",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269419,
+    "wof:lastmodified":1566642592,
     "wof:name":"Taman Gombak Setia",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

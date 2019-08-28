@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":2.892745,
     "lbl:longitude":112.096651,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":2.892745,
     "mps:longitude":112.096651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0643\u0647"
     ],
@@ -114,9 +117,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u043a\u0430\u0433"
     ],
-    "name:unk_x_variant":[
-        "Muka"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u06a9\u0627\u062d"
     ],
@@ -137,7 +137,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1101,
     "wof:belongsto":[
         102191569,
@@ -164,7 +164,7 @@
         }
     ],
     "wof:id":102023515,
-    "wof:lastmodified":1561751666,
+    "wof:lastmodified":1566642297,
     "wof:name":"Mukah",
     "wof:parent_id":1108696469,
     "wof:placetype":"locality",

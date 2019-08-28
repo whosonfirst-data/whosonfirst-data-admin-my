@@ -11,8 +11,12 @@
     "geom:longitude":101.841758,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.821758,3.373719,101.861758,3.413719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bukit Tinggi"
     ],
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015103,
-        "qs:id":891098
+        "qs_pg:id":891098
     },
     "wof:country":"MY",
     "wof:created":1469054732,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890488781,
-    "wof:lastmodified":1564192122,
+    "wof:lastmodified":1566643969,
     "wof:name":"Bukit Tinggi",
     "wof:parent_id":1108696389,
     "wof:placetype":"locality",

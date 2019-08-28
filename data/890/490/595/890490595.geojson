@@ -11,11 +11,15 @@
     "geom:longitude":103.0361,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.0161,3.8978,103.0561,3.9378",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sungai Lembing"
     ],
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1735222,
         "gp:id":1155156,
-        "qs:id":188487,
+        "qs_pg:id":188487,
         "wd:id":"Q7640157",
         "wk:page":"Sungai Lembing"
     },
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":890490595,
-    "wof:lastmodified":1561751758,
+    "wof:lastmodified":1566643871,
     "wof:name":"Sungai Lembing",
     "wof:parent_id":890490895,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9260451.948093,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.396222,5.382379,100.396222,5.382379",
     "geom:latitude":5.382379,
     "geom:longitude":100.396222,
     "gn:latitude":5.44434,
     "gn:longitude":100.41891,
     "iso:country":"MY",
+    "lbl:bbox":"100.391222,5.377379,100.401222,5.387379",
     "lbl:latitude":5.382379,
     "lbl:longitude":100.396222,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.378039,
     "mps:longitude":100.402342,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:msa_x_preferred":[
         "Kampung Telok"
-    ],
-    "name:unk_x_variant":[
-        "Kampong Telok"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -62,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102023327
     ],
@@ -70,7 +69,7 @@
     "wof:concordances":{
         "gn:id":1763113,
         "gp:id":1149923,
-        "qs:id":994459
+        "qs_pg:id":994459
     },
     "wof:country":"MY",
     "wof:geomhash":"f4afe6c1fa3135571166fb93d39d996f",
@@ -87,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859451,
+    "wof:lastmodified":1566642614,
     "wof:name":"Kampong Telok",
     "wof:parent_id":102023327,
     "wof:placetype":"neighbourhood",

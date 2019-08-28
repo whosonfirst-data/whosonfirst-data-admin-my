@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00219,
-    "geom:area_square_m":27018521.196542,
+    "geom:area_square_m":27018521.196554,
     "geom:bbox":"113.715979004,3.76204158284,113.766930719,3.84588738693",
     "geom:latitude":3.810823,
     "geom:longitude":113.742582,
@@ -14,11 +14,14 @@
     "iso:country":"MY",
     "lbl:latitude":3.816392,
     "lbl:longitude":113.74162,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.816392,
     "mps:longitude":113.74162,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Kampong Niah"
     ],
     "qs:a0":"Malaysia",
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -50,7 +53,6 @@
     "wof:concordances":{
         "gn:id":1737247,
         "gp:id":1154956,
-        "qs:id":791176,
         "qs_pg:id":791176
     },
     "wof:country":"MY",
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":102023745,
-    "wof:lastmodified":1497302067,
+    "wof:lastmodified":1566642294,
     "wof:name":"Niah",
     "wof:parent_id":890488483,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":100.37169,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.36669,5.40824,100.37669,5.41824",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Kampung Gajah"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1769485,
         "gp:id":1143543,
-        "qs:id":272019
+        "qs_pg:id":272019
     },
     "wof:country":"MY",
     "wof:created":1469054714,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":890488311,
-    "wof:lastmodified":1505343782,
+    "wof:lastmodified":1566643969,
     "wof:name":"Kampong Gajah",
     "wof:parent_id":102023321,
     "wof:placetype":"neighbourhood",

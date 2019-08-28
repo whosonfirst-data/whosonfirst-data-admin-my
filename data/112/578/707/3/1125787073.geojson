@@ -9,14 +9,18 @@
     "geom:bbox":"103.61504,2.65568,103.61504,2.65568",
     "geom:latitude":2.65568,
     "geom:longitude":103.61504,
-    "gn:gn_country":"MY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MY",
+    "lbl:bbox":"103.59504,2.63568,103.63504,2.67568",
     "lbl:latitude":2.65568,
     "lbl:longitude":103.61504,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Endau"
@@ -31,9 +35,6 @@
         "Endau"
     ],
     "name:nld_x_preferred":[
-        "Endau"
-    ],
-    "name:unk_x_variant":[
         "Endau"
     ],
     "name:zho_x_preferred":[
@@ -56,7 +57,7 @@
     "qs_pg:woe_adm0":23424901,
     "qs_pg:woe_id":1154963,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424901,
     "woe:name_adm0":"Malaysia",
     "woe:name_adm1":"Pahang",
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1125787073,
-    "wof:lastmodified":1561751771,
+    "wof:lastmodified":1566644031,
     "wof:name":"Padang Endau",
     "wof:parent_id":1108696497,
     "wof:placetype":"locality",

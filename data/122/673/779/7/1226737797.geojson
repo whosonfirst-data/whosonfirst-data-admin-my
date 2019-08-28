@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.5137,4.7481,115.5537,4.7881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Puteh"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226737797,
-    "wof:lastmodified":1537673943,
+    "wof:lastmodified":1566644483,
     "wof:name":"Kampung Puteh",
     "wof:parent_id":1108696445,
     "wof:placetype":"locality",

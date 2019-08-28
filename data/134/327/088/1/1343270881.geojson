@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.82498,5.98343,100.86498,6.02343",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampong Pengkalan Batu"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343270881,
-    "wof:lastmodified":1564190325,
+    "wof:lastmodified":1566642535,
     "wof:name":"Kampong Pengkalan Batu",
     "wof:parent_id":1108696515,
     "wof:placetype":"locality",

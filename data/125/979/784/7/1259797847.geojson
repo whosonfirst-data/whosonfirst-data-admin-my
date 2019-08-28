@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.068,1.8319,103.108,1.8719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Parit Jelutong"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259797847,
-    "wof:lastmodified":1537673984,
+    "wof:lastmodified":1566644325,
     "wof:name":"Kampung Parit Jelutong",
     "wof:parent_id":890490999,
     "wof:placetype":"locality",

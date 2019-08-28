@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":1.180458,
     "lbl:longitude":110.557234,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":1.180458,
     "mps:longitude":110.557234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Serian"
     ],
@@ -204,7 +207,7 @@
     "name:swe_x_preferred":[
         "Serian"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Serian Bazaar"
     ],
     "name:vec_x_preferred":[
@@ -252,7 +255,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -263,7 +266,6 @@
     "wof:concordances":{
         "gn:id":1744288,
         "gp:id":1155111,
-        "qs:id":136175,
         "qs_pg:id":136175,
         "wd:id":"Q3479787",
         "wk:page":"Serian Division"
@@ -280,7 +282,7 @@
         }
     ],
     "wof:id":102023801,
-    "wof:lastmodified":1563238626,
+    "wof:lastmodified":1566642286,
     "wof:name":"Serian",
     "wof:parent_id":1108696511,
     "wof:placetype":"locality",

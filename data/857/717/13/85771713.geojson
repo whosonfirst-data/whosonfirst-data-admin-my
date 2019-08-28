@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2214955.191317,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.312729,5.44444,100.312729,5.44444",
     "geom:latitude":5.44444,
     "geom:longitude":100.312729,
     "gn:latitude":5.448,
     "gn:longitude":100.30665,
     "iso:country":"MY",
+    "lbl:bbox":"100.307729,5.43944,100.317729,5.44944",
     "lbl:latitude":5.44444,
     "lbl:longitude":100.312729,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.44434,
     "mps:longitude":100.316741,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:und_x_variant":[
         "Kampung Raya Baru"
-    ],
-    "name:unk_x_variant":[
-        "Kampong Raya Baharu"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -66,19 +65,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023367,
-        1108696537,
-        85675127
+        1108696537
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1765038,
         "gp:id":1147998,
-        "qs:id":1167916,
         "qs_pg:id":1167916
     },
     "wof:country":"MY",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859447,
+    "wof:lastmodified":1566642616,
     "wof:name":"Kampong Raya Baharu",
     "wof:parent_id":102023367,
     "wof:placetype":"neighbourhood",

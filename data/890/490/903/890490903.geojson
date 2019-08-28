@@ -11,8 +11,12 @@
     "geom:longitude":101.756401,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.736401,2.717986,101.776401,2.757986",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Labu"
     ],
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015544,
-        "qs:id":1164349,
+        "qs_pg:id":1164349,
         "wd:id":"Q15241197",
         "wk:page":"Labu"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890490903,
-    "wof:lastmodified":1563240556,
+    "wof:lastmodified":1566643897,
     "wof:name":"Labu",
     "wof:parent_id":890489971,
     "wof:placetype":"locality",

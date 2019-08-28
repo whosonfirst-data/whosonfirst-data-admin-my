@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.48556,5.96376,100.52556,6.00376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Gajah Mati"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293792821,
-    "wof:lastmodified":1537674120,
+    "wof:lastmodified":1566642702,
     "wof:name":"Kampung Gajah Mati",
     "wof:parent_id":890489109,
     "wof:placetype":"locality",

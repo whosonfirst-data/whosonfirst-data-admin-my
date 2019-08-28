@@ -11,8 +11,12 @@
     "geom:longitude":103.149647,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.129647,3.776685,103.169647,3.816685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Panching Selatan",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Pahang",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015611,
-        "qs:id":212967
+        "qs_pg:id":212967
     },
     "wof:country":"MY",
     "wof:created":1469054823,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890490761,
-    "wof:lastmodified":1500013440,
+    "wof:lastmodified":1566643901,
     "wof:name":"Panching Selatan",
     "wof:parent_id":890490895,
     "wof:placetype":"locality",

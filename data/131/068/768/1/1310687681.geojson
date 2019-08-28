@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.1894,5.1891,103.2294,5.2291",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Bukit Batu Merah"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310687681,
-    "wof:lastmodified":1537674327,
+    "wof:lastmodified":1566643681,
     "wof:name":"Bukit Batu Merah",
     "wof:parent_id":890490535,
     "wof:placetype":"locality",

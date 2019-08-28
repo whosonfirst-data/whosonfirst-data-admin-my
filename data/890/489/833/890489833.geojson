@@ -11,8 +11,12 @@
     "geom:longitude":103.653988,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.553988,1.430216,103.753988,1.630216",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Pulai",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Johor",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014111,
-        "qs:id":1111825
+        "qs_pg:id":1111825
     },
     "wof:country":"MY",
     "wof:created":1469054772,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489833,
-    "wof:lastmodified":1500013336,
+    "wof:lastmodified":1566643993,
     "wof:name":"Pulai",
     "wof:parent_id":1108696403,
     "wof:placetype":"localadmin",

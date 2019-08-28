@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.0164,5.1557,103.0564,5.1957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Getang Hulu"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226118849,
-    "wof:lastmodified":1537674113,
+    "wof:lastmodified":1566644492,
     "wof:name":"Kampung Getang Hulu",
     "wof:parent_id":890488201,
     "wof:placetype":"locality",

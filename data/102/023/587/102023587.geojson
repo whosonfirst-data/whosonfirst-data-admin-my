@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":2.048514,
     "lbl:longitude":111.912366,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":2.048514,
     "mps:longitude":111.912366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Julau"
     ],
@@ -39,7 +42,7 @@
     "name:nld_x_preferred":[
         "Julau"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nanga Julan"
     ],
     "name:vie_x_preferred":[
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":661,
     "wof:belongsto":[
         102191569,
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":1735889,
         "gp:id":1154699,
-        "qs:id":136157,
         "qs_pg:id":136157,
         "wd:id":"Q6305615",
         "wk:page":"Julau"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":102023587,
-    "wof:lastmodified":1563238582,
+    "wof:lastmodified":1566642265,
     "wof:name":"Julau",
     "wof:parent_id":1108696405,
     "wof:placetype":"locality",

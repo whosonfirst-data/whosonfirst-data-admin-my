@@ -11,8 +11,12 @@
     "geom:longitude":100.290069,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.190069,6.005906,100.390069,6.205906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kuala Kedah"
     ],
@@ -268,7 +272,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56013697,
-        "qs:id":221121,
+        "qs_pg:id":221121,
         "wd:id":"Q1078157",
         "wk:page":"Kuala Kedah"
     },
@@ -285,7 +289,7 @@
         }
     ],
     "wof:id":890490793,
-    "wof:lastmodified":1563240555,
+    "wof:lastmodified":1566643897,
     "wof:name":"Kuala Kedah",
     "wof:parent_id":890490361,
     "wof:placetype":"localadmin",

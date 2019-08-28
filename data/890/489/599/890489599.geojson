@@ -11,11 +11,15 @@
     "geom:longitude":101.0786,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.0586,4.6172,101.0986,4.6572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taman Semarak"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7473440,
         "gp:id":56036287,
-        "qs:id":1062150,
+        "qs_pg:id":1062150,
         "wd:id":"Q7680650",
         "wk:page":"Taman Semarak"
     },
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890489599,
-    "wof:lastmodified":1563240733,
+    "wof:lastmodified":1566644002,
     "wof:name":"Taman Semarak",
     "wof:parent_id":890490953,
     "wof:placetype":"locality",

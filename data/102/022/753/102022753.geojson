@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":1.828308,
     "lbl:longitude":103.309225,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":1.828308,
     "mps:longitude":103.309225,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Simpang Renggam"
     ],
@@ -30,7 +33,7 @@
     "name:spa_x_preferred":[
         "Simpang Renggam"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Simpang Rengam"
     ],
     "name:zho_x_preferred":[
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":100,
     "wof:belongsto":[
         102191569,
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":1732700,
         "gp:id":1154041,
-        "qs:id":472008,
         "qs_pg:id":472008,
         "wd:id":"Q7520586",
         "wk:page":"Simpang Renggam"
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":102022753,
-    "wof:lastmodified":1561751667,
+    "wof:lastmodified":1566642301,
     "wof:name":"Simpang Renggam",
     "wof:parent_id":1108696417,
     "wof:placetype":"locality",

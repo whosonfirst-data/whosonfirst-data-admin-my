@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001452,
-    "geom:area_square_m":17866615.341645,
+    "geom:area_square_m":17866615.34164,
     "geom:bbox":"102.531869336,5.77723378711,102.584838867,5.81275691375",
     "geom:latitude":5.794496,
     "geom:longitude":102.556525,
@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.796361,
     "lbl:longitude":102.550716,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.796361,
     "mps:longitude":102.550716,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Malaysia",
     "qs:a1":"*Kelantan",
     "qs:a1r":"*",
@@ -34,7 +37,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -45,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1765146,
         "gp:id":1147887,
-        "qs:id":193487
+        "qs_pg:id":193487
     },
     "wof:country":"MY",
     "wof:geomhash":"930d2d1fcf3cdfc3d550c8df8a9d44a3",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102023851,
-    "wof:lastmodified":1500013526,
+    "wof:lastmodified":1566642253,
     "wof:name":"Kampong Raja",
     "wof:parent_id":890488399,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000113,
-    "geom:area_square_m":1394143.409509,
+    "geom:area_square_m":1394143.409501,
     "geom:bbox":"101.664733887,3.1240612305,101.675720215,3.13640240565",
     "geom:latitude":3.130494,
     "geom:longitude":101.670297,
@@ -14,6 +14,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.130675,
     "lbl:longitude":101.670774,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.130488,
     "mps:longitude":101.670193,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
     ],
     "name:und_x_variant":[
         "Bangsar Baharu"
-    ],
-    "name:unk_x_variant":[
-        "Bangsar Baru"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -68,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -80,7 +78,6 @@
     "wof:concordances":{
         "gn:id":1781372,
         "gp:id":55862673,
-        "qs:id":1115475,
         "qs_pg:id":1115475
     },
     "wof:country":"MY",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497316707,
+    "wof:lastmodified":1566642583,
     "wof:name":"Bangsar Baru",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

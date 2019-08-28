@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"118.56319,4.43668,118.60319,4.47668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bubol",
         "Bubul",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293856399,
-    "wof:lastmodified":1537673687,
+    "wof:lastmodified":1566642717,
     "wof:name":"Kampung Bubul",
     "wof:parent_id":1108696507,
     "wof:placetype":"locality",

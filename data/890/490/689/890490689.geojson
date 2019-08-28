@@ -11,11 +11,15 @@
     "geom:longitude":100.28296,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.26296,5.31096,100.30296,5.35096",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Relau"
     ],
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1748731,
         "gp:id":56015684,
-        "qs:id":208187,
+        "qs_pg:id":208187,
         "wd:id":"Q7310848",
         "wk:page":"Relau"
     },
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890490689,
-    "wof:lastmodified":1563240522,
+    "wof:lastmodified":1566643879,
     "wof:name":"Relau",
     "wof:parent_id":1108696537,
     "wof:placetype":"locality",

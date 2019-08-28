@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.146444,
     "lbl:longitude":101.645808,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.143354,
     "mps:longitude":101.645812,
     "mz:hierarchy_label":1,
@@ -28,9 +29,6 @@
         "Bukit Kiara"
     ],
     "name:msa_x_preferred":[
-        "Bukit Kiara"
-    ],
-    "name:unk_x_variant":[
         "Bukit Kiara"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":3.134722,
     "wd:longitude":101.641111,
     "wd:wordcount":362,
@@ -73,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55862701,
-        "qs:id":430572,
         "qs_pg:id":430572,
         "wd:id":"Q4986913"
     },
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561751690,
+    "wof:lastmodified":1566642584,
     "wof:name":"Bukit Kiara",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.29667,5.43,100.33667,5.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:vie_x_preferred":[
         "Bagan Jermal"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1276329063,
-    "wof:lastmodified":1564190853,
+    "wof:lastmodified":1566642979,
     "wof:name":"Bagan Jermal",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

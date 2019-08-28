@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.037016,
     "lbl:longitude":101.415538,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SELANGOR",
     "meso:diss_me":"KLANGSELANGOR",
     "meso:gadm_admin":"Klang",
@@ -31,6 +33,7 @@
     "mps:longitude":101.415538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u0627\u063a"
     ],
@@ -155,9 +158,9 @@
         "\u5df4\u751f\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"627.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Klang",
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":1108696415,
-    "wof:lastmodified":1563240116,
+    "wof:lastmodified":1566643526,
     "wof:name":"Klang",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

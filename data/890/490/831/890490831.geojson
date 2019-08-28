@@ -12,8 +12,12 @@
     "gn:country":"MY",
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.343805,2.6493935,101.543805,2.8493935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Morib"
     ],
@@ -44,7 +48,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014512,
-        "qs:id":225324,
+        "qs_pg:id":225324,
         "wd:id":"Q6912158",
         "wk:page":"Morib"
     },
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890490831,
-    "wof:lastmodified":1563240575,
+    "wof:lastmodified":1566643908,
     "wof:name":"Morib",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

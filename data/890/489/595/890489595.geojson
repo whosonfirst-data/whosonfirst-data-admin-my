@@ -11,15 +11,18 @@
     "geom:longitude":103.9302,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.9252,1.4331,103.9352,1.4431",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Kampung Pasir Puteh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Pasir"
     ],
     "qs:name":"Taman Pasir Puteh",
@@ -40,7 +43,7 @@
     "wof:concordances":{
         "gn:id":1766018,
         "gp:id":56036134,
-        "qs:id":1062141
+        "qs_pg:id":1062141
     },
     "wof:country":"MY",
     "wof:created":1469054763,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890489595,
-    "wof:lastmodified":1505343786,
+    "wof:lastmodified":1566643979,
     "wof:name":"Taman Pasir Puteh",
     "wof:parent_id":102022765,
     "wof:placetype":"neighbourhood",

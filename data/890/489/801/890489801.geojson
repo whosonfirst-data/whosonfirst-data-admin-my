@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":4.988013,
     "lbl:longitude":100.586921,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"PERAK",
     "meso:diss_me":"KERIANPERAK",
     "meso:gadm_admin":"Kerian",
@@ -32,6 +34,7 @@
     "mps:longitude":100.586921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Parit Buntar"
     ],
@@ -74,9 +77,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"958.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Parit Buntar",
@@ -97,7 +100,7 @@
     "wof:concordances":{
         "gp:id":56013575,
         "hasc:id":"MY.PK.KE",
-        "qs:id":1111779,
+        "qs_pg:id":1111779,
         "wd:id":"Q2674376",
         "wk:page":"Kerian District"
     },
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890489801,
-    "wof:lastmodified":1563240761,
+    "wof:lastmodified":1566644015,
     "wof:name":"Kerian",
     "wof:parent_id":85675123,
     "wof:placetype":"county",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10142107.646456,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.575969,3.046208,101.575969,3.046208",
     "geom:latitude":3.046208,
     "geom:longitude":101.575969,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.570969,3.041208,101.580969,3.051208",
     "lbl:latitude":3.046208,
     "lbl:longitude":101.575969,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.049096,
     "mps:longitude":101.571383,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Taman Perindustrian"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Perindustrian"
     ],
     "qs:gn_id":0,
@@ -56,18 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102022703,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56016695,
-        "qs:id":183184,
         "qs_pg:id":183184
     },
     "wof:country":"MY",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860581,
+    "wof:lastmodified":1566642596,
     "wof:name":"Taman Perindustrian",
     "wof:parent_id":102022703,
     "wof:placetype":"neighbourhood",

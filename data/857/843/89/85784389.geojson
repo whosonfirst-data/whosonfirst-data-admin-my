@@ -14,6 +14,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.17462,
     "lbl:longitude":101.676674,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.174853,
     "mps:longitude":101.675924,
     "mz:hierarchy_label":1,
@@ -31,10 +32,7 @@
     "name:msa_x_preferred":[
         "Taman Tunku Muda"
     ],
-    "name:und_x_preferred":[
-        "Taman Tunku"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Tunku"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -65,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":41,
     "wof:belongsto":[
         85675181,
@@ -78,7 +76,6 @@
     "wof:concordances":{
         "gn:id":7796746,
         "gp:id":56035812,
-        "qs:id":1164339,
         "qs_pg:id":1164339,
         "wd:id":"Q7391244"
     },
@@ -98,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563239017,
+    "wof:lastmodified":1566642587,
     "wof:name":"Taman Tunku",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

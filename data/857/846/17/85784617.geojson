@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2434872.798197,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.126404,4.590114,101.126404,4.590114",
     "geom:latitude":4.590114,
     "geom:longitude":101.126404,
     "gn:latitude":4.5954,
     "gn:longitude":101.1275,
     "iso:country":"MY",
+    "lbl:bbox":"101.121404,4.585114,101.131404,4.595114",
     "lbl:latitude":4.590114,
     "lbl:longitude":101.126404,
+    "lbl:max_zoom":18.0,
     "mps:latitude":4.587958,
     "mps:longitude":101.128425,
     "mz:hierarchy_label":0,
@@ -28,10 +30,7 @@
     "name:msa_x_preferred":[
         "Taman Cempaka"
     ],
-    "name:und_x_preferred":[
-        "Taman Desa Chempaka"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Desa Chempaka"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -63,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675123,
         102191569,
         85632739,
         102023021,
-        890490953,
-        85675123
+        890490953
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7612464,
         "gp:id":56037694,
-        "qs:id":1207200,
         "qs_pg:id":1207200
     },
     "wof:country":"MY",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860634,
+    "wof:lastmodified":1566642599,
     "wof:name":"Taman Desa Chempaka",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

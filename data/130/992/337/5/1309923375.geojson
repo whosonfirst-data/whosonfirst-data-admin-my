@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.74667,2.63,102.78667,2.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Spang Loi",
         "Kampung Sepang Loi"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309923375,
-    "wof:lastmodified":1537673914,
+    "wof:lastmodified":1566643831,
     "wof:name":"Kampung Sepang Loi",
     "wof:parent_id":890488717,
     "wof:placetype":"locality",

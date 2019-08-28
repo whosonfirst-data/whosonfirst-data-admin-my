@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.6772,1.4771,103.7172,1.5171",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Pasir"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276232047,
-    "wof:lastmodified":1537673981,
+    "wof:lastmodified":1566643038,
     "wof:name":"Kampung Pasir",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

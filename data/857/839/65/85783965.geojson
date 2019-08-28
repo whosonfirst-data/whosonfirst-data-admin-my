@@ -11,8 +11,10 @@
     "geom:longitude":101.611229,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.606229,3.153678,101.616229,3.163678",
     "lbl:latitude":3.158678,
     "lbl:longitude":101.611229,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.159713,
     "mps:longitude":101.609431,
     "mz:hierarchy_label":0,
@@ -31,12 +33,6 @@
         "\u30e0\u30c6\u30a3\u30a2\u30e9 \u30c0\u30de\u30f3\u30b5\u30e9"
     ],
     "name:msa_x_preferred":[
-        "Mutiara Damansara"
-    ],
-    "name:und_x_preferred":[
-        "Mutiara Damansara"
-    ],
-    "name:unk_x_variant":[
         "Mutiara Damansara"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":288,
     "wof:belongsto":[
         85675163,
@@ -82,7 +78,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015592,
-        "qs:id":115500,
         "qs_pg:id":115500,
         "wd:id":"Q6943920"
     },
@@ -102,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563239050,
+    "wof:lastmodified":1566642611,
     "wof:name":"Mutiara Damansara",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

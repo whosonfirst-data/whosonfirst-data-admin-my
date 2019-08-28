@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.43,2.11333,102.47,2.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Baroh",
         "Kampong Parit Derhaka"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309929883,
-    "wof:lastmodified":1537673985,
+    "wof:lastmodified":1566643834,
     "wof:name":"Kampong Parit Derhaka",
     "wof:parent_id":890489809,
     "wof:placetype":"locality",

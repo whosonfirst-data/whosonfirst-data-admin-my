@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.0922,2.5576,102.1322,2.5976",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Keling"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343457785,
-    "wof:lastmodified":1537674078,
+    "wof:lastmodified":1566642537,
     "wof:name":"Kampung Keling",
     "wof:parent_id":890490863,
     "wof:placetype":"locality",

@@ -11,8 +11,12 @@
     "geom:longitude":103.195266,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.095266,1.559218,103.295266,1.759218",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Benut"
     ],
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014391,
-        "qs:id":262968,
+        "qs_pg:id":262968,
         "wd:id":"Q4890696",
         "wk:page":"Benut"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890488385,
-    "wof:lastmodified":1563240634,
+    "wof:lastmodified":1566643947,
     "wof:name":"Benut",
     "wof:parent_id":890490999,
     "wof:placetype":"localadmin",

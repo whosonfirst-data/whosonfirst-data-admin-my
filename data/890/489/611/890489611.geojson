@@ -11,11 +11,15 @@
     "geom:longitude":101.8033,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.7833,2.9822,101.8233,3.0222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Megah"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":7688618,
         "gp:id":56037498,
-        "qs:id":1062155
+        "qs_pg:id":1062155
     },
     "wof:country":"MY",
     "wof:created":1469054763,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890489611,
-    "wof:lastmodified":1505343786,
+    "wof:lastmodified":1566643988,
     "wof:name":"Taman Megah",
     "wof:parent_id":1108696543,
     "wof:placetype":"locality",

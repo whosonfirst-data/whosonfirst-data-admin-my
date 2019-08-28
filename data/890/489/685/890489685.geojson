@@ -11,8 +11,12 @@
     "geom:longitude":101.68205,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.66205,2.7742725,101.70205,2.8142725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Masjid Klia",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56035484,
-        "qs:id":7788
+        "qs_pg:id":7788
     },
     "wof:country":"MY",
     "wof:created":1469054766,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489685,
-    "wof:lastmodified":1500013491,
+    "wof:lastmodified":1566644008,
     "wof:name":"Masjid Klia",
     "wof:parent_id":890489971,
     "wof:placetype":"locality",

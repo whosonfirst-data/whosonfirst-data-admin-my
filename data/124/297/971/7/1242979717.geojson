@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.50489,5.88526,100.54489,5.92526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Baloh"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242979717,
-    "wof:lastmodified":1537674191,
+    "wof:lastmodified":1566644226,
     "wof:name":"Kampung Baloh",
     "wof:parent_id":890489109,
     "wof:placetype":"locality",

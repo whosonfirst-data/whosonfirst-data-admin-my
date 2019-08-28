@@ -11,8 +11,12 @@
     "geom:longitude":101.706512,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.686512,2.949833,101.726512,2.989833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Fakulti Perubatan Upm",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56035080,
-        "qs:id":183793
+        "qs_pg:id":183793
     },
     "wof:country":"MY",
     "wof:created":1469054710,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890488191,
-    "wof:lastmodified":1500013490,
+    "wof:lastmodified":1566643951,
     "wof:name":"Fakulti Perubatan Upm",
     "wof:parent_id":890489971,
     "wof:placetype":"locality",

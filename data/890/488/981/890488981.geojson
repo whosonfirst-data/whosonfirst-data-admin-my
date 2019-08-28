@@ -11,8 +11,12 @@
     "geom:longitude":101.715459,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.695459,2.727052,101.735459,2.767052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Klia",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015514,
-        "qs:id":5462
+        "qs_pg:id":5462
     },
     "wof:country":"MY",
     "wof:created":1469054739,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890488981,
-    "wof:lastmodified":1500013479,
+    "wof:lastmodified":1566643974,
     "wof:name":"Klia",
     "wof:parent_id":890489971,
     "wof:placetype":"locality",

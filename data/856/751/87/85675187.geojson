@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":2.943754,
     "lbl:longitude":101.688862,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.932849,
     "mps:longitude":101.700987,
     "mz:hierarchy_label":1,
@@ -349,9 +350,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0442\u0440\u0430\u0434\u0436\u0430\u044f"
     ],
-    "name:und_x_preferred":[
-        "Putrajaya"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u062a\u0631\u0627\u062c\u0627\u06cc\u0627"
     ],
@@ -466,9 +464,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"46",
     "statoids:area_mi":"18",
     "statoids:as_of_date":"2010-07-06",
@@ -493,7 +491,7 @@
         "gp:id":28350159,
         "hasc:id":"MY.PJ",
         "iso:id":"MY-16",
-        "qs:id":488447,
+        "qs_pg:id":488447,
         "wd:id":"Q182378",
         "wk:page":"Putrajaya"
     },
@@ -507,20 +505,16 @@
         }
     ],
     "wof:id":85675187,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "msa"
     ],
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1563239071,
+    "wof:lastmodified":1566642624,
     "wof:name":"Putrajaya",
     "wof:parent_id":85632739,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"federal territory",
     "wof:population":68361,
     "wof:population_rank":8,

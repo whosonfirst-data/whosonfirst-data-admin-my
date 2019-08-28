@@ -11,8 +11,12 @@
     "geom:longitude":103.115691,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.0156915,5.221415,103.2156915,5.421415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Losong",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Terengganu",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56013967,
-        "qs:id":1070956
+        "qs_pg:id":1070956
     },
     "wof:country":"MY",
     "wof:created":1469054764,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489649,
-    "wof:lastmodified":1500013520,
+    "wof:lastmodified":1566644008,
     "wof:name":"Losong",
     "wof:parent_id":890490947,
     "wof:placetype":"localadmin",

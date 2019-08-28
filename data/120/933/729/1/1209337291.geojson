@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.0899,2.9413,102.1299,2.9813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Relai"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209337291,
-    "wof:lastmodified":1537673936,
+    "wof:lastmodified":1566643279,
     "wof:name":"Kampung Relai",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",

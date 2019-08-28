@@ -11,8 +11,12 @@
     "geom:longitude":116.073969,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"115.9739685,5.881369,116.1739685,6.081369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0627 \u0643\u064a\u0646\u0627\u0628\u0627\u0644\u0648"
     ],
@@ -229,7 +233,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014349,
-        "qs:id":1111895,
+        "qs_pg:id":1111895,
         "wd:id":"Q137271",
         "wk:page":"Kota Kinabalu"
     },
@@ -246,7 +250,7 @@
         }
     ],
     "wof:id":890489877,
-    "wof:lastmodified":1563240745,
+    "wof:lastmodified":1566644007,
     "wof:name":"Kota Kinabalu",
     "wof:parent_id":1108696541,
     "wof:placetype":"localadmin",

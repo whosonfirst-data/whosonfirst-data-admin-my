@@ -11,10 +11,14 @@
     "geom:longitude":102.20466,
     "gn:country":"MY",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"MY",
+    "lbl:bbox":"102.10466,5.90106,102.30466,6.10106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Beta"
     ],
@@ -255,7 +259,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7068187,
-        "qs:id":379857,
+        "qs_pg:id":379857,
         "wd:id":"Q14382",
         "wk:page":"Beta"
     },
@@ -272,7 +276,7 @@
         }
     ],
     "wof:id":890488851,
-    "wof:lastmodified":1563240624,
+    "wof:lastmodified":1566643940,
     "wof:name":"Beta",
     "wof:parent_id":890489783,
     "wof:placetype":"localadmin",

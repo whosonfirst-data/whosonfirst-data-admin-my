@@ -11,8 +11,12 @@
     "geom:longitude":100.292601,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.192601,5.234181,100.392601,5.434181",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Mukim 13 Paya Terubung",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Pulau Pinang",
@@ -36,8 +40,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014599,
-        "qs:id":1313684,
         "qs_pg:id":1111926
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1313684
     },
     "wof:country":"MY",
     "wof:created":1469054724,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":890488577,
-    "wof:lastmodified":1509390571,
+    "wof:lastmodified":1566643972,
     "wof:name":"Mukim 13 Paya Terubung",
     "wof:parent_id":1108696537,
     "wof:placetype":"localadmin",

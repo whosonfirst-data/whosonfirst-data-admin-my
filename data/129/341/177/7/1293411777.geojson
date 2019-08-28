@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.3525,3.9589,102.3925,3.9989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Mangsuk"
     ],
     "name:und_x_variant":[
-        "Kampong Mangsok",
-        "Kampung Mangsuk"
+        "Kampong Mangsok"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293411777,
-    "wof:lastmodified":1537673664,
+    "wof:lastmodified":1566642704,
     "wof:name":"Kampung Mangsuk",
     "wof:parent_id":890489711,
     "wof:placetype":"locality",

@@ -12,8 +12,12 @@
     "gn:country":"MY",
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.312,2.688642,101.512,2.888642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jugra"
     ],
@@ -44,7 +48,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014172,
-        "qs:id":1204943,
+        "qs_pg:id":1204943,
         "wd:id":"Q6304950",
         "wk:page":"Jugra"
     },
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890488335,
-    "wof:lastmodified":1563240644,
+    "wof:lastmodified":1566643952,
     "wof:name":"Jugra",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1021506.796842,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.313416,5.400008,100.313416,5.400008",
     "geom:latitude":5.400008,
     "geom:longitude":100.313416,
     "iso:country":"MY",
+    "lbl:bbox":"100.308416,5.395008,100.318416,5.405008",
     "lbl:latitude":5.400008,
     "lbl:longitude":100.313416,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.401144,
     "mps:longitude":100.312496,
     "mz:hierarchy_label":0,
@@ -23,10 +25,7 @@
     "mz:max_zoom":19.0,
     "mz:min_zoom":17.0,
     "mz:tier_locality":3,
-    "name:und_x_preferred":[
-        "Kampung Batu Lanchang"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampung Batu Lanchang"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -57,13 +56,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023367,
-        1108696537,
-        85675127
+        1108696537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +84,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860592,
+    "wof:lastmodified":1566642586,
     "wof:name":"Kampung Batu Lanchang",
     "wof:parent_id":102023367,
     "wof:placetype":"neighbourhood",

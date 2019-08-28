@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.042747,
     "lbl:longitude":101.578071,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":3.042747,
     "mps:longitude":101.578071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Subang Jaya"
     ],
@@ -126,7 +129,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2313,
     "wof:belongsto":[
@@ -139,7 +142,7 @@
     "wof:concordances":{
         "gn:id":8504423,
         "gp:id":55862650,
-        "qs:id":1090105,
+        "qs_pg:id":1090105,
         "wd:id":"Q876876",
         "wk:page":"Subang Jaya"
     },
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":102022703,
-    "wof:lastmodified":1563238673,
+    "wof:lastmodified":1566642314,
     "wof:name":"Subang Jaya",
     "wof:parent_id":890490605,
     "wof:placetype":"locality",

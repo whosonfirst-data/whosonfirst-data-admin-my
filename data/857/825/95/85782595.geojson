@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000612,
-    "geom:area_square_m":7560455.266404,
+    "geom:area_square_m":7560455.266401,
     "geom:bbox":"101.677688417,3.03452573333,101.703871699,3.06920980186",
     "geom:latitude":3.052141,
     "geom:longitude":101.68896,
@@ -14,6 +14,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.055119,
     "lbl:longitude":101.691197,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.053589,
     "mps:longitude":101.688712,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Kampong Perantau"
-    ],
-    "name:unk_x_variant":[
         "Kampong Perantau"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -71,7 +69,6 @@
     "wof:concordances":{
         "gn:id":1765499,
         "gp:id":55862666,
-        "qs:id":1115474,
         "qs_pg:id":1115474
     },
     "wof:country":"MY",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497316707,
+    "wof:lastmodified":1566642603,
     "wof:name":"Kampong Perantau",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

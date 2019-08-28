@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":5.505898,
     "lbl:longitude":100.447202,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"PULAU PINANG",
     "meso:diss_me":"SEBERANG PERAI UTARAPULAU PINANG",
     "meso:gadm_admin":"Seberang Perai Utara",
@@ -32,6 +34,7 @@
     "mps:longitude":100.447202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Seberang Perai Utara"
     ],
@@ -69,9 +72,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"268.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Butterworth",
@@ -92,7 +95,7 @@
     "wof:concordances":{
         "gp:id":56013561,
         "hasc:id":"MY.PG.SU",
-        "qs:id":4741,
+        "qs_pg:id":4741,
         "wd:id":"Q1884752",
         "wk:page":"North Seberang Perai District"
     },
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":890490327,
-    "wof:lastmodified":1563240585,
+    "wof:lastmodified":1566643916,
     "wof:name":"Seberang Perai Utara",
     "wof:parent_id":85675127,
     "wof:placetype":"county",

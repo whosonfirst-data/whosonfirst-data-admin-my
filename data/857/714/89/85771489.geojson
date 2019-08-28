@@ -12,8 +12,10 @@
     "gn:latitude":5.2851,
     "gn:longitude":100.29004,
     "iso:country":"MY",
+    "lbl:bbox":"100.28418,5.273928,100.29418,5.283928",
     "lbl:latitude":5.278928,
     "lbl:longitude":100.28918,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.278928,
     "mps:longitude":100.28918,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Batu Maung"
     ],
     "name:nld_x_preferred":[
-        "Batu Maung"
-    ],
-    "name:unk_x_variant":[
         "Batu Maung"
     ],
     "name:vie_x_preferred":[
@@ -73,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85675127,
         102191569,
@@ -85,7 +84,6 @@
     "wof:concordances":{
         "gn:id":1735103,
         "gp:id":1140841,
-        "qs:id":349290,
         "qs_pg:id":349290,
         "wd:id":"Q4873318",
         "wk:page":"Batu Maung"
@@ -103,7 +101,7 @@
         }
     ],
     "wof:id":85771489,
-    "wof:lastmodified":1563239028,
+    "wof:lastmodified":1566642593,
     "wof:name":"Batu Maung",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

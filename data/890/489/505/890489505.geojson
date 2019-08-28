@@ -11,8 +11,12 @@
     "geom:longitude":118.270973,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"118.170973,5.397099,118.370973,5.597099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Distrikt Kinabatangan"
     ],
@@ -68,10 +72,12 @@
     "wof:concordances":{
         "gn:id":1966751,
         "gp:id":56013926,
-        "qs:id":891815,
-        "qs_pg:id":1031899,
+        "qs_pg:id":891815,
         "wd:id":"Q775127",
         "wk:page":"Kinabatangan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1031899
     },
     "wof:country":"MY",
     "wof:created":1469054759,
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":890489505,
-    "wof:lastmodified":1563240688,
+    "wof:lastmodified":1566643979,
     "wof:name":"Kinabatangan",
     "wof:parent_id":1108696413,
     "wof:placetype":"localadmin",

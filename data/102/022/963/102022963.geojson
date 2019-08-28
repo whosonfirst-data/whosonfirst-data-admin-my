@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.003034,
     "lbl:longitude":100.566269,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":5.003034,
     "mps:longitude":100.566269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Bagan Serai"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":516,
     "wof:belongsto":[
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":1734409,
         "gp:id":1154555,
-        "qs:id":116962,
         "qs_pg:id":116962,
         "wd:id":"Q2711360",
         "wk:page":"Bagan Serai"
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":102022963,
-    "wof:lastmodified":1563238652,
+    "wof:lastmodified":1566642302,
     "wof:name":"Bagan Serai",
     "wof:parent_id":890489801,
     "wof:placetype":"locality",

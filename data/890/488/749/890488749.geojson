@@ -11,11 +11,15 @@
     "geom:longitude":101.9997,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.9797,4.6716,102.0197,4.7116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Merapoh"
     ],
@@ -31,7 +35,7 @@
     "name:nld_x_preferred":[
         "Merapoh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Merapoh Lama"
     ],
     "qs:name":"Merapuh",
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1734675,
         "gp:id":1152207,
-        "qs:id":321575,
+        "qs_pg:id":321575,
         "wd:id":"Q6817944"
     },
     "wof:country":"MY",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890488749,
-    "wof:lastmodified":1561751764,
+    "wof:lastmodified":1566643946,
     "wof:name":"Merapuh",
     "wof:parent_id":890488203,
     "wof:placetype":"locality",

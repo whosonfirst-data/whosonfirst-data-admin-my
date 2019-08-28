@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":2.322985,
     "lbl:longitude":102.337624,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.319596,
     "mps:longitude":102.341031,
     "mz:hierarchy_label":1,
@@ -226,10 +227,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0431\u0435\u0440\u043d\u0430\u0442\u043e\u0440\u0441\u0442\u0432\u043e \u041c\u0430\u043b\u0430\u043a\u043a\u0430"
     ],
-    "name:und_x_preferred":[
-        "Melaka"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Settlement of Malacca"
     ],
     "name:urd_x_preferred":[
@@ -322,9 +320,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"1,650",
     "statoids:area_mi":"637",
     "statoids:as_of_date":"2010-07-06",
@@ -349,7 +347,7 @@
         "gp:id":2346299,
         "hasc:id":"MY.ME",
         "iso:id":"MY-04",
-        "qs:id":9200,
+        "qs_pg:id":9200,
         "unlc:id":"MY-04",
         "wd:id":"Q185221",
         "wk:page":"Malacca"
@@ -364,20 +362,16 @@
         }
     ],
     "wof:id":85675151,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "msa"
     ],
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1563239064,
+    "wof:lastmodified":1566642621,
     "wof:name":"Melaka",
     "wof:parent_id":85632739,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":790136,
     "wof:population_rank":11,

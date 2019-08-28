@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.0537,5.9107,116.0937,5.9507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Kapayan"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226027015,
-    "wof:lastmodified":1537673679,
+    "wof:lastmodified":1566644502,
     "wof:name":"Kampung Kapayan",
     "wof:parent_id":1108696541,
     "wof:placetype":"locality",

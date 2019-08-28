@@ -11,8 +11,12 @@
     "geom:longitude":101.341667,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.241667,5.44141,101.441667,5.64141",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Gerik"
     ],
@@ -55,7 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014100,
-        "qs:id":1190902,
+        "qs_pg:id":1190902,
         "wd:id":"Q5550859",
         "wk:page":"Gerik"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890490993,
-    "wof:lastmodified":1563240557,
+    "wof:lastmodified":1566643898,
     "wof:name":"Gerik",
     "wof:parent_id":890489739,
     "wof:placetype":"localadmin",

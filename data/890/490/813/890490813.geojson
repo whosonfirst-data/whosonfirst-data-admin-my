@@ -11,7 +11,7 @@
     "geom:longitude":101.094119,
     "gn:country":"MY",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":3.641344,
     "lbl:longitude":101.135144,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SELANGOR",
     "meso:diss_me":"SABAK BERNAMSELANGOR",
     "meso:gadm_admin":"Sabak Bernam",
@@ -35,6 +37,7 @@
     "mps:longitude":101.135144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0628\u0642 \u0628\u0631\u0646\u0645"
     ],
@@ -92,9 +95,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"997.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Sabak",
@@ -116,7 +119,7 @@
         "gn:id":1735194,
         "gp:id":56013626,
         "hasc:id":"MY.SL.SB",
-        "qs:id":224372,
+        "qs_pg:id":224372,
         "wd:id":"Q2198128",
         "wk:page":"Sabak Bernam District"
     },
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":890490813,
-    "wof:lastmodified":1563240572,
+    "wof:lastmodified":1566643907,
     "wof:name":"Sabak Bernam",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

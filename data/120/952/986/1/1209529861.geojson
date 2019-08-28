@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.044,2.232,103.084,2.272",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Ladang Johor Labis"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209529861,
-    "wof:lastmodified":1537674432,
+    "wof:lastmodified":1566643181,
     "wof:name":"Ladang Johor Labis",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",

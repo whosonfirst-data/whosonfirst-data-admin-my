@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":2.934722,
     "lbl:longitude":102.271162,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":2.934722,
     "mps:longitude":102.271162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Simpang Pertang"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":64,
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":1734830,
         "gp:id":1154039,
-        "qs:id":270823,
         "qs_pg:id":270823,
         "wd:id":"Q12709345",
         "wk:page":"Simpang Pertang"
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":102023189,
-    "wof:lastmodified":1561751658,
+    "wof:lastmodified":1566642259,
     "wof:name":"Simpang Pertang",
     "wof:parent_id":890490279,
     "wof:placetype":"locality",

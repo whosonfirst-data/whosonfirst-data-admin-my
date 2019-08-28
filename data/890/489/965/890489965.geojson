@@ -11,11 +11,14 @@
     "geom:longitude":100.38333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.37833,5.37833,100.38833,5.38833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Kampong Dock",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Pulau Pinang",
@@ -35,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1769634,
         "gp:id":1143395,
-        "qs:id":44179
+        "qs_pg:id":44179
     },
     "wof:country":"MY",
     "wof:created":1469054783,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890489965,
-    "wof:lastmodified":1507590239,
+    "wof:lastmodified":1566643978,
     "wof:name":"Kampong Dock",
     "wof:parent_id":102023327,
     "wof:placetype":"neighbourhood",

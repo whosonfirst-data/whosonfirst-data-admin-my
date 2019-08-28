@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.446951,
     "lbl:longitude":101.663462,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.446951,
     "mps:longitude":101.663462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Batang Kali"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":532,
     "wof:belongsto":[
         102191569,
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":1781114,
         "gp:id":1154573,
-        "qs:id":359630,
         "qs_pg:id":359630,
         "wd:id":"Q4868588",
         "wk:page":"Batang Kali"
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":102023909,
-    "wof:lastmodified":1563238523,
+    "wof:lastmodified":1566642234,
     "wof:name":"Batang Kali",
     "wof:parent_id":890489129,
     "wof:placetype":"locality",

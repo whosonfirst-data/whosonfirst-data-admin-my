@@ -11,11 +11,15 @@
     "geom:longitude":101.73333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.71333,3.23,101.75333,3.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Kampong Gombak Utara",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Kuala Lumpur",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1769286,
         "gp:id":1143742,
-        "qs:id":44180
+        "qs_pg:id":44180
     },
     "wof:country":"MY",
     "wof:created":1469054783,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890489967,
-    "wof:lastmodified":1505343786,
+    "wof:lastmodified":1566644004,
     "wof:name":"Kampong Gombak Utara",
     "wof:parent_id":1108696399,
     "wof:placetype":"locality",

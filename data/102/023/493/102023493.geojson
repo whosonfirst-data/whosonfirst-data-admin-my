@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":4.347392,
     "lbl:longitude":101.105068,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":4.347392,
     "mps:longitude":101.105068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Malim Nawar"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":1735272,
         "gp:id":1152107,
-        "qs:id":1166578,
         "qs_pg:id":1166578,
         "wd:id":"Q6743687",
         "wk:page":"Malim Nawar"
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":102023493,
-    "wof:lastmodified":1561751663,
+    "wof:lastmodified":1566642280,
     "wof:name":"Malim Nawar",
     "wof:parent_id":890490953,
     "wof:placetype":"locality",

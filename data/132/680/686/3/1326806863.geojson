@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.48519,5.6133,102.52519,5.6533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Bukit Mak Sabil"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326806863,
-    "wof:lastmodified":1537674271,
+    "wof:lastmodified":1566642025,
     "wof:name":"Bukit Mak Sabil",
     "wof:parent_id":890488399,
     "wof:placetype":"locality",

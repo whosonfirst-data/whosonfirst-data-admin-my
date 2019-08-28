@@ -11,8 +11,12 @@
     "geom:longitude":102.065612,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.965612,2.2475,102.165612,2.4475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bandar Baharu"
     ],
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014449,
-        "qs:id":1016605,
+        "qs_pg:id":1016605,
         "wd:id":"Q1884699",
         "wk:page":"Bandar Baharu District"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890490315,
-    "wof:lastmodified":1563240544,
+    "wof:lastmodified":1566643891,
     "wof:name":"Sungai Baru Ilir",
     "wof:parent_id":890489107,
     "wof:placetype":"localadmin",

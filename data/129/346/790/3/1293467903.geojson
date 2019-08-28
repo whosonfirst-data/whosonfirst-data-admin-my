@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"110.46747,0.90272,110.50747,0.94272",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293467903,
-    "wof:lastmodified":1536814676,
+    "wof:lastmodified":1566642693,
     "wof:name":"Kampong Tantu",
     "wof:parent_id":1108696511,
     "wof:placetype":"locality",

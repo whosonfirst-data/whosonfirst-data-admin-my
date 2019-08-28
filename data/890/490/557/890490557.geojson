@@ -11,11 +11,15 @@
     "geom:longitude":101.43333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.41333,2.81333,101.45333,2.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Permatang Pasir"
     ],
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1750492,
         "gp:id":1155024,
-        "qs:id":183689,
+        "qs_pg:id":183689,
         "wd:id":"Q7169304",
         "wk:page":"Permatang Pasir"
     },
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890490557,
-    "wof:lastmodified":1563240511,
+    "wof:lastmodified":1566643871,
     "wof:name":"Permatang Pasir",
     "wof:parent_id":1108696427,
     "wof:placetype":"locality",

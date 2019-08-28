@@ -11,8 +11,12 @@
     "geom:longitude":100.365836,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.265836,6.019902,100.465836,6.219902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Alor Malai",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Kedah",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014479,
-        "qs:id":1111910
+        "qs_pg:id":1111910
     },
     "wof:country":"MY",
     "wof:created":1469054779,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489891,
-    "wof:lastmodified":1500013300,
+    "wof:lastmodified":1566644013,
     "wof:name":"Alor Malai",
     "wof:parent_id":890490361,
     "wof:placetype":"localadmin",

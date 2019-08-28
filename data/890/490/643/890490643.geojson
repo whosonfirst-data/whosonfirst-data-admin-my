@@ -11,12 +11,16 @@
     "geom:longitude":116.31667,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"116.29667,6.21333,116.33667,6.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Kampong Tenghilan"
     ],
     "qs:name":"Tenghilan",
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1736672,
         "gp:id":1154409,
-        "qs:id":193531
+        "qs_pg:id":193531
     },
     "wof:country":"MY",
     "wof:created":1469054818,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890490643,
-    "wof:lastmodified":1505343789,
+    "wof:lastmodified":1566643875,
     "wof:name":"Tenghilan",
     "wof:parent_id":1108696541,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":103.2092,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.1892,4.5911,103.2292,4.6311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bandar Al-Muktafi Billah Shah"
     ],
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":7622196,
         "gp:id":56119814,
-        "qs:id":368521,
+        "qs_pg:id":368521,
         "wd:id":"Q4205505",
         "wk:page":"Bandar Al-Muktafi Billah Shah"
     },
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890488829,
-    "wof:lastmodified":1561751763,
+    "wof:lastmodified":1566643931,
     "wof:name":"Bandar Al-Muktafi Billah Shah",
     "wof:parent_id":890490253,
     "wof:placetype":"locality",

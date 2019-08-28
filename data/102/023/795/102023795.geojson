@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":5.708562,
     "lbl:longitude":100.537108,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":5.708562,
     "mps:longitude":100.537108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sungai Lalang"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191569,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":1742731,
         "gp:id":1154186,
-        "qs:id":908875,
+        "qs_pg:id":908875,
         "wd:id":"Q12859822"
     },
     "wof:country":"MY",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":102023795,
-    "wof:lastmodified":1563238600,
+    "wof:lastmodified":1566642273,
     "wof:name":"Sungai Lalang",
     "wof:parent_id":890490355,
     "wof:placetype":"locality",

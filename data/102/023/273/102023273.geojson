@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.35989,
     "lbl:longitude":102.524471,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.35989,
     "mps:longitude":102.524471,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bera"
     ],
@@ -59,7 +62,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":1734988,
         "gp:id":56118583,
-        "qs:id":1027452,
+        "qs_pg:id":1027452,
         "wd:id":"Q1658705",
         "wk:page":"Bera District"
     },
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":102023273,
-    "wof:lastmodified":1563238540,
+    "wof:lastmodified":1566642244,
     "wof:name":"Bera",
     "wof:parent_id":890489815,
     "wof:placetype":"locality",

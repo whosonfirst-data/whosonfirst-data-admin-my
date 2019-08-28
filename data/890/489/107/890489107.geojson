@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":2.398147,
     "lbl:longitude":102.197941,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MELAKA",
     "meso:diss_me":"ALOR GAJAHMELAKA",
     "meso:gadm_admin":"Alor Gajah",
@@ -32,6 +34,7 @@
     "mps:longitude":102.197941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0648\u0631 \u063a\u0627\u062c\u0627\u0647"
     ],
@@ -158,9 +161,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"903.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Alor Gajah",
@@ -181,7 +184,7 @@
     "wof:concordances":{
         "gp:id":56013587,
         "hasc:id":"MY.ME.AG",
-        "qs:id":509159,
+        "qs_pg:id":509159,
         "wd:id":"Q4734629",
         "wk:page":"Alor Gajah"
     },
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":890489107,
-    "wof:lastmodified":1563240734,
+    "wof:lastmodified":1566644003,
     "wof:name":"Alor Gajah",
     "wof:parent_id":85675151,
     "wof:placetype":"county",

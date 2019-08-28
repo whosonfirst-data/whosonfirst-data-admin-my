@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"110.34667,1.21333,110.38667,1.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Pangkalan Kut",
         "Pangkalan Kut"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326918309,
-    "wof:lastmodified":1537673706,
+    "wof:lastmodified":1566642191,
     "wof:name":"Pangkalan Kut",
     "wof:parent_id":890488875,
     "wof:placetype":"locality",

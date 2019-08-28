@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.413,1.5725,103.453,1.6125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Parit Darit"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259400383,
-    "wof:lastmodified":1537674446,
+    "wof:lastmodified":1566644333,
     "wof:name":"Kampung Parit Darit",
     "wof:parent_id":890491001,
     "wof:placetype":"locality",

@@ -11,8 +11,12 @@
     "geom:longitude":101.533391,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.513391,3.726775,101.553391,3.766775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tanjong"
     ],
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1154292,
-        "qs:id":69391,
+        "qs_pg:id":69391,
         "wd:id":"Q7683383",
         "wk:page":"Tanjong"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890490867,
-    "wof:lastmodified":1563240536,
+    "wof:lastmodified":1566643887,
     "wof:name":"Tanjong",
     "wof:parent_id":890489741,
     "wof:placetype":"locality",

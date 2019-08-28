@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.0587,4.3788,101.0987,4.4188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Kota Baharu"
     ],
@@ -36,10 +40,6 @@
     ],
     "name:msa_x_variant":[
         "Kota Bharu"
-    ],
-    "name:und_x_variant":[
-        "Kota Bharu",
-        "Kota Baharu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1259976505,
-    "wof:lastmodified":1564192530,
+    "wof:lastmodified":1566644303,
     "wof:name":"Kota Baharu",
     "wof:parent_id":890490953,
     "wof:placetype":"locality",

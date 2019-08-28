@@ -12,7 +12,12 @@
     "gn:country":"MY",
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.148725,2.095805,102.348725,2.295805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Bandar Melaka",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Melaka",
@@ -32,11 +37,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014534,
-        "qs:id":467964
+        "qs_pg:id":467964
     },
     "wof:country":"MY",
     "wof:created":1469054743,
-    "wof:geomhash":"f94dae1996eba8f678ea0b0b3ee2cf11",
+    "wof:geomhash":"ad30d8b88f88630d4ca6247408f09166",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -46,7 +51,7 @@
         }
     ],
     "wof:id":890489057,
-    "wof:lastmodified":1469054743,
+    "wof:lastmodified":1566644014,
     "wof:name":"Bandar Melaka",
     "wof:parent_id":85675151,
     "wof:placetype":"localadmin",

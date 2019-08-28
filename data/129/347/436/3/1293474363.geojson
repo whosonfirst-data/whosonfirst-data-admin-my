@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.47046,5.23198,100.51046,5.27198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Val d'Or"
     ],
@@ -36,9 +40,6 @@
         "Val d'Or"
     ],
     "name:pol_x_preferred":[
-        "Val d\u2019Or"
-    ],
-    "name:und_x_variant":[
         "Val d\u2019Or"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1293474363,
-    "wof:lastmodified":1564190547,
+    "wof:lastmodified":1566642732,
     "wof:name":"Val Dor",
     "wof:parent_id":1108696503,
     "wof:placetype":"locality",

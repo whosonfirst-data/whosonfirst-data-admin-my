@@ -11,8 +11,11 @@
     "geom:longitude":101.741444,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.736444,3.085663,101.746444,3.095663",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Taman Mutiara Barat",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Kuala Lumpur",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675181,
         102191569,
         85632739,
         102023407,
-        890490945,
-        85675181
+        890490945
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56016585,
-        "qs:id":467970
+        "qs_pg:id":467970
     },
     "wof:country":"MY",
     "wof:created":1469054743,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890489063,
-    "wof:lastmodified":1500013684,
+    "wof:lastmodified":1566643992,
     "wof:name":"Taman Mutiara Barat",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

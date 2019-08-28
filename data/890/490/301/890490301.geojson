@@ -11,11 +11,15 @@
     "geom:longitude":102.0027,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.9827,5.9773,102.0227,6.0173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Bakti"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":7068054,
         "gp:id":56119122,
-        "qs:id":1026640
+        "qs_pg:id":1026640
     },
     "wof:country":"MY",
     "wof:created":1469054799,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890490301,
-    "wof:lastmodified":1505343788,
+    "wof:lastmodified":1566643872,
     "wof:name":"Taman Bakti",
     "wof:parent_id":1108696479,
     "wof:placetype":"locality",

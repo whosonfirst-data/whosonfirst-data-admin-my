@@ -11,11 +11,15 @@
     "geom:longitude":100.6774,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.6574,4.2056,100.6974,4.2456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Lumut Kiri"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1767221,
         "gp:id":1145807,
-        "qs:id":40344
+        "qs_pg:id":40344
     },
     "wof:country":"MY",
     "wof:created":1469054782,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890489949,
-    "wof:lastmodified":1505343786,
+    "wof:lastmodified":1566643999,
     "wof:name":"Kampong Lumut Kiri",
     "wof:parent_id":1108696459,
     "wof:placetype":"locality",

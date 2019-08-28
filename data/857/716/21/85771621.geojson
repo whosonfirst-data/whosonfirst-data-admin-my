@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4886631.82981,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.763817,3.033555,101.763817,3.033555",
     "geom:latitude":3.033555,
     "geom:longitude":101.763817,
     "gn:latitude":3.03333,
     "gn:longitude":101.76667,
     "iso:country":"MY",
+    "lbl:bbox":"101.758817,3.028555,101.768817,3.038555",
     "lbl:latitude":3.033555,
     "lbl:longitude":101.763817,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.032878,
     "mps:longitude":101.766405,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Kampong Bukit Dukong"
-    ],
-    "name:unk_x_variant":[
         "Kampong Bukit Dukong"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -61,19 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023899,
-        1108696543,
-        85675163
+        1108696543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1770286,
         "gp:id":1142743,
-        "qs:id":1167906,
         "qs_pg:id":1167906
     },
     "wof:country":"MY",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859435,
+    "wof:lastmodified":1566642617,
     "wof:name":"Kampong Bukit Dukong",
     "wof:parent_id":102023899,
     "wof:placetype":"neighbourhood",

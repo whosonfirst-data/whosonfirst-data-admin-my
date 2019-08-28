@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.55887,2.63523,101.59887,2.67523",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Tumbuk Pantai"
     ],
     "name:und_x_variant":[
-        "Kampong Tembok",
-        "Kampung Tumbuk Pantai"
+        "Kampong Tembok"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1327016989,
-    "wof:lastmodified":1537673711,
+    "wof:lastmodified":1566642002,
     "wof:name":"Kampung Tumbuk Pantai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":102.2408,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.2358,2.2568,102.2458,2.2668",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Merdeka"
     ],
@@ -38,7 +41,7 @@
     "wof:concordances":{
         "gn:id":7797907,
         "gp:id":56016530,
-        "qs:id":1159242
+        "qs_pg:id":1159242
     },
     "wof:country":"MY",
     "wof:created":1469054788,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":890490091,
-    "wof:lastmodified":1505343787,
+    "wof:lastmodified":1566643882,
     "wof:name":"Taman Merdeka",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.5259,5.2687,115.5659,5.3087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Bangkalalak"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226424563,
-    "wof:lastmodified":1537673700,
+    "wof:lastmodified":1566644475,
     "wof:name":"Kampung Bangkalalak",
     "wof:parent_id":1108696385,
     "wof:placetype":"locality",

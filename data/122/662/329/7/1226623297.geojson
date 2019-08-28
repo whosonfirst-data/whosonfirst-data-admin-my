@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.7636,2.9798,101.8036,3.0198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Paya"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226623297,
-    "wof:lastmodified":1537673976,
+    "wof:lastmodified":1566644632,
     "wof:name":"Kampung Paya",
     "wof:parent_id":1108696543,
     "wof:placetype":"locality",

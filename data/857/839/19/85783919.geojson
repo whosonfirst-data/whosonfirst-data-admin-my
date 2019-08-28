@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15533133.144624,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.380371,5.354555,100.380371,5.354555",
     "geom:latitude":5.354555,
     "geom:longitude":100.380371,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"100.375371,5.349555,100.385371,5.359555",
     "lbl:latitude":5.354555,
     "lbl:longitude":100.380371,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.354196,
     "mps:longitude":100.383822,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
-    "name:und_x_preferred":[
-        "Kawasan Perindustrian Prai"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kawasan Perindustrian Prai"
     ],
     "qs:gn_id":0,
@@ -55,14 +54,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102023327
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015400,
-        "qs:id":5384
+        "qs_pg:id":5384
     },
     "wof:country":"MY",
     "wof:geomhash":"72fc053f19bc394b334500847e749ec1",
@@ -79,7 +78,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860560,
+    "wof:lastmodified":1566642610,
     "wof:name":"Kawasan Perindustrian Prai",
     "wof:parent_id":102023327,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12451262.602538,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.383424,5.443291,100.383424,5.443291",
     "geom:latitude":5.443291,
     "geom:longitude":100.383424,
     "gn:latitude":5.44722,
     "gn:longitude":100.36667,
     "iso:country":"MY",
+    "lbl:bbox":"100.378424,5.438291,100.388424,5.448291",
     "lbl:latitude":5.443291,
     "lbl:longitude":100.383424,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.446465,
     "mps:longitude":100.386688,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Telok Behang"
-    ],
-    "name:unk_x_variant":[
         "Telok Behang"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023321,
-        890490327,
-        85675127
+        890490327
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1887975,
         "gp:id":1154368,
-        "qs:id":992724,
         "qs_pg:id":992724
     },
     "wof:country":"MY",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859462,
+    "wof:lastmodified":1566642620,
     "wof:name":"Telok Behang",
     "wof:parent_id":102023321,
     "wof:placetype":"neighbourhood",

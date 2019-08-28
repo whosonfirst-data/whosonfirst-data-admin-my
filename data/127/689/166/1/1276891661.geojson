@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"104.0817,1.4001,104.1217,1.4401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Pasir Gogok"
     ],
     "name:und_x_variant":[
         "Kampong Pasir Goh",
-        "Pasir Goh",
-        "Pasir Gogok"
+        "Pasir Goh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1276891661,
-    "wof:lastmodified":1537673669,
+    "wof:lastmodified":1566642936,
     "wof:name":"Pasir Gogok",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

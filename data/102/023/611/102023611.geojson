@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":6.440184,
     "lbl:longitude":100.286552,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.440184,
     "mps:longitude":100.286552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Arau"
     ],
@@ -60,9 +63,6 @@
     "name:tam_x_preferred":[
         "\u0b86\u0bb0\u0bbe\u0bb5\u0bcd"
     ],
-    "name:und_x_preferred":[
-        "Arau"
-    ],
     "name:zho_x_preferred":[
         "\u4e9e\u5a41"
     ],
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":111,
     "wof:belongsto":[
         102191569,
@@ -98,7 +98,6 @@
         "gn:id":1736286,
         "gp:id":1154542,
         "loc:id":"n98930649",
-        "qs:id":391223,
         "qs_pg:id":391223,
         "wd:id":"Q626526",
         "wk:page":"Arau"
@@ -118,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561751656,
+    "wof:lastmodified":1566642249,
     "wof:name":"Arau",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

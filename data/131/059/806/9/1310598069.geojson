@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.5866,4.1689,100.6266,4.2089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Batek"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310598069,
-    "wof:lastmodified":1537673844,
+    "wof:lastmodified":1566643667,
     "wof:name":"Kampung Batek",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

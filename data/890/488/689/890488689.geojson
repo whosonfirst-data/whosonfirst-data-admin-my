@@ -11,8 +11,11 @@
     "geom:longitude":102.252899,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.247899,2.19838,102.257899,2.20838",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Bandar Baharu"
     ],
@@ -59,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56016364,
-        "qs:id":287441,
+        "qs_pg:id":287441,
         "wd:id":"Q1884699",
         "wk:page":"Bandar Baharu District"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890488689,
-    "wof:lastmodified":1563240612,
+    "wof:lastmodified":1566643933,
     "wof:name":"Taman Kenanga",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

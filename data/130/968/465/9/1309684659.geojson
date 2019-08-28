@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.3856,6.3889,116.4256,6.4289",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampong Peladok"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309684659,
-    "wof:lastmodified":1537673970,
+    "wof:lastmodified":1566643829,
     "wof:name":"Kampong Peladok",
     "wof:parent_id":1108696421,
     "wof:placetype":"locality",

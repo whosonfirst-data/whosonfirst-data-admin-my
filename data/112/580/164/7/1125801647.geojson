@@ -9,15 +9,18 @@
     "geom:bbox":"103.048,2.249,103.048,2.249",
     "geom:latitude":2.249,
     "geom:longitude":103.048,
-    "gn:gn_country":"MY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11844,
+    "gn:country":"MY",
+    "gn:fcode":"PPL",
     "gn:population":11844,
     "iso:country":"MY",
+    "lbl:bbox":"103.028,2.229,103.068,2.269",
     "lbl:latitude":2.249,
     "lbl:longitude":103.048,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Chaah"
@@ -37,7 +40,7 @@
     "name:spa_x_preferred":[
         "Chaah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kangkar Chaah"
     ],
     "name:zho_x_preferred":[
@@ -60,7 +63,7 @@
     "qs_pg:woe_adm0":23424901,
     "qs_pg:woe_id":1141013,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424901,
     "woe:name_adm0":"Malaysia",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125801647,
-    "wof:lastmodified":1563240783,
+    "wof:lastmodified":1566644026,
     "wof:name":"Caah",
     "wof:parent_id":890488717,
     "wof:placetype":"locality",

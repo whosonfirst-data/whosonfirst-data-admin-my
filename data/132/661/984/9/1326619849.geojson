@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.40167,5.24949,100.44167,5.28949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Batu Kawan"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326619849,
-    "wof:lastmodified":1537674180,
+    "wof:lastmodified":1566642061,
     "wof:name":"Kampung Batu Kawan",
     "wof:parent_id":1108696503,
     "wof:placetype":"locality",

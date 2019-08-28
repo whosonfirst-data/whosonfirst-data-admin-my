@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.2173,2.3474,102.2573,2.3874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Ulu Melaka Pindah"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259684301,
-    "wof:lastmodified":1537673810,
+    "wof:lastmodified":1566644362,
     "wof:name":"Kampung Ulu Melaka Pindah",
     "wof:parent_id":890489107,
     "wof:placetype":"locality",

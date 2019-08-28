@@ -11,15 +11,19 @@
     "geom:longitude":104.1236,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"104.1036,2.7422,104.1436,2.7822",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Genting"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Ginting"
     ],
     "qs:name":"Kampung Genting",
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1734908,
         "gp:id":1151010,
-        "qs:id":564248
+        "qs_pg:id":564248
     },
     "wof:country":"MY",
     "wof:created":1469054730,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890488723,
-    "wof:lastmodified":1505343783,
+    "wof:lastmodified":1566643948,
     "wof:name":"Kampung Genting",
     "wof:parent_id":1108696497,
     "wof:placetype":"locality",

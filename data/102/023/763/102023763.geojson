@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
-    "geom:area_square_m":3133141.838887,
+    "geom:area_square_m":3133141.838882,
     "geom:bbox":"114.737704797,3.78396296835,114.755703463,3.80204271653",
     "geom:latitude":3.793003,
     "geom:longitude":114.746704,
@@ -14,9 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.793003,
     "lbl:longitude":114.746704,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.793003,
     "mps:longitude":114.746704,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -28,7 +32,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -41,7 +45,7 @@
         "gp:id":1154839
     },
     "wof:country":"MY",
-    "wof:geomhash":"1b51aae53c8e00985dc392ebbc23a491",
+    "wof:geomhash":"1cde70eff424ecea4d7940e1c7b23d4f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":102023763,
-    "wof:lastmodified":1480369963,
+    "wof:lastmodified":1566642234,
     "wof:name":"Long Bedian",
     "wof:parent_id":1108696465,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.26333,6.21333,116.30333,6.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632739
@@ -34,7 +38,7 @@
         "gn:id":1764889
     },
     "wof:country":"MY",
-    "wof:geomhash":"6dca7222a938c191edded4ad9314fcda",
+    "wof:geomhash":"cef4a1f74905516d6bda424ea29e0312",
     "wof:hierarchy":[
         {
             "country_id":85632739,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209685429,
-    "wof:lastmodified":1536279427,
+    "wof:lastmodified":1566643237,
     "wof:name":"Kampong Sambah",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     116.28333,
-    6.2333300000000005,
+    6.23333,
     116.28333,
-    6.2333300000000005
+    6.23333
 ],
   "geometry": {"coordinates":[116.28333000000001,6.23333],"type":"Point"}
 }

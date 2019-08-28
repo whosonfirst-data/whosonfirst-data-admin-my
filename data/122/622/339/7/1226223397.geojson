@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.4689,4.5328,115.5089,4.5728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Long Sukang"
     ],
     "name:und_x_variant":[
-        "Sukang",
-        "Long Sukang"
+        "Sukang"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1226223397,
-    "wof:lastmodified":1537673751,
+    "wof:lastmodified":1566644567,
     "wof:name":"Long Sukang",
     "wof:parent_id":1108696445,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000763,
-    "geom:area_square_m":9380155.385712,
+    "geom:area_square_m":9380155.385727,
     "geom:bbox":"100.290643028,6.33355307192,100.330694559,6.36255975902",
     "geom:latitude":6.345269,
     "geom:longitude":100.307468,
@@ -14,14 +14,17 @@
     "iso:country":"MY",
     "lbl:latitude":6.346508,
     "lbl:longitude":100.303079,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.346508,
     "mps:longitude":100.303079,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Seputeh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Siputeh"
     ],
     "qs:a1":"*",
@@ -35,7 +38,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102023525,
-    "wof:lastmodified":1501222128,
+    "wof:lastmodified":1566642292,
     "wof:name":"Seputeh",
     "wof:parent_id":890488625,
     "wof:placetype":"locality",

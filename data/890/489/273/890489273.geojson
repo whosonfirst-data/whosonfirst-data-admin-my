@@ -11,15 +11,19 @@
     "geom:longitude":102.4398,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.4198,5.94936,102.4598,5.98936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Telung"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Telong"
     ],
     "qs:name":"Kampung Telung",
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1735530,
         "gp:id":1151594,
-        "qs:id":988693
+        "qs_pg:id":988693
     },
     "wof:country":"MY",
     "wof:created":1469054750,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890489273,
-    "wof:lastmodified":1505343785,
+    "wof:lastmodified":1566643984,
     "wof:name":"Kampung Telung",
     "wof:parent_id":1108696377,
     "wof:placetype":"locality",

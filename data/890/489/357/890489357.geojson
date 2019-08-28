@@ -11,11 +11,14 @@
     "geom:longitude":102.2138,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.2088,2.3882,102.2188,2.3982",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Seri Aman"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7797741,
         "gp:id":56036770,
-        "qs:id":1002257
+        "qs_pg:id":1002257
     },
     "wof:country":"MY",
     "wof:created":1469054754,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890489357,
-    "wof:lastmodified":1505343785,
+    "wof:lastmodified":1566644001,
     "wof:name":"Taman Sri Aman",
     "wof:parent_id":102023061,
     "wof:placetype":"neighbourhood",

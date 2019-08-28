@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":4.98167,
     "lbl:longitude":102.960263,
+    "lbl:min_zoom":8.0,
     "mps:latitude":5.061741,
     "mps:longitude":102.911202,
     "mz:hierarchy_label":1,
@@ -205,10 +206,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0440\u0435\u043d\u0433\u0433\u0430\u043d\u0443"
     ],
-    "name:und_x_preferred":[
-        "Terengganu"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "State of Terengganu"
     ],
     "name:urd_x_preferred":[
@@ -304,9 +302,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"12,955",
     "statoids:area_mi":"5,002",
     "statoids:as_of_date":"2010-07-06",
@@ -332,7 +330,7 @@
         "gp:id":2346307,
         "hasc:id":"MY.TE",
         "iso:id":"MY-11",
-        "qs:id":461458,
+        "qs_pg:id":461458,
         "unlc:id":"MY-11",
         "wd:id":"Q189701",
         "wk:page":"Terengganu"
@@ -347,20 +345,16 @@
         }
     ],
     "wof:id":85675169,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "msa"
     ],
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1563239062,
+    "wof:lastmodified":1566642621,
     "wof:name":"Trengganu",
     "wof:parent_id":85632739,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":1011363,
     "wof:population_rank":12,

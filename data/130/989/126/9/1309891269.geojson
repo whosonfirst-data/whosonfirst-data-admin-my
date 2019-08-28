@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.17756,6.37071,100.21756,6.41071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Binjal"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309891269,
-    "wof:lastmodified":1537673733,
+    "wof:lastmodified":1566643852,
     "wof:name":"Kampung Binjal",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

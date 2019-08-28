@@ -11,8 +11,11 @@
     "geom:longitude":101.615973,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.610973,3.020833,101.620973,3.030833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Taman Sri Puchong",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023809,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037132,
-        "qs:id":1191317
+        "qs_pg:id":1191317
     },
     "wof:country":"MY",
     "wof:created":1469054714,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890488301,
-    "wof:lastmodified":1500013508,
+    "wof:lastmodified":1566643928,
     "wof:name":"Taman Sri Puchong",
     "wof:parent_id":102023809,
     "wof:placetype":"neighbourhood",

@@ -15,6 +15,8 @@
     "iso:country":"MY",
     "lbl:latitude":5.407652,
     "lbl:longitude":100.308282,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":5.407652,
     "mps:longitude":100.308282,
     "mz:hierarchy_label":1,
@@ -209,9 +211,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u043e\u0440\u0434\u0436\u0442\u0430\u0443\u043d"
     ],
-    "name:unk_x_variant":[
-        "Penang"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u0627\u0631\u062c \u0679\u0627\u0624\u0646\u060c \u067e\u06cc\u0646\u0627\u0646\u06af"
     ],
@@ -340,7 +339,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":4.0,
     "wd:latitude":5.416667,
@@ -357,7 +356,6 @@
     "wof:concordances":{
         "gn:id":1735106,
         "gp:id":1141153,
-        "qs:id":809008,
         "qs_pg:id":809008,
         "wd:id":"Q61092",
         "wk:page":"George Town, Penang"
@@ -374,7 +372,7 @@
         }
     ],
     "wof:id":102023367,
-    "wof:lastmodified":1563238595,
+    "wof:lastmodified":1566642271,
     "wof:name":"George Town",
     "wof:parent_id":1108696537,
     "wof:placetype":"locality",

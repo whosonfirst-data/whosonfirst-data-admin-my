@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14241361.351561,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.27454,5.469669,100.27454,5.469669",
     "geom:latitude":5.469669,
     "geom:longitude":100.27454,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"100.26954,5.464669,100.27954,5.474669",
     "lbl:latitude":5.469669,
     "lbl:longitude":100.27454,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.471962,
     "mps:longitude":100.266305,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
-    "name:und_x_preferred":[
-        "Taman Chee Seng"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Chee Seng"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -58,17 +57,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
-        1108696537,
-        85675127
+        1108696537
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56036456,
-        "qs:id":1120021
+        "qs_pg:id":1120021
     },
     "wof:country":"MY",
     "wof:geomhash":"63dabb445e48b181d09757fb03bedc00",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860609,
+    "wof:lastmodified":1566642590,
     "wof:name":"Taman Chee Seng",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

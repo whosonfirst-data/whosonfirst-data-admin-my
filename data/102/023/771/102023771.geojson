@@ -14,17 +14,20 @@
     "iso:country":"MY",
     "lbl:latitude":4.077944,
     "lbl:longitude":113.823853,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":4.077944,
     "mps:longitude":113.823853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bekenu"
     ],
     "name:nld_x_preferred":[
         "Bekenu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bakenu"
     ],
     "name:zho_x_preferred":[
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":249,
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":1738030,
         "gp:id":1154595,
-        "qs:id":341493,
         "qs_pg:id":341493,
         "wd:id":"Q4881597",
         "wk:page":"Bekenu"
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":102023771,
-    "wof:lastmodified":1563238574,
+    "wof:lastmodified":1566642260,
     "wof:name":"Bekenu",
     "wof:parent_id":890488483,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.5417,1.3358,103.5817,1.3758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Tanjung Adang"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226252257,
-    "wof:lastmodified":1537673863,
+    "wof:lastmodified":1566644565,
     "wof:name":"Kampung Tanjung Adang",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

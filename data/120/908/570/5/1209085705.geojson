@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.3864,4.7483,103.4264,4.7883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Padang Jambu"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209085705,
-    "wof:lastmodified":1537674309,
+    "wof:lastmodified":1566643170,
     "wof:name":"Kampung Padang Jambu",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":100.46985,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.44985,5.13602,100.48985,5.17602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rantau Panjang"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":1749036,
         "gp:id":56118258,
-        "qs:id":1242575,
+        "qs_pg:id":1242575,
         "wd:id":"Q4209077",
         "wk:page":"Rantau Panjang"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890488393,
-    "wof:lastmodified":1563240648,
+    "wof:lastmodified":1566643954,
     "wof:name":"Rantau Panjang",
     "wof:parent_id":1108696503,
     "wof:placetype":"locality",

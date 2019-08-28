@@ -11,11 +11,15 @@
     "geom:longitude":102.3806,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.3606,2.3691,102.4006,2.4091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Selandar"
     ],
@@ -28,7 +32,7 @@
     "name:swe_x_preferred":[
         "To Uban"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Salandau"
     ],
     "qs:name":"Selandar",
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":1734742,
         "gp:id":1153925,
-        "qs:id":887338,
+        "qs_pg:id":887338,
         "wd:id":"Q12708711",
         "wk:page":"Selandar"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890489131,
-    "wof:lastmodified":1563240733,
+    "wof:lastmodified":1566644002,
     "wof:name":"Selandar",
     "wof:parent_id":890489809,
     "wof:placetype":"locality",

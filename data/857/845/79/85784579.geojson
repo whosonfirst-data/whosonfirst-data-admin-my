@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4428919.078533,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.264322,5.292174,100.264322,5.292174",
     "geom:latitude":5.292174,
     "geom:longitude":100.264322,
     "gn:latitude":6.01667,
     "gn:longitude":100.75,
     "iso:country":"MY",
+    "lbl:bbox":"100.259322,5.287174,100.269322,5.297174",
     "lbl:latitude":5.292174,
     "lbl:longitude":100.264322,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.297459,
     "mps:longitude":100.265953,
     "mz:hierarchy_label":0,
@@ -25,10 +27,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Kampung Baruh"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampung Baruh"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023363,
-        890489155,
-        85675127
+        890489155
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1736317,
         "gp:id":56037174,
-        "qs:id":43730,
         "qs_pg:id":43730
     },
     "wof:country":"MY",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860628,
+    "wof:lastmodified":1566642579,
     "wof:name":"Kampung Baruh",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

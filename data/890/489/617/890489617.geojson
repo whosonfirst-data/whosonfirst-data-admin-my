@@ -12,8 +12,12 @@
     "gn:country":"MY",
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.108211,5.326199,103.148211,5.366199",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Seberang Takir"
     ],
@@ -49,7 +53,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1155077,
-        "qs:id":1064602,
+        "qs_pg:id":1064602,
         "wd:id":"Q4204575",
         "wk:page":"Seberang Takir"
     },
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890489617,
-    "wof:lastmodified":1561751767,
+    "wof:lastmodified":1566643984,
     "wof:name":"Seberang Takir",
     "wof:parent_id":85675169,
     "wof:placetype":"locality",

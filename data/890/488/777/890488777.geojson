@@ -11,11 +11,15 @@
     "geom:longitude":100.50136,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.48136,5.13164,100.52136,5.17164",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Sungai Kecil"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":1742761,
         "gp:id":1154147,
-        "qs:id":342091
+        "qs_pg:id":342091
     },
     "wof:country":"MY",
     "wof:created":1469054732,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890488777,
-    "wof:lastmodified":1505343783,
+    "wof:lastmodified":1566643949,
     "wof:name":"Sungai Kechil",
     "wof:parent_id":1108696503,
     "wof:placetype":"locality",

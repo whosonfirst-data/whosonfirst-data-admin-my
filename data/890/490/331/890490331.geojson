@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":2.548994,
     "lbl:longitude":101.874502,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NEGERI SEMBILAN",
     "meso:diss_me":"PORT DICKSONNEGERI SEMBILAN",
     "meso:gadm_admin":"Port Dickson",
@@ -32,6 +34,7 @@
     "mps:longitude":101.874502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a \u062f\u064a\u0643\u0633\u0648\u0646"
     ],
@@ -155,9 +158,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"558.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Port Dickson",
@@ -178,7 +181,7 @@
     "wof:concordances":{
         "gp:id":56013588,
         "hasc:id":"MY.NS.PD",
-        "qs:id":4762,
+        "qs_pg:id":4762,
         "wd:id":"Q653801",
         "wk:page":"Port Dickson District"
     },
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":890490331,
-    "wof:lastmodified":1563240506,
+    "wof:lastmodified":1566643868,
     "wof:name":"Port Dickson",
     "wof:parent_id":85675155,
     "wof:placetype":"county",

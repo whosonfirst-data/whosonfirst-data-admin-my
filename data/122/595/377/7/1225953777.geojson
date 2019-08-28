@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.7797,1.4813,103.8197,1.5213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Tengah"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225953777,
-    "wof:lastmodified":1537673835,
+    "wof:lastmodified":1566644439,
     "wof:name":"Kampung Tengah",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

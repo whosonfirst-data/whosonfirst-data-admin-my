@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":1.611304,
     "lbl:longitude":109.683154,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":1.611304,
     "mps:longitude":109.683154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lundu"
     ],
@@ -47,7 +50,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":22,
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":1736709,
         "gp:id":1155269,
-        "qs:id":1027455,
+        "qs_pg:id":1027455,
         "wd:id":"Q6704167"
     },
     "wof:country":"MY",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102023683,
-    "wof:lastmodified":1561751662,
+    "wof:lastmodified":1566642279,
     "wof:name":"Lundu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

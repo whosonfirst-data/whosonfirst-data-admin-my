@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3849029.809648,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.42804,4.266985,103.42804,4.266985",
     "geom:latitude":4.266985,
     "geom:longitude":103.42804,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"103.42304,4.261985,103.43304,4.271985",
     "lbl:latitude":4.266985,
     "lbl:longitude":103.42804,
+    "lbl:max_zoom":18.0,
     "mps:latitude":4.266985,
     "mps:longitude":103.42804,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
-    "name:und_x_preferred":[
-        "Desa Solehah"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Desa Solehah"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675169,
         102191569,
         85632739,
         102023873,
-        890490801,
-        85675169
+        890490801
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015143,
-        "qs:id":1294729,
         "qs_pg:id":1294729
     },
     "wof:country":"MY",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860556,
+    "wof:lastmodified":1566642605,
     "wof:name":"Desa Solehah",
     "wof:parent_id":102023873,
     "wof:placetype":"neighbourhood",

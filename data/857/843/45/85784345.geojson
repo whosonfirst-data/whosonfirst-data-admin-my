@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000531,
-    "geom:area_square_m":6550534.486882,
+    "geom:area_square_m":6550534.486889,
     "geom:bbox":"101.655716113,3.04001113015,101.679840088,3.06921923155",
     "geom:latitude":3.054982,
     "geom:longitude":101.668955,
@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.054293,
     "lbl:longitude":101.674504,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.05535,
     "mps:longitude":101.669187,
     "mz:hierarchy_label":1,
@@ -24,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
-    "name:und_x_preferred":[
-        "Hutan Simpan Air Hitam"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hutan Simpan Air Hitam"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -67,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56035508,
-        "qs:id":218431,
         "qs_pg:id":218431
     },
     "wof:country":"MY",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269417,
+    "wof:lastmodified":1566642587,
     "wof:name":"Hutan Simpan Air Hitam",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

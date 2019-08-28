@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000788,
-    "geom:area_square_m":9730758.011062,
+    "geom:area_square_m":9730758.011078,
     "geom:bbox":"101.627268066,3.22552876558,101.664733887,3.25883747776",
     "geom:latitude":3.242878,
     "geom:longitude":101.647285,
@@ -14,6 +14,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.240227,
     "lbl:longitude":101.648055,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.243612,
     "mps:longitude":101.648802,
     "mz:hierarchy_label":1,
@@ -28,10 +29,7 @@
     "name:msa_x_preferred":[
         "Taman Dagang Jaya"
     ],
-    "name:und_x_preferred":[
-        "Taman Selayang Jaya"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Selayang Jaya"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -62,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675163,
         102191569,
@@ -74,7 +72,6 @@
     "wof:concordances":{
         "gn:id":7688603,
         "gp:id":55862717,
-        "qs:id":985820,
         "qs_pg:id":985820
     },
     "wof:country":"MY",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1497309667,
+    "wof:lastmodified":1566642577,
     "wof:name":"Taman Selayang Jaya",
     "wof:parent_id":102023411,
     "wof:placetype":"neighbourhood",

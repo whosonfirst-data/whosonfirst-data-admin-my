@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":4.406659,
     "lbl:longitude":117.471313,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":4.406659,
     "mps:longitude":117.471313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kalabakan"
     ],
@@ -42,7 +45,7 @@
     "name:nld_x_preferred":[
         "Kalabakan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalabakang"
     ],
     "qs:a1":"*",
@@ -56,7 +59,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":72,
     "wof:belongsto":[
         102191569,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102022937,
-    "wof:lastmodified":1561751667,
+    "wof:lastmodified":1566642301,
     "wof:name":"Kalabakan",
     "wof:parent_id":1108696533,
     "wof:placetype":"locality",

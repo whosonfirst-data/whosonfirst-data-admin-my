@@ -11,11 +11,15 @@
     "geom:longitude":102.28333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.26333,6.16333,102.30333,6.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Kampung Pantai Cinta Berahi",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Kelantan",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1736360,
         "gp:id":1151324,
-        "qs:id":973620
+        "qs_pg:id":973620
     },
     "wof:country":"MY",
     "wof:created":1469054749,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890489243,
-    "wof:lastmodified":1505343785,
+    "wof:lastmodified":1566643987,
     "wof:name":"Kampung Pantai Cinta Berahi",
     "wof:parent_id":890489783,
     "wof:placetype":"locality",

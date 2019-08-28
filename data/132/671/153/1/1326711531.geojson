@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"110.25999,1.0775,110.29999,1.1175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampung Sebuang"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326711531,
-    "wof:lastmodified":1537673916,
+    "wof:lastmodified":1566642147,
     "wof:name":"Kampong Senah Sebuang",
     "wof:parent_id":890488875,
     "wof:placetype":"locality",

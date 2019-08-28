@@ -11,8 +11,12 @@
     "geom:longitude":100.491178,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.391178,5.039686,100.591178,5.239686",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bandar Baharu"
     ],
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014234,
-        "qs:id":287342,
+        "qs_pg:id":287342,
         "wd:id":"Q1884699",
         "wk:page":"Bandar Baharu District"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890488669,
-    "wof:lastmodified":1563240621,
+    "wof:lastmodified":1566643939,
     "wof:name":"Bagan Samak",
     "wof:parent_id":1108696503,
     "wof:placetype":"localadmin",

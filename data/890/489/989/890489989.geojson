@@ -11,12 +11,16 @@
     "geom:longitude":118.8869,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"118.8669,4.9986,118.9069,5.0386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Tungku Village"
     ],
     "qs:name":"Tungku",
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1733984,
         "gp:id":1155247,
-        "qs:id":1116831
+        "qs_pg:id":1116831
     },
     "wof:country":"MY",
     "wof:created":1469054784,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890489989,
-    "wof:lastmodified":1505343786,
+    "wof:lastmodified":1566644019,
     "wof:name":"Tungku",
     "wof:parent_id":1108696441,
     "wof:placetype":"locality",

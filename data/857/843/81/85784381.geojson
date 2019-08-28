@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5477318.813333,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.307528,5.334209,100.307528,5.334209",
     "geom:latitude":5.334209,
     "geom:longitude":100.307528,
     "gn:latitude":5.35986,
     "gn:longitude":100.44874,
     "iso:country":"MY",
+    "lbl:bbox":"100.302528,5.329209,100.312528,5.339209",
     "lbl:latitude":5.334209,
     "lbl:longitude":100.307528,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.331948,
     "mps:longitude":100.319609,
     "mz:hierarchy_label":0,
@@ -28,10 +30,7 @@
     "name:msa_x_preferred":[
         "Taman Mutiara"
     ],
-    "name:und_x_preferred":[
-        "Bayan Mutiara"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bayan Mutiara"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -64,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023363,
-        890489155,
-        85675127
+        890489155
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6818863,
         "gp:id":56035749,
-        "qs:id":1206013,
         "qs_pg:id":1206013
     },
     "wof:country":"MY",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860601,
+    "wof:lastmodified":1566642587,
     "wof:name":"Bayan Mutiara",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

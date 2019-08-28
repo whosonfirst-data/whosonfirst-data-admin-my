@@ -11,8 +11,12 @@
     "geom:longitude":102.331253,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.231253,3.374012,102.431253,3.574012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u043d\u0442\u0435\u043a\u0430\u0431"
     ],
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014616,
-        "qs:id":1313734,
+        "qs_pg:id":1313734,
         "wd:id":"Q2944710",
         "wk:page":"Mentakab"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890490479,
-    "wof:lastmodified":1563240523,
+    "wof:lastmodified":1566643879,
     "wof:name":"Mentakab",
     "wof:parent_id":890489541,
     "wof:placetype":"localadmin",

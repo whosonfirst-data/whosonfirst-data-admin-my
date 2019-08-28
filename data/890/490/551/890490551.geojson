@@ -11,11 +11,15 @@
     "geom:longitude":101.53333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":833571,
+    "gn:population":833571,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.51333,3.13,101.55333,3.17",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":5.0,
     "qs:name":"Kampong Baru Subang",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1771023,
         "gp:id":1142005,
-        "qs:id":183664
+        "qs_pg:id":183664
     },
     "wof:country":"MY",
     "wof:created":1469054814,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890490551,
-    "wof:lastmodified":1505343789,
+    "wof:lastmodified":1566643867,
     "wof:name":"Kampong Baru Subang",
     "wof:parent_id":890490605,
     "wof:placetype":"locality",

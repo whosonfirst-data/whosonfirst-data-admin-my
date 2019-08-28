@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.3276,6.3598,116.3676,6.3998",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampong Kuala Abai"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276208627,
-    "wof:lastmodified":1537674064,
+    "wof:lastmodified":1566642952,
     "wof:name":"Kampong Kuala Abai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

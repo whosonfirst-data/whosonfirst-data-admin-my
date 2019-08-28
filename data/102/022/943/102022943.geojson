@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":4.518314,
     "lbl:longitude":103.439969,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":4.518314,
     "mps:longitude":103.439969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041a\u0435\u0440\u0442\u0438\u0445"
     ],
@@ -40,7 +43,7 @@
     "name:nld_x_preferred":[
         "Kerteh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuala Kerteh"
     ],
     "name:zho_x_preferred":[
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":173,
     "wof:belongsto":[
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":1734316,
         "gp:id":1154745,
-        "qs:id":889505,
         "qs_pg:id":889505,
         "wd:id":"Q2460772",
         "wk:page":"Kerteh"
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":102022943,
-    "wof:lastmodified":1563238697,
+    "wof:lastmodified":1566642326,
     "wof:name":"Kertih",
     "wof:parent_id":890490801,
     "wof:placetype":"locality",

@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":5.432075,
     "lbl:longitude":102.195976,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KELANTAN",
     "meso:diss_me":"KUALA KRAIKELANTAN",
     "meso:gadm_admin":"Kuala Krai",
@@ -32,6 +34,7 @@
     "mps:longitude":102.195976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kuala Krai"
     ],
@@ -80,9 +83,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"1,329.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Kuala Krai",
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gp:id":56013638,
         "hasc:id":"MY.KN.KK",
-        "qs:id":987013,
+        "qs_pg:id":987013,
         "wd:id":"Q2181394",
         "wk:page":"Kuala Krai District"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890489265,
-    "wof:lastmodified":1563240758,
+    "wof:lastmodified":1566644014,
     "wof:name":"Kuala Krai",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

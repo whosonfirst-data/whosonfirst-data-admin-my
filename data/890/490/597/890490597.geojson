@@ -11,11 +11,14 @@
     "geom:longitude":103.7614,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.7564,1.4851,103.7664,1.4951",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
         "Taman Melodies"
     ],
@@ -49,7 +52,7 @@
     "wof:concordances":{
         "gn:id":7619672,
         "gp:id":56016514,
-        "qs:id":1208263,
+        "qs_pg:id":1208263,
         "wd:id":"Q7680640",
         "wk:page":"Taman Melodies"
     },
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890490597,
-    "wof:lastmodified":1563240557,
+    "wof:lastmodified":1566643898,
     "wof:name":"Taman Melodies",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

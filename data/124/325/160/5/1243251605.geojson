@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"111.23,2.39667,111.27,2.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Paloh"
     ],
     "name:und_x_variant":[
         "Kampong Paloh",
-        "Palo",
-        "Paloh"
+        "Palo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1243251605,
-    "wof:lastmodified":1564192341,
+    "wof:lastmodified":1566644151,
     "wof:name":"Paloh",
     "wof:parent_id":1108696397,
     "wof:placetype":"locality",

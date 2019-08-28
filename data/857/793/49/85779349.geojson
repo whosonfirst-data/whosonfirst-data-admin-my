@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3454099.893735,
+    "geom:area_square_m":0.0,
     "geom:bbox":"102.249071,2.193997,102.249071,2.193997",
     "geom:latitude":2.193997,
     "geom:longitude":102.249071,
     "gn:latitude":2.19167,
     "gn:longitude":102.25167,
     "iso:country":"MY",
+    "lbl:bbox":"102.244071,2.188997,102.254071,2.198997",
     "lbl:latitude":2.193997,
     "lbl:longitude":102.249071,
+    "lbl:max_zoom":18.0,
     "mps:latitude":2.191189,
     "mps:longitude":102.255406,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:eng_x_variant":[
         "Saint Paul's Hill"
-    ],
-    "name:unk_x_variant":[
-        "St. Paul's Hill"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -64,20 +63,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":157,
     "wof:belongsto":[
+        85675151,
         102191569,
         85632739,
         102023085,
-        890489715,
-        85675151
+        890489715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1903694,
         "gp:id":28345537,
-        "qs:id":894098,
         "qs_pg:id":894098,
         "wd:id":"Q19646406"
     },
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859918,
+    "wof:lastmodified":1566642595,
     "wof:name":"St. Paul's Hill",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

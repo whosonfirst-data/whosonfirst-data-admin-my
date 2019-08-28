@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":3.186061,
     "lbl:longitude":102.554617,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"PAHANG",
     "meso:diss_me":"BERAPAHANG",
     "meso:gadm_admin":"Bera",
@@ -32,6 +34,7 @@
     "mps:longitude":102.554617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Bera"
     ],
@@ -80,9 +83,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"2,214.0",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Bera",
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gp:id":56013648,
         "hasc:id":"MY.PH.BR",
-        "qs:id":1111793,
+        "qs_pg:id":1111793,
         "wd:id":"Q1658705",
         "wk:page":"Bera"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890489815,
-    "wof:lastmodified":1563240748,
+    "wof:lastmodified":1566644009,
     "wof:name":"Bera",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

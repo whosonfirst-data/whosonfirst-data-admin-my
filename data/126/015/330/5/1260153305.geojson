@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.43,6.36333,116.47,6.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Renig",
         "Renig"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260153305,
-    "wof:lastmodified":1537673744,
+    "wof:lastmodified":1566643420,
     "wof:name":"Renig",
     "wof:parent_id":1108696421,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.6489,3.3943,102.6889,3.4343",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Bagan"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326827879,
-    "wof:lastmodified":1537674201,
+    "wof:lastmodified":1566642140,
     "wof:name":"Kampung Bagan",
     "wof:parent_id":1108696463,
     "wof:placetype":"locality",

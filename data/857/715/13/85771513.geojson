@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17031366.385702,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.94846,2.710055,101.94846,2.710055",
     "geom:latitude":2.710055,
     "geom:longitude":101.94846,
     "gn:latitude":2.7024,
     "gn:longitude":101.9499,
     "iso:country":"MY",
+    "lbl:bbox":"101.94346,2.705055,101.95346,2.715055",
     "lbl:latitude":2.710055,
     "lbl:longitude":101.94846,
+    "lbl:max_zoom":18.0,
     "mps:latitude":2.703434,
     "mps:longitude":101.948055,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:und_x_variant":[
         "Kampung Semarak"
-    ],
-    "name:unk_x_variant":[
-        "Kampong Abok"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -67,19 +66,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675155,
         102191569,
         85632739,
         102023155,
-        890489719,
-        85675155
+        890489719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1771741,
         "gp:id":1141286,
-        "qs:id":188349,
         "qs_pg:id":188349
     },
     "wof:country":"MY",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859430,
+    "wof:lastmodified":1566642595,
     "wof:name":"Kampong Abok",
     "wof:parent_id":102023155,
     "wof:placetype":"neighbourhood",

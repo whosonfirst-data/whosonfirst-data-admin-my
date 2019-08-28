@@ -11,11 +11,14 @@
     "geom:longitude":103.7632,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.7582,1.4907,103.7682,1.5007",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Perbandaran Islam"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7619667,
         "gp:id":56016685,
-        "qs:id":1095754
+        "qs_pg:id":1095754
     },
     "wof:country":"MY",
     "wof:created":1469054769,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890489757,
-    "wof:lastmodified":1505343786,
+    "wof:lastmodified":1566644005,
     "wof:name":"Taman Perbadanan Islam",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

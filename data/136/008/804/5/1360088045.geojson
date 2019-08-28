@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.37244,5.70099,100.41244,5.74099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Tanah Merah",
         "Kampung Tanah Merah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360088045,
-    "wof:lastmodified":1537673866,
+    "wof:lastmodified":1566643727,
     "wof:name":"Kampung Tanah Merah",
     "wof:parent_id":890489701,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"110.46333,1.58,110.50333,1.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Pinang",
         "Kampong Sungai Pinang"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242758967,
-    "wof:lastmodified":1537673881,
+    "wof:lastmodified":1566644090,
     "wof:name":"Kampong Sungai Pinang",
     "wof:parent_id":890488875,
     "wof:placetype":"locality",

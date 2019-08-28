@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.56333,5.41333,115.60333,5.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Singkorap",
         "Kampong Singkorap"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343433449,
-    "wof:lastmodified":1537673901,
+    "wof:lastmodified":1566642576,
     "wof:name":"Kampong Singkorap",
     "wof:parent_id":1108696385,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":918377.00171,
+    "geom:area_square_m":0.0,
     "geom:bbox":"100.310057,5.437953,100.310057,5.437953",
     "geom:latitude":5.437953,
     "geom:longitude":100.310057,
     "gn:latitude":5.22661,
     "gn:longitude":100.49226,
     "iso:country":"MY",
+    "lbl:bbox":"100.305057,5.432953,100.315057,5.442953",
     "lbl:latitude":5.437953,
     "lbl:longitude":100.310057,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.439112,
     "mps:longitude":100.308444,
     "mz:hierarchy_label":0,
@@ -28,12 +30,9 @@
     "name:msa_x_preferred":[
         "Kampung Masjid Baharu"
     ],
-    "name:und_x_preferred":[
-        "Kampung Masjid Bagan"
-    ],
-    "name:unk_x_variant":[
-        "Kampong Masjid Baharu",
-        "Kampung Masjid Bagan"
+    "name:und_x_variant":[
+        "Kampung Masjid Bagan",
+        "Kampong Masjid Baharu"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -64,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675127,
         102191569,
         85632739,
         102023367,
-        1108696537,
-        85675127
+        1108696537
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1767030,
         "gp:id":56015287,
-        "qs:id":1086832,
         "qs_pg:id":1086832
     },
     "wof:country":"MY",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860559,
+    "wof:lastmodified":1566642609,
     "wof:name":"Kampung Masjid Bagan",
     "wof:parent_id":102023367,
     "wof:placetype":"neighbourhood",

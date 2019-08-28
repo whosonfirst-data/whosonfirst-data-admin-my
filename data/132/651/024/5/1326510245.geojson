@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.8831,3.1433,101.9231,3.1833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Sungai Gabai"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326510245,
-    "wof:lastmodified":1537674361,
+    "wof:lastmodified":1566642037,
     "wof:name":"Kampung Sungai Gabai",
     "wof:parent_id":1108696543,
     "wof:placetype":"locality",

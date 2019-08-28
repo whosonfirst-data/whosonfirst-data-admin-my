@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.6549,5.9282,116.6949,5.9682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampong Kituntul"
     ],
     "name:und_x_variant":[
         "Kituntul",
         "Kituntol",
-        "Kampong Kituntul",
         "Kampung Kituntul"
     ],
     "src:geom":"geonames",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1259455559,
-    "wof:lastmodified":1537674068,
+    "wof:lastmodified":1566644413,
     "wof:name":"Kampung Kituntul",
     "wof:parent_id":1108696495,
     "wof:placetype":"locality",

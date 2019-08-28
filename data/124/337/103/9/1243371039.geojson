@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.16333,5.51333,102.20333,5.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243371039,
-    "wof:lastmodified":1536914724,
+    "wof:lastmodified":1566644052,
     "wof:name":"Kampong Batu Lada",
     "wof:parent_id":890489265,
     "wof:placetype":"locality",

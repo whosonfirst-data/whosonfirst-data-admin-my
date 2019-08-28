@@ -11,8 +11,10 @@
     "geom:longitude":103.638437,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"103.633437,1.553707,103.643437,1.563707",
     "lbl:latitude":1.558707,
     "lbl:longitude":103.638437,
+    "lbl:max_zoom":18.0,
     "mps:latitude":1.559136,
     "mps:longitude":103.63977,
     "mz:hierarchy_label":0,
@@ -57,12 +59,6 @@
     "name:tgl_x_preferred":[
         "Unibersidad ng Teknolohiya"
     ],
-    "name:und_x_preferred":[
-        "Universiti Teknologi Malaysia"
-    ],
-    "name:unk_x_variant":[
-        "Universiti Teknologi Malaysia"
-    ],
     "name:zho_x_preferred":[
         "\u9a6c\u6765\u897f\u4e9a\u5de5\u827a\u5927\u5b66"
     ],
@@ -93,7 +89,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2060,
     "wof:belongsto":[
         85675141,
@@ -105,7 +101,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56017350,
-        "qs:id":1090861,
         "qs_pg:id":1090861,
         "wd:id":"Q24401"
     },
@@ -125,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563239006,
+    "wof:lastmodified":1566642580,
     "wof:name":"Universiti Teknologi Malaysia",
     "wof:parent_id":102022775,
     "wof:placetype":"neighbourhood",

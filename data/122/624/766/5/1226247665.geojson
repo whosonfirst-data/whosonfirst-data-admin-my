@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.406,2.4572,102.446,2.4972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Punggor"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226247665,
-    "wof:lastmodified":1537673944,
+    "wof:lastmodified":1566644586,
     "wof:name":"Kampung Punggor",
     "wof:parent_id":1108696529,
     "wof:placetype":"locality",

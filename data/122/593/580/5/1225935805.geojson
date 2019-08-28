@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.7399,3.9154,100.7799,3.9554",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Tebok Semani"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225935805,
-    "wof:lastmodified":1537674313,
+    "wof:lastmodified":1566644432,
     "wof:name":"Kampung Tebok Semani",
     "wof:parent_id":890490073,
     "wof:placetype":"locality",

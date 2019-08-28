@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"115.8584,4.8407,115.8984,4.8807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u044d"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1226512051,
-    "wof:lastmodified":1564192791,
+    "wof:lastmodified":1566644513,
     "wof:name":"Marais",
     "wof:parent_id":1108696535,
     "wof:placetype":"locality",

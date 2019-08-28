@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.33755,5.90662,100.37755,5.94662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kampong Sungai Dedap",
         "Kampung Sungai Dedap"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193018991,
-    "wof:lastmodified":1537673891,
+    "wof:lastmodified":1566643367,
     "wof:name":"Kampung Sungai Dedap",
     "wof:parent_id":890489701,
     "wof:placetype":"locality",

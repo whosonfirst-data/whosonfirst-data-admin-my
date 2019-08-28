@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.3708,3.5075,103.4108,3.5475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Peramu Jaya Satu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276544519,
-    "wof:lastmodified":1537674358,
+    "wof:lastmodified":1566643114,
     "wof:name":"Kampung Peramu Jaya Satu",
     "wof:parent_id":1108696481,
     "wof:placetype":"locality",

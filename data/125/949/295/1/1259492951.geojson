@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"104.1374,1.3289,104.1774,1.3689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Telok Ampang"
     ],
     "name:und_x_variant":[
-        "Kampong Telok Ampang",
-        "Kampung Telok Ampang"
+        "Kampong Telok Ampang"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1259492951,
-    "wof:lastmodified":1537673845,
+    "wof:lastmodified":1566644348,
     "wof:name":"Kampung Telok Ampang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

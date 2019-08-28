@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":2.862195,
     "lbl:longitude":101.664876,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":2.862195,
     "mps:longitude":101.664876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dengkil"
     ],
@@ -41,7 +44,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":520,
     "wof:belongsto":[
         102191569,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":102023995,
-    "wof:lastmodified":1563238587,
+    "wof:lastmodified":1566642267,
     "wof:name":"Dengkil",
     "wof:parent_id":890489971,
     "wof:placetype":"locality",

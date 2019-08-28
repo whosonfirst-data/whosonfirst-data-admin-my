@@ -11,11 +11,15 @@
     "geom:longitude":100.26877,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.24877,5.40419,100.28877,5.44419",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bukit Bendera"
     ],
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":6826917,
         "gp:id":55862654,
-        "qs:id":896655,
+        "qs_pg:id":896655,
         "wk:page":"Bukit Bendera"
     },
     "wof:country":"MY",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890489531,
-    "wof:lastmodified":1564192157,
+    "wof:lastmodified":1566644004,
     "wof:name":"Bukit Bendera",
     "wof:parent_id":1108696537,
     "wof:placetype":"locality",

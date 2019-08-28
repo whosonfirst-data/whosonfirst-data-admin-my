@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"114.76333,3.29667,114.80333,3.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Long Akah"
     ],
     "name:und_x_variant":[
-        "Long Aka",
-        "Long Akah"
+        "Long Aka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1260271121,
-    "wof:lastmodified":1564191453,
+    "wof:lastmodified":1566643470,
     "wof:name":"Long Akah",
     "wof:parent_id":1108696465,
     "wof:placetype":"locality",

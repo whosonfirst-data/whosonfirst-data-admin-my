@@ -11,8 +11,11 @@
     "geom:longitude":101.70463,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.69963,3.021639,101.70963,3.031639",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Taman Bukit Serdang",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023799,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037089,
-        "qs:id":789963
+        "qs_pg:id":789963
     },
     "wof:country":"MY",
     "wof:created":1469054795,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890490233,
-    "wof:lastmodified":1500013510,
+    "wof:lastmodified":1566643887,
     "wof:name":"Taman Bukit Serdang",
     "wof:parent_id":102023799,
     "wof:placetype":"neighbourhood",

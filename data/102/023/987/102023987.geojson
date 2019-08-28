@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000438,
-    "geom:area_square_m":5409942.347528,
+    "geom:area_square_m":5409942.347535,
     "geom:bbox":"102.070478108,3.27956283497,102.099443929,3.29763338342",
     "geom:latitude":3.288598,
     "geom:longitude":102.084961,
@@ -14,9 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.288598,
     "lbl:longitude":102.084961,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.288598,
     "mps:longitude":102.084961,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Telemung"
     ],
@@ -38,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -49,7 +53,6 @@
     "wof:concordances":{
         "gn:id":7683736,
         "gp:id":1155201,
-        "qs:id":193599,
         "qs_pg:id":193599
     },
     "wof:country":"MY",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102023987,
-    "wof:lastmodified":1497290729,
+    "wof:lastmodified":1566642291,
     "wof:name":"Telemong",
     "wof:parent_id":1108696389,
     "wof:placetype":"locality",

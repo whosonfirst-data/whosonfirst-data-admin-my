@@ -11,11 +11,14 @@
     "geom:longitude":103.4174,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.4124,4.7662,103.4224,4.7762",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Kampung Panglima"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1766225,
         "gp:id":1146810,
-        "qs:id":507260
+        "qs_pg:id":507260
     },
     "wof:country":"MY",
     "wof:created":1469054744,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890489099,
-    "wof:lastmodified":1505343784,
+    "wof:lastmodified":1566643991,
     "wof:name":"Kampong Panglima",
     "wof:parent_id":102022939,
     "wof:placetype":"neighbourhood",

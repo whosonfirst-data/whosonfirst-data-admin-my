@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.58855,3.10115,102.62855,3.14115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tanjong Kuin"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242965885,
-    "wof:lastmodified":1537673759,
+    "wof:lastmodified":1566644213,
     "wof:name":"Tanjung Kuin",
     "wof:parent_id":890489815,
     "wof:placetype":"locality",

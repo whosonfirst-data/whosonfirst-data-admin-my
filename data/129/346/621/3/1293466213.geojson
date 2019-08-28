@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.0242,5.3665,103.0642,5.4065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Pasir Putih"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293466213,
-    "wof:lastmodified":1537673978,
+    "wof:lastmodified":1566642695,
     "wof:name":"Kampung Pasir Putih",
     "wof:parent_id":890490947,
     "wof:placetype":"locality",

@@ -13,15 +13,17 @@
     "gn:fcode":"PPL",
     "gn:latitude":6.1,
     "gn:longitude":100.3,
-    "gn:pop":0,
-    "gn:population":19231,
+    "gn:population":0,
     "iso:country":"MY",
     "lbl:latitude":6.109054,
     "lbl:longitude":100.292338,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":6.109054,
     "mps:longitude":100.292338,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Kuala Kedah"
     ],
@@ -269,10 +271,9 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":163,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         85632739,
@@ -283,14 +284,13 @@
     "wof:concordances":{
         "gn:id":1736305,
         "gp:id":1154771,
-        "qs:id":1033092,
         "qs_pg:id":1033092,
         "wd:id":"Q1078157",
         "wk:page":"Kuala Kedah"
     },
     "wof:concordances_alt":{
         "gn:id":1768049,
-        "qs:id":232227
+        "qs_pg:id":232227
     },
     "wof:country":"MY",
     "wof:geomhash":"f925736b2fa6a376cb707493ed36b533",
@@ -304,7 +304,7 @@
         }
     ],
     "wof:id":102023627,
-    "wof:lastmodified":1563238547,
+    "wof:lastmodified":1566642248,
     "wof:name":"Kuala Kedah",
     "wof:parent_id":890490361,
     "wof:placetype":"locality",

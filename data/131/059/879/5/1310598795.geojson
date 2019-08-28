@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.3083,4.034,102.3483,4.074",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Doja"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310598795,
-    "wof:lastmodified":1537674128,
+    "wof:lastmodified":1566643667,
     "wof:name":"Kampung Doja",
     "wof:parent_id":890489711,
     "wof:placetype":"locality",

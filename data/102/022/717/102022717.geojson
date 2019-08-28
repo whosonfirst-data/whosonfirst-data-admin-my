@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":3.589561,
     "lbl:longitude":102.7763,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":3.589561,
     "mps:longitude":102.7763,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Maran"
     ],
@@ -30,7 +33,7 @@
     "name:msa_x_preferred":[
         "Maran"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Maran"
     ],
     "qs:a0":"Malaysia",
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":1732637,
         "gp:id":1154894,
-        "qs:id":1219369,
         "qs_pg:id":1219369,
         "wd:id":"Q6754759",
         "wk:page":"Maran District"
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":102022717,
-    "wof:lastmodified":1563238694,
+    "wof:lastmodified":1566642323,
     "wof:name":"Maran",
     "wof:parent_id":1108696463,
     "wof:placetype":"locality",

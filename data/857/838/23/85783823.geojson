@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.132501,
     "lbl:longitude":101.685512,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.130392,
     "mps:longitude":101.683768,
     "mz:hierarchy_label":1,
@@ -48,12 +49,6 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0baa\u0bc0\u0bb2\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd"
     ],
-    "name:und_x_preferred":[
-        "Brickfields"
-    ],
-    "name:unk_x_variant":[
-        "Brickfields"
-    ],
     "name:zho_x_preferred":[
         "\u5341\u4e94\u7891"
     ],
@@ -83,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1685,
     "wof:belongsto":[
         85675181,
@@ -95,7 +90,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015077,
-        "qs:id":5284,
         "qs_pg:id":5284,
         "wd:id":"Q8280759"
     },
@@ -115,7 +109,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563239046,
+    "wof:lastmodified":1566642607,
     "wof:name":"Brickfields",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

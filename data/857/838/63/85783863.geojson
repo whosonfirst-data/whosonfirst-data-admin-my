@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000301,
-    "geom:area_square_m":3718072.850527,
+    "geom:area_square_m":3718072.850536,
     "geom:bbox":"101.733398438,3.14325853952,101.757423783,3.16382881921",
     "geom:latitude":3.152941,
     "geom:longitude":101.743691,
@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.155065,
     "lbl:longitude":101.742931,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.153216,
     "mps:longitude":101.742718,
     "mz:hierarchy_label":1,
@@ -24,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
-    "name:und_x_preferred":[
-        "Desa Pahlawan"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Desa Pahlawan"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -67,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015134,
-        "qs:id":891100,
         "qs_pg:id":891100
     },
     "wof:country":"MY",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269521,
+    "wof:lastmodified":1566642607,
     "wof:name":"Desa Pahlawan",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

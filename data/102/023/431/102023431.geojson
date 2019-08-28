@@ -15,10 +15,13 @@
     "iso:country":"MY",
     "lbl:latitude":2.997359,
     "lbl:longitude":101.798108,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.997359,
     "mps:longitude":101.798108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u062c\u0627\u0646\u063a"
     ],
@@ -154,7 +157,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1266,
     "wof:belongsto":[
@@ -167,7 +170,6 @@
     "wof:concordances":{
         "gn:id":1735174,
         "gp:id":1141268,
-        "qs:id":1145953,
         "qs_pg:id":1145953,
         "wd:id":"Q1946482",
         "wk:page":"Kajang"
@@ -184,7 +186,7 @@
         }
     ],
     "wof:id":102023431,
-    "wof:lastmodified":1563238561,
+    "wof:lastmodified":1566642253,
     "wof:name":"Kajang",
     "wof:parent_id":1108696543,
     "wof:placetype":"locality",

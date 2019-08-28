@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"110.64667,1.53,110.68667,1.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u1230\u1218\u122b"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1209894281,
-    "wof:lastmodified":1564191256,
+    "wof:lastmodified":1566643303,
     "wof:name":"Semera",
     "wof:parent_id":1108696375,
     "wof:placetype":"locality",

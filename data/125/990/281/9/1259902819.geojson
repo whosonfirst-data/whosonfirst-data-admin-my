@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.78786,2.52825,101.82786,2.56825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Batu Dua"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259902819,
-    "wof:lastmodified":1537674182,
+    "wof:lastmodified":1566644305,
     "wof:name":"Kampung Batu Dua",
     "wof:parent_id":890490331,
     "wof:placetype":"locality",

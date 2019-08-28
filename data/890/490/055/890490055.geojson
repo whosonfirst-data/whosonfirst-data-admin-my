@@ -11,8 +11,12 @@
     "geom:longitude":101.494145,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.394145,3.032952,101.594145,3.232952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bukit Raja"
     ],
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014002,
-        "qs:id":69082,
+        "qs_pg:id":69082,
         "wd:id":"Q4986953",
         "wk:page":"Bukit Raja"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890490055,
-    "wof:lastmodified":1563240534,
+    "wof:lastmodified":1566643886,
     "wof:name":"Bukit Raja",
     "wof:parent_id":890490605,
     "wof:placetype":"localadmin",

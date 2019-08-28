@@ -11,11 +11,15 @@
     "geom:longitude":103.4226,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.4026,1.398,103.4426,1.438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Daerah Pontian"
     ],
@@ -40,7 +44,7 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bca\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0bcd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Telok Kerang"
     ],
     "name:zho_x_preferred":[
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":1763036,
         "gp:id":1155205,
-        "qs:id":1294447,
+        "qs_pg:id":1294447,
         "wd:id":"Q2452012",
         "wk:page":"Pontian District"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890490899,
-    "wof:lastmodified":1563240582,
+    "wof:lastmodified":1566643914,
     "wof:name":"Telok Kerang",
     "wof:parent_id":890491001,
     "wof:placetype":"locality",

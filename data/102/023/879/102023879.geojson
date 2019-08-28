@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002828,
-    "geom:area_square_m":34876433.866414,
+    "geom:area_square_m":34876433.8664,
     "geom:bbox":"100.905911641,4.14563772814,100.978854016,4.20754959105",
     "geom:latitude":4.176272,
     "geom:longitude":100.942607,
@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":4.176595,
     "lbl:longitude":100.946263,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":4.176595,
     "mps:longitude":100.946263,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Malaysia",
     "qs:a1":"*Perak",
     "qs:a1r":"*",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -47,7 +50,6 @@
     "wof:concordances":{
         "gn:id":1769486,
         "gp:id":1143544,
-        "qs:id":1072838,
         "qs_pg:id":1072838
     },
     "wof:country":"MY",
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":102023879,
-    "wof:lastmodified":1497302879,
+    "wof:lastmodified":1566642274,
     "wof:name":"Kampong Gajah",
     "wof:parent_id":890489811,
     "wof:placetype":"locality",

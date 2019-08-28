@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00057,
-    "geom:area_square_m":7052380.833824,
+    "geom:area_square_m":7052380.833822,
     "geom:bbox":"110.453047714,1.2254461771,110.504182422,1.2476589229",
     "geom:latitude":1.236785,
     "geom:longitude":110.479364,
@@ -14,9 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":1.238033,
     "lbl:longitude":110.492222,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":1.238033,
     "mps:longitude":110.492222,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -28,7 +32,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -39,10 +43,10 @@
     "wof:concordances":{
         "gn:id":1966741,
         "gp:id":56013817,
-        "qs:id":1031904
+        "qs_pg:id":1031904
     },
     "wof:country":"MY",
-    "wof:geomhash":"b66cf08f3514caa699004a5a69853e48",
+    "wof:geomhash":"1ef54c4ec33bbb9b1033ab04ad4de945",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102023925,
-    "wof:lastmodified":1480369964,
+    "wof:lastmodified":1566642264,
     "wof:name":"Bahagian Samarahan",
     "wof:parent_id":1108696511,
     "wof:placetype":"locality",

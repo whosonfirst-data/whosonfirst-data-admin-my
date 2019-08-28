@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11309452.617824,
+    "geom:area_square_m":0.0,
     "geom:bbox":"113.985535,4.351341,113.985535,4.351341",
     "geom:latitude":4.351341,
     "geom:longitude":113.985535,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"113.980535,4.346341,113.990535,4.356341",
     "lbl:latitude":4.351341,
     "lbl:longitude":113.985535,
+    "lbl:max_zoom":18.0,
     "mps:latitude":4.351495,
     "mps:longitude":113.985284,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Brighton Area"
-    ],
-    "name:unk_x_variant":[
         "Brighton Area"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675177,
         102191569,
         85632739,
         102023773,
-        890488483,
-        85675177
+        890488483
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1140936,
-        "qs:id":427046,
         "qs_pg:id":427046
     },
     "wof:country":"MY",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859425,
+    "wof:lastmodified":1566642593,
     "wof:name":"Brighton Area",
     "wof:parent_id":102023773,
     "wof:placetype":"neighbourhood",

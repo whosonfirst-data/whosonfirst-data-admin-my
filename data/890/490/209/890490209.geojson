@@ -11,11 +11,14 @@
     "geom:longitude":101.775,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.77,3.162,101.78,3.172",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Taman Tun Abdul Razak"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7688593,
         "gp:id":56036482,
-        "qs:id":1182990
+        "qs_pg:id":1182990
     },
     "wof:country":"MY",
     "wof:created":1469054794,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890490209,
-    "wof:lastmodified":1505343787,
+    "wof:lastmodified":1566643908,
     "wof:name":"Taman Tun Abdul Razak",
     "wof:parent_id":102023417,
     "wof:placetype":"neighbourhood",

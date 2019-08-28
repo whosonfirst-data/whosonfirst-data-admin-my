@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":7.14995,
     "lbl:longitude":112.593384,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":7.14995,
     "mps:longitude":112.593384,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Bali"
     ],
@@ -88,8 +91,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85632739
     ],
@@ -97,7 +99,7 @@
     "wof:concordances":{
         "gn:id":7612594,
         "gp:id":1154563,
-        "qs:id":1013767
+        "qs_pg:id":1013767
     },
     "wof:country":"MY",
     "wof:geomhash":"cd790414f6ce546e5d40868b39e4bacf",
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":102023983,
-    "wof:lastmodified":1564190036,
+    "wof:lastmodified":1566642257,
     "wof:name":"Bali",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

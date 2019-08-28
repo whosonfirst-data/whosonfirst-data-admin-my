@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":3.680395,
     "lbl:longitude":113.733833,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SARAWAK",
     "meso:diss_me":"MIRISARAWAK",
     "meso:gadm_admin":"Miri",
@@ -32,6 +34,7 @@
     "mps:longitude":113.733833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Miri"
     ],
@@ -57,9 +60,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-07-06",
+    "src:population_date":"2010-07-06",
     "statoids:area_km":"",
     "statoids:as_of_date":"2010-07-06",
     "statoids:capital":"Miri",
@@ -80,7 +83,7 @@
     "wof:concordances":{
         "gp:id":56013598,
         "hasc:id":"MY.SK.MI",
-        "qs:id":1306769,
+        "qs_pg:id":1306769,
         "wd:id":"Q19646293",
         "wk:page":"Miri District"
     },
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890488483,
-    "wof:lastmodified":1563240612,
+    "wof:lastmodified":1566643933,
     "wof:name":"Miri",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

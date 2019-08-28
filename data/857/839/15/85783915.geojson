@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3133243.934518,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.711853,1.493514,103.711853,1.493514",
     "geom:latitude":1.493514,
     "geom:longitude":103.711853,
     "gn:latitude":1.5011,
     "gn:longitude":104.0444,
     "iso:country":"MY",
+    "lbl:bbox":"103.706853,1.488514,103.716853,1.498514",
     "lbl:latitude":1.493514,
     "lbl:longitude":103.711853,
+    "lbl:max_zoom":18.0,
     "mps:latitude":1.496113,
     "mps:longitude":103.70907,
     "mz:hierarchy_label":0,
@@ -28,12 +30,9 @@
     "name:msa_x_preferred":[
         "Kampung Kudi Kain"
     ],
-    "name:und_x_preferred":[
-        "Kampung Skudai Kiri"
-    ],
-    "name:unk_x_variant":[
-        "Kampong Kudi Kain",
-        "Kampung Skudai Kiri"
+    "name:und_x_variant":[
+        "Kampung Skudai Kiri",
+        "Kampong Kudi Kain"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -64,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675141,
         102191569,
         85632739,
         102022781,
-        1108696403,
-        85675141
+        1108696403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1767765,
         "gp:id":56015321,
-        "qs:id":773779,
         "qs_pg:id":773779
     },
     "wof:country":"MY",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860560,
+    "wof:lastmodified":1566642611,
     "wof:name":"Kampung Skudai Kiri",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

@@ -11,11 +11,15 @@
     "geom:longitude":102.5861,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.5661,2.1437,102.6061,2.1837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Serom"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":1744200,
         "gp:id":1155112,
-        "qs:id":308404
+        "qs_pg:id":308404
     },
     "wof:country":"MY",
     "wof:created":1469054730,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890488743,
-    "wof:lastmodified":1505343783,
+    "wof:lastmodified":1566643968,
     "wof:name":"Serom",
     "wof:parent_id":1108696447,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00076,
-    "geom:area_square_m":9394637.451957,
+    "geom:area_square_m":9394637.451959,
     "geom:bbox":"102.784593567,1.99555520126,102.821044922,2.02461586853",
     "geom:latitude":2.010385,
     "geom:longitude":102.803694,
@@ -14,14 +14,17 @@
     "iso:country":"MY",
     "lbl:latitude":2.011128,
     "lbl:longitude":102.804041,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":2.011128,
     "mps:longitude":102.804041,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Parit Sulung"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Parit Sulong"
     ],
     "qs:a0":"Malaysia",
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -53,7 +56,6 @@
     "wof:concordances":{
         "gn:id":1732680,
         "gp:id":1152468,
-        "qs:id":948093,
         "qs_pg:id":948093
     },
     "wof:country":"MY",
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":102022739,
-    "wof:lastmodified":1497294368,
+    "wof:lastmodified":1566642299,
     "wof:name":"Parit Sulung",
     "wof:parent_id":890488721,
     "wof:placetype":"locality",

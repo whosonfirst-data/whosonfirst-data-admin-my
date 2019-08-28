@@ -11,15 +11,19 @@
     "geom:longitude":104.1966,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"104.1766,1.5551,104.2166,1.5951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kangkar Chemaran"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Chemaran"
     ],
     "qs:name":"Kangkar Chemaran",
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1762118,
         "gp:id":1154710,
-        "qs:id":188461
+        "qs_pg:id":188461
     },
     "wof:country":"MY",
     "wof:created":1469054816,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890490585,
-    "wof:lastmodified":1505343789,
+    "wof:lastmodified":1566643916,
     "wof:name":"Kangkar Chemaran",
     "wof:parent_id":890491003,
     "wof:placetype":"locality",

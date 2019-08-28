@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"111.51333,1.26333,111.55333,1.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Lidong"
     ],
@@ -39,8 +43,7 @@
         "Lidong"
     ],
     "name:und_x_variant":[
-        "Lidong Bazaar",
-        "Lidong"
+        "Lidong Bazaar"
     ],
     "name:vie_x_preferred":[
         "L\u1eadp \u0111\u00f4ng"
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1326911605,
-    "wof:lastmodified":1564189969,
+    "wof:lastmodified":1566642187,
     "wof:name":"Lidong",
     "wof:parent_id":1108696391,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.3558,6.3343,116.3958,6.3743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampong Lingkodon"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276853099,
-    "wof:lastmodified":1537674037,
+    "wof:lastmodified":1566643027,
     "wof:name":"Kampong Lingkodon",
     "wof:parent_id":1108696421,
     "wof:placetype":"locality",

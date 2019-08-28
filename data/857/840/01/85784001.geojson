@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16268971.120531,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.561988,2.994745,101.561988,2.994745",
     "geom:latitude":2.994745,
     "geom:longitude":101.561988,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.556988,2.989745,101.566988,2.999745",
     "lbl:latitude":2.994745,
     "lbl:longitude":101.561988,
+    "lbl:max_zoom":18.0,
     "mps:latitude":2.998723,
     "mps:longitude":101.561619,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Putra Height"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Putra Height"
     ],
     "qs:gn_id":0,
@@ -56,18 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102022833,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015682,
-        "qs:id":400326,
         "qs_pg:id":400326
     },
     "wof:country":"MY",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860569,
+    "wof:lastmodified":1566642603,
     "wof:name":"Putra Height",
     "wof:parent_id":102022833,
     "wof:placetype":"neighbourhood",

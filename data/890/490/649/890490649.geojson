@@ -11,11 +11,15 @@
     "geom:longitude":102.8425,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.8225,2.465,102.8625,2.505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Bukit Siput"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1778269,
         "gp:id":1154628,
-        "qs:id":193547
+        "qs_pg:id":193547
     },
     "wof:country":"MY",
     "wof:created":1469054819,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890490649,
-    "wof:lastmodified":1505343789,
+    "wof:lastmodified":1566643903,
     "wof:name":"Bukit Siput",
     "wof:parent_id":890488717,
     "wof:placetype":"locality",

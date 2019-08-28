@@ -11,11 +11,15 @@
     "geom:longitude":103.6197,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.5997,1.5465,103.6397,1.5865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Sri Pulai"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7857943,
         "gp:id":56036203,
-        "qs:id":1012911
+        "qs_pg:id":1012911
     },
     "wof:country":"MY",
     "wof:created":1469054755,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890489387,
-    "wof:lastmodified":1505343785,
+    "wof:lastmodified":1566644019,
     "wof:name":"Taman Sri Daik",
     "wof:parent_id":1108696433,
     "wof:placetype":"locality",

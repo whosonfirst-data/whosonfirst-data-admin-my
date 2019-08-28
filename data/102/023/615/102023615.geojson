@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":6.368412,
     "lbl:longitude":100.327901,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.368412,
     "mps:longitude":100.327901,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kodiang"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":1736287,
         "gp:id":1151773,
-        "qs:id":239597,
         "qs_pg:id":239597,
         "wd:id":"Q288942",
         "wk:page":"Kodiang"
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":102023615,
-    "wof:lastmodified":1561751662,
+    "wof:lastmodified":1566642277,
     "wof:name":"Kodiang",
     "wof:parent_id":890488625,
     "wof:placetype":"locality",

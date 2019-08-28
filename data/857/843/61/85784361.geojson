@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4429509.660261,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.778625,3.132654,101.778625,3.132654",
     "geom:latitude":3.132654,
     "geom:longitude":101.778625,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.773625,3.127654,101.783625,3.137654",
     "lbl:latitude":3.132654,
     "lbl:longitude":101.778625,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.13879,
     "mps:longitude":101.775334,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Taman Dagang"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Dagang"
     ],
     "qs:gn_fcode":"PPL",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023417,
-        1108696543,
-        85675163
+        1108696543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56035729,
-        "qs:id":968178,
         "qs_pg:id":968178
     },
     "wof:country":"MY",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860598,
+    "wof:lastmodified":1566642586,
     "wof:name":"Taman Dagang",
     "wof:parent_id":102023417,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"111.73,1.56333,111.77,1.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bair"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1344045415,
-    "wof:lastmodified":1564190320,
+    "wof:lastmodified":1566642532,
     "wof:name":"Bair",
     "wof:parent_id":1108696391,
     "wof:placetype":"locality",

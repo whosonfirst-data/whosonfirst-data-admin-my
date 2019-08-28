@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.1172,3.4162,103.1572,3.4562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Semambu"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343284057,
-    "wof:lastmodified":1537673919,
+    "wof:lastmodified":1566642552,
     "wof:name":"Kampung Semambu",
     "wof:parent_id":1108696481,
     "wof:placetype":"locality",

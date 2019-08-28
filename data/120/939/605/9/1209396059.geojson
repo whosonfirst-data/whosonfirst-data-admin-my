@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"112.14667,2.36333,112.18667,2.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632739
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209396059,
-    "wof:lastmodified":1536288298,
+    "wof:lastmodified":1566643157,
     "wof:name":"Rumah Arah",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",

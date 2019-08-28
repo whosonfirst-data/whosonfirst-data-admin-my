@@ -11,11 +11,14 @@
     "geom:longitude":100.2955,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.2905,5.37739,100.3005,5.38739",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:msa_x_preferred":[
         "Batu Lanchang Lama"
     ],
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1780756,
         "gp:id":1140834,
-        "qs:id":917239
+        "qs_pg:id":917239
     },
     "wof:country":"MY",
     "wof:created":1469054763,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890489621,
-    "wof:lastmodified":1505343786,
+    "wof:lastmodified":1566643984,
     "wof:name":"Batu Lanchang Lama",
     "wof:parent_id":102023367,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.68,4.74667,100.72,4.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310397177,
-    "wof:lastmodified":1537070244,
+    "wof:lastmodified":1566643614,
     "wof:name":"Kampong Jaha",
     "wof:parent_id":890490803,
     "wof:placetype":"locality",

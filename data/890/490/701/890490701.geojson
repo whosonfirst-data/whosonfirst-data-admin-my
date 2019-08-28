@@ -11,11 +11,15 @@
     "geom:longitude":103.7773,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"103.7573,1.4742,103.7973,1.5142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Taman Sentosa"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":7619670,
         "gp:id":56017108,
-        "qs:id":208199
+        "qs_pg:id":208199
     },
     "wof:country":"MY",
     "wof:created":1469054821,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890490701,
-    "wof:lastmodified":1505343789,
+    "wof:lastmodified":1566643869,
     "wof:name":"Taman Sri Sentosa",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

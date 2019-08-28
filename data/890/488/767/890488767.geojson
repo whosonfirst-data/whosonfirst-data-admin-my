@@ -11,11 +11,15 @@
     "geom:longitude":100.6581,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.6381,4.2261,100.6781,4.2661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jalan Kampung Acheh"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":7792165,
         "gp:id":56037216,
-        "qs:id":338574,
+        "qs_pg:id":338574,
         "wd:id":"Q6126238",
         "wk:page":"Jalan Kampung Acheh"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890488767,
-    "wof:lastmodified":1563240642,
+    "wof:lastmodified":1566643951,
     "wof:name":"Kampung Acheh",
     "wof:parent_id":1108696459,
     "wof:placetype":"locality",

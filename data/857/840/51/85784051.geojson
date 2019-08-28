@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1325795.729716,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.752814,3.158752,101.752814,3.158752",
     "geom:latitude":3.158752,
     "geom:longitude":101.752814,
     "gn:latitude":3.4401,
     "gn:longitude":101.1676,
     "iso:country":"MY",
+    "lbl:bbox":"101.747814,3.153752,101.757814,3.163752",
     "lbl:latitude":3.158752,
     "lbl:longitude":101.752814,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.161908,
     "mps:longitude":101.752852,
     "mz:hierarchy_label":0,
@@ -28,10 +30,7 @@
     "name:msa_x_preferred":[
         "Kampung Dato Ahmad Razali"
     ],
-    "name:und_x_preferred":[
-        "Taman Dato Ahmad Razali"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Dato Ahmad Razali"
     ],
     "qs:gn_fcode":"PPL",
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023417,
-        1108696543,
-        85675163
+        1108696543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7663191,
         "gp:id":56016032,
-        "qs:id":210742,
         "qs_pg:id":210742
     },
     "wof:country":"MY",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860573,
+    "wof:lastmodified":1566642601,
     "wof:name":"Taman Dato Ahmad Razali",
     "wof:parent_id":102023417,
     "wof:placetype":"neighbourhood",

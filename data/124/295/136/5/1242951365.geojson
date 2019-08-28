@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"112.53,1.69667,112.57,1.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mangai",
         "Rumah Peng Manggai",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242951365,
-    "wof:lastmodified":1537673771,
+    "wof:lastmodified":1566644108,
     "wof:name":"Rumah Penghulu Mangai",
     "wof:parent_id":1108696521,
     "wof:placetype":"locality",

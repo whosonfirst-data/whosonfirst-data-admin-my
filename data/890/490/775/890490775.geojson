@@ -11,8 +11,11 @@
     "geom:longitude":101.615166,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.610166,3.012413,101.620166,3.022413",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Taman Industri Pusat Bandar Puchong",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023809,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037088,
-        "qs:id":218438
+        "qs_pg:id":218438
     },
     "wof:country":"MY",
     "wof:created":1469054824,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890490775,
-    "wof:lastmodified":1500013507,
+    "wof:lastmodified":1566643917,
     "wof:name":"Taman Industri Pusat Bandar Puchong",
     "wof:parent_id":102023809,
     "wof:placetype":"neighbourhood",

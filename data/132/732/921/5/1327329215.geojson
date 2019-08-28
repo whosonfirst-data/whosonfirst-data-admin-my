@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.16741,6.6557,100.20741,6.6957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Wang Kelian"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327329215,
-    "wof:lastmodified":1537673731,
+    "wof:lastmodified":1566642126,
     "wof:name":"Kampung Wang Kelian",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",

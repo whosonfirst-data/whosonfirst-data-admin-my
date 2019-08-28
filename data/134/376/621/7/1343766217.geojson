@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"103.9211,1.6251,103.9611,1.6651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Jempul"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343766217,
-    "wof:lastmodified":1537674444,
+    "wof:lastmodified":1566642444,
     "wof:name":"Kampung Jempul",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

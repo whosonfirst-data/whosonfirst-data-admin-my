@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1698933.023385,
+    "geom:area_square_m":0.0,
     "geom:bbox":"102.256793,2.198828,102.256793,2.198828",
     "geom:latitude":2.198828,
     "geom:longitude":102.256793,
     "iso:country":"MY",
+    "lbl:bbox":"102.251793,2.193828,102.261793,2.203828",
     "lbl:latitude":2.198828,
     "lbl:longitude":102.256793,
+    "lbl:max_zoom":18.0,
     "mps:latitude":2.203169,
     "mps:longitude":102.262378,
     "mz:hierarchy_label":0,
@@ -23,10 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Taman Bendahara"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taman Bendahara"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -58,13 +57,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675151,
         102191569,
         85632739,
         102023085,
-        890489715,
-        85675151
+        890489715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +85,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860629,
+    "wof:lastmodified":1566642578,
     "wof:name":"Taman Bendahara",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

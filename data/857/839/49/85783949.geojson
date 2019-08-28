@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4899093.152759,
+    "geom:area_square_m":0.0,
     "geom:bbox":"101.613193,3.13454,101.613193,3.13454",
     "geom:latitude":3.13454,
     "geom:longitude":101.613193,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.608193,3.12954,101.618193,3.13954",
     "lbl:latitude":3.13454,
     "lbl:longitude":101.613193,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.132152,
     "mps:longitude":101.611671,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Kg. Sungai Kayu Ara"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kg. Sungai Kayu Ara"
     ],
     "qs:gn_adm0_cc":"MY",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675163,
         102191569,
         85632739,
         102023395,
-        890490605,
-        85675163
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56015499,
-        "qs:id":5460,
         "qs_pg:id":5460
     },
     "wof:country":"MY",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531860564,
+    "wof:lastmodified":1566642612,
     "wof:name":"Kg. Sungai Kayu Ara",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

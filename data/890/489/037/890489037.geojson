@@ -11,8 +11,11 @@
     "geom:longitude":101.753311,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.748311,3.186893,101.758311,3.196893",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Wangsa Maju"
     ],
@@ -47,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56017357,
-        "qs:id":481812,
+        "qs_pg:id":481812,
         "wd:id":"Q7967900",
         "wk:page":"Wangsa Maju"
     },
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890489037,
-    "wof:lastmodified":1563240716,
+    "wof:lastmodified":1566643993,
     "wof:name":"Wangsa Maju",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

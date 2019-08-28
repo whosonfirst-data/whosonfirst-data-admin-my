@@ -11,8 +11,12 @@
     "geom:longitude":101.086975,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.986975,4.497129,101.186975,4.697129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Hulu Kinta",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Perak",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56014601,
-        "qs:id":1111919
+        "qs_pg:id":1111919
     },
     "wof:country":"MY",
     "wof:created":1469054780,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890489903,
-    "wof:lastmodified":1500013218,
+    "wof:lastmodified":1566644003,
     "wof:name":"Hulu Kinta",
     "wof:parent_id":890490953,
     "wof:placetype":"localadmin",

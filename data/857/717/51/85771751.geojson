@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8375527.181528,
+    "geom:area_square_m":0.0,
     "geom:bbox":"103.278076,3.819175,103.278076,3.819175",
     "geom:latitude":3.819175,
     "geom:longitude":103.278076,
     "gn:latitude":3.8127,
     "gn:longitude":103.2836,
     "iso:country":"MY",
+    "lbl:bbox":"103.273076,3.814175,103.283076,3.824175",
     "lbl:latitude":3.819175,
     "lbl:longitude":103.278076,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.823149,
     "mps:longitude":103.283602,
     "mz:hierarchy_label":0,
@@ -33,10 +35,6 @@
     ],
     "name:msa_x_preferred":[
         "Kampung Tiram"
-    ],
-    "name:unk_x_variant":[
-        "Tiram",
-        "Kampong Tiram"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -68,19 +66,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675159,
         102191569,
         85632739,
         102023459,
-        890490895,
-        85675159
+        890490895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1762647,
         "gp:id":1150396,
-        "qs:id":1187769,
         "qs_pg:id":1187769
     },
     "wof:country":"MY",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859452,
+    "wof:lastmodified":1566642613,
     "wof:name":"Kampong Tiram",
     "wof:parent_id":102023459,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,7 @@
     "iso:country":"MY",
     "lbl:latitude":3.151689,
     "lbl:longitude":101.619976,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.155393,
     "mps:longitude":101.626739,
     "mz:hierarchy_label":1,
@@ -32,15 +33,6 @@
     ],
     "name:msa_x_preferred":[
         "Taman Tun Dr. Ismail"
-    ],
-    "name:und_x_preferred":[
-        "Taman Tun Dr Ismail"
-    ],
-    "name:und_x_variant":[
-        "Taman Tun Dr. Ismail"
-    ],
-    "name:unk_x_variant":[
-        "Taman Tun Dr Ismail"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_id":0,
@@ -68,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":3.15056,
     "wd:longitude":101.625,
     "wd:wordcount":1331,
@@ -82,7 +74,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55862702,
-        "qs:id":1091740,
         "qs_pg:id":1091740,
         "wd:id":"Q7680666"
     },
@@ -102,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563239015,
+    "wof:lastmodified":1566642585,
     "wof:name":"Taman Tun Dr Ismail",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

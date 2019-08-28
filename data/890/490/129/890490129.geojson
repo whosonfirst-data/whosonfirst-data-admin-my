@@ -11,11 +11,15 @@
     "geom:longitude":102.4191,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"102.3991,2.4556,102.4391,2.4956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Batang Melaka"
     ],
@@ -28,7 +32,7 @@
     "name:tam_x_preferred":[
         "\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0b99\u0bcd \u0bae\u0bb2\u0bbe\u0b95\u0bcd\u0b95\u0bbe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Batang Malaka"
     ],
     "name:zho_x_preferred":[
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1734740,
         "gp:id":1140804,
-        "qs:id":1165545,
+        "qs_pg:id":1165545,
         "wd:id":"Q1093972",
         "wk:page":"Batang Melaka"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890490129,
-    "wof:lastmodified":1561751760,
+    "wof:lastmodified":1566643890,
     "wof:name":"Batang Melaka",
     "wof:parent_id":1108696529,
     "wof:placetype":"locality",

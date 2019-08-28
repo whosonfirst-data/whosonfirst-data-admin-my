@@ -11,12 +11,15 @@
     "geom:longitude":100.26858,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.26358,5.33694,100.27358,5.34694",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Kampung Darat"
     ],
     "qs:name":"Kampong Darai",
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1769697,
         "gp:id":1143332,
-        "qs:id":222646
+        "qs_pg:id":222646
     },
     "wof:country":"MY",
     "wof:created":1469054825,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890490809,
-    "wof:lastmodified":1505343789,
+    "wof:lastmodified":1566643909,
     "wof:name":"Kampong Darai",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

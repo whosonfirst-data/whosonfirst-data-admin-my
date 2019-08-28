@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"101.68,2.79667,101.72,2.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Selinsing",
         "Kampong Selinsing"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310015829,
-    "wof:lastmodified":1537673920,
+    "wof:lastmodified":1566643611,
     "wof:name":"Kampong Selinsing",
     "wof:parent_id":890489971,
     "wof:placetype":"locality",

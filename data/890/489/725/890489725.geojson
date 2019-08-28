@@ -11,8 +11,12 @@
     "geom:longitude":101.664733,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.644733,2.902254,101.684733,2.942254",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:name":"Century Square",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Selangor",
@@ -34,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56035060,
-        "qs:id":1090987,
+        "qs_pg:id":1090987,
         "wk:page":"Century Square"
     },
     "wof:country":"MY",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890489725,
-    "wof:lastmodified":1527792863,
+    "wof:lastmodified":1566643995,
     "wof:name":"Century Square",
     "wof:parent_id":890489971,
     "wof:placetype":"locality",

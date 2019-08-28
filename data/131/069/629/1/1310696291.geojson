@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.40514,5.13563,100.44514,5.17563",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Sungai Udang Kechil"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310696291,
-    "wof:lastmodified":1537673874,
+    "wof:lastmodified":1566643688,
     "wof:name":"Kampung Sungai Udang Kecil",
     "wof:parent_id":1108696503,
     "wof:placetype":"locality",

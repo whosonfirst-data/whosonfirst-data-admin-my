@@ -14,10 +14,13 @@
     "iso:country":"MY",
     "lbl:latitude":4.735201,
     "lbl:longitude":114.790649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":4.735201,
     "mps:longitude":114.790649,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Brunai"
     ],
@@ -603,7 +606,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0443\u043d\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Brunei"
     ],
     "name:urd_x_preferred":[
@@ -656,7 +659,7 @@
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739,
@@ -680,7 +683,7 @@
         }
     ],
     "wof:id":102022879,
-    "wof:lastmodified":1564190056,
+    "wof:lastmodified":1566642316,
     "wof:name":"Brunei",
     "wof:parent_id":1108696449,
     "wof:placetype":"locality",

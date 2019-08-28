@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.36695,5.76657,100.40695,5.80657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Sulup"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310604265,
-    "wof:lastmodified":1537673896,
+    "wof:lastmodified":1566643706,
     "wof:name":"Kampung Sulup",
     "wof:parent_id":890489701,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":101.48333,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.46333,3.03,101.50333,3.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Padang Jawa"
     ],
@@ -26,9 +30,6 @@
         "Permatang Pasir"
     ],
     "name:nld_x_preferred":[
-        "Padang Jawa"
-    ],
-    "name:unk_x_variant":[
         "Padang Jawa"
     ],
     "qs:name":"Kampong Padang Jawa",
@@ -51,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1766520,
         "gp:id":1146517,
-        "qs:id":1166135,
+        "qs_pg:id":1166135,
         "wd:id":"Q7123231"
     },
     "wof:country":"MY",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":890490133,
-    "wof:lastmodified":1563240511,
+    "wof:lastmodified":1566643872,
     "wof:name":"Kampong Padang Jawa",
     "wof:parent_id":1108696415,
     "wof:placetype":"locality",

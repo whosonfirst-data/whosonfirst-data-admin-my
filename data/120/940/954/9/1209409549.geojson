@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.99667,5.71333,101.03667,5.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632739
@@ -34,7 +38,7 @@
         "gn:id":1770112
     },
     "wof:country":"MY",
-    "wof:geomhash":"01e7b2e398024a1f16ad12d7ed1ac364",
+    "wof:geomhash":"38449308f877c8358bb252a1fefe4561",
     "wof:hierarchy":[
         {
             "country_id":85632739,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209409549,
-    "wof:lastmodified":1536287884,
+    "wof:lastmodified":1566643207,
     "wof:name":"Kampong Bukit Serdang",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     101.01667,
-    5.7333300000000005,
+    5.73333,
     101.01667,
-    5.7333300000000005
+    5.73333
 ],
   "geometry": {"coordinates":[101.01667,5.73333],"type":"Point"}
 }

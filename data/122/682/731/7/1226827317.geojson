@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"111.14667,1.23,111.18667,1.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Lingga"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226827317,
-    "wof:lastmodified":1564192868,
+    "wof:lastmodified":1566644575,
     "wof:name":"Lingga",
     "wof:parent_id":1108696523,
     "wof:placetype":"locality",

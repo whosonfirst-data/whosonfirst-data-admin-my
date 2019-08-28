@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.4098,3.8569,102.4498,3.8969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Pulau Tawar"
     ],
     "name:und_x_variant":[
-        "Tawar",
-        "Kampung Pulau Tawar"
+        "Tawar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209236475,
-    "wof:lastmodified":1537673665,
+    "wof:lastmodified":1566643206,
     "wof:name":"Kampung Pulau Tawar",
     "wof:parent_id":85632739,
     "wof:placetype":"locality",

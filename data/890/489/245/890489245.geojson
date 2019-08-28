@@ -11,18 +11,22 @@
     "geom:longitude":100.35953,
     "gn:country":"MY",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"100.33953,5.66712,100.37953,5.70712",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jalan Tanjung Dawai"
     ],
     "name:msa_x_preferred":[
         "Kampung Tanjung Dawai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampong Dawai"
     ],
     "qs:name":"Kampung Tanjung Dawai",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1735494,
         "gp:id":1151565,
-        "qs:id":973726,
+        "qs_pg:id":973726,
         "wd:id":"Q24934625",
         "wk:page":"Jalan Tanjung Dawai"
     },
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890489245,
-    "wof:lastmodified":1563240698,
+    "wof:lastmodified":1566643985,
     "wof:name":"Kampung Tanjung Dawai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
