@@ -71,6 +71,10 @@
         "qs_pg:id":5460
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"0fb85c5cee9ff295f8ac1fed9a91ba4c",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642612,
+    "wof:lastmodified":1582348025,
     "wof:name":"Kg. Sungai Kayu Ara",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

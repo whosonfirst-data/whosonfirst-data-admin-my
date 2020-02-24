@@ -218,6 +218,9 @@
         "wk:page":"Muar (town)"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"731b0318a6649eb9686dcd731cfb4090",
     "wof:hierarchy":[
         {
@@ -229,7 +232,7 @@
         }
     ],
     "wof:id":102022813,
-    "wof:lastmodified":1566642318,
+    "wof:lastmodified":1582348014,
     "wof:name":"Muar",
     "wof:parent_id":890488721,
     "wof:placetype":"locality",

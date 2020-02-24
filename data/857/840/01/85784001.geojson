@@ -69,6 +69,10 @@
         "qs_pg:id":400326
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"46a5b9884bcc834dfe2bdf9a252edb12",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642603,
+    "wof:lastmodified":1582348023,
     "wof:name":"Putra Height",
     "wof:parent_id":102022833,
     "wof:placetype":"neighbourhood",

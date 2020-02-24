@@ -69,6 +69,10 @@
         "qs_pg:id":467971
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"53701a95a2805615ef08fd29285e7cb1",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642601,
+    "wof:lastmodified":1582348023,
     "wof:name":"Taman Industri Subang",
     "wof:parent_id":102023809,
     "wof:placetype":"neighbourhood",

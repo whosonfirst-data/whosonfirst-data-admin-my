@@ -489,6 +489,9 @@
         "wk:page":"Kuching"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e9017b142901c31e737abaadbec68f04",
     "wof:hierarchy":[
         {
@@ -500,7 +503,7 @@
         }
     ],
     "wof:id":102023573,
-    "wof:lastmodified":1566642265,
+    "wof:lastmodified":1582348005,
     "wof:name":"Kuching",
     "wof:parent_id":890488875,
     "wof:placetype":"locality",

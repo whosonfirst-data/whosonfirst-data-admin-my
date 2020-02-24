@@ -166,6 +166,9 @@
         "wk:page":"Port Dickson District"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a0dcb8e43a15000aa24abeb52ded0d9e",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642268,
+    "wof:lastmodified":1582348006,
     "wof:name":"Port Dickson",
     "wof:parent_id":890490331,
     "wof:placetype":"locality",

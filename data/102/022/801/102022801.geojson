@@ -96,6 +96,9 @@
         "wk:page":"Segamat District"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aca050f88e0ed6bccb5038c00eb92dec",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":102022801,
-    "wof:lastmodified":1566642321,
+    "wof:lastmodified":1582348014,
     "wof:name":"Segamat",
     "wof:parent_id":890488717,
     "wof:placetype":"locality",

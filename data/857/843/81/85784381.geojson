@@ -78,6 +78,10 @@
         "qs_pg:id":1206013
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"47eb0228465257037e7f75ee347dee92",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642587,
+    "wof:lastmodified":1582348020,
     "wof:name":"Bayan Mutiara",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

@@ -70,6 +70,10 @@
         "qs_pg:id":7745
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a64943cdb3e09941c1dbad288b22fa0d",
     "wof:hierarchy":[
         {
@@ -85,7 +89,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642589,
+    "wof:lastmodified":1582348021,
     "wof:name":"Bandaraya Georgetown",
     "wof:parent_id":102023367,
     "wof:placetype":"neighbourhood",

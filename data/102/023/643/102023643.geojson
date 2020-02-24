@@ -102,6 +102,9 @@
         "qs_pg:id":193484
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"81202f1fe7f8d2ca3a8575db72f8569d",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":102023643,
-    "wof:lastmodified":1566642244,
+    "wof:lastmodified":1582348002,
     "wof:name":"Naka",
     "wof:parent_id":1108696471,
     "wof:placetype":"locality",

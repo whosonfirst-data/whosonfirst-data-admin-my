@@ -77,6 +77,10 @@
         "qs_pg:id":233037
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e536bb0d37be8b37ae0e02511b9bb962",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566642618,
+    "wof:lastmodified":1582348026,
     "wof:name":"Kampong Bukit Lanjan",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

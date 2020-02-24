@@ -330,6 +330,9 @@
         "wk:page":"Shah Alam"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"907728275e895631e931ed668508733a",
     "wof:hierarchy":[
         {
@@ -341,7 +344,7 @@
         }
     ],
     "wof:id":102022833,
-    "wof:lastmodified":1566642307,
+    "wof:lastmodified":1582348011,
     "wof:name":"Shah Alam",
     "wof:parent_id":890490605,
     "wof:placetype":"locality",

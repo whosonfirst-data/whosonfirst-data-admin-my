@@ -347,6 +347,9 @@
         "wk:page":"Selangor"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"849651c265b1dbdab9e35bd719134274",
     "wof:hierarchy":[
         {
@@ -362,7 +365,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1566642626,
+    "wof:lastmodified":1582348029,
     "wof:name":"Selangor",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

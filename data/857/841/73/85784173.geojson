@@ -69,6 +69,10 @@
         "qs_pg:id":238114
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"dbd75f234584177f1de37318b9051df1",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642596,
+    "wof:lastmodified":1582348022,
     "wof:name":"Taman Subang Mas",
     "wof:parent_id":102022833,
     "wof:placetype":"neighbourhood",

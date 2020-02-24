@@ -197,6 +197,9 @@
         "wk:page":"Raub District"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"33215472a2c09d07cd32ff2e6211127a",
     "wof:hierarchy":[
         {
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":102022723,
-    "wof:lastmodified":1566642310,
+    "wof:lastmodified":1582348012,
     "wof:name":"Raub",
     "wof:parent_id":890490737,
     "wof:placetype":"locality",

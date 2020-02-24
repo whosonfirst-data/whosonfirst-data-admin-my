@@ -72,6 +72,10 @@
         "qs_pg:id":5842
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"da83c4326b91740a6d79a29c9f0b1b7d",
     "wof:hierarchy":[
         {
@@ -87,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642598,
+    "wof:lastmodified":1582348022,
     "wof:name":"Taman Pulau Melaka",
     "wof:parent_id":102023085,
     "wof:placetype":"neighbourhood",

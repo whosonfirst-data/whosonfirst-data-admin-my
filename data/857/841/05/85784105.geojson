@@ -73,6 +73,10 @@
         "qs_pg:id":232055
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"67b3e8a5d8fce0150506f273e9ff6905",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642596,
+    "wof:lastmodified":1582348022,
     "wof:name":"Taman Kurau",
     "wof:parent_id":102023957,
     "wof:placetype":"neighbourhood",

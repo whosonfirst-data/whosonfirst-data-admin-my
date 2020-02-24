@@ -78,6 +78,9 @@
         "qs_pg:id":5302
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"31bf05f1c539c75a1b148a96156f21a9",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642607,
+    "wof:lastmodified":1582348024,
     "wof:name":"Golden Triangle",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

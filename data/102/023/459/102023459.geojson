@@ -297,6 +297,9 @@
         "wk:page":"Kuantan District"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"df01151a5ad378012c81c7f8b086029e",
     "wof:hierarchy":[
         {
@@ -311,7 +314,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642286,
+    "wof:lastmodified":1582348009,
     "wof:name":"Kuantan",
     "wof:parent_id":890490895,
     "wof:placetype":"locality",

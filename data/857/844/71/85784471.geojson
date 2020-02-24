@@ -79,6 +79,10 @@
         "qs_pg:id":1105197
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"55ef5cf4607af6631d64b847e16f0bb4",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642592,
+    "wof:lastmodified":1582348021,
     "wof:name":"Kampung Teluk Baru",
     "wof:parent_id":102023459,
     "wof:placetype":"neighbourhood",

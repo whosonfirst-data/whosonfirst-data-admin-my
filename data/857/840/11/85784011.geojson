@@ -71,6 +71,10 @@
         "qs_pg:id":234086
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e966531924626bd3be5c9870e6fe3c44",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642601,
+    "wof:lastmodified":1582348023,
     "wof:name":"Seri Utama Damansara",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",

@@ -74,6 +74,10 @@
         "qs_pg:id":1114900
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"40bc9c5c7411526a49286e7ddf288f81",
     "wof:hierarchy":[
         {
@@ -89,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566642613,
+    "wof:lastmodified":1582348025,
     "wof:name":"Kelawai",
     "wof:parent_id":102023367,
     "wof:placetype":"neighbourhood",

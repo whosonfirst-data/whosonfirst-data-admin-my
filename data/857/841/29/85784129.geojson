@@ -69,6 +69,10 @@
         "qs_pg:id":183184
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e2f841b34fa1a222e7323357c2d7d544",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642596,
+    "wof:lastmodified":1582348022,
     "wof:name":"Taman Perindustrian",
     "wof:parent_id":102022703,
     "wof:placetype":"neighbourhood",

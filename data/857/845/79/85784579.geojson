@@ -76,6 +76,10 @@
         "qs_pg:id":43730
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f1d2308b64cf4b91d9000facc98828cf",
     "wof:hierarchy":[
         {
@@ -91,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642579,
+    "wof:lastmodified":1582348019,
     "wof:name":"Kampung Baruh",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

@@ -281,6 +281,9 @@
         "wk:page":"Taiping, Perak"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2681da4b3319cbf145349cc39dc09cb2",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":102023003,
-    "wof:lastmodified":1566642280,
+    "wof:lastmodified":1582348008,
     "wof:name":"Taiping",
     "wof:parent_id":890490803,
     "wof:placetype":"locality",

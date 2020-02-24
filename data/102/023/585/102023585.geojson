@@ -317,6 +317,9 @@
         "wk:page":"Sarikei"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5e5175bd08dba92d81560ed2879f688e",
     "wof:hierarchy":[
         {
@@ -328,7 +331,7 @@
         }
     ],
     "wof:id":102023585,
-    "wof:lastmodified":1566642290,
+    "wof:lastmodified":1582348009,
     "wof:name":"Sarikei",
     "wof:parent_id":890488261,
     "wof:placetype":"locality",

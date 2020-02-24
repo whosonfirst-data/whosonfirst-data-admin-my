@@ -81,6 +81,9 @@
         "wk:page":"Banting"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5ba359aceb82d4ea29322c21fa4e859d",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102023113,
-    "wof:lastmodified":1566642294,
+    "wof:lastmodified":1582348010,
     "wof:name":"Banting",
     "wof:parent_id":1108696427,
     "wof:placetype":"locality",

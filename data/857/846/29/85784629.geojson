@@ -74,6 +74,10 @@
         "qs_pg:id":272295
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"cfde65884ca696f75e607e1cf6729209",
     "wof:hierarchy":[
         {
@@ -89,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642598,
+    "wof:lastmodified":1582348022,
     "wof:name":"Taman Shatin",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

@@ -387,6 +387,9 @@
         "wk:page":"Malacca City"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e6db846cf7b5a6d14da103e698971331",
     "wof:hierarchy":[
         {
@@ -398,7 +401,7 @@
         }
     ],
     "wof:id":102023085,
-    "wof:lastmodified":1566642248,
+    "wof:lastmodified":1582348003,
     "wof:name":"Melaka",
     "wof:parent_id":890489715,
     "wof:placetype":"locality",

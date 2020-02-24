@@ -84,6 +84,9 @@
         "wk:page":"Kampar District"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"23eb9ba478a28730933d48a7bd524748",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":102023497,
-    "wof:lastmodified":1566642251,
+    "wof:lastmodified":1582348003,
     "wof:name":"Kampar",
     "wof:parent_id":890490953,
     "wof:placetype":"locality",

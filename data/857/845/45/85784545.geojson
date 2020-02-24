@@ -71,6 +71,10 @@
         "qs_pg:id":248940
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"18c06dc314c974b07762f826255f57e0",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642578,
+    "wof:lastmodified":1582348019,
     "wof:name":"Taman Bukit Kinrara",
     "wof:parent_id":102023809,
     "wof:placetype":"neighbourhood",

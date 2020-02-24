@@ -351,6 +351,9 @@
         "wk:page":"Johor"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c0e861be5701cb2c0572603d8713592f",
     "wof:hierarchy":[
         {
@@ -366,7 +369,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1566642626,
+    "wof:lastmodified":1582348029,
     "wof:name":"Johor",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

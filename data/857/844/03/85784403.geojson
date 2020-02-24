@@ -516,6 +516,10 @@
         "wd:id":"Q578"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"79194d5c635a672926143ab4a6989d68",
     "wof:hierarchy":[
         {
@@ -531,7 +535,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642590,
+    "wof:lastmodified":1582348021,
     "wof:name":"Century",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

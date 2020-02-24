@@ -277,6 +277,9 @@
         "wk:page":"Tawau"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"da08f9656d945c72750943b91d6abb89",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":102022935,
-    "wof:lastmodified":1566642313,
+    "wof:lastmodified":1582348013,
     "wof:name":"Tawau",
     "wof:parent_id":1108696533,
     "wof:placetype":"locality",

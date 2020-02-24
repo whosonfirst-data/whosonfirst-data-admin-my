@@ -75,6 +75,10 @@
         "qs_pg:id":1112162
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1e1d573d6b29b9e9567c42db626264dd",
     "wof:hierarchy":[
         {
@@ -90,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566642620,
+    "wof:lastmodified":1582348026,
     "wof:name":"Tanah Puteh",
     "wof:parent_id":102023459,
     "wof:placetype":"neighbourhood",

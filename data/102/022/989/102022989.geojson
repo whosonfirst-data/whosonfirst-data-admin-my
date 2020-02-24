@@ -161,6 +161,9 @@
         "wk:page":"Bau, Sarawak"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a614475af36b2331cdbb141367f8287f",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":102022989,
-    "wof:lastmodified":1566642324,
+    "wof:lastmodified":1582348015,
     "wof:name":"Bau",
     "wof:parent_id":1108696381,
     "wof:placetype":"locality",

@@ -70,6 +70,10 @@
         "qs_pg:id":987018
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"19bef834bcbb3bf8669a58815c3b2778",
     "wof:hierarchy":[
         {
@@ -85,7 +89,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642580,
+    "wof:lastmodified":1582348019,
     "wof:name":"Wadi Hana",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

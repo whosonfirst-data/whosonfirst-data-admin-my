@@ -78,6 +78,10 @@
         "qs_pg:id":1002256
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"67bbf345db96961611b3e31d3ee5647f",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642592,
+    "wof:lastmodified":1582348021,
     "wof:name":"Taman Taz",
     "wof:parent_id":102023459,
     "wof:placetype":"neighbourhood",

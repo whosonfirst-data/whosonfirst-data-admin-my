@@ -441,6 +441,9 @@
         "wk:page":"Sibu"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9142877d369176d67fec424a67fd0d08",
     "wof:hierarchy":[
         {
@@ -452,7 +455,7 @@
         }
     ],
     "wof:id":102023589,
-    "wof:lastmodified":1566642264,
+    "wof:lastmodified":1582348005,
     "wof:name":"Sibu",
     "wof:parent_id":890488423,
     "wof:placetype":"locality",

@@ -89,6 +89,10 @@
         "wk:page":"Batu Uban"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f48c260cd6b0f330bbdc2776c9579cf5",
     "wof:hierarchy":[
         {
@@ -104,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566642595,
+    "wof:lastmodified":1582348022,
     "wof:name":"Kampong Batu Uban",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",
