@@ -354,6 +354,9 @@
         "wk:page":"Kota Kinabalu"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a6dbf49f8e6954c1f0d69973a454bca",
     "wof:hierarchy":[
         {
@@ -365,7 +368,7 @@
         }
     ],
     "wof:id":102022883,
-    "wof:lastmodified":1566642317,
+    "wof:lastmodified":1582348013,
     "wof:name":"Kota Kinabalu",
     "wof:parent_id":1108696541,
     "wof:placetype":"locality",

@@ -1050,6 +1050,11 @@
     },
     "wof:country":"MY",
     "wof:country_alpha3":"MYS",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "meso"
+    ],
     "wof:geomhash":"d388199cb6c1ea8766db5835884b65b3",
     "wof:hierarchy":[
         {
@@ -1061,7 +1066,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566642629,
+    "wof:lastmodified":1582348032,
     "wof:name":"Malaysia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

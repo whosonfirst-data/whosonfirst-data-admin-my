@@ -171,6 +171,9 @@
         "wk:page":"Bentong District"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f32255a716c3161db4cfe2d3b55febf6",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566642307,
+    "wof:lastmodified":1582348012,
     "wof:name":"Bentung",
     "wof:parent_id":1108696389,
     "wof:placetype":"locality",

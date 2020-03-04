@@ -140,6 +140,9 @@
         "wk:page":"Victoria, Labuan"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ad97a0d526160f61f2bd497545b3aaaf",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642300,
+    "wof:lastmodified":1582348011,
     "wof:name":"Victoria",
     "wof:parent_id":1108696547,
     "wof:placetype":"locality",

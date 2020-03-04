@@ -70,6 +70,10 @@
         "qs_pg:id":5283
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"d3facf0d5ac84be98e7517246f5b8835",
     "wof:hierarchy":[
         {
@@ -85,7 +89,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642605,
+    "wof:lastmodified":1582348024,
     "wof:name":"Bandaraya Ipoh",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

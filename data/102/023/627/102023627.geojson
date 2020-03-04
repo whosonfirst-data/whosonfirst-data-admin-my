@@ -293,6 +293,9 @@
         "qs_pg:id":232227
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f925736b2fa6a376cb707493ed36b533",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
         }
     ],
     "wof:id":102023627,
-    "wof:lastmodified":1566642248,
+    "wof:lastmodified":1582348003,
     "wof:name":"Kuala Kedah",
     "wof:parent_id":890490361,
     "wof:placetype":"locality",

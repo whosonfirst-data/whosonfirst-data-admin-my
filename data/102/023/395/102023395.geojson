@@ -200,6 +200,9 @@
         "wk:page":"Petaling Jaya"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3bfbd6d279854d7652aa8c2e406c7c91",
     "wof:hierarchy":[
         {
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":102023395,
-    "wof:lastmodified":1566642266,
+    "wof:lastmodified":1582348006,
     "wof:name":"Petaling Jaya",
     "wof:parent_id":890490605,
     "wof:placetype":"locality",

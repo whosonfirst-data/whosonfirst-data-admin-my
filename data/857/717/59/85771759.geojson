@@ -81,6 +81,10 @@
         "qs_pg:id":490156
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"daef437297dc1ffb8a89709d9b814179",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566642612,
+    "wof:lastmodified":1582348025,
     "wof:name":"Kampung Anak Ayer",
     "wof:parent_id":102023459,
     "wof:placetype":"neighbourhood",

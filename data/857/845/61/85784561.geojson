@@ -73,6 +73,10 @@
         "qs_pg:id":231042
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b3ff48ffe8ae41d87059317e7137db49",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642577,
+    "wof:lastmodified":1582348019,
     "wof:name":"Bandar Bayan Bahru",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

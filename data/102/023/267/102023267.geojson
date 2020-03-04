@@ -304,6 +304,9 @@
         "wk:page":"Pekan District"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3c02d2cbd6ed46f71c198b68cca25796",
     "wof:hierarchy":[
         {
@@ -318,7 +321,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566642253,
+    "wof:lastmodified":1582348004,
     "wof:name":"Pekan",
     "wof:parent_id":1108696481,
     "wof:placetype":"locality",

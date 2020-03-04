@@ -70,6 +70,9 @@
         "wk:page":"Cheras, Selangor"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4b316eca3e9c8d79f01417c1d4d31e0d",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":102023899,
-    "wof:lastmodified":1566642287,
+    "wof:lastmodified":1582348009,
     "wof:name":"Cheras",
     "wof:parent_id":1108696543,
     "wof:placetype":"locality",

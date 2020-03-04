@@ -68,6 +68,9 @@
         "wk:page":"Rantau"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8f5568dbf9c0bfeb15e3ba5f4c61bd49",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":102023159,
-    "wof:lastmodified":1566642237,
+    "wof:lastmodified":1582348001,
     "wof:name":"Rantau",
     "wof:parent_id":890489719,
     "wof:placetype":"locality",

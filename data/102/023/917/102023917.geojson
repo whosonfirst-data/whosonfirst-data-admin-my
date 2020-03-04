@@ -56,6 +56,9 @@
         "qs_pg:id":907344
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e1392c844285ae133f33f78bbc675c19",
     "wof:hierarchy":[
         {
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102023917,
-    "wof:lastmodified":1566642293,
+    "wof:lastmodified":1582348010,
     "wof:name":"Penaga",
     "wof:parent_id":890490327,
     "wof:placetype":"locality",

@@ -361,6 +361,9 @@
         "wk:page":"George Town, Penang"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b818310f7c3e636afb9482132eeeac0d",
     "wof:hierarchy":[
         {
@@ -372,7 +375,7 @@
         }
     ],
     "wof:id":102023367,
-    "wof:lastmodified":1566642271,
+    "wof:lastmodified":1582348006,
     "wof:name":"George Town",
     "wof:parent_id":1108696537,
     "wof:placetype":"locality",

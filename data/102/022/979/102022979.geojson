@@ -266,6 +266,9 @@
         "wk:page":"Baling District"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"41a76859c2dee97553b155958470914a",
     "wof:hierarchy":[
         {
@@ -280,7 +283,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642308,
+    "wof:lastmodified":1582348012,
     "wof:name":"Baling",
     "wof:parent_id":1108696379,
     "wof:placetype":"locality",

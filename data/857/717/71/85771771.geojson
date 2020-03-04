@@ -98,6 +98,10 @@
         "qs_pg:id":1112072
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0c1c3f7010fd2ff749665c5211622901",
     "wof:hierarchy":[
         {
@@ -113,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566642615,
+    "wof:lastmodified":1582348025,
     "wof:name":"Larkin",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

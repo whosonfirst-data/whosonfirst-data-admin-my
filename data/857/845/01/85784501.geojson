@@ -72,6 +72,10 @@
         "qs_pg:id":218439
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"594dd4b4f607d4fbddbce88007b964c4",
     "wof:hierarchy":[
         {
@@ -87,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642579,
+    "wof:lastmodified":1582348019,
     "wof:name":"Taman Serdang Perdana",
     "wof:parent_id":102023799,
     "wof:placetype":"neighbourhood",

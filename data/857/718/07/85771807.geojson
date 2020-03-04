@@ -100,6 +100,10 @@
         "wk:page":"Sungai Buloh"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"2e1d479c7bc7c237b765921d10e9df07",
     "wof:hierarchy":[
         {
@@ -115,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566642620,
+    "wof:lastmodified":1582348026,
     "wof:name":"Sungai Buluh",
     "wof:parent_id":102023385,
     "wof:placetype":"neighbourhood",

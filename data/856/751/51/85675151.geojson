@@ -353,6 +353,9 @@
         "wk:page":"Malacca"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bf2c8e2d4b9c10c7e399aa664ffefcff",
     "wof:hierarchy":[
         {
@@ -368,7 +371,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1566642621,
+    "wof:lastmodified":1582348027,
     "wof:name":"Melaka",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

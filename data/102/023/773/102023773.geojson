@@ -283,6 +283,9 @@
         "wk:page":"Miri, Malaysia"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5b74666157e5cf3a0b27dbe26295c4c8",
     "wof:hierarchy":[
         {
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":102023773,
-    "wof:lastmodified":1566642292,
+    "wof:lastmodified":1582348009,
     "wof:name":"Miri",
     "wof:parent_id":890488483,
     "wof:placetype":"locality",

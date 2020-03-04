@@ -82,6 +82,9 @@
         "wk:page":"Bachok District"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0cf6a1c218dcea81065d6811c55a2be6",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":102023657,
-    "wof:lastmodified":1566642256,
+    "wof:lastmodified":1582348004,
     "wof:name":"Bachok",
     "wof:parent_id":1108696377,
     "wof:placetype":"locality",

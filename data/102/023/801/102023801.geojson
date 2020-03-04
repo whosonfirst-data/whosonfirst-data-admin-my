@@ -271,6 +271,9 @@
         "wk:page":"Serian Division"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ed5a15292b3f4895be4838676ebae392",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":102023801,
-    "wof:lastmodified":1566642286,
+    "wof:lastmodified":1582348009,
     "wof:name":"Serian",
     "wof:parent_id":1108696511,
     "wof:placetype":"locality",

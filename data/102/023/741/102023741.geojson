@@ -163,6 +163,9 @@
         "wk:page":"Kapit"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f89a6401d954d992691a4cef77bebb42",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":102023741,
-    "wof:lastmodified":1566642265,
+    "wof:lastmodified":1582348005,
     "wof:name":"Kapit",
     "wof:parent_id":890488879,
     "wof:placetype":"locality",

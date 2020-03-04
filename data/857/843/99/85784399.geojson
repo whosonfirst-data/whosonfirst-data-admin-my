@@ -78,6 +78,10 @@
         "qs_pg:id":539607
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e8bbf05b6235bfe1fe44ab45fda4d771",
     "wof:hierarchy":[
         {
@@ -101,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642588,
+    "wof:lastmodified":1582348020,
     "wof:name":"Taman Seri Orkid",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

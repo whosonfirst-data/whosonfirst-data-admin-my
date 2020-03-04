@@ -77,6 +77,10 @@
         "qs_pg:id":994448
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f960bca052c12937d0d2c37b62180a37",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566642613,
+    "wof:lastmodified":1582348025,
     "wof:name":"Kampong Senibong",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

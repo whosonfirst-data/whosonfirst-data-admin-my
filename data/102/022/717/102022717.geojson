@@ -70,6 +70,9 @@
         "wk:page":"Maran District"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"887316adb240aea7a19642c77ba8c0a3",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":102022717,
-    "wof:lastmodified":1566642323,
+    "wof:lastmodified":1582348014,
     "wof:name":"Maran",
     "wof:parent_id":1108696463,
     "wof:placetype":"locality",

@@ -67,6 +67,9 @@
         "wk:page":"Matu District"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fab840c824ebe261cedd73b70bf5540b",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":102023719,
-    "wof:lastmodified":1566642291,
+    "wof:lastmodified":1582348009,
     "wof:name":"Matu",
     "wof:parent_id":1108696467,
     "wof:placetype":"locality",

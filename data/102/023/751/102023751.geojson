@@ -420,6 +420,9 @@
         "wk:page":"Bintulu"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7aaa4e85015d1ca0a417162c64dcf075",
     "wof:hierarchy":[
         {
@@ -431,7 +434,7 @@
         }
     ],
     "wof:id":102023751,
-    "wof:lastmodified":1566642269,
+    "wof:lastmodified":1582348006,
     "wof:name":"Bintulu",
     "wof:parent_id":890488209,
     "wof:placetype":"locality",

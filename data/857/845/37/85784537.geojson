@@ -77,6 +77,10 @@
         "wd:id":"Q16253132"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"d3d81795dc8175bc5ab195b7d9c20fd8",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642579,
+    "wof:lastmodified":1582348019,
     "wof:name":"Bandar Puteri Puchong",
     "wof:parent_id":102023809,
     "wof:placetype":"neighbourhood",

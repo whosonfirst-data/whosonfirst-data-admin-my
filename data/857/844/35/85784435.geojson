@@ -86,6 +86,10 @@
         "wk:page":"Taman Johor Jaya"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"75cae282a5ee0fffced5b65a5560372f",
     "wof:hierarchy":[
         {
@@ -101,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566642590,
+    "wof:lastmodified":1582348021,
     "wof:name":"Taman Johor Jaya",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

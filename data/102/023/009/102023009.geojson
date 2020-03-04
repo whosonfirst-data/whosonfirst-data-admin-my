@@ -330,6 +330,9 @@
         "wk:page":"Kuala Kangsar District"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2811f8549363dd0d9fe5dab94f625c7e",
     "wof:hierarchy":[
         {
@@ -341,7 +344,7 @@
         }
     ],
     "wof:id":102023009,
-    "wof:lastmodified":1566642252,
+    "wof:lastmodified":1582348003,
     "wof:name":"Kuala Kangsar",
     "wof:parent_id":890489077,
     "wof:placetype":"locality",

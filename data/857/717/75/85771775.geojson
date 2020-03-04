@@ -91,6 +91,10 @@
         "wk:page":"Plentong"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"63ac93c5f3c462f83ff73d5e453a2a56",
     "wof:hierarchy":[
         {
@@ -106,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566642614,
+    "wof:lastmodified":1582348025,
     "wof:name":"Pelentung",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

@@ -72,6 +72,9 @@
         "qs_pg:id":7076
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"43459e40f041576da61c696374dfc02f",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102023893,
-    "wof:lastmodified":1566642254,
+    "wof:lastmodified":1582348004,
     "wof:name":"Jawi",
     "wof:parent_id":1108696503,
     "wof:placetype":"locality",

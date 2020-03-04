@@ -259,6 +259,9 @@
         "wk:page":"Rembau District"
     },
     "wof:country":"MY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a57ab6456b1f802311a8e03264338c34",
     "wof:hierarchy":[
         {
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":102023219,
-    "wof:lastmodified":1566642247,
+    "wof:lastmodified":1582348002,
     "wof:name":"Rembau",
     "wof:parent_id":890490863,
     "wof:placetype":"locality",
