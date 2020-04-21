@@ -58,6 +58,9 @@
     "name:ell_x_preferred":[
         "\u039a\u03cc\u03c4\u03b1 \u039c\u03c0\u03ac\u03c1\u03bf\u03c5"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03cc\u03c4\u03b1 \u039c\u03c0\u03ac\u03c7\u03c1\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Kota Bharu"
     ],
@@ -181,6 +184,9 @@
     "name:urd_x_preferred":[
         "\u06a9\u0648\u062a\u0627 \u0628\u06be\u0631\u0648"
     ],
+    "name:uzb_x_preferred":[
+        "Kota-baru"
+    ],
     "name:vie_x_preferred":[
         "Kota Bharu"
     ],
@@ -189,6 +195,12 @@
     ],
     "name:yue_x_preferred":[
         "\u54e5\u6253\u5cc7\u9b6f"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u54e5\u6253\u5df4\u9b6f"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u54e5\u6253\u5df4\u9c81"
     ],
     "name:zho_x_preferred":[
         "\u54e5\u6253\u5df4\u9c81"
@@ -223,8 +235,8 @@
     "wof:belongsto":[
         102191569,
         85632739,
-        85675145,
-        890489783
+        890489783,
+        85675145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -246,7 +258,7 @@
         }
     ],
     "wof:id":1125916617,
-    "wof:lastmodified":1566644029,
+    "wof:lastmodified":1587428945,
     "wof:name":"Kota Baharu",
     "wof:parent_id":890489783,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":26.862532,
-    "geom:area_square_m":331321858369.769653,
+    "geom:area_square_m":331321860585.622437,
     "geom:bbox":"99.640388,0.853821,119.275444,7.48375",
     "geom:latitude":3.794597,
     "geom:longitude":109.72322,
@@ -50,6 +50,9 @@
     "name:arg_x_preferred":[
         "Malaisia"
     ],
+    "name:ary_x_preferred":[
+        "\u0645\u0627\u0644\u064a\u0632\u064a\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0645\u0627\u0644\u064a\u0632\u064a\u0627"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:bam_x_preferred":[
         "Mal\u025bzi"
+    ],
+    "name:ban_x_preferred":[
+        "Malaysia"
     ],
     "name:bar_x_preferred":[
         "Malaysia"
@@ -176,6 +182,12 @@
     "name:dan_x_preferred":[
         "Malaysia"
     ],
+    "name:deu_at_x_preferred":[
+        "Malaysia"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Malaysia"
+    ],
     "name:deu_x_preferred":[
         "Malaysia"
     ],
@@ -202,6 +214,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bb\u03b1\u03b9\u03c3\u03af\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Malaysia"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Malaysia"
     ],
     "name:eng_x_preferred":[
         "Malaysia"
@@ -269,6 +287,9 @@
     ],
     "name:gan_x_preferred":[
         "\u99ac\u4f86\u897f\u4e9e"
+    ],
+    "name:gcr_x_preferred":[
+        "Mal\u00e9zi"
     ],
     "name:gla_x_preferred":[
         "Malaidhsia"
@@ -344,6 +365,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u056c\u0561\u0575\u0566\u056b\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0561\u056c\u0565\u0566\u056b\u0561"
     ],
     "name:ido_x_preferred":[
         "Malaizia"
@@ -655,6 +679,9 @@
     "name:pol_x_preferred":[
         "Malezja"
     ],
+    "name:por_br_x_preferred":[
+        "Mal\u00e1sia"
+    ],
     "name:por_x_preferred":[
         "Mal\u00e1sia"
     ],
@@ -755,6 +782,12 @@
     "name:srn_x_preferred":[
         "Maleysikondre"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u041c\u0430\u043b\u0435\u0437\u0438\u0458\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Malezija"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u043b\u0435\u0437\u0438\u0458\u0430"
     ],
@@ -775,6 +808,9 @@
     ],
     "name:szl_x_preferred":[
         "Malezyjo"
+    ],
+    "name:szy_x_preferred":[
+        "Malaysia"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe"
@@ -904,8 +940,20 @@
     "name:zha_x_preferred":[
         "Majlaizsihya"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u9a6c\u6765\u897f\u4e9a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u99ac\u4f86\u897f\u4e9e"
+    ],
     "name:zho_min_nan_x_preferred":[
         "M\u00e1-l\u00e2i-se-a"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u9a6c\u6765\u897f\u4e9a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u99ac\u4f86\u897f\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u6765\u897f\u4e9a"
@@ -1067,7 +1115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1583797397,
+    "wof:lastmodified":1587428944,
     "wof:name":"Malaysia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
