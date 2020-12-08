@@ -570,7 +570,9 @@
         85675181
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632739,
+    "wof:capital_of":[
+        85632739
+    ],
     "wof:concordances":{
         "dbp:id":"Kuala_Lumpur",
         "fb:id":"en.kuala_lumpur",
@@ -603,7 +605,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1587428939,
+    "wof:lastmodified":1607390874,
     "wof:megacity":1,
     "wof:name":"Kuala Lumpur",
     "wof:parent_id":890490945,
