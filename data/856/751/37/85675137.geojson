@@ -131,6 +131,9 @@
     "name:lit_x_preferred":[
         "Perlis"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d46\u0d7c\u0d32\u0d3f\u0d38\u0d4d "
+    ],
     "name:mar_x_preferred":[
         "\u092a\u0930\u094d\u0932\u093f\u0938"
     ],
@@ -151,6 +154,9 @@
     ],
     "name:nor_x_preferred":[
         "Perlis"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2a\u0a30\u0a32\u0a3f\u0a38"
     ],
     "name:pms_x_preferred":[
         "Perlis"
@@ -180,6 +186,9 @@
         "\u0c2a\u0c46\u0c30\u0c4d\u0c32\u0c3f\u0c38\u0c4d"
     ],
     "name:tha_x_preferred":[
+        "\u0e1b\u0e30\u0e25\u0e34\u0e2a"
+    ],
+    "name:tha_x_variant":[
         "\u0e23\u0e31\u0e10\u0e1b\u0e30\u0e25\u0e34\u0e2a"
     ],
     "name:tur_x_preferred":[
@@ -340,7 +349,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1607982313,
+    "wof:lastmodified":1614895107,
     "wof:name":"Perlis",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

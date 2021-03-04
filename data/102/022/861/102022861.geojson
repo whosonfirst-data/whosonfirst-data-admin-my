@@ -184,6 +184,9 @@
     "name:nob_x_preferred":[
         "Sarawak"
     ],
+    "name:pan_x_preferred":[
+        "\u0a38\u0a3e\u0a30\u0a3e\u0a35\u0a3e\u0a15"
+    ],
     "name:pms_x_preferred":[
         "Sarawak"
     ],
@@ -242,6 +245,9 @@
         "Sarawak"
     ],
     "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e23\u0e32\u0e27\u0e31\u0e01"
+    ],
+    "name:tha_x_variant":[
         "\u0e23\u0e31\u0e10\u0e0b\u0e32\u0e23\u0e32\u0e27\u0e31\u0e01"
     ],
     "name:tur_x_preferred":[
@@ -319,7 +325,7 @@
         }
     ],
     "wof:id":102022861,
-    "wof:lastmodified":1587428940,
+    "wof:lastmodified":1614895105,
     "wof:name":"Sarawak",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
