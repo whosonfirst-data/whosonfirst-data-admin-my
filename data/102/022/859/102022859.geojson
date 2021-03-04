@@ -127,6 +127,9 @@
     "name:lit_x_preferred":[
         "Terenganu"
     ],
+    "name:mal_x_preferred":[
+        "\u0d1f\u0d46\u0d31\u0d3f\u0d19\u0d4d\u0d19\u0d3e\u0d28\u0d4b"
+    ],
     "name:mar_x_preferred":[
         "\u0924\u0930\u0947\u0902\u0917\u093e\u0928\u0942"
     ],
@@ -147,6 +150,9 @@
     ],
     "name:nob_x_preferred":[
         "Terengganu"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a1f\u0a47\u0a30\u0a47\u0a28\u0a17\u0a3e\u0a28\u0a42"
     ],
     "name:pms_x_preferred":[
         "Terengganu"
@@ -182,6 +188,9 @@
         "\u0c1f\u0c46\u0c30\u0c46\u0c02\u0c17\u0c3e\u0c28\u0c41"
     ],
     "name:tha_x_preferred":[
+        "\u0e15\u0e23\u0e31\u0e07\u0e01\u0e32\u0e19\u0e39"
+    ],
+    "name:tha_x_variant":[
         "\u0e23\u0e31\u0e10\u0e15\u0e23\u0e31\u0e07\u0e01\u0e32\u0e19\u0e39"
     ],
     "name:tur_x_preferred":[
@@ -262,7 +271,7 @@
         }
     ],
     "wof:id":102022859,
-    "wof:lastmodified":1587428940,
+    "wof:lastmodified":1614895105,
     "wof:name":"Terengganu",
     "wof:parent_id":1108696513,
     "wof:placetype":"locality",

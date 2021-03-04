@@ -133,6 +133,9 @@
     "name:lit_x_preferred":[
         "Kelantanas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d47\u0d32\u0d3e\u0d7b\u0d24\u0d7b "
+    ],
     "name:mar_x_preferred":[
         "\u0915\u0932\u093e\u0902\u0924\u093e\u0928"
     ],
@@ -150,6 +153,9 @@
     ],
     "name:nob_x_preferred":[
         "Kelantan"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a47\u0a32\u0a3e\u0a02\u0a24\u0a28"
     ],
     "name:pms_x_preferred":[
         "Kelantan"
@@ -185,6 +191,9 @@
         "\u0c15\u0c46\u0c32\u0c3e\u0c02\u0c1f\u0c28\u0c4d"
     ],
     "name:tha_x_preferred":[
+        "\u0e01\u0e25\u0e31\u0e19\u0e15\u0e31\u0e19"
+    ],
+    "name:tha_x_variant":[
         "\u0e23\u0e31\u0e10\u0e01\u0e25\u0e31\u0e19\u0e15\u0e31\u0e19"
     ],
     "name:tur_x_preferred":[
@@ -265,7 +274,7 @@
         }
     ],
     "wof:id":102022865,
-    "wof:lastmodified":1587428941,
+    "wof:lastmodified":1614895105,
     "wof:name":"Kelantan",
     "wof:parent_id":890488203,
     "wof:placetype":"locality",
