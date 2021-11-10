@@ -52,11 +52,20 @@
     "name:fin_x_preferred":[
         "Butterworth"
     ],
+    "name:fra_x_preferred":[
+        "Butterworth"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0a9f\u0ab0\u0ab5\u0ab0\u0acd\u0aa5"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d8\u05e8\u05d5\u05d5\u05e8\u05ea'"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u091f\u0930\u0935\u0930\u094d\u0925"
+    ],
+    "name:hun_x_preferred":[
+        "Butterworth"
     ],
     "name:ind_x_preferred":[
         "Butterworth"
@@ -97,11 +106,17 @@
     "name:pol_x_preferred":[
         "Butterworth"
     ],
+    "name:por_x_preferred":[
+        "Butterworth"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0442\u0442\u0435\u0440\u0432\u043e\u0440\u0442"
     ],
     "name:sin_x_preferred":[
         "\u0db6\u0da7\u0dbb\u0dca\u0dc0\u0dbb\u0dca\u0dad\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Butterworth"
     ],
     "name:swe_x_preferred":[
         "Butterworth"
@@ -281,7 +296,7 @@
         }
     ],
     "wof:id":102023321,
-    "wof:lastmodified":1617129863,
+    "wof:lastmodified":1636501638,
     "wof:name":"Butterworth",
     "wof:parent_id":890490327,
     "wof:placetype":"locality",

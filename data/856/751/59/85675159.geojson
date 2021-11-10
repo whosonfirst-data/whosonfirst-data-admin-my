@@ -129,10 +129,11 @@
         "\u0caa\u0cb9\u0cbe\u0c82\u0c97\u0ccd"
     ],
     "name:kor_x_preferred":[
-        "\ud30c\ud56d \uc8fc"
+        "\ud30c\ud56d"
     ],
     "name:kor_x_variant":[
-        "\ud30c\ud56d\uc8fc"
+        "\ud30c\ud56d\uc8fc",
+        "\ud30c\ud56d \uc8fc"
     ],
     "name:lav_x_preferred":[
         "Pahana"
@@ -174,6 +175,9 @@
         "Pahang"
     ],
     "name:por_x_preferred":[
+        "P\u00e3o"
+    ],
+    "name:por_x_variant":[
         "Pahang"
     ],
     "name:rus_x_preferred":[
@@ -213,6 +217,9 @@
         "\u067e\u0627\u06c1\u0627\u0646\u06af"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Pahang"
+    ],
+    "name:vie_x_variant":[
         "Pahang"
     ],
     "name:war_x_preferred":[
@@ -358,7 +365,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1614895106,
+    "wof:lastmodified":1636501640,
     "wof:name":"Pahang",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

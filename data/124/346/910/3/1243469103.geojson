@@ -29,8 +29,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0647\u062f\u0627\u062a\u0648"
+    ],
     "name:deu_x_preferred":[
         "Lahad Datu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03c7\u03ac\u03bd\u03c4 \u039d\u03c4\u03ac\u03c4\u03bf\u03c5"
     ],
     "name:epo_x_preferred":[
         "Lahad Datu"
@@ -41,11 +47,26 @@
     "name:fra_x_preferred":[
         "Lahad Datu"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4\u05d3 \u05d3\u05d0\u05ea\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0939\u093e\u0926 \u0926\u093e\u0924\u0941"
+    ],
+    "name:hun_x_preferred":[
+        "Lahad Datu"
+    ],
     "name:ind_x_preferred":[
+        "Lahad Datu"
+    ],
+    "name:ita_x_preferred":[
         "Lahad Datu"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30cf\u30c0\u30c8\u30a5"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ud558\ub4dc \ub2e4\ud22c"
     ],
     "name:msa_x_preferred":[
         "Lahad Datu"
@@ -59,7 +80,16 @@
     "name:pol_x_preferred":[
         "Lahad Datu"
     ],
+    "name:por_x_preferred":[
+        "Lahad Datu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0445\u0430\u0434-\u0414\u0430\u0442\u0443"
+    ],
     "name:spa_x_preferred":[
+        "Lahad Datu"
+    ],
+    "name:swe_x_preferred":[
         "Lahad Datu"
     ],
     "name:tam_x_preferred":[
@@ -67,6 +97,9 @@
     ],
     "name:tur_x_preferred":[
         "Lahad Datu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0445\u0430\u0434-\u0414\u0430\u0442\u0443"
     ],
     "name:vie_x_preferred":[
         "Lahad Datu"
@@ -94,7 +127,7 @@
         }
     ],
     "wof:id":1243469103,
-    "wof:lastmodified":1566644130,
+    "wof:lastmodified":1636501648,
     "wof:name":"Lahad Datu",
     "wof:parent_id":1108696441,
     "wof:placetype":"locality",

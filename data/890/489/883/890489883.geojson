@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0627\u0644\u0627 \u0644\u064a\u0628\u064a\u0632"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09af\u09bc\u09be\u09b2\u09be \u09b2\u09bf\u09aa\u09bf\u09b8"
     ],
@@ -32,11 +35,29 @@
     "name:eng_x_preferred":[
         "Kuala Lipis"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0626\u0627\u0644\u0627 \u0644\u06cc\u067e\u06cc\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Kuala Lipis"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05d0\u05dc\u05d4 \u05dc\u05d9\u05e4\u05d9\u05e1"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0935\u093e\u0932\u093e \u0932\u093f\u092a\u093f\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Kuala Lipis"
+    ],
     "name:ind_x_preferred":[
         "Kuala Lipis"
+    ],
+    "name:ita_x_preferred":[
+        "Kuala Lipis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30a2\u30e9\u30ea\u30d4\u30b9"
     ],
     "name:msa_x_preferred":[
         "Lipis"
@@ -44,11 +65,32 @@
     "name:nld_x_preferred":[
         "Kuala Lipis"
     ],
+    "name:por_x_preferred":[
+        "Kuala Lipis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430-\u041b\u0438\u043f\u0438\u0441"
+    ],
     "name:spa_x_preferred":[
+        "Kuala Lipis"
+    ],
+    "name:swe_x_preferred":[
         "Kuala Lipis"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0bb2\u0bbe \u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb8\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "Kuala Lipis"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430 \u041b\u0456\u043f\u0456\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0627\u0644\u0627 \u0644\u06cc\u067e\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Kuala Lipis"
     ],
     "name:zho_x_preferred":[
         "\u74dc\u62c9\u7acb\u5351"
@@ -91,7 +133,7 @@
         }
     ],
     "wof:id":890489883,
-    "wof:lastmodified":1566644008,
+    "wof:lastmodified":1636501646,
     "wof:name":"Kuala Lipis",
     "wof:parent_id":890488203,
     "wof:placetype":"localadmin",

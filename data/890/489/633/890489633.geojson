@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"113.0486935,3.19703,113.0486935,3.19703",
+    "geom:bbox":"113.048693,3.19703,113.048693,3.19703",
     "geom:latitude":3.19703,
     "geom:longitude":113.048693,
     "gp:adm0":23424901,
@@ -103,6 +103,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0a82\u0aa4\u0ac1\u0ab2\u0ac1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e0\u05d8\u05d5\u05dc\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092c\u093f\u0902\u091f\u0941\u0932\u0941"
@@ -311,7 +314,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054764,
-    "wof:geomhash":"a6578d5468b35856644d77725eca4b8d",
+    "wof:geomhash":"724ce830a07a88e4ba1a6b36ed0bdffb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -322,7 +325,7 @@
         }
     ],
     "wof:id":890489633,
-    "wof:lastmodified":1566643989,
+    "wof:lastmodified":1636501646,
     "wof:name":"Bintulu",
     "wof:parent_id":890488209,
     "wof:placetype":"localadmin",
@@ -332,10 +335,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    113.0486935,
+    113.048693,
     3.19703,
-    113.0486935,
+    113.048693,
     3.19703
 ],
-  "geometry": {"coordinates":[113.0486935,3.19703],"type":"Point"}
+  "geometry": {"coordinates":[113.048693,3.19703],"type":"Point"}
 }

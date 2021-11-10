@@ -88,8 +88,14 @@
     "name:hak_x_variant":[
         "Khota Bharu"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d8\u05d4 \u05d1\u05d4\u05e8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u0924\u093e \u092d\u093e\u0930\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Kota Baharu"
     ],
     "name:ind_x_preferred":[
         "Kota Bharu"
@@ -235,8 +241,8 @@
     "wof:belongsto":[
         102191569,
         85632739,
-        890489783,
-        85675145
+        85675145,
+        890489783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -258,7 +264,7 @@
         }
     ],
     "wof:id":1125916617,
-    "wof:lastmodified":1587428945,
+    "wof:lastmodified":1636501647,
     "wof:name":"Kota Baharu",
     "wof:parent_id":890489783,
     "wof:placetype":"locality",
