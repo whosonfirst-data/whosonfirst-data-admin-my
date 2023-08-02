@@ -19,11 +19,20 @@
     "name:eng_x_preferred":[
         "Pantai Dalam"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30f3\u30bf\u30a4\u30fb\u30c0\u30e9\u30e0"
+    ],
     "name:msa_x_preferred":[
         "Pantai Dalam"
     ],
     "name:tam_x_preferred":[
         "Barat Daya"
+    ],
+    "name:tam_x_variant":[
+        "\u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0baf\u0bcd \u0b9f\u0bbe\u0bb2\u0bbe\u0bae\u0bcd"
+    ],
+    "name:zho_x_preferred":[
+        "\u73ed\u5e95\u8fbe\u5357"
     ],
     "qs:name":"Pantai Dalam",
     "qs:name_adm0":"Malaysia",
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":890489681,
-    "wof:lastmodified":1566643982,
+    "wof:lastmodified":1690848185,
     "wof:name":"Pantai Dalam",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

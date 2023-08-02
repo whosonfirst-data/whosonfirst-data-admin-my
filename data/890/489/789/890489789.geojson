@@ -32,6 +32,15 @@
     "name:nld_x_preferred":[
         "Bukit Payong"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bcd \u0baa\u0bbe\u0baf\u0bcb\u0b99\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e39\u0e01\u0e34\u0e15\u0e1b\u0e32\u0e22\u0e07"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b66\u5409\u5df4\u5bb9"
+    ],
     "qs:name":"Bukit Payong",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Terengganu",
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":890489789,
-    "wof:lastmodified":1566644020,
+    "wof:lastmodified":1690848206,
     "wof:name":"Bukit Payong",
     "wof:parent_id":890490535,
     "wof:placetype":"locality",

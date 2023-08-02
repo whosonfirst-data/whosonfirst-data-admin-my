@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"101.443805,2.7493935,101.443805,2.7493935",
+    "geom:bbox":"101.443805,2.749394,101.443805,2.749394",
     "geom:latitude":2.749394,
     "geom:longitude":101.443805,
     "gn:country":"MY",
@@ -21,11 +21,20 @@
     "name:eng_x_preferred":[
         "Morib"
     ],
+    "name:eng_x_variant":[
+        "Morib Beach"
+    ],
     "name:ind_x_preferred":[
         "Morib"
     ],
+    "name:ind_x_variant":[
+        "Pantai Morib"
+    ],
     "name:msa_x_preferred":[
         "Pantai Morib"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bcb\u0bb0\u0bbf\u0baa\u0bcd"
     ],
     "name:zho_x_preferred":[
         "\u6469\u7acb"
@@ -54,7 +63,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054826,
-    "wof:geomhash":"e51a7b02c8b65088efa59b1d524aec2c",
+    "wof:geomhash":"90d3a2b6e8f327a26d9ec425893e1d99",
     "wof:hierarchy":[
         {
             "country_id":85632739,
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":890490831,
-    "wof:lastmodified":1566643908,
+    "wof:lastmodified":1690848152,
     "wof:name":"Morib",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
@@ -73,9 +82,9 @@
 },
   "bbox": [
     101.443805,
-    2.7493935,
+    2.749394,
     101.443805,
-    2.7493935
+    2.749394
 ],
-  "geometry": {"coordinates":[101.443805,2.7493935],"type":"Point"}
+  "geometry": {"coordinates":[101.443805,2.749394],"type":"Point"}
 }

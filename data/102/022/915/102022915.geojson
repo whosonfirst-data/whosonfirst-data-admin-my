@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0647\u062f\u0627\u062a\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Lahad Datu"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09b9\u09be\u09a6 \u09a6\u09be\u09a4\u09c1"
     ],
@@ -43,7 +46,13 @@
     "name:est_x_preferred":[
         "Lahad Datu"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0647\u0627\u062f \u062f\u0627\u062a\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Lahad Datu"
+    ],
+    "name:gle_x_preferred":[
         "Lahad Datu"
     ],
     "name:heb_x_preferred":[
@@ -105,6 +114,12 @@
     ],
     "name:und_x_variant":[
         "Lahad Datu Town"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u062d\u062f \u062f\u0627\u062a\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Lahad Datu"
     ],
     "name:vie_x_preferred":[
         "Lahad Datu"
@@ -260,7 +275,7 @@
         }
     ],
     "wof:id":102022915,
-    "wof:lastmodified":1636501638,
+    "wof:lastmodified":1690848081,
     "wof:name":"Lahad Datu",
     "wof:parent_id":1108696441,
     "wof:placetype":"locality",

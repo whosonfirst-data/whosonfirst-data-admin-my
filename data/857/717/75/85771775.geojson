@@ -33,16 +33,24 @@
     "name:eng_x_variant":[
         "Kangkar Plintong",
         "Plentong",
-        "Plintong"
+        "Plintong",
+        "Mukim Plentong"
     ],
     "name:msa_x_preferred":[
         "Plentong"
     ],
     "name:msa_x_variant":[
-        "Pelentong"
+        "Pelentong",
+        "Mukim Plentong"
     ],
     "name:nld_x_preferred":[
         "Plentong"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb3\u0ba8\u0bcd\u0ba4\u0bcb\u0b99\u0bcd"
+    ],
+    "name:zho_x_preferred":[
+        "\u907f\u5170\u4e1c"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -110,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582348025,
+    "wof:lastmodified":1690848108,
     "wof:name":"Pelentung",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",

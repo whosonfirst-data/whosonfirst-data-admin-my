@@ -26,11 +26,20 @@
     "name:eng_x_preferred":[
         "Kuala Muda District"
     ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30a2\u30e9\u30fb\u30e0\u30c0"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\uc54c\ub77c\ubb34\ub2e4\uad70"
+    ],
     "name:msa_x_preferred":[
         "Tikam Batu"
     ],
     "name:msa_x_variant":[
         "Daerah Kuala Muda"
+    ],
+    "name:nan_x_preferred":[
+        "Kuala Muda Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Kuala Muda"
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":890490757,
-    "wof:lastmodified":1566643900,
+    "wof:lastmodified":1690848148,
     "wof:name":"Tikam Batu",
     "wof:parent_id":890490355,
     "wof:placetype":"locality",

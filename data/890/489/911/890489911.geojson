@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"102.0141345,2.712571,102.0141345,2.712571",
+    "geom:bbox":"102.014134,2.712571,102.014134,2.712571",
     "geom:latitude":2.712571,
     "geom:longitude":102.014134,
     "gp:adm0":23424901,
@@ -28,6 +28,9 @@
     ],
     "name:nld_x_preferred":[
         "Ampangan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bae\u0bcd\u0baa\u0bbe\u0b99\u0bcd\u0b95\u0bbe\u0ba9\u0bcd"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u90a6\u5cb8"
@@ -59,7 +62,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054780,
-    "wof:geomhash":"17542d490efdb6bcc763d52904a0f3c1",
+    "wof:geomhash":"d7429aa269a85fe59c71d6f42e0ecb95",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890489911,
-    "wof:lastmodified":1566644017,
+    "wof:lastmodified":1690848204,
     "wof:name":"Ampangan",
     "wof:parent_id":890489719,
     "wof:placetype":"localadmin",
@@ -80,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    102.0141345,
+    102.014134,
     2.712571,
-    102.0141345,
+    102.014134,
     2.712571
 ],
-  "geometry": {"coordinates":[102.0141345,2.712571],"type":"Point"}
+  "geometry": {"coordinates":[102.014134,2.712571],"type":"Point"}
 }

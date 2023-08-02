@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"101.9314955,2.890666,101.9314955,2.890666",
+    "geom:bbox":"101.931495,2.890666,101.931495,2.890666",
     "geom:latitude":2.890666,
     "geom:longitude":101.931495,
     "gp:adm0":23424901,
@@ -34,6 +34,9 @@
     ],
     "name:nld_x_preferred":[
         "Lenggeng"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bc6\u0b99\u0bcd\u0b95\u0bc6\u0b99\u0bcd"
     ],
     "name:zho_x_preferred":[
         "\u826f\u51b7"
@@ -65,7 +68,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054815,
-    "wof:geomhash":"476bc33e72a2a3caad32a5c82c34a788",
+    "wof:geomhash":"06d6abd7630e1f60f5bfe5b96784be24",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890490575,
-    "wof:lastmodified":1566643890,
+    "wof:lastmodified":1690848143,
     "wof:name":"Lenggeng",
     "wof:parent_id":890489719,
     "wof:placetype":"localadmin",
@@ -86,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    101.9314955,
+    101.931495,
     2.890666,
-    101.9314955,
+    101.931495,
     2.890666
 ],
-  "geometry": {"coordinates":[101.9314955,2.890666],"type":"Point"}
+  "geometry": {"coordinates":[101.931495,2.890666],"type":"Point"}
 }

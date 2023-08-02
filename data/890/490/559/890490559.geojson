@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"101.8054615,2.822858,101.8054615,2.822858",
+    "geom:bbox":"101.805462,2.822858,101.805462,2.822858",
     "geom:latitude":2.822858,
     "geom:longitude":101.805462,
     "gp:adm0":23424901,
@@ -44,10 +44,16 @@
     "name:ceb_x_preferred":[
         "Negeri Sembilan"
     ],
+    "name:ces_x_preferred":[
+        "Negeri Sembilan"
+    ],
     "name:dan_x_preferred":[
         "Negeri Sembilan"
     ],
     "name:deu_x_preferred":[
+        "Negeri Sembilan"
+    ],
+    "name:diq_x_preferred":[
         "Negeri Sembilan"
     ],
     "name:ell_x_preferred":[
@@ -69,6 +75,9 @@
         "Negeri Sembilan"
     ],
     "name:fra_x_preferred":[
+        "Negeri Sembilan"
+    ],
+    "name:frr_x_preferred":[
         "Negeri Sembilan"
     ],
     "name:guj_x_preferred":[
@@ -113,6 +122,9 @@
     "name:lit_x_preferred":[
         "Negeri Sambilanas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d46\u0d17\u0d47\u0d30\u0d3f \u0d38\u0d46\u0d2e\u0d4d\u0d2a\u0d3f\u0d32\u0d3e\u0d7b"
+    ],
     "name:mar_x_preferred":[
         "\u0928\u0917\u0930\u0940 \u0938\u0902\u092c\u093f\u0932\u093e\u0928"
     ],
@@ -137,11 +149,17 @@
     "name:pms_x_preferred":[
         "Negeri Sembilan"
     ],
+    "name:pnb_x_preferred":[
+        "\u0646\u06af\u0631\u06cc \u0633\u0645\u0628\u06cc\u0644\u0627\u0646"
+    ],
     "name:pol_x_preferred":[
         "Negeri Sembilan"
     ],
     "name:por_x_preferred":[
         "Negeri Sembilan"
+    ],
+    "name:que_x_preferred":[
+        "Negeri Sembilan suyu"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0435\u0433\u0435\u0440\u0438-\u0421\u0435\u043c\u0431\u0438\u043b\u0430\u043d"
@@ -149,7 +167,13 @@
     "name:sin_x_preferred":[
         "\u0db1\u0dd9\u0d9c\u0dd9\u0dbb\u0dd2 \u0dc3\u0dd9\u0db8\u0dca\u0db6\u0dd2\u0dbd\u0db1\u0dca"
     ],
+    "name:slv_x_preferred":[
+        "Negeri Sembilan"
+    ],
     "name:spa_x_preferred":[
+        "Negeri Sembilan"
+    ],
+    "name:sun_x_preferred":[
         "Negeri Sembilan"
     ],
     "name:swe_x_preferred":[
@@ -178,6 +202,9 @@
     ],
     "name:war_x_preferred":[
         "Negeri Sembilan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u68ee\u7f8e\u5170"
     ],
     "name:yue_x_preferred":[
         "\u68ee\u7f8e\u862d"
@@ -212,7 +239,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054815,
-    "wof:geomhash":"aac91eef04a899cd20588b05cf765e66",
+    "wof:geomhash":"658c7e7f71da8a2a101187fa5fabf180",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -223,7 +250,7 @@
         }
     ],
     "wof:id":890490559,
-    "wof:lastmodified":1566643870,
+    "wof:lastmodified":1690848133,
     "wof:name":"Negeri Sembilan",
     "wof:parent_id":890489719,
     "wof:placetype":"locality",
@@ -233,10 +260,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    101.8054615,
+    101.805462,
     2.822858,
-    101.8054615,
+    101.805462,
     2.822858
 ],
-  "geometry": {"coordinates":[101.80546150000001,2.822858],"type":"Point"}
+  "geometry": {"coordinates":[101.80546200000001,2.822858],"type":"Point"}
 }

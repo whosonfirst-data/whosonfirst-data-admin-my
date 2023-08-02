@@ -37,6 +37,9 @@
     "name:ceb_x_preferred":[
         "Setiu"
     ],
+    "name:deu_x_preferred":[
+        "Setiu"
+    ],
     "name:eng_x_preferred":[
         "Setiu"
     ],
@@ -52,8 +55,20 @@
     "name:msa_x_preferred":[
         "Setiu"
     ],
+    "name:nan_x_preferred":[
+        "Setiu Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Setiu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc2 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e0b\u0e2d\u0e15\u0e35\u0e22\u0e39"
+    ],
+    "name:urd_x_preferred":[
+        "\u0636\u0644\u0639 \u0633\u062a\u06cc\u0648"
     ],
     "name:vie_x_preferred":[
         "Setiu"
@@ -97,7 +112,7 @@
         }
     ],
     "wof:id":1108696513,
-    "wof:lastmodified":1627522443,
+    "wof:lastmodified":1690848124,
     "wof:name":"Setiu",
     "wof:parent_id":85675169,
     "wof:placetype":"county",

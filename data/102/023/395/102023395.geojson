@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0627\u0644\u064a\u0646\u063a \u062c\u0627\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a\u0627\u0644\u064a\u0646\u062c \u062c\u0627\u064a\u0627"
+    ],
     "name:ast_x_preferred":[
         "Petaling Jaya"
     ],
@@ -37,6 +40,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0442\u0430\u043b\u0438\u043d\u0433 \u0414\u0436\u0430\u044f"
     ],
+    "name:cat_x_preferred":[
+        "Petaling Jaya"
+    ],
     "name:ceb_x_preferred":[
         "Petaling Jaya"
     ],
@@ -44,6 +50,9 @@
         "Petaling Jaya"
     ],
     "name:deu_x_preferred":[
+        "Petaling Jaya"
+    ],
+    "name:dtp_x_preferred":[
         "Petaling Jaya"
     ],
     "name:ell_x_preferred":[
@@ -64,6 +73,9 @@
     "name:fra_x_preferred":[
         "Petaling Jaya"
     ],
+    "name:gle_x_preferred":[
+        "Petaling Jaya"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0a9f\u0ab2\u0abf\u0a82\u0a97 \u0a9c\u0aaf\u0abe"
     ],
@@ -77,6 +89,9 @@
         "Petaling Jaya"
     ],
     "name:ita_x_preferred":[
+        "Petaling Jaya"
+    ],
+    "name:jav_x_preferred":[
         "Petaling Jaya"
     ],
     "name:jpn_x_preferred":[
@@ -145,6 +160,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1e\u0e17\u0e32\u0e25\u0e34\u0e07 \u0e08\u0e32\u0e22\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e1b\u0e2d\u0e15\u0e32\u0e25\u0e34\u0e07\u0e08\u0e32\u0e22\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Petaling Jaya"
     ],
@@ -154,11 +172,17 @@
     "name:urd_x_preferred":[
         "\u067e\u06cc\u062a\u0627\u0644\u0646\u06cc\u06af \u062c\u0627\u06cc\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Petaling Jaya"
+    ],
     "name:vie_x_preferred":[
         "Petaling Jaya"
     ],
     "name:war_x_preferred":[
         "Petaling Jaya"
+    ],
+    "name:yue_x_preferred":[
+        "\u516b\u6253\u9748\u518d\u4e5f"
     ],
     "name:zho_x_preferred":[
         "\u516b\u6253\u7075\u518d\u4e5f"
@@ -191,8 +215,8 @@
     "wof:belongsto":[
         102191569,
         85632739,
-        890490605,
-        85675163
+        85675163,
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -217,7 +241,7 @@
         }
     ],
     "wof:id":102023395,
-    "wof:lastmodified":1614895105,
+    "wof:lastmodified":1690848040,
     "wof:name":"Petaling Jaya",
     "wof:parent_id":890490605,
     "wof:placetype":"locality",

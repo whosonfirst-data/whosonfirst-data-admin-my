@@ -29,11 +29,20 @@
     "name:ind_x_preferred":[
         "Kubang Kerian"
     ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30d0\u30f3\u30af\u30ea\u30a2\u30f3"
+    ],
     "name:msa_x_preferred":[
         "Kubang Kerian"
     ],
     "name:nld_x_preferred":[
         "Kubang Kerian"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc1\u0baa\u0bbe\u0b99\u0bcd \u0b95\u0bbf\u0bb0\u0bbf\u0baf\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e4\u90a6\u9601\u4eae"
     ],
     "qs:name":"Kubang Kerian",
     "qs:name_adm0":"Malaysia",
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":890489239,
-    "wof:lastmodified":1582348057,
+    "wof:lastmodified":1690848202,
     "wof:name":"Kubang Kerian",
     "wof:parent_id":890489783,
     "wof:placetype":"localadmin",

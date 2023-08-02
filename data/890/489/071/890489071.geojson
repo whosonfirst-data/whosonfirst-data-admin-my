@@ -17,7 +17,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0644\u0627\u0646\u063a\u0633\u0627\u062a"
+    ],
     "name:eng_x_preferred":[
+        "Tanjung Langsat"
+    ],
+    "name:ind_x_preferred":[
         "Tanjung Langsat"
     ],
     "name:msa_x_preferred":[
@@ -25,6 +31,9 @@
     ],
     "name:nld_x_preferred":[
         "Tanjung Langsat"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u7ed2\u6d6a\u6c99"
     ],
     "qs:name":"Tanjung Langsat",
     "qs:name_adm0":"Malaysia",
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":890489071,
-    "wof:lastmodified":1566643987,
+    "wof:lastmodified":1690848187,
     "wof:name":"Tanjung Langsat",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

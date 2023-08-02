@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Machang"
+    ],
     "name:eng_x_preferred":[
         "Machang"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:msa_x_variant":[
         "Jajahan Machang"
+    ],
+    "name:nan_x_preferred":[
+        "Machang Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Machang"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1125835973,
-    "wof:lastmodified":1566644032,
+    "wof:lastmodified":1690848213,
     "wof:name":"Macang",
     "wof:parent_id":1108696457,
     "wof:placetype":"locality",

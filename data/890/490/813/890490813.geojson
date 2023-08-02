@@ -59,6 +59,9 @@
     "name:fra_x_preferred":[
         "Sabak"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d1\u05d0\u05e7 \u05d1\u05e8\u05e0\u05d0\u05dd"
+    ],
     "name:ind_x_preferred":[
         "Sabak Bernam"
     ],
@@ -68,11 +71,17 @@
     "name:msa_x_preferred":[
         "Sabak Bernam"
     ],
+    "name:nan_x_preferred":[
+        "Sabak Bernam Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Sabak Bernam"
     ],
     "name:spa_x_preferred":[
         "Sabak Bernam"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0baa\u0bbe\u0b95\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba3\u0bae\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0628\u06a9 \u0628\u0631\u0646\u0627\u0645"
@@ -141,7 +150,7 @@
         }
     ],
     "wof:id":890490813,
-    "wof:lastmodified":1627522442,
+    "wof:lastmodified":1690848151,
     "wof:name":"Sabak Bernam",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

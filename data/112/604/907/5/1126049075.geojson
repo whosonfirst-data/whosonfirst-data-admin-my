@@ -40,6 +40,9 @@
     "name:ben_x_preferred":[
         "\u099c\u09b9\u09b0 \u09ac\u09be\u09b9\u09b0\u09c1"
     ],
+    "name:ben_x_variant":[
+        "\u099c\u09cb\u09b9\u09b0 \u09ac\u09be\u09b9\u09b0\u09c1"
+    ],
     "name:bjn_x_preferred":[
         "Johor Bahru"
     ],
@@ -64,8 +67,14 @@
     "name:deu_x_preferred":[
         "Johor Bahru"
     ],
+    "name:dtp_x_preferred":[
+        "Johor Bahru"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03bf\u03c7\u03cc\u03c1 \u039c\u03c0\u03b1\u03c7\u03c1\u03bf\u03cd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03b6\u03bf\u03c7\u03cc\u03c1 \u039c\u03c0\u03ac\u03c7\u03c1\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Johor Bahru"
@@ -86,6 +95,9 @@
         "Johor Bahru"
     ],
     "name:fra_x_preferred":[
+        "Johor Bahru"
+    ],
+    "name:frr_x_preferred":[
         "Johor Bahru"
     ],
     "name:guj_x_preferred":[
@@ -130,6 +142,9 @@
     "name:kor_x_preferred":[
         "\uc870\ud638\ub974\ubc14\ub8e8"
     ],
+    "name:lat_x_preferred":[
+        "Novum Zohorum"
+    ],
     "name:lav_x_preferred":[
         "D\u017eoharbarha"
     ],
@@ -148,6 +163,9 @@
     "name:mkd_x_preferred":[
         "\u040f\u043e\u0445\u043e\u0440 \u0411\u0430\u0445\u0440\u0443"
     ],
+    "name:mlt_x_preferred":[
+        "Johor Bahru"
+    ],
     "name:mri_x_preferred":[
         "Johor Bahru"
     ],
@@ -165,6 +183,12 @@
     ],
     "name:nob_x_preferred":[
         "Johor Bahru"
+    ],
+    "name:oss_x_preferred":[
+        "\u0414\u0436\u043e\u0445\u043e\u0440-\u0411\u0430\u0440\u0443"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0648\u06be\u0631 \u0628\u06be\u0631\u0648"
     ],
     "name:pol_x_preferred":[
         "Johor Bahru"
@@ -190,6 +214,9 @@
     "name:swe_x_preferred":[
         "Johor Baharu"
     ],
+    "name:szl_x_preferred":[
+        "Johor Bahru"
+    ],
     "name:tam_x_preferred":[
         "\u0b9c\u0bca\u0b95\u0bc2\u0bb0\u0bcd \u0baa\u0bbe\u0bb0\u0bc1"
     ],
@@ -211,11 +238,17 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u043e\u0445\u043e\u0440-\u0411\u0430\u0440\u0443"
     ],
+    "name:ukr_x_variant":[
+        "\u0414\u0436\u043e\u0433\u043e\u0440-\u0411\u0430\u0440\u0443"
+    ],
     "name:und_x_variant":[
         "Bharu"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0648\u06be\u0631 \u0628\u06be\u0631\u0648"
+    ],
+    "name:uzb_x_preferred":[
+        "Joxor-baru"
     ],
     "name:vie_x_preferred":[
         "Johor Bahru"
@@ -285,7 +318,7 @@
         }
     ],
     "wof:id":1126049075,
-    "wof:lastmodified":1566644024,
+    "wof:lastmodified":1690848207,
     "wof:name":"Johor Baharu",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

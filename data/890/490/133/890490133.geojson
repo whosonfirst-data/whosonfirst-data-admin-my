@@ -23,6 +23,12 @@
     "name:eng_x_preferred":[
         "Padang Jawa"
     ],
+    "name:jav_x_preferred":[
+        "Padang Jawa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30c0\u30f3\u30fb\u30b8\u30e3\u30ef"
+    ],
     "name:msa_x_preferred":[
         "Padang Jawa"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:nld_x_preferred":[
         "Padang Jawa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5f53\u722a\u54c7"
     ],
     "qs:name":"Kampong Padang Jawa",
     "qs:name_adm0":"Malaysia",
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":890490133,
-    "wof:lastmodified":1566643872,
+    "wof:lastmodified":1690848134,
     "wof:name":"Kampong Padang Jawa",
     "wof:parent_id":1108696415,
     "wof:placetype":"locality",

@@ -53,11 +53,17 @@
     "name:msa_x_preferred":[
         "Lipis"
     ],
+    "name:nan_x_preferred":[
+        "Lipis Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Lipis"
     ],
     "name:swe_x_preferred":[
         "Lipis"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb8\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:vie_x_preferred":[
         "Lipis"
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":890488203,
-    "wof:lastmodified":1627522440,
+    "wof:lastmodified":1690848166,
     "wof:name":"Lipis",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

@@ -28,10 +28,19 @@
     "name:ara_x_variant":[
         "\u062a\u064a\u0644\u0648\u0643 \u0625\u0646\u062a\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u064a\u0644\u0648\u0643 \u0627\u0646\u062a\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Teluk Intan"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u09b2\u09c1\u0995 \u0987\u09a8\u09cd\u09a4\u09be\u09a8"
     ],
     "name:ceb_x_preferred":[
+        "Teluk Intan"
+    ],
+    "name:ces_x_preferred":[
         "Teluk Intan"
     ],
     "name:dan_x_preferred":[
@@ -51,6 +60,9 @@
     ],
     "name:epo_x_preferred":[
         "Teluk Intan"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u0648\u06a9 \u0627\u06cc\u0646\u062a\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Teluk Intan"
@@ -78,6 +90,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c6\u30ed\u30c3\u30af\u30a4\u30f3\u30bf\u30f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30c8\u30a5\u30eb\u30c3\u30fb\u30a4\u30f3\u30bf\u30f3"
     ],
     "name:kan_x_preferred":[
         "\u0c9f\u0cc6\u0cb2\u0cc1\u0c95\u0ccd \u0c87\u0c82\u0c9f\u0ca8\u0ccd"
@@ -129,6 +144,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e15\u0e25\u0e38\u0e01 \u0e2d\u0e34\u0e19\u0e15\u0e32\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e15\u0e2d\u0e25\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e15\u0e31\u0e19"
     ],
     "name:tur_x_preferred":[
         "Teluk Intan"
@@ -293,7 +311,7 @@
         }
     ],
     "wof:id":102023539,
-    "wof:lastmodified":1642551833,
+    "wof:lastmodified":1690848041,
     "wof:name":"Teluk Intan",
     "wof:parent_id":890490073,
     "wof:placetype":"locality",

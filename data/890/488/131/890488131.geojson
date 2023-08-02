@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062c\u0627\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0646\u062c\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Kangar"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0999\u09cd\u0997\u09be\u09b0"
     ],
@@ -134,6 +140,9 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e19\u0e01\u0e32\u0e23\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e32\u0e07\u0e32\u0e23\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Kangar"
     ],
@@ -195,7 +204,7 @@
         }
     ],
     "wof:id":890488131,
-    "wof:lastmodified":1636501644,
+    "wof:lastmodified":1690848171,
     "wof:name":"Kangar",
     "wof:parent_id":1108696407,
     "wof:placetype":"localadmin",

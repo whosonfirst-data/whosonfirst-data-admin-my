@@ -65,10 +65,19 @@
     "name:ceb_x_preferred":[
         "Perak"
     ],
+    "name:ces_x_preferred":[
+        "Perak"
+    ],
     "name:dan_x_preferred":[
         "Perak"
     ],
     "name:deu_x_preferred":[
+        "Perak"
+    ],
+    "name:diq_x_preferred":[
+        "Perak"
+    ],
+    "name:dtp_x_preferred":[
         "Perak"
     ],
     "name:ell_x_preferred":[
@@ -93,6 +102,9 @@
         "Perak"
     ],
     "name:fra_x_preferred":[
+        "Perak"
+    ],
+    "name:frr_x_preferred":[
         "Perak"
     ],
     "name:glg_x_preferred":[
@@ -162,7 +174,8 @@
         "Perak Darul Ridzuan"
     ],
     "name:msa_x_variant":[
-        "Negeri Perak"
+        "Negeri Perak",
+        "Perak"
     ],
     "name:nan_x_preferred":[
         "Perak"
@@ -187,6 +200,9 @@
     ],
     "name:por_x_preferred":[
         "Perak"
+    ],
+    "name:que_x_preferred":[
+        "Perak suyu"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0430\u043a"
@@ -236,6 +252,9 @@
     ],
     "name:war_x_preferred":[
         "Perak"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9739\u96f3\u5dde"
     ],
     "name:yue_x_preferred":[
         "\u9739\u9742\u5dde"
@@ -373,7 +392,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1614895108,
+    "wof:lastmodified":1690848116,
     "wof:name":"Perak",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

@@ -35,14 +35,23 @@
     "name:aka_x_preferred":[
         "Malehyia"
     ],
+    "name:aka_x_variant":[
+        "Malaysia"
+    ],
     "name:als_x_preferred":[
         "Malaysia"
     ],
     "name:amh_x_preferred":[
         "\u121b\u120c\u12e2\u12eb"
     ],
+    "name:ami_x_preferred":[
+        "Malaysia"
+    ],
     "name:ang_x_preferred":[
         "Mal\u00e6gsia"
+    ],
+    "name:anp_x_preferred":[
+        "\u092e\u0932\u0947\u0936\u093f\u092f\u093e"
     ],
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u064a\u0632\u064a\u0627"
@@ -62,6 +71,12 @@
     "name:ast_x_preferred":[
         "Malasia"
     ],
+    "name:awa_x_preferred":[
+        "\u092e\u0932\u0947\u0936\u093f\u092f\u093e"
+    ],
+    "name:aym_x_preferred":[
+        "Malasya"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u0644\u0632\u06cc"
     ],
@@ -76,6 +91,9 @@
     ],
     "name:bam_x_preferred":[
         "Mal\u025bzi"
+    ],
+    "name:bam_x_variant":[
+        "Malaysia"
     ],
     "name:ban_x_preferred":[
         "Malaysia"
@@ -101,8 +119,14 @@
     "name:bho_x_preferred":[
         "\u092e\u0932\u0947\u0936\u093f\u092f\u093e"
     ],
+    "name:bis_x_preferred":[
+        "Malaysia"
+    ],
     "name:bjn_x_preferred":[
         "Malaysia"
+    ],
+    "name:blk_x_preferred":[
+        "\u1019\u101c\u1031\u1038\u101e\u103b\u102c\u1038\u1001\u1019\u103a\u1038\u1011\u102e"
     ],
     "name:bod_x_preferred":[
         "\u0f58\u0f0b\u0f63\u0f0b\u0f64\u0f72\u0f0b\u0f61\u0f0d"
@@ -155,8 +179,14 @@
     "name:ces_x_preferred":[
         "Malajsie"
     ],
+    "name:cha_x_preferred":[
+        "Malaysia"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0439\u0437\u0438"
+    ],
+    "name:chr_x_preferred":[
+        "\u13b9\u13b4\u13cf\u13a2\u13a0"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0439\u0437\u0438"
@@ -166,6 +196,9 @@
     ],
     "name:cor_x_preferred":[
         "Malaysi"
+    ],
+    "name:cos_x_preferred":[
+        "Malaysia"
     ],
     "name:crh_x_preferred":[
         "Malayziya"
@@ -177,6 +210,9 @@
         "Maleisia"
     ],
     "name:cym_x_variant":[
+        "Malaysia"
+    ],
+    "name:dag_x_preferred":[
         "Malaysia"
     ],
     "name:dan_x_preferred":[
@@ -202,6 +238,9 @@
     ],
     "name:dsb_x_preferred":[
         "Malayzija"
+    ],
+    "name:dtp_x_preferred":[
+        "Malaysia"
     ],
     "name:dty_x_preferred":[
         "\u092e\u0932\u0947\u0936\u093f\u092f\u093e"
@@ -258,6 +297,9 @@
     "name:fas_x_preferred":[
         "\u0645\u0627\u0644\u0632\u06cc"
     ],
+    "name:fij_x_preferred":[
+        "Malaysia"
+    ],
     "name:fin_x_preferred":[
         "Malesia"
     ],
@@ -281,6 +323,9 @@
     ],
     "name:ful_x_preferred":[
         "Malesii"
+    ],
+    "name:ful_x_variant":[
+        "Malaysiya"
     ],
     "name:gag_x_preferred":[
         "Malayziya"
@@ -311,6 +356,15 @@
     ],
     "name:gom_x_preferred":[
         "\u092e\u0932\u0947\u0936\u093f\u092f\u093e"
+    ],
+    "name:gor_x_preferred":[
+        "Malaysia"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf3c\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf39\ud800\udf43\ud800\udf39\ud800\udf30"
+    ],
+    "name:gpe_x_preferred":[
+        "Malaysia"
     ],
     "name:grn_x_preferred":[
         "Mal\u00e1sia"
@@ -368,6 +422,9 @@
     ],
     "name:hyw_x_preferred":[
         "\u0544\u0561\u056c\u0565\u0566\u056b\u0561"
+    ],
+    "name:ibo_x_preferred":[
+        "Malaysia"
     ],
     "name:ido_x_preferred":[
         "Malaizia"
@@ -472,6 +529,9 @@
     "name:kor_x_variant":[
         "\ub9d0\ub808\uc774\uc9c0\uc544"
     ],
+    "name:krj_x_preferred":[
+        "Malasya"
+    ],
     "name:kur_x_preferred":[
         "Malezya"
     ],
@@ -493,6 +553,9 @@
     "name:lav_x_preferred":[
         "Malaizija"
     ],
+    "name:lez_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f"
+    ],
     "name:lfn_x_preferred":[
         "Malaisia"
     ],
@@ -510,6 +573,9 @@
     ],
     "name:lit_x_preferred":[
         "Malaizija"
+    ],
+    "name:lld_x_preferred":[
+        "Malaisia"
     ],
     "name:lmo_x_preferred":[
         "Malaysia"
@@ -529,6 +595,9 @@
     "name:lzh_x_preferred":[
         "\u99ac\u4f86\u897f\u4e9e"
     ],
+    "name:mad_x_preferred":[
+        "Malaysia"
+    ],
     "name:mai_x_preferred":[
         "\u092e\u0932\u0947\u0938\u093f\u092f\u093e"
     ],
@@ -537,6 +606,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092e\u0932\u0947\u0936\u093f\u092f\u093e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f"
     ],
     "name:mhr_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u0439"
@@ -559,8 +631,14 @@
     "name:mlt_x_variant":[
         "Malasja"
     ],
+    "name:mni_x_preferred":[
+        "\uabc3\uabc2\uabe6\uabc1\uabe4\uabcc\uabe5"
+    ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0439\u0437"
+    ],
+    "name:mos_x_preferred":[
+        "Malaysia"
     ],
     "name:mri_x_preferred":[
         "Mar\u0113hia"
@@ -606,6 +684,9 @@
     ],
     "name:new_x_preferred":[
         "\u092e\u0932\u0947\u0938\u093f\u092f\u093e"
+    ],
+    "name:nia_x_preferred":[
+        "Malaysia"
     ],
     "name:nld_x_colloquial":[
         "Maleisie"
@@ -653,7 +734,8 @@
         "Malasya"
     ],
     "name:pam_x_variant":[
-        "Malaysia"
+        "Malaysia",
+        "Malasia"
     ],
     "name:pan_x_preferred":[
         "\u0a2e\u0a32\u0a47\u0a38\u0a3c\u0a40\u0a06"
@@ -687,6 +769,9 @@
     ],
     "name:pus_x_preferred":[
         "\u0645\u0627\u0644\u06cc\u0632\u06cc\u0627"
+    ],
+    "name:pwn_x_preferred":[
+        "Malaysia"
     ],
     "name:que_x_preferred":[
         "Malasya"
@@ -737,6 +822,9 @@
     "name:sgs_x_preferred":[
         "Malaiz\u0117j\u0117"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1019\u101c\u1031\u1038\u101e\u103b\u1083\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0dbd\u0dba\u0dcf\u0dc3\u0dd2\u0dba\u0dcf\u0dc0"
     ],
@@ -753,6 +841,18 @@
         "Malaysia"
     ],
     "name:sme_x_variant":[
+        "Malesia"
+    ],
+    "name:smj_x_preferred":[
+        "Mal\u00e1jssa"
+    ],
+    "name:smn_x_preferred":[
+        "Malesia"
+    ],
+    "name:smo_x_preferred":[
+        "Malesia"
+    ],
+    "name:sms_x_preferred":[
         "Malesia"
     ],
     "name:sna_x_preferred":[
@@ -821,6 +921,9 @@
     "name:tat_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f"
     ],
+    "name:tay_x_preferred":[
+        "Malaysia"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c32\u0c47\u0c37\u0c3f\u0c2f\u0c3e"
     ],
@@ -842,10 +945,16 @@
     "name:tir_x_preferred":[
         "\u121b\u120c\u12e2\u12eb"
     ],
+    "name:tok_x_preferred":[
+        "ma Malasija"
+    ],
     "name:ton_x_preferred":[
         "Mal\u0113sia"
     ],
     "name:tpi_x_preferred":[
+        "Malaysia"
+    ],
+    "name:trv_x_preferred":[
         "Malaysia"
     ],
     "name:tso_x_preferred":[
@@ -887,6 +996,9 @@
     ],
     "name:vec_x_preferred":[
         "Mal\u00e8xia"
+    ],
+    "name:vec_x_variant":[
+        "Ma\u0142\u00e0zia"
     ],
     "name:vep_x_preferred":[
         "Malaizii"
@@ -966,6 +1078,9 @@
     ],
     "name:zul_x_preferred":[
         "i-Malaysia"
+    ],
+    "name:zul_x_variant":[
+        "IMalaysia"
     ],
     "ne:abbrev":"Malay.",
     "ne:abbrev_len":6,
@@ -1180,7 +1295,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1617827555,
+    "wof:lastmodified":1690848117,
     "wof:name":"Malaysia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"101.854469,2.4593795,101.854469,2.4593795",
+    "geom:bbox":"101.854469,2.459379,101.854469,2.459379",
     "geom:latitude":2.459379,
     "geom:longitude":101.854469,
     "gn:country":"MY",
@@ -26,6 +26,9 @@
     ],
     "name:nld_x_preferred":[
         "Teluk Kemang"
+    ],
+    "name:zho_x_preferred":[
+        "\u76f4\u843d\u7518\u671b"
     ],
     "qs:name":"Telok Kemang",
     "qs:name_adm0":"Malaysia",
@@ -51,7 +54,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054739,
-    "wof:geomhash":"5286b8e52e548b2d8d850f7b44cfbb15",
+    "wof:geomhash":"507099d8445c29465c4a08c0e698221f",
     "wof:hierarchy":[
         {
             "country_id":85632739,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":890488967,
-    "wof:lastmodified":1566643953,
+    "wof:lastmodified":1690848172,
     "wof:name":"Telok Kemang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -70,9 +73,9 @@
 },
   "bbox": [
     101.854469,
-    2.4593795,
+    2.459379,
     101.854469,
-    2.4593795
+    2.459379
 ],
-  "geometry": {"coordinates":[101.85446899999999,2.4593795],"type":"Point"}
+  "geometry": {"coordinates":[101.85446899999999,2.459379],"type":"Point"}
 }

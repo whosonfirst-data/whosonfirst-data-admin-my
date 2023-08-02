@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Bintulu"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0646\u062a\u0648\u0644\u0648"
+    ],
     "name:ast_x_preferred":[
         "Bintulu"
     ],
@@ -250,6 +253,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0ba3\u0bcd\u0b9f\u0bc1\u0bb2\u0bc1"
     ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb2\u0bc1"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c3f\u0c02\u0c1f\u0c41\u0c32\u0c41"
     ],
@@ -437,7 +443,7 @@
         }
     ],
     "wof:id":102023751,
-    "wof:lastmodified":1636501637,
+    "wof:lastmodified":1690848044,
     "wof:name":"Bintulu",
     "wof:parent_id":890488209,
     "wof:placetype":"locality",

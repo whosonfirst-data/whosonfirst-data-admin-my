@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"101.24824,4.0916285,101.24824,4.0916285",
+    "geom:bbox":"101.24824,4.091628,101.24824,4.091628",
     "geom:latitude":4.091628,
     "geom:longitude":101.24824,
     "gp:adm0":23424901,
@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ast_x_preferred":[
+        "Bidor"
+    ],
     "name:eng_x_preferred":[
         "Bidor"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:nld_x_preferred":[
         "Bidor"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc0\u0b9f\u0bcb\u0bb0\u0bcd"
     ],
     "name:zho_x_preferred":[
         "\u7f8e\u7f57"
@@ -61,7 +67,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054715,
-    "wof:geomhash":"4795ceff53df60a86323c9315f1f27bc",
+    "wof:geomhash":"b12aba4e4a034fc57d731b1fa59f8249",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890488325,
-    "wof:lastmodified":1566643950,
+    "wof:lastmodified":1690848170,
     "wof:name":"Bidor",
     "wof:parent_id":890489741,
     "wof:placetype":"localadmin",
@@ -83,9 +89,9 @@
 },
   "bbox": [
     101.24824,
-    4.0916285,
+    4.091628,
     101.24824,
-    4.0916285
+    4.091628
 ],
-  "geometry": {"coordinates":[101.24824,4.0916285],"type":"Point"}
+  "geometry": {"coordinates":[101.24824,4.091628],"type":"Point"}
 }

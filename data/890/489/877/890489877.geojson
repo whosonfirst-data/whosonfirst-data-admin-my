@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"116.0739685,5.981369,116.0739685,5.981369",
+    "geom:bbox":"116.073969,5.981369,116.073969,5.981369",
     "geom:latitude":5.981369,
     "geom:longitude":116.073969,
     "gp:adm0":23424901,
@@ -18,6 +18,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0643\u0648\u062a\u0627 \u0643\u064a\u0646\u0627\u0628\u0627\u0644\u0648"
+    ],
+    "name:arz_x_preferred":[
         "\u0643\u0648\u062a\u0627 \u0643\u064a\u0646\u0627\u0628\u0627\u0644\u0648"
     ],
     "name:ast_x_preferred":[
@@ -56,8 +59,14 @@
     "name:deu_x_preferred":[
         "Kota Kinabalu"
     ],
+    "name:dtp_x_preferred":[
+        "Kota Kinabalu"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03cc\u03c4\u03b1 \u039a\u03b9\u03bd\u03b1\u03bc\u03c0\u03b1\u03bb\u03bf\u03cd"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03cc\u03c4\u03b1 \u039a\u03b9\u03bd\u03b1\u03bc\u03c0\u03ac\u03bb\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Kota Kinabalu"
@@ -77,6 +86,9 @@
     "name:fra_x_preferred":[
         "Kota Kinabalu"
     ],
+    "name:gle_x_preferred":[
+        "Kota Kinabalu"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0a9f\u0abe \u0a95\u0abf\u0aa8\u0abe\u0aac\u0abe\u0ab2\u0ac1"
     ],
@@ -91,6 +103,9 @@
     ],
     "name:hun_x_preferred":[
         "Kota Kinabalu"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u057f\u0561-\u053f\u056b\u0576\u0561\u0562\u0561\u056c\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Kota Kinabalu"
@@ -173,6 +188,9 @@
     "name:spa_x_preferred":[
         "Kota Kinabalu"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0442\u0430 \u041a\u0438\u043d\u0430\u0431\u0430\u043b\u0443"
+    ],
     "name:swe_x_preferred":[
         "Kota Kinabalu"
     ],
@@ -199,6 +217,9 @@
     ],
     "name:uzb_x_preferred":[
         "Kota-kinabalu"
+    ],
+    "name:vec_x_preferred":[
+        "Kota Kinabalu"
     ],
     "name:vie_x_preferred":[
         "Kota Kinabalu"
@@ -239,7 +260,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054779,
-    "wof:geomhash":"eeede264bb4667bd6d9ca037b12d00e4",
+    "wof:geomhash":"40c5e2319926ced70e297b897c95fcfd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -250,7 +271,7 @@
         }
     ],
     "wof:id":890489877,
-    "wof:lastmodified":1566644007,
+    "wof:lastmodified":1690848199,
     "wof:name":"Kota Kinabalu",
     "wof:parent_id":1108696541,
     "wof:placetype":"localadmin",
@@ -260,10 +281,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    116.0739685,
+    116.073969,
     5.981369,
-    116.0739685,
+    116.073969,
     5.981369
 ],
-  "geometry": {"coordinates":[116.07396850000001,5.981369],"type":"Point"}
+  "geometry": {"coordinates":[116.07396900000001,5.981369],"type":"Point"}
 }

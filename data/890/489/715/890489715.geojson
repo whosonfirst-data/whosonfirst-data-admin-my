@@ -49,8 +49,14 @@
     "name:fra_x_preferred":[
         "Melaka Tengah"
     ],
+    "name:ind_x_preferred":[
+        "Melaka Tengah"
+    ],
     "name:msa_x_preferred":[
         "Melaka Tengah"
+    ],
+    "name:nan_x_preferred":[
+        "Central Melaka Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Melaka Tengah"
@@ -60,6 +66,12 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bb2\u0bbe\u0b95\u0bcd\u0b95\u0bbe"
+    ],
+    "name:tam_x_variant":[
+        "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bb2\u0bbe\u0b95\u0bcd\u0b95\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e21\u0e30\u0e25\u0e30\u0e01\u0e32\u0e01\u0e25\u0e32\u0e07"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u516d\u7532\u4e2d\u592e\u53bf"
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":890489715,
-    "wof:lastmodified":1627522440,
+    "wof:lastmodified":1690848192,
     "wof:name":"Melaka Tengah",
     "wof:parent_id":85675151,
     "wof:placetype":"county",

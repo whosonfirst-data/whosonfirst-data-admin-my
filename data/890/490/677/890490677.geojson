@@ -29,11 +29,17 @@
     "name:msa_x_preferred":[
         "Batang Padang"
     ],
+    "name:nan_x_preferred":[
+        "Batang Padang Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Batang Padang"
     ],
     "name:swe_x_preferred":[
         "Batang Padang"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0b99\u0bcd \u0baa\u0bbe\u0b9f\u0bbe\u0b99\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:vie_x_preferred":[
         "Batang Padang"
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890490677,
-    "wof:lastmodified":1566643907,
+    "wof:lastmodified":1690848152,
     "wof:name":"Batang Padang",
     "wof:parent_id":890489741,
     "wof:placetype":"localadmin",

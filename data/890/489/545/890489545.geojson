@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:aze_x_preferred":[
+        "Kota Setar"
+    ],
     "name:ceb_x_preferred":[
         "Daerah Kota Setar"
+    ],
+    "name:deu_x_preferred":[
+        "Kota Setar"
     ],
     "name:eng_x_preferred":[
         "Kota Setar"
@@ -29,11 +35,29 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u062a\u0627 \u0633\u062a\u0627\u0631"
     ],
+    "name:fra_x_preferred":[
+        "Kota Setar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30bf\u30fb\u30b9\u30bf\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\ud0c0\uc2a4\ud0c0\ub974\uad70"
+    ],
     "name:msa_x_preferred":[
         "Kota Setar"
     ],
+    "name:nan_x_preferred":[
+        "Kota Setar Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Kota Setar"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0ba4\u0bcd\u0ba4\u0bbe \u0bb8\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e42\u0e01\u0e15\u0e32\u0e40\u0e0b\u0e2d\u0e15\u0e32\u0e23\u0e4c"
     ],
     "name:vie_x_preferred":[
         "Kota Setar"
@@ -90,7 +114,7 @@
         }
     ],
     "wof:id":890489545,
-    "wof:lastmodified":1582348056,
+    "wof:lastmodified":1690848194,
     "wof:name":"Kota Setar",
     "wof:parent_id":890490361,
     "wof:placetype":"localadmin",

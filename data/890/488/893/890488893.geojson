@@ -16,11 +16,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:arz_x_preferred":[
+        "\u0627\u0633 \u0627\u0645 \u0643\u0649 \u0633\u064a\u0631\u0649 \u0647\u0627\u0631\u062a\u0627\u0645\u0627\u0633"
+    ],
     "name:eng_x_preferred":[
         "SMK Seri Hartamas"
     ],
     "name:msa_x_preferred":[
         "Sekolah Menengah Kebangsaan Seri Hartamas"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u5730\u82b1\u56ed\u56fd\u6c11\u4e2d\u5b66"
     ],
     "qs:name":"Taman Sri Hartamas",
     "qs:name_adm0":"Malaysia",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":890488893,
-    "wof:lastmodified":1566643941,
+    "wof:lastmodified":1690848166,
     "wof:name":"Taman Sri Hartamas",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

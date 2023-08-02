@@ -88,6 +88,9 @@
     "name:fra_x_preferred":[
         "Kelantan"
     ],
+    "name:frr_x_preferred":[
+        "Kelantan"
+    ],
     "name:glg_x_preferred":[
         "Kelatan"
     ],
@@ -251,8 +254,8 @@
     "wof:belongsto":[
         102191569,
         85632739,
-        890488203,
-        85675159
+        85675159,
+        890488203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -274,7 +277,7 @@
         }
     ],
     "wof:id":102022865,
-    "wof:lastmodified":1614895105,
+    "wof:lastmodified":1690848090,
     "wof:name":"Kelantan",
     "wof:parent_id":890488203,
     "wof:placetype":"locality",

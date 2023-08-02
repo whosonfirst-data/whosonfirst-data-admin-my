@@ -83,6 +83,9 @@
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03c1\u03b1\u03b3\u03bf\u03c5\u03ac\u03ba"
     ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03c1\u03ac\u03bf\u03c5\u03b1\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Sarawak"
     ],
@@ -102,6 +105,12 @@
         "Sarawak"
     ],
     "name:fra_x_preferred":[
+        "Sarawak"
+    ],
+    "name:frr_x_preferred":[
+        "Sarawak"
+    ],
+    "name:glg_x_preferred":[
         "Sarawak"
     ],
     "name:guj_x_preferred":[
@@ -125,11 +134,17 @@
     "name:hye_x_preferred":[
         "\u054d\u0561\u0580\u0561\u057e\u0561\u056f"
     ],
+    "name:ido_x_preferred":[
+        "Sarawak"
+    ],
     "name:ilo_x_preferred":[
         "Sarawak"
     ],
     "name:ind_x_preferred":[
         "Serawak"
+    ],
+    "name:ind_x_variant":[
+        "Sarawak"
     ],
     "name:ipk_x_preferred":[
         "Sarawak"
@@ -145,6 +160,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cb0\u0cb5\u0cbe\u0c95\u0ccd"
+    ],
+    "name:khm_x_preferred":[
+        "\u179f\u17b6\u179a\u17c9\u17b6\u179c\u17c9\u17b6\u1780\u17cb"
     ],
     "name:kor_x_preferred":[
         "\uc0ac\ub77c\uc641 \uc8fc"
@@ -182,6 +200,9 @@
     "name:nob_x_preferred":[
         "Sarawak"
     ],
+    "name:oss_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0432\u0430\u043a"
+    ],
     "name:pan_x_preferred":[
         "\u0a38\u0a3e\u0a30\u0a3e\u0a35\u0a3e\u0a15"
     ],
@@ -193,6 +214,9 @@
     ],
     "name:por_x_preferred":[
         "Sarawak"
+    ],
+    "name:que_x_preferred":[
+        "Sarawak suyu"
     ],
     "name:ron_x_preferred":[
         "Sarawak"
@@ -244,6 +268,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0631\u0627\u0648\u0627\u06a9"
+    ],
+    "name:uzb_x_preferred":[
+        "Saravak"
     ],
     "name:vie_x_preferred":[
         "Sarawak"
@@ -388,7 +415,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1614895107,
+    "wof:lastmodified":1690848116,
     "wof:name":"Sarawak",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

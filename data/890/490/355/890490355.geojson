@@ -51,11 +51,20 @@
     "name:fra_x_preferred":[
         "Kuala Muda"
     ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30a2\u30e9\u30fb\u30e0\u30c0"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\uc54c\ub77c\ubb34\ub2e4\uad70"
+    ],
     "name:msa_x_preferred":[
         "Kuala Muda"
     ],
     "name:msa_x_variant":[
         "Daerah Kuala Muda"
+    ],
+    "name:nan_x_preferred":[
+        "Kuala Muda Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Kuala Muda"
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":890490355,
-    "wof:lastmodified":1627522439,
+    "wof:lastmodified":1690848134,
     "wof:name":"Kuala Muda",
     "wof:parent_id":85675133,
     "wof:placetype":"county",

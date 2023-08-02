@@ -26,6 +26,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0639\u0644\u0648\u0645 \u0641\u064a \u0645\u0627\u0644\u064a\u0632\u064a\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0639\u0644\u0648\u0645 \u0641\u0649 \u0645\u0627\u0644\u064a\u0632\u064a\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u0644\u0632\u06cc \u0628\u06cc\u0644\u06cc\u0645\u200c\u06cc\u0648\u0631\u062f\u0648"
     ],
@@ -41,6 +47,9 @@
     "name:fra_x_preferred":[
         "Universiti sains Malaysia"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea \u05d4\u05de\u05d3\u05e2"
+    ],
     "name:ind_x_preferred":[
         "Universitas Sains Malaysia"
     ],
@@ -52,6 +61,12 @@
     ],
     "name:msa_x_preferred":[
         "Universiti Sains Malaysia"
+    ],
+    "name:pol_x_preferred":[
+        "Universiti Sains Malaysia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0443\u0447\u043d\u044b\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041c\u0430\u043b\u0430\u0439\u0437\u0438\u0438"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd"
@@ -132,7 +147,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582348021,
+    "wof:lastmodified":1690848103,
     "wof:name":"Universiti Sains Malaysia",
     "wof:parent_id":102023367,
     "wof:placetype":"neighbourhood",

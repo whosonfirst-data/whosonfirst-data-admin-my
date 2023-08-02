@@ -47,6 +47,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09b9\u09be\u0982"
     ],
+    "name:ben_x_variant":[
+        "\u09aa\u09be\u09b9\u09be\u0982"
+    ],
     "name:bjn_x_preferred":[
         "Pahang"
     ],
@@ -71,8 +74,14 @@
     "name:deu_x_preferred":[
         "Pahang"
     ],
+    "name:diq_x_preferred":[
+        "Pahang"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03ac\u03c7\u03b1\u03bd\u03b3\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03c7\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Pahang"
@@ -93,6 +102,9 @@
         "Pahang"
     ],
     "name:fra_x_preferred":[
+        "Pahang"
+    ],
+    "name:frr_x_preferred":[
         "Pahang"
     ],
     "name:guj_x_preferred":[
@@ -171,6 +183,9 @@
     "name:pms_x_preferred":[
         "Pahang"
     ],
+    "name:pnb_x_preferred":[
+        "\u067e\u0627\u06c1\u0627\u0646\u06af"
+    ],
     "name:pol_x_preferred":[
         "Pahang"
     ],
@@ -180,6 +195,9 @@
     "name:por_x_variant":[
         "Pahang"
     ],
+    "name:que_x_preferred":[
+        "Pahang suyu"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0445\u0430\u043d\u0433"
     ],
@@ -188,6 +206,9 @@
     ],
     "name:spa_x_preferred":[
         "Pahang"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0445\u0430\u043d\u0433"
     ],
     "name:swe_x_preferred":[
         "Pahang"
@@ -365,7 +386,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1636501640,
+    "wof:lastmodified":1690848110,
     "wof:name":"Pahang",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

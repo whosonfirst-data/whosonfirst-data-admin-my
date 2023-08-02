@@ -49,6 +49,9 @@
     "name:ceb_x_preferred":[
         "Terengganu"
     ],
+    "name:ces_x_preferred":[
+        "Terengganu"
+    ],
     "name:dan_x_preferred":[
         "Terengganu"
     ],
@@ -83,6 +86,12 @@
         "Terengganu"
     ],
     "name:fra_x_preferred":[
+        "Terengganu"
+    ],
+    "name:frr_x_preferred":[
+        "Terengganu"
+    ],
+    "name:gle_x_preferred":[
         "Terengganu"
     ],
     "name:guj_x_preferred":[
@@ -208,6 +217,9 @@
     "name:war_x_preferred":[
         "Terengganu"
     ],
+    "name:wuu_x_preferred":[
+        "\u767b\u5609\u697c"
+    ],
     "name:yue_x_preferred":[
         "\u767b\u5609\u6a13"
     ],
@@ -248,8 +260,8 @@
     "wof:belongsto":[
         102191569,
         85632739,
-        1108696513,
-        85675169
+        85675169,
+        1108696513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -271,7 +283,7 @@
         }
     ],
     "wof:id":102022859,
-    "wof:lastmodified":1614895105,
+    "wof:lastmodified":1690848078,
     "wof:name":"Terengganu",
     "wof:parent_id":1108696513,
     "wof:placetype":"locality",

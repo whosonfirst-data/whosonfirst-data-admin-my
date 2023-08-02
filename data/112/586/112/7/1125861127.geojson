@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Senai"
+    ],
     "name:ceb_x_preferred":[
         "Taman Senai"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:spa_x_preferred":[
         "Senai"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0ba9\u0bbe\u0baf\u0bcd"
     ],
     "name:zho_x_preferred":[
         "\u58eb\u4e43"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1125861127,
-    "wof:lastmodified":1566644025,
+    "wof:lastmodified":1690848209,
     "wof:name":"Taman Sawi",
     "wof:parent_id":1108696433,
     "wof:placetype":"locality",

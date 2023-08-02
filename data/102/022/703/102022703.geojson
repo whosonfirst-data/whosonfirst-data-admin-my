@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0628\u0627\u0646\u063a \u062c\u0627\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0628\u0627\u0646\u062c \u062c\u0627\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Subang Jaya"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0443\u0431\u0430\u043d\u0433-\u0414\u0436\u0430\u044f"
     ],
@@ -55,10 +61,19 @@
     "name:fra_x_preferred":[
         "Subang Jaya"
     ],
+    "name:gle_x_preferred":[
+        "Subang Jaya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d1\u05e0\u05d2 \u05d2'\u05d0\u05d9\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u092c\u093e\u0902\u0917 \u091c\u093e\u092f\u093e"
     ],
     "name:hun_x_preferred":[
+        "Subang Jaya"
+    ],
+    "name:ile_x_preferred":[
         "Subang Jaya"
     ],
     "name:ind_x_preferred":[
@@ -88,6 +103,9 @@
     "name:nld_x_preferred":[
         "Subang Jaya"
     ],
+    "name:nob_x_preferred":[
+        "Subang Jaya"
+    ],
     "name:pan_x_preferred":[
         "\u0a38\u0a41\u0a2c\u0a3e\u0a02\u0a17 \u0a1c\u0a2f\u0a3e"
     ],
@@ -103,6 +121,9 @@
     "name:spa_x_preferred":[
         "Subang Jaya"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc1\u0baa\u0bbe\u0b99\u0bcd \u0b9c\u0bc6\u0baf\u0bbe"
+    ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e38\u0e1a\u0e31\u0e07\u0e08\u0e32\u0e22\u0e32"
     ],
@@ -114,6 +135,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0628\u0627\u0646\u06af \u062c\u0627\u06cc\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Subang Jaya"
     ],
     "name:vie_x_preferred":[
         "Subang Jaya"
@@ -144,8 +168,8 @@
     "wof:belongsto":[
         102191569,
         85632739,
-        890490605,
-        85675163
+        85675163,
+        890490605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -167,7 +191,7 @@
         }
     ],
     "wof:id":102022703,
-    "wof:lastmodified":1614895105,
+    "wof:lastmodified":1690848086,
     "wof:name":"Subang Jaya",
     "wof:parent_id":890490605,
     "wof:placetype":"locality",

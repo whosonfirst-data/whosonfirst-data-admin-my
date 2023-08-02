@@ -52,6 +52,12 @@
     "name:msa_x_preferred":[
         "Maran"
     ],
+    "name:nob_x_preferred":[
+        "Maran"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0bb0\u0bbe\u0ba9\u0bcd"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108696463,
-    "wof:lastmodified":1627522440,
+    "wof:lastmodified":1690848126,
     "wof:name":"Maran",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

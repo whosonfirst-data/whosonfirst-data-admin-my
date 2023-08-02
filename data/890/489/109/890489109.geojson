@@ -47,11 +47,20 @@
     "name:fra_x_preferred":[
         "Pendang"
     ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30f3\u30c0\u30f3"
+    ],
     "name:msa_x_preferred":[
         "Pendang"
     ],
+    "name:nan_x_preferred":[
+        "Pendang Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Pendang"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0ba3\u0bcd\u0b9f\u0bbe\u0b99\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:vie_x_preferred":[
         "Pendang"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":890489109,
-    "wof:lastmodified":1627522441,
+    "wof:lastmodified":1690848196,
     "wof:name":"Pendang",
     "wof:parent_id":85675133,
     "wof:placetype":"county",

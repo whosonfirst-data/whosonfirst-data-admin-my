@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0628\u0648\u0646 \u062a\u064a\u0628\u0627\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u064a\u0628\u0648\u0646 \u062a\u064a\u0628\u0627\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Nibong Tebal"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u09ac\u0982 \u09a4\u09c7\u09ac\u09be\u09b2"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0928\u0940\u092c\u094b\u0902\u0917 \u091f\u0947\u092c\u0932"
+    ],
+    "name:hin_x_variant":[
+        "\u0928\u0940\u092c\u094b\u0902\u0917  \u091f\u0947\u092c\u0932"
     ],
     "name:ind_x_preferred":[
         "Nibong Tebal"
@@ -186,7 +195,7 @@
         }
     ],
     "wof:id":1126048963,
-    "wof:lastmodified":1566644024,
+    "wof:lastmodified":1690848208,
     "wof:name":"Nibung Tebal",
     "wof:parent_id":1108696503,
     "wof:placetype":"locality",

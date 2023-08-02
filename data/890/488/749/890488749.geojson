@@ -35,8 +35,14 @@
     "name:nld_x_preferred":[
         "Merapoh"
     ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc6\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bcb"
+    ],
     "name:und_x_variant":[
         "Kampong Merapoh Lama"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8e\u62c9\u5761\u93ae"
     ],
     "qs:name":"Merapuh",
     "qs:name_adm0":"Malaysia",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890488749,
-    "wof:lastmodified":1566643946,
+    "wof:lastmodified":1690848169,
     "wof:name":"Merapuh",
     "wof:parent_id":890488203,
     "wof:placetype":"locality",

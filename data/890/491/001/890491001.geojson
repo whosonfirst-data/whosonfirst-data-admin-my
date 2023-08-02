@@ -37,6 +37,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0626\u0631\u0629 \u0628\u0648\u0646\u062a\u064a\u0627\u0646"
+    ],
     "name:ceb_x_preferred":[
         "Daerah Pontian"
     ],
@@ -56,14 +59,32 @@
     "name:ind_x_preferred":[
         "Pontian"
     ],
+    "name:ind_x_variant":[
+        "Distrik Pontian"
+    ],
+    "name:jav_x_preferred":[
+        "Kabupat\u00e8n Pontian"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30f3\u30c6\u30a3\u30a2\u30f3\u90e1"
+    ],
     "name:msa_x_preferred":[
         "Pontian"
+    ],
+    "name:nan_x_preferred":[
+        "Pontian Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Pontian"
     ],
+    "name:sun_x_preferred":[
+        "Kabupat\u00e9n Pontian"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bca\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tet_x_preferred":[
+        "Distritu Pontian"
     ],
     "name:zho_x_preferred":[
         "\u7b28\u73cd"
@@ -119,7 +140,7 @@
         }
     ],
     "wof:id":890491001,
-    "wof:lastmodified":1627522442,
+    "wof:lastmodified":1690848157,
     "wof:name":"Pontian",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

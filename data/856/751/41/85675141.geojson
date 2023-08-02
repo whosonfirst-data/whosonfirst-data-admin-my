@@ -48,6 +48,9 @@
     "name:ben_x_preferred":[
         "\u099c\u09b9\u09b0"
     ],
+    "name:ben_x_variant":[
+        "\u099c\u09cb\u09b9\u09cb\u09b0"
+    ],
     "name:bjn_x_preferred":[
         "Johor"
     ],
@@ -99,6 +102,9 @@
     "name:fra_x_preferred":[
         "Johor"
     ],
+    "name:frr_x_preferred":[
+        "Johor"
+    ],
     "name:glg_x_preferred":[
         "Johor"
     ],
@@ -122,6 +128,9 @@
     ],
     "name:hun_x_preferred":[
         "Johor"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0578\u0570\u0578\u0580"
     ],
     "name:ind_x_preferred":[
         "Johor"
@@ -189,10 +198,19 @@
     "name:pms_x_preferred":[
         "Johor"
     ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0648\u06be\u0631"
+    ],
     "name:pol_x_preferred":[
         "Johor"
     ],
     "name:por_x_preferred":[
+        "Johor"
+    ],
+    "name:que_x_preferred":[
+        "Johor suyu"
+    ],
+    "name:ron_x_preferred":[
         "Johor"
     ],
     "name:rus_x_preferred":[
@@ -203,6 +221,9 @@
     ],
     "name:spa_x_preferred":[
         "Johor"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u043e\u0445\u043e\u0440"
     ],
     "name:swe_x_preferred":[
         "Johor"
@@ -234,11 +255,17 @@
     "name:urd_x_preferred":[
         "\u062c\u0648\u06be\u0631"
     ],
+    "name:uzb_x_preferred":[
+        "Johor"
+    ],
     "name:vie_x_preferred":[
         "Johor"
     ],
     "name:war_x_preferred":[
         "Johor"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10ef\u10dd\u10f0\u10dd\u10e0\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u67d4\u4f5b\u5dde"
@@ -378,7 +405,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1614895107,
+    "wof:lastmodified":1690848115,
     "wof:name":"Johor",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

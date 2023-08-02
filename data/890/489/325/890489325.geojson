@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"102.247727,2.2197955,102.247727,2.2197955",
+    "geom:bbox":"102.247727,2.219796,102.247727,2.219796",
     "geom:latitude":2.219796,
     "geom:longitude":102.247727,
     "gp:adm0":23424901,
@@ -26,8 +26,14 @@
     "name:nld_x_preferred":[
         "Peringgit"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb0\u0bbf\u0b99\u0bcd\u0b95\u0bbf\u0b9f\u0bcd"
+    ],
     "name:zho_x_preferred":[
         "\u99ac\u767b\u5df4\u51b7\u7e23"
+    ],
+    "name:zho_x_variant":[
+        "\u67cf\u7075\u7389"
     ],
     "qs:name":"Peringgit",
     "qs:name_adm0":"Malaysia",
@@ -56,7 +62,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054753,
-    "wof:geomhash":"1caa9365cb423f68436aefab7965879d",
+    "wof:geomhash":"b17fdd9d71f9d72d5d7459d2a2cbedc4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":890489325,
-    "wof:lastmodified":1566644000,
+    "wof:lastmodified":1690848195,
     "wof:name":"Peringgit",
     "wof:parent_id":890489715,
     "wof:placetype":"localadmin",
@@ -78,9 +84,9 @@
 },
   "bbox": [
     102.247727,
-    2.2197955,
+    2.219796,
     102.247727,
-    2.2197955
+    2.219796
 ],
-  "geometry": {"coordinates":[102.247727,2.2197955],"type":"Point"}
+  "geometry": {"coordinates":[102.247727,2.219796],"type":"Point"}
 }

@@ -50,11 +50,20 @@
     "name:msa_x_preferred":[
         "Daerah Kuching"
     ],
+    "name:nan_x_preferred":[
+        "Kuching Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Kuching"
     ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc2\u0b9a\u0bcd\u0b9a\u0bbf\u0b99\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e01\u0e39\u0e0a\u0e34\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e01\u0e39\u0e08\u0e34\u0e07"
     ],
     "name:zho_x_preferred":[
         "\u53e4\u664b\u53bf"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":890488875,
-    "wof:lastmodified":1627522439,
+    "wof:lastmodified":1690848163,
     "wof:name":"Kuching",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

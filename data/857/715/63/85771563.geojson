@@ -39,8 +39,17 @@
     "name:nld_x_preferred":[
         "Batu Uban"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 \u0b89\u0baa\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e15\u0e39\u0e2d\u0e39\u0e1a\u0e31\u0e19"
+    ],
     "name:vie_x_preferred":[
         "Batu Uban"
+    ],
+    "name:zho_x_preferred":[
+        "\u5cc7\u90fd\u86ee"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -108,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582348022,
+    "wof:lastmodified":1690848103,
     "wof:name":"Kampong Batu Uban",
     "wof:parent_id":102023363,
     "wof:placetype":"neighbourhood",

@@ -34,11 +34,17 @@
     "name:nld_x_preferred":[
         "Sungai Udang"
     ],
+    "name:pol_x_preferred":[
+        "Sungai Udang"
+    ],
     "name:spa_x_preferred":[
         "Sungai Udang"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0b99\u0bcd\u0b95\u0bc8 \u0b8a\u0b9f\u0bbe\u0b99\u0bcd"
+    ],
+    "name:zho_x_preferred":[
+        "\u53cc\u6eaa\u4e4c\u6d6a"
     ],
     "qs_pg:aaroncc":"MY",
     "qs_pg:gn_country":"MY",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1126020239,
-    "wof:lastmodified":1566644023,
+    "wof:lastmodified":1690848206,
     "wof:name":"Plaza Sungai Udang",
     "wof:parent_id":890489715,
     "wof:placetype":"locality",

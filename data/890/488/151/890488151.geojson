@@ -20,11 +20,23 @@
     "name:eng_x_preferred":[
         "Sedenak"
     ],
+    "name:eng_x_variant":[
+        "Mukim Sedenak"
+    ],
+    "name:ind_x_preferred":[
+        "Kecamatan Sedenak"
+    ],
     "name:msa_x_preferred":[
         "Sedenak"
     ],
+    "name:msa_x_variant":[
+        "Mukim Sedenak"
+    ],
     "name:nld_x_preferred":[
         "Sedenak"
+    ],
+    "name:sun_x_preferred":[
+        "Kecamatan Sedenak"
     ],
     "name:zho_x_preferred":[
         "\u58eb\u5e74\u7eb3"
@@ -67,7 +79,7 @@
         }
     ],
     "wof:id":890488151,
-    "wof:lastmodified":1566643929,
+    "wof:lastmodified":1690848161,
     "wof:name":"Sedenak",
     "wof:parent_id":1108696433,
     "wof:placetype":"locality",
