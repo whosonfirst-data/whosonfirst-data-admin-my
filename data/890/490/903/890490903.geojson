@@ -23,8 +23,14 @@
     "name:msa_x_preferred":[
         "Belawai"
     ],
+    "name:msa_x_variant":[
+        "Labu"
+    ],
     "name:nld_x_preferred":[
         "Labu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe\u0baa\u0bc1"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u5e03"
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":890490903,
-    "wof:lastmodified":1566643897,
+    "wof:lastmodified":1690848146,
     "wof:name":"Labu",
     "wof:parent_id":890489971,
     "wof:placetype":"locality",

@@ -82,6 +82,9 @@
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c5\u03c4\u03c3\u03af\u03bd\u03b3\u03ba"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03cd\u03c4\u03c3\u03b9\u03bd\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Kuching"
     ],
@@ -139,6 +142,9 @@
     "name:hun_x_preferred":[
         "Kuching"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0579\u056b\u0576\u0563"
+    ],
     "name:ido_x_preferred":[
         "Kuching"
     ],
@@ -155,6 +161,9 @@
         "Kuching"
     ],
     "name:ita_x_preferred":[
+        "Kuching"
+    ],
+    "name:jav_x_preferred":[
         "Kuching"
     ],
     "name:jpn_x_preferred":[
@@ -241,6 +250,9 @@
     "name:oci_x_preferred":[
         "Kuching"
     ],
+    "name:oss_x_preferred":[
+        "\u041a\u0443\u0447\u0438\u043d\u0433"
+    ],
     "name:pan_x_preferred":[
         "\u0a15\u0a41\u0a1a\u0a40\u0a02\u0a17"
     ],
@@ -249,6 +261,9 @@
     ],
     "name:pms_x_preferred":[
         "Kuching"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0648\u0686\u06cc\u0646\u06af"
     ],
     "name:pol_x_preferred":[
         "Kuching"
@@ -289,6 +304,9 @@
     "name:srd_x_preferred":[
         "Kuching"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0447\u0438\u043d\u0433"
+    ],
     "name:swa_x_preferred":[
         "Kuching"
     ],
@@ -306,6 +324,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e39\u0e0a\u0e34\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e39\u0e08\u0e34\u0e07"
     ],
     "name:tuk_x_preferred":[
         "Ku\u00e7ing"
@@ -506,7 +527,7 @@
         }
     ],
     "wof:id":102023573,
-    "wof:lastmodified":1617130319,
+    "wof:lastmodified":1690848039,
     "wof:name":"Kuching",
     "wof:parent_id":890488875,
     "wof:placetype":"locality",

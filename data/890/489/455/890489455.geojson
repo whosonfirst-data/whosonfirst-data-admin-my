@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"101.3250155,3.994324,101.3250155,3.994324",
+    "geom:bbox":"101.325016,3.994324,101.325016,3.994324",
     "geom:latitude":3.994324,
     "geom:longitude":101.325016,
     "gp:adm0":23424901,
@@ -28,6 +28,12 @@
     ],
     "name:nld_x_preferred":[
         "Sungkai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043d\u0433\u043a\u0430\u0439"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc1\u0b99\u0bcd\u0b95\u0bc8 \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
     "name:zho_x_preferred":[
         "\u5b8b\u6eaa"
@@ -59,7 +65,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054758,
-    "wof:geomhash":"0a1d7934f3c200f6b19c7654782df3a9",
+    "wof:geomhash":"a5cc1af250d7d2ddd3d115e2cd31412e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":890489455,
-    "wof:lastmodified":1566643991,
+    "wof:lastmodified":1690848190,
     "wof:name":"Sungkai",
     "wof:parent_id":890489741,
     "wof:placetype":"localadmin",
@@ -80,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    101.3250155,
+    101.325016,
     3.994324,
-    101.3250155,
+    101.325016,
     3.994324
 ],
-  "geometry": {"coordinates":[101.32501550000001,3.994324],"type":"Point"}
+  "geometry": {"coordinates":[101.32501600000001,3.994324],"type":"Point"}
 }

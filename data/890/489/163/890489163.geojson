@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"102.0539115,2.6393035,102.0539115,2.6393035",
+    "geom:bbox":"102.053911,2.639304,102.053911,2.639304",
     "geom:latitude":2.639304,
     "geom:longitude":102.053911,
     "gp:adm0":23424901,
@@ -25,6 +25,9 @@
     ],
     "name:nld_x_preferred":[
         "Pedas"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0b9f\u0bbe\u0bb8\u0bcd"
     ],
     "name:zho_x_preferred":[
         "\u4e0d\u53fb\u58eb"
@@ -56,7 +59,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054747,
-    "wof:geomhash":"42714803ef9b902688e1026a24ff456e",
+    "wof:geomhash":"1aa1b96e71405bb3eab6119601f2b4d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890489163,
-    "wof:lastmodified":1566644004,
+    "wof:lastmodified":1690848196,
     "wof:name":"Pedas",
     "wof:parent_id":890490863,
     "wof:placetype":"localadmin",
@@ -77,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    102.0539115,
-    2.6393035,
-    102.0539115,
-    2.6393035
+    102.053911,
+    2.639304,
+    102.053911,
+    2.639304
 ],
-  "geometry": {"coordinates":[102.0539115,2.6393035],"type":"Point"}
+  "geometry": {"coordinates":[102.053911,2.639304],"type":"Point"}
 }

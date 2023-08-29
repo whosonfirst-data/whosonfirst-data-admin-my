@@ -29,11 +29,17 @@
     "name:nld_x_preferred":[
         "Sungai Udang"
     ],
+    "name:pol_x_preferred":[
+        "Sungai Udang"
+    ],
     "name:spa_x_preferred":[
         "Sungai Udang"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0b99\u0bcd\u0b95\u0bc8 \u0b8a\u0b9f\u0bbe\u0b99\u0bcd"
+    ],
+    "name:zho_x_preferred":[
+        "\u53cc\u6eaa\u4e4c\u6d6a"
     ],
     "qs:name":"Sungai Udang",
     "qs:name_adm0":"Malaysia",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890489219,
-    "wof:lastmodified":1566643986,
+    "wof:lastmodified":1690848187,
     "wof:name":"Sungai Udang",
     "wof:parent_id":890489715,
     "wof:placetype":"localadmin",

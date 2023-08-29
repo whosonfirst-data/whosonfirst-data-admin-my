@@ -20,16 +20,31 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0645\u0628\u0627\u0633"
+    ],
     "name:eng_x_preferred":[
         "Kempas"
     ],
     "name:epo_x_preferred":[
         "Kempas"
     ],
+    "name:ind_x_preferred":[
+        "Kempas"
+    ],
+    "name:jav_x_preferred":[
+        "Kempas"
+    ],
     "name:msa_x_preferred":[
         "Kempas"
     ],
     "name:nld_x_preferred":[
+        "Kempas"
+    ],
+    "name:spa_x_preferred":[
+        "Kempas"
+    ],
+    "name:sun_x_preferred":[
         "Kempas"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +88,7 @@
         }
     ],
     "wof:id":890488795,
-    "wof:lastmodified":1566643955,
+    "wof:lastmodified":1690848174,
     "wof:name":"Kempas",
     "wof:parent_id":1108696403,
     "wof:placetype":"locality",

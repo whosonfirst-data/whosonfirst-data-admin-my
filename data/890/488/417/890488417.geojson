@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"115.3722975,5.30294,115.3722975,5.30294",
+    "geom:bbox":"115.372298,5.30294,115.372298,5.30294",
     "geom:latitude":5.30294,
     "geom:longitude":115.372298,
     "gn:country":"MY",
@@ -38,6 +38,12 @@
     ],
     "name:nob_x_preferred":[
         "Kuala Penyu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bb2\u0bbe \u0baa\u0bc6\u0ba9\u0bcd\u0baf\u0bc2"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e31\u0e27\u0e25\u0e32\u0e40\u0e1b\u0e2d\u0e0d\u0e39"
     ],
     "name:vie_x_preferred":[
         "Kuala Penyu"
@@ -77,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ea28c4818f267ae59f5c350f26a759e",
+    "wof:geomhash":"f8b0f338527ab2d80637630c85ba6185",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890488417,
-    "wof:lastmodified":1582348055,
+    "wof:lastmodified":1690848175,
     "wof:name":"Kuala Penyu",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
@@ -97,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.37229750000002,
+    115.372298,
     5.30294,
-    115.37229750000002,
+    115.372298,
     5.30294
 ],
-  "geometry": {"coordinates":[115.37229750000002,5.30294],"type":"Point"}
+  "geometry": {"coordinates":[115.372298,5.30294],"type":"Point"}
 }

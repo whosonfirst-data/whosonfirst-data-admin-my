@@ -209,6 +209,9 @@
     "name:rus_x_preferred":[
         "\u0428\u0440\u0438-\u0410\u043c\u0430\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0440\u0438 \u0410\u043c\u0430\u043d"
+    ],
     "name:scn_x_preferred":[
         "Sri Aman"
     ],
@@ -238,6 +241,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bb8\u0bcd\u0bb0\u0bc0 \u0b85\u0bae\u0ba9\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0bb8\u0bcd\u0bb0\u0bc0  \u0b85\u0bae\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c36\u0c4d\u0c30\u0c40 \u0c05\u0c2e\u0c3e\u0c02"
@@ -318,7 +324,7 @@
         }
     ],
     "wof:id":890491019,
-    "wof:lastmodified":1566643922,
+    "wof:lastmodified":1690848158,
     "wof:name":"Sri Aman",
     "wof:parent_id":1108696523,
     "wof:placetype":"localadmin",

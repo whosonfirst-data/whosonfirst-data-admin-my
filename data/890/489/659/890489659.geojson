@@ -32,6 +32,12 @@
     "name:nld_x_preferred":[
         "Pengkalan Chepa"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0b99\u0bcd\u0b95\u0bbe\u0bb2\u0bbe\u0ba9\u0bcd \u0b9a\u0bc6\u0baa\u0bcd\u0baa\u0bbe"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f6d\u52a0\u5170\u829d\u67cf"
+    ],
     "qs:name":"Pengkalan Cepa",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Kelantan",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":890489659,
-    "wof:lastmodified":1566643993,
+    "wof:lastmodified":1690848191,
     "wof:name":"Pengkalan Cepa",
     "wof:parent_id":890489783,
     "wof:placetype":"locality",

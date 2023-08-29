@@ -55,8 +55,17 @@
     "name:msa_x_preferred":[
         "Sik"
     ],
+    "name:nan_x_preferred":[
+        "Sik Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Sik"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0b95\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:urd_x_preferred":[
+        "\u0636\u0644\u0639 \u0633\u06cc\u06a9"
     ],
     "name:vie_x_preferred":[
         "Sik"
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1108696515,
-    "wof:lastmodified":1627522443,
+    "wof:lastmodified":1690848124,
     "wof:name":"Sik",
     "wof:parent_id":85675133,
     "wof:placetype":"county",

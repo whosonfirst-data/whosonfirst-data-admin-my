@@ -53,11 +53,20 @@
     "name:msa_x_preferred":[
         "Kerian"
     ],
+    "name:nan_x_preferred":[
+        "Kerian Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Kerian"
     ],
     "name:swe_x_preferred":[
         "Kerian"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb0\u0bbf\u0baf\u0bbe\u0ba9\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e01\u0e2d\u0e40\u0e23\u0e35\u0e22\u0e19"
     ],
     "name:vie_x_preferred":[
         "Kerian"
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":890489801,
-    "wof:lastmodified":1627522438,
+    "wof:lastmodified":1690848203,
     "wof:name":"Kerian",
     "wof:parent_id":85675123,
     "wof:placetype":"county",

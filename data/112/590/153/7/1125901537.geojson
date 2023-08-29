@@ -43,8 +43,14 @@
     "name:nld_x_preferred":[
         "Changkat Jering"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0b99\u0bcd\u0b95\u0bbe\u0b9f\u0bcd \u0b9c\u0bc6\u0bb0\u0bbf\u0b99\u0bcd"
+    ],
     "name:zho_x_preferred":[
         "\u7ae0\u5361\u906e\u4ee4"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u8def\u53e3"
     ],
     "qs_pg:aaroncc":"MY",
     "qs_pg:gn_country":"MY",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125901537,
-    "wof:lastmodified":1566644028,
+    "wof:lastmodified":1690848211,
     "wof:name":"Kampung Changkat Jering",
     "wof:parent_id":890490803,
     "wof:placetype":"locality",

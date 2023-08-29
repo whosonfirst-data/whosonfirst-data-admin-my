@@ -80,6 +80,9 @@
     "name:deu_x_preferred":[
         "Malakka"
     ],
+    "name:diq_x_preferred":[
+        "Malakka"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bb\u03ac\u03ba\u03b1"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:eng_x_preferred":[
         "Melaka"
+    ],
+    "name:eng_x_variant":[
+        "Malacca"
     ],
     "name:epo_x_preferred":[
         "Malako"
@@ -106,6 +112,9 @@
     ],
     "name:fra_x_preferred":[
         "Malacca"
+    ],
+    "name:frr_x_preferred":[
+        "Melaka"
     ],
     "name:glg_x_preferred":[
         "Malaca"
@@ -127,6 +136,9 @@
     ],
     "name:hun_x_preferred":[
         "Melaka"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u056c\u0561\u056f\u056f\u0561"
     ],
     "name:ind_x_preferred":[
         "Melaka"
@@ -161,6 +173,9 @@
     "name:ltz_x_preferred":[
         "Malakka"
     ],
+    "name:lzh_x_preferred":[
+        "\u6eff\u524c\u52a0"
+    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d47\u0d32\u0d3e\u0d15\u0d4d\u0d15 "
     ],
@@ -175,6 +190,9 @@
     ],
     "name:mlg_x_preferred":[
         "Malacca"
+    ],
+    "name:mlt_x_preferred":[
+        "Melaka"
     ],
     "name:msa_x_preferred":[
         "Melaka"
@@ -194,11 +212,17 @@
     "name:pms_x_preferred":[
         "Malaca"
     ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0644\u0627\u06a9\u0627"
+    ],
     "name:pol_x_preferred":[
         "Malakka"
     ],
     "name:por_x_preferred":[
         "Malaca"
+    ],
+    "name:que_x_preferred":[
+        "Melaka suyu"
     ],
     "name:ron_x_preferred":[
         "Malacca"
@@ -214,6 +238,9 @@
     ],
     "name:spa_x_preferred":[
         "Malaca"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u043a\u0430"
     ],
     "name:swe_x_preferred":[
         "Malacka"
@@ -380,7 +407,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1614895106,
+    "wof:lastmodified":1690848111,
     "wof:name":"Melaka",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

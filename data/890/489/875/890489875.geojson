@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0648\u0627\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0648\u0627\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Tawau"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09ac\u09be\u0989"
     ],
@@ -29,6 +35,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0422\u0430\u0432\u0430\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Tawau"
     ],
     "name:dan_x_preferred":[
         "Tawau"
@@ -45,10 +54,16 @@
     "name:epo_x_preferred":[
         "Tawau"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0648\u0648"
+    ],
     "name:fin_x_preferred":[
         "Tawau"
     ],
     "name:fra_x_preferred":[
+        "Tawau"
+    ],
+    "name:gle_x_preferred":[
         "Tawau"
     ],
     "name:guj_x_preferred":[
@@ -114,6 +129,9 @@
     "name:spa_x_preferred":[
         "Tawau"
     ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u0432\u0430\u0443"
+    ],
     "name:swe_x_preferred":[
         "Tawau"
     ],
@@ -134,6 +152,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0648\u0627\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Tawau"
     ],
     "name:vie_x_preferred":[
         "Tawau"
@@ -178,7 +199,7 @@
         }
     ],
     "wof:id":890489875,
-    "wof:lastmodified":1636501646,
+    "wof:lastmodified":1690848188,
     "wof:name":"Tawau",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

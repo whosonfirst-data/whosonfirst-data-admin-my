@@ -44,8 +44,14 @@
     "name:nld_x_preferred":[
         "Rantau Panjang"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0ba8\u0bcd\u0ba4\u0bbe\u0bb5\u0bcd \u0baa\u0bbe\u0b9e\u0bcd\u0b9a\u0bbe\u0b99\u0bcd"
+    ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e19\u0e40\u0e15\u0e32\u0e1b\u0e31\u0e19\u0e08\u0e31\u0e07"
+    ],
+    "name:zho_x_preferred":[
+        "\u5170\u6597\u73ed\u8ba9"
     ],
     "qs:name":"Rantau Panjang",
     "qs:name_adm0":"Malaysia",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890490639,
-    "wof:lastmodified":1566643911,
+    "wof:lastmodified":1690848153,
     "wof:name":"Rantau Panjang",
     "wof:parent_id":890489813,
     "wof:placetype":"locality",

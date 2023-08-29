@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Petaling"
     ],
+    "name:eng_x_variant":[
+        "Petaling District"
+    ],
     "name:fra_x_preferred":[
         "Petaling"
     ],
@@ -40,17 +43,29 @@
     "name:ita_x_preferred":[
         "Petaling"
     ],
+    "name:jav_x_preferred":[
+        "Petaling"
+    ],
     "name:jpn_x_preferred":[
         "\u30d7\u30bf\u30ea\u30f3"
     ],
     "name:msa_x_preferred":[
         "Petaling"
     ],
+    "name:nan_x_preferred":[
+        "Petaling Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Petaling"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bbf\u0b99\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:und_x_variant":[
         "Petaling Village"
+    ],
+    "name:urd_x_preferred":[
+        "\u0636\u0644\u0639 \u067e\u06cc\u0679\u0644\u0646\u06af"
     ],
     "name:vie_x_preferred":[
         "Petaling"
@@ -100,7 +115,7 @@
         }
     ],
     "wof:id":890489661,
-    "wof:lastmodified":1566643993,
+    "wof:lastmodified":1690848191,
     "wof:name":"Petaling",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",

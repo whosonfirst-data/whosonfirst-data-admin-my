@@ -23,6 +23,15 @@
     "name:msa_x_preferred":[
         "Daerah Miri"
     ],
+    "name:nan_x_preferred":[
+        "Miri Ko\u0101n"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbf\u0bb0\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8e\u91cc\u53bf"
+    ],
     "qs:name":"Bahagian Miri",
     "qs:name_adm0":"Malaysia",
     "qs:name_adm1":"Sarawak",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":890488497,
-    "wof:lastmodified":1566643939,
+    "wof:lastmodified":1690848165,
     "wof:name":"Bahagian Miri",
     "wof:parent_id":1108696465,
     "wof:placetype":"localadmin",

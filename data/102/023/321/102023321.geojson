@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0628\u062a\u0631\u0648\u0648\u0631\u062b"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u062a\u0631\u0648\u0648\u0631\u062b"
+    ],
+    "name:ast_x_preferred":[
+        "Butterworth"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u099f\u09be\u09b0\u0993\u09b0\u09cd\u09a5"
     ],
@@ -65,6 +71,9 @@
         "\u092c\u091f\u0930\u0935\u0930\u094d\u0925"
     ],
     "name:hun_x_preferred":[
+        "Butterworth"
+    ],
+    "name:ina_x_preferred":[
         "Butterworth"
     ],
     "name:ind_x_preferred":[
@@ -140,10 +149,14 @@
         "\u0628\u0648\u062a\u062a\u06cc\u0631\u0648\u0648\u0631\u062a\u06be \u060c \u067e\u06cc\u0646\u0627\u0646\u062c"
     ],
     "name:urd_x_variant":[
-        "\u0628\u0648\u062a\u062a\u06cc\u0631\u0648\u0648\u0631\u062a\u06be"
+        "\u0628\u0648\u062a\u062a\u06cc\u0631\u0648\u0648\u0631\u062a\u06be",
+        "\u0628\u0648\u062a\u062a\u06cc\u0631\u0648\u0648\u0631\u062a\u06be "
     ],
     "name:vie_x_preferred":[
         "Butterworth"
+    ],
+    "name:yue_x_preferred":[
+        "\u5317\u6d77"
     ],
     "name:zho_x_preferred":[
         "\u5317\u6d77"
@@ -296,7 +309,7 @@
         }
     ],
     "wof:id":102023321,
-    "wof:lastmodified":1636501638,
+    "wof:lastmodified":1690848069,
     "wof:name":"Butterworth",
     "wof:parent_id":890490327,
     "wof:placetype":"locality",

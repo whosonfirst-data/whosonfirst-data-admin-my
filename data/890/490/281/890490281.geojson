@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"101.671531,3.2254805,101.671531,3.2254805",
+    "geom:bbox":"101.671531,3.225481,101.671531,3.225481",
     "geom:latitude":3.225481,
     "geom:longitude":101.671531,
     "gn:country":"MY",
@@ -22,11 +22,17 @@
     "name:eng_x_preferred":[
         "Taman Wahyu"
     ],
+    "name:eng_x_variant":[
+        "Kampung Gual Mesa"
+    ],
     "name:ind_x_preferred":[
         "Taman Wahyu"
     ],
     "name:msa_x_preferred":[
         "Taman Wahyu"
+    ],
+    "name:zho_x_preferred":[
+        "\u534e\u53cb\u82b1\u56ed"
     ],
     "qs:name":"Taman Wahyu",
     "qs:name_adm0":"Malaysia",
@@ -62,7 +68,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054798,
-    "wof:geomhash":"23dd215c96b1293aad7b23a818b8ad8c",
+    "wof:geomhash":"9c90b941661bbb366285842a4a129205",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890490281,
-    "wof:lastmodified":1566643881,
+    "wof:lastmodified":1690848138,
     "wof:name":"Taman Wahyu",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",
@@ -88,9 +94,9 @@
 },
   "bbox": [
     101.671531,
-    3.2254805,
+    3.225481,
     101.671531,
-    3.2254805
+    3.225481
 ],
-  "geometry": {"coordinates":[101.671531,3.2254805],"type":"Point"}
+  "geometry": {"coordinates":[101.671531,3.225481],"type":"Point"}
 }

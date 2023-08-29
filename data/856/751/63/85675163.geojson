@@ -71,6 +71,12 @@
     "name:deu_x_preferred":[
         "Selangor"
     ],
+    "name:diq_x_preferred":[
+        "Selangor"
+    ],
+    "name:dtp_x_preferred":[
+        "Selangor"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b5\u03bb\u03b1\u03bd\u03b3\u03ba\u03cc\u03c1"
     ],
@@ -93,6 +99,9 @@
         "Selangor"
     ],
     "name:fra_x_preferred":[
+        "Selangor"
+    ],
+    "name:frr_x_preferred":[
         "Selangor"
     ],
     "name:glg_x_preferred":[
@@ -123,6 +132,9 @@
         "Selangor"
     ],
     "name:ita_x_preferred":[
+        "Selangor"
+    ],
+    "name:jav_x_preferred":[
         "Selangor"
     ],
     "name:jpn_x_preferred":[
@@ -180,6 +192,9 @@
     "name:por_x_preferred":[
         "Selangor"
     ],
+    "name:que_x_preferred":[
+        "Selangor suyu"
+    ],
     "name:ron_x_preferred":[
         "Selangor"
     ],
@@ -191,6 +206,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd9\u0dbd\u0db1\u0dca\u0d9c\u0ddc\u0dbb\u0dca"
+    ],
+    "name:slv_x_preferred":[
+        "Selangor"
     ],
     "name:spa_x_preferred":[
         "Selangor"
@@ -242,7 +260,8 @@
         "\u96ea\u862d\u83aa"
     ],
     "name:zho_x_variant":[
-        "\u9a6c\u6765\u897f\u4e9a"
+        "\u9a6c\u6765\u897f\u4e9a",
+        "\u96ea\u5170\u83aa"
     ],
     "name:zho_yue_x_preferred":[
         "\u96ea\u862d\u83aa\u5dde"
@@ -372,7 +391,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1614895107,
+    "wof:lastmodified":1690848115,
     "wof:name":"Selangor",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

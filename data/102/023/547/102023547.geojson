@@ -25,11 +25,20 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0646\u063a\u0627\u064a \u0628\u064a\u062a\u0627\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0646\u062c\u0627\u0649 \u0628\u064a\u062a\u0627\u0646\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Sungai Petani"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0999\u09cd\u0997\u09be\u0987 \u09aa\u09c7\u099f\u09be\u09a8\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0443\u043d\u0433\u0430\u0439 \u041f\u0435\u0442\u0430\u043d\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Sungai Petani"
     ],
     "name:dan_x_preferred":[
         "Sungai Petani"
@@ -118,6 +127,9 @@
     "name:swe_x_preferred":[
         "Sungai Petani"
     ],
+    "name:szl_x_preferred":[
+        "Sungai Petani"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0ba3\u0bbf"
     ],
@@ -126,6 +138,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e39\u0e44\u0e07\u0e1b\u0e15\u0e32\u0e19\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e39\u0e44\u0e07\u0e40\u0e1b\u0e2d\u0e15\u0e32\u0e19\u0e35"
     ],
     "name:tur_x_preferred":[
         "Sungai Petani"
@@ -144,6 +159,9 @@
     ],
     "name:war_x_preferred":[
         "Sungai Petani"
+    ],
+    "name:yue_x_preferred":[
+        "\u96d9\u6eaa\u5927\u5e74"
     ],
     "name:zho_x_preferred":[
         "\u53cc\u6eaa\u5927\u5e74"
@@ -290,7 +308,7 @@
         }
     ],
     "wof:id":102023547,
-    "wof:lastmodified":1642551795,
+    "wof:lastmodified":1690848066,
     "wof:name":"Sungai Petani",
     "wof:parent_id":890490355,
     "wof:placetype":"locality",

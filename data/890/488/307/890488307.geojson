@@ -23,11 +23,20 @@
     "name:eng_x_preferred":[
         "Morib"
     ],
+    "name:eng_x_variant":[
+        "Morib Beach"
+    ],
     "name:ind_x_preferred":[
         "Morib"
     ],
+    "name:ind_x_variant":[
+        "Pantai Morib"
+    ],
     "name:msa_x_preferred":[
         "Pantai Morib"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bcb\u0bb0\u0bbf\u0baa\u0bcd"
     ],
     "name:und_x_variant":[
         "Kampong Morib"
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":890488307,
-    "wof:lastmodified":1566643923,
+    "wof:lastmodified":1690848158,
     "wof:name":"Morib",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

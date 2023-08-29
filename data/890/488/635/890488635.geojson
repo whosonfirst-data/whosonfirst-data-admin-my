@@ -26,6 +26,9 @@
     "name:arg_x_preferred":[
         "Seremban"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0631\u0645\u0628\u0646"
+    ],
     "name:ast_x_preferred":[
         "Seremban"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0435\u0440\u044d\u043c\u0431\u0430\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0435\u0440\u044d\u043c\u0431\u0430\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09b0\u09c7\u09ae\u09cd\u09ac\u09be\u09a8"
@@ -115,6 +121,9 @@
     ],
     "name:hak_x_preferred":[
         "Seremban"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e8\u05de\u05d1\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0930\u0947\u092e\u094d\u092c\u0928"
@@ -349,7 +358,7 @@
         }
     ],
     "wof:id":890488635,
-    "wof:lastmodified":1566643941,
+    "wof:lastmodified":1690848166,
     "wof:name":"Seremban",
     "wof:parent_id":890489719,
     "wof:placetype":"localadmin",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"102.229583,2.9492705,102.229583,2.9492705",
+    "geom:bbox":"102.229583,2.94927,102.229583,2.94927",
     "geom:latitude":2.94927,
     "geom:longitude":102.229583,
     "gp:adm0":23424901,
@@ -25,6 +25,9 @@
     ],
     "name:msa_x_variant":[
         "Pertang"
+    ],
+    "name:zho_x_preferred":[
+        "\u846b\u82a6\u9876"
     ],
     "qs:name":"Pertang",
     "qs:name_adm0":"Malaysia",
@@ -53,7 +56,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054804,
-    "wof:geomhash":"0ee08c22fb3b0981a931d9ad844c1d5f",
+    "wof:geomhash":"af5382860c3d8a3a0111f7f58bb36962",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890490399,
-    "wof:lastmodified":1566643872,
+    "wof:lastmodified":1690848134,
     "wof:name":"Pertang",
     "wof:parent_id":890488317,
     "wof:placetype":"localadmin",
@@ -75,9 +78,9 @@
 },
   "bbox": [
     102.229583,
-    2.9492705,
+    2.94927,
     102.229583,
-    2.9492705
+    2.94927
 ],
-  "geometry": {"coordinates":[102.22958300000001,2.9492705],"type":"Point"}
+  "geometry": {"coordinates":[102.22958300000001,2.94927],"type":"Point"}
 }

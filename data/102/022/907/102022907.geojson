@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0641\u0648\u0631\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0641\u0648\u0631\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Beaufort"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u0989\u09ab\u09cb\u09b0\u09cd\u099f"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Beaufort"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0641\u0648\u0631\u062a"
     ],
     "name:fin_x_preferred":[
         "Beaufort"
@@ -187,7 +196,7 @@
         }
     ],
     "wof:id":102022907,
-    "wof:lastmodified":1636501638,
+    "wof:lastmodified":1690848073,
     "wof:name":"Beaufort",
     "wof:parent_id":1108696385,
     "wof:placetype":"locality",

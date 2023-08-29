@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"115.4071215,4.861956,115.4071215,4.861956",
+    "geom:bbox":"115.407122,4.861956,115.407122,4.861956",
     "geom:latitude":4.861956,
     "geom:longitude":115.407122,
     "gp:adm0":23424901,
@@ -17,14 +17,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ast_x_preferred":[
+        "Lawas"
+    ],
+    "name:cat_x_preferred":[
+        "Lawas"
+    ],
     "name:eng_x_preferred":[
         "Lawas"
     ],
     "name:fra_x_preferred":[
         "Lawas"
     ],
+    "name:msa_x_preferred":[
+        "Lawas"
+    ],
     "name:nld_x_preferred":[
         "Lawas"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0bb2\u0bbe\u0bb5\u0bbe\u0b9a\u0bc1"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0432\u0430\u0441"
@@ -64,7 +76,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054814,
-    "wof:geomhash":"8677f9e08256db1429ded046c92fdecb",
+    "wof:geomhash":"5b7368a3f9bdd2218d135164ad86dc8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":890490533,
-    "wof:lastmodified":1566643869,
+    "wof:lastmodified":1690848132,
     "wof:name":"Lawas",
     "wof:parent_id":1108696445,
     "wof:placetype":"localadmin",
@@ -85,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.4071215,
+    115.407122,
     4.861956,
-    115.4071215,
+    115.407122,
     4.861956
 ],
-  "geometry": {"coordinates":[115.4071215,4.861956],"type":"Point"}
+  "geometry": {"coordinates":[115.407122,4.861956],"type":"Point"}
 }

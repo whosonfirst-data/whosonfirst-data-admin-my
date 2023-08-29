@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"102.4010535,6.050259,102.4010535,6.050259",
+    "geom:bbox":"102.401054,6.050259,102.401054,6.050259",
     "geom:latitude":6.050259,
     "geom:longitude":102.401054,
     "gp:adm0":23424901,
@@ -31,6 +31,9 @@
     ],
     "name:nld_x_preferred":[
         "Perupok"
+    ],
+    "name:zho_x_preferred":[
+        "\u67cf\u9c81\u5e03"
     ],
     "qs:name":"Perupok",
     "qs:name_adm0":"Malaysia",
@@ -59,7 +62,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054764,
-    "wof:geomhash":"18e4fec5329ccbb91646e8eb3a796f8f",
+    "wof:geomhash":"63c6c4983afead13e700d5a29fe0b5ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890489643,
-    "wof:lastmodified":1566643983,
+    "wof:lastmodified":1690848186,
     "wof:name":"Perupok",
     "wof:parent_id":1108696377,
     "wof:placetype":"localadmin",
@@ -80,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    102.4010535,
+    102.401054,
     6.050259,
-    102.4010535,
+    102.401054,
     6.050259
 ],
-  "geometry": {"coordinates":[102.4010535,6.050259],"type":"Point"}
+  "geometry": {"coordinates":[102.401054,6.050259],"type":"Point"}
 }

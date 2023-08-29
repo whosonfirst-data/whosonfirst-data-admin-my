@@ -51,6 +51,9 @@
     "name:bho_x_preferred":[
         "\u092a\u0941\u0924\u094d\u0930\u091c\u092f"
     ],
+    "name:bos_x_preferred":[
+        "Putrajaya"
+    ],
     "name:bre_x_preferred":[
         "Putrajaya"
     ],
@@ -82,6 +85,12 @@
         "Putrajaya"
     ],
     "name:deu_x_preferred":[
+        "Putrajaya"
+    ],
+    "name:diq_x_preferred":[
+        "Putrajaya"
+    ],
+    "name:dtp_x_preferred":[
         "Putrajaya"
     ],
     "name:ell_x_preferred":[
@@ -153,6 +162,9 @@
     "name:hye_x_preferred":[
         "\u054a\u0578\u0582\u057f\u0580\u0561\u057b\u0561\u0575\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u0553\u0578\u0582\u0569\u0580\u0561\u0573\u0561\u0575\u0561"
+    ],
     "name:ido_x_preferred":[
         "Putrajaya"
     ],
@@ -185,6 +197,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10de\u10e3\u10e2\u10e0\u10d0\u10ef\u10d0\u10d8\u10d0"
+    ],
+    "name:khm_x_preferred":[
+        "\u1796\u17bb\u178f\u17d2\u179a\u17b6\u1785\u17b6\u1799\u17c9\u17b6"
     ],
     "name:kir_x_preferred":[
         "\u041f\u0443\u0442\u0440\u0430\u0436\u0430\u0439\u044f"
@@ -312,6 +327,9 @@
     "name:srd_x_preferred":[
         "Putrajaya"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u0442\u0440\u0430\u045f\u0430\u0458\u0430"
+    ],
     "name:swa_x_preferred":[
         "Putrajaya"
     ],
@@ -320,6 +338,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc1\u0ba4\u0bcd\u0bb0\u0bbe\u0b9c\u0bbe\u0baf\u0bbe"
+    ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bc1\u0ba4\u0bcd\u0bb0\u0bbe\u0b9c\u0bc6\u0baf\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c41\u0c24\u0c4d\u0c30\u0c3e\u0c1c\u0c2f"
@@ -505,8 +526,8 @@
     "wof:belongsto":[
         102191569,
         85632739,
-        890489971,
-        85675163
+        85675163,
+        890489971
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -534,7 +555,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1614895105,
+    "wof:lastmodified":1690848071,
     "wof:megacity":0,
     "wof:name":"Putrajaya",
     "wof:parent_id":890489971,

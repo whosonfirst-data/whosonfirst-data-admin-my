@@ -31,6 +31,12 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0440\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Miri"
+    ],
+    "name:ces_x_preferred":[
+        "Miri"
+    ],
     "name:dan_x_preferred":[
         "Miri"
     ],
@@ -55,6 +61,9 @@
     "name:fra_x_preferred":[
         "Miri"
     ],
+    "name:gle_x_preferred":[
+        "Miri"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0ab0\u0ac0"
     ],
@@ -66,6 +75,9 @@
     ],
     "name:hun_x_preferred":[
         "Miri"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u0580\u056b"
     ],
     "name:ind_x_preferred":[
         "Miri"
@@ -81,6 +93,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10e0\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u0440\u0438"
     ],
     "name:kor_x_preferred":[
         "\ubbf8\ub9ac"
@@ -124,11 +139,17 @@
     "name:spa_x_preferred":[
         "Miri"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0440\u0438"
+    ],
     "name:swe_x_preferred":[
         "Miri"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bc0\u0bb1\u0bbf"
+    ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bbf\u0bb0\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3f\u0c30\u0c40"
@@ -147,6 +168,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0631\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Miri"
     ],
     "name:vie_x_preferred":[
         "Miri"
@@ -303,7 +327,7 @@
         }
     ],
     "wof:id":102023773,
-    "wof:lastmodified":1636501638,
+    "wof:lastmodified":1690848068,
     "wof:name":"Miri",
     "wof:parent_id":890488483,
     "wof:placetype":"locality",

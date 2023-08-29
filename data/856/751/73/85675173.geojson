@@ -54,6 +54,9 @@
     "name:bjn_x_preferred":[
         "Sabah"
     ],
+    "name:bos_x_preferred":[
+        "Sabah"
+    ],
     "name:bre_x_preferred":[
         "Sabah"
     ],
@@ -72,6 +75,9 @@
     "name:ces_x_preferred":[
         "Sabah"
     ],
+    "name:ckb_x_preferred":[
+        "\u0633\u06d5\u0628\u0627\u062d"
+    ],
     "name:dan_x_preferred":[
         "Sabah"
     ],
@@ -79,6 +85,9 @@
         "Sabah"
     ],
     "name:diq_x_preferred":[
+        "Sabah"
+    ],
+    "name:dtp_x_preferred":[
         "Sabah"
     ],
     "name:ell_x_preferred":[
@@ -100,6 +109,12 @@
         "Sabah"
     ],
     "name:fra_x_preferred":[
+        "Sabah"
+    ],
+    "name:frr_x_preferred":[
+        "Sabah"
+    ],
+    "name:glg_x_preferred":[
         "Sabah"
     ],
     "name:guj_x_preferred":[
@@ -168,6 +183,9 @@
     "name:mal_x_preferred":[
         "\u0d37\u0d2c\u0d39\u0d4d"
     ],
+    "name:mal_x_variant":[
+        "\u0d38\u0d3e\u0d2c\u0d39\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u092c\u093e"
     ],
@@ -179,6 +197,9 @@
     ],
     "name:msa_x_preferred":[
         "Sabah"
+    ],
+    "name:mya_x_preferred":[
+        "\u1006\u102c\u1018\u102c\u1038"
     ],
     "name:nan_x_preferred":[
         "Sabah"
@@ -192,6 +213,9 @@
     "name:nor_x_preferred":[
         "Sabah"
     ],
+    "name:oss_x_preferred":[
+        "\u0421\u0430\u0431\u0430\u0445"
+    ],
     "name:pan_x_preferred":[
         "\u0a38\u0a2c\u0a3e\u0a39"
     ],
@@ -203,6 +227,9 @@
     ],
     "name:por_x_preferred":[
         "Sab\u00e1"
+    ],
+    "name:que_x_preferred":[
+        "Sabah suyu"
     ],
     "name:ron_x_preferred":[
         "Sabah"
@@ -218,6 +245,9 @@
     ],
     "name:spa_x_preferred":[
         "Sabah"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0431\u0430\u0445"
     ],
     "name:sun_x_preferred":[
         "Sabah"
@@ -249,6 +279,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0431\u0430\u0445"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0430\u0431\u0430\u0433"
     ],
     "name:und_x_variant":[
         "British North Borneo"
@@ -406,7 +439,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1614895106,
+    "wof:lastmodified":1690848112,
     "wof:name":"Sabah",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

@@ -58,8 +58,17 @@
     "name:ind_x_preferred":[
         "Beaufort"
     ],
+    "name:nan_x_preferred":[
+        "Beaufort Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Beaufort"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0baf\u0bc2\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fdd\u4f5b\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1108696385,
-    "wof:lastmodified":1636501642,
+    "wof:lastmodified":1690848129,
     "wof:name":"Beaufort",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

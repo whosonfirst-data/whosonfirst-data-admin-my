@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"102.2822145,2.278272,102.2822145,2.278272",
+    "geom:bbox":"102.282214,2.278272,102.282214,2.278272",
     "geom:latitude":2.278272,
     "geom:longitude":102.282214,
     "gp:adm0":23424901,
@@ -30,6 +30,9 @@
         "Batu Berendam"
     ],
     "name:nld_x_preferred":[
+        "Batu Berendam"
+    ],
+    "name:pol_x_preferred":[
         "Batu Berendam"
     ],
     "name:spa_x_preferred":[
@@ -68,7 +71,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054820,
-    "wof:geomhash":"af4f1bb7ea13b432488ace3b3db9fc12",
+    "wof:geomhash":"c4f3f0bbe2ee085da78b4b5583150e41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890490679,
-    "wof:lastmodified":1566643907,
+    "wof:lastmodified":1690848151,
     "wof:name":"Batu Berendam",
     "wof:parent_id":890489715,
     "wof:placetype":"locality",
@@ -89,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    102.2822145,
+    102.282214,
     2.278272,
-    102.2822145,
+    102.282214,
     2.278272
 ],
-  "geometry": {"coordinates":[102.28221449999999,2.278272],"type":"Point"}
+  "geometry": {"coordinates":[102.282214,2.278272],"type":"Point"}
 }

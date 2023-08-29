@@ -19,6 +19,12 @@
     "name:eng_x_preferred":[
         "Taman Pertama MRT station"
     ],
+    "name:fra_x_preferred":[
+        "Taman Pertama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30de\u30f3\u30fb\u30da\u30eb\u30bf\u30de\u99c5"
+    ],
     "name:msa_x_preferred":[
         "Stesen MRT Taman Pertama"
     ],
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":890488857,
-    "wof:lastmodified":1566643938,
+    "wof:lastmodified":1690848164,
     "wof:name":"Taman Pertama",
     "wof:parent_id":102023021,
     "wof:placetype":"neighbourhood",

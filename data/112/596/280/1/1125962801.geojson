@@ -34,8 +34,14 @@
     "name:nld_x_preferred":[
         "Chenderiang"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0ba3\u0bcd\u0b9f\u0bbf\u0bb0\u0bbf\u0baf\u0bbe\u0b99\u0bcd"
+    ],
     "name:und_x_variant":[
         "Cenderiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u79ef\u83aa\u8425"
     ],
     "qs_pg:aaroncc":"MY",
     "qs_pg:gn_country":"MY",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1125962801,
-    "wof:lastmodified":1566644028,
+    "wof:lastmodified":1690848211,
     "wof:name":"Chenderiang",
     "wof:parent_id":890489741,
     "wof:placetype":"locality",

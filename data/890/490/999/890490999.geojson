@@ -164,6 +164,9 @@
     "name:jav_x_preferred":[
         "Batu Pahat"
     ],
+    "name:jav_x_variant":[
+        "Kabupat\u00e8n Batu Pahat"
+    ],
     "name:jpn_x_preferred":[
         "\u30d0\u30c8\u30a5\u30fb\u30d1\u30cf\u30c3"
     ],
@@ -202,6 +205,12 @@
     ],
     "name:msa_x_preferred":[
         "Batu Pahat"
+    ],
+    "name:msa_x_variant":[
+        "Daerah Batu Pahat"
+    ],
+    "name:nan_x_preferred":[
+        "Batu Pahat Ko\u0101n"
     ],
     "name:nap_x_preferred":[
         "Batu Pahat"
@@ -269,6 +278,9 @@
     "name:srd_x_preferred":[
         "Batu Pahat"
     ],
+    "name:sun_x_preferred":[
+        "Kabupat\u00e9n Batu Pahat"
+    ],
     "name:swa_x_preferred":[
         "Batu Pahat"
     ],
@@ -281,8 +293,14 @@
     "name:tel_x_preferred":[
         "\u0c2c\u0c24\u0c41 \u0c2a\u0c39\u0c1f\u0c24\u0c4d"
     ],
+    "name:tet_x_preferred":[
+        "Distritu Batu Pahat"
+    ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e15\u0e39 \u0e1b\u0e32\u0e2e\u0e31\u0e17"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e1a\u0e32\u0e15\u0e39\u0e1b\u0e32\u0e2e\u0e31\u0e15"
     ],
     "name:tur_x_preferred":[
         "Batu Pahat"
@@ -372,7 +390,7 @@
         }
     ],
     "wof:id":890490999,
-    "wof:lastmodified":1636501642,
+    "wof:lastmodified":1690848134,
     "wof:name":"Batu Pahat",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

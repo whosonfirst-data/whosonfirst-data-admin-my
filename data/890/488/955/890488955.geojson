@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0643\u0648\u062a"
+    ],
     "name:eng_x_preferred":[
         "Lukut"
     ],
@@ -31,6 +34,12 @@
     ],
     "name:nld_x_preferred":[
         "Lukut"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bcd"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u06a9\u0648\u062a"
     ],
     "name:zho_x_preferred":[
         "\u76e7\u9aa8"
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":890488955,
-    "wof:lastmodified":1566643930,
+    "wof:lastmodified":1690848161,
     "wof:name":"Lukut",
     "wof:parent_id":890490331,
     "wof:placetype":"locality",

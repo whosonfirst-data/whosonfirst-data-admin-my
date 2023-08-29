@@ -49,10 +49,16 @@
     "name:ceb_x_preferred":[
         "Negeri Sembilan"
     ],
+    "name:ces_x_preferred":[
+        "Negeri Sembilan"
+    ],
     "name:dan_x_preferred":[
         "Negeri Sembilan"
     ],
     "name:deu_x_preferred":[
+        "Negeri Sembilan"
+    ],
+    "name:diq_x_preferred":[
         "Negeri Sembilan"
     ],
     "name:ell_x_preferred":[
@@ -74,6 +80,9 @@
         "Negeri Sembilan"
     ],
     "name:fra_x_preferred":[
+        "Negeri Sembilan"
+    ],
+    "name:frr_x_preferred":[
         "Negeri Sembilan"
     ],
     "name:guj_x_preferred":[
@@ -148,11 +157,17 @@
     "name:pms_x_preferred":[
         "Negeri Sembilan"
     ],
+    "name:pnb_x_preferred":[
+        "\u0646\u06af\u0631\u06cc \u0633\u0645\u0628\u06cc\u0644\u0627\u0646"
+    ],
     "name:pol_x_preferred":[
         "Negeri Sembilan"
     ],
     "name:por_x_preferred":[
         "Negeri Sembilan"
+    ],
+    "name:que_x_preferred":[
+        "Negeri Sembilan suyu"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0435\u0433\u0435\u0440\u0438-\u0421\u0435\u043c\u0431\u0438\u043b\u0430\u043d"
@@ -160,7 +175,13 @@
     "name:sin_x_preferred":[
         "\u0db1\u0dd9\u0d9c\u0dd9\u0dbb\u0dd2 \u0dc3\u0dd9\u0db8\u0dca\u0db6\u0dd2\u0dbd\u0db1\u0dca"
     ],
+    "name:slv_x_preferred":[
+        "Negeri Sembilan"
+    ],
     "name:spa_x_preferred":[
+        "Negeri Sembilan"
+    ],
+    "name:sun_x_preferred":[
         "Negeri Sembilan"
     ],
     "name:swe_x_preferred":[
@@ -193,6 +214,9 @@
     "name:war_x_preferred":[
         "Negeri Sembilan"
     ],
+    "name:wuu_x_preferred":[
+        "\u68ee\u7f8e\u5170"
+    ],
     "name:yue_x_preferred":[
         "\u68ee\u7f8e\u862d"
     ],
@@ -218,8 +242,8 @@
     "wof:belongsto":[
         102191569,
         85632739,
-        1108696529,
-        85675155
+        85675155,
+        1108696529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -241,7 +265,7 @@
         }
     ],
     "wof:id":102022863,
-    "wof:lastmodified":1614895106,
+    "wof:lastmodified":1690848092,
     "wof:name":"Negeri Sembilan",
     "wof:parent_id":1108696529,
     "wof:placetype":"locality",

@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00012,
     "geom:area_square_m":1481243.024519,
-    "geom:bbox":"115.48828125,4.97056012793,115.499267578,4.98150504933",
-    "geom:latitude":4.976033,
-    "geom:longitude":115.493774,
+    "geom:bbox":"115.488281,4.97056,115.499268,4.981505",
+    "geom:latitude":4.976032,
+    "geom:longitude":115.493775,
     "gn:country":"MY",
     "gn:fcode":"PPL",
     "gn:latitude":4.9642,
@@ -28,6 +28,9 @@
         "Sindumin"
     ],
     "name:eng_x_preferred":[
+        "Sindumin"
+    ],
+    "name:fra_x_preferred":[
         "Sindumin"
     ],
     "name:msa_x_preferred":[
@@ -92,7 +95,7 @@
         "wk:page":"Sindumin"
     },
     "wof:country":"MY",
-    "wof:geomhash":"09c5e659f020db57b364f609a65d5626",
+    "wof:geomhash":"1431ff3c8ab32b99ffd4f67424c251a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102022931,
-    "wof:lastmodified":1566642298,
+    "wof:lastmodified":1690848072,
     "wof:name":"Sindumin",
     "wof:parent_id":1108696519,
     "wof:placetype":"locality",
@@ -115,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.48828125,
-    4.97056012793,
-    115.499267578,
-    4.98150504933
+    115.488281,
+    4.97056,
+    115.499268,
+    4.981505
 ],
-  "geometry": {"coordinates":[[[115.48828125,4.97056012793],[115.48828125,4.98150504933],[115.499267578,4.98150504933],[115.499267578,4.97056012793],[115.48828125,4.97056012793]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[115.488281,4.97056],[115.488281,4.981505],[115.499268,4.981505],[115.499268,4.97056],[115.488281,4.97056]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"115.7257455,4.9701605,115.7257455,4.9701605",
+    "geom:bbox":"115.725746,4.970161,115.725746,4.970161",
     "geom:latitude":4.970161,
     "geom:longitude":115.725746,
     "gp:adm0":23424901,
@@ -34,6 +34,9 @@
     ],
     "name:nld_x_preferred":[
         "Sipitang"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0b99\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
     "name:vie_x_preferred":[
         "Sipitang"
@@ -68,7 +71,7 @@
     },
     "wof:country":"MY",
     "wof:created":1469054714,
-    "wof:geomhash":"a9d3eb532fc446df8defa8621a4b5068",
+    "wof:geomhash":"25e7851ee1b7664f5520b6387ffa7978",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890488295,
-    "wof:lastmodified":1566643938,
+    "wof:lastmodified":1690848165,
     "wof:name":"Sipitang",
     "wof:parent_id":1108696519,
     "wof:placetype":"localadmin",
@@ -89,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.7257455,
-    4.9701605,
-    115.7257455,
-    4.9701605
+    115.725746,
+    4.970161,
+    115.725746,
+    4.970161
 ],
-  "geometry": {"coordinates":[115.7257455,4.9701605],"type":"Point"}
+  "geometry": {"coordinates":[115.725746,4.970161],"type":"Point"}
 }

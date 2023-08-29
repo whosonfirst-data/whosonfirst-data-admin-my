@@ -32,8 +32,14 @@
     "name:swe_x_preferred":[
         "To Uban"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd"
+    ],
     "name:und_x_variant":[
         "Salandau"
+    ],
+    "name:zho_x_preferred":[
+        "\u58eb\u5170\u9053"
     ],
     "qs:name":"Selandar",
     "qs:name_adm0":"Malaysia",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890489131,
-    "wof:lastmodified":1566644002,
+    "wof:lastmodified":1690848195,
     "wof:name":"Selandar",
     "wof:parent_id":890489809,
     "wof:placetype":"locality",

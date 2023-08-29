@@ -30,14 +30,23 @@
     "name:eng_x_preferred":[
         "Taman Johor Jaya"
     ],
+    "name:eng_x_variant":[
+        "Johor Jaya"
+    ],
     "name:msa_x_preferred":[
         "Taman Johor Jaya"
     ],
     "name:nld_x_preferred":[
         "Taman Johor Jaya"
     ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bbe\u0bae\u0bbe\u0ba9\u0bcd \u0b9c\u0bca\u0b95\u0bc2\u0bb0\u0bcd \u0b9c\u0bc6\u0baf\u0bbe"
+    ],
     "name:zho_x_preferred":[
         "\u4e16\u7eaa"
+    ],
+    "name:zho_x_variant":[
+        "\u67d4\u4f5b\u518d\u4e5f\u82b1\u56ed"
     ],
     "qs:gn_adm0_cc":"MY",
     "qs:gn_fcode":"PPL",
@@ -105,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582348021,
+    "wof:lastmodified":1690848102,
     "wof:name":"Taman Johor Jaya",
     "wof:parent_id":102022781,
     "wof:placetype":"neighbourhood",
