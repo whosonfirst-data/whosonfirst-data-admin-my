@@ -12,8 +12,8 @@
     "gn:latitude":5.2851,
     "gn:longitude":100.29004,
     "iso:country":"MY",
-    "lbl:latitude":5.279655,
-    "lbl:longitude":100.288636,
+    "lbl:latitude":5.277143,
+    "lbl:longitude":100.274921,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":5.277143,
@@ -61,7 +61,7 @@
     "qs:type":"Suburb",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":427,
     "wof:belongsto":[
         102191569,
@@ -92,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690848013,
+    "wof:lastmodified":1694320498,
     "wof:name":"Batu Maung",
     "wof:parent_id":890489155,
     "wof:placetype":"locality",
