@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004367,
-    "geom:area_square_m":53685674.501993,
+    "geom:area_square_m":53685697.79865,
     "geom:bbox":"99.769554,6.167861,99.846252,6.296195",
     "geom:latitude":6.228898,
     "geom:longitude":99.808073,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Langkawi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.221305,
     "lbl:longitude":99.802256,
     "lbl:max_zoom":10.0,
@@ -185,7 +191,7 @@
     },
     "wof:country":"MY",
     "wof:created":1474495028,
-    "wof:geomhash":"eb42ff452826d9947128238390344615",
+    "wof:geomhash":"400702890f65e4f79619c8e1f395874a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -201,7 +207,7 @@
         }
     ],
     "wof:id":1108696487,
-    "wof:lastmodified":1690848127,
+    "wof:lastmodified":1694497842,
     "wof:name":"Langkawi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

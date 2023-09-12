@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186995,
-    "geom:area_square_m":2311717228.423874,
+    "geom:area_square_m":2311716914.404478,
     "geom:bbox":"110.951878,0.94877,111.664478,1.465905",
     "geom:latitude":1.195508,
     "geom:longitude":111.306484,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Sri Aman District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.239344,
     "lbl:longitude":111.31186,
     "lbl:max_zoom":10.0,
@@ -68,7 +74,7 @@
     },
     "wof:country":"MY",
     "wof:created":1474495065,
-    "wof:geomhash":"8e2854679fcdc04479db807f94ed4d21",
+    "wof:geomhash":"e4ce00526675a5de022ed0d58f7f5cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108696523,
-    "wof:lastmodified":1627522443,
+    "wof:lastmodified":1694498060,
     "wof:name":"Sri Aman",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

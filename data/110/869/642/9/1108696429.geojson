@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000673,
-    "geom:area_square_m":8276458.162956,
+    "geom:area_square_m":8276458.91841,
     "geom:bbox":"115.625389,5.707917,115.666252,5.742917",
     "geom:latitude":5.727349,
     "geom:longitude":115.647403,
     "iso:country":"MY",
+    "label:eng_x_preferred_longname":[
+        "Kuala Penyu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.730388,
     "lbl:longitude":115.649415,
     "lbl:max_zoom":10.0,
@@ -65,7 +71,7 @@
     },
     "wof:country":"MY",
     "wof:created":1474494969,
-    "wof:geomhash":"aa26a5a57750a3a0345c40738a3cd3fb",
+    "wof:geomhash":"463a6f833c0c9845e705c0cb4c017085",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1108696429,
-    "wof:lastmodified":1627522439,
+    "wof:lastmodified":1694498060,
     "wof:name":"Kuala Penyu",
     "wof:parent_id":85675173,
     "wof:placetype":"county",
