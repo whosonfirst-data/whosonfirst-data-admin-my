@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":26.862532,
-    "geom:area_square_m":331321860585.622437,
+    "geom:area_square_m":331321860585.634888,
     "geom:bbox":"99.640388,0.853821,119.275444,7.48375",
     "geom:latitude":3.794597,
     "geom:longitude":109.72322,
     "iso:country":"MY",
     "itu:country_code":[
         "60"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "lbl:latitude":2.521947,
     "lbl:longitude":113.833569,
@@ -1224,7 +1227,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"60",
     "statoids:ds":"MAL",
     "statoids:fifa":"MAS",
@@ -1284,7 +1288,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "meso"
     ],
-    "wof:geomhash":"def5cdb291c72fa254c6d69c2033edba",
+    "wof:geomhash":"ca22d810e5438af9e37b43e7f4bcacb4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1295,12 +1299,12 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690848117,
+    "wof:lastmodified":1694639538,
     "wof:name":"Malaysia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":29716965,
-    "wof:population_rank":15,
+    "wof:population":31949777,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:shortcode":"MY",
     "wof:superseded_by":[],
