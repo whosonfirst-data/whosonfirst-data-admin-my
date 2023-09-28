@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.232997,
-    "geom:area_square_m":2879166259.041581,
+    "geom:area_square_m":2879166815.096379,
     "geom:bbox":"103.103073,1.71059,103.638014,2.394718",
     "geom:latitude":2.066195,
     "geom:longitude":103.38862,
@@ -447,9 +447,10 @@
         "hasc:id":"MY.JH.KE",
         "wd:id":"Q12683379"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494955,
-    "wof:geomhash":"489aadd32d8d1dd9b7fa5965271a4925",
+    "wof:geomhash":"06a47ff0c3cbedb6477cd528672dbb48",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -459,7 +460,7 @@
         }
     ],
     "wof:id":1108696417,
-    "wof:lastmodified":1690848126,
+    "wof:lastmodified":1695886345,
     "wof:name":"Kluang",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.234594,
-    "geom:area_square_m":2898062746.458892,
+    "geom:area_square_m":2898062524.132175,
     "geom:bbox":"102.605522,2.165486,103.379668,2.834126",
     "geom:latitude":2.484668,
     "geom:longitude":102.964292,
@@ -134,12 +134,13 @@
         "qs_pg:id":558772,
         "wd:id":"Q2643141"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054730,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6d68742da5ea8ec5b9af7cff3cf380de",
+    "wof:geomhash":"d0bee98fb9aa7d8500cbbf67fe652802",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":890488717,
-    "wof:lastmodified":1690848180,
+    "wof:lastmodified":1695886041,
     "wof:name":"Segamat",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

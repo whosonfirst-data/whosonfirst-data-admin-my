@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062859,
-    "geom:area_square_m":773818130.206083,
+    "geom:area_square_m":773818130.206054,
     "geom:bbox":"100.522575793,5.23931788724,100.860059676,5.56893395685",
     "geom:latitude":5.399233,
     "geom:longitude":100.645388,
@@ -339,12 +339,13 @@
         "wd:id":"Q2272953",
         "wk:page":"Kulim District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054802,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"46be68233a0607de788b7fffed3a4d18",
+    "wof:geomhash":"a36f17f4daacd4d9d7b086c136478747",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -354,7 +355,7 @@
         }
     ],
     "wof:id":890490359,
-    "wof:lastmodified":1582348052,
+    "wof:lastmodified":1695886791,
     "wof:name":"Kulim",
     "wof:parent_id":85675133,
     "wof:placetype":"county",

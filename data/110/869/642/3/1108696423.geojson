@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000409,
-    "geom:area_square_m":5032735.912693,
+    "geom:area_square_m":5032735.912694,
     "geom:bbox":"115.583747864,6.19286108,115.607086182,6.213722229",
     "geom:latitude":6.203164,
     "geom:longitude":115.595138,
@@ -223,9 +223,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SA.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494959,
-    "wof:geomhash":"8785f2312e42d4c6a4821b035d60ba4a",
+    "wof:geomhash":"3eb788a32fcc62a95462f79dd7cc05e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -235,7 +236,7 @@
         }
     ],
     "wof:id":1108696423,
-    "wof:lastmodified":1566643520,
+    "wof:lastmodified":1695886343,
     "wof:name":"Kota Kinabalu",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036878,
-    "geom:area_square_m":455856532.08331,
+    "geom:area_square_m":455856577.249194,
     "geom:bbox":"110.314172,1.31888,110.654153,1.520138",
     "geom:latitude":1.443923,
     "geom:longitude":110.492187,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SK.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495039,
-    "wof:geomhash":"5e96c632654f1d90ec49fa9b5897b193",
+    "wof:geomhash":"8cc8c66562e799942183f34a3854d39f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108696499,
-    "wof:lastmodified":1627522442,
+    "wof:lastmodified":1695886042,
     "wof:name":"Samarahan",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

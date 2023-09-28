@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050549,
-    "geom:area_square_m":624173710.453235,
+    "geom:area_square_m":624174128.588005,
     "geom:bbox":"101.228691,2.8809,101.564196,3.192312",
     "geom:latitude":3.031235,
     "geom:longitude":101.388702,
@@ -205,9 +205,10 @@
         "hasc:id":"MY.SL.KE",
         "wd:id":"Q856003"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494953,
-    "wof:geomhash":"ba7c4e6e8f344d1f5fc73a8b6beeb161",
+    "wof:geomhash":"a1eff17f101c6e676f0a54b0e25ac66b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -217,7 +218,7 @@
         }
     ],
     "wof:id":1108696415,
-    "wof:lastmodified":1690848126,
+    "wof:lastmodified":1695886345,
     "wof:name":"Klang",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

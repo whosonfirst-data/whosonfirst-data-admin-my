@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108898,
-    "geom:area_square_m":1340175690.694677,
+    "geom:area_square_m":1340175064.108614,
     "geom:bbox":"101.651915,5.346133,101.996125,5.810171",
     "geom:latitude":5.572784,
     "geom:longitude":101.829601,
@@ -126,12 +126,13 @@
         "wd:id":"Q1884709",
         "wk:page":"Jeli District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054788,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"36f52eaf1085a6da9b7d2a87e454ff38",
+    "wof:geomhash":"b4fcabd5efab0e8907ff453a5ea06d62",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":890490101,
-    "wof:lastmodified":1690848148,
+    "wof:lastmodified":1695886037,
     "wof:name":"Jeli",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

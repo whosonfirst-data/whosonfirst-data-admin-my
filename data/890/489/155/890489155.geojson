@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013559,
-    "geom:area_square_m":166920909.907975,
+    "geom:area_square_m":166921277.344051,
     "geom:bbox":"100.178719,5.262028,100.329425,5.482083",
     "geom:latitude":5.358744,
     "geom:longitude":100.232853,
@@ -91,12 +91,13 @@
         "hasc:id":"MY.PG.BD",
         "qs_pg:id":905128
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054747,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2cdb585299983e9a76cf647e3c52abc6",
+    "wof:geomhash":"da9e6631014ff14cb4d2a57f618715f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":890489155,
-    "wof:lastmodified":1627522436,
+    "wof:lastmodified":1695886034,
     "wof:name":"Barat Daya",
     "wof:parent_id":85675127,
     "wof:placetype":"county",

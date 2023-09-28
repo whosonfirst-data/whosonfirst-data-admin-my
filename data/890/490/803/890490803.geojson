@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105375,
-    "geom:area_square_m":1298400160.526829,
+    "geom:area_square_m":1298399799.471108,
     "geom:bbox":"100.54792,4.52073,100.913186,5.102132",
     "geom:latitude":4.804198,
     "geom:longitude":100.727077,
@@ -84,12 +84,13 @@
         "hasc:id":"MY.PK.LM",
         "qs_pg:id":221586
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054825,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6a2152516c1cd9abd5f3337e46e2e930",
+    "wof:geomhash":"862dbdea482a34ad0c56c18212453c41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":890490803,
-    "wof:lastmodified":1627522439,
+    "wof:lastmodified":1695886038,
     "wof:name":"Larut and Matang",
     "wof:parent_id":85675123,
     "wof:placetype":"county",

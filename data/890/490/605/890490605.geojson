@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040476,
-    "geom:area_square_m":499762242.763906,
+    "geom:area_square_m":499762101.460648,
     "geom:bbox":"101.438694,2.972495,101.730516,3.228539",
     "geom:latitude":3.094206,
     "geom:longitude":101.573825,
@@ -133,12 +133,13 @@
         "wd:id":"Q2701266",
         "wk:page":"Petaling District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054817,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f8659f935abb6f2081cba96c26caea55",
+    "wof:geomhash":"8c6e387b6b40dca1db1623b7d47008f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":890490605,
-    "wof:lastmodified":1690848139,
+    "wof:lastmodified":1695886791,
     "wof:name":"Petaling",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

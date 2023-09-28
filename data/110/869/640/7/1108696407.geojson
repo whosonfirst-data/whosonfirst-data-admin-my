@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066934,
-    "geom:area_square_m":822322214.07871,
+    "geom:area_square_m":822322214.078562,
     "geom:bbox":"100.120247,6.257542,100.373939,6.725913",
     "geom:latitude":6.503282,
     "geom:longitude":100.241052,
@@ -202,12 +202,13 @@
     "wof:concordances":{
         "hasc:id":"MY.PL.PE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85675137
     ],
     "wof:country":"MY",
     "wof:created":1474494944,
-    "wof:geomhash":"c5840a03111d23560fc2bb5da0cc6d58",
+    "wof:geomhash":"3cb594892acf5ddddff835c9f7ab83b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -217,7 +218,7 @@
         }
     ],
     "wof:id":1108696407,
-    "wof:lastmodified":1607982313,
+    "wof:lastmodified":1695886404,
     "wof:name":"Perlis",
     "wof:parent_id":85675137,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.809249,
-    "geom:area_square_m":9966559884.760128,
+    "geom:area_square_m":9966559994.52515,
     "geom:bbox":"116.447913,4.504786,117.498527,5.659953",
     "geom:latitude":5.115602,
     "geom:longitude":117.027842,
@@ -86,9 +86,10 @@
         "hasc:id":"MY.SA.TO",
         "wd:id":"Q1314522"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495077,
-    "wof:geomhash":"9513a297f3e50efbc573399c6218d279",
+    "wof:geomhash":"c13e758a7787a481b42e6fc1aa4c7ee7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108696539,
-    "wof:lastmodified":1690848128,
+    "wof:lastmodified":1695886347,
     "wof:name":"Tongod",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

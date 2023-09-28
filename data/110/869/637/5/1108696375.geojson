@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020659,
-    "geom:area_square_m":255359330.689087,
+    "geom:area_square_m":255359168.406501,
     "geom:bbox":"110.471487,1.442702,110.742836,1.607833",
     "geom:latitude":1.532829,
     "geom:longitude":110.627172,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SK.AS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494908,
-    "wof:geomhash":"a11e97a87141a8ef4e0a676d91064a07",
+    "wof:geomhash":"61a0c2edcd2a49e6b3c6ef6478183352",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108696375,
-    "wof:lastmodified":1627522436,
+    "wof:lastmodified":1695886034,
     "wof:name":"Asajaya",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

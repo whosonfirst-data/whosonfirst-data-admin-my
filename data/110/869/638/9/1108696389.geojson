@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148921,
-    "geom:area_square_m":1838229130.275653,
+    "geom:area_square_m":1838228668.392838,
     "geom:bbox":"101.759961,3.138452,102.337472,3.694332",
     "geom:latitude":3.383207,
     "geom:longitude":102.013307,
@@ -175,9 +175,10 @@
         "hasc:id":"MY.PH.BN",
         "wd:id":"Q818344"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494920,
-    "wof:geomhash":"e73a47f8a7a96b624ddb2b73a19948c6",
+    "wof:geomhash":"930b3baa6bb23ecc304164b906cbd8f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -187,7 +188,7 @@
         }
     ],
     "wof:id":1108696389,
-    "wof:lastmodified":1690848129,
+    "wof:lastmodified":1695886347,
     "wof:name":"Bentong",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

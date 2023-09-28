@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.299236,
-    "geom:area_square_m":3684412999.813581,
+    "geom:area_square_m":3684412999.81323,
     "geom:bbox":"115.992270652,4.83084228527,116.682573371,5.63235446836",
     "geom:latitude":5.275751,
     "geom:longitude":116.270898,
@@ -94,9 +94,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SA.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494949,
-    "wof:geomhash":"f10d3614047d82100656e6e5bb6b4d45",
+    "wof:geomhash":"5e7b6d924c0cfcbf0a6391b6536fecc1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108696411,
-    "wof:lastmodified":1566643525,
+    "wof:lastmodified":1695886345,
     "wof:name":"Keningau",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

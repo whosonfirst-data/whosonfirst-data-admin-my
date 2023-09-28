@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048231,
-    "geom:area_square_m":595667080.877204,
+    "geom:area_square_m":595667232.149415,
     "geom:bbox":"101.579353,2.600389,101.784023,3.004171",
     "geom:latitude":2.80591,
     "geom:longitude":101.686162,
@@ -205,12 +205,13 @@
         "wd:id":"Q911008",
         "wk:page":"Sepang District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054783,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"08915d2e1b3042999b8111e595d7d38e",
+    "wof:geomhash":"9024d420e7c31d1cc5ea8a42ce01b2fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -220,7 +221,7 @@
         }
     ],
     "wof:id":890489971,
-    "wof:lastmodified":1690848193,
+    "wof:lastmodified":1695886792,
     "wof:name":"Sepang",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

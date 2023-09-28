@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.177072,
-    "geom:area_square_m":2187756773.024426,
+    "geom:area_square_m":2187756535.195372,
     "geom:bbox":"111.578709,2.044117,112.16294,2.545973",
     "geom:latitude":2.302797,
     "geom:longitude":111.883815,
@@ -105,12 +105,13 @@
         "wd:id":"Q19646387",
         "wk:page":"Sibu District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054719,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a7ec7db405559838d6ed3c1baa673af7",
+    "wof:geomhash":"dc65669186db2fa3b83fe899e6fc5220",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":890488423,
-    "wof:lastmodified":1690848164,
+    "wof:lastmodified":1695886793,
     "wof:name":"Sibu",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

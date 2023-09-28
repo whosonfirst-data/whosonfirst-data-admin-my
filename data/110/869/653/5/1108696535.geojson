@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190486,
-    "geom:area_square_m":2346798762.063548,
+    "geom:area_square_m":2346798762.063588,
     "geom:bbox":"115.787189641,4.39059511247,116.141552895,5.42664439319",
     "geom:latitude":4.890164,
     "geom:longitude":115.948567,
@@ -88,9 +88,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SA.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495074,
-    "wof:geomhash":"44bc9f30ae6144d48b25e2ee9d04c469",
+    "wof:geomhash":"65d4e75b5fc6e7351a63f88a08d8342e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108696535,
-    "wof:lastmodified":1566643531,
+    "wof:lastmodified":1695886346,
     "wof:name":"Tenom",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

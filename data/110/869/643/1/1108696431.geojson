@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107543,
-    "geom:area_square_m":1319814977.707785,
+    "geom:area_square_m":1319814977.70849,
     "geom:bbox":"116.62394724,6.6469642793,117.346191406,7.359583378",
     "geom:latitude":7.02089,
     "geom:longitude":116.933583,
@@ -94,9 +94,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SA.KD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494976,
-    "wof:geomhash":"2dd9f23f1d7e50512b4acc64b8ab0504",
+    "wof:geomhash":"65de7825bdb307763e934e707af75f1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108696431,
-    "wof:lastmodified":1566643516,
+    "wof:lastmodified":1695886342,
     "wof:name":"Kudat",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

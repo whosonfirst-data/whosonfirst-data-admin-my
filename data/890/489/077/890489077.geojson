@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.208827,
-    "geom:area_square_m":2572993256.65051,
+    "geom:area_square_m":2572993612.391347,
     "geom:bbox":"100.746249,4.523554,101.45719,5.073685",
     "geom:latitude":4.833605,
     "geom:longitude":101.094529,
@@ -353,12 +353,13 @@
         "wd:id":"Q1790832",
         "wk:page":"Kuala Kangsar District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054743,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f857a33d33f373840c1e1ca7c655d485",
+    "wof:geomhash":"eea883e2eb5752251ee81f46ef41f8a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -368,7 +369,7 @@
         }
     ],
     "wof:id":890489077,
-    "wof:lastmodified":1690848186,
+    "wof:lastmodified":1695886792,
     "wof:name":"Kuala Kangsar",
     "wof:parent_id":85675123,
     "wof:placetype":"county",

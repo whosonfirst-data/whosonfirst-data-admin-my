@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15561,
-    "geom:area_square_m":1923046542.708842,
+    "geom:area_square_m":1923046386.526556,
     "geom:bbox":"102.777835,1.628686,103.252502,2.203301",
     "geom:latitude":1.934921,
     "geom:longitude":103.033354,
@@ -375,12 +375,13 @@
         "wd:id":"Q2306850",
         "wk:page":"Batu Pahat District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054835,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"23030439e48aeebc70df04e07dc67de4",
+    "wof:geomhash":"c4060e6c11d7620039ae56089a959bce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -390,7 +391,7 @@
         }
     ],
     "wof:id":890490999,
-    "wof:lastmodified":1690848134,
+    "wof:lastmodified":1695886792,
     "wof:name":"Batu Pahat",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

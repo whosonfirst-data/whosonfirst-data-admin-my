@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183279,
-    "geom:area_square_m":2264953235.372108,
+    "geom:area_square_m":2264953225.637792,
     "geom:bbox":"111.951977,1.672467,112.494187,2.206519",
     "geom:latitude":1.957379,
     "geom:longitude":112.226604,
@@ -82,9 +82,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SK.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494945,
-    "wof:geomhash":"4aafb59cf9de5cb1300dc0a5633721ad",
+    "wof:geomhash":"186b68f5e1cdb0448356f6906b42b99e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108696409,
-    "wof:lastmodified":1627522438,
+    "wof:lastmodified":1695886037,
     "wof:name":"Kanowit",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

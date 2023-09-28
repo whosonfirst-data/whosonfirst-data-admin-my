@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.247457,
-    "geom:area_square_m":3052916566.820995,
+    "geom:area_square_m":3052916796.618777,
     "geom:bbox":"102.707827,3.600214,103.440414,4.191327",
     "geom:latitude":3.857987,
     "geom:longitude":103.091371,
@@ -250,12 +250,13 @@
         "wd:id":"Q817578",
         "wk:page":"Kuantan District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054831,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"187d2e381769e3c09d67a85e18603cee",
+    "wof:geomhash":"ffc187e0adde0dc76279dcafe91290c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -265,7 +266,7 @@
         }
     ],
     "wof:id":890490895,
-    "wof:lastmodified":1690848139,
+    "wof:lastmodified":1695886792,
     "wof:name":"Kuantan",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.484971,
-    "geom:area_square_m":5977279281.309198,
+    "geom:area_square_m":5977279281.310189,
     "geom:bbox":"115.902449558,4.276432,117.056656593,5.11156692824",
     "geom:latitude":4.615872,
     "geom:longitude":116.458358,
@@ -85,9 +85,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SA.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495021,
-    "wof:geomhash":"785cac99564056478dfd0dbdba0ac2a7",
+    "wof:geomhash":"73fd2b92ce4ea2eb0cd4202fd1314c61",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108696483,
-    "wof:lastmodified":1566643528,
+    "wof:lastmodified":1695886346,
     "wof:name":"Nabawan",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

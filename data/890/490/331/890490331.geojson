@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045313,
-    "geom:area_square_m":559758224.028804,
+    "geom:area_square_m":559757884.01432,
     "geom:bbox":"101.702478,2.3915,102.038187,2.72341",
     "geom:latitude":2.541549,
     "geom:longitude":101.891041,
@@ -200,12 +200,13 @@
         "wd:id":"Q653801",
         "wk:page":"Port Dickson District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054800,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd4e3a01b5a638e528ce46f034f70eda",
+    "wof:geomhash":"308a13e8167c7cc93541798da64d64d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -215,7 +216,7 @@
         }
     ],
     "wof:id":890490331,
-    "wof:lastmodified":1690848132,
+    "wof:lastmodified":1695886791,
     "wof:name":"Port Dickson",
     "wof:parent_id":85675155,
     "wof:placetype":"county",

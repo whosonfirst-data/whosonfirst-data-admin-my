@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054207,
-    "geom:area_square_m":666446808.862894,
+    "geom:area_square_m":666446522.862824,
     "geom:bbox":"100.256607,5.968521,100.641973,6.254557",
     "geom:latitude":6.133099,
     "geom:longitude":100.426686,
@@ -136,12 +136,13 @@
         "wd:id":"Q2219638",
         "wk:page":"Kota Setar District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054802,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c662d01774f8f151aa5ea9cbbf79571b",
+    "wof:geomhash":"4dc1dd40f40d02e11bf378c19a22069e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":890490361,
-    "wof:lastmodified":1690848145,
+    "wof:lastmodified":1695886041,
     "wof:name":"Pokok Sena",
     "wof:parent_id":85675133,
     "wof:placetype":"county",

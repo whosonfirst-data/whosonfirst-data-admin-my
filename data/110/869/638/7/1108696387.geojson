@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.557967,
-    "geom:area_square_m":19246493391.504353,
+    "geom:area_square_m":19246493391.504829,
     "geom:bbox":"113.321294302,1.57478218245,115.237481,3.36042213361",
     "geom:latitude":2.452797,
     "geom:longitude":114.294434,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SK.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494918,
-    "wof:geomhash":"b0ba97d1cbdaffcd3e98d3c0874f74bb",
+    "wof:geomhash":"15aa1ea0918c96f7b9023e1cfdee343c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108696387,
-    "wof:lastmodified":1566643533,
+    "wof:lastmodified":1695886347,
     "wof:name":"Belaga",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

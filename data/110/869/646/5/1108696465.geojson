@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.792232,
-    "geom:area_square_m":22118593504.042519,
+    "geom:area_square_m":22118593229.871601,
     "geom:bbox":"113.953179,2.669179,115.65222,4.563568",
     "geom:latitude":3.536654,
     "geom:longitude":114.766572,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SK.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495002,
-    "wof:geomhash":"6f3a8957cb0b4339dec8550adcebb893",
+    "wof:geomhash":"924b9532e498496bc3a4dd2debdc98bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108696465,
-    "wof:lastmodified":1627522440,
+    "wof:lastmodified":1695886039,
     "wof:name":"Marudi",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068369,
-    "geom:area_square_m":844191260.375035,
+    "geom:area_square_m":844191236.876733,
     "geom:bbox":"101.72043,2.865616,101.969572,3.275807",
     "geom:latitude":3.063325,
     "geom:longitude":101.849344,
@@ -98,9 +98,10 @@
         "hasc:id":"MY.SL.HL",
         "wd:id":"Q4251470"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495081,
-    "wof:geomhash":"9908bea85ee4b49da33a3307b5e047a7",
+    "wof:geomhash":"943ea34ee820a6bdcaf510f46594809f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108696543,
-    "wof:lastmodified":1690848128,
+    "wof:lastmodified":1695886347,
     "wof:name":"Ulu Langat",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

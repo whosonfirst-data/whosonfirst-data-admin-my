@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093392,
-    "geom:area_square_m":1152778057.542722,
+    "geom:area_square_m":1152777654.8733,
     "geom:bbox":"101.103679,3.160089,101.495287,3.599072",
     "geom:latitude":3.394805,
     "geom:longitude":101.328519,
@@ -147,12 +147,13 @@
         "wd:id":"Q3267302",
         "wk:page":"Kuala Selangor District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054733,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9dc532c23f2f84e2acd9a567d114b0bb",
+    "wof:geomhash":"74663d6e9b3c5bd179a7596bd7a1e0b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":890488801,
-    "wof:lastmodified":1690848178,
+    "wof:lastmodified":1695886792,
     "wof:name":"Kuala Selangor",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

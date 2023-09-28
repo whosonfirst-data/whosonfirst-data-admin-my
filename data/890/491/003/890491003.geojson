@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.280766,
-    "geom:area_square_m":3470059371.799085,
+    "geom:area_square_m":3470059206.261023,
     "geom:bbox":"103.549697,1.342028,104.299614,2.048656",
     "geom:latitude":1.768868,
     "geom:longitude":103.949476,
@@ -103,12 +103,13 @@
         "wd:id":"Q6433828",
         "wk:page":"Kota Tinggi District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054835,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fabf0149ce1f917d9bda9817cb01b19d",
+    "wof:geomhash":"00da6217e64d9f0cf3d2dacdae525e79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":890491003,
-    "wof:lastmodified":1690848158,
+    "wof:lastmodified":1695886042,
     "wof:name":"Kota Tinggi",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

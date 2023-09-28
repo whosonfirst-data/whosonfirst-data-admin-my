@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.493232,
-    "geom:area_square_m":6080343488.399742,
+    "geom:area_square_m":6080344374.425222,
     "geom:bbox":"116.949376,4.16125,118.345758,4.790531",
     "geom:latitude":4.469698,
     "geom:longitude":117.635509,
@@ -136,9 +136,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SA.TW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495072,
-    "wof:geomhash":"3553b439e31ecbf1b8398e797963a3f1",
+    "wof:geomhash":"6f1870b42b9dab78d567ee66705a8c3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1108696533,
-    "wof:lastmodified":1636501642,
+    "wof:lastmodified":1695886793,
     "wof:name":"Tawau",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

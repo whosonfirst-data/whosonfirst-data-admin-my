@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.320496,
-    "geom:area_square_m":3961087128.757103,
+    "geom:area_square_m":3961087128.757285,
     "geom:bbox":"112.000523015,1.43927045732,112.965062287,2.19812720693",
     "geom:latitude":1.767479,
     "geom:longitude":112.541648,
@@ -427,9 +427,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SK.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495063,
-    "wof:geomhash":"a6a614da84d771b972a6003545c9c559",
+    "wof:geomhash":"c8104810ea9e938bd5742cb72362e52e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -439,7 +440,7 @@
         }
     ],
     "wof:id":1108696521,
-    "wof:lastmodified":1566643529,
+    "wof:lastmodified":1695886346,
     "wof:name":"Song",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

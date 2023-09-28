@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078027,
-    "geom:area_square_m":963700287.632889,
+    "geom:area_square_m":963700281.027453,
     "geom:bbox":"101.749354,2.537167,102.066384,2.966033",
     "geom:latitude":2.754281,
     "geom:longitude":101.919402,
@@ -383,12 +383,13 @@
         "wd:id":"Q847610",
         "wk:page":"Seremban"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054768,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e83888ba232fafede6d6ee37443e33d4",
+    "wof:geomhash":"7ab23af3ae394e426df22dfc66a6ef6d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -398,7 +399,7 @@
         }
     ],
     "wof:id":890489719,
-    "wof:lastmodified":1690848205,
+    "wof:lastmodified":1695886792,
     "wof:name":"Seremban",
     "wof:parent_id":85675155,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.578702,
-    "geom:area_square_m":7144879761.383003,
+    "geom:area_square_m":7144880033.041191,
     "geom:bbox":"112.880012,2.690785,114.06958,3.709645",
     "geom:latitude":3.152784,
     "geom:longitude":113.462392,
@@ -135,12 +135,13 @@
         "hasc:id":"MY.SK.BI",
         "qs_pg:id":220648
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054711,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2196114854ef5d6133a6de0d5d96f1f5",
+    "wof:geomhash":"19e04bd70aed0a5ab2c0c7bab256533e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":890488209,
-    "wof:lastmodified":1636501644,
+    "wof:lastmodified":1695886793,
     "wof:name":"Bintulu",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

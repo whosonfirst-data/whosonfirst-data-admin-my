@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126867,
-    "geom:area_square_m":1560949219.271718,
+    "geom:area_square_m":1560949174.702851,
     "geom:bbox":"100.610193,5.393693,101.124417,6.051851",
     "geom:latitude":5.710283,
     "geom:longitude":100.867493,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"MY.KH.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494910,
-    "wof:geomhash":"2a383e0e103e580558e6b0dfaa5776ab",
+    "wof:geomhash":"fbf2c061ce2f4e1f6a934454f0b977f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108696379,
-    "wof:lastmodified":1627522436,
+    "wof:lastmodified":1695886034,
     "wof:name":"Baling",
     "wof:parent_id":85675133,
     "wof:placetype":"county",

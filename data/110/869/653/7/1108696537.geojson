@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010617,
-    "geom:area_square_m":130691474.490407,
+    "geom:area_square_m":130691148.021514,
     "geom:bbox":"100.236524,5.326055,100.348724,5.487889",
     "geom:latitude":5.41089,
     "geom:longitude":100.283921,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"MY.PG.TL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495075,
-    "wof:geomhash":"a884ae39b14b42dfffe42234fb1328a0",
+    "wof:geomhash":"14ef215e40959a4b028af85c786bfd3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108696537,
-    "wof:lastmodified":1627522443,
+    "wof:lastmodified":1695886043,
     "wof:name":"Timur Laut",
     "wof:parent_id":85675127,
     "wof:placetype":"county",
