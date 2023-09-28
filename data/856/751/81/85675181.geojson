@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019829,
-    "geom:area_square_m":244818982.08574,
+    "geom:area_square_m":244819048.248713,
     "geom:bbox":"101.61175,3.038634,101.757766,3.243595",
     "geom:latitude":3.143645,
     "geom:longitude":101.689573,
@@ -731,11 +731,13 @@
         "gn:id":1733046,
         "gp:id":56014685,
         "hasc:id":"MY.KL",
+        "iso:code":"MY-14",
         "iso:id":"MY-14",
         "qs_pg:id":192904,
         "wd:id":"Q1865",
         "wk:page":"Kuala Lumpur"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         102023407
     ],
@@ -743,7 +745,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5765c01992d0eca7d4cf008f0607f7e4",
+    "wof:geomhash":"885b71b9f9314894ecf139ba62a58afe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -758,7 +760,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690848113,
+    "wof:lastmodified":1695884523,
     "wof:name":"Kuala Lumpur",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

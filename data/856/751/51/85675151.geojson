@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130277,
-    "geom:area_square_m":1609567379.882432,
+    "geom:area_square_m":1609567515.833181,
     "geom:bbox":"101.969553,2.108722,102.59198,2.498729",
     "geom:latitude":2.327242,
     "geom:longitude":102.306959,
@@ -382,17 +382,19 @@
         "gn:id":1733035,
         "gp:id":2346299,
         "hasc:id":"MY.ME",
+        "iso:code":"MY-04",
         "iso:id":"MY-04",
         "qs_pg:id":9200,
         "unlc:id":"MY-04",
         "wd:id":"Q185221",
         "wk:page":"Malacca"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8843dd6e7e13f13aea657491150cb3e6",
+    "wof:geomhash":"7667c5b987ec0653c918b538f68ebb5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -407,7 +409,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690848111,
+    "wof:lastmodified":1695884521,
     "wof:name":"Melaka",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

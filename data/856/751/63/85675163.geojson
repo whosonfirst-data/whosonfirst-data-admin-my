@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.636991,
-    "geom:area_square_m":7863557821.017477,
+    "geom:area_square_m":7863557128.873648,
     "geom:bbox":"100.809608,2.600389,101.969572,3.870599",
     "geom:latitude":3.272887,
     "geom:longitude":101.501389,
@@ -365,6 +365,7 @@
         "gn:id":1733037,
         "gp:id":2346306,
         "hasc:id":"MY.SL",
+        "iso:code":"MY-10",
         "iso:id":"MY-10",
         "loc:id":"n79144978",
         "qs_pg:id":884373,
@@ -372,11 +373,12 @@
         "wd:id":"Q189710",
         "wk:page":"Selangor"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0d04bdead19ffb75bf436c0d80dbf9cc",
+    "wof:geomhash":"e8cbeb93a4a66fb6c9710c296b9737fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -391,7 +393,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690848115,
+    "wof:lastmodified":1695884522,
     "wof:name":"Selangor",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.058093,
-    "geom:area_square_m":74578120164.547501,
+    "geom:area_square_m":74578119715.498215,
     "geom:bbox":"115.309738,4.117483,119.275444,7.359583",
     "geom:latitude":5.351516,
     "geom:longitude":117.126508,
@@ -412,6 +412,7 @@
         "gn:id":1733039,
         "gp:id":2346310,
         "hasc:id":"MY.SA",
+        "iso:code":"MY-12",
         "iso:id":"MY-12",
         "loc:id":"n80061078",
         "nyt:id":"39542381266069063601",
@@ -420,11 +421,12 @@
         "wd:id":"Q179029",
         "wk:page":"Sabah"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"48d7fa1fe0ed3aab1e841ceb884e76b0",
+    "wof:geomhash":"12474ef40f94d7cdb728652cf33da675",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -439,7 +441,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690848112,
+    "wof:lastmodified":1695884521,
     "wof:name":"Sabah",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

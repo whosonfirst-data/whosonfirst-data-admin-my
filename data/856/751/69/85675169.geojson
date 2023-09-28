@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.065611,
-    "geom:area_square_m":13127311073.050007,
+    "geom:area_square_m":13127310163.813549,
     "geom:bbox":"102.377699,3.884085,103.697113,5.947028",
     "geom:latitude":4.931305,
     "geom:longitude":102.951918,
@@ -356,17 +356,19 @@
         "gn:id":1733036,
         "gp:id":2346307,
         "hasc:id":"MY.TE",
+        "iso:code":"MY-11",
         "iso:id":"MY-11",
         "qs_pg:id":461458,
         "unlc:id":"MY-11",
         "wd:id":"Q189701",
         "wk:page":"Terengganu"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"da2c47c719bc434c6543de12dd0ac71e",
+    "wof:geomhash":"43e84a87b26b28aeeff587e7f4e33dd5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -381,7 +383,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690848110,
+    "wof:lastmodified":1695884521,
     "wof:name":"Trengganu",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

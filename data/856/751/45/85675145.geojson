@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.226255,
-    "geom:area_square_m":15098173793.674068,
+    "geom:area_square_m":15098173678.171461,
     "geom:bbox":"101.332765,4.547555,102.667123,6.246167",
     "geom:latitude":5.278348,
     "geom:longitude":102.028851,
@@ -353,6 +353,7 @@
         "gn:id":1733044,
         "gp:id":2346298,
         "hasc:id":"MY.KN",
+        "iso:code":"MY-03",
         "iso:id":"MY-03",
         "loc:id":"n50047039",
         "qs_pg:id":1076923,
@@ -360,11 +361,12 @@
         "wd:id":"Q185944",
         "wk:page":"Kelantan"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"222a4a7e3c4b95c656b3ddc0a307c5df",
+    "wof:geomhash":"33359dd379a520f4e07014a09f6fe929",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -379,7 +381,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690848112,
+    "wof:lastmodified":1695884521,
     "wof:name":"Kelantan",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

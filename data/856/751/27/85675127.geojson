@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082447,
-    "geom:area_square_m":1014998997.969587,
+    "geom:area_square_m":1014998979.917449,
     "geom:bbox":"100.178719,5.123466,100.550664,5.583133",
     "geom:latitude":5.368262,
     "geom:longitude":100.401654,
@@ -346,6 +346,7 @@
         "gn:id":1733047,
         "gp:id":2346304,
         "hasc:id":"MY.PG",
+        "iso:code":"MY-07",
         "iso:id":"MY-07",
         "loc:id":"n79081710",
         "qs_pg:id":242272,
@@ -353,11 +354,12 @@
         "wd:id":"Q188096",
         "wk:page":"Penang"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a0ddcb626f3b7730f5604a1e7a017109",
+    "wof:geomhash":"3b73780276523d4a3c3f155e005cae09",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -372,7 +374,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690848112,
+    "wof:lastmodified":1695884521,
     "wof:name":"Pulau Pinang",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

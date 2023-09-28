@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.076017,
-    "geom:area_square_m":124448206630.775146,
+    "geom:area_square_m":124448206103.613937,
     "geom:bbox":"109.538021,0.853821,115.678031,4.995638",
     "geom:latitude":2.588959,
     "geom:longitude":113.298231,
@@ -388,6 +388,7 @@
         "gn:id":1733038,
         "gp:id":2346305,
         "hasc:id":"MY.SK",
+        "iso:code":"MY-13",
         "iso:id":"MY-13",
         "loc:id":"n83165495",
         "nyt:id":"N314721979876017111",
@@ -396,11 +397,12 @@
         "wd:id":"Q170462",
         "wk:page":"Sarawak"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fd7e0f1c22b8621334afd75670a4b6be",
+    "wof:geomhash":"829fe512c95c55d62e4e5881f28b9756",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -415,7 +417,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690848116,
+    "wof:lastmodified":1695884522,
     "wof:name":"Sarawak",
     "wof:parent_id":85632739,
     "wof:placetype":"region",
