@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.540363,
-    "geom:area_square_m":6673810588.406,
+    "geom:area_square_m":6673810467.068759,
     "geom:bbox":"101.702478,2.3915,102.700758,3.288578",
     "geom:latitude":2.776651,
     "geom:longitude":102.208098,
@@ -360,6 +360,7 @@
         "gn:id":1733043,
         "gp:id":2346300,
         "hasc:id":"MY.NS",
+        "iso:code":"MY-05",
         "iso:id":"MY-05",
         "loc:id":"n81035864",
         "qs_pg:id":221746,
@@ -367,11 +368,12 @@
         "wd:id":"Q213893",
         "wk:page":"Negeri Sembilan"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"62c9f9dd4e7dee92930cb70a84104bad",
+    "wof:geomhash":"08264a7163442aa87294ec3cd3f23dc5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -386,7 +388,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690848114,
+    "wof:lastmodified":1695884522,
     "wof:name":"Negeri Sembilan",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

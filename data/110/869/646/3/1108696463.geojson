@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162589,
-    "geom:area_square_m":2006442777.454967,
+    "geom:area_square_m":2006442464.161889,
     "geom:bbox":"102.431135,3.313656,102.923486,3.885524",
     "geom:latitude":3.61558,
     "geom:longitude":102.668179,
@@ -82,9 +82,10 @@
         "hasc:id":"MY.PH.MA",
         "wd:id":"Q6754759"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495000,
-    "wof:geomhash":"c9d0d93bd30b121eb8c39e7246ea088d",
+    "wof:geomhash":"c6745aa0fe66dbb2085d92922e06c300",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108696463,
-    "wof:lastmodified":1690848126,
+    "wof:lastmodified":1695886039,
     "wof:name":"Maran",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

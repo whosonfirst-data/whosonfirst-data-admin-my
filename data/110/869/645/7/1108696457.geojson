@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043241,
-    "geom:area_square_m":531998295.385271,
+    "geom:area_square_m":531998616.17636,
     "geom:bbox":"102.100901,5.629002,102.428529,5.912367",
     "geom:latitude":5.74849,
     "geom:longitude":102.24482,
@@ -88,9 +88,10 @@
     "wof:concordances":{
         "hasc:id":"MY.KN.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494995,
-    "wof:geomhash":"7dc754df73e2385a930a999c337cbcce",
+    "wof:geomhash":"374a21c3c32ba1c4e35fc2cf54fc7afe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108696457,
-    "wof:lastmodified":1627522440,
+    "wof:lastmodified":1695886039,
     "wof:name":"Machang",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

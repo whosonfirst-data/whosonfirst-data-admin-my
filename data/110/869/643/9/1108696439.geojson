@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.690867,
-    "geom:area_square_m":8494563617.949339,
+    "geom:area_square_m":8494563617.950377,
     "geom:bbox":"116.84133272,5.52074127555,117.73791504,6.895416737",
     "geom:latitude":6.079281,
     "geom:longitude":117.301557,
@@ -82,9 +82,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SA.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494981,
-    "wof:geomhash":"4c88978e2a68f2fa386c86ca0db694e0",
+    "wof:geomhash":"e2ca75f1756c87fad0a7fa4576d6ac52",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108696439,
-    "wof:lastmodified":1566643515,
+    "wof:lastmodified":1695886342,
     "wof:name":"Beluran",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

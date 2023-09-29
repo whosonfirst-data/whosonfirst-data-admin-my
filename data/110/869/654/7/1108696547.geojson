@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00752,
-    "geom:area_square_m":92591063.589687,
+    "geom:area_square_m":92591063.589694,
     "geom:bbox":"115.118752,5.22125,115.267891,5.397889",
     "geom:latitude":5.316106,
     "geom:longitude":115.214333,
@@ -202,12 +202,13 @@
     "wof:concordances":{
         "hasc:id":"MY.LA.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85675191
     ],
     "wof:country":"MY",
     "wof:created":1474495083,
-    "wof:geomhash":"95ba6754c406bb59cbfb928920e51562",
+    "wof:geomhash":"7cc83bb3146e00b0f35a82bed0712aa7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -217,7 +218,7 @@
         }
     ],
     "wof:id":1108696547,
-    "wof:lastmodified":1636501642,
+    "wof:lastmodified":1695886793,
     "wof:name":"Labuan",
     "wof:parent_id":85675191,
     "wof:placetype":"county",

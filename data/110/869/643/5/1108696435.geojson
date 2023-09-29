@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093041,
-    "geom:area_square_m":1146594137.445892,
+    "geom:area_square_m":1146593783.83909,
     "geom:bbox":"117.757896,4.543596,118.325417,4.877177",
     "geom:latitude":4.706089,
     "geom:longitude":118.055831,
@@ -85,9 +85,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SA.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494980,
-    "wof:geomhash":"16923c26bf7ce9da62c67a4419b92608",
+    "wof:geomhash":"d092d2b7cc2f1adc591ce1e63ce8cd25",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108696435,
-    "wof:lastmodified":1627522439,
+    "wof:lastmodified":1695886038,
     "wof:name":"Kunak",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

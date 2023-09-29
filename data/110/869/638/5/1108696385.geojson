@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142641,
-    "geom:area_square_m":1756190409.363053,
+    "geom:area_square_m":1756189906.44622,
     "geom:bbox":"115.434586,5.040702,115.970494,5.542056",
     "geom:latitude":5.316507,
     "geom:longitude":115.702277,
@@ -94,9 +94,10 @@
         "hasc:id":"MY.SA.BF",
         "wd:id":"Q2526109"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494917,
-    "wof:geomhash":"d3a807ed1f21cb2a202ebd351eaa1ef7",
+    "wof:geomhash":"0996438d0ce371de24b42c3aa8acb282",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108696385,
-    "wof:lastmodified":1690848129,
+    "wof:lastmodified":1695886793,
     "wof:name":"Beaufort",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

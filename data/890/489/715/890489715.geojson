@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022307,
-    "geom:area_square_m":275623234.060724,
+    "geom:area_square_m":275623088.941797,
     "geom:bbox":"102.09744,2.160931,102.399091,2.33435",
     "geom:latitude":2.244985,
     "geom:longitude":102.256075,
@@ -118,12 +118,13 @@
         "wd:id":"Q4398232",
         "wk:page":"Melaka Tengah FC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054768,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3fcce68515b0068c61a202208a5f9267",
+    "wof:geomhash":"fbc544b01f21cf17afdd11f7f0d86d04",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":890489715,
-    "wof:lastmodified":1690848192,
+    "wof:lastmodified":1695886038,
     "wof:name":"Melaka Tengah",
     "wof:parent_id":85675151,
     "wof:placetype":"county",

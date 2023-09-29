@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066934,
-    "geom:area_square_m":822322214.07871,
+    "geom:area_square_m":822322214.078562,
     "geom:bbox":"100.120247,6.257542,100.373939,6.725913",
     "geom:latitude":6.503282,
     "geom:longitude":100.241052,
@@ -335,6 +335,7 @@
         "gn:id":1733040,
         "gp:id":2346303,
         "hasc:id":"MY.PL",
+        "iso:code":"MY-09",
         "iso:id":"MY-09",
         "loc:id":"n80113661",
         "qs_pg:id":1311358,
@@ -342,6 +343,7 @@
         "wd:id":"Q213467",
         "wk:page":"Perlis"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1108696407
     ],
@@ -349,7 +351,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c5840a03111d23560fc2bb5da0cc6d58",
+    "wof:geomhash":"3cb594892acf5ddddff835c9f7ab83b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -364,7 +366,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690848114,
+    "wof:lastmodified":1695884522,
     "wof:name":"Perlis",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

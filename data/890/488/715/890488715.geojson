@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.235596,
-    "geom:area_square_m":2910779009.67166,
+    "geom:area_square_m":2910779539.495311,
     "geom:bbox":"103.290944,2.03945,104.545418,2.688722",
     "geom:latitude":2.328153,
     "geom:longitude":103.722225,
@@ -79,12 +79,13 @@
         "hasc:id":"MY.JH.ME",
         "qs_pg:id":558771
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054729,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eb53c835c02dcfb88bca56a572020d54",
+    "wof:geomhash":"695b741be76038d6c2b6d495a8f80921",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":890488715,
-    "wof:lastmodified":1627522437,
+    "wof:lastmodified":1695886034,
     "wof:name":"Daerah Mersing",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.773014,
-    "geom:area_square_m":9506897929.505028,
+    "geom:area_square_m":9506899858.032692,
     "geom:bbox":"99.640388,5.080136,101.127939,6.538743",
     "geom:latitude":5.945326,
     "geom:longitude":100.615544,
@@ -360,17 +360,19 @@
         "gn:id":1733048,
         "gp:id":2346297,
         "hasc:id":"MY.KH",
+        "iso:code":"MY-02",
         "iso:id":"MY-02",
         "qs_pg:id":1076922,
         "unlc:id":"MY-02",
         "wd:id":"Q188947",
         "wk:page":"Kedah"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cd3d590dc225f74803f6262cfea96a72",
+    "wof:geomhash":"b32d5bc7c47798fc6b5890e6aa13b95a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -385,7 +387,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690848111,
+    "wof:lastmodified":1695884521,
     "wof:name":"Kedah",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

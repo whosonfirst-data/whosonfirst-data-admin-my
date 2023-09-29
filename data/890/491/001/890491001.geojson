@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073176,
-    "geom:area_square_m":904505541.968659,
+    "geom:area_square_m":904505375.733204,
     "geom:bbox":"103.191759,1.268694,103.580455,1.770405",
     "geom:latitude":1.54922,
     "geom:longitude":103.399738,
@@ -125,12 +125,13 @@
         "qs_pg:id":88604,
         "wd:id":"Q2452012"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054835,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"136c6349ba02d49156f337e31e64263b",
+    "wof:geomhash":"4447a9d52a079f63da4c6757b275bdd9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":890491001,
-    "wof:lastmodified":1690848157,
+    "wof:lastmodified":1695886041,
     "wof:name":"Pontian",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141992,
-    "geom:area_square_m":1744703183.597703,
+    "geom:area_square_m":1744703183.598416,
     "geom:bbox":"116.580128677,6.20444863675,117.103689639,6.6988599922",
     "geom:latitude":6.431183,
     "geom:longitude":116.802924,
@@ -85,9 +85,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SA.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494961,
-    "wof:geomhash":"f92f8a70cf7d9930ce8329f68a4ace83",
+    "wof:geomhash":"35a9298157cb8f2e36b806acb0261c11",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108696425,
-    "wof:lastmodified":1566643520,
+    "wof:lastmodified":1695886343,
     "wof:name":"Kota Marudu",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

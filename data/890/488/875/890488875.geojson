@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148615,
-    "geom:area_square_m":1837069294.042307,
+    "geom:area_square_m":1837068821.119286,
     "geom:bbox":"110.130923,1.050674,110.534845,1.812083",
     "geom:latitude":1.438689,
     "geom:longitude":110.327929,
@@ -110,12 +110,13 @@
         "wd:id":"Q6441513",
         "wk:page":"Kuching District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054735,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0694ff1f368edcb98bd25d413f59f56a",
+    "wof:geomhash":"a10125683bcd1768c4c6868ae0742c30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":890488875,
-    "wof:lastmodified":1690848163,
+    "wof:lastmodified":1695886037,
     "wof:name":"Kuching",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

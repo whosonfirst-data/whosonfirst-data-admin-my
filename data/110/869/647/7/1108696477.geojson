@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105872,
-    "geom:area_square_m":1302811553.959921,
+    "geom:area_square_m":1302811553.959933,
     "geom:bbox":"115.797956375,5.36179208783,116.283572953,5.84833235264",
     "geom:latitude":5.628839,
     "geom:longitude":116.012343,
@@ -97,9 +97,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SA.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495014,
-    "wof:geomhash":"ec14fdb83844ac0779dad0a55762ca5c",
+    "wof:geomhash":"8c540314c57b6fae48d60e561cd7a7b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108696477,
-    "wof:lastmodified":1566643524,
+    "wof:lastmodified":1695886345,
     "wof:name":"Papar",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

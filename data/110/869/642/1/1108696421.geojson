@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114852,
-    "geom:area_square_m":1411536726.000755,
+    "geom:area_square_m":1411536726.000795,
     "geom:bbox":"116.305974354,6.00406535173,116.659652376,6.72294426",
     "geom:latitude":6.317939,
     "geom:longitude":116.512115,
@@ -94,9 +94,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SA.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494957,
-    "wof:geomhash":"e26a453bdea000037b662ffbe5d87a39",
+    "wof:geomhash":"9c7ff4f69955ef5e3c044d04365b7e2a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108696421,
-    "wof:lastmodified":1566643520,
+    "wof:lastmodified":1695886343,
     "wof:name":"Kota Belud",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

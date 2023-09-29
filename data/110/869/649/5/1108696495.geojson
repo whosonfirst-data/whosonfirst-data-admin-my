@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.247438,
-    "geom:area_square_m":3043504329.008174,
+    "geom:area_square_m":3043504329.007963,
     "geom:bbox":"116.458211693,5.48627355221,117.028863598,6.29909786866",
     "geom:latitude":5.879547,
     "geom:longitude":116.745445,
@@ -91,9 +91,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SA.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495032,
-    "wof:geomhash":"12e80b5a66b5b453065b66acd01e6455",
+    "wof:geomhash":"60bbea15ac8dbae3b0351d040363bf44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108696495,
-    "wof:lastmodified":1566643523,
+    "wof:lastmodified":1695886344,
     "wof:name":"Ranau",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

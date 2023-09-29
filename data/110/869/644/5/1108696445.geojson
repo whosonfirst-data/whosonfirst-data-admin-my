@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.30565,
-    "geom:area_square_m":3767599431.2205,
+    "geom:area_square_m":3767599431.219328,
     "geom:bbox":"115.14957444,3.91220352582,115.678031,4.9956380789",
     "geom:latitude":4.525239,
     "geom:longitude":115.459907,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SK.LW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494986,
-    "wof:geomhash":"d70729917f8839feeb4150769c465afc",
+    "wof:geomhash":"16e2d88db342e6859c1c2b1bfd5d08de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108696445,
-    "wof:lastmodified":1566643517,
+    "wof:lastmodified":1695886343,
     "wof:name":"Lawas",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

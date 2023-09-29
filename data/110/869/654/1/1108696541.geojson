@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16473,
-    "geom:area_square_m":2025719759.027016,
+    "geom:area_square_m":2025719759.027702,
     "geom:bbox":"116.001220703,5.72933930263,116.515600567,6.32205531",
     "geom:latitude":6.009414,
     "geom:longitude":116.265874,
@@ -91,9 +91,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SA.TU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495079,
-    "wof:geomhash":"2d80adf4e444df9b58cb4fc75d4f2bc0",
+    "wof:geomhash":"fd4c69bb0048f8feb3129176921f80d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108696541,
-    "wof:lastmodified":1566643532,
+    "wof:lastmodified":1695886347,
     "wof:name":"Tuaran",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

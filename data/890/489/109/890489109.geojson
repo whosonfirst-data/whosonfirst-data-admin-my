@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051648,
-    "geom:area_square_m":635158364.202282,
+    "geom:area_square_m":635158512.111469,
     "geom:bbox":"100.38647,5.83751,100.698449,6.122006",
     "geom:latitude":5.98373,
     "geom:longitude":100.54648,
@@ -110,12 +110,13 @@
         "wd:id":"Q1884545",
         "wk:page":"Pendang District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054745,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"acd78e72230e772633108ad6fcaa0ff9",
+    "wof:geomhash":"6f500cb6447990d7f5548c15bc99e505",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":890489109,
-    "wof:lastmodified":1690848196,
+    "wof:lastmodified":1695886040,
     "wof:name":"Pendang",
     "wof:parent_id":85675133,
     "wof:placetype":"county",

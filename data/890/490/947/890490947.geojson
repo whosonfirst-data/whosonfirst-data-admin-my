@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050415,
-    "geom:area_square_m":620655508.298656,
+    "geom:area_square_m":620655416.884396,
     "geom:bbox":"102.893723,5.209148,103.188721,5.821278",
     "geom:latitude":5.363546,
     "geom:longitude":103.030638,
@@ -249,12 +249,13 @@
         "wd:id":"Q846502",
         "wk:page":"Kuala Terengganu"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054833,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0bd3e9c2ba38568473db380c46df0577",
+    "wof:geomhash":"b08c4a021270bf57772c2105b667c461",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -264,7 +265,7 @@
         }
     ],
     "wof:id":890490947,
-    "wof:lastmodified":1690848144,
+    "wof:lastmodified":1695886791,
     "wof:name":"Kuala Terengganu",
     "wof:parent_id":85675169,
     "wof:placetype":"county",

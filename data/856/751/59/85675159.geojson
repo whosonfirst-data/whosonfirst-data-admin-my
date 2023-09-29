@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.927824,
-    "geom:area_square_m":36124745875.643394,
+    "geom:area_square_m":36124745383.766792,
     "geom:bbox":"101.330302,2.459385,104.227081,4.781403",
     "geom:latitude":3.729355,
     "geom:longitude":102.548881,
@@ -360,6 +360,7 @@
         "gn:id":1733042,
         "gp:id":2346301,
         "hasc:id":"MY.PH",
+        "iso:code":"MY-06",
         "iso:id":"MY-06",
         "loc:id":"n80046121",
         "qs_pg:id":1311365,
@@ -367,11 +368,12 @@
         "wd:id":"Q191346",
         "wk:page":"Pahang"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fa5ac1863cdccecd510af71956289784",
+    "wof:geomhash":"3e7d33525d3919458ff4397d03c192f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -386,7 +388,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690848110,
+    "wof:lastmodified":1695884899,
     "wof:name":"Pahang",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

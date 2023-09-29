@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047154,
-    "geom:area_square_m":579872091.818671,
+    "geom:area_square_m":579872423.659112,
     "geom:bbox":"101.921286,5.885878,102.222978,6.152377",
     "geom:latitude":5.999547,
     "geom:longitude":102.087304,
@@ -118,9 +118,10 @@
         "hasc:id":"MY.KN.PM",
         "wd:id":"Q5158052"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495015,
-    "wof:geomhash":"6e44e9b90f6744a95e21b1e50f63674c",
+    "wof:geomhash":"cb3ae624511bf6415776d2432a9e864f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108696479,
-    "wof:lastmodified":1690848125,
+    "wof:lastmodified":1695886041,
     "wof:name":"Pasir Mas",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

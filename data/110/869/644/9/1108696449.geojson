@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.319466,
-    "geom:area_square_m":3939153543.944613,
+    "geom:area_square_m":3939153949.319604,
     "geom:bbox":"114.76964,3.806817,115.51321,4.892275",
     "geom:latitude":4.289572,
     "geom:longitude":115.113129,
@@ -97,9 +97,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SK.LI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494989,
-    "wof:geomhash":"5741dbf88027b69e39c81fc31dba22e9",
+    "wof:geomhash":"8f0cfb6eb9e6dc36493f2323dd27dbd3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108696449,
-    "wof:lastmodified":1627522440,
+    "wof:lastmodified":1695886038,
     "wof:name":"Limbang",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

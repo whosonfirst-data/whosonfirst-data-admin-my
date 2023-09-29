@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093711,
-    "geom:area_square_m":1155191541.521826,
+    "geom:area_square_m":1155191541.521698,
     "geom:bbox":"118.235260052,4.31541684,118.792892456,4.808777809",
     "geom:latitude":4.49711,
     "geom:longitude":118.438957,
@@ -106,9 +106,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SA.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495050,
-    "wof:geomhash":"1032bf719f1339fadd48d64017b1f491",
+    "wof:geomhash":"d45b30afae0ac94b5cc77ac39b9a9316",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108696507,
-    "wof:lastmodified":1566643521,
+    "wof:lastmodified":1695886344,
     "wof:name":"Semporna",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01852,
-    "geom:area_square_m":227998111.15909,
+    "geom:area_square_m":227998078.766214,
     "geom:bbox":"100.375336,5.278211,100.533197,5.447824",
     "geom:latitude":5.365132,
     "geom:longitude":100.461702,
@@ -114,12 +114,13 @@
         "wd:id":"Q1884730",
         "wk:page":"Central Seberang Perai District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054768,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b24a0930dafce9ede91308063279e5aa",
+    "wof:geomhash":"da19f70d6a1f332927ca89dce414ec67",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":890489737,
-    "wof:lastmodified":1690848183,
+    "wof:lastmodified":1695886041,
     "wof:name":"Seberang Perai Tengah",
     "wof:parent_id":85675127,
     "wof:placetype":"county",

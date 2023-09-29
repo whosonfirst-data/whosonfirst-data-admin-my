@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.315321,
-    "geom:area_square_m":3883855681.812169,
+    "geom:area_square_m":3883855799.681025,
     "geom:bbox":"102.411705,4.669638,103.224705,5.481824",
     "geom:latitude":5.049043,
     "geom:longitude":102.774702,
@@ -113,12 +113,13 @@
         "wd:id":"Q2219170",
         "wk:page":"Hulu Terengganu District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054710,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7527f21e5eb8efd319cdef091cfd3890",
+    "wof:geomhash":"36b4c6d1747446dfcf0f132daa2f8687",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":890488201,
-    "wof:lastmodified":1690848178,
+    "wof:lastmodified":1695886035,
     "wof:name":"Hulu Terengganu",
     "wof:parent_id":85675169,
     "wof:placetype":"county",

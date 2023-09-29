@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.543616,
-    "geom:area_square_m":19074578327.410469,
+    "geom:area_square_m":19074579302.394173,
     "geom:bbox":"102.469695,1.268694,104.545418,2.834126",
     "geom:latitude":2.049679,
     "geom:longitude":103.3874,
@@ -379,6 +379,7 @@
         "gn:id":1733049,
         "gp:id":2346296,
         "hasc:id":"MY.JH",
+        "iso:code":"MY-01",
         "iso:id":"MY-01",
         "loc:id":"n81012417",
         "qs_pg:id":900718,
@@ -386,11 +387,12 @@
         "wd:id":"Q183032",
         "wk:page":"Johor"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2d403e7616473a5303e54d7fc560c0a9",
+    "wof:geomhash":"5b5509f758376431772c26b4d50af8aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -405,7 +407,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690848115,
+    "wof:lastmodified":1695884522,
     "wof:name":"Johor",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

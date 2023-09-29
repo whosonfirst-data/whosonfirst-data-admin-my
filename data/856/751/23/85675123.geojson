@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.693651,
-    "geom:area_square_m":20868539947.317093,
+    "geom:area_square_m":20868541770.740028,
     "geom:bbox":"100.374527,3.666804,101.752357,5.934389",
     "geom:latitude":4.775933,
     "geom:longitude":101.110539,
@@ -367,17 +367,19 @@
         "gn:id":1733041,
         "gp:id":2346302,
         "hasc:id":"MY.PK",
+        "iso:code":"MY-08",
         "iso:id":"MY-08",
         "qs_pg:id":1075586,
         "unlc:id":"MY-08",
         "wd:id":"Q188953",
         "wk:page":"Perak"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"670c7dd2016549c9a79a53deb2c8abf0",
+    "wof:geomhash":"2f7493f212be6eb4c12eae231d50ad68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -392,7 +394,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690848116,
+    "wof:lastmodified":1695884523,
     "wof:name":"Perak",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110321,
-    "geom:area_square_m":1357429259.598552,
+    "geom:area_square_m":1357429259.598331,
     "geom:bbox":"116.173019653,5.47110111595,116.60507263,5.92449841549",
     "geom:latitude":5.6843,
     "geom:longitude":116.41121,
@@ -85,9 +85,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SA.TM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495066,
-    "wof:geomhash":"e59d0c57b5f41f01c37ef5fbbbf77be6",
+    "wof:geomhash":"1822c5784bd700c31e97f656f42b1558",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108696525,
-    "wof:lastmodified":1566643529,
+    "wof:lastmodified":1695886346,
     "wof:name":"Tambunan",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

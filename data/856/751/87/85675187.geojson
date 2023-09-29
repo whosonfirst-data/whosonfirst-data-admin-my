@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00386,
-    "geom:area_square_m":47663952.354106,
+    "geom:area_square_m":47664022.714658,
     "geom:bbox":"101.657943,2.895207,101.737082,2.977654",
     "geom:latitude":2.940979,
     "geom:longitude":101.692065,
@@ -514,16 +514,18 @@
         "gn:id":1996552,
         "gp:id":28350159,
         "hasc:id":"MY.PJ",
+        "iso:code":"MY-16",
         "iso:id":"MY-16",
         "qs_pg:id":488447,
         "wd:id":"Q182378",
         "wk:page":"Putrajaya"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2bb5f9360f54b2508e9fed79ff6b4494",
+    "wof:geomhash":"baaa1378b52de92ced8e21d2820dcfe9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -538,7 +540,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690848113,
+    "wof:lastmodified":1695884523,
     "wof:name":"Putrajaya",
     "wof:parent_id":85632739,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023614,
-    "geom:area_square_m":290396412.34735,
+    "geom:area_square_m":290396513.368092,
     "geom:bbox":"102.28269,5.884683,102.473227,6.166139",
     "geom:latitude":6.002185,
     "geom:longitude":102.378494,
@@ -112,9 +112,10 @@
         "hasc:id":"MY.KN.BA",
         "wd:id":"Q1836486"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494909,
-    "wof:geomhash":"821e66b4581c30661a17e1364fa4caac",
+    "wof:geomhash":"369ae02d415d522a31ba783402ccaa82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108696377,
-    "wof:lastmodified":1690848127,
+    "wof:lastmodified":1695886034,
     "wof:name":"Bachok",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

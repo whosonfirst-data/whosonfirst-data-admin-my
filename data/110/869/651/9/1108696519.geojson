@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.224509,
-    "geom:area_square_m":2766893204.29886,
+    "geom:area_square_m":2766893204.297548,
     "geom:bbox":"115.447332223,4.117482605,115.884782807,5.1628798718",
     "geom:latitude":4.661258,
     "geom:longitude":115.710759,
@@ -82,9 +82,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SA.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495062,
-    "wof:geomhash":"f9656587d20260faebfef0dfb9f7ddc8",
+    "wof:geomhash":"1fb9af8e5bfa720fa125aae5d473cebb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108696519,
-    "wof:lastmodified":1566643520,
+    "wof:lastmodified":1695886344,
     "wof:name":"Sipitang",
     "wof:parent_id":85675173,
     "wof:placetype":"county",

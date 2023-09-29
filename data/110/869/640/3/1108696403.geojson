@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079671,
-    "geom:area_square_m":984804238.847324,
+    "geom:area_square_m":984804238.847099,
     "geom:bbox":"103.541191101,1.350361109,104.019607544,1.67357010219",
     "geom:latitude":1.522058,
     "geom:longitude":103.778572,
@@ -217,9 +217,10 @@
     "wof:concordances":{
         "hasc:id":"MY.JH.JH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494941,
-    "wof:geomhash":"39c1c97bb080ff953580c7687c2a28f4",
+    "wof:geomhash":"001590c79c870caaafadf2af33c2c740",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -229,7 +230,7 @@
         }
     ],
     "wof:id":1108696403,
-    "wof:lastmodified":1566643525,
+    "wof:lastmodified":1695886345,
     "wof:name":"Johor Bahru",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

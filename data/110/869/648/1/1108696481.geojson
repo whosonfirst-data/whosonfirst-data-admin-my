@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.305135,
-    "geom:area_square_m":3766645287.814773,
+    "geom:area_square_m":3766644808.105274,
     "geom:bbox":"102.772736,2.949474,103.479584,3.659275",
     "geom:latitude":3.336078,
     "geom:longitude":103.185053,
@@ -322,9 +322,10 @@
         "hasc:id":"MY.PH.PE",
         "wd:id":"Q3235637"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495019,
-    "wof:geomhash":"b28ddd5b5de2c02cea25746a6e4f6639",
+    "wof:geomhash":"856c9a7f169eb14aa6c286ca77deb58b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -334,7 +335,7 @@
         }
     ],
     "wof:id":1108696481,
-    "wof:lastmodified":1690848127,
+    "wof:lastmodified":1695886345,
     "wof:name":"Pekan",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

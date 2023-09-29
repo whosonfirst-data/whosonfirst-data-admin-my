@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032337,
-    "geom:area_square_m":399459775.101423,
+    "geom:area_square_m":399459619.381342,
     "geom:bbox":"102.010523,2.419802,102.213911,2.708968",
     "geom:latitude":2.560563,
     "geom:longitude":102.101398,
@@ -290,12 +290,13 @@
         "wd:id":"Q2219158",
         "wk:page":"Rembau"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054828,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"42bd1a95502376b2c5dbe0cf04e23c95",
+    "wof:geomhash":"bc6f202eedb574c62535772885ee4aad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -305,7 +306,7 @@
         }
     ],
     "wof:id":890490863,
-    "wof:lastmodified":1690848155,
+    "wof:lastmodified":1695886792,
     "wof:name":"Rembau",
     "wof:parent_id":85675155,
     "wof:placetype":"county",

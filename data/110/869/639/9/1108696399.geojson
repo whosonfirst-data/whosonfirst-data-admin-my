@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051059,
-    "geom:area_square_m":630319989.267415,
+    "geom:area_square_m":630320011.482922,
     "geom:bbox":"101.432181,3.149603,101.856055,3.401546",
     "geom:latitude":3.282001,
     "geom:longitude":101.64942,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SL.GO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494931,
-    "wof:geomhash":"8b8bf639f27aff4b3b94f3a68a7ffd30",
+    "wof:geomhash":"cb35ad9a3554876180b9f86ffa3400a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108696399,
-    "wof:lastmodified":1627522437,
+    "wof:lastmodified":1695886035,
     "wof:name":"Gombak",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

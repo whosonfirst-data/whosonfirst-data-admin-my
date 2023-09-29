@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019167,
-    "geom:area_square_m":235763147.662102,
+    "geom:area_square_m":235763085.224738,
     "geom:bbox":"100.319557,5.714688,100.468652,5.977714",
     "geom:latitude":5.862618,
     "geom:longitude":100.401676,
@@ -132,12 +132,13 @@
         "wd:id":"Q605393",
         "wk:page":"Yan"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054767,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7fdbb9595ac1cb7a067709bee900f846",
+    "wof:geomhash":"f82ca4eb323b0fa9c6cc01cddc2f4168",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":890489701,
-    "wof:lastmodified":1690848182,
+    "wof:lastmodified":1695886042,
     "wof:name":"Yan",
     "wof:parent_id":85675133,
     "wof:placetype":"county",

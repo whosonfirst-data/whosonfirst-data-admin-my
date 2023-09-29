@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032654,
-    "geom:area_square_m":401523004.860749,
+    "geom:area_square_m":401523004.860641,
     "geom:bbox":"102.143608,5.890167,102.344668,6.208667",
     "geom:latitude":6.046802,
     "geom:longitude":102.262598,
@@ -288,6 +288,7 @@
         "wd:id":"Q651131",
         "wk:page":"Kota Bharu"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         102023655
     ],
@@ -296,7 +297,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"810e688679e1873b5bd3d2cd13157322",
+    "wof:geomhash":"1a7f142a1bddc85e945ce1d6d35dc4dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -306,7 +307,7 @@
         }
     ],
     "wof:id":890489783,
-    "wof:lastmodified":1690848194,
+    "wof:lastmodified":1695886404,
     "wof:name":"Kota Bharu",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077949,
-    "geom:area_square_m":963097585.68144,
+    "geom:area_square_m":963097110.789573,
     "geom:bbox":"102.469695,2.056222,102.828735,2.4828",
     "geom:latitude":2.277638,
     "geom:longitude":102.640747,
@@ -102,9 +102,10 @@
         "hasc:id":"MY.JH.LD",
         "wd:id":"Q2219630"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494988,
-    "wof:geomhash":"8c96c3061b6b44e95f3110e4ede52e51",
+    "wof:geomhash":"d4c38cfaec27b4c730eecba4d02734c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108696447,
-    "wof:lastmodified":1690848123,
+    "wof:lastmodified":1695886038,
     "wof:name":"Ledang",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

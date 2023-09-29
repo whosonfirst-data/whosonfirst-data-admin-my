@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166956,
-    "geom:area_square_m":2064072633.689237,
+    "geom:area_square_m":2064072633.689163,
     "geom:bbox":"110.2764,0.853821,110.871483044,1.3653612093",
     "geom:latitude":1.076797,
     "geom:longitude":110.583852,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SK.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495053,
-    "wof:geomhash":"8e065b364877b0974430e71ef748ce71",
+    "wof:geomhash":"f0a656b329eea4262d6a0edddc7d7767",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108696511,
-    "wof:lastmodified":1566643520,
+    "wof:lastmodified":1695886343,
     "wof:name":"Serian",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

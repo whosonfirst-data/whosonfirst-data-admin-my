@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112343,
-    "geom:area_square_m":1382860943.463359,
+    "geom:area_square_m":1382860780.992243,
     "geom:bbox":"102.592101,5.188102,103.002578,5.729847",
     "geom:latitude":5.451728,
     "geom:longitude":102.789244,
@@ -100,9 +100,10 @@
         "hasc:id":"MY.TE.SE",
         "wd:id":"Q943317"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474495055,
-    "wof:geomhash":"f4aa08a87dc2ccb2a11a472f2a0de086",
+    "wof:geomhash":"885abb0b94ac7d5cc13201517f3210b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108696513,
-    "wof:lastmodified":1690848124,
+    "wof:lastmodified":1695886042,
     "wof:name":"Setiu",
     "wof:parent_id":85675169,
     "wof:placetype":"county",

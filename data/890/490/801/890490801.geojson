@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.207186,
-    "geom:area_square_m":2554752505.939237,
+    "geom:area_square_m":2554751716.321321,
     "geom:bbox":"102.892487,3.884085,103.495392,4.597619",
     "geom:latitude":4.278647,
     "geom:longitude":103.225529,
@@ -200,12 +200,13 @@
         "wd:id":"Q1827701",
         "wk:page":"Kemaman District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054825,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8496ddc08c5ece6bf147f418553da579",
+    "wof:geomhash":"016f77e05d4d87208c9ea7e546154e4f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -215,7 +216,7 @@
         }
     ],
     "wof:id":890490801,
-    "wof:lastmodified":1690848154,
+    "wof:lastmodified":1695886792,
     "wof:name":"Kemaman",
     "wof:parent_id":85675169,
     "wof:placetype":"county",

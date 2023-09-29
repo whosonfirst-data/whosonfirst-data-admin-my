@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055816,
-    "geom:area_square_m":688070576.213976,
+    "geom:area_square_m":688070807.886914,
     "geom:bbox":"101.330302,4.32209,101.608929,4.617063",
     "geom:latitude":4.473162,
     "geom:longitude":101.478367,
@@ -287,9 +287,10 @@
         "hasc:id":"MY.PH.CH",
         "wd:id":"Q1028741"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494925,
-    "wof:geomhash":"cb7b83b11eb32ddc56304243e9c2341d",
+    "wof:geomhash":"58fa35d7f9977fa66880dee20fcc939a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -299,7 +300,7 @@
         }
     ],
     "wof:id":1108696393,
-    "wof:lastmodified":1690848128,
+    "wof:lastmodified":1695886346,
     "wof:name":"Cameron Highlands",
     "wof:parent_id":85675159,
     "wof:placetype":"county",

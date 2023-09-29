@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185877,
-    "geom:area_square_m":2288140179.343537,
+    "geom:area_square_m":2288139616.509924,
     "geom:bbox":"101.78919,5.171118,102.44305,5.681695",
     "geom:latitude":5.416317,
     "geom:longitude":102.16385,
@@ -122,12 +122,13 @@
         "wd:id":"Q2181394",
         "wk:page":"Kuala Krai District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054750,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"748adc5168a04a73164387e84c8e51f8",
+    "wof:geomhash":"e466f85d0ab1d06aa0bd017be2e03371",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":890489265,
-    "wof:lastmodified":1690848202,
+    "wof:lastmodified":1695886038,
     "wof:name":"Kuala Krai",
     "wof:parent_id":85675145,
     "wof:placetype":"county",

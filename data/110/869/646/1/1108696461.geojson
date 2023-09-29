@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061005,
-    "geom:area_square_m":753801944.884742,
+    "geom:area_square_m":753801501.624741,
     "geom:bbox":"111.455464,1.979647,111.796085,2.362608",
     "geom:latitude":2.168659,
     "geom:longitude":111.64088,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SK.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494998,
-    "wof:geomhash":"11a430d711afd1af1de260ddef3a3487",
+    "wof:geomhash":"aec809c13cd52901f88a8e9213c7f346",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108696461,
-    "wof:lastmodified":1627522441,
+    "wof:lastmodified":1695886040,
     "wof:name":"Meradong",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

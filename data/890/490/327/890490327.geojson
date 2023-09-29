@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020827,
-    "geom:area_square_m":256349689.778935,
+    "geom:area_square_m":256349605.489734,
     "geom:bbox":"100.345899,5.392083,100.529639,5.583133",
     "geom:latitude":5.499639,
     "geom:longitude":100.447224,
@@ -111,12 +111,13 @@
         "wd:id":"Q1884752",
         "wk:page":"North Seberang Perai District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054800,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b2d06f490d3e7e54bd834b3b810254a",
+    "wof:geomhash":"0400823dc5905e8ddea9fc1ec7397141",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":890490327,
-    "wof:lastmodified":1690848155,
+    "wof:lastmodified":1695886041,
     "wof:name":"Seberang Perai Utara",
     "wof:parent_id":85675127,
     "wof:placetype":"county",

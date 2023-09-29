@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111392,
-    "geom:area_square_m":1376434236.511328,
+    "geom:area_square_m":1376434631.972492,
     "geom:bbox":"102.548721,1.867056,103.024163,2.41289",
     "geom:latitude":2.128986,
     "geom:longitude":102.786522,
@@ -149,12 +149,13 @@
         "qs_pg:id":558773,
         "wd:id":"Q1941846"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054730,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e24cac143c51ba3bb3ccd545ed773fc9",
+    "wof:geomhash":"2144cda1075bc7e425d85f2b97c717e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":890488721,
-    "wof:lastmodified":1690848180,
+    "wof:lastmodified":1695886793,
     "wof:name":"Muar",
     "wof:parent_id":85675141,
     "wof:placetype":"county",

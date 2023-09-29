@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070672,
-    "geom:area_square_m":870527574.743546,
+    "geom:area_square_m":870527810.211766,
     "geom:bbox":"100.374527,4.839603,100.739142,5.139916",
     "geom:latitude":5.011674,
     "geom:longitude":100.565297,
@@ -116,12 +116,13 @@
         "wd:id":"Q2674376",
         "wk:page":"Kerian District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054770,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"24d7f97a710100ab1041c1335f2e70ed",
+    "wof:geomhash":"d96aaa7708b7778c120ee0a8089bd493",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":890489801,
-    "wof:lastmodified":1690848203,
+    "wof:lastmodified":1695886036,
     "wof:name":"Kerian",
     "wof:parent_id":85675123,
     "wof:placetype":"county",

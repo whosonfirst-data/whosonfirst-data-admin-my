@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083704,
-    "geom:area_square_m":1033838526.47916,
+    "geom:area_square_m":1033838653.025398,
     "geom:bbox":"102.047607,2.536427,102.39915,2.910946",
     "geom:latitude":2.728423,
     "geom:longitude":102.221472,
@@ -120,12 +120,13 @@
         "wd:id":"Q2929940",
         "wk:page":"Kuala Pilah District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054824,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bcb7d5ea04c21b0e78d7a5836aaf5aba",
+    "wof:geomhash":"44703ce95fcf24cfb1150e04a0a386a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":890490777,
-    "wof:lastmodified":1690848145,
+    "wof:lastmodified":1695886791,
     "wof:name":"Kuala Pilah",
     "wof:parent_id":85675155,
     "wof:placetype":"county",

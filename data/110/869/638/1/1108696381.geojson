@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073642,
-    "geom:area_square_m":910338305.913796,
+    "geom:area_square_m":910338172.459703,
     "geom:bbox":"109.930892,1.193787,110.284011,1.567963",
     "geom:latitude":1.38131,
     "geom:longitude":110.117185,
@@ -100,9 +100,10 @@
     "wof:concordances":{
         "hasc:id":"MY.SK.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1474494915,
-    "wof:geomhash":"366fb0c5d4abc02d367a8e3845f1f36f",
+    "wof:geomhash":"104303d2be3f87369a6cd163d13f4697",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108696381,
-    "wof:lastmodified":1627522437,
+    "wof:lastmodified":1695886035,
     "wof:name":"Bau",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

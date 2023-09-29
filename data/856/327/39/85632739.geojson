@@ -1267,6 +1267,7 @@
         "hasc:id":"MY",
         "icao:code":"9M",
         "ioc:id":"MAS",
+        "iso:code":"MY",
         "itu:id":"MLA",
         "loc:id":"n79022246",
         "m49:code":"458",
@@ -1281,6 +1282,7 @@
         "wk:page":"Malaysia",
         "wmo:id":"MS"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MY",
     "wof:country_alpha3":"MYS",
     "wof:geom_alt":[
@@ -1299,7 +1301,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1694639538,
+    "wof:lastmodified":1695881196,
     "wof:name":"Malaysia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

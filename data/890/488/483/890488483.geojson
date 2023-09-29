@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.389985,
-    "geom:area_square_m":4811210918.198416,
+    "geom:area_square_m":4811210520.841217,
     "geom:bbox":"113.418724,3.299286,114.222016,4.598599",
     "geom:latitude":3.863524,
     "geom:longitude":113.827259,
@@ -105,12 +105,13 @@
         "wd:id":"Q19646293",
         "wk:page":"Miri District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054721,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"981a1b12fd985e1109a3349856d4bb56",
+    "wof:geomhash":"4aaee1ebe15842d69daae470ddeb1ff4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":890488483,
-    "wof:lastmodified":1690848163,
+    "wof:lastmodified":1695886793,
     "wof:name":"Miri",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

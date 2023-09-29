@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078964,
-    "geom:area_square_m":974397271.394725,
+    "geom:area_square_m":974397083.472037,
     "geom:bbox":"100.809608,3.486944,101.352648,3.870599",
     "geom:latitude":3.677529,
     "geom:longitude":101.094119,
@@ -135,12 +135,13 @@
         "wd:id":"Q2198128",
         "wk:page":"Sabak Bernam District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054825,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f0ccebbc5aa661142318b956b5b7b83d",
+    "wof:geomhash":"fc8c426cfa3a839ae8147c1998c02897",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":890490813,
-    "wof:lastmodified":1690848151,
+    "wof:lastmodified":1695886041,
     "wof:name":"Sabak Bernam",
     "wof:parent_id":85675163,
     "wof:placetype":"county",

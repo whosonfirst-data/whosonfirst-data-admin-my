@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.187829,
-    "geom:area_square_m":2317270387.871634,
+    "geom:area_square_m":2317270645.848371,
     "geom:bbox":"101.554805,3.555072,102.106321,4.116676",
     "geom:latitude":3.859418,
     "geom:longitude":101.833126,
@@ -167,12 +167,13 @@
         "wd:id":"Q2352205",
         "wk:page":"Raub District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MY",
     "wof:created":1469054823,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ac82b316f3ba87d0185a0e0ddf5b3f34",
+    "wof:geomhash":"bf3c9b3fd9bd76cf6606e535c8fd4241",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":890490737,
-    "wof:lastmodified":1690848133,
+    "wof:lastmodified":1695886792,
     "wof:name":"Raub",
     "wof:parent_id":85675159,
     "wof:placetype":"county",
