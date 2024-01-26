@@ -11,6 +11,7 @@
     "geom:longitude":101.743693,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.737238,3.084254,101.747238,3.094254",
     "lbl:latitude":3.089198,
     "lbl:longitude":101.741484,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
         "Taman Taynton"
@@ -65,10 +67,29 @@
     "qs:woe_lau":56013690,
     "qs:woe_local":1154781,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Taman Taynton View",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Kuala Lumpur",
+    "qs_pg:photos":65,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":65,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1190998,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":56017191,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":117,
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Kuala Lumpur",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -81,6 +102,14 @@
         "gp:id":56017191,
         "qs_pg:id":1190998,
         "wd:id":"Q7680661"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            56017191
+        ],
+        "qs_pg:id":[
+            1190998
+        ]
     },
     "wof:country":"MY",
     "wof:geomhash":"863b45ab7e38866e3a0fb5aa2ee6619e",
@@ -98,13 +127,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690848104,
+    "wof:lastmodified":1706240534,
     "wof:name":"Taman Taynton View",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126071237
+    ],
     "wof:tags":[]
 },
   "bbox": [

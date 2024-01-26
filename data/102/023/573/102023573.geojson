@@ -9,10 +9,21 @@
     "geom:bbox":"110.189375,1.347638,110.503985,1.772074",
     "geom:latitude":1.537541,
     "geom:longitude":110.34281,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kuching",
+    "gn:country_code":"MY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734470,
     "gn:latitude":1.55,
     "gn:longitude":110.33333,
+    "gn:modification_date":"2010-04-14",
+    "gn:name":"Kuching",
     "gn:population":570407,
+    "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"110.32187,1.50143,110.36187,1.54143",
     "lbl:latitude":1.540847,
     "lbl:longitude":110.353696,
     "lbl:max_zoom":13.0,
@@ -512,6 +523,11 @@
         "wd:id":"Q220445",
         "wk:page":"Kuching"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1734470
+        ]
+    },
     "wof:country":"MY",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -527,7 +543,7 @@
         }
     ],
     "wof:id":102023573,
-    "wof:lastmodified":1690848039,
+    "wof:lastmodified":1706240535,
     "wof:name":"Kuching",
     "wof:parent_id":890488875,
     "wof:placetype":"locality",
@@ -535,7 +551,9 @@
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309700447
+    ],
     "wof:tags":[]
 },
   "bbox": [

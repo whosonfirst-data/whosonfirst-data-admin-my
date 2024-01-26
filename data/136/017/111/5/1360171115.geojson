@@ -32,6 +32,9 @@
     "name:msa_x_preferred":[
         "Kampung Darau"
     ],
+    "name:und_x_variant":[
+        "Kampong Dara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6861599
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1769680
+        ]
     },
     "wof:country":"MY",
     "wof:geomhash":"3fcc40bf718be510d62021d020d41a42",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1360171115,
-    "wof:lastmodified":1566643760,
+    "wof:lastmodified":1706240536,
     "wof:name":"Kampung Darau",
     "wof:parent_id":890488399,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360261441
+    ],
     "wof:tags":[]
 },
   "bbox": [

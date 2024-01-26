@@ -11,6 +11,7 @@
     "geom:longitude":100.66127,
     "gn:admin1_code":"2.0",
     "gn:asciiname":"Kampung Seribu Relong",
+    "gn:cc2":"MY",
     "gn:country_code":"MY",
     "gn:dem":27,
     "gn:feature_class":"P",
@@ -32,6 +33,9 @@
     "name:msa_x_preferred":[
         "Kampung Seribu Relong"
     ],
+    "name:und_x_variant":[
+        "Kampong Seribu Relong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6857842
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1764486
+        ]
     },
     "wof:country":"MY",
     "wof:geomhash":"3260f0e68f9c6500e521b7cf566a1681",
@@ -55,13 +64,15 @@
         }
     ],
     "wof:id":1276121047,
-    "wof:lastmodified":1566643046,
+    "wof:lastmodified":1706240536,
     "wof:name":"Kampung Seribu Relong",
     "wof:parent_id":890490371,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343362173
+    ],
     "wof:tags":[]
 },
   "bbox": [
