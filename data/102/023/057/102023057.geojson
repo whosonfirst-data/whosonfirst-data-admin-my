@@ -9,9 +9,21 @@
     "geom:bbox":"102.323168,2.412727,102.352125,2.46373",
     "geom:latitude":2.436413,
     "geom:longitude":102.340413,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampung Tebong",
+    "gn:country_code":"MY",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698194,
     "gn:latitude":2.4382,
     "gn:longitude":102.3269,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kampung Tebong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"102.3198,2.4338,102.3598,2.4738",
     "lbl:latitude":2.430543,
     "lbl:longitude":102.34072,
     "lbl:max_zoom":18.0,
@@ -106,6 +118,11 @@
         "gp:id":1155197,
         "wd:id":"Q2219146"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7698194
+        ]
+    },
     "wof:country":"MY",
     "wof:geomhash":"a72cf8f565b74e002b24e4080499d7c9",
     "wof:hierarchy":[
@@ -118,13 +135,15 @@
         }
     ],
     "wof:id":102023057,
-    "wof:lastmodified":1690848060,
+    "wof:lastmodified":1706240535,
     "wof:name":"Kampung Tebong",
     "wof:parent_id":890489809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226748073
+    ],
     "wof:tags":[]
 },
   "bbox": [

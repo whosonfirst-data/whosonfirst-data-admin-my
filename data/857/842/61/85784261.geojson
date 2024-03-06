@@ -10,7 +10,9 @@
     "geom:latitude":3.201045,
     "geom:longitude":101.738258,
     "gn:id":"",
+    "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"101.748311,3.186893,101.758311,3.196893",
     "lbl:latitude":3.201277,
     "lbl:longitude":101.738752,
     "lbl:max_zoom":18.0,
@@ -60,7 +62,14 @@
     "qs:name_local":"Kuala Lumpur",
     "qs:photo_max":126,
     "qs:photo_sum":480,
+    "qs:photos":69,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":69,
+    "qs:photos_sr":2,
     "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
     "qs:quad_count":18,
     "qs:woe_adm0":23424901,
     "qs:woe_adm1":56014685,
@@ -85,7 +94,19 @@
     "wof:concordances":{
         "gp:id":56017358,
         "qs_pg:id":481815,
-        "wd:id":"Q7967900"
+        "wd:id":"Q7967900",
+        "wk:page":"Wangsa Maju"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            56017357
+        ],
+        "qs_pg:id":[
+            481812
+        ],
+        "wd:id":[
+            "Q7967900"
+        ]
     },
     "wof:country":"MY",
     "wof:geom_alt":[
@@ -106,13 +127,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690848098,
+    "wof:lastmodified":1706240535,
     "wof:name":"Wangsa Maju",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890489037
+    ],
     "wof:tags":[]
 },
   "bbox": [

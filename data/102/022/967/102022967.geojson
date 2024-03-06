@@ -9,9 +9,22 @@
     "geom:bbox":"100.623779,5.019811,100.660263,5.061685",
     "geom:latitude":5.040607,
     "geom:longitude":100.644452,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bukit Merah Pekan",
+    "gn:cc2":"MY",
+    "gn:country_code":"MY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1734411,
     "gn:latitude":5.03782,
     "gn:longitude":100.6489,
+    "gn:modification_date":"2018-04-11",
+    "gn:name":"Bukit Merah Pekan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuala_Lumpur",
     "iso:country":"MY",
+    "lbl:bbox":"100.6289,5.01782,100.6689,5.05782",
     "lbl:latitude":5.037946,
     "lbl:longitude":100.644798,
     "lbl:max_zoom":18.0,
@@ -186,7 +199,13 @@
         "gn:id":1735079,
         "gp:id":1154625,
         "qs_pg:id":390792,
-        "wd:id":"Q2158697"
+        "wd:id":"Q2158697",
+        "wk:page":"Bukit_Merah,_Perak"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1734411
+        ]
     },
     "wof:country":"MY",
     "wof:geom_alt":[
@@ -203,13 +222,15 @@
         }
     ],
     "wof:id":102022967,
-    "wof:lastmodified":1690848085,
+    "wof:lastmodified":1706240535,
     "wof:name":"Bukit Merah Pekan",
     "wof:parent_id":890489801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209211655
+    ],
     "wof:tags":[]
 },
   "bbox": [

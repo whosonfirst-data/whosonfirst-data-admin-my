@@ -11,6 +11,7 @@
     "geom:longitude":100.51675,
     "gn:admin1_code":"2.0",
     "gn:asciiname":"Kampung Bukit Bubus",
+    "gn:cc2":"MY",
     "gn:country_code":"MY",
     "gn:dem":17,
     "gn:feature_class":"P",
@@ -32,6 +33,9 @@
     "name:msa_x_preferred":[
         "Kampung Bukit Bubus"
     ],
+    "name:und_x_variant":[
+        "Kampong Bukit Bubus"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6853445
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1770317
+        ]
     },
     "wof:country":"MY",
     "wof:geomhash":"b4fc63dc38d033e36b32b2321226b775",
@@ -55,13 +64,15 @@
         }
     ],
     "wof:id":1225957139,
-    "wof:lastmodified":1566644439,
+    "wof:lastmodified":1706240536,
     "wof:name":"Kampung Bukit Bubus",
     "wof:parent_id":890489109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276550445
+    ],
     "wof:tags":[]
 },
   "bbox": [

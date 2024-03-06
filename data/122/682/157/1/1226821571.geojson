@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1736634
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7418718
+        ]
+    },
     "wof:country":"MY",
     "wof:geomhash":"5ae749a24b35ca28083280821f54e61a",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1226821571,
-    "wof:lastmodified":1566644574,
+    "wof:lastmodified":1706240536,
     "wof:name":"Kampung Poring",
     "wof:parent_id":1108696385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310277449
+    ],
     "wof:tags":[]
 },
   "bbox": [

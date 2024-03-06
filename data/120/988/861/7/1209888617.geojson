@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":7064146
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1766928
+        ]
+    },
     "wof:country":"MY",
     "wof:geomhash":"17c3fa081913490e42437e4b2e9cd70c",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1209888617,
-    "wof:lastmodified":1566643327,
+    "wof:lastmodified":1706240536,
     "wof:name":"Kampong Membalua",
     "wof:parent_id":1108696533,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309778569
+    ],
     "wof:tags":[]
 },
   "bbox": [

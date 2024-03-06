@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":2,
     "name:und_x_variant":[
         "Kg. Bukit Bharu"
@@ -50,11 +51,30 @@
     "qs:woe_lau":56014343,
     "qs:woe_local":1140655,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Kg. Bukit Bharu",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Selangor",
+    "qs_pg:photos":93,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":93,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1092073,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":56015468,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Selangor",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85675181,
         102191569,
@@ -66,6 +86,14 @@
     "wof:concordances":{
         "gp:id":56015468,
         "qs_pg:id":1092073
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            56015468
+        ],
+        "qs_pg:id":[
+            1092073
+        ]
     },
     "wof:country":"MY",
     "wof:geom_alt":[
@@ -86,13 +114,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582348024,
+    "wof:lastmodified":1706240534,
     "wof:name":"Kg. Bukit Bharu",
     "wof:parent_id":102023407,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126096373
+    ],
     "wof:tags":[]
 },
   "bbox": [

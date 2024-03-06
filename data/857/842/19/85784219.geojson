@@ -11,6 +11,7 @@
     "geom:longitude":101.644833,
     "gn:id":"",
     "iso:country":"MY",
+    "lbl:bbox":"101.6393985,3.109387,101.6493985,3.119387",
     "lbl:latitude":3.115249,
     "lbl:longitude":101.644234,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "name:ara_x_preferred":[
         "\u062c\u0627\u0645\u0639\u0629 \u0645\u0627\u0644\u0627\u064a\u0627"
@@ -185,10 +187,29 @@
     "qs:woe_lau":56013690,
     "qs:woe_local":1154781,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Universiti Malaya",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Kuala Lumpur",
+    "qs_pg:photos":1158,
+    "qs_pg:photos_1k":235,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1158,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1291227,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":56017349,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":3297,
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Kuala Lumpur",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85675163,
         102191569,
@@ -201,6 +222,14 @@
         "gp:id":56017349,
         "qs_pg:id":1291227,
         "wd:id":"Q1142924"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            56017349
+        ],
+        "qs_pg:id":[
+            1291227
+        ]
     },
     "wof:country":"MY",
     "wof:geomhash":"3776aad9e5dde2e9547750e3062637d4",
@@ -218,13 +247,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690848099,
+    "wof:lastmodified":1706240535,
     "wof:name":"Universiti Malaya",
     "wof:parent_id":102023395,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126080673
+    ],
     "wof:tags":[]
 },
   "bbox": [

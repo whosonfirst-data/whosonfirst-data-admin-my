@@ -9,9 +9,23 @@
     "geom:bbox":"116.341678,5.653406,116.414671,5.753487",
     "geom:latitude":5.701643,
     "geom:longitude":116.378325,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1734148",
+    "gn:admin3_code":"1733484.0",
+    "gn:asciiname":"Tambunan",
+    "gn:country_code":"MY",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1741918,
     "gn:latitude":5.71667,
     "gn:longitude":116.4,
+    "gn:modification_date":"2015-04-14",
+    "gn:name":"Tambunan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuching",
     "iso:country":"MY",
+    "lbl:bbox":"116.34667,5.64667,116.38667,5.68667",
     "lbl:latitude":5.674194,
     "lbl:longitude":116.363675,
     "lbl:max_zoom":18.0,
@@ -93,6 +107,11 @@
         "qs_pg:id":183670,
         "wd:id":"Q1891105"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1741918
+        ]
+    },
     "wof:country":"MY",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -108,13 +127,15 @@
         }
     ],
     "wof:id":102022889,
-    "wof:lastmodified":1690848077,
+    "wof:lastmodified":1706240535,
     "wof:name":"Tambunan",
     "wof:parent_id":1108696525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193119315
+    ],
     "wof:tags":[]
 },
   "bbox": [

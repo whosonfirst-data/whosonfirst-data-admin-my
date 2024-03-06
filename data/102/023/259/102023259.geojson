@@ -11,7 +11,9 @@
     "geom:longitude":104.149508,
     "gn:latitude":2.7972,
     "gn:longitude":104.166,
+    "gp:adm0":23424901,
     "iso:country":"MY",
+    "lbl:bbox":"104.13805,2.79903,104.17805,2.83903",
     "lbl:latitude":2.836544,
     "lbl:longitude":104.152975,
     "lbl:max_zoom":18.0,
@@ -100,7 +102,18 @@
     "qs:level":"locality",
     "qs:loc":"Pulau Tioman",
     "qs:loc_lc":"1734910",
+    "qs:name":"Pulau Tioman",
+    "qs:name_adm0":"Malaysia",
+    "qs:name_adm1":"Pahang",
+    "qs:photos":635,
+    "qs:photos_1k":129,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":635,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Squattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
@@ -110,8 +123,14 @@
     "wof:concordances":{
         "gn:id":1734910,
         "gp:id":56036181,
+        "qs_pg:id":1092120,
         "wd:id":"Q771765",
         "wk:page":"Tioman Island"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            56036180
+        ]
     },
     "wof:country":"MY",
     "wof:geomhash":"ec44bb4c1487033d527b4819a28bd345",
@@ -124,13 +143,15 @@
         }
     ],
     "wof:id":102023259,
-    "wof:lastmodified":1690848026,
+    "wof:lastmodified":1706240535,
     "wof:name":"Pulau Tioman",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890489747
+    ],
     "wof:tags":[]
 },
   "bbox": [

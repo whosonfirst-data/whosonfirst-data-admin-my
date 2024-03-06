@@ -11,6 +11,7 @@
     "geom:longitude":100.50611,
     "gn:admin1_code":"2.0",
     "gn:asciiname":"Kampung Sungai Tok Pawang",
+    "gn:cc2":"MY",
     "gn:country_code":"MY",
     "gn:dem":25,
     "gn:feature_class":"P",
@@ -32,6 +33,9 @@
     "name:msa_x_preferred":[
         "Kampung Sungai Tok Pawang"
     ],
+    "name:und_x_variant":[
+        "Kampong Sungai Tok Pawang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6856255
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1763742
+        ]
     },
     "wof:country":"MY",
     "wof:geomhash":"ea2e2a351c4e1117dfa9c29f174843c9",
@@ -55,13 +64,15 @@
         }
     ],
     "wof:id":1260195691,
-    "wof:lastmodified":1566643505,
+    "wof:lastmodified":1706240536,
     "wof:name":"Kampung Sungai Tok Pawang",
     "wof:parent_id":890490355,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310510111
+    ],
     "wof:tags":[]
 },
   "bbox": [
