@@ -55,11 +55,6 @@
     "name:eng_x_preferred":[
         "Kangar"
     ],
-    "name:eng_x_variant":[
-        "Perlis",
-        "Poelit",
-        "Polit"
-    ],
     "name:epo_x_preferred":[
         "Kangar"
     ],
@@ -301,8 +296,8 @@
     "wof:belongsto":[
         102191569,
         85632739,
-        85675137,
-        1108696407
+        1108696407,
+        85675137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -331,7 +326,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690848029,
+    "wof:lastmodified":1773325528,
     "wof:name":"Kangar",
     "wof:parent_id":1108696407,
     "wof:placetype":"locality",
