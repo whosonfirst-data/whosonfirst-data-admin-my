@@ -647,8 +647,7 @@
     "wof:belongsto":[
         102191569,
         85632739,
-        85675181,
-        890490945
+        85675181
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -677,7 +676,6 @@
         {
             "continent_id":102191569,
             "country_id":85632739,
-            "county_id":890490945,
             "locality_id":102023407,
             "region_id":85675181
         }
@@ -689,7 +687,7 @@
     "wof:lastmodified":1690848030,
     "wof:megacity":1,
     "wof:name":"Kuala Lumpur",
-    "wof:parent_id":890490945,
+    "wof:parent_id":85675181,
     "wof:placetype":"locality",
     "wof:population":1453975,
     "wof:population_rank":12,

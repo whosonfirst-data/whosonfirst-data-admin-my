@@ -83,8 +83,7 @@
     "wof:belongsto":[
         102191569,
         85632739,
-        85675181,
-        890490945
+        85675181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +99,6 @@
         {
             "continent_id":102191569,
             "country_id":85632739,
-            "county_id":890490945,
             "localadmin_id":890489829,
             "region_id":85675181
         }
@@ -108,7 +106,7 @@
     "wof:id":890489829,
     "wof:lastmodified":1690848185,
     "wof:name":"Petaling",
-    "wof:parent_id":890490945,
+    "wof:parent_id":85675181,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],

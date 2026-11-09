@@ -63,8 +63,7 @@
     "wof:belongsto":[
         102191569,
         85632739,
-        85675181,
-        890490945
+        85675181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +77,6 @@
         {
             "continent_id":102191569,
             "country_id":85632739,
-            "county_id":890490945,
             "locality_id":102023421,
             "region_id":85675181
         }
@@ -86,7 +84,7 @@
     "wof:id":102023421,
     "wof:lastmodified":1690848049,
     "wof:name":"Sungai Besi",
-    "wof:parent_id":890490945,
+    "wof:parent_id":85675181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
