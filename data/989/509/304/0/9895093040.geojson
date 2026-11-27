@@ -1,0 +1,75 @@
+{
+  "id": 9895093040,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.52461,3.18523,101.52461,3.18523",
+    "geom:latitude":3.18523,
+    "geom:longitude":101.52461,
+    "gn:population":45000,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12622018: name \"Elmina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12622018"
+        },
+        {
+            "citation":"GeoNames populated place 12622018: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12622018"
+        },
+        {
+            "citation":"GeoNames populated place 12622018: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12622018"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890490605 (Petaling), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675163,
+        102191569,
+        890490605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12622018
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"382ea6c740e8fbace495348b5975da2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490605,
+            "locality_id":9895093040,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":9895093040,
+    "wof:lastmodified":1795747120,
+    "wof:name":"Elmina",
+    "wof:parent_id":890490605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.52461,
+    3.18523,
+    101.52461,
+    3.18523
+],
+  "geometry": {"coordinates":[101.52461,3.18523],"type":"Point"}
+}

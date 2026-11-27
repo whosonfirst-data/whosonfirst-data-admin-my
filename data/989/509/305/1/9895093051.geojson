@@ -1,0 +1,75 @@
+{
+  "id": 9895093051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.97135,2.24026,111.97135,2.24026",
+    "geom:latitude":2.24026,
+    "geom:longitude":111.97135,
+    "gn:population":35000,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118085: name \"Sibu Jaya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118085"
+        },
+        {
+            "citation":"GeoNames populated place 13118085: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118085"
+        },
+        {
+            "citation":"GeoNames populated place 13118085: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118085"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890488423 (Sibu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675177,
+        102191569,
+        890488423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118085
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"9c740d3e52db10814e3ec295a9d7c0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488423,
+            "locality_id":9895093051,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":9895093051,
+    "wof:lastmodified":1795747120,
+    "wof:name":"Sibu Jaya",
+    "wof:parent_id":890488423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.97135,
+    2.24026,
+    111.97135,
+    2.24026
+],
+  "geometry": {"coordinates":[111.97135,2.24026],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895093055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8721,2.67375,101.8721,2.67375",
+    "geom:latitude":2.67375,
+    "geom:longitude":101.8721,
+    "gn:population":26127,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118149: name \"Bandar Sri Sendayan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118149"
+        },
+        {
+            "citation":"GeoNames populated place 13118149: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118149"
+        },
+        {
+            "citation":"GeoNames populated place 13118149: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118149"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890489719 (Seremban), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675155,
+        102191569,
+        890489719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118149
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"1477b851bd87493f600a95d25f943fb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489719,
+            "locality_id":9895093055,
+            "region_id":85675155
+        }
+    ],
+    "wof:id":9895093055,
+    "wof:lastmodified":1795747120,
+    "wof:name":"Bandar Sri Sendayan",
+    "wof:parent_id":890489719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8721,
+    2.67375,
+    101.8721,
+    2.67375
+],
+  "geometry": {"coordinates":[101.8721,2.67375],"type":"Point"}
+}

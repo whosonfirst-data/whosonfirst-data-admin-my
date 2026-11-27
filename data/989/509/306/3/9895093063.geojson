@@ -1,0 +1,75 @@
+{
+  "id": 9895093063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.9166,1.51219,103.9166,1.51219",
+    "geom:latitude":1.51219,
+    "geom:longitude":103.9166,
+    "gn:population":30000,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118271: name \"Taman Scientex\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118271"
+        },
+        {
+            "citation":"GeoNames populated place 13118271: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118271"
+        },
+        {
+            "citation":"GeoNames populated place 13118271: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118271"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108696403 (Johor Bahru), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675141,
+        102191569,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118271
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"0870426a8b43669b3db0ee3e327ee59a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":9895093063,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":9895093063,
+    "wof:lastmodified":1795747120,
+    "wof:name":"Taman Scientex",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9166,
+    1.51219,
+    103.9166,
+    1.51219
+],
+  "geometry": {"coordinates":[103.9166,1.51219],"type":"Point"}
+}

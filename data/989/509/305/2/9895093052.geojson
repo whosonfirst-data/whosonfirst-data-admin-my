@@ -1,0 +1,75 @@
+{
+  "id": 9895093052,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.04991,5.91161,116.04991,5.91161",
+    "geom:latitude":5.91161,
+    "geom:longitude":116.04991,
+    "gn:population":35844,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118086: name \"Petagas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118086"
+        },
+        {
+            "citation":"GeoNames populated place 13118086: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118086"
+        },
+        {
+            "citation":"GeoNames populated place 13118086: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118086"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108696541 (Tuaran), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675173,
+        102191569,
+        1108696541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118086
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"8252bfbfe433770500845ea69ef79977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696541,
+            "locality_id":9895093052,
+            "region_id":85675173
+        }
+    ],
+    "wof:id":9895093052,
+    "wof:lastmodified":1795747120,
+    "wof:name":"Petagas",
+    "wof:parent_id":1108696541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.04991,
+    5.91161,
+    116.04991,
+    5.91161
+],
+  "geometry": {"coordinates":[116.04991,5.91161],"type":"Point"}
+}

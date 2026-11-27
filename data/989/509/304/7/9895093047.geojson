@@ -1,0 +1,73 @@
+{
+  "id": 9895093047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.69086,3.08469,101.69086,3.08469",
+    "geom:latitude":3.08469,
+    "geom:longitude":101.69086,
+    "gn:population":50000,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12750614: name \"Kuchai Lama\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12750614"
+        },
+        {
+            "citation":"GeoNames populated place 12750614: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12750614"
+        },
+        {
+            "citation":"GeoNames populated place 12750614: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12750614"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85675181 (Kuala Lumpur), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675181,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12750614
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"883e9e8900ee709c269c692ed514c186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "locality_id":9895093047,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":9895093047,
+    "wof:lastmodified":1795747120,
+    "wof:name":"Kuchai Lama",
+    "wof:parent_id":85675181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.69086,
+    3.08469,
+    101.69086,
+    3.08469
+],
+  "geometry": {"coordinates":[101.69086,3.08469],"type":"Point"}
+}

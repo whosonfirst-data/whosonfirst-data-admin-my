@@ -1,0 +1,75 @@
+{
+  "id": 9895093043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.70484,3.23208,101.70484,3.23208",
+    "geom:latitude":3.23208,
+    "geom:longitude":101.70484,
+    "gn:population":41699,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12648574: name \"Taman Greenwood\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12648574"
+        },
+        {
+            "citation":"GeoNames populated place 12648574: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12648574"
+        },
+        {
+            "citation":"GeoNames populated place 12648574: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12648574"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108696399 (Gombak), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675163,
+        102191569,
+        1108696399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12648574
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2a3ccd23f5a69f7208c5c76f64ddf2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696399,
+            "locality_id":9895093043,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":9895093043,
+    "wof:lastmodified":1795747120,
+    "wof:name":"Taman Greenwood",
+    "wof:parent_id":1108696399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.70484,
+    3.23208,
+    101.70484,
+    3.23208
+],
+  "geometry": {"coordinates":[101.70484,3.23208],"type":"Point"}
+}

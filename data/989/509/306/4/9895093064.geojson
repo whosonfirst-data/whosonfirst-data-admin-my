@@ -1,0 +1,75 @@
+{
+  "id": 9895093064,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.87525,1.50434,103.87525,1.50434",
+    "geom:latitude":1.50434,
+    "geom:longitude":103.87525,
+    "gn:population":220000,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118272: name \"Bandar Seri Alam\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118272"
+        },
+        {
+            "citation":"GeoNames populated place 13118272: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118272"
+        },
+        {
+            "citation":"GeoNames populated place 13118272: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118272"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108696403 (Johor Bahru), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675141,
+        102191569,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118272
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"215c7da06a1a2ec8ed66d24e95814e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":9895093064,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":9895093064,
+    "wof:lastmodified":1795747120,
+    "wof:name":"Bandar Seri Alam",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.87525,
+    1.50434,
+    103.87525,
+    1.50434
+],
+  "geometry": {"coordinates":[103.87525,1.50434],"type":"Point"}
+}
