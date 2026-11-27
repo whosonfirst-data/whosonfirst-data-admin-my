@@ -1,0 +1,75 @@
+{
+  "id": 9895093038,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.59184,3.19893,101.59184,3.19893",
+    "geom:latitude":3.19893,
+    "geom:longitude":101.59184,
+    "gn:population":85000,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12514620: name \"Damansara Damai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12514620"
+        },
+        {
+            "citation":"GeoNames populated place 12514620: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12514620"
+        },
+        {
+            "citation":"GeoNames populated place 12514620: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12514620"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890490605 (Petaling), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675163,
+        102191569,
+        890490605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12514620
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"550b9049df621d2493df3413a9a8fe75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490605,
+            "locality_id":9895093038,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":9895093038,
+    "wof:lastmodified":1795747120,
+    "wof:name":"Damansara Damai",
+    "wof:parent_id":890490605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.59184,
+    3.19893,
+    101.59184,
+    3.19893
+],
+  "geometry": {"coordinates":[101.59184,3.19893],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895093057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7408,3.06028,101.7408,3.06028",
+    "geom:latitude":3.06028,
+    "geom:longitude":101.7408,
+    "gn:population":35000,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118197: name \"Alam Damai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118197"
+        },
+        {
+            "citation":"GeoNames populated place 13118197: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118197"
+        },
+        {
+            "citation":"GeoNames populated place 13118197: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118197"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85675181 (Kuala Lumpur), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675181,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118197
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"59c455ababbffbebe33984e3569f7e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "locality_id":9895093057,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":9895093057,
+    "wof:lastmodified":1795747120,
+    "wof:name":"Alam Damai",
+    "wof:parent_id":85675181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7408,
+    3.06028,
+    101.7408,
+    3.06028
+],
+  "geometry": {"coordinates":[101.7408,3.06028],"type":"Point"}
+}

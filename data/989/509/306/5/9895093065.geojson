@@ -1,0 +1,75 @@
+{
+  "id": 9895093065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.94343,3.37457,102.94343,3.37457",
+    "geom:latitude":3.37457,
+    "geom:longitude":102.94343,
+    "gn:population":18493,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118274: name \"FELDA Chini\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118274"
+        },
+        {
+            "citation":"GeoNames populated place 13118274: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118274"
+        },
+        {
+            "citation":"GeoNames populated place 13118274: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118274"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108696481 (Pekan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675159,
+        102191569,
+        1108696481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118274
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"22678684ff9155766238dc8af2deefc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696481,
+            "locality_id":9895093065,
+            "region_id":85675159
+        }
+    ],
+    "wof:id":9895093065,
+    "wof:lastmodified":1795747120,
+    "wof:name":"FELDA Chini",
+    "wof:parent_id":1108696481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.94343,
+    3.37457,
+    102.94343,
+    3.37457
+],
+  "geometry": {"coordinates":[102.94343,3.37457],"type":"Point"}
+}

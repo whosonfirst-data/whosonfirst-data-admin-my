@@ -1,0 +1,75 @@
+{
+  "id": 9895093049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.79844,3.0542,101.79844,3.0542",
+    "geom:latitude":3.0542,
+    "geom:longitude":101.79844,
+    "gn:population":100000,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13061022: name \"Bandar Mahkota Cheras\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13061022"
+        },
+        {
+            "citation":"GeoNames populated place 13061022: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13061022"
+        },
+        {
+            "citation":"GeoNames populated place 13061022: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13061022"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108696543 (Ulu Langat), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675163,
+        102191569,
+        1108696543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13061022
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"2a98d91eb8174c2a5a9a05032434b132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696543,
+            "locality_id":9895093049,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":9895093049,
+    "wof:lastmodified":1795747120,
+    "wof:name":"Bandar Mahkota Cheras",
+    "wof:parent_id":1108696543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.79844,
+    3.0542,
+    101.79844,
+    3.0542
+],
+  "geometry": {"coordinates":[101.79844,3.0542],"type":"Point"}
+}

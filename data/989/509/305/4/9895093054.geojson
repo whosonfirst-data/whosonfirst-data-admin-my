@@ -1,0 +1,75 @@
+{
+  "id": 9895093054,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.42081,3.01083,101.42081,3.01083",
+    "geom:latitude":3.01083,
+    "geom:longitude":101.42081,
+    "gn:population":53916,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118146: name \"Pandamaran\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118146"
+        },
+        {
+            "citation":"GeoNames populated place 13118146: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118146"
+        },
+        {
+            "citation":"GeoNames populated place 13118146: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118146"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108696415 (Klang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675163,
+        102191569,
+        1108696415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118146
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"7abc4dd02508bb74521f1169d5b8b525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696415,
+            "locality_id":9895093054,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":9895093054,
+    "wof:lastmodified":1795747120,
+    "wof:name":"Pandamaran",
+    "wof:parent_id":1108696415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.42081,
+    3.01083,
+    101.42081,
+    3.01083
+],
+  "geometry": {"coordinates":[101.42081,3.01083],"type":"Point"}
+}

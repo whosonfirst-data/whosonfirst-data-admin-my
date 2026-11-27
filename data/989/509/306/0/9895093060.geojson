@@ -1,0 +1,75 @@
+{
+  "id": 9895093060,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.71829,1.54631,103.71829,1.54631",
+    "geom:latitude":1.54631,
+    "geom:longitude":103.71829,
+    "gn:population":60279,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118228: name \"Setia Tropika\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118228"
+        },
+        {
+            "citation":"GeoNames populated place 13118228: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118228"
+        },
+        {
+            "citation":"GeoNames populated place 13118228: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118228"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108696403 (Johor Bahru), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675141,
+        102191569,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118228
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"dd96301aaa74ac3e372db14a716fb8f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":9895093060,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":9895093060,
+    "wof:lastmodified":1795747120,
+    "wof:name":"Setia Tropika",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.71829,
+    1.54631,
+    103.71829,
+    1.54631
+],
+  "geometry": {"coordinates":[103.71829,1.54631],"type":"Point"}
+}

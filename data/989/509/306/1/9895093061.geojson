@@ -1,0 +1,75 @@
+{
+  "id": 9895093061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.64554,1.45768,103.64554,1.45768",
+    "geom:latitude":1.45768,
+    "geom:longitude":103.64554,
+    "gn:population":18800,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118269: name \"Horizon Hills\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118269"
+        },
+        {
+            "citation":"GeoNames populated place 13118269: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118269"
+        },
+        {
+            "citation":"GeoNames populated place 13118269: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118269"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108696403 (Johor Bahru), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675141,
+        102191569,
+        1108696403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118269
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"743351d545c81fa6bc605bb0768cbb28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":9895093061,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":9895093061,
+    "wof:lastmodified":1795747120,
+    "wof:name":"Horizon Hills",
+    "wof:parent_id":1108696403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.64554,
+    1.45768,
+    103.64554,
+    1.45768
+],
+  "geometry": {"coordinates":[103.64554,1.45768],"type":"Point"}
+}

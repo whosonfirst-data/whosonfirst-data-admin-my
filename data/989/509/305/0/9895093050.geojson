@@ -1,0 +1,75 @@
+{
+  "id": 9895093050,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.55709,3.41558,101.55709,3.41558",
+    "geom:latitude":3.41558,
+    "geom:longitude":101.55709,
+    "gn:population":20023,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118055: name \"Bukit Beruntung\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118055"
+        },
+        {
+            "citation":"GeoNames populated place 13118055: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118055"
+        },
+        {
+            "citation":"GeoNames populated place 13118055: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118055"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890489129 (Ulu Selangor), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675163,
+        102191569,
+        890489129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118055
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"af2f93cf868dfffae5435bcd94462979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890489129,
+            "locality_id":9895093050,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":9895093050,
+    "wof:lastmodified":1795747120,
+    "wof:name":"Bukit Beruntung",
+    "wof:parent_id":890489129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.55709,
+    3.41558,
+    101.55709,
+    3.41558
+],
+  "geometry": {"coordinates":[101.55709,3.41558],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895093039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.02053,5.37293,103.02053,5.37293",
+    "geom:latitude":5.37293,
+    "geom:longitude":103.02053,
+    "gn:population":93485,
+    "iso:country":"MY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12534340: name \"Kuala Nerus\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12534340"
+        },
+        {
+            "citation":"GeoNames populated place 12534340: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12534340"
+        },
+        {
+            "citation":"GeoNames populated place 12534340: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12534340"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890490947 (Kuala Terengganu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632739,
+        85675169,
+        102191569,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12534340
+    },
+    "wof:country":"MY",
+    "wof:geomhash":"35845e3af9a915b5febdfd29dd00318d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":9895093039,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":9895093039,
+    "wof:lastmodified":1795747120,
+    "wof:name":"Kuala Nerus",
+    "wof:parent_id":890490947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.02053,
+    5.37293,
+    103.02053,
+    5.37293
+],
+  "geometry": {"coordinates":[103.02053,5.37293],"type":"Point"}
+}
